@@ -1,17 +1,6 @@
 # Citation Arbitrage
 
-Arbitrage academic citation impact to identify overlooked startup opportunities.
-
-**Core Insight**: The smartest grad students who did breakthrough research often join or start companies before the market realizes their impact. By tracking highly-cited papers (weighted by PageRank, not just citation count) and finding where those researchers are now, we can identify undervalued investment opportunities.
-
-## Overview
-
-This tool analyzes academic publications from OpenAlex to:
-1. Identify highly-cited research papers (2020-present)
-2. Find the key contributors (typically grad students/early-career researchers)
-3. Track their current positions
-4. Identify which are working at startups
-5. Generate investment research reports
+Research paper Validation and Analysis
 
 ## Installation
 
