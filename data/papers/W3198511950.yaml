@@ -1,0 +1,685 @@
+id: https://openalex.org/W3198511950
+doi: https://doi.org/10.1038/s41588-021-00911-1
+title: A single-cell and spatially resolved atlas of human breast cancers
+publication_date: '2021-09-01'
+publication_year: 2021
+cited_by_count: 1152
+citation_percentile: 0.999982
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5084643740
+  display_name: Sunny Z. Wu
+  orcid: https://orcid.org/0000-0002-6153-0449
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  - id: https://openalex.org/I4210153363
+    display_name: The Kinghorn Cancer Centre
+    ror: https://ror.org/04fw0fr46
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Kinghorn Cancer Centre and Cancer Research Theme, Garvan Institute of Medical
+    Research, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5081791257
+  display_name: "Ghamdan Al\u2010Eryani"
+  orcid: https://orcid.org/0000-0002-1137-1726
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153363
+    display_name: The Kinghorn Cancer Centre
+    ror: https://ror.org/04fw0fr46
+    country_code: AU
+    type: healthcare
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Kinghorn Cancer Centre and Cancer Research Theme, Garvan Institute of Medical
+    Research, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5032412663
+  display_name: Daniel Roden
+  orcid: https://orcid.org/0000-0003-2393-5805
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  - id: https://openalex.org/I4210153363
+    display_name: The Kinghorn Cancer Centre
+    ror: https://ror.org/04fw0fr46
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Kinghorn Cancer Centre and Cancer Research Theme, Garvan Institute of Medical
+    Research, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5076506035
+  display_name: Simon Junankar
+  orcid: https://orcid.org/0000-0002-3965-8278
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  - id: https://openalex.org/I4210153363
+    display_name: The Kinghorn Cancer Centre
+    ror: https://ror.org/04fw0fr46
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Kinghorn Cancer Centre and Cancer Research Theme, Garvan Institute of Medical
+    Research, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5026516999
+  display_name: Kate Harvey
+  orcid: https://orcid.org/0000-0002-2155-5203
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  - id: https://openalex.org/I4210153363
+    display_name: The Kinghorn Cancer Centre
+    ror: https://ror.org/04fw0fr46
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Kinghorn Cancer Centre and Cancer Research Theme, Garvan Institute of Medical
+    Research, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5038752373
+  display_name: Alma Andersson
+  orcid: https://orcid.org/0000-0002-4773-9975
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute
+    of Technology, Solna, Sweden
+- author_id: https://openalex.org/A5059336129
+  display_name: Aatish Thennavan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+    Hill, Chapel Hill, NC, USA
+- author_id: https://openalex.org/A5065580689
+  display_name: Chenfei Wang
+  orcid: https://orcid.org/0000-0001-7573-3768
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Data Science, Center for Functional Cancer Epigenetics, Dana-Farber
+    Cancer Institute, Harvard T.H. Chan School of Public Health, Boston, MA, USA
+- author_id: https://openalex.org/A5009241970
+  display_name: James Torpy
+  orcid: https://orcid.org/0000-0002-5392-1642
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210123488
+    display_name: St Vincent's Clinic
+    ror: https://ror.org/02rthxz10
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St Vincent's Clinical School, Faculty of Medicine, University of New South Wales,
+    Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5045627940
+  display_name: "Nenad Bartoni\u010Dek"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  - id: https://openalex.org/I4210153363
+    display_name: The Kinghorn Cancer Centre
+    ror: https://ror.org/04fw0fr46
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Kinghorn Cancer Centre and Cancer Research Theme, Garvan Institute of Medical
+    Research, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5057203358
+  display_name: Taopeng Wang
+  orcid: https://orcid.org/0000-0002-9184-609X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123488
+    display_name: St Vincent's Clinic
+    ror: https://ror.org/02rthxz10
+    country_code: AU
+    type: healthcare
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St Vincent's Clinical School, Faculty of Medicine, University of New South Wales,
+    Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5080731852
+  display_name: Ludvig Larsson
+  orcid: https://orcid.org/0000-0003-4209-2911
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute
+    of Technology, Solna, Sweden
+- author_id: https://openalex.org/A5059174687
+  display_name: Dominik C. Kaczorowski
+  orcid: https://orcid.org/0000-0002-9205-1934
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Garvan-Weizmann Centre for Cellular Genomics, Garvan Institute of Medical Research,
+    Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5110295315
+  display_name: Neil Weisenfeld
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5014285260
+  display_name: Cedric R. Uytingco
+  orcid: https://orcid.org/0000-0003-1625-3988
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5030557421
+  display_name: Jennifer Chew
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5059418837
+  display_name: Zachary Bent
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5070423594
+  display_name: "Chia\u2010Ling Chan"
+  orcid: https://orcid.org/0000-0003-2079-9262
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Garvan-Weizmann Centre for Cellular Genomics, Garvan Institute of Medical Research,
+    Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5014337967
+  display_name: Vikkitharan Gnanasambandapillai
+  orcid: https://orcid.org/0000-0003-0306-1952
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Garvan-Weizmann Centre for Cellular Genomics, Garvan Institute of Medical Research,
+    Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5027444394
+  display_name: "Charles\u2010Antoine Dutertre"
+  orcid: https://orcid.org/0000-0001-7950-3652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801843802
+    display_name: Institut Gustave Roussy
+    ror: https://ror.org/0321g0743
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Gustave Roussy Cancer Campus, Villejuif, France
+- author_id: https://openalex.org/A5009012164
+  display_name: Laurence Gluch
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Strathfield Breast Centre, Strathfield, New South Wales, Australia
+- author_id: https://openalex.org/A5023178373
+  display_name: Mun N. Hui
+  orcid: https://orcid.org/0000-0003-3238-0119
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  - id: https://openalex.org/I4210153363
+    display_name: The Kinghorn Cancer Centre
+    ror: https://ror.org/04fw0fr46
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Kinghorn Cancer Centre and Cancer Research Theme, Garvan Institute of Medical
+    Research, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5074399710
+  display_name: Jane Beith
+  orcid: https://orcid.org/0000-0002-4946-2789
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093547
+    display_name: "Chris O\u2019Brien Lifehouse"
+    ror: https://ror.org/00qeks103
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chris O'Brien Lifehouse, Camperdown, New South Wales, Australia
+- author_id: https://openalex.org/A5025147086
+  display_name: Andrew Parker
+  orcid: https://orcid.org/0000-0001-8187-1278
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123488
+    display_name: St Vincent's Clinic
+    ror: https://ror.org/02rthxz10
+    country_code: AU
+    type: healthcare
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St Vincent's Clinical School, Faculty of Medicine, University of New South Wales,
+    Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5113488210
+  display_name: Elizabeth Robbins
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799732068
+    display_name: Royal Prince Alfred Hospital
+    ror: https://ror.org/05gpvde20
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Tissue Pathology and Diagnostic Pathology, New South Wales Health
+    Pathology, Royal Prince Alfred Hospital, Camperdown, New South Wales, Australia
+- author_id: https://openalex.org/A5026271796
+  display_name: Davendra Segara
+  orcid: https://orcid.org/0000-0002-1250-9029
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087284
+    display_name: St Vincent's Hospital Sydney
+    ror: https://ror.org/000ed3w25
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St Vincent's Hospital, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5003427020
+  display_name: Caroline Cooper
+  orcid: https://orcid.org/0000-0002-3630-0019
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801814493
+    display_name: Princess Alexandra Hospital
+    ror: https://ror.org/04mqb0968
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathology Queensland, Princess Alexandra Hospital, Brisbane, Queensland, Australia
+- author_id: https://openalex.org/A5016782136
+  display_name: Cindy Mak
+  orcid: https://orcid.org/0000-0001-5812-8371
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093547
+    display_name: "Chris O\u2019Brien Lifehouse"
+    ror: https://ror.org/00qeks103
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Breast Surgery, Chris O'Brien Lifehouse, Camperdown, New South Wales,
+    Australia
+- author_id: https://openalex.org/A5104237664
+  display_name: Belinda Chan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093547
+    display_name: "Chris O\u2019Brien Lifehouse"
+    ror: https://ror.org/00qeks103
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Breast Surgery, Chris O'Brien Lifehouse, Camperdown, New South Wales,
+    Australia
+- author_id: https://openalex.org/A5103835027
+  display_name: Sanjay Warrier
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093547
+    display_name: "Chris O\u2019Brien Lifehouse"
+    ror: https://ror.org/00qeks103
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Breast Surgery, Chris O'Brien Lifehouse, Camperdown, New South Wales,
+    Australia
+- author_id: https://openalex.org/A5045293467
+  display_name: Florent Ginhoux
+  orcid: https://orcid.org/0000-0002-2857-7755
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800824516
+    display_name: Singapore Immunology Network
+    ror: https://ror.org/03vmmgg57
+    country_code: SG
+    type: facility
+  - id: https://openalex.org/I115228651
+    display_name: Agency for Science, Technology and Research
+    ror: https://ror.org/036wvzt09
+    country_code: SG
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Singapore Immunology Network (SIgN), Agency for Science, Technology and Research
+    (A*STAR), Singapore, Singapore
+- author_id: https://openalex.org/A5074720807
+  display_name: Ewan K.A. Millar
+  orcid: https://orcid.org/0000-0002-9778-3253
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123059
+    display_name: St George Hospital
+    ror: https://ror.org/02pk13h45
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - New South Wales Health Pathology, Department of Anatomical Pathology, St George
+    Hospital, Kogarah, New South Wales, Australia
+- author_id: https://openalex.org/A5063458641
+  display_name: Joseph E. Powell
+  orcid: https://orcid.org/0000-0002-5070-4124
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136750679
+    display_name: Garvan Institute of Medical Research
+    ror: https://ror.org/01b3dvp57
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Garvan-Weizmann Centre for Cellular Genomics, Garvan Institute of Medical Research,
+    Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5034310814
+  display_name: Stephen R. Williams
+  orcid: https://orcid.org/0000-0003-2108-2757
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5045575546
+  display_name: X. Shirley Liu
+  orcid: https://orcid.org/0000-0003-4736-7339
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Data Science, Center for Functional Cancer Epigenetics, Dana-Farber
+    Cancer Institute, Harvard T.H. Chan School of Public Health, Boston, MA, USA
+- author_id: https://openalex.org/A5049385816
+  display_name: "Sandra O\u2019Toole"
+  orcid: https://orcid.org/0000-0001-9912-0245
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799732068
+    display_name: Royal Prince Alfred Hospital
+    ror: https://ror.org/05gpvde20
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Tissue Pathology and Diagnostic Pathology, New South Wales Health
+    Pathology, Royal Prince Alfred Hospital, Camperdown, New South Wales, Australia
+- author_id: https://openalex.org/A5088828593
+  display_name: Elgene Lim
+  orcid: https://orcid.org/0000-0001-8065-8838
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087284
+    display_name: St Vincent's Hospital Sydney
+    ror: https://ror.org/000ed3w25
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St Vincent's Hospital, Darlinghurst, New South Wales, Australia
+- author_id: https://openalex.org/A5054656710
+  display_name: Joakim Lundeberg
+  orcid: https://orcid.org/0000-0003-4313-1601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Gene Technology, KTH Royal Institute
+    of Technology, Solna, Sweden
+- author_id: https://openalex.org/A5062498736
+  display_name: Charles M. Perou
+  orcid: https://orcid.org/0000-0001-9827-2247
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+    Hill, Chapel Hill, NC, USA
+- author_id: https://openalex.org/A5038076681
+  display_name: Alexander Swarbrick
+  orcid: https://orcid.org/0000-0002-3051-5676
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210123488
+    display_name: St Vincent's Clinic
+    ror: https://ror.org/02rthxz10
+    country_code: AU
+    type: healthcare
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St Vincent's Clinical School, Faculty of Medicine, University of New South Wales,
+    Sydney, New South Wales, Australia
+referenced_works:
+- https://openalex.org/W1016059894
+- https://openalex.org/W1507472776
+- https://openalex.org/W1575688729
+- https://openalex.org/W1963151402
+- https://openalex.org/W1993523135
+- https://openalex.org/W1995483790
+- https://openalex.org/W2000272838
+- https://openalex.org/W2005895632
+- https://openalex.org/W2019387288
+- https://openalex.org/W2035618305
+- https://openalex.org/W2044702943
+- https://openalex.org/W2045682459
+- https://openalex.org/W2051319925
+- https://openalex.org/W2096252516
+- https://openalex.org/W2096283457
+- https://openalex.org/W2097255042
+- https://openalex.org/W2102707911
+- https://openalex.org/W2106292881
+- https://openalex.org/W2128217787
+- https://openalex.org/W2131994307
+- https://openalex.org/W2132619562
+- https://openalex.org/W2137162822
+- https://openalex.org/W2157840751
+- https://openalex.org/W2161109798
+- https://openalex.org/W2190545194
+- https://openalex.org/W2208649777
+- https://openalex.org/W2259802687
+- https://openalex.org/W2332292689
+- https://openalex.org/W2338065732
+- https://openalex.org/W2397491329
+- https://openalex.org/W2467073697
+- https://openalex.org/W2472216122
+- https://openalex.org/W2590390825
+- https://openalex.org/W2592811885
+- https://openalex.org/W2614625323
+- https://openalex.org/W2616922646
+- https://openalex.org/W2617216694
+- https://openalex.org/W2739492614
+- https://openalex.org/W2747877289
+- https://openalex.org/W2771542157
+- https://openalex.org/W2785291766
+- https://openalex.org/W2786031287
+- https://openalex.org/W2790543400
+- https://openalex.org/W2800852522
+- https://openalex.org/W2809205318
+- https://openalex.org/W2810097927
+- https://openalex.org/W2865352686
+- https://openalex.org/W2891131714
+- https://openalex.org/W2897596946
+- https://openalex.org/W2898435366
+- https://openalex.org/W2907549567
+- https://openalex.org/W2931512726
+- https://openalex.org/W2939093246
+- https://openalex.org/W2940256315
+- https://openalex.org/W2941797211
+- https://openalex.org/W2942610007
+- https://openalex.org/W2949017090
+- https://openalex.org/W2949177718
+- https://openalex.org/W2949633340
+- https://openalex.org/W2951222857
+- https://openalex.org/W2952001873
+- https://openalex.org/W2953866345
+- https://openalex.org/W2955261360
+- https://openalex.org/W2961217357
+- https://openalex.org/W2970751796
+- https://openalex.org/W2971398276
+- https://openalex.org/W2982638381
+- https://openalex.org/W2986345436
+- https://openalex.org/W3003058300
+- https://openalex.org/W3005698181
+- https://openalex.org/W3007935255
+- https://openalex.org/W3023126733
+- https://openalex.org/W3041114030
+- https://openalex.org/W3048665145
+- https://openalex.org/W3048711673
+- https://openalex.org/W3048888372
+- https://openalex.org/W3092450854
+- https://openalex.org/W3092452680
+- https://openalex.org/W3163788854
+primary_topic: Single-cell and spatial transcriptomics
+open_access: true

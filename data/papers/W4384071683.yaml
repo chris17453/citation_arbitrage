@@ -1,0 +1,511 @@
+id: https://openalex.org/W4384071683
+doi: https://doi.org/10.1038/s41586-023-06291-2
+title: Large language models encode clinical knowledge
+publication_date: '2023-07-12'
+publication_year: 2023
+cited_by_count: 1878
+citation_percentile: 0.999977
+pagerank: 2.6561137667424574e-06
+authorships:
+- author_id: https://openalex.org/A5027454515
+  display_name: Karan Singhal
+  orcid: https://orcid.org/0000-0001-9002-7490
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5047463591
+  display_name: Shekoofeh Azizi
+  orcid: https://orcid.org/0000-0002-7447-6031
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5059213795
+  display_name: Tao Tu
+  orcid: https://orcid.org/0000-0003-3420-7889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5063201022
+  display_name: S. Sara Mahdavi
+  orcid: https://orcid.org/0000-0001-6823-598X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5100657725
+  display_name: Jason Lee
+  orcid: https://orcid.org/0000-0003-4042-795X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5051828575
+  display_name: Hyung Won Chung
+  orcid: https://orcid.org/0000-0002-1280-9953
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5030765685
+  display_name: Nathan Scales
+  orcid: https://orcid.org/0000-0002-9535-7138
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5088063475
+  display_name: Ajay Kumar Tanwani
+  orcid: https://orcid.org/0000-0002-6365-8315
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5069557194
+  display_name: Heather Cole-Lewis
+  orcid: https://orcid.org/0000-0002-7275-1810
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5021812637
+  display_name: Stephen Pfohl
+  orcid: https://orcid.org/0000-0003-0551-9664
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5014637990
+  display_name: Perry W. Payne
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5058677067
+  display_name: Martin Seneviratne
+  orcid: https://orcid.org/0000-0003-0435-3738
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5090718376
+  display_name: Paul Gamble
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5026540467
+  display_name: Christopher Kelly
+  orcid: https://orcid.org/0000-0002-1246-844X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5066029226
+  display_name: Abubakr Babiker
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5007588003
+  display_name: "Nathanael Sch\xE4rli"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5055969617
+  display_name: Aakanksha Chowdhery
+  orcid: https://orcid.org/0000-0002-0628-5225
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5086361722
+  display_name: P. Mansfield
+  orcid: https://orcid.org/0000-0003-4969-0543
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5046764593
+  display_name: "Dina Demner\u2010Fushman"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800548410
+    display_name: United States National Library of Medicine
+    ror: https://ror.org/0060t0j89
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Library of Medicine, Bethesda, MD, USA
+- author_id: https://openalex.org/A5044698998
+  display_name: "Blaise Ag\xFCera y Arcas"
+  orcid: https://orcid.org/0000-0003-2256-9823
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5060000122
+  display_name: Dale R. Webster
+  orcid: https://orcid.org/0000-0002-3023-8824
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5068955381
+  display_name: Greg S. Corrado
+  orcid: https://orcid.org/0000-0001-8817-0992
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5065128060
+  display_name: Yossi Matias
+  orcid: https://orcid.org/0000-0003-3960-6002
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5070366042
+  display_name: Katherine Chou
+  orcid: https://orcid.org/0000-0002-0318-7857
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5057932939
+  display_name: Juraj Gottweis
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5057195145
+  display_name: "Nenad Toma\u0161ev"
+  orcid: https://orcid.org/0000-0003-1624-0220
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5078784976
+  display_name: Yun Liu
+  orcid: https://orcid.org/0000-0003-4079-8275
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5022388476
+  display_name: Alvin Rajkomar
+  orcid: https://orcid.org/0000-0001-5750-5016
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5043862316
+  display_name: "Jo\xEBlle Barral"
+  orcid: https://orcid.org/0009-0009-0432-5148
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5010171106
+  display_name: Christopher Semturs
+  orcid: https://orcid.org/0000-0001-6108-2773
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5003509342
+  display_name: Alan Karthikesalingam
+  orcid: https://orcid.org/0000-0001-5074-898X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+- author_id: https://openalex.org/A5103234563
+  display_name: Vivek Natarajan
+  orcid: https://orcid.org/0000-0001-7849-2074
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Mountain View, CA, USA
+referenced_works:
+- https://openalex.org/W1981208470
+- https://openalex.org/W2042492924
+- https://openalex.org/W2086519542
+- https://openalex.org/W2101105183
+- https://openalex.org/W2101950949
+- https://openalex.org/W2558323601
+- https://openalex.org/W2593981654
+- https://openalex.org/W2801702920
+- https://openalex.org/W2911489562
+- https://openalex.org/W2953235477
+- https://openalex.org/W2962833164
+- https://openalex.org/W2972522091
+- https://openalex.org/W3001279689
+- https://openalex.org/W3001807593
+- https://openalex.org/W3011762034
+- https://openalex.org/W3023998086
+- https://openalex.org/W3035885149
+- https://openalex.org/W3045462440
+- https://openalex.org/W3083410900
+- https://openalex.org/W3087893815
+- https://openalex.org/W3093097038
+- https://openalex.org/W3100279624
+- https://openalex.org/W3100452049
+- https://openalex.org/W3119438769
+- https://openalex.org/W3120894151
+- https://openalex.org/W3154300329
+- https://openalex.org/W3159623667
+- https://openalex.org/W3159743235
+- https://openalex.org/W3162922479
+- https://openalex.org/W3164718925
+- https://openalex.org/W3186425279
+- https://openalex.org/W3195577433
+- https://openalex.org/W3212368439
+- https://openalex.org/W3213752583
+- https://openalex.org/W4205865577
+- https://openalex.org/W4213405705
+- https://openalex.org/W4221143046
+- https://openalex.org/W4221150521
+- https://openalex.org/W4221160814
+- https://openalex.org/W4221161695
+- https://openalex.org/W4223506650
+- https://openalex.org/W4224308101
+- https://openalex.org/W4225591000
+- https://openalex.org/W4226024653
+- https://openalex.org/W4226146865
+- https://openalex.org/W4226278401
+- https://openalex.org/W4226399820
+- https://openalex.org/W4226467610
+- https://openalex.org/W4229005866
+- https://openalex.org/W4229079966
+- https://openalex.org/W4281482733
+- https://openalex.org/W4281483047
+- https://openalex.org/W4281557260
+- https://openalex.org/W4281644150
+- https://openalex.org/W4281690148
+- https://openalex.org/W4281748205
+- https://openalex.org/W4283026156
+- https://openalex.org/W4283768109
+- https://openalex.org/W4285429195
+- https://openalex.org/W4285787204
+- https://openalex.org/W4286233477
+- https://openalex.org/W4286892945
+- https://openalex.org/W4286981949
+- https://openalex.org/W4286987939
+- https://openalex.org/W4287208373
+- https://openalex.org/W4287817164
+- https://openalex.org/W4288094024
+- https://openalex.org/W4288407534
+- https://openalex.org/W4297253404
+- https://openalex.org/W4297795751
+- https://openalex.org/W4297801719
+- https://openalex.org/W4301912686
+- https://openalex.org/W4303648858
+- https://openalex.org/W4304701382
+- https://openalex.org/W4307003748
+- https://openalex.org/W4307079201
+- https://openalex.org/W4309811444
+- https://openalex.org/W4310625358
+- https://openalex.org/W4311642023
+- https://openalex.org/W4320003957
+- https://openalex.org/W4320005767
+- https://openalex.org/W4385468994
+- https://openalex.org/W4392359953
+primary_topic: Topic Modeling
+open_access: true

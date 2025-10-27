@@ -1,0 +1,776 @@
+id: https://openalex.org/W3013002235
+doi: https://doi.org/10.1063/1.5143190
+title: DFTB+, a software package for efficient approximate density functional theory
+  based atomistic simulations
+publication_date: '2020-03-23'
+publication_year: 2020
+cited_by_count: 947
+citation_percentile: 0.999905
+pagerank: 2.5470180450451876e-06
+authorships:
+- author_id: https://openalex.org/A5052344672
+  display_name: B. Hourahine
+  orcid: https://orcid.org/0000-0002-7667-7101
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I181647926
+    display_name: University of Strathclyde
+    ror: https://ror.org/00n3w3b69
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SUPA, Department of Physics, The University of Strathclyde 1 , Glasgow G4 0NG,
+    United Kingdom
+- author_id: https://openalex.org/A5079459462
+  display_name: "B\xE1lint Aradi"
+  orcid: https://orcid.org/0000-0001-7182-841X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180437899
+    display_name: University of Bremen
+    ror: https://ror.org/04ers2y35
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bremen Center for Computational Materials Science, University of Bremen 2 , Bremen,
+    Germany
+- author_id: https://openalex.org/A5050792689
+  display_name: "Volker Bl\xFCm"
+  orcid: https://orcid.org/0000-0001-8660-7230
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170897317
+    display_name: Duke University
+    ror: https://ror.org/00py81415
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mechanical Engineering and Materials Science, Duke University 3
+    , Durham, North Carolina 27708, USA
+- author_id: https://openalex.org/A5079894620
+  display_name: "Franco P. Bonaf\xE9"
+  orcid: https://orcid.org/0000-0002-2069-6776
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149784
+    display_name: Max Planck Institute for the Structure and Dynamics of Matter
+    ror: https://ror.org/0411b0f77
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute for the Structure and Dynamics of Matter 4 , Hamburg, Germany
+- author_id: https://openalex.org/A5012487499
+  display_name: Alexander Buccheri
+  orcid: https://orcid.org/0000-0001-5983-8631
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "School of Chemistry, University of Bristol 5 , Cantock\u2019s Close, Bristol\
+    \ BS8 1TS, United Kingdom"
+- author_id: https://openalex.org/A5053258569
+  display_name: Cristopher Camacho
+  orcid: https://orcid.org/0000-0002-5667-9505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31944674
+    display_name: Universidad de Costa Rica
+    ror: https://ror.org/02yzgww51
+    country_code: CR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "School of Chemistry, University of Costa Rica 6 , San Jos\xE9 11501-2060, Costa\
+    \ Rica"
+- author_id: https://openalex.org/A5042609877
+  display_name: Caterina Cevallos
+  orcid: https://orcid.org/0000-0002-6708-091X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31944674
+    display_name: Universidad de Costa Rica
+    ror: https://ror.org/02yzgww51
+    country_code: CR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "School of Chemistry, University of Costa Rica 6 , San Jos\xE9 11501-2060, Costa\
+    \ Rica"
+- author_id: https://openalex.org/A5021306389
+  display_name: Megan Y. Deshaye
+  orcid: https://orcid.org/0000-0001-7835-9134
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52669646
+    display_name: Western Washington University
+    ror: https://ror.org/05wn7r715
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Advanced Materials Science and Engineering Center,
+    Western Washington University 7 , Bellingham, Washington 98225, USA
+- author_id: https://openalex.org/A5003377020
+  display_name: "Traian Dumitric\u0103"
+  orcid: https://orcid.org/0000-0001-6320-1625
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mechanical Engineering, University of Minnesota 8 , Minneapolis,
+    Minnesota 55455, USA
+- author_id: https://openalex.org/A5101631878
+  display_name: "Adriel Dom\xEDnguez"
+  orcid: https://orcid.org/0000-0002-8077-6452
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180437899
+    display_name: University of Bremen
+    ror: https://ror.org/04ers2y35
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210139958
+    display_name: Beijing Computational Science Research Center
+    ror: https://ror.org/04tavf782
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bremen Center for Computational Materials Science, University of Bremen 2 , Bremen,
+    Germany
+  - Computational Science Research Center (CSRC) Beijing and Computational Science
+    Applied Research (CSAR) Institute Shenzhen 9 , Shenzhen, China
+  - University of Bremen
+- author_id: https://openalex.org/A5004260600
+  display_name: Sebastian Ehlert
+  orcid: https://orcid.org/0000-0001-7809-771X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I135140700
+    display_name: University of Bonn
+    ror: https://ror.org/041nas322
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Bonn 10 , Bonn, Germany
+- author_id: https://openalex.org/A5026196545
+  display_name: Marcus Elstner
+  orcid: https://orcid.org/0000-0002-3255-306X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102335020
+    display_name: Karlsruhe Institute of Technology
+    ror: https://ror.org/04t3en479
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Physical Chemistry, Karlsruhe Institute of Technology 11 , Karlsruhe,
+    Germany
+- author_id: https://openalex.org/A5043140237
+  display_name: Tammo van der Heide
+  orcid: https://orcid.org/0000-0002-0304-192X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180437899
+    display_name: University of Bremen
+    ror: https://ror.org/04ers2y35
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bremen Center for Computational Materials Science, University of Bremen 2 , Bremen,
+    Germany
+- author_id: https://openalex.org/A5046513205
+  display_name: Jan Hermann
+  orcid: https://orcid.org/0000-0002-2779-0749
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Freie Universit\xE4t Berlin 12 , Berlin, Germany"
+- author_id: https://openalex.org/A5013124740
+  display_name: Stephan Irle
+  orcid: https://orcid.org/0000-0003-4995-4991
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1289243028
+    display_name: Oak Ridge National Laboratory
+    ror: https://ror.org/01qz5mb56
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Sciences and Engineering Division, Oak Ridge National Laboratory
+    13 , Oak Ridge, Tennessee 37831, USA
+- author_id: https://openalex.org/A5103157658
+  display_name: Julian Kranz
+  orcid: https://orcid.org/0000-0001-5068-2829
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102335020
+    display_name: Karlsruhe Institute of Technology
+    ror: https://ror.org/04t3en479
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Physical Chemistry, Karlsruhe Institute of Technology 11 , Karlsruhe,
+    Germany
+- author_id: https://openalex.org/A5109236456
+  display_name: "Christof K\xF6hler"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180437899
+    display_name: University of Bremen
+    ror: https://ror.org/04ers2y35
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bremen Center for Computational Materials Science, University of Bremen 2 , Bremen,
+    Germany
+- author_id: https://openalex.org/A5029240421
+  display_name: Tim Kowalczyk
+  orcid: https://orcid.org/0000-0003-1806-059X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52669646
+    display_name: Western Washington University
+    ror: https://ror.org/05wn7r715
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Advanced Materials Science and Engineering Center,
+    Western Washington University 7 , Bellingham, Washington 98225, USA
+- author_id: https://openalex.org/A5025171662
+  display_name: "Tom\xE1\u0161 Kuba\u0159"
+  orcid: https://orcid.org/0000-0002-2419-6912
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102335020
+    display_name: Karlsruhe Institute of Technology
+    ror: https://ror.org/04t3en479
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Physical Chemistry, Karlsruhe Institute of Technology 11 , Karlsruhe,
+    Germany
+- author_id: https://openalex.org/A5035496166
+  display_name: I. S. Lee
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I48566637
+    display_name: Ulsan National Institute of Science and Technology
+    ror: https://ror.org/017cjz748
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Ulsan National Institute of Science and Technology 14
+    , Ulsan, South Korea
+- author_id: https://openalex.org/A5010614827
+  display_name: V. Lutsker
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I60668342
+    display_name: University of Regensburg
+    ror: https://ror.org/01eezs655
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut I \u2013 Theoretische Physik, University of Regensburg 15 , Regensburg,\
+    \ Germany"
+- author_id: https://openalex.org/A5016855366
+  display_name: Reinhard J. Maurer
+  orcid: https://orcid.org/0000-0002-3004-785X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39555362
+    display_name: University of Warwick
+    ror: https://ror.org/01a77tt86
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Warwick 16 , Gibbet Hill Road, Coventry
+    CV4 7AL, United Kingdom
+- author_id: https://openalex.org/A5050686436
+  display_name: Seung Kyu Min
+  orcid: https://orcid.org/0000-0001-5636-3407
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I48566637
+    display_name: Ulsan National Institute of Science and Technology
+    ror: https://ror.org/017cjz748
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Ulsan National Institute of Science and Technology 14
+    , Ulsan, South Korea
+- author_id: https://openalex.org/A5077166423
+  display_name: Izaac Mitchell
+  orcid: https://orcid.org/0000-0002-2493-7127
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104335
+    display_name: Institute for Basic Science
+    ror: https://ror.org/00y0zf565
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Multidimensional Carbon Materials, Institute for Basic Science (IBS)
+    17 , Ulsan 44919, South Korea
+- author_id: https://openalex.org/A5082049238
+  display_name: Christian F. A. Negre
+  orcid: https://orcid.org/0000-0001-5720-0255
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343871089
+    display_name: Los Alamos National Laboratory
+    ror: https://ror.org/01e41cf67
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Theoretical Division, Los Alamos National Laboratory 18 , Los Alamos, New Mexico
+    87545, USA
+- author_id: https://openalex.org/A5005189523
+  display_name: Thomas A. Niehaus
+  orcid: https://orcid.org/0000-0001-9576-7658
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133140
+    display_name: "Institut Lumi\xE8re Mati\xE8re"
+    ror: https://ror.org/0323bey33
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I100532134
+    display_name: "Universit\xE9 Claude Bernard Lyon 1"
+    ror: https://ror.org/029brtt94
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Lyon, Universit\xE9 Claude Bernard Lyon 1, CNRS, Institut Lumi\xE8\
+    re Mati\xE8re 19 , F-69622 Villeurbanne, France"
+- author_id: https://openalex.org/A5081056746
+  display_name: Anders M. N. Niklasson
+  orcid: https://orcid.org/0000-0003-1856-4982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343871089
+    display_name: Los Alamos National Laboratory
+    ror: https://ror.org/01e41cf67
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Theoretical Division, Los Alamos National Laboratory 18 , Los Alamos, New Mexico
+    87545, USA
+- author_id: https://openalex.org/A5017249076
+  display_name: Alister J. Page
+  orcid: https://orcid.org/0000-0002-8444-2775
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78757542
+    display_name: University of Newcastle Australia
+    ror: https://ror.org/00eae9z71
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Environmental and Life Sciences, University of Newcastle 20 , Callaghan,
+    Australia
+- author_id: https://openalex.org/A5101526289
+  display_name: Alessandro Pecchia
+  orcid: https://orcid.org/0000-0001-8093-8610
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114374
+    display_name: Institute of Structure of Matter
+    ror: https://ror.org/01zz9wh30
+    country_code: IT
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CNR-ISMN 21 , Via Salaria km 29.300, 00015 Monterotondo Stazione, Rome, Italy
+- author_id: https://openalex.org/A5073030846
+  display_name: Gabriele Penazzi
+  orcid: https://orcid.org/0000-0001-6116-156X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180437899
+    display_name: University of Bremen
+    ror: https://ror.org/04ers2y35
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bremen Center for Computational Materials Science, University of Bremen 2 , Bremen,
+    Germany
+- author_id: https://openalex.org/A5016436151
+  display_name: Martin Persson
+  orcid: https://orcid.org/0000-0002-5078-4232
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139317
+    display_name: "Dassault Syst\xE8mes (United Kingdom)"
+    ror: https://ror.org/03akq4247
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Dassault Systemes 22 , Cambridge, United Kingdom
+- author_id: https://openalex.org/A5077419236
+  display_name: "Jan \u0158ez\xE1\u010D"
+  orcid: https://orcid.org/0000-0001-6849-7314
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210145889
+    display_name: Czech Academy of Sciences, Institute of Organic Chemistry and Biochemistry
+    ror: https://ror.org/04nfjn472
+    country_code: CZ
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Organic Chemistry and Biochemistry AS CR 23 , Prague, Czech Republic
+- author_id: https://openalex.org/A5072054607
+  display_name: "Cristi\xE1n G. S\xE1nchez"
+  orcid: https://orcid.org/0000-0001-7616-1802
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088229
+    display_name: "Instituto Interdisciplinario de Ciencias B\xE1sicas"
+    ror: https://ror.org/00568z619
+    country_code: AR
+    type: facility
+  - id: https://openalex.org/I151201029
+    display_name: "Consejo Nacional de Investigaciones Cient\xEDficas y T\xE9cnicas"
+    ror: https://ror.org/03cqe8w59
+    country_code: AR
+    type: government
+  - id: https://openalex.org/I15881080
+    display_name: Universidad Nacional de Cuyo
+    ror: https://ror.org/05sn8wf81
+    country_code: AR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto Interdisciplinario de Ciencias B\xE1sicas, Universidad Nacional de\
+    \ Cuyo, CONICET, Facultad de Ciencias Exactas y Naturales 24 , Mendoza, Argentina"
+- author_id: https://openalex.org/A5014506032
+  display_name: Michael Sternberg
+  orcid: https://orcid.org/0000-0002-1301-4327
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1282105669
+    display_name: Argonne National Laboratory
+    ror: https://ror.org/05gvnxz63
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Argonne National Laboratory 25 , Lemont, Illinois 60439, USA
+- author_id: https://openalex.org/A5109453955
+  display_name: "Martin St\xF6hr"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186903577
+    display_name: University of Luxembourg
+    ror: https://ror.org/036x5ad56
+    country_code: LU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Materials Science, University of Luxembourg 26 , L-1511
+    Luxembourg City, Luxembourg
+- author_id: https://openalex.org/A5104707340
+  display_name: F. Stuckenberg
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180437899
+    display_name: University of Bremen
+    ror: https://ror.org/04ers2y35
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bremen Center for Computational Materials Science, University of Bremen 2 , Bremen,
+    Germany
+- author_id: https://openalex.org/A5110673628
+  display_name: A. Tkatchenko
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186903577
+    display_name: University of Luxembourg
+    ror: https://ror.org/036x5ad56
+    country_code: LU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Materials Science, University of Luxembourg 26 , L-1511
+    Luxembourg City, Luxembourg
+- author_id: https://openalex.org/A5110673629
+  display_name: V. W.-z. Yu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170897317
+    display_name: Duke University
+    ror: https://ror.org/00py81415
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mechanical Engineering and Materials Science, Duke University 3
+    , Durham, North Carolina 27708, USA
+- author_id: https://openalex.org/A5033437756
+  display_name: Thomas Frauenheim
+  orcid: https://orcid.org/0000-0002-3073-0616
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I180437899
+    display_name: University of Bremen
+    ror: https://ror.org/04ers2y35
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210139958
+    display_name: Beijing Computational Science Research Center
+    ror: https://ror.org/04tavf782
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bremen Center for Computational Materials Science, University of Bremen 2 , Bremen,
+    Germany
+  - Computational Science Research Center (CSRC) Beijing and Computational Science
+    Applied Research (CSAR) Institute Shenzhen 9 , Shenzhen, China
+  - University of Bremen
+referenced_works:
+- https://openalex.org/W1031578623
+- https://openalex.org/W1614703652
+- https://openalex.org/W1965752441
+- https://openalex.org/W1966101332
+- https://openalex.org/W1966750682
+- https://openalex.org/W1966978352
+- https://openalex.org/W1967265628
+- https://openalex.org/W1967411343
+- https://openalex.org/W1968166922
+- https://openalex.org/W1971044734
+- https://openalex.org/W1971671866
+- https://openalex.org/W1971976138
+- https://openalex.org/W1973746288
+- https://openalex.org/W1974708693
+- https://openalex.org/W1974905452
+- https://openalex.org/W1976541590
+- https://openalex.org/W1977700257
+- https://openalex.org/W1979838601
+- https://openalex.org/W1980197072
+- https://openalex.org/W1981146351
+- https://openalex.org/W1983313205
+- https://openalex.org/W1983639733
+- https://openalex.org/W1985287932
+- https://openalex.org/W1985583109
+- https://openalex.org/W1986002339
+- https://openalex.org/W1986731219
+- https://openalex.org/W1993177346
+- https://openalex.org/W1997231673
+- https://openalex.org/W2004010027
+- https://openalex.org/W2006971455
+- https://openalex.org/W2009213930
+- https://openalex.org/W2009292888
+- https://openalex.org/W2011655084
+- https://openalex.org/W2013409260
+- https://openalex.org/W2013592798
+- https://openalex.org/W2015229902
+- https://openalex.org/W2015875965
+- https://openalex.org/W2018120102
+- https://openalex.org/W2018294038
+- https://openalex.org/W2020072134
+- https://openalex.org/W2020618681
+- https://openalex.org/W2021280109
+- https://openalex.org/W2022017520
+- https://openalex.org/W2022696619
+- https://openalex.org/W2025179936
+- https://openalex.org/W2025870448
+- https://openalex.org/W2027353946
+- https://openalex.org/W2028017987
+- https://openalex.org/W2028549455
+- https://openalex.org/W2030976617
+- https://openalex.org/W2037736786
+- https://openalex.org/W2038401345
+- https://openalex.org/W2040464566
+- https://openalex.org/W2043555321
+- https://openalex.org/W2046042488
+- https://openalex.org/W2048946954
+- https://openalex.org/W2055529982
+- https://openalex.org/W2059885388
+- https://openalex.org/W2060410316
+- https://openalex.org/W2061311518
+- https://openalex.org/W2063663126
+- https://openalex.org/W2066951434
+- https://openalex.org/W2067174909
+- https://openalex.org/W2070045737
+- https://openalex.org/W2071312077
+- https://openalex.org/W2071955309
+- https://openalex.org/W2073628152
+- https://openalex.org/W2073773252
+- https://openalex.org/W2074142368
+- https://openalex.org/W2075966481
+- https://openalex.org/W2078523807
+- https://openalex.org/W2079927059
+- https://openalex.org/W2080906881
+- https://openalex.org/W2080977283
+- https://openalex.org/W2083154122
+- https://openalex.org/W2084455186
+- https://openalex.org/W2086458318
+- https://openalex.org/W2089397721
+- https://openalex.org/W2089445180
+- https://openalex.org/W2091130390
+- https://openalex.org/W2092077040
+- https://openalex.org/W2092157292
+- https://openalex.org/W2092800095
+- https://openalex.org/W2093614915
+- https://openalex.org/W2094551995
+- https://openalex.org/W2095374362
+- https://openalex.org/W2095695247
+- https://openalex.org/W2096747776
+- https://openalex.org/W2098658310
+- https://openalex.org/W2099273703
+- https://openalex.org/W2100133767
+- https://openalex.org/W2117739468
+- https://openalex.org/W2126076178
+- https://openalex.org/W2139531945
+- https://openalex.org/W2140987523
+- https://openalex.org/W2144843195
+- https://openalex.org/W2146411229
+- https://openalex.org/W2148678374
+- https://openalex.org/W2149445229
+- https://openalex.org/W2149655632
+- https://openalex.org/W2155642703
+- https://openalex.org/W2162322364
+- https://openalex.org/W2163681071
+- https://openalex.org/W2165358937
+- https://openalex.org/W2167697306
+- https://openalex.org/W2172826963
+- https://openalex.org/W2230728100
+- https://openalex.org/W2290312057
+- https://openalex.org/W2292335867
+- https://openalex.org/W2314533540
+- https://openalex.org/W2322333511
+- https://openalex.org/W2323159942
+- https://openalex.org/W2323206702
+- https://openalex.org/W2323519269
+- https://openalex.org/W2327161550
+- https://openalex.org/W2329687802
+- https://openalex.org/W2330848199
+- https://openalex.org/W2330988604
+- https://openalex.org/W2337403656
+- https://openalex.org/W2340655488
+- https://openalex.org/W2361798087
+- https://openalex.org/W2405849754
+- https://openalex.org/W2415935037
+- https://openalex.org/W2461684377
+- https://openalex.org/W2464758283
+- https://openalex.org/W2507479832
+- https://openalex.org/W2508781989
+- https://openalex.org/W2509985733
+- https://openalex.org/W2551094072
+- https://openalex.org/W2556619299
+- https://openalex.org/W2562634226
+- https://openalex.org/W2586107431
+- https://openalex.org/W2593617481
+- https://openalex.org/W2599629602
+- https://openalex.org/W2601081289
+- https://openalex.org/W2605801743
+- https://openalex.org/W2618442659
+- https://openalex.org/W2620161193
+- https://openalex.org/W2622877012
+- https://openalex.org/W2737449748
+- https://openalex.org/W2737581093
+- https://openalex.org/W2744194726
+- https://openalex.org/W2759662574
+- https://openalex.org/W2762497394
+- https://openalex.org/W2769331892
+- https://openalex.org/W2771340423
+- https://openalex.org/W2781204135
+- https://openalex.org/W2782033228
+- https://openalex.org/W2786557214
+- https://openalex.org/W2788317900
+- https://openalex.org/W2790700814
+- https://openalex.org/W2794865030
+- https://openalex.org/W2796397632
+- https://openalex.org/W2797977915
+- https://openalex.org/W2798037140
+- https://openalex.org/W2799272718
+- https://openalex.org/W2884016712
+- https://openalex.org/W2885190592
+- https://openalex.org/W2887092515
+- https://openalex.org/W2894242126
+- https://openalex.org/W2900765611
+- https://openalex.org/W2906031383
+- https://openalex.org/W2911409351
+- https://openalex.org/W2911997094
+- https://openalex.org/W2914711063
+- https://openalex.org/W2936033307
+- https://openalex.org/W2939174163
+- https://openalex.org/W2940303031
+- https://openalex.org/W2951523837
+- https://openalex.org/W2955271597
+- https://openalex.org/W2963657244
+- https://openalex.org/W2966064101
+- https://openalex.org/W2966628410
+- https://openalex.org/W2981703741
+- https://openalex.org/W2986460816
+- https://openalex.org/W3038453665
+- https://openalex.org/W3099777778
+- https://openalex.org/W3100802597
+- https://openalex.org/W3101961311
+- https://openalex.org/W3102994515
+- https://openalex.org/W3104500451
+- https://openalex.org/W3105191135
+- https://openalex.org/W3105655258
+- https://openalex.org/W36826159
+- https://openalex.org/W4247073029
+- https://openalex.org/W4247139292
+- https://openalex.org/W4255584963
+- https://openalex.org/W832976576
+primary_topic: nanoparticles nucleation surface interactions
+open_access: true

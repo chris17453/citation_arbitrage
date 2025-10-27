@@ -1,0 +1,1949 @@
+id: https://openalex.org/W4226051140
+doi: https://doi.org/10.1056/nejmoa2115022
+title: Trastuzumab Deruxtecan versus Trastuzumab Emtansine for Breast Cancer
+publication_date: '2022-03-23'
+publication_year: 2022
+cited_by_count: 911
+citation_percentile: 0.999962
+pagerank: 2.628244680509585e-06
+authorships:
+- author_id: https://openalex.org/A5051629490
+  display_name: "Javier Cort\xE9s"
+  orcid: https://orcid.org/0000-0001-7623-1583
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5113511454
+  display_name: Sung-Bae Kim
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5059830079
+  display_name: "Wei\u2010Pang Chung"
+  orcid: https://orcid.org/0000-0001-8485-270X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5069050806
+  display_name: "Seock\u2010Ah Im"
+  orcid: https://orcid.org/0000-0002-5396-6533
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5007089296
+  display_name: Winnie Yeo
+  orcid: https://orcid.org/0000-0002-0863-8469
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5018564985
+  display_name: Roberto Hegg
+  orcid: https://orcid.org/0000-0002-6453-8155
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5069184877
+  display_name: Min Hwan Kim
+  orcid: https://orcid.org/0000-0002-1595-6342
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5112024266
+  display_name: Ling-Ming Tseng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5044530307
+  display_name: Vanessa Petry
+  orcid: https://orcid.org/0000-0003-3604-899X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5059071303
+  display_name: Chi-Feng Chung
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5079050158
+  display_name: Hiroji Iwata
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5003060935
+  display_name: Erika Hamilton
+  orcid: https://orcid.org/0000-0002-1911-0336
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5003897511
+  display_name: Giuseppe Curigliano
+  orcid: https://orcid.org/0000-0003-1781-2518
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5008098651
+  display_name: Binghe Xu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5027981189
+  display_name: "Chiun\u2010Sheng Huang"
+  orcid: https://orcid.org/0000-0002-6557-211X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5100623838
+  display_name: Jee Hyun Kim
+  orcid: https://orcid.org/0000-0002-1299-4300
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5112764644
+  display_name: Joanne Wing Yan Chiu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5038914061
+  display_name: "Jos\xE9 Luiz Pedrini"
+  orcid: https://orcid.org/0000-0003-1239-3238
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5083945008
+  display_name: Caleb Lee
+  orcid: https://orcid.org/0000-0001-8230-2544
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5022448589
+  display_name: Yali Liu
+  orcid: https://orcid.org/0000-0003-2125-3755
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5088057801
+  display_name: Jillian Cathcart
+  orcid: https://orcid.org/0000-0002-6630-4221
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5049228395
+  display_name: Emarjola Bako
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5102996975
+  display_name: Sunil Verma
+  orcid: https://orcid.org/0000-0002-8807-6215
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+- author_id: https://openalex.org/A5068059897
+  display_name: Sara A. Hurvitz
+  orcid: https://orcid.org/0000-0001-7808-7191
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210123907
+    display_name: National University College
+    ror: https://ror.org/02hs8e066
+    country_code: PR
+    type: education
+  - id: https://openalex.org/I904013037
+    display_name: Universidad Europea
+    ror: https://ror.org/04dp46240
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I148366613
+    display_name: National Yang Ming Chiao Tung University
+    ror: https://ror.org/00se2k293
+    country_code: TW
+    type: funder
+  - id: https://openalex.org/I2801680663
+    display_name: Asan Medical Center
+    ror: https://ror.org/03s5q0090
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I2802835388
+    display_name: Seoul National University Hospital
+    ror: https://ror.org/01z4nnt86
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the International Breast Cancer Center, Quir\xF3nsalud Group, Barcelona,\
+    \ the Scientific Department, Medica Scientia Innovation Research, Valencia, and\
+    \ the Department of Medicine, Faculty of Biomedical and Health Sciences, Universidad\
+    \ Europea de Madrid, Madrid - all in Spain (J. Cort\xE9s); Asan Medical Center,\
+    \ University of Ulsan College of Medicine, Ulsan (S.-B.K.), Seoul National University\
+    \ Hospital, Cancer Research Institute (S.-A.I.), and Seoul National University\
+    \ Bundang Hospital (J.H.K.), Seoul National University College of Medicine, and\
+    \ Samsung Medical Center (Y.H.P.), Seoul, and Severance Hospital, Yonsei University,\
+    \ Yonsei (M.H.K.) - all in South Korea; the Department of Oncology, National Cheng\
+    \ Kung University Hospital, College of Medicine, National Cheng Kung University,\
+    \ Tainan (W.-P.C.), and the Department of Surgery, Taipei Veterans General Hospital,\
+    \ College of Medicine, National Yang-Ming Chiao Tung University (L.-M.T.), Koo\
+    \ Foundation Sun Yat-Sen Cancer Center (C.-F.C.), and National Taiwan University\
+    \ Hospital and National Taiwan University College of Medicine (C.-S.H.), Taipei\
+    \ - all in Taiwan; Cl\xEDnica de Pesquisas e Centro de Estudos em Oncologia Ginecol\xF3\
+    gica e Mam\xE1ria (R.H.) and Instituto do C\xE2ncer do Estado de S\xE3o Paulo\
+    \ Octavio Frias de Oliveira (V.P.), S\xE3o Paulo, and Hospital Nossa Senhora da\
+    \ Concei\xE7\xE3o, Porto Alegre (J.L.P.) - all in Brazil; Aichi Cancer Center\
+    \ Hospital, Aichi, Japan (H.I.); Sarah Cannon Research Institute, Tennessee Oncology,\
+    \ Nashville (E.H.); the Department of Oncology and Hematology-Oncology, University\
+    \ of Milan, and the Division of Early Drug Development, European Institute of\
+    \ Oncology, Istituto di Ricovero e Cura a Carattere Scientifico - both in Milan\
+    \ (G.C.); the Cancer Hospital, Chinese Academy of Medical Sciences and Peking\
+    \ Union Medical College, Beijing (B.X.); the University of Hong Kong, Hong Kong\
+    \ (J.W.Y.C.); Daiichi Sankyo, Basking Ridge, NJ (C.L., Y.L., J. Cathcart, E.B.);\
+    \ AstraZeneca, Gaithersburg, MD (S.V.); and the David Geffen School of Medicine\
+    \ and Jonsson Comprehensive Cancer Center, University of California, Los Angeles,\
+    \ Los Angeles (S.A.H.)."
+referenced_works:
+- https://openalex.org/W2137228442
+- https://openalex.org/W2159967578
+- https://openalex.org/W2166199281
+- https://openalex.org/W2314772071
+- https://openalex.org/W2387397851
+- https://openalex.org/W2616596696
+- https://openalex.org/W2619710211
+- https://openalex.org/W2917113139
+- https://openalex.org/W2980315967
+- https://openalex.org/W2996630100
+- https://openalex.org/W3088588360
+- https://openalex.org/W3160274902
+- https://openalex.org/W3160524196
+- https://openalex.org/W3179021246
+- https://openalex.org/W3207557929
+- https://openalex.org/W4206666777
+- https://openalex.org/W4211005384
+primary_topic: HER2/EGFR in Cancer Research
+open_access: true

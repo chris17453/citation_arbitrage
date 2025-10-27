@@ -1,0 +1,581 @@
+id: https://openalex.org/W3159530258
+doi: https://doi.org/10.1016/s1474-4422(21)00066-1
+title: 'Clinical diagnosis of Alzheimer''s disease: recommendations of the International
+  Working Group'
+publication_date: '2021-04-30'
+publication_year: 2021
+cited_by_count: 819
+citation_percentile: 0.999195
+pagerank: 2.5340751178620393e-06
+authorships:
+- author_id: https://openalex.org/A5108138196
+  display_name: Bruno Dubois
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210152724
+    display_name: Institut du Cerveau
+    ror: https://ror.org/050gn5214
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Assistance Publique-H\xF4pitaux de Paris (AP\u2013HP) Department of Neurology,\
+    \ Sorbonne University, Paris, France"
+  - Institut du Cerveau, Sorbonne University, Paris, France
+- author_id: https://openalex.org/A5034401588
+  display_name: Nicolas Villain
+  orcid: https://orcid.org/0000-0002-7429-4289
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210152724
+    display_name: Institut du Cerveau
+    ror: https://ror.org/050gn5214
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Assistance Publique-H\xF4pitaux de Paris (AP\u2013HP) Department of Neurology,\
+    \ Sorbonne University, Paris, France"
+  - Institut du Cerveau, Sorbonne University, Paris, France
+- author_id: https://openalex.org/A5108008488
+  display_name: Giovanni B. Frisoni
+  orcid: https://orcid.org/0000-0001-7075-7082
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114457229
+    display_name: University of Geneva
+    ror: https://ror.org/01swzsf04
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I4210106256
+    display_name: University Hospital of Geneva
+    ror: https://ror.org/01m1pv723
+    country_code: CH
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Alzheimer's Neuroimaging and Epidemiology (LANE), Saint John of
+    God Clinical Research Centre, Brescia, Italy
+  - Laboratory of Neuroimaging of Aging (LANVIE), University of Geneva, Geneva, Switzerland
+  - Memory Clinic, University Hospital of Geneva, Geneva, Switzerland
+- author_id: https://openalex.org/A5052536571
+  display_name: Gil D. Rabinovici
+  orcid: https://orcid.org/0000-0002-3626-4265
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210105208
+    display_name: University Memory and Aging Center
+    ror: https://ror.org/01dssfj41
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Memory and Aging Center, Department of Neurology and Department of Radiology and
+    Biomedical Imaging, University of California San Francisco, San Francisco, CA,
+    USA
+- author_id: https://openalex.org/A5062695564
+  display_name: Marwan Sabbagh
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316902750
+    display_name: Cleveland Clinic
+    ror: https://ror.org/03xjacd83
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2800445466
+    display_name: Lou Ruvo Brain Institute
+    ror: https://ror.org/03wqknk68
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cleveland Clinic, Lou Ruvo Center for Brain Health, Las Vegas, NV, USA
+- author_id: https://openalex.org/A5020179909
+  display_name: Stefano F. Cappa
+  orcid: https://orcid.org/0000-0003-1003-3925
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800920820
+    display_name: Istituto Universitario di Studi Superiori di Pavia
+    ror: https://ror.org/0290wsh42
+    country_code: IT
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - RCCS Mondino Foundation, Pavia, Italy
+  - University School for Advanced Studies, Pavia, Italy
+- author_id: https://openalex.org/A5087220534
+  display_name: Alexandre Bejanin
+  orcid: https://orcid.org/0000-0002-9958-0951
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123044942
+    display_name: "Universitat Aut\xF2noma de Barcelona"
+    ror: https://ror.org/052g8jq94
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210086696
+    display_name: Biomedical Research Networking Center on Neurodegenerative Diseases
+    ror: https://ror.org/00zca7903
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I2801795740
+    display_name: Hospital de Sant Pau
+    ror: https://ror.org/059n1d175
+    country_code: ES
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Research Institute, Hospital de la Santa Creu i Sant Pau, Universitat
+    Autonoma de Barcelona, Barcelona, Spain
+  - Network Center for Biomedical Research in Neurodegenerative Diseases (CIBERNED),
+    Madrid, Spain
+  - Sant Pau Memory Unit, Department of Neurology, Hospital de la Santa Creu i Sant
+    Pau, Universitat Autonoma de Barcelona, Barcelona, Spain
+- author_id: https://openalex.org/A5076349608
+  display_name: "St\xE9phanie Bombois"
+  orcid: https://orcid.org/0000-0003-3117-1833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2279609970
+    display_name: "Universit\xE9 de Lille"
+    ror: https://ror.org/02kzqn938
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Assistance Publique-H\xF4pitaux de Paris (AP\u2013HP) Department of Neurology,\
+    \ Sorbonne University, Paris, France"
+  - INSERM, CHU Lille, U1171 - Degenerative and vascular cognitive disorders, University
+    of Lille, Lille, France
+- author_id: https://openalex.org/A5091618250
+  display_name: "St\xE9phane Epelbaum"
+  orcid: https://orcid.org/0000-0003-4059-2891
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I1326498283
+    display_name: "Institut national de recherche en sciences et technologies du num\xE9\
+      rique"
+    ror: https://ror.org/02kvxyf05
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210152724
+    display_name: Institut du Cerveau
+    ror: https://ror.org/050gn5214
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Assistance Publique-H\xF4pitaux de Paris (AP\u2013HP) Department of Neurology,\
+    \ Sorbonne University, Paris, France"
+  - "Inria ARAMIS project team, Inria\u2013APHP collaboratio, Sorbonne University,\
+    \ Paris, France"
+  - Institut du Cerveau, Sorbonne University, Paris, France
+- author_id: https://openalex.org/A5062628381
+  display_name: Marc Teichmann
+  orcid: https://orcid.org/0000-0003-2357-8983
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Assistance Publique-H\xF4pitaux de Paris (AP\u2013HP) Department of Neurology,\
+    \ Sorbonne University, Paris, France"
+- author_id: https://openalex.org/A5110649788
+  display_name: Marie-Odile Habert
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210152724
+    display_name: Institut du Cerveau
+    ror: https://ror.org/050gn5214
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210118047
+    display_name: "Laboratoire d\u2019Imagerie Biom\xE9dicale"
+    ror: https://ror.org/02b9znm90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "AP\u2013HP Department of Nuclear Medicine, Sorbonne University, Paris, France"
+  - "CNRS, INSERM, Laboratoire d'Imagerie Biom\xE9dicale, Sorbonne University, Paris,\
+    \ France"
+  - Institut du Cerveau, Sorbonne University, Paris, France
+- author_id: https://openalex.org/A5089411086
+  display_name: Agneta Nordberg
+  orcid: https://orcid.org/0000-0001-7345-5151
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurobiology, Care Sciences and Society, Center for Alzheimer Research,
+    Karolinska Institute, Stockholm, Sweden
+  - Theme Aging, The Aging Brain, Karolinska University Hospital, Stockholm, Sweden
+- author_id: https://openalex.org/A5025313057
+  display_name: Kaj Blennow
+  orcid: https://orcid.org/0000-0002-1890-4193
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I881427289
+    display_name: University of Gothenburg
+    ror: https://ror.org/01tm6cn81
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I2801112325
+    display_name: Sahlgrenska University Hospital
+    ror: https://ror.org/04vgqjj36
+    country_code: SE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Clinical Neurochemistry Laboratory, Sahlgrenska University Hospital, M\xF6lndal,\
+    \ Sweden"
+  - "Institute of Neuroscience and Physiology, Department of Psychiatry and Neurochemistry,\
+    \ The Sahlgrenska Academy at the University of Gothenburg, M\xF6lndal, Sweden"
+- author_id: https://openalex.org/A5072592799
+  display_name: Douglas Galasko
+  orcid: https://orcid.org/0000-0001-6195-3241
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurosciences, University of California San Diego, La Jolla, CA,
+    USA
+- author_id: https://openalex.org/A5032025339
+  display_name: Yaakov Stern
+  orcid: https://orcid.org/0000-0001-7542-3241
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78577930
+    display_name: Columbia University
+    ror: https://ror.org/00hj8s172
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cognitive Neuroscience Division, Department of Neurology, Columbia University,
+    New York, NY, USA
+- author_id: https://openalex.org/A5022818431
+  display_name: Christopher C. Rowe
+  orcid: https://orcid.org/0000-0003-3910-2453
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165779595
+    display_name: The University of Melbourne
+    ror: https://ror.org/01ej9dk98
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210163497
+    display_name: Austin Health
+    ror: https://ror.org/05dbj6g52
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Imaging and Therapy, Austin Health, The University of
+    Melbourne, Melbourne, VIC, Australia
+- author_id: https://openalex.org/A5002183686
+  display_name: Stephen Salloway
+  orcid: https://orcid.org/0000-0002-2631-0942
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802060973
+    display_name: Butler Hospital
+    ror: https://ror.org/00z9zsj19
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  - id: https://openalex.org/I27804330
+    display_name: Brown University
+    ror: https://ror.org/05gq02987
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Butler Hospital, Providence, RI, USA
+  - Department of Neurology and Department of Psychiatry, Alpert Medical School of
+    Brown University, Providence, RI, USA
+- author_id: https://openalex.org/A5059020389
+  display_name: Lon S. Schneider
+  orcid: https://orcid.org/0000-0002-4636-6150
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1174212
+    display_name: University of Southern California
+    ror: https://ror.org/03taz7m60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Keck School of Medicine of the University of Southern California, Los Angeles,
+    USA
+- author_id: https://openalex.org/A5060487287
+  display_name: Jeffrey L. Cummings
+  orcid: https://orcid.org/0000-0001-8944-4158
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133999245
+    display_name: University of Nevada, Las Vegas
+    ror: https://ror.org/0406gha72
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1316902750
+    display_name: Cleveland Clinic
+    ror: https://ror.org/03xjacd83
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2800445466
+    display_name: Lou Ruvo Brain Institute
+    ror: https://ror.org/03wqknk68
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chambers-Grundy Center for Transformative Neuroscience, Department of Brain Health,
+    School of Integrated Health Sciences, University of Nevada Las Vegas, Las Vegas,
+    NV, USA
+  - Cleveland Clinic, Lou Ruvo Center for Brain Health, Las Vegas, NV, USA
+- author_id: https://openalex.org/A5040711752
+  display_name: Howard Feldman
+  orcid: https://orcid.org/0000-0002-9258-4538
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210105618
+    display_name: "Alzheimer\u2019s Disease Neuroimaging Initiative"
+    ror: https://ror.org/01j20wc74
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Alzheimer Disease Cooperative Study, University of California San Diego, La Jolla,
+    CA, USA
+  - Department of Neurosciences, University of California San Diego, La Jolla, CA,
+    USA
+  - Shiley-Marcos Alzheimer's Disease Research Center, University of California San
+    Diego, La Jolla, CA, USA
+referenced_works:
+- https://openalex.org/W1507743940
+- https://openalex.org/W1543528560
+- https://openalex.org/W1557996432
+- https://openalex.org/W1577433680
+- https://openalex.org/W1825683130
+- https://openalex.org/W1892456310
+- https://openalex.org/W1936322111
+- https://openalex.org/W1966645427
+- https://openalex.org/W1971032265
+- https://openalex.org/W1975005502
+- https://openalex.org/W1978991736
+- https://openalex.org/W1993023011
+- https://openalex.org/W1996314668
+- https://openalex.org/W2026970282
+- https://openalex.org/W2064955232
+- https://openalex.org/W2071134735
+- https://openalex.org/W2082429191
+- https://openalex.org/W2084121214
+- https://openalex.org/W2103440561
+- https://openalex.org/W2106931873
+- https://openalex.org/W2115017507
+- https://openalex.org/W2115790527
+- https://openalex.org/W2116709840
+- https://openalex.org/W2116886795
+- https://openalex.org/W2122522567
+- https://openalex.org/W2124030567
+- https://openalex.org/W2129497119
+- https://openalex.org/W2129823286
+- https://openalex.org/W2138190873
+- https://openalex.org/W2143461767
+- https://openalex.org/W2144707045
+- https://openalex.org/W2149862198
+- https://openalex.org/W2150070900
+- https://openalex.org/W2156220037
+- https://openalex.org/W2157110881
+- https://openalex.org/W2168335347
+- https://openalex.org/W2168357345
+- https://openalex.org/W2174753847
+- https://openalex.org/W2239344903
+- https://openalex.org/W2302528231
+- https://openalex.org/W2309442902
+- https://openalex.org/W2473313434
+- https://openalex.org/W2494586080
+- https://openalex.org/W2555821841
+- https://openalex.org/W2582524520
+- https://openalex.org/W2592378632
+- https://openalex.org/W2600084629
+- https://openalex.org/W2603308917
+- https://openalex.org/W2620810124
+- https://openalex.org/W2621105275
+- https://openalex.org/W2623521763
+- https://openalex.org/W2625796101
+- https://openalex.org/W2753970170
+- https://openalex.org/W2756224036
+- https://openalex.org/W2760832975
+- https://openalex.org/W2763258862
+- https://openalex.org/W2766763626
+- https://openalex.org/W2768782243
+- https://openalex.org/W2769512083
+- https://openalex.org/W2769602825
+- https://openalex.org/W2778838015
+- https://openalex.org/W2785757836
+- https://openalex.org/W2786030143
+- https://openalex.org/W2788507110
+- https://openalex.org/W2790793038
+- https://openalex.org/W2791135917
+- https://openalex.org/W2794454775
+- https://openalex.org/W2794653302
+- https://openalex.org/W2794659745
+- https://openalex.org/W2798054687
+- https://openalex.org/W2804922289
+- https://openalex.org/W2806938337
+- https://openalex.org/W2894273961
+- https://openalex.org/W2897964327
+- https://openalex.org/W2898037283
+- https://openalex.org/W2898329077
+- https://openalex.org/W2900856701
+- https://openalex.org/W2900909585
+- https://openalex.org/W2904079367
+- https://openalex.org/W2905538154
+- https://openalex.org/W2905768339
+- https://openalex.org/W2908002252
+- https://openalex.org/W2910327763
+- https://openalex.org/W2916749909
+- https://openalex.org/W2931664631
+- https://openalex.org/W2933881608
+- https://openalex.org/W2938385363
+- https://openalex.org/W2943828894
+- https://openalex.org/W2945700112
+- https://openalex.org/W2945980668
+- https://openalex.org/W2948815538
+- https://openalex.org/W2951707943
+- https://openalex.org/W2954994245
+- https://openalex.org/W2955585616
+- https://openalex.org/W2959949899
+- https://openalex.org/W2962887116
+- https://openalex.org/W2966191040
+- https://openalex.org/W2969766245
+- https://openalex.org/W2972662099
+- https://openalex.org/W2981774603
+- https://openalex.org/W2989855650
+- https://openalex.org/W2990890423
+- https://openalex.org/W2998968185
+- https://openalex.org/W3007734058
+- https://openalex.org/W3016877536
+- https://openalex.org/W3019122005
+- https://openalex.org/W3021659692
+- https://openalex.org/W3021842026
+- https://openalex.org/W3025228866
+- https://openalex.org/W3033804370
+- https://openalex.org/W3035869254
+- https://openalex.org/W3045997188
+- https://openalex.org/W3080612738
+- https://openalex.org/W3097162850
+- https://openalex.org/W3109535162
+- https://openalex.org/W4210951082
+- https://openalex.org/W594026611
+primary_topic: Dementia and Cognitive Impairment Research
+open_access: true

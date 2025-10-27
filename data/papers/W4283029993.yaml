@@ -1,0 +1,817 @@
+id: https://openalex.org/W4283029993
+doi: https://doi.org/10.6004/jnccn.2022.0030
+title: Breast Cancer, Version 3.2022, NCCN Clinical Practice Guidelines in Oncology
+publication_date: '2022-06-01'
+publication_year: 2022
+cited_by_count: 838
+citation_percentile: 0.999887
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5085028425
+  display_name: William J. Gradishar
+  orcid: https://orcid.org/0000-0002-2772-3140
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4390039227
+    display_name: Robert H. Lurie Comprehensive Cancer Center of Northwestern University
+    ror: https://ror.org/02p4far57
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Robert H. Lurie Comprehensive Cancer Center of Northwestern University;
+- author_id: https://openalex.org/A5045258360
+  display_name: Meena S. Moran
+  orcid: https://orcid.org/0000-0002-4815-1313
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165192
+    display_name: Smilow Cancer Hospital
+    ror: https://ror.org/05q3szf80
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2Yale Cancer Center/Smilow Cancer Hospital;
+- author_id: https://openalex.org/A5088914288
+  display_name: Jame Abraham
+  orcid: https://orcid.org/0000-0002-7696-6608
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801345345
+    display_name: Cancer Institute (WIA)
+    ror: https://ror.org/01tc10z29
+    country_code: IN
+    type: healthcare
+  - id: https://openalex.org/I1316902750
+    display_name: Cleveland Clinic
+    ror: https://ror.org/03xjacd83
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210119077
+    display_name: University Hospitals Seidman Cancer Center
+    ror: https://ror.org/02kb97560
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 3Case Comprehensive Cancer Center/University Hospitals Seidman Cancer Center and
+    Cleveland Clinic Taussig Cancer Institute;
+- author_id: https://openalex.org/A5054757298
+  display_name: Rebecca Aft
+  orcid: https://orcid.org/0000-0001-8569-7131
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102777
+    display_name: Jewish Hospital
+    ror: https://ror.org/018s10n18
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1299725459
+    display_name: Barnes-Jewish Hospital
+    ror: https://ror.org/04wyvkr12
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 4Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School
+    of Medicine;
+- author_id: https://openalex.org/A5038034815
+  display_name: Doreen M. Agnese
+  orcid: https://orcid.org/0000-0002-9910-9422
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799885155
+    display_name: "The Ohio State University Comprehensive Cancer Center \u2013 Arthur\
+      \ G. James Cancer Hospital and Richard J. Solove Research Institute"
+    ror: https://ror.org/028t46f04
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 5The Ohio State University Comprehensive Cancer Center - James Cancer Hospital
+    and Solove Research Institute;
+- author_id: https://openalex.org/A5090089564
+  display_name: Kimberly H. Allison
+  orcid: https://orcid.org/0000-0002-1776-0503
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801345345
+    display_name: Cancer Institute (WIA)
+    ror: https://ror.org/01tc10z29
+    country_code: IN
+    type: healthcare
+  - id: https://openalex.org/I4390039303
+    display_name: Stanford Cancer Institute
+    ror: https://ror.org/014qe3j22
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 6Stanford Cancer Institute;
+- author_id: https://openalex.org/A5016398282
+  display_name: Bethany Anderson
+  orcid: https://orcid.org/0000-0001-7645-2159
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210103341
+    display_name: University of Wisconsin Carbone Cancer Center
+    ror: https://ror.org/01e4byj08
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 7University of Wisconsin Carbone Cancer Center;
+- author_id: https://openalex.org/A5055301443
+  display_name: Harold J. Burstein
+  orcid: https://orcid.org/0000-0003-1963-8162
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210161994
+    display_name: Dana-Farber Brigham Cancer Center
+    ror: https://ror.org/05rgrbr06
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "8Dana-Farber/Brigham and Women\u2019s Cancer Center;"
+- author_id: https://openalex.org/A5111560865
+  display_name: Helen K. Chew
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84218800
+    display_name: University of California, Davis
+    ror: https://ror.org/05rrcem69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4390039352
+    display_name: UC Davis Comprehensive Cancer Center
+    ror: https://ror.org/02kcc1z29
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 9UC Davis Comprehensive Cancer Center;
+- author_id: https://openalex.org/A5068207600
+  display_name: Chau T. Dang
+  orcid: https://orcid.org/0000-0001-5133-2265
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10Memorial Sloan Kettering Cancer Center;
+- author_id: https://openalex.org/A5091848952
+  display_name: Anthony Elias
+  orcid: https://orcid.org/0000-0002-6509-9211
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I921990950
+    display_name: University of Colorado Denver
+    ror: https://ror.org/02hh7en24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134151
+    display_name: University of Colorado Cancer Center
+    ror: https://ror.org/04cqn7d42
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 11University of Colorado Cancer Center;
+- author_id: https://openalex.org/A5027028437
+  display_name: Sharon H. Giordano
+  orcid: https://orcid.org/0000-0002-8700-2767
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 12The University of Texas MD Anderson Cancer Center;
+- author_id: https://openalex.org/A5008665323
+  display_name: Matthew P. Goetz
+  orcid: https://orcid.org/0000-0002-4383-270X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1289437631
+    display_name: Fox Chase Cancer Center
+    ror: https://ror.org/0567t7073
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mayo Clinic Cancer Center; 14 Fox Chase Cancer Center;
+- author_id: https://openalex.org/A5049331116
+  display_name: Lori J. Goldstein
+  orcid: https://orcid.org/0000-0002-6542-3421
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I921990950
+    display_name: University of Colorado Denver
+    ror: https://ror.org/02hh7en24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134151
+    display_name: University of Colorado Cancer Center
+    ror: https://ror.org/04cqn7d42
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4390039376
+    display_name: O'Neal Comprehensive Cancer Center
+    ror: https://ror.org/03j18km61
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - O'Neal Comprehensive Cancer Center at UAB;
+- author_id: https://openalex.org/A5068059897
+  display_name: Sara A. Hurvitz
+  orcid: https://orcid.org/0000-0001-7808-7191
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4390039293
+    display_name: UCLA Jonsson Comprehensive Cancer Center
+    ror: https://ror.org/0599cs764
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I921990950
+    display_name: University of Colorado Denver
+    ror: https://ror.org/02hh7en24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134151
+    display_name: University of Colorado Cancer Center
+    ror: https://ror.org/04cqn7d42
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 15UCLA Jonsson Comprehensive Cancer Center;
+- author_id: https://openalex.org/A5003417891
+  display_name: Steven J. Isakoff
+  orcid: https://orcid.org/0000-0002-6677-1014
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 16Massachusetts General Hospital Cancer Center;
+- author_id: https://openalex.org/A5022192136
+  display_name: Rachel C. Jankowitz
+  orcid: https://orcid.org/0000-0001-7691-2389
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 17Abramson Cancer Center at the University of Pennsylvania;
+- author_id: https://openalex.org/A5087846772
+  display_name: Sara H. Javid
+  orcid: https://orcid.org/0000-0002-3688-0295
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4390039344
+    display_name: Fred and Pamela Buffett Cancer Center
+    ror: https://ror.org/03n63wv08
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Fred Hutchinson Cancer Research Center/University of Washington; 19 Fred & Pamela
+    Buffet Cancer Center;
+- author_id: https://openalex.org/A5021226290
+  display_name: Jairam Krishnamurthy
+  orcid: https://orcid.org/0000-0003-0939-4184
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4390039376
+    display_name: O'Neal Comprehensive Cancer Center
+    ror: https://ror.org/03j18km61
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I921990950
+    display_name: University of Colorado Denver
+    ror: https://ror.org/02hh7en24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134151
+    display_name: University of Colorado Cancer Center
+    ror: https://ror.org/04cqn7d42
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - O'Neal Comprehensive Cancer Center at UAB;
+- author_id: https://openalex.org/A5109928555
+  display_name: Marilyn Leitch
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4390039370
+    display_name: Harold C. Simmons Comprehensive Cancer Center
+    ror: https://ror.org/03cbz4r60
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I867280407
+    display_name: The University of Texas Southwestern Medical Center
+    ror: https://ror.org/05byvp690
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 20UT Southwestern Simmons Comprehensive Cancer Center;
+- author_id: https://openalex.org/A5104199114
+  display_name: Janice A. Lyons
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801345345
+    display_name: Cancer Institute (WIA)
+    ror: https://ror.org/01tc10z29
+    country_code: IN
+    type: healthcare
+  - id: https://openalex.org/I1316902750
+    display_name: Cleveland Clinic
+    ror: https://ror.org/03xjacd83
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210119077
+    display_name: University Hospitals Seidman Cancer Center
+    ror: https://ror.org/02kb97560
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 3Case Comprehensive Cancer Center/University Hospitals Seidman Cancer Center and
+    Cleveland Clinic Taussig Cancer Institute;
+- author_id: https://openalex.org/A5005344580
+  display_name: Joanne Mortimer
+  orcid: https://orcid.org/0000-0002-2935-1934
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1301076528
+    display_name: City Of Hope National Medical Center
+    ror: https://ror.org/00w6g5w60
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 21City of Hope National Medical Center;
+- author_id: https://openalex.org/A5042594904
+  display_name: Sameer A. Patel
+  orcid: https://orcid.org/0000-0002-1924-9215
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4390039376
+    display_name: O'Neal Comprehensive Cancer Center
+    ror: https://ror.org/03j18km61
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I921990950
+    display_name: University of Colorado Denver
+    ror: https://ror.org/02hh7en24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134151
+    display_name: University of Colorado Cancer Center
+    ror: https://ror.org/04cqn7d42
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - O'Neal Comprehensive Cancer Center at UAB;
+- author_id: https://openalex.org/A5036540537
+  display_name: Lori J. Pierce
+  orcid: https://orcid.org/0000-0002-3734-5710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 22University of Michigan Rogel Cancer Center;
+- author_id: https://openalex.org/A5086299048
+  display_name: Laura H. Rosenberger
+  orcid: https://orcid.org/0000-0002-6829-6747
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4390039326
+    display_name: Duke Cancer Institute
+    ror: https://ror.org/04vt65461
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I2801345345
+    display_name: Cancer Institute (WIA)
+    ror: https://ror.org/01tc10z29
+    country_code: IN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 23Duke Cancer Institute;
+- author_id: https://openalex.org/A5090188675
+  display_name: Hope S. Rugo
+  orcid: https://orcid.org/0000-0001-6710-4814
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210167126
+    display_name: UCSF Helen Diller Family Comprehensive Cancer Center
+    ror: https://ror.org/05yndxy10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 24UCSF Helen Diller Family Comprehensive Cancer Center;
+- author_id: https://openalex.org/A5083544656
+  display_name: Amy M. Sitapati
+  orcid: https://orcid.org/0000-0002-5737-5925
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4390039236
+    display_name: Moores Cancer Center
+    ror: https://ror.org/01qkmtm61
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 25UC San Diego Moores Cancer Center;
+- author_id: https://openalex.org/A5076076101
+  display_name: Karen L. Smith
+  orcid: https://orcid.org/0000-0002-6687-0119
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210164401
+    display_name: Sidney Kimmel Comprehensive Cancer Center
+    ror: https://ror.org/05m5b8x20
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 26The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins;
+- author_id: https://openalex.org/A5028764986
+  display_name: Mary Lou Smith
+  orcid: https://orcid.org/0000-0002-1937-1026
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158889
+    display_name: Research Advocacy Network
+    ror: https://ror.org/05haqd335
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 27Research Advocacy Network;
+- author_id: https://openalex.org/A5090789911
+  display_name: Hatem Soliman
+  orcid: https://orcid.org/0000-0001-6644-2264
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3019308854
+    display_name: Moffitt Cancer Center
+    ror: https://ror.org/01xf75524
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 28Moffitt Cancer Center;
+- author_id: https://openalex.org/A5039952665
+  display_name: Erica Stringer-Reasor
+  orcid: https://orcid.org/0000-0002-1862-3367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I921990950
+    display_name: University of Colorado Denver
+    ror: https://ror.org/02hh7en24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134151
+    display_name: University of Colorado Cancer Center
+    ror: https://ror.org/04cqn7d42
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4390039376
+    display_name: O'Neal Comprehensive Cancer Center
+    ror: https://ror.org/03j18km61
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 29O'Neal Comprehensive Cancer Center at UAB;
+- author_id: https://openalex.org/A5052487618
+  display_name: Melinda L. Telli
+  orcid: https://orcid.org/0000-0001-7993-1235
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801345345
+    display_name: Cancer Institute (WIA)
+    ror: https://ror.org/01tc10z29
+    country_code: IN
+    type: healthcare
+  - id: https://openalex.org/I4390039303
+    display_name: Stanford Cancer Institute
+    ror: https://ror.org/014qe3j22
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 6Stanford Cancer Institute;
+- author_id: https://openalex.org/A5102727880
+  display_name: John H. Ward
+  orcid: https://orcid.org/0000-0002-9108-7900
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801159745
+    display_name: Huntsman Cancer Institute
+    ror: https://ror.org/03v7tx966
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I223532165
+    display_name: University of Utah
+    ror: https://ror.org/03r0ha626
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huntsman Cancer Institute at the University of Utah; 31 Roswell Park Comprehensive
+    Cancer Center;
+- author_id: https://openalex.org/A5040571934
+  display_name: Kari B. Wisinski
+  orcid: https://orcid.org/0000-0003-3535-0652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210103341
+    display_name: University of Wisconsin Carbone Cancer Center
+    ror: https://ror.org/01e4byj08
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 7University of Wisconsin Carbone Cancer Center;
+- author_id: https://openalex.org/A5054963460
+  display_name: Jessica Young
+  orcid: https://orcid.org/0000-0002-8544-4107
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 31Roswell Park Comprehensive Cancer Center; and
+- author_id: https://openalex.org/A5028176967
+  display_name: Jennifer L. Burns
+  orcid: https://orcid.org/0000-0001-6909-5237
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4391768124
+    display_name: National Comprehensive Cancer Network
+    ror: https://ror.org/0465x5x63
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 32National Comprehensive Cancer Network.
+- author_id: https://openalex.org/A5074102892
+  display_name: Rashmi Kumar
+  orcid: https://orcid.org/0000-0001-8994-5091
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4391768124
+    display_name: National Comprehensive Cancer Network
+    ror: https://ror.org/0465x5x63
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 32National Comprehensive Cancer Network.
+referenced_works:
+- https://openalex.org/W141671771
+- https://openalex.org/W1496687568
+- https://openalex.org/W1497715026
+- https://openalex.org/W1770259999
+- https://openalex.org/W1782647475
+- https://openalex.org/W181555378
+- https://openalex.org/W1859090088
+- https://openalex.org/W1903918409
+- https://openalex.org/W1918154761
+- https://openalex.org/W1923770335
+- https://openalex.org/W1929619087
+- https://openalex.org/W1966064734
+- https://openalex.org/W1972645288
+- https://openalex.org/W1973314700
+- https://openalex.org/W1981064091
+- https://openalex.org/W1982609643
+- https://openalex.org/W1982853521
+- https://openalex.org/W1983125698
+- https://openalex.org/W1984646656
+- https://openalex.org/W1986041276
+- https://openalex.org/W1986613379
+- https://openalex.org/W1992399617
+- https://openalex.org/W1996394380
+- https://openalex.org/W1999428153
+- https://openalex.org/W1999785455
+- https://openalex.org/W2000118189
+- https://openalex.org/W2003803760
+- https://openalex.org/W2010083055
+- https://openalex.org/W2012202415
+- https://openalex.org/W2013188491
+- https://openalex.org/W2013443009
+- https://openalex.org/W2013901211
+- https://openalex.org/W2014783147
+- https://openalex.org/W2015819236
+- https://openalex.org/W2018027342
+- https://openalex.org/W2019815979
+- https://openalex.org/W2019972414
+- https://openalex.org/W2020223886
+- https://openalex.org/W2020238127
+- https://openalex.org/W2030187050
+- https://openalex.org/W2031950319
+- https://openalex.org/W2034489013
+- https://openalex.org/W2034948439
+- https://openalex.org/W2035529686
+- https://openalex.org/W2036203498
+- https://openalex.org/W2036871048
+- https://openalex.org/W2037168495
+- https://openalex.org/W2041932893
+- https://openalex.org/W2042250837
+- https://openalex.org/W2043038959
+- https://openalex.org/W2043468165
+- https://openalex.org/W2059456602
+- https://openalex.org/W2063440404
+- https://openalex.org/W2063500255
+- https://openalex.org/W2065585191
+- https://openalex.org/W2066828760
+- https://openalex.org/W2066920146
+- https://openalex.org/W2067115868
+- https://openalex.org/W2067420088
+- https://openalex.org/W2067615159
+- https://openalex.org/W2069315046
+- https://openalex.org/W2070281077
+- https://openalex.org/W2071129529
+- https://openalex.org/W2072105366
+- https://openalex.org/W2075831840
+- https://openalex.org/W2078718582
+- https://openalex.org/W2079092071
+- https://openalex.org/W2082006651
+- https://openalex.org/W2083484148
+- https://openalex.org/W2083910677
+- https://openalex.org/W2086175258
+- https://openalex.org/W2088450179
+- https://openalex.org/W2092578162
+- https://openalex.org/W2092882833
+- https://openalex.org/W2095799175
+- https://openalex.org/W2096499183
+- https://openalex.org/W2096785769
+- https://openalex.org/W2096911515
+- https://openalex.org/W2098415799
+- https://openalex.org/W2101853614
+- https://openalex.org/W2103218083
+- https://openalex.org/W2103608035
+- https://openalex.org/W2106443041
+- https://openalex.org/W2106806709
+- https://openalex.org/W2108385373
+- https://openalex.org/W2108782463
+- https://openalex.org/W2108887189
+- https://openalex.org/W2108995265
+- https://openalex.org/W2109496096
+- https://openalex.org/W2109909368
+- https://openalex.org/W2110384353
+- https://openalex.org/W2110712889
+- https://openalex.org/W2112516937
+- https://openalex.org/W2113227626
+- https://openalex.org/W2113610776
+- https://openalex.org/W2113628073
+- https://openalex.org/W2114794378
+- https://openalex.org/W2115527491
+- https://openalex.org/W2115718867
+- https://openalex.org/W2116464634
+- https://openalex.org/W2117381783
+- https://openalex.org/W2117399877
+- https://openalex.org/W2117632651
+- https://openalex.org/W2119434761
+- https://openalex.org/W2122206810
+- https://openalex.org/W2122333494
+- https://openalex.org/W2122427886
+- https://openalex.org/W2122428334
+- https://openalex.org/W2122761438
+- https://openalex.org/W2123553402
+- https://openalex.org/W2125036071
+- https://openalex.org/W2125245203
+- https://openalex.org/W2125568763
+- https://openalex.org/W2126212561
+- https://openalex.org/W2126532421
+- https://openalex.org/W2127159336
+- https://openalex.org/W2127644335
+- https://openalex.org/W2127652790
+- https://openalex.org/W2127670401
+- https://openalex.org/W2128585633
+- https://openalex.org/W2130192648
+- https://openalex.org/W2130746306
+- https://openalex.org/W2133023362
+- https://openalex.org/W2133594922
+- https://openalex.org/W2133865595
+- https://openalex.org/W2134467865
+- https://openalex.org/W2135854218
+- https://openalex.org/W2136112002
+- https://openalex.org/W2140043363
+- https://openalex.org/W2141647078
+- https://openalex.org/W2142059226
+- https://openalex.org/W2142075003
+- https://openalex.org/W2146172372
+- https://openalex.org/W2146227526
+- https://openalex.org/W2148505042
+- https://openalex.org/W2152717505
+- https://openalex.org/W2153076843
+- https://openalex.org/W2153283011
+- https://openalex.org/W2153597941
+- https://openalex.org/W2154759318
+- https://openalex.org/W2158615473
+- https://openalex.org/W2158725804
+- https://openalex.org/W2161911084
+- https://openalex.org/W2162005639
+- https://openalex.org/W2163910197
+- https://openalex.org/W2165288102
+- https://openalex.org/W2166969772
+- https://openalex.org/W2168124422
+- https://openalex.org/W2168517539
+- https://openalex.org/W2169031890
+- https://openalex.org/W2169491501
+- https://openalex.org/W2170848113
+- https://openalex.org/W2172114428
+- https://openalex.org/W2214028082
+- https://openalex.org/W2259950799
+- https://openalex.org/W2266206170
+- https://openalex.org/W2268087059
+- https://openalex.org/W2276663611
+- https://openalex.org/W2313004219
+- https://openalex.org/W2318345606
+- https://openalex.org/W2324561611
+- https://openalex.org/W2332536518
+- https://openalex.org/W2332829713
+- https://openalex.org/W2333863960
+- https://openalex.org/W2335013837
+- https://openalex.org/W2407472691
+- https://openalex.org/W2409106633
+- https://openalex.org/W2463100793
+- https://openalex.org/W2515765013
+- https://openalex.org/W2519353639
+- https://openalex.org/W2579017745
+- https://openalex.org/W2597826044
+- https://openalex.org/W2618058692
+- https://openalex.org/W2736730558
+- https://openalex.org/W2740659413
+- https://openalex.org/W2783194010
+- https://openalex.org/W2886013728
+- https://openalex.org/W2904830739
+- https://openalex.org/W2938233323
+- https://openalex.org/W2942253612
+- https://openalex.org/W2953424022
+- https://openalex.org/W2992619229
+- https://openalex.org/W2993667428
+- https://openalex.org/W2999744434
+- https://openalex.org/W3011900353
+- https://openalex.org/W3016251265
+- https://openalex.org/W3022548009
+- https://openalex.org/W3081515379
+- https://openalex.org/W3086124540
+- https://openalex.org/W3097739674
+- https://openalex.org/W3100211590
+- https://openalex.org/W3132582124
+- https://openalex.org/W3139409567
+- https://openalex.org/W3165576985
+- https://openalex.org/W3187671266
+- https://openalex.org/W3193941051
+- https://openalex.org/W3208809333
+- https://openalex.org/W4206841660
+- https://openalex.org/W4247010434
+- https://openalex.org/W4252453674
+- https://openalex.org/W4252619772
+- https://openalex.org/W993406450
+primary_topic: Breast Cancer Treatment Studies
+open_access: true

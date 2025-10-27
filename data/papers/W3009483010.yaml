@@ -1,0 +1,521 @@
+id: https://openalex.org/W3009483010
+doi: https://doi.org/10.1073/pnas.1916903117
+title: Active learning narrows achievement gaps for underrepresented students in undergraduate
+  science, technology, engineering, and math
+publication_date: '2020-03-09'
+publication_year: 2020
+cited_by_count: 1079
+citation_percentile: 0.998026
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5037673680
+  display_name: Elli J. Theobald
+  orcid: https://orcid.org/0000-0001-5442-2522
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5063296367
+  display_name: Mariah J. Hill
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5083546555
+  display_name: Elisa Tran
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5068966445
+  display_name: Sweta Agrawal
+  orcid: https://orcid.org/0000-0003-0547-4099
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physiology and Biophysics, University of Washington, Seattle, WA
+    98195;
+- author_id: https://openalex.org/A5024227918
+  display_name: E. Nicole Arroyo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5063355458
+  display_name: Shawn Behling
+  orcid: https://orcid.org/0000-0001-5537-3603
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Environmental and Forest Sciences, University of Washington, Seattle,
+    WA 98195;
+- author_id: https://openalex.org/A5036281932
+  display_name: Nyasha Chambwe
+  orcid: https://orcid.org/0000-0002-2812-0122
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109;
+- author_id: https://openalex.org/A5030526660
+  display_name: "Dianne Laboy Cintr\xF3n"
+  orcid: https://orcid.org/0000-0002-9785-3565
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5073168358
+  display_name: Jacob D. Cooper
+  orcid: https://orcid.org/0000-0002-9197-2643
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5038716753
+  display_name: Gideon P. Dunster
+  orcid: https://orcid.org/0000-0001-9050-0225
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5048942590
+  display_name: Jared A. Grummer
+  orcid: https://orcid.org/0000-0003-3627-0769
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5049959859
+  display_name: Kelly M. Hennessey
+  orcid: https://orcid.org/0000-0002-2776-8867
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5023754944
+  display_name: Jennifer Hsiao
+  orcid: https://orcid.org/0000-0003-4044-5453
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5042899858
+  display_name: Nicole N. Iranon
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5087341054
+  display_name: Leonard N. Jones
+  orcid: https://orcid.org/0000-0002-2548-8546
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5091710591
+  display_name: Hannah Jordt
+  orcid: https://orcid.org/0000-0002-0709-0294
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5061393251
+  display_name: Marlowe Keller
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5083958335
+  display_name: Melissa E. Lacey
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5035146940
+  display_name: Caitlin E. Littlefield
+  orcid: https://orcid.org/0000-0003-3771-7956
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Environmental and Forest Sciences, University of Washington, Seattle,
+    WA 98195;
+- author_id: https://openalex.org/A5051730718
+  display_name: Alexander T. Lowe
+  orcid: https://orcid.org/0000-0002-0721-4349
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5019259466
+  display_name: Shannon Newman
+  orcid: https://orcid.org/0000-0001-8425-6617
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine, University of Washington, Seattle, WA 98195;
+  - Department of Microbiology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5005879170
+  display_name: Vera Okolo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5059448854
+  display_name: Savannah L. Olroyd
+  orcid: https://orcid.org/0000-0002-0076-2473
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5007958522
+  display_name: Brandon R. Peecook
+  orcid: https://orcid.org/0000-0002-0566-1487
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5083887629
+  display_name: Sarah B. Pickett
+  orcid: https://orcid.org/0000-0003-1657-1660
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Structure, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5037557268
+  display_name: David Slager
+  orcid: https://orcid.org/0000-0003-2525-2039
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5013611834
+  display_name: Itzue W. Caviedes-Solis
+  orcid: https://orcid.org/0000-0002-8440-3645
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5061438090
+  display_name: Kathryn E. Stanchak
+  orcid: https://orcid.org/0000-0003-1405-1143
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5058495361
+  display_name: Vasudha Sundaravardan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801622741
+    display_name: Shoreline Community College
+    ror: https://ror.org/03ybzg790
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biology Department, Shoreline Community College, Shoreline, WA 98133;
+- author_id: https://openalex.org/A5021039266
+  display_name: Camila Valdebenito
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5041340974
+  display_name: Claire Williams
+  orcid: https://orcid.org/0000-0001-5467-149X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular and Cellular Biology Program, University of Washington, Seattle, WA
+    98195
+- author_id: https://openalex.org/A5028567653
+  display_name: Kaitlin A. Zinsli
+  orcid: https://orcid.org/0000-0002-3569-0641
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+- author_id: https://openalex.org/A5037991056
+  display_name: Scott Freeman
+  orcid: https://orcid.org/0000-0003-0988-1900
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biology, University of Washington, Seattle, WA 98195;
+referenced_works:
+- https://openalex.org/W1507138721
+- https://openalex.org/W1515735338
+- https://openalex.org/W1549994636
+- https://openalex.org/W1841651683
+- https://openalex.org/W1942961274
+- https://openalex.org/W1967761143
+- https://openalex.org/W1967899510
+- https://openalex.org/W1969049312
+- https://openalex.org/W1982689097
+- https://openalex.org/W1988063205
+- https://openalex.org/W1992744374
+- https://openalex.org/W1995250508
+- https://openalex.org/W2005501262
+- https://openalex.org/W2010593734
+- https://openalex.org/W2038870398
+- https://openalex.org/W2043729990
+- https://openalex.org/W2044821648
+- https://openalex.org/W2049018120
+- https://openalex.org/W2072327382
+- https://openalex.org/W2093223772
+- https://openalex.org/W2096648490
+- https://openalex.org/W2104630420
+- https://openalex.org/W2107223217
+- https://openalex.org/W2108617939
+- https://openalex.org/W2120959053
+- https://openalex.org/W2136814393
+- https://openalex.org/W2137670391
+- https://openalex.org/W2139787198
+- https://openalex.org/W2147853043
+- https://openalex.org/W2156098321
+- https://openalex.org/W2159232977
+- https://openalex.org/W2161374186
+- https://openalex.org/W2168863950
+- https://openalex.org/W2203714058
+- https://openalex.org/W2205548068
+- https://openalex.org/W2234190759
+- https://openalex.org/W2307728084
+- https://openalex.org/W2460882922
+- https://openalex.org/W2491928666
+- https://openalex.org/W2507640572
+- https://openalex.org/W2508743023
+- https://openalex.org/W2510630383
+- https://openalex.org/W2517255459
+- https://openalex.org/W2560101504
+- https://openalex.org/W2588831868
+- https://openalex.org/W2600289216
+- https://openalex.org/W2609485949
+- https://openalex.org/W2615661857
+- https://openalex.org/W2751789800
+- https://openalex.org/W2752384816
+- https://openalex.org/W2758165924
+- https://openalex.org/W2765683745
+- https://openalex.org/W2767186000
+- https://openalex.org/W2782857236
+- https://openalex.org/W2794769810
+- https://openalex.org/W2795207485
+- https://openalex.org/W2795653188
+- https://openalex.org/W2803983302
+- https://openalex.org/W2888039885
+- https://openalex.org/W2891696826
+- https://openalex.org/W2909789681
+- https://openalex.org/W2913734454
+- https://openalex.org/W2915922639
+- https://openalex.org/W2940919610
+- https://openalex.org/W2941425225
+- https://openalex.org/W2945424237
+- https://openalex.org/W2957842796
+- https://openalex.org/W2963024378
+- https://openalex.org/W2970977602
+- https://openalex.org/W2990738597
+- https://openalex.org/W2991792334
+- https://openalex.org/W3123421154
+- https://openalex.org/W4233188495
+- https://openalex.org/W612372977
+primary_topic: Innovative Teaching Methods
+open_access: true

@@ -1,0 +1,546 @@
+id: https://openalex.org/W3094967361
+doi: https://doi.org/10.1093/nar/gkaa977
+title: 'The InterPro protein families and domains database: 20 years on'
+publication_date: '2020-10-23'
+publication_year: 2020
+cited_by_count: 2016
+citation_percentile: 0.999809
+pagerank: 2.893025434652468e-06
+authorships:
+- author_id: https://openalex.org/A5002784854
+  display_name: Matthias Blum
+  orcid: https://orcid.org/0000-0001-5773-4724
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5038110477
+  display_name: Hsin-Yu Chang
+  orcid: https://orcid.org/0000-0001-5577-2356
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5057928722
+  display_name: Sara Chuguransky
+  orcid: https://orcid.org/0000-0002-0520-0736
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5060337101
+  display_name: Tiago Grego
+  orcid: https://orcid.org/0000-0002-7946-7062
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5011296467
+  display_name: Swaathi Kandasaamy
+  orcid: https://orcid.org/0000-0002-7160-3242
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5083616654
+  display_name: Alex Mitchell
+  orcid: https://orcid.org/0000-0001-8655-7966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5073761831
+  display_name: Gift Nuka
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5007486142
+  display_name: Typhaine Paysan-Lafosse
+  orcid: https://orcid.org/0000-0001-5663-0894
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5082697176
+  display_name: Matloob Qureshi
+  orcid: https://orcid.org/0000-0003-2208-4236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5009279088
+  display_name: Shriya Raj
+  orcid: https://orcid.org/0000-0002-1973-6347
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5114376389
+  display_name: Lorna Richardson
+  orcid: https://orcid.org/0000-0002-3655-5660
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5019704465
+  display_name: Gustavo A Salazar
+  orcid: https://orcid.org/0000-0001-9208-4966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5019810994
+  display_name: Lowri Williams
+  orcid: https://orcid.org/0000-0001-5551-8526
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5074309419
+  display_name: Peer Bork
+  orcid: https://orcid.org/0000-0002-2627-833X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153543
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/050589e39
+    country_code: DE
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "European Molecular Biology Laboratory, Structural and Computational Biology Unit,\
+    \ Meyerhofstra\xDFe 1, 69117 Heidelberg, Germany"
+- author_id: https://openalex.org/A5090916579
+  display_name: Alan Bridge
+  orcid: https://orcid.org/0000-0003-2148-9135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Swiss-Prot Group, Swiss Institute of Bioinformatics, CMU, 1 rue Michel Servet,
+    CH-1211, Geneva 4, Switzerland
+- author_id: https://openalex.org/A5064008781
+  display_name: Julian Gough
+  orcid: https://orcid.org/0000-0002-1965-4982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170203145
+    display_name: MRC Laboratory of Molecular Biology
+    ror: https://ror.org/00tw3jy02
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council Laboratory of Molecular Biology, Cambridge Biomedical
+    Campus, Francis Crick Ave, Trumpington, Cambridge CB2 0QH, UK
+- author_id: https://openalex.org/A5027242690
+  display_name: Daniel H. Haft
+  orcid: https://orcid.org/0000-0001-8101-4938
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "National Center for Biotechnology Information, National Library of Medicine,\
+    \ National Institutes of Health, 8600 Rockville Pike, Bethesda MD\_20894 USA"
+- author_id: https://openalex.org/A5072645674
+  display_name: "Ivica Letuni\u0107"
+  orcid: https://orcid.org/0000-0003-3560-4288
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107206
+    display_name: Biobyte Solutions (Germany)
+    ror: https://ror.org/01r8nn991
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biobyte Solutions GmbH, Bothestr 142, 69126 Heidelberg, Germany
+- author_id: https://openalex.org/A5026383671
+  display_name: "Aron Marchler\u2010Bauer"
+  orcid: https://orcid.org/0000-0003-1516-0712
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "National Center for Biotechnology Information, National Library of Medicine,\
+    \ National Institutes of Health, 8600 Rockville Pike, Bethesda MD\_20894 USA"
+- author_id: https://openalex.org/A5060575386
+  display_name: Huaiyu Mi
+  orcid: https://orcid.org/0000-0001-8721-202X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1174212
+    display_name: University of Southern California
+    ror: https://ror.org/03taz7m60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Bioinformatics, Department of Preventive Medicine, University of Southern
+    California, Los Angeles, CA 90033, USA
+- author_id: https://openalex.org/A5005555412
+  display_name: Darren A. Natale
+  orcid: https://orcid.org/0000-0001-5809-9523
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799903593
+    display_name: Georgetown University Medical Center
+    ror: https://ror.org/00hjz7x27
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I184565670
+    display_name: Georgetown University
+    ror: https://ror.org/05vzafd60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Protein Information Resource, Georgetown University Medical Center, Washington,
+    DC 20007, USA
+- author_id: https://openalex.org/A5015288701
+  display_name: Marco Necci
+  orcid: https://orcid.org/0000-0001-9377-482X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138689650
+    display_name: University of Padua
+    ror: https://ror.org/00240q980
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Sciences, University of Padua, via U. Bassi 58/b, 35131
+    Padua, Italy
+- author_id: https://openalex.org/A5081250379
+  display_name: Christine Orengo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210157240
+    display_name: Institute of Structural and Molecular Biology
+    ror: https://ror.org/05wsetc54
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Structural and Molecular Biology, University College London, Gower
+    St, Bloomsbury, London WC1E 6BT, UK
+- author_id: https://openalex.org/A5031310983
+  display_name: Arun Prasad Pandurangan
+  orcid: https://orcid.org/0000-0001-7168-7143
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170203145
+    display_name: MRC Laboratory of Molecular Biology
+    ror: https://ror.org/00tw3jy02
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council Laboratory of Molecular Biology, Cambridge Biomedical
+    Campus, Francis Crick Ave, Trumpington, Cambridge CB2 0QH, UK
+- author_id: https://openalex.org/A5044580086
+  display_name: Catherine Rivoire
+  orcid: https://orcid.org/0000-0002-5979-8382
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Swiss-Prot Group, Swiss Institute of Bioinformatics, CMU, 1 rue Michel Servet,
+    CH-1211, Geneva 4, Switzerland
+- author_id: https://openalex.org/A5057507337
+  display_name: Christian Sigrist
+  orcid: https://orcid.org/0000-0002-4348-0070
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Swiss-Prot Group, Swiss Institute of Bioinformatics, CMU, 1 rue Michel Servet,
+    CH-1211, Geneva 4, Switzerland
+- author_id: https://openalex.org/A5036351252
+  display_name: Ian Sillitoe
+  orcid: https://orcid.org/0000-0003-1091-9144
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210157240
+    display_name: Institute of Structural and Molecular Biology
+    ror: https://ror.org/05wsetc54
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Structural and Molecular Biology, University College London, Gower
+    St, Bloomsbury, London WC1E 6BT, UK
+- author_id: https://openalex.org/A5009507390
+  display_name: Narmada Thanki
+  orcid: https://orcid.org/0000-0003-1181-2509
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "National Center for Biotechnology Information, National Library of Medicine,\
+    \ National Institutes of Health, 8600 Rockville Pike, Bethesda MD\_20894 USA"
+- author_id: https://openalex.org/A5016853551
+  display_name: Paul D. Thomas
+  orcid: https://orcid.org/0000-0002-9074-3507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1174212
+    display_name: University of Southern California
+    ror: https://ror.org/03taz7m60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Bioinformatics, Department of Preventive Medicine, University of Southern
+    California, Los Angeles, CA 90033, USA
+- author_id: https://openalex.org/A5066560665
+  display_name: Silvio C. E. Tosatto
+  orcid: https://orcid.org/0000-0003-4525-7793
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138689650
+    display_name: University of Padua
+    ror: https://ror.org/00240q980
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Sciences, University of Padua, via U. Bassi 58/b, 35131
+    Padua, Italy
+- author_id: https://openalex.org/A5053761444
+  display_name: Cathy Wu
+  orcid: https://orcid.org/0000-0001-6379-8601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799903593
+    display_name: Georgetown University Medical Center
+    ror: https://ror.org/00hjz7x27
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I184565670
+    display_name: Georgetown University
+    ror: https://ror.org/05vzafd60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Protein Information Resource, Georgetown University Medical Center, Washington,
+    DC 20007, USA
+- author_id: https://openalex.org/A5059430118
+  display_name: Alex Bateman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+- author_id: https://openalex.org/A5104045098
+  display_name: ROBERT FINN
+  orcid: https://orcid.org/0000-0001-8626-2148
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK
+referenced_works:
+- https://openalex.org/W1976325156
+- https://openalex.org/W2014719716
+- https://openalex.org/W2024645073
+- https://openalex.org/W2106383137
+- https://openalex.org/W2107158607
+- https://openalex.org/W2107785922
+- https://openalex.org/W2124088653
+- https://openalex.org/W2124195867
+- https://openalex.org/W2150220236
+- https://openalex.org/W2151459176
+- https://openalex.org/W2152770371
+- https://openalex.org/W2158605937
+- https://openalex.org/W2466387107
+- https://openalex.org/W2557496587
+- https://openalex.org/W2593184757
+- https://openalex.org/W2609207099
+- https://openalex.org/W2761688050
+- https://openalex.org/W2766648240
+- https://openalex.org/W2767649956
+- https://openalex.org/W2898402099
+- https://openalex.org/W2899664253
+- https://openalex.org/W2900044275
+- https://openalex.org/W2900359059
+- https://openalex.org/W2900701906
+- https://openalex.org/W2950595506
+- https://openalex.org/W2983485154
+- https://openalex.org/W2991012415
+- https://openalex.org/W4237286925
+primary_topic: Advanced Proteomics Techniques and Applications
+open_access: true

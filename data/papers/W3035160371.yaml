@@ -1,0 +1,207 @@
+id: https://openalex.org/W3035160371
+doi: https://doi.org/10.1109/cvpr42600.2020.01070
+title: Self-Training With Noisy Student Improves ImageNet Classification
+publication_date: '2020-06-01'
+publication_year: 2020
+cited_by_count: 2067
+citation_percentile: 0.999858
+pagerank: 2.7330811544170686e-06
+authorships:
+- author_id: https://openalex.org/A5029288401
+  display_name: Qizhe Xie
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210113520
+    display_name: Brain (Germany)
+    ror: https://ror.org/01gamcy45
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Brain Team
+- author_id: https://openalex.org/A5078684067
+  display_name: Minh-Thang Luong
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210113520
+    display_name: Brain (Germany)
+    ror: https://ror.org/01gamcy45
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Brain Team
+- author_id: https://openalex.org/A5060225743
+  display_name: Eduard Hovy
+  orcid: https://orcid.org/0000-0002-3270-7903
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Carnegie Mellon University
+- author_id: https://openalex.org/A5088551093
+  display_name: Quoc V. Le
+  orcid: https://orcid.org/0000-0002-1087-2844
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210113520
+    display_name: Brain (Germany)
+    ror: https://ror.org/01gamcy45
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, Brain Team
+referenced_works:
+- https://openalex.org/W1479807131
+- https://openalex.org/W1572666543
+- https://openalex.org/W1592410721
+- https://openalex.org/W1673923490
+- https://openalex.org/W1686810756
+- https://openalex.org/W1709548961
+- https://openalex.org/W1821462560
+- https://openalex.org/W1945616565
+- https://openalex.org/W1983320747
+- https://openalex.org/W2048679005
+- https://openalex.org/W2088622183
+- https://openalex.org/W2095705004
+- https://openalex.org/W2097117768
+- https://openalex.org/W2101210369
+- https://openalex.org/W2108501770
+- https://openalex.org/W2111316763
+- https://openalex.org/W2129068307
+- https://openalex.org/W2134797427
+- https://openalex.org/W2136504847
+- https://openalex.org/W2139823104
+- https://openalex.org/W2145494108
+- https://openalex.org/W2163605009
+- https://openalex.org/W2183341477
+- https://openalex.org/W2194775991
+- https://openalex.org/W2280377497
+- https://openalex.org/W2293363371
+- https://openalex.org/W2294370754
+- https://openalex.org/W2331143823
+- https://openalex.org/W2407712691
+- https://openalex.org/W2422843715
+- https://openalex.org/W2519887557
+- https://openalex.org/W2530816535
+- https://openalex.org/W2531409750
+- https://openalex.org/W2546938941
+- https://openalex.org/W2549139847
+- https://openalex.org/W2577784528
+- https://openalex.org/W2592691248
+- https://openalex.org/W2619371851
+- https://openalex.org/W2752782242
+- https://openalex.org/W2803023299
+- https://openalex.org/W2804935296
+- https://openalex.org/W2889326796
+- https://openalex.org/W2891602716
+- https://openalex.org/W2895094948
+- https://openalex.org/W2895771689
+- https://openalex.org/W2901026139
+- https://openalex.org/W2902617128
+- https://openalex.org/W2905325450
+- https://openalex.org/W2909869271
+- https://openalex.org/W2913314773
+- https://openalex.org/W2937096868
+- https://openalex.org/W2941175503
+- https://openalex.org/W2942801205
+- https://openalex.org/W2943152387
+- https://openalex.org/W2946457369
+- https://openalex.org/W2947188859
+- https://openalex.org/W2947294642
+- https://openalex.org/W2947775933
+- https://openalex.org/W2948805184
+- https://openalex.org/W2949194345
+- https://openalex.org/W2949736877
+- https://openalex.org/W2949985837
+- https://openalex.org/W2951970475
+- https://openalex.org/W2952229419
+- https://openalex.org/W2953070460
+- https://openalex.org/W2953937638
+- https://openalex.org/W2955425717
+- https://openalex.org/W2957688595
+- https://openalex.org/W2961301154
+- https://openalex.org/W2962369866
+- https://openalex.org/W2962737770
+- https://openalex.org/W2962804657
+- https://openalex.org/W2962835968
+- https://openalex.org/W2962900737
+- https://openalex.org/W2962907457
+- https://openalex.org/W2963043971
+- https://openalex.org/W2963060032
+- https://openalex.org/W2963080758
+- https://openalex.org/W2963170156
+- https://openalex.org/W2963207607
+- https://openalex.org/W2963216553
+- https://openalex.org/W2963312446
+- https://openalex.org/W2963357083
+- https://openalex.org/W2963373786
+- https://openalex.org/W2963420686
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963558289
+- https://openalex.org/W2963703197
+- https://openalex.org/W2963785012
+- https://openalex.org/W2963821229
+- https://openalex.org/W2963938442
+- https://openalex.org/W2964015378
+- https://openalex.org/W2964081807
+- https://openalex.org/W2964153729
+- https://openalex.org/W2964159205
+- https://openalex.org/W2964222566
+- https://openalex.org/W2964253222
+- https://openalex.org/W2964277612
+- https://openalex.org/W2964350391
+- https://openalex.org/W2965658867
+- https://openalex.org/W2970311224
+- https://openalex.org/W2970680991
+- https://openalex.org/W2970780203
+- https://openalex.org/W2971015282
+- https://openalex.org/W2971071159
+- https://openalex.org/W2971315489
+- https://openalex.org/W2971316968
+- https://openalex.org/W2972991257
+- https://openalex.org/W2975761646
+- https://openalex.org/W2976223659
+- https://openalex.org/W2978426779
+- https://openalex.org/W2979805229
+- https://openalex.org/W2982640424
+- https://openalex.org/W2991040477
+- https://openalex.org/W2995746049
+- https://openalex.org/W2996501936
+- https://openalex.org/W2997972888
+- https://openalex.org/W3091002423
+- https://openalex.org/W3118342758
+- https://openalex.org/W3209458476
+- https://openalex.org/W4285051865
+- https://openalex.org/W4288020585
+- https://openalex.org/W4288335398
+- https://openalex.org/W4288359223
+- https://openalex.org/W4288404646
+- https://openalex.org/W4293846201
+- https://openalex.org/W4308831279
+- https://openalex.org/W830076066
+primary_topic: Advanced Neural Network Applications
+open_access: true

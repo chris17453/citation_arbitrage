@@ -1,0 +1,1769 @@
+id: https://openalex.org/W3121407008
+doi: https://doi.org/10.1038/s41588-020-00763-1
+title: Large-scale association analyses identify host factors influencing human gut
+  microbiome composition
+publication_date: '2021-01-18'
+publication_year: 2021
+cited_by_count: 1422
+citation_percentile: 0.999982
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5041087253
+  display_name: Alexander Kurilshikov
+  orcid: https://orcid.org/0000-0003-2541-5627
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5054770685
+  display_name: "Carolina Medina\u2010G\xF3mez"
+  orcid: https://orcid.org/0000-0001-7999-5538
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Erasmus MC University Medical Center, Rotterdam,
+    the Netherlands
+  - The Generation R Study, Erasmus MC University Medical Center, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5026810695
+  display_name: Rodrigo Bacigalupe
+  orcid: https://orcid.org/0000-0001-7310-997X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115377
+    display_name: VIB-KU Leuven Center for Microbiology
+    ror: https://ror.org/02bpp8r91
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I24156275
+    display_name: Rega Institute for Medical Research
+    ror: https://ror.org/03w5j8p12
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Microbiology, VIB, Leuven, Belgium
+  - Department of Microbiology and Immunology, Rega Institute, KU Leuven, Leuven,
+    Belgium
+- author_id: https://openalex.org/A5078123582
+  display_name: Djawad Radjabzadeh
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Erasmus MC University Medical Center, Rotterdam,
+    the Netherlands
+- author_id: https://openalex.org/A5111964102
+  display_name: Jun Wang
+  orcid: https://orcid.org/0009-0008-8475-2934
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115377
+    display_name: VIB-KU Leuven Center for Microbiology
+    ror: https://ror.org/02bpp8r91
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I24156275
+    display_name: Rega Institute for Medical Research
+    ror: https://ror.org/03w5j8p12
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Microbiology, VIB, Leuven, Belgium
+  - Department of Microbiology and Immunology, Rega Institute, KU Leuven, Leuven,
+    Belgium
+- author_id: https://openalex.org/A5001432320
+  display_name: "Ay\u015Fe Demirkan"
+  orcid: https://orcid.org/0000-0002-7546-0867
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5048199474
+  display_name: Caroline Le Roy
+  orcid: https://orcid.org/0000-0002-0341-751X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Twin Research & Genetic Epidemiology, King's College London, London,
+    UK
+- author_id: https://openalex.org/A5068761878
+  display_name: Juan A. Raygoza Garay
+  orcid: https://orcid.org/0000-0003-4296-4118
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291836623
+    display_name: Mount Sinai Hospital
+    ror: https://ror.org/05deks119
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Toronto, Toronto, Ontario, Canada
+  - Division of Gastroenterology, Mount Sinai Hospital, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5089142271
+  display_name: Casey T. Finnicum
+  orcid: https://orcid.org/0000-0001-5959-3961
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210152391
+    display_name: Avera McKennan Hospital & University Health Center
+    ror: https://ror.org/04rw83w19
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Avera Institute of Human Genetics, Avera McKennan Hospital & University Health
+    Center, Sioux Falls, SD, USA
+- author_id: https://openalex.org/A5004172120
+  display_name: Xingrong Liu
+  orcid: https://orcid.org/0000-0003-0199-0221
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Molecular Medicine and Clinical Epidemiology Division, Department of
+    Medicine Solna, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5042714049
+  display_name: Daria V. Zhernakova
+  orcid: https://orcid.org/0000-0001-6531-3890
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5008364714
+  display_name: Marc Jan Bonder
+  orcid: https://orcid.org/0000-0002-8431-3180
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5085970754
+  display_name: Tue H. Hansen
+  orcid: https://orcid.org/0000-0001-5948-8993
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health
+    and Medical Sciences, University of Copenhagen, Copenhagen, Denmark
+- author_id: https://openalex.org/A5089391172
+  display_name: Fabian Frost
+  orcid: https://orcid.org/0000-0002-1502-8888
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799318839
+    display_name: "Universit\xE4tsmedizin Greifswald"
+    ror: https://ror.org/025vngs54
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine A, University Medicine Greifswald, Greifswald, Germany
+- author_id: https://openalex.org/A5075154824
+  display_name: "Malte R\xFChlemann"
+  orcid: https://orcid.org/0000-0002-0685-0052
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32021983
+    display_name: "Christian-Albrechts-Universit\xE4t zu Kiel"
+    ror: https://ror.org/04v76ef78
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Molecular Biology, Christian-Albrechts-University of Kiel,
+    Kiel, Germany
+- author_id: https://openalex.org/A5006597007
+  display_name: Williams Turpin
+  orcid: https://orcid.org/0000-0001-9364-5868
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Toronto, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5067876334
+  display_name: "Jee\u2010Young Moon"
+  orcid: https://orcid.org/0000-0001-9218-8335
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129975664
+    display_name: Albert Einstein College of Medicine
+    ror: https://ror.org/05cf8a891
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Population Health, Albert Einstein College of Medicine,
+    Bronx, NY, USA
+- author_id: https://openalex.org/A5100455097
+  display_name: "Han\u2010Na Kim"
+  orcid: https://orcid.org/0000-0001-7053-7469
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210103535
+    display_name: Kangbuk Samsung Hospital
+    ror: https://ror.org/013e76m06
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Research Design and Evaluation, SAIHST, Sungkyunkwan University,
+    Seoul, Republic of Korea
+  - Medical Research Institute, Kangbuk Samsung Hospital, Sungkyunkwan University
+    School of Medicine, Seoul, Republic of Korea
+- author_id: https://openalex.org/A5077806373
+  display_name: "Kreete L\xFCll"
+  orcid: https://orcid.org/0000-0002-9722-5876
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Estonian Genome Centre, Institute of Genomics, University of Tartu, Tartu, Estonia
+- author_id: https://openalex.org/A5090327814
+  display_name: Elad Barkan
+  orcid: https://orcid.org/0000-0002-6176-3293
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I53964585
+    display_name: Weizmann Institute of Science
+    ror: https://ror.org/0316ej306
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Cell Biology, Weizmann Institute of Science,
+    Rehovot, Israel
+- author_id: https://openalex.org/A5003808615
+  display_name: Shiraz A. Shah
+  orcid: https://orcid.org/0000-0002-4665-577X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123840
+    display_name: Copenhagen Prospective Studies on Asthma in Childhood
+    ror: https://ror.org/034zy7551
+    country_code: DK
+    type: facility
+  - id: https://openalex.org/I2802567020
+    display_name: Copenhagen University Hospital
+    ror: https://ror.org/05bpbnx46
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COPSAC, Copenhagen University Hospital, Copenhagen, Denmark
+- author_id: https://openalex.org/A5100672057
+  display_name: Myriam Fornage
+  orcid: https://orcid.org/0000-0003-0677-8158
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I919571938
+    display_name: The University of Texas Health Science Center at Houston
+    ror: https://ror.org/03gds6c39
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genetics Center School of Public Health, The University of Texas Health
+    Science Center at Houston, Houston, TX, USA
+  - Institute of Molecular Medicine McGovern Medical School, The University of Texas
+    Health Science Center at Houston, Houston, TX, USA
+- author_id: https://openalex.org/A5046477005
+  display_name: Joanna Szopinska-Tokov
+  orcid: https://orcid.org/0000-0001-8608-5081
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802934949
+    display_name: Radboud University Medical Center
+    ror: https://ror.org/05wg1m734
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Radboudumc, Donders Institute for Brain, Cognition and
+    Behaviour, Nijmegen, the Netherlands
+- author_id: https://openalex.org/A5037780867
+  display_name: Zachary D. Wallen
+  orcid: https://orcid.org/0000-0002-2278-7348
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32389192
+    display_name: University of Alabama at Birmingham
+    ror: https://ror.org/008s83205
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, University of Alabama at Birmingham, Birmingham, AL,
+    USA
+- author_id: https://openalex.org/A5006190805
+  display_name: Dmitrii Borisevich
+  orcid: https://orcid.org/0000-0002-1686-3578
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health
+    and Medical Sciences, University of Copenhagen, Copenhagen, Denmark
+- author_id: https://openalex.org/A5006198216
+  display_name: "Lars Agr\xE9us"
+  orcid: https://orcid.org/0000-0002-6026-9883
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Family Medicine and Primary Care, Department of Neurobiology, Care
+    Sciences and Society, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5051153446
+  display_name: "Anna Andr\xE9asson"
+  orcid: https://orcid.org/0000-0003-0203-7977
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161593684
+    display_name: Stockholm University
+    ror: https://ror.org/05f0yaq80
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stress Research Institute, Stockholm University, Stockholm, Sweden
+- author_id: https://openalex.org/A5009763145
+  display_name: Corinna Bang
+  orcid: https://orcid.org/0000-0001-6814-6151
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32021983
+    display_name: "Christian-Albrechts-Universit\xE4t zu Kiel"
+    ror: https://ror.org/04v76ef78
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Molecular Biology, Christian-Albrechts-University of Kiel,
+    Kiel, Germany
+- author_id: https://openalex.org/A5048599107
+  display_name: Larbi Bedrani
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Toronto, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5076106859
+  display_name: Jordana T. Bell
+  orcid: https://orcid.org/0000-0002-3858-5986
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Twin Research & Genetic Epidemiology, King's College London, London,
+    UK
+- author_id: https://openalex.org/A5014990556
+  display_name: Hans Bisgaard
+  orcid: https://orcid.org/0000-0003-4131-7592
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123840
+    display_name: Copenhagen Prospective Studies on Asthma in Childhood
+    ror: https://ror.org/034zy7551
+    country_code: DK
+    type: facility
+  - id: https://openalex.org/I2802567020
+    display_name: Copenhagen University Hospital
+    ror: https://ror.org/05bpbnx46
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COPSAC, Copenhagen University Hospital, Copenhagen, Denmark
+- author_id: https://openalex.org/A5003810507
+  display_name: Michael Boehnke
+  orcid: https://orcid.org/0000-0002-6442-7754
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210157790
+    display_name: Statistical Research (United States)
+    ror: https://ror.org/058eg8775
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics and Center for Statistical Genetics, University of
+    Michigan, Ann Arbor, MI, USA
+- author_id: https://openalex.org/A5079752137
+  display_name: Dorret I. Boomsma
+  orcid: https://orcid.org/0000-0002-7099-7972
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I865915315
+    display_name: Vrije Universiteit Amsterdam
+    ror: https://ror.org/008xxew50
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biological Psychology, Vrije Universiteit, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5021442543
+  display_name: Robert D. Burk
+  orcid: https://orcid.org/0000-0002-8376-8458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129975664
+    display_name: Albert Einstein College of Medicine
+    ror: https://ror.org/05cf8a891
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology & Immunology, Albert Einstein College of Medicine,
+    Bronx, NY, USA
+  - Department of Pediatrics, Albert Einstein College of Medicine, Bronx, NY, USA
+- author_id: https://openalex.org/A5043779125
+  display_name: Annique Claringbould
+  orcid: https://orcid.org/0000-0002-9201-6557
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5044062846
+  display_name: Kenneth Croitoru
+  orcid: https://orcid.org/0000-0003-1231-0180
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291836623
+    display_name: Mount Sinai Hospital
+    ror: https://ror.org/05deks119
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Toronto, Toronto, Ontario, Canada
+  - Division of Gastroenterology, Mount Sinai Hospital, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5105890637
+  display_name: Gareth E. Davies
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210152391
+    display_name: Avera McKennan Hospital & University Health Center
+    ror: https://ror.org/04rw83w19
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I865915315
+    display_name: Vrije Universiteit Amsterdam
+    ror: https://ror.org/008xxew50
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Avera Institute of Human Genetics, Avera McKennan Hospital & University Health
+    Center, Sioux Falls, SD, USA
+  - Biological Psychology, Vrije Universiteit, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5017009749
+  display_name: Cornelia M. van Duijn
+  orcid: https://orcid.org/0000-0002-2374-9204
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, Erasmus MC University Medical Center, Rotterdam, the
+    Netherlands
+  - Nuffield Department of Population Health, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5048696766
+  display_name: Liesbeth Duijts
+  orcid: https://orcid.org/0000-0001-6731-9452
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Generation R Study, Erasmus MC University Medical Center, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5071053092
+  display_name: Gwen Falony
+  orcid: https://orcid.org/0000-0003-2450-0782
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115377
+    display_name: VIB-KU Leuven Center for Microbiology
+    ror: https://ror.org/02bpp8r91
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I24156275
+    display_name: Rega Institute for Medical Research
+    ror: https://ror.org/03w5j8p12
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Microbiology, VIB, Leuven, Belgium
+  - Department of Microbiology and Immunology, Rega Institute, KU Leuven, Leuven,
+    Belgium
+- author_id: https://openalex.org/A5006921045
+  display_name: Jingyuan Fu
+  orcid: https://orcid.org/0000-0001-5578-1236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5022335989
+  display_name: Adriaan van der Graaf
+  orcid: https://orcid.org/0000-0002-8898-8484
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5100704087
+  display_name: Torben Hansen
+  orcid: https://orcid.org/0000-0001-8748-3831
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health
+    and Medical Sciences, University of Copenhagen, Copenhagen, Denmark
+- author_id: https://openalex.org/A5080055118
+  display_name: Georg Homuth
+  orcid: https://orcid.org/0000-0001-6839-0605
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799318839
+    display_name: "Universit\xE4tsmedizin Greifswald"
+    ror: https://ror.org/025vngs54
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Functional Genomics, Interfaculty Institute for Genetics and Functional
+    Genomics, University Medicine Greifswald, Greifswald, Germany
+- author_id: https://openalex.org/A5065222695
+  display_name: David A. Hughes
+  orcid: https://orcid.org/0000-0002-9644-8998
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801520950
+    display_name: At Bristol
+    ror: https://ror.org/039fp5n52
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I4210158597
+    display_name: MRC Epidemiology Unit
+    ror: https://ror.org/052578691
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK
+  - Population Health Sciences, Bristol Medical School, Bristol, UK
+- author_id: https://openalex.org/A5035147756
+  display_name: Richard G. IJzerman
+  orcid: https://orcid.org/0000-0001-7951-786X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Endocrinology, Amsterdam University Medical Center, location VUMC,
+    Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5012459953
+  display_name: Matthew Jackson
+  orcid: https://orcid.org/0000-0002-7891-6217
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Twin Research & Genetic Epidemiology, King's College London, London,
+    UK
+- author_id: https://openalex.org/A5012921360
+  display_name: Vincent W. V. Jaddoe
+  orcid: https://orcid.org/0000-0003-2939-0041
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Generation R Study, Erasmus MC University Medical Center, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5040564456
+  display_name: Marie Joossens
+  orcid: https://orcid.org/0000-0001-8410-5528
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115377
+    display_name: VIB-KU Leuven Center for Microbiology
+    ror: https://ror.org/02bpp8r91
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I24156275
+    display_name: Rega Institute for Medical Research
+    ror: https://ror.org/03w5j8p12
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Microbiology, VIB, Leuven, Belgium
+  - Department of Microbiology and Immunology, Rega Institute, KU Leuven, Leuven,
+    Belgium
+- author_id: https://openalex.org/A5001928951
+  display_name: "Torben J\xF8rgensen"
+  orcid: https://orcid.org/0000-0001-9453-2830
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801150652
+    display_name: Frederiksberg Hospital
+    ror: https://ror.org/00d264c35
+    country_code: DK
+    type: healthcare
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Clinical Research and Prevention, Bispebjerg/Frederiksberg Hospital,
+    Capital Region of Copenhagen and Faculty of Health and Medical Sciences, University
+    of Copenhagen, Copenhagen, Denmark
+- author_id: https://openalex.org/A5065159657
+  display_name: "D\xE1niel Keszthelyi"
+  orcid: https://orcid.org/0000-0001-9856-9980
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Gastroenterology-Hepatology, Maastricht University Medical Center+,
+    Maastricht, the Netherlands
+  - NUTRIM School of Nutrition and Translational Research in Metabolism, Maastricht
+    University, Maastricht, the Netherlands
+- author_id: https://openalex.org/A5033881627
+  display_name: Rob Knight
+  orcid: https://orcid.org/0000-0002-0975-9019
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Microbiome Innovation and Department of Bioengeering, University of
+    California, San Diego, La Jolla, CA, USA
+  - Center for Microbiome Innovation, University of California, San Diego, La Jolla,
+    CA, USA
+  - Department of Pediatrics, University of California, San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5101939212
+  display_name: Markku Laakso
+  orcid: https://orcid.org/0000-0002-3394-7749
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I175532246
+    display_name: University of Eastern Finland
+    ror: https://ror.org/00cyydd11
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Medicine, Internal Medicine, University of Eastern Finland,
+    Kuopio, Finland
+- author_id: https://openalex.org/A5084869561
+  display_name: Matthias Laudes
+  orcid: https://orcid.org/0000-0002-7846-955X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112713
+    display_name: University Hospital Schleswig-Holstein
+    ror: https://ror.org/01tvm6f46
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I9341345
+    display_name: "University of L\xFCbeck"
+    ror: https://ror.org/00t3r8h32
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine I, University Hospital Schleswig-Holstein, Campus Kiel,
+    Kiel, Germany
+- author_id: https://openalex.org/A5018722034
+  display_name: Lenore J. Launer
+  orcid: https://orcid.org/0000-0002-3238-7612
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136897
+    display_name: National Institute on Aging
+    ror: https://ror.org/049v75w11
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Epidemiology and Population Science, National Institute on Aging,
+    Bethesda, MD, USA
+- author_id: https://openalex.org/A5016027312
+  display_name: Wolfgang Lieb
+  orcid: https://orcid.org/0000-0003-2544-4460
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32021983
+    display_name: "Christian-Albrechts-Universit\xE4t zu Kiel"
+    ror: https://ror.org/04v76ef78
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Epidemiology, Kiel University, Kiel, Germany
+- author_id: https://openalex.org/A5024741961
+  display_name: Aldons J. Lusis
+  orcid: https://orcid.org/0000-0001-9013-0228
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, Los Angeles, Los Angeles, CA,
+    USA
+  - Departments of Microbiology, Immunology and Molecular Genetics, and Human Genetics,
+    University of California, Los Angeles, Los Angeles, CA, USA
+- author_id: https://openalex.org/A5001770368
+  display_name: Ad Masclee
+  orcid: https://orcid.org/0000-0001-5819-0116
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Gastroenterology-Hepatology, Maastricht University Medical Center+,
+    Maastricht, the Netherlands
+  - NUTRIM School of Nutrition and Translational Research in Metabolism, Maastricht
+    University, Maastricht, the Netherlands
+- author_id: https://openalex.org/A5044189909
+  display_name: "Henri\xEBtte A. Moll"
+  orcid: https://orcid.org/0000-0001-9304-3322
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pediatrics, Erasmus MC University Medical Center, Rotterdam, the
+    Netherlands
+- author_id: https://openalex.org/A5029522250
+  display_name: Zlatan Mujagic
+  orcid: https://orcid.org/0000-0001-5211-0381
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Gastroenterology-Hepatology, Maastricht University Medical Center+,
+    Maastricht, the Netherlands
+  - NUTRIM School of Nutrition and Translational Research in Metabolism, Maastricht
+    University, Maastricht, the Netherlands
+- author_id: https://openalex.org/A5068641801
+  display_name: Qibin Qi
+  orcid: https://orcid.org/0000-0002-2687-1758
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129975664
+    display_name: Albert Einstein College of Medicine
+    ror: https://ror.org/05cf8a891
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Population Health, Albert Einstein College of Medicine,
+    Bronx, NY, USA
+- author_id: https://openalex.org/A5062898047
+  display_name: Daphna Rothschild
+  orcid: https://orcid.org/0000-0002-0872-8624
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I53964585
+    display_name: Weizmann Institute of Science
+    ror: https://ror.org/0316ej306
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Cell Biology, Weizmann Institute of Science,
+    Rehovot, Israel
+- author_id: https://openalex.org/A5111919439
+  display_name: Hocheol Shin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210103535
+    display_name: Kangbuk Samsung Hospital
+    ror: https://ror.org/013e76m06
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Cohort Studies, Total Healthcare Center, Kangbuk Samsung Hospital,
+    Sungkyunkwan University School of Medicine, Seoul, Republic of Korea
+  - Department of Family Medicine, Kangbuk Samsung Hospital, Sungkyunkwan University
+    School of Medicine, Seoul, Republic of Korea
+- author_id: https://openalex.org/A5028072132
+  display_name: "S\xF8ren J. S\xF8rensen"
+  orcid: https://orcid.org/0000-0001-6227-9906
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, University of Copenhagen, Copenhagen, Denmark
+- author_id: https://openalex.org/A5009232210
+  display_name: Claire J. Steves
+  orcid: https://orcid.org/0000-0002-4910-0489
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Twin Research & Genetic Epidemiology, King's College London, London,
+    UK
+- author_id: https://openalex.org/A5003075535
+  display_name: Jonathan Thorsen
+  orcid: https://orcid.org/0000-0003-0200-0461
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123840
+    display_name: Copenhagen Prospective Studies on Asthma in Childhood
+    ror: https://ror.org/034zy7551
+    country_code: DK
+    type: facility
+  - id: https://openalex.org/I2802567020
+    display_name: Copenhagen University Hospital
+    ror: https://ror.org/05bpbnx46
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COPSAC, Copenhagen University Hospital, Copenhagen, Denmark
+- author_id: https://openalex.org/A5064383725
+  display_name: Nicholas J. Timpson
+  orcid: https://orcid.org/0000-0002-7141-9189
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158597
+    display_name: MRC Epidemiology Unit
+    ror: https://ror.org/052578691
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2801520950
+    display_name: At Bristol
+    ror: https://ror.org/039fp5n52
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK
+  - Population Health Sciences, Bristol Medical School, Bristol, UK
+- author_id: https://openalex.org/A5091623976
+  display_name: "Ra\xFAl Y. Tito"
+  orcid: https://orcid.org/0000-0001-9660-7621
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115377
+    display_name: VIB-KU Leuven Center for Microbiology
+    ror: https://ror.org/02bpp8r91
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I24156275
+    display_name: Rega Institute for Medical Research
+    ror: https://ror.org/03w5j8p12
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Microbiology, VIB, Leuven, Belgium
+  - Department of Microbiology and Immunology, Rega Institute, KU Leuven, Leuven,
+    Belgium
+- author_id: https://openalex.org/A5022452005
+  display_name: "Sara Vieira\u2010Silva"
+  orcid: https://orcid.org/0000-0002-4616-7602
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115377
+    display_name: VIB-KU Leuven Center for Microbiology
+    ror: https://ror.org/02bpp8r91
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I24156275
+    display_name: Rega Institute for Medical Research
+    ror: https://ror.org/03w5j8p12
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Microbiology, VIB, Leuven, Belgium
+  - Department of Microbiology and Immunology, Rega Institute, KU Leuven, Leuven,
+    Belgium
+- author_id: https://openalex.org/A5085667735
+  display_name: "Uwe V\xF6lker"
+  orcid: https://orcid.org/0000-0002-5689-3448
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799318839
+    display_name: "Universit\xE4tsmedizin Greifswald"
+    ror: https://ror.org/025vngs54
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Functional Genomics, Interfaculty Institute for Genetics and Functional
+    Genomics, University Medicine Greifswald, Greifswald, Germany
+- author_id: https://openalex.org/A5011709769
+  display_name: "Henry V\xF6lzke"
+  orcid: https://orcid.org/0000-0001-7003-399X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799318839
+    display_name: "Universit\xE4tsmedizin Greifswald"
+    ror: https://ror.org/025vngs54
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Community Medicine, University Medicine Greifswald, Greifswald,
+    Germany
+- author_id: https://openalex.org/A5065418263
+  display_name: "Urmo V\xF5sa"
+  orcid: https://orcid.org/0000-0003-3476-1652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5082997608
+  display_name: Kaitlin H. Wade
+  orcid: https://orcid.org/0000-0003-3362-6280
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801520950
+    display_name: At Bristol
+    ror: https://ror.org/039fp5n52
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I4210158597
+    display_name: MRC Epidemiology Unit
+    ror: https://ror.org/052578691
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK
+  - Population Health Sciences, Bristol Medical School, Bristol, UK
+- author_id: https://openalex.org/A5000839699
+  display_name: Susanna Walter
+  orcid: https://orcid.org/0000-0002-3463-9705
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102134673
+    display_name: "Link\xF6ping University"
+    ror: https://ror.org/05ynxx418
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Biomedical and Clinical Sciences, University of Link\xF6ping, Link\xF6\
+    ping, Sweden"
+  - "Department of Gastroenterology, County Council of \xD6sterg\xF6tland, Link\xF6\
+    ping, Sweden"
+- author_id: https://openalex.org/A5022256055
+  display_name: Kyoko Watanabe
+  orcid: https://orcid.org/0000-0002-3303-8860
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108594
+    display_name: Amsterdam Neuroscience
+    ror: https://ror.org/01x2d9f70
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Complex Trait Genetics, Center for Neurogenomics and Cognitive Research,
+    Neuroscience Campus Amsterdam, VU University Amsterdam, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5073046450
+  display_name: "Stefan Wei\xDF"
+  orcid: https://orcid.org/0000-0002-3553-4315
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799318839
+    display_name: "Universit\xE4tsmedizin Greifswald"
+    ror: https://ror.org/025vngs54
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Functional Genomics, Interfaculty Institute for Genetics and Functional
+    Genomics, University Medicine Greifswald, Greifswald, Germany
+  - Department of Medicine A, University Medicine Greifswald, Greifswald, Germany
+- author_id: https://openalex.org/A5009296138
+  display_name: "Frank Ulrich Wei\xDF"
+  orcid: https://orcid.org/0000-0003-3369-6369
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799318839
+    display_name: "Universit\xE4tsmedizin Greifswald"
+    ror: https://ror.org/025vngs54
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine A, University Medicine Greifswald, Greifswald, Germany
+- author_id: https://openalex.org/A5028616817
+  display_name: Omer Weissbrod
+  orcid: https://orcid.org/0000-0001-9860-0626
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Public Health, Harvard University, Boston, MA, USA
+- author_id: https://openalex.org/A5047168944
+  display_name: Harm-Jan Westra
+  orcid: https://orcid.org/0000-0001-7038-567X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5038334172
+  display_name: Gonneke Willemsen
+  orcid: https://orcid.org/0000-0003-3755-0236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I865915315
+    display_name: Vrije Universiteit Amsterdam
+    ror: https://ror.org/008xxew50
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biological Psychology, Vrije Universiteit, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5055969440
+  display_name: Haydeh Payami
+  orcid: https://orcid.org/0000-0001-9084-5338
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32389192
+    display_name: University of Alabama at Birmingham
+    ror: https://ror.org/008s83205
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, University of Alabama at Birmingham, Birmingham, AL,
+    USA
+- author_id: https://openalex.org/A5058784327
+  display_name: Daisy Jonkers
+  orcid: https://orcid.org/0000-0001-8981-8965
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Gastroenterology-Hepatology, Maastricht University Medical Center+,
+    Maastricht, the Netherlands
+  - NUTRIM School of Nutrition and Translational Research in Metabolism, Maastricht
+    University, Maastricht, the Netherlands
+- author_id: https://openalex.org/A5029619884
+  display_name: "Alejandro Arias V\xE1squez"
+  orcid: https://orcid.org/0000-0002-4786-0169
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I2802934949
+    display_name: Radboud University Medical Center
+    ror: https://ror.org/05wg1m734
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Radboudumc, Donders Institute for Brain, Cognition and
+    Behaviour, Nijmegen, the Netherlands
+- author_id: https://openalex.org/A5076062731
+  display_name: Eco J. C. de Geus
+  orcid: https://orcid.org/0000-0001-6022-2666
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I865915315
+    display_name: Vrije Universiteit Amsterdam
+    ror: https://ror.org/008xxew50
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biological Psychology, Vrije Universiteit, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5033178523
+  display_name: Katie A. Meyer
+  orcid: https://orcid.org/0000-0001-7490-5273
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107819
+    display_name: David H. Murdock Research Institute
+    ror: https://ror.org/01qcwgw02
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Nutrition, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+  - Nutrition Research Institute, University of North Carolina at Chapel Hill, Kannapolis,
+    NC, USA
+- author_id: https://openalex.org/A5031414961
+  display_name: Jakob Stokholm
+  orcid: https://orcid.org/0000-0003-4989-9769
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123840
+    display_name: Copenhagen Prospective Studies on Asthma in Childhood
+    ror: https://ror.org/034zy7551
+    country_code: DK
+    type: facility
+  - id: https://openalex.org/I2802567020
+    display_name: Copenhagen University Hospital
+    ror: https://ror.org/05bpbnx46
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COPSAC, Copenhagen University Hospital, Copenhagen, Denmark
+- author_id: https://openalex.org/A5012450539
+  display_name: Eran Segal
+  orcid: https://orcid.org/0000-0002-6859-1164
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I53964585
+    display_name: Weizmann Institute of Science
+    ror: https://ror.org/0316ej306
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Cell Biology, Weizmann Institute of Science,
+    Rehovot, Israel
+- author_id: https://openalex.org/A5015217861
+  display_name: Elin Org
+  orcid: https://orcid.org/0000-0001-8688-9717
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Estonian Genome Centre, Institute of Genomics, University of Tartu, Tartu, Estonia
+- author_id: https://openalex.org/A5035504682
+  display_name: Cisca Wijmenga
+  orcid: https://orcid.org/0000-0002-5635-1614
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5078666964
+  display_name: "Hyung\u2010Lae Kim"
+  orcid: https://orcid.org/0000-0002-3260-8884
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138925566
+    display_name: Ewha Womans University
+    ror: https://ror.org/053fp5c05
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, Ewha Womans University School of Medicine, Seoul,
+    Republic of Korea
+- author_id: https://openalex.org/A5081670681
+  display_name: Robert C. Kaplan
+  orcid: https://orcid.org/0000-0003-1571-4615
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle,
+    WA, USA
+- author_id: https://openalex.org/A5002163035
+  display_name: Tim D. Spector
+  orcid: https://orcid.org/0000-0002-9795-0365
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Twin Research & Genetic Epidemiology, King's College London, London,
+    UK
+- author_id: https://openalex.org/A5031530236
+  display_name: "Andr\xE9 G. Uitterlinden"
+  orcid: https://orcid.org/0000-0002-7276-3387
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Generation R Study, Erasmus MC University Medical Center, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5021938845
+  display_name: Fernando Rivadeneira
+  orcid: https://orcid.org/0000-0001-9435-9441
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Generation R Study, Erasmus MC University Medical Center, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5073345578
+  display_name: "Andr\xE9 Franke"
+  orcid: https://orcid.org/0000-0003-1530-5811
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32021983
+    display_name: "Christian-Albrechts-Universit\xE4t zu Kiel"
+    ror: https://ror.org/04v76ef78
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Molecular Biology, Christian-Albrechts-University of Kiel,
+    Kiel, Germany
+- author_id: https://openalex.org/A5101644008
+  display_name: Markus M. Lerch
+  orcid: https://orcid.org/0000-0002-9643-8263
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799318839
+    display_name: "Universit\xE4tsmedizin Greifswald"
+    ror: https://ror.org/025vngs54
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine A, University Medicine Greifswald, Greifswald, Germany
+- author_id: https://openalex.org/A5082560822
+  display_name: Lude Franke
+  orcid: https://orcid.org/0000-0002-5159-8802
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Groningen, University Medical Center Groningen,
+    Groningen, the Netherlands
+- author_id: https://openalex.org/A5024004432
+  display_name: Serena Sanna
+  orcid: https://orcid.org/0000-0002-3768-1749
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210116388
+    display_name: Institute of Genetic and Biomedical Research
+    ror: https://ror.org/02dr63s31
+    country_code: IT
+    type: facility
+  - id: https://openalex.org/I4210155236
+    display_name: National Research Council
+    ror: https://ror.org/04zaypm56
+    country_code: IT
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Istituto di Ricerca Genetica e Biomedica, National Research Council, Monserrato,
+    Italy
+- author_id: https://openalex.org/A5071883882
+  display_name: "Mauro D\u2019Amato"
+  orcid: https://orcid.org/0000-0003-2743-5197
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210100188
+    display_name: Biogipuzkoa Health Research Institute
+    ror: https://ror.org/01a2wsa50
+    country_code: ES
+    type: facility
+  - id: https://openalex.org/I110594554
+    display_name: Ikerbasque
+    ror: https://ror.org/01cc3fy72
+    country_code: ES
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Gastrointestinal and Liver Diseases, Biodonostia Health Research\
+    \ Institute, San Sebasti\xE1n, Spain"
+  - Ikerbasque, Basque Science Foundation, Bilbao, Spain
+  - School of Biological Sciences, Monash University, Clayton, Victoria, Australia
+- author_id: https://openalex.org/A5066665434
+  display_name: Oluf Pedersen
+  orcid: https://orcid.org/0000-0002-3321-3972
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health
+    and Medical Sciences, University of Copenhagen, Copenhagen, Denmark
+referenced_works:
+- https://openalex.org/W1905058580
+- https://openalex.org/W1948774627
+- https://openalex.org/W1972237932
+- https://openalex.org/W1973529232
+- https://openalex.org/W1989568128
+- https://openalex.org/W1989848555
+- https://openalex.org/W1998335236
+- https://openalex.org/W2017443733
+- https://openalex.org/W2023615726
+- https://openalex.org/W2025353413
+- https://openalex.org/W2026884584
+- https://openalex.org/W2034285706
+- https://openalex.org/W2062598800
+- https://openalex.org/W2071841602
+- https://openalex.org/W2073836327
+- https://openalex.org/W2078599166
+- https://openalex.org/W2083870677
+- https://openalex.org/W2097875133
+- https://openalex.org/W2104549677
+- https://openalex.org/W2107725359
+- https://openalex.org/W2111307685
+- https://openalex.org/W2113699335
+- https://openalex.org/W2113925621
+- https://openalex.org/W2118147999
+- https://openalex.org/W2125784987
+- https://openalex.org/W2133520037
+- https://openalex.org/W2135199713
+- https://openalex.org/W2143777796
+- https://openalex.org/W2144596601
+- https://openalex.org/W2144754352
+- https://openalex.org/W2155066423
+- https://openalex.org/W2162426271
+- https://openalex.org/W2166320441
+- https://openalex.org/W2193096068
+- https://openalex.org/W2195783463
+- https://openalex.org/W2315123323
+- https://openalex.org/W2328393125
+- https://openalex.org/W2342540743
+- https://openalex.org/W2343597029
+- https://openalex.org/W2344543878
+- https://openalex.org/W2360231252
+- https://openalex.org/W2476273855
+- https://openalex.org/W2511515754
+- https://openalex.org/W2528524934
+- https://openalex.org/W2529032957
+- https://openalex.org/W2531570974
+- https://openalex.org/W2555297663
+- https://openalex.org/W2581245397
+- https://openalex.org/W2613603864
+- https://openalex.org/W2728822570
+- https://openalex.org/W2759859016
+- https://openalex.org/W2762425175
+- https://openalex.org/W2770092353
+- https://openalex.org/W2787902098
+- https://openalex.org/W2789739342
+- https://openalex.org/W2794286144
+- https://openalex.org/W2797413896
+- https://openalex.org/W2803072880
+- https://openalex.org/W2803631671
+- https://openalex.org/W2803801300
+- https://openalex.org/W2805983714
+- https://openalex.org/W2806036636
+- https://openalex.org/W2890820050
+- https://openalex.org/W2891631301
+- https://openalex.org/W2896352133
+- https://openalex.org/W2900158560
+- https://openalex.org/W2901934888
+- https://openalex.org/W2903882846
+- https://openalex.org/W2904906026
+- https://openalex.org/W2907107870
+- https://openalex.org/W2909668868
+- https://openalex.org/W2913620138
+- https://openalex.org/W2913914265
+- https://openalex.org/W2938918172
+- https://openalex.org/W2947189704
+- https://openalex.org/W2948767416
+- https://openalex.org/W2951777688
+- https://openalex.org/W2969869494
+- https://openalex.org/W2969996045
+- https://openalex.org/W2994807135
+- https://openalex.org/W4236808583
+primary_topic: Gut microbiota and health
+open_access: true

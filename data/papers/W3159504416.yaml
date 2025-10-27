@@ -1,0 +1,394 @@
+id: https://openalex.org/W3159504416
+doi: https://doi.org/10.7554/elife.65088
+title: Integrating taxonomic, functional, and strain-level profiling of diverse microbial
+  communities with bioBakery 3
+publication_date: '2021-05-04'
+publication_year: 2021
+cited_by_count: 1621
+citation_percentile: 0.999982
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5031917371
+  display_name: Francesco Beghini
+  orcid: https://orcid.org/0000-0002-8105-9607
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy
+- author_id: https://openalex.org/A5055202207
+  display_name: Lauren J. McIver
+  orcid: https://orcid.org/0000-0002-2199-4310
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard T.H. Chan School of Public Health, Boston, United States
+- author_id: https://openalex.org/A5041476144
+  display_name: "Aitor Blanco\u2010M\xEDguez"
+  orcid: https://orcid.org/0000-0001-7386-5572
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy
+- author_id: https://openalex.org/A5086888363
+  display_name: "L\xE9onard Dubois"
+  orcid: https://orcid.org/0000-0003-0322-482X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy
+- author_id: https://openalex.org/A5023870348
+  display_name: Francesco Asnicar
+  orcid: https://orcid.org/0000-0003-3732-1468
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy
+- author_id: https://openalex.org/A5088616755
+  display_name: Sagun Maharjan
+  orcid: https://orcid.org/0000-0001-8369-2804
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard T.H. Chan School of Public Health, Boston, United States; The Broad Institute
+    of MIT and Harvard, Cambridge, United States
+  - The Broad Institute of MIT and Harvard, Cambridge, United States
+- author_id: https://openalex.org/A5040519468
+  display_name: Ana Mailyan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard T.H. Chan School of Public Health, Boston, United States; The Broad Institute
+    of MIT and Harvard, Cambridge, United States
+  - The Broad Institute of MIT and Harvard, Cambridge, United States
+- author_id: https://openalex.org/A5011502535
+  display_name: Paolo Manghi
+  orcid: https://orcid.org/0000-0003-0846-6529
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy
+- author_id: https://openalex.org/A5005465280
+  display_name: Matthias Scholz
+  orcid: https://orcid.org/0000-0003-1414-5924
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I103225651
+    display_name: Fondazione Edmund Mach
+    ror: https://ror.org/0381bab64
+    country_code: IT
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Food Quality and Nutrition, Research and Innovation Center, Edmund\
+    \ Mach Foundation, San Michele all\u2019Adige, Italy"
+- author_id: https://openalex.org/A5081300089
+  display_name: Andrew Maltez Thomas
+  orcid: https://orcid.org/0000-0001-5789-3354
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy
+- author_id: https://openalex.org/A5081592892
+  display_name: "Mireia Vall\xE9s-Colomer"
+  orcid: https://orcid.org/0000-0002-1988-6054
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy
+- author_id: https://openalex.org/A5021685640
+  display_name: George Weingart
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard T.H. Chan School of Public Health, Boston, United States; The Broad Institute
+    of MIT and Harvard, Cambridge, United States
+  - The Broad Institute of MIT and Harvard, Cambridge, United States
+- author_id: https://openalex.org/A5091823129
+  display_name: Yancong Zhang
+  orcid: https://orcid.org/0000-0002-2768-2975
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard T.H. Chan School of Public Health, Boston, United States; The Broad Institute
+    of MIT and Harvard, Cambridge, United States
+  - The Broad Institute of MIT and Harvard, Cambridge, United States
+- author_id: https://openalex.org/A5015174011
+  display_name: Moreno Zolfo
+  orcid: https://orcid.org/0000-0001-6661-4046
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy
+- author_id: https://openalex.org/A5008844345
+  display_name: Curtis Huttenhower
+  orcid: https://orcid.org/0000-0002-1110-0096
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard T.H. Chan School of Public Health, Boston, United States; The Broad Institute
+    of MIT and Harvard, Cambridge, United States
+  - The Broad Institute of MIT and Harvard, Cambridge, United States
+- author_id: https://openalex.org/A5066321584
+  display_name: Eric A. Franzosa
+  orcid: https://orcid.org/0000-0002-8798-7068
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard T.H. Chan School of Public Health, Boston, United States; The Broad Institute
+    of MIT and Harvard, Cambridge, United States
+  - The Broad Institute of MIT and Harvard, Cambridge, United States
+- author_id: https://openalex.org/A5068576885
+  display_name: Nicola Segata
+  orcid: https://orcid.org/0000-0002-1583-5794
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I6141010
+    display_name: European Institute of Oncology
+    ror: https://ror.org/02vr0ne26
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I193223587
+    display_name: University of Trento
+    ror: https://ror.org/05trd4x28
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department CIBIO, University of Trento, Trento, Italy; IEO, European Institute
+    of Oncology IRCCS, Milan, Italy
+  - IEO, European Institute of Oncology IRCCS, Milan, Italy
+referenced_works:
+- https://openalex.org/W1433995531
+- https://openalex.org/W1493454437
+- https://openalex.org/W1703384511
+- https://openalex.org/W1883997870
+- https://openalex.org/W1945370545
+- https://openalex.org/W1970279206
+- https://openalex.org/W1975375203
+- https://openalex.org/W1978709058
+- https://openalex.org/W1980475824
+- https://openalex.org/W1996423252
+- https://openalex.org/W1997272729
+- https://openalex.org/W2001561488
+- https://openalex.org/W2004549986
+- https://openalex.org/W2019851424
+- https://openalex.org/W2037409969
+- https://openalex.org/W2045204781
+- https://openalex.org/W2055043387
+- https://openalex.org/W2069689025
+- https://openalex.org/W2076048958
+- https://openalex.org/W2087089767
+- https://openalex.org/W2094379365
+- https://openalex.org/W2096525273
+- https://openalex.org/W2102461176
+- https://openalex.org/W2103017472
+- https://openalex.org/W2103296919
+- https://openalex.org/W2111973517
+- https://openalex.org/W2112814753
+- https://openalex.org/W2113601822
+- https://openalex.org/W2113679889
+- https://openalex.org/W2114089110
+- https://openalex.org/W2115057945
+- https://openalex.org/W2120358246
+- https://openalex.org/W2124626190
+- https://openalex.org/W2124637227
+- https://openalex.org/W2128769815
+- https://openalex.org/W2130725058
+- https://openalex.org/W2131026689
+- https://openalex.org/W2131186249
+- https://openalex.org/W2131271579
+- https://openalex.org/W2131848047
+- https://openalex.org/W2139168999
+- https://openalex.org/W2141052558
+- https://openalex.org/W2143485490
+- https://openalex.org/W2145336165
+- https://openalex.org/W2146902212
+- https://openalex.org/W2147526198
+- https://openalex.org/W2156125289
+- https://openalex.org/W2156924827
+- https://openalex.org/W2157539385
+- https://openalex.org/W2157571621
+- https://openalex.org/W2159482845
+- https://openalex.org/W2160378127
+- https://openalex.org/W2162078360
+- https://openalex.org/W2170024099
+- https://openalex.org/W2170551349
+- https://openalex.org/W2173503307
+- https://openalex.org/W2178425989
+- https://openalex.org/W2185075416
+- https://openalex.org/W2211038293
+- https://openalex.org/W2223752691
+- https://openalex.org/W2233603983
+- https://openalex.org/W2282235374
+- https://openalex.org/W2307206101
+- https://openalex.org/W2345658906
+- https://openalex.org/W2377027462
+- https://openalex.org/W2381894708
+- https://openalex.org/W2401404581
+- https://openalex.org/W2473355215
+- https://openalex.org/W2503203035
+- https://openalex.org/W2533132894
+- https://openalex.org/W2586360538
+- https://openalex.org/W2599417231
+- https://openalex.org/W2612729422
+- https://openalex.org/W2648593275
+- https://openalex.org/W2747743284
+- https://openalex.org/W2749464300
+- https://openalex.org/W2753961085
+- https://openalex.org/W2754579667
+- https://openalex.org/W2756958651
+- https://openalex.org/W2766903152
+- https://openalex.org/W2767759966
+- https://openalex.org/W2767869505
+- https://openalex.org/W2770040643
+- https://openalex.org/W2770075487
+- https://openalex.org/W2773939681
+- https://openalex.org/W2774486220
+- https://openalex.org/W2794368263
+- https://openalex.org/W2821623253
+- https://openalex.org/W2845130796
+- https://openalex.org/W2897611961
+- https://openalex.org/W2898402099
+- https://openalex.org/W2898587007
+- https://openalex.org/W2910615673
+- https://openalex.org/W2911964244
+- https://openalex.org/W2912883243
+- https://openalex.org/W2912990896
+- https://openalex.org/W2913972921
+- https://openalex.org/W2915010259
+- https://openalex.org/W2920716817
+- https://openalex.org/W2922484653
+- https://openalex.org/W2927453907
+- https://openalex.org/W2932049125
+- https://openalex.org/W2944602870
+- https://openalex.org/W2944986981
+- https://openalex.org/W2947189704
+- https://openalex.org/W2949004447
+- https://openalex.org/W2950150251
+- https://openalex.org/W2950447040
+- https://openalex.org/W2950595506
+- https://openalex.org/W2951579468
+- https://openalex.org/W2951676949
+- https://openalex.org/W2952152744
+- https://openalex.org/W2952200190
+- https://openalex.org/W2952204926
+- https://openalex.org/W2953008890
+- https://openalex.org/W2963276645
+- https://openalex.org/W2966589940
+- https://openalex.org/W2968450569
+- https://openalex.org/W2971887687
+- https://openalex.org/W2973821866
+- https://openalex.org/W2980278484
+- https://openalex.org/W2983483109
+- https://openalex.org/W2986925300
+- https://openalex.org/W2990215402
+- https://openalex.org/W2990618091
+- https://openalex.org/W2990925943
+- https://openalex.org/W2997543011
+- https://openalex.org/W3000669201
+- https://openalex.org/W3004318991
+- https://openalex.org/W3009533854
+- https://openalex.org/W3011436618
+- https://openalex.org/W3011862970
+- https://openalex.org/W3028280407
+- https://openalex.org/W3033825041
+- https://openalex.org/W3042305844
+- https://openalex.org/W3136918052
+- https://openalex.org/W4238718120
+- https://openalex.org/W4255659575
+- https://openalex.org/W4294216483
+- https://openalex.org/W4399639731
+primary_topic: Genomics and Phylogenetic Studies
+open_access: true

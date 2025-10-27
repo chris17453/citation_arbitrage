@@ -1,0 +1,1528 @@
+id: https://openalex.org/W3014524604
+doi: https://doi.org/10.1136/bmj.m1328
+title: 'Prediction models for diagnosis and prognosis of covid-19: systematic review
+  and critical appraisal'
+publication_date: '2020-04-07'
+publication_year: 2020
+cited_by_count: 2919
+citation_percentile: 0.999133
+pagerank: 2.64161440281843e-06
+authorships:
+- author_id: https://openalex.org/A5069906805
+  display_name: Laure Wynants
+  orcid: https://orcid.org/0000-0002-3037-122X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Development and Regeneration, KU Leuven, Leuven, Belgium
+  - Department of Epidemiology, CAPHRI Care and Public Health Research Institute,
+    Maastricht University, Maastricht, Netherlands
+- author_id: https://openalex.org/A5086320066
+  display_name: Ben Van Calster
+  orcid: https://orcid.org/0000-0003-1613-7450
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Data Sciences, Leiden University Medical Centre, Leiden,
+    Netherlands
+  - Department of Development and Regeneration, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5060891981
+  display_name: Gary S. Collins
+  orcid: https://orcid.org/0000-0002-2772-2316
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801809904
+    display_name: Nuffield Orthopaedic Centre
+    ror: https://ror.org/0036ate90
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2802742124
+    display_name: John Radcliffe Hospital
+    ror: https://ror.org/0080acb59
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Musculoskeletal
+    Sciences, University of Oxford, Oxford, UK
+  - NIHR Oxford Biomedical Research Centre, John Radcliffe Hospital, Oxford, UK
+- author_id: https://openalex.org/A5040942978
+  display_name: Richard D Riley
+  orcid: https://orcid.org/0000-0001-8699-0735
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56007636
+    display_name: Keele University
+    ror: https://ror.org/00340yn33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Prognosis Research, School of Medicine, Keele University, Keele, UK
+- author_id: https://openalex.org/A5040146633
+  display_name: Georg Heinze
+  orcid: https://orcid.org/0000-0003-1147-8491
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1327969474
+    display_name: Statistics Austria
+    ror: https://ror.org/030j5vf66
+    country_code: AT
+    type: government
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Section for Clinical Biometrics, Centre for Medical Statistics, Informatics and
+    Intelligent Systems, Medical University of Vienna, Vienna, Austria
+- author_id: https://openalex.org/A5047626219
+  display_name: Ewoud Schuit
+  orcid: https://orcid.org/0000-0002-9548-3214
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5091307778
+  display_name: Elena Albu
+  orcid: https://orcid.org/0000-0003-2602-0918
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Development and Regeneration, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5044372494
+  display_name: Banafsheh Arshi
+  orcid: https://orcid.org/0000-0003-0223-7872
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, CAPHRI Care and Public Health Research Institute,
+    Maastricht University, Maastricht, Netherlands
+- author_id: https://openalex.org/A5039159193
+  display_name: Vanesa Bellou
+  orcid: https://orcid.org/0000-0003-1960-048X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I194019607
+    display_name: University of Ioannina
+    ror: https://ror.org/01qg3j183
+    country_code: GR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Hygiene and Epidemiology, University of Ioannina Medical School,
+    Ioannina, Greece
+- author_id: https://openalex.org/A5055970684
+  display_name: Marc J. M. Bonten
+  orcid: https://orcid.org/0000-0002-9095-9201
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, University Medical Centre Utrecht, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5006048374
+  display_name: Darren Dahly
+  orcid: https://orcid.org/0000-0003-0110-324X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210086850
+    display_name: Health Research Board
+    ror: https://ror.org/003hb2249
+    country_code: IE
+    type: government
+  - id: https://openalex.org/I27577105
+    display_name: University College Cork
+    ror: https://ror.org/03265fv13
+    country_code: IE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HRB Clinical Research Facility, Cork, Ireland
+  - School of Public Health, University College Cork, Cork, Ireland
+- author_id: https://openalex.org/A5065571198
+  display_name: Johanna AAG Damen
+  orcid: https://orcid.org/0000-0001-7401-4593
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5002390430
+  display_name: Thomas P. A. Debray
+  orcid: https://orcid.org/0000-0002-1790-2719
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1322731696
+    display_name: Centraal Bureau voor de Statistiek
+    ror: https://ror.org/0408v4c28
+    country_code: NL
+    type: other
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+  - Smart Data Analysis and Statistics BV, Utrecht, Netherlands
+- author_id: https://openalex.org/A5000598059
+  display_name: Valentijn M. T. de Jong
+  orcid: https://orcid.org/0000-0001-9921-3468
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5064593698
+  display_name: Maarten De Vos
+  orcid: https://orcid.org/0000-0002-3482-5145
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Development and Regeneration, KU Leuven, Leuven, Belgium
+  - Department of Electrical Engineering, ESAT Stadius, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5059901188
+  display_name: Paula Dhiman
+  orcid: https://orcid.org/0000-0002-0989-0623
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802742124
+    display_name: John Radcliffe Hospital
+    ror: https://ror.org/0080acb59
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2801809904
+    display_name: Nuffield Orthopaedic Centre
+    ror: https://ror.org/0036ate90
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Musculoskeletal
+    Sciences, University of Oxford, Oxford, UK
+  - NIHR Oxford Biomedical Research Centre, John Radcliffe Hospital, Oxford, UK
+- author_id: https://openalex.org/A5009368181
+  display_name: Joie Ensor
+  orcid: https://orcid.org/0000-0001-7481-0282
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56007636
+    display_name: Keele University
+    ror: https://ror.org/00340yn33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Prognosis Research, School of Medicine, Keele University, Keele, UK
+- author_id: https://openalex.org/A5069131549
+  display_name: Shan Gao
+  orcid: https://orcid.org/0000-0003-0871-1694
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Development and Regeneration, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5088731678
+  display_name: Maria Haller
+  orcid: https://orcid.org/0000-0003-4635-6291
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1327969474
+    display_name: Statistics Austria
+    ror: https://ror.org/030j5vf66
+    country_code: AT
+    type: government
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  - id: https://openalex.org/I4210130384
+    display_name: Krankenhaus der Elisabethinen
+    ror: https://ror.org/02pes1a77
+    country_code: AT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ordensklinikum Linz, Hospital Elisabethinen, Department of Nephrology, Linz, Austria
+  - Section for Clinical Biometrics, Centre for Medical Statistics, Informatics and
+    Intelligent Systems, Medical University of Vienna, Vienna, Austria
+- author_id: https://openalex.org/A5089111176
+  display_name: Michael O. Harhay
+  orcid: https://orcid.org/0000-0002-0553-674X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, Epidemiology and Informatics, Perelman School of
+    Medicine, University of Pennsylvania, Philadelphia, PA, USA
+  - Palliative and Advanced Illness Research Center and Division of Pulmonary and
+    Critical Care Medicine, Department of Medicine, Perelman School of Medicine, University
+    of Pennsylvania, Philadelphia, PA, USA
+- author_id: https://openalex.org/A5067217087
+  display_name: Liesbet Henckaerts
+  orcid: https://orcid.org/0000-0003-2880-1400
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General Internal Medicine, KU Leuven-University Hospitals Leuven,
+    Leuven, Belgium
+  - Department of Microbiology, Immunology and Transplantation, KU Leuven-University
+    of Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5019062479
+  display_name: Pauline Heus
+  orcid: https://orcid.org/0000-0002-6886-4652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5026647620
+  display_name: Jeroen Hoogland
+  orcid: https://orcid.org/0000-0002-2397-6052
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5069588937
+  display_name: Mohammed T Hudda
+  orcid: https://orcid.org/0000-0001-7894-1159
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165862685
+    display_name: St George's, University of London
+    ror: https://ror.org/040f08y74
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Health Research Institute, St. George's University of London, Cranmer
+    Terrace, London, UK
+- author_id: https://openalex.org/A5061363735
+  display_name: Kevin Jenniskens
+  orcid: https://orcid.org/0000-0003-3724-8424
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5053024693
+  display_name: Michael Kammer
+  orcid: https://orcid.org/0000-0003-4821-9928
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  - id: https://openalex.org/I1327969474
+    display_name: Statistics Austria
+    ror: https://ror.org/030j5vf66
+    country_code: AT
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Nephrology, Medical University of Vienna, Vienna, Austria
+  - Section for Clinical Biometrics, Centre for Medical Statistics, Informatics and
+    Intelligent Systems, Medical University of Vienna, Vienna, Austria
+- author_id: https://openalex.org/A5079465646
+  display_name: Nina Kreuzberger
+  orcid: https://orcid.org/0000-0001-8922-0488
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153755
+    display_name: University Hospital Cologne
+    ror: https://ror.org/05mxhda18
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I180923762
+    display_name: University of Cologne
+    ror: https://ror.org/00rcxh774
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210089242
+    display_name: "D\xFCsseldorf University Hospital"
+    ror: https://ror.org/006k2kk72
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I44260953
+    display_name: "Heinrich Heine University D\xFCsseldorf"
+    ror: https://ror.org/024z2rq82
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Evidence-Based Oncology, Department I of Internal Medicine and Centre for Integrated
+    Oncology Aachen Bonn Cologne Dusseldorf, Faculty of Medicine and University Hospital
+    Cologne, University of Cologne, Cologne, Germany
+- author_id: https://openalex.org/A5080989830
+  display_name: Anna Lohmann
+  orcid: https://orcid.org/0000-0002-4004-4265
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Epidemiology, Leiden University Medical Centre, Leiden,
+    Netherlands
+- author_id: https://openalex.org/A5110675215
+  display_name: Brooke Levis
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56007636
+    display_name: Keele University
+    ror: https://ror.org/00340yn33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Prognosis Research, School of Medicine, Keele University, Keele, UK
+- author_id: https://openalex.org/A5008177557
+  display_name: Kim Luijken
+  orcid: https://orcid.org/0000-0001-5192-8368
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Epidemiology, Leiden University Medical Centre, Leiden,
+    Netherlands
+- author_id: https://openalex.org/A5033683284
+  display_name: Jie Ma
+  orcid: https://orcid.org/0000-0002-3900-1903
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802742124
+    display_name: John Radcliffe Hospital
+    ror: https://ror.org/0080acb59
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Oxford Biomedical Research Centre, John Radcliffe Hospital, Oxford, UK
+- author_id: https://openalex.org/A5026108472
+  display_name: Glen P. Martin
+  orcid: https://orcid.org/0000-0002-3410-9472
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799725268
+    display_name: Manchester Academic Health Science Centre
+    ror: https://ror.org/04rrkhs81
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Informatics, Imaging and Data Science, Faculty of Biology, Medicine
+    and Health, Manchester Academic Health Science Centre, University of Manchester,
+    Manchester, UK
+- author_id: https://openalex.org/A5036821496
+  display_name: David J. McLernon
+  orcid: https://orcid.org/0000-0001-8905-2429
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195460627
+    display_name: University of Aberdeen
+    ror: https://ror.org/016476m91
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Applied Health Sciences, University of Aberdeen, Aberdeen, UK
+- author_id: https://openalex.org/A5002700472
+  display_name: Constanza L. Andaur Navarro
+  orcid: https://orcid.org/0000-0002-7745-2887
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5007039126
+  display_name: Johannes B. Reitsma
+  orcid: https://orcid.org/0000-0003-4026-4345
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5015064541
+  display_name: Jamie C. Sergeant
+  orcid: https://orcid.org/0000-0002-9000-4413
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117448
+    display_name: Versus Arthritis
+    ror: https://ror.org/02jkpm469
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2799725268
+    display_name: Manchester Academic Health Science Centre
+    ror: https://ror.org/04rrkhs81
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Biostatistics, University of Manchester, Manchester Academic Health
+    Science Centre, Manchester, UK
+  - Centre for Epidemiology Versus Arthritis, Centre for Musculoskeletal Research,
+    University of Manchester, Manchester Academic Health Science Centre, Manchester,
+    UK
+- author_id: https://openalex.org/A5028836592
+  display_name: Chunhu Shi
+  orcid: https://orcid.org/0000-0003-0151-0451
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Nursing, Midwifery and Social Work, School of Health Sciences, University
+    of Manchester, Manchester, UK
+- author_id: https://openalex.org/A5091567011
+  display_name: Nicole Skoetz
+  orcid: https://orcid.org/0000-0003-4744-6192
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Nephrology, Medical University of Vienna, Vienna, Austria
+- author_id: https://openalex.org/A5011494200
+  display_name: Luc Smits
+  orcid: https://orcid.org/0000-0003-0785-1345
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, CAPHRI Care and Public Health Research Institute,
+    Maastricht University, Maastricht, Netherlands
+- author_id: https://openalex.org/A5049252097
+  display_name: Kym I E Snell
+  orcid: https://orcid.org/0000-0001-9373-6591
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56007636
+    display_name: Keele University
+    ror: https://ror.org/00340yn33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Prognosis Research, School of Medicine, Keele University, Keele, UK
+- author_id: https://openalex.org/A5009872155
+  display_name: Matthew Sperrin
+  orcid: https://orcid.org/0000-0002-5351-9960
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Biology, Medicine and Health, University of Manchester, Manchester,
+    UK
+- author_id: https://openalex.org/A5037205074
+  display_name: "Ren\xE9 Spijker"
+  orcid: https://orcid.org/0000-0003-4445-1201
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Amsterdam UMC, University of Amsterdam, Amsterdam Public Health, Medical Library,
+    Netherlands
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5091435927
+  display_name: Ewout W. Steyerberg
+  orcid: https://orcid.org/0000-0002-7787-0122
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Data Sciences, Leiden University Medical Centre, Leiden,
+    Netherlands
+- author_id: https://openalex.org/A5071965605
+  display_name: Toshihiko Takada
+  orcid: https://orcid.org/0000-0002-8032-6224
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I130830085
+    display_name: Fukushima Medical University
+    ror: https://ror.org/012eh0r35
+    country_code: JP
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General Medicine, Shirakawa Satellite for Teaching And Research,
+    Fukushima Medical University, Fukushima, Japan
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5020053314
+  display_name: Ioanna Tzoulaki
+  orcid: https://orcid.org/0000-0002-4275-9328
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I194019607
+    display_name: University of Ioannina
+    ror: https://ror.org/01qg3j183
+    country_code: GR
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Biostatistics, Imperial College London School of
+    Public Health, London, UK
+  - Department of Hygiene and Epidemiology, University of Ioannina Medical School,
+    Ioannina, Greece
+- author_id: https://openalex.org/A5087173002
+  display_name: Sander M. J. van Kuijk
+  orcid: https://orcid.org/0000-0003-2796-729X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800191616
+    display_name: Maastricht University Medical Centre
+    ror: https://ror.org/02d9ce178
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Epidemiology and Medical Technology Assessment, Maastricht
+    University Medical Centre+, Maastricht, Netherlands
+- author_id: https://openalex.org/A5056785549
+  display_name: Bas C. T. van Bussel
+  orcid: https://orcid.org/0000-0003-1621-7848
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800191616
+    display_name: Maastricht University Medical Centre
+    ror: https://ror.org/02d9ce178
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, CAPHRI Care and Public Health Research Institute,
+    Maastricht University, Maastricht, Netherlands
+  - Department of Intensive Care Medicine, Maastricht University Medical Centre+,
+    Maastricht University, Maastricht, Netherlands
+- author_id: https://openalex.org/A5024802434
+  display_name: Iwan C.C. van der Horst
+  orcid: https://orcid.org/0000-0003-3891-8522
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800191616
+    display_name: Maastricht University Medical Centre
+    ror: https://ror.org/02d9ce178
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Intensive Care Medicine, Maastricht University Medical Centre+,
+    Maastricht University, Maastricht, Netherlands
+- author_id: https://openalex.org/A5009834839
+  display_name: Kelly Reeve
+  orcid: https://orcid.org/0000-0001-9325-6467
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I2801753046
+    display_name: Prevention Institute
+    ror: https://ror.org/02xdygm42
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Epidemiology, Biostatistics and Prevention Institute, University of Zurich, Zurich,
+    CH
+- author_id: https://openalex.org/A5024752503
+  display_name: Florien S van Royen
+  orcid: https://orcid.org/0000-0002-6785-214X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5058597472
+  display_name: Jan Y. Verbakel
+  orcid: https://orcid.org/0000-0002-7166-7211
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - EPI-Centre, Department of Public Health and Primary Care, KU Leuven, Leuven, Belgium
+  - NIHR Community Healthcare Medtech and IVD cooperative, Nuffield Department of
+    Primary Care Health Sciences, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5101666312
+  display_name: Christine Wallisch
+  orcid: https://orcid.org/0000-0003-3943-6234
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1327969474
+    display_name: Statistics Austria
+    ror: https://ror.org/030j5vf66
+    country_code: AT
+    type: government
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Berlin Institute of Health, Berlin, Germany
+  - "Charit\xE9 Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4\
+    t Berlin, Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+  - Section for Clinical Biometrics, Centre for Medical Statistics, Informatics and
+    Intelligent Systems, Medical University of Vienna, Vienna, Austria
+- author_id: https://openalex.org/A5045971585
+  display_name: Jack Wilkinson
+  orcid: https://orcid.org/0000-0003-3513-4677
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Epidemiology, Leiden University Medical Centre, Leiden,
+    Netherlands
+- author_id: https://openalex.org/A5090941567
+  display_name: Robert Wolff
+  orcid: https://orcid.org/0000-0003-3270-7791
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088647
+    display_name: Kleijnen Systematic Reviews (United Kingdom)
+    ror: https://ror.org/004g82f36
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kleijnen Systematic Reviews, York, UK
+- author_id: https://openalex.org/A5050066824
+  display_name: Lotty Hooft
+  orcid: https://orcid.org/0000-0002-7950-2980
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5083104697
+  display_name: Karel G.M. Moons
+  orcid: https://orcid.org/0000-0003-2118-004X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cochrane Netherlands, University Medical Center Utrecht, Utrecht University, Utrecht,
+    Netherlands
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5067519537
+  display_name: Maarten van Smeden
+  orcid: https://orcid.org/0000-0002-5529-1541
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Julius Center for Health Sciences and Primary Care, University Medical Center
+    Utrecht, Utrecht University, Utrecht, Netherlands
+referenced_works:
+- https://openalex.org/W1980283223
+- https://openalex.org/W1989482154
+- https://openalex.org/W1994682257
+- https://openalex.org/W2018195004
+- https://openalex.org/W2049481662
+- https://openalex.org/W2054193584
+- https://openalex.org/W2055905393
+- https://openalex.org/W2077663753
+- https://openalex.org/W2102361557
+- https://openalex.org/W2122892545
+- https://openalex.org/W2167702473
+- https://openalex.org/W2169167455
+- https://openalex.org/W2264767503
+- https://openalex.org/W2282181907
+- https://openalex.org/W2297716127
+- https://openalex.org/W2474667434
+- https://openalex.org/W2792493484
+- https://openalex.org/W2809949684
+- https://openalex.org/W2907638671
+- https://openalex.org/W2924749256
+- https://openalex.org/W2965782433
+- https://openalex.org/W2996480032
+- https://openalex.org/W3005879071
+- https://openalex.org/W3007104434
+- https://openalex.org/W3007170347
+- https://openalex.org/W3007625673
+- https://openalex.org/W3008145948
+- https://openalex.org/W3008443627
+- https://openalex.org/W3009156795
+- https://openalex.org/W3009299193
+- https://openalex.org/W3009336466
+- https://openalex.org/W3009557552
+- https://openalex.org/W3009885589
+- https://openalex.org/W3009898265
+- https://openalex.org/W3009951436
+- https://openalex.org/W3010061930
+- https://openalex.org/W3010313912
+- https://openalex.org/W3010488079
+- https://openalex.org/W3010667412
+- https://openalex.org/W3010714490
+- https://openalex.org/W3011041531
+- https://openalex.org/W3011128956
+- https://openalex.org/W3011139532
+- https://openalex.org/W3011149445
+- https://openalex.org/W3011188307
+- https://openalex.org/W3011340828
+- https://openalex.org/W3011414603
+- https://openalex.org/W3011439019
+- https://openalex.org/W3011508296
+- https://openalex.org/W3011810856
+- https://openalex.org/W3011912855
+- https://openalex.org/W3012054129
+- https://openalex.org/W3012290165
+- https://openalex.org/W3012413426
+- https://openalex.org/W3012602559
+- https://openalex.org/W3012755403
+- https://openalex.org/W3012774668
+- https://openalex.org/W3012794751
+- https://openalex.org/W3012817089
+- https://openalex.org/W3012857944
+- https://openalex.org/W3012867892
+- https://openalex.org/W3013126924
+- https://openalex.org/W3013277995
+- https://openalex.org/W3013601031
+- https://openalex.org/W3013713506
+- https://openalex.org/W3013805242
+- https://openalex.org/W3014028105
+- https://openalex.org/W3014159788
+- https://openalex.org/W3014289208
+- https://openalex.org/W3014361272
+- https://openalex.org/W3014611436
+- https://openalex.org/W3014789701
+- https://openalex.org/W3014904525
+- https://openalex.org/W3014939112
+- https://openalex.org/W3015116865
+- https://openalex.org/W3015305373
+- https://openalex.org/W3015381159
+- https://openalex.org/W3015543750
+- https://openalex.org/W3015605914
+- https://openalex.org/W3015713757
+- https://openalex.org/W3015753778
+- https://openalex.org/W3016142775
+- https://openalex.org/W3016292699
+- https://openalex.org/W3016449694
+- https://openalex.org/W3016544281
+- https://openalex.org/W3016589287
+- https://openalex.org/W3016667461
+- https://openalex.org/W3016675451
+- https://openalex.org/W3016950572
+- https://openalex.org/W3017022286
+- https://openalex.org/W3017026876
+- https://openalex.org/W3017053225
+- https://openalex.org/W3017111613
+- https://openalex.org/W3017116151
+- https://openalex.org/W3017403618
+- https://openalex.org/W3017451406
+- https://openalex.org/W3017644243
+- https://openalex.org/W3017855299
+- https://openalex.org/W3018347166
+- https://openalex.org/W3018512560
+- https://openalex.org/W3018936110
+- https://openalex.org/W3019081625
+- https://openalex.org/W3019163280
+- https://openalex.org/W3019187481
+- https://openalex.org/W3019326823
+- https://openalex.org/W3019515795
+- https://openalex.org/W3019531985
+- https://openalex.org/W3019963528
+- https://openalex.org/W3020247423
+- https://openalex.org/W3020529120
+- https://openalex.org/W3020653337
+- https://openalex.org/W3021001730
+- https://openalex.org/W3021214012
+- https://openalex.org/W3021476631
+- https://openalex.org/W3021524447
+- https://openalex.org/W3021841162
+- https://openalex.org/W3022207387
+- https://openalex.org/W3022324734
+- https://openalex.org/W3022330788
+- https://openalex.org/W3022809052
+- https://openalex.org/W3022882668
+- https://openalex.org/W3022889367
+- https://openalex.org/W3022903699
+- https://openalex.org/W3023037738
+- https://openalex.org/W3023180050
+- https://openalex.org/W3023492090
+- https://openalex.org/W3023519397
+- https://openalex.org/W3023594394
+- https://openalex.org/W3023827256
+- https://openalex.org/W3023856687
+- https://openalex.org/W3024251435
+- https://openalex.org/W3024802287
+- https://openalex.org/W3024853795
+- https://openalex.org/W3024893910
+- https://openalex.org/W3025016712
+- https://openalex.org/W3025226884
+- https://openalex.org/W3025411021
+- https://openalex.org/W3025482896
+- https://openalex.org/W3025504737
+- https://openalex.org/W3025520558
+- https://openalex.org/W3025744915
+- https://openalex.org/W3025948831
+- https://openalex.org/W3025953162
+- https://openalex.org/W3026294709
+- https://openalex.org/W3026804883
+- https://openalex.org/W3027732801
+- https://openalex.org/W3027764902
+- https://openalex.org/W3028029557
+- https://openalex.org/W3029243274
+- https://openalex.org/W3029548865
+- https://openalex.org/W3029616546
+- https://openalex.org/W3029984445
+- https://openalex.org/W3030277401
+- https://openalex.org/W3030498843
+- https://openalex.org/W3031136549
+- https://openalex.org/W3031638490
+- https://openalex.org/W3031876060
+- https://openalex.org/W3032017599
+- https://openalex.org/W3032754356
+- https://openalex.org/W3032903018
+- https://openalex.org/W3033175757
+- https://openalex.org/W3033275794
+- https://openalex.org/W3033616466
+- https://openalex.org/W3033756580
+- https://openalex.org/W3033969394
+- https://openalex.org/W3033978771
+- https://openalex.org/W3034328076
+- https://openalex.org/W3034454688
+- https://openalex.org/W3034491854
+- https://openalex.org/W3034988614
+- https://openalex.org/W3035151116
+- https://openalex.org/W3035161663
+- https://openalex.org/W3035365174
+- https://openalex.org/W3035399681
+- https://openalex.org/W3035939706
+- https://openalex.org/W3035941308
+- https://openalex.org/W3035986928
+- https://openalex.org/W3036069285
+- https://openalex.org/W3036133321
+- https://openalex.org/W3036145919
+- https://openalex.org/W3036239415
+- https://openalex.org/W3036259678
+- https://openalex.org/W3036262581
+- https://openalex.org/W3036623533
+- https://openalex.org/W3036884088
+- https://openalex.org/W3036943613
+- https://openalex.org/W3037161067
+- https://openalex.org/W3037413790
+- https://openalex.org/W3037538421
+- https://openalex.org/W3037727185
+- https://openalex.org/W3037974458
+- https://openalex.org/W3038561441
+- https://openalex.org/W3038611982
+- https://openalex.org/W3038857122
+- https://openalex.org/W3039347467
+- https://openalex.org/W3041041945
+- https://openalex.org/W3041147423
+- https://openalex.org/W3041608683
+- https://openalex.org/W3041822539
+- https://openalex.org/W3042100171
+- https://openalex.org/W3042654282
+- https://openalex.org/W3042675242
+- https://openalex.org/W3042689945
+- https://openalex.org/W3043615492
+- https://openalex.org/W3043907733
+- https://openalex.org/W3044304208
+- https://openalex.org/W3044469886
+- https://openalex.org/W3045165849
+- https://openalex.org/W3045717469
+- https://openalex.org/W3045976354
+- https://openalex.org/W3046629770
+- https://openalex.org/W3046842728
+- https://openalex.org/W3046858365
+- https://openalex.org/W3047268902
+- https://openalex.org/W3048676143
+- https://openalex.org/W3048742086
+- https://openalex.org/W3048830381
+- https://openalex.org/W3048949642
+- https://openalex.org/W3049226000
+- https://openalex.org/W3049308402
+- https://openalex.org/W3049388154
+- https://openalex.org/W3062600242
+- https://openalex.org/W3080326129
+- https://openalex.org/W3080360204
+- https://openalex.org/W3080418088
+- https://openalex.org/W3081345330
+- https://openalex.org/W3082026913
+- https://openalex.org/W3082631915
+- https://openalex.org/W3082751011
+- https://openalex.org/W3082965428
+- https://openalex.org/W3083123786
+- https://openalex.org/W3083753334
+- https://openalex.org/W3083792018
+- https://openalex.org/W3083854065
+- https://openalex.org/W3084233629
+- https://openalex.org/W3084332830
+- https://openalex.org/W3084338058
+- https://openalex.org/W3084704439
+- https://openalex.org/W3085068924
+- https://openalex.org/W3085439774
+- https://openalex.org/W3085445039
+- https://openalex.org/W3086075964
+- https://openalex.org/W3086623639
+- https://openalex.org/W3087049386
+- https://openalex.org/W3087166427
+- https://openalex.org/W3087342396
+- https://openalex.org/W3087409606
+- https://openalex.org/W3087595187
+- https://openalex.org/W3087718362
+- https://openalex.org/W3087726200
+- https://openalex.org/W3087855548
+- https://openalex.org/W3087966128
+- https://openalex.org/W3088160529
+- https://openalex.org/W3088234337
+- https://openalex.org/W3088315869
+- https://openalex.org/W3088436771
+- https://openalex.org/W3088503210
+- https://openalex.org/W3089110790
+- https://openalex.org/W3089564851
+- https://openalex.org/W3089585488
+- https://openalex.org/W3090002180
+- https://openalex.org/W3090218328
+- https://openalex.org/W3090219715
+- https://openalex.org/W3090317644
+- https://openalex.org/W3090469325
+- https://openalex.org/W3090484760
+- https://openalex.org/W3090661639
+- https://openalex.org/W3091109908
+- https://openalex.org/W3091169370
+- https://openalex.org/W3091483014
+- https://openalex.org/W3091829098
+- https://openalex.org/W3091873439
+- https://openalex.org/W3091897929
+- https://openalex.org/W3091940685
+- https://openalex.org/W3091975903
+- https://openalex.org/W3092164953
+- https://openalex.org/W3092208592
+- https://openalex.org/W3092239204
+- https://openalex.org/W3092275814
+- https://openalex.org/W3092284106
+- https://openalex.org/W3092324640
+- https://openalex.org/W3092418586
+- https://openalex.org/W3092456421
+- https://openalex.org/W3092519965
+- https://openalex.org/W3092794453
+- https://openalex.org/W3092834602
+- https://openalex.org/W3093068007
+- https://openalex.org/W3093272769
+- https://openalex.org/W3093335254
+- https://openalex.org/W3093458145
+- https://openalex.org/W3093584692
+- https://openalex.org/W3093679651
+- https://openalex.org/W3094073641
+- https://openalex.org/W3094092489
+- https://openalex.org/W3094359889
+- https://openalex.org/W3094452031
+- https://openalex.org/W3094467747
+- https://openalex.org/W3094542430
+- https://openalex.org/W3094787789
+- https://openalex.org/W3095556701
+- https://openalex.org/W3096382597
+- https://openalex.org/W3096718527
+- https://openalex.org/W3096956107
+- https://openalex.org/W3097189258
+- https://openalex.org/W3097408824
+- https://openalex.org/W3097534319
+- https://openalex.org/W3097549410
+- https://openalex.org/W3097707180
+- https://openalex.org/W3098311842
+- https://openalex.org/W3099478457
+- https://openalex.org/W3099808521
+- https://openalex.org/W3099868929
+- https://openalex.org/W3099955745
+- https://openalex.org/W3100841013
+- https://openalex.org/W3101153096
+- https://openalex.org/W3101387374
+- https://openalex.org/W3101387822
+- https://openalex.org/W3102263761
+- https://openalex.org/W3102452523
+- https://openalex.org/W3102469298
+- https://openalex.org/W3102491040
+- https://openalex.org/W3102496999
+- https://openalex.org/W3102902405
+- https://openalex.org/W3104241090
+- https://openalex.org/W3104532908
+- https://openalex.org/W3104739447
+- https://openalex.org/W3104769194
+- https://openalex.org/W3104955410
+- https://openalex.org/W3105514536
+- https://openalex.org/W3105837102
+- https://openalex.org/W3106619130
+- https://openalex.org/W3107567387
+- https://openalex.org/W3107940485
+- https://openalex.org/W3108120617
+- https://openalex.org/W3109428022
+- https://openalex.org/W3110388659
+- https://openalex.org/W3110670148
+- https://openalex.org/W3110771438
+- https://openalex.org/W3110800647
+- https://openalex.org/W3110804039
+- https://openalex.org/W3111024346
+- https://openalex.org/W3111029093
+- https://openalex.org/W3111305325
+- https://openalex.org/W3111500722
+- https://openalex.org/W3111540962
+- https://openalex.org/W3111708529
+- https://openalex.org/W3111779760
+- https://openalex.org/W3111789970
+- https://openalex.org/W3111903742
+- https://openalex.org/W3112005101
+- https://openalex.org/W3112025444
+- https://openalex.org/W3112381869
+- https://openalex.org/W3112449829
+- https://openalex.org/W3112484594
+- https://openalex.org/W3112518067
+- https://openalex.org/W3112746256
+- https://openalex.org/W3112971251
+- https://openalex.org/W3113005448
+- https://openalex.org/W3113027665
+- https://openalex.org/W3113262260
+- https://openalex.org/W3113614413
+- https://openalex.org/W3113738142
+- https://openalex.org/W3114025153
+- https://openalex.org/W3114718035
+- https://openalex.org/W3114970284
+- https://openalex.org/W3115234172
+- https://openalex.org/W3115764297
+- https://openalex.org/W3116336904
+- https://openalex.org/W3116477986
+- https://openalex.org/W3116936469
+- https://openalex.org/W3116982252
+- https://openalex.org/W3117569770
+- https://openalex.org/W3117634937
+- https://openalex.org/W3117723077
+- https://openalex.org/W3118950667
+- https://openalex.org/W3118996476
+- https://openalex.org/W3119080408
+- https://openalex.org/W3119175057
+- https://openalex.org/W3119190148
+- https://openalex.org/W3119796240
+- https://openalex.org/W3120017613
+- https://openalex.org/W3120105983
+- https://openalex.org/W3120281748
+- https://openalex.org/W3120366519
+- https://openalex.org/W3120426839
+- https://openalex.org/W3120518378
+- https://openalex.org/W3120666722
+- https://openalex.org/W3120798636
+- https://openalex.org/W3120886601
+- https://openalex.org/W3120909655
+- https://openalex.org/W3121136349
+- https://openalex.org/W3121252309
+- https://openalex.org/W3121339497
+- https://openalex.org/W3121555817
+- https://openalex.org/W3121562086
+- https://openalex.org/W3121921387
+- https://openalex.org/W3121971531
+- https://openalex.org/W3122601055
+- https://openalex.org/W3123695557
+- https://openalex.org/W3124022561
+- https://openalex.org/W3124163620
+- https://openalex.org/W3124413935
+- https://openalex.org/W3124449783
+- https://openalex.org/W3124584258
+- https://openalex.org/W3124919495
+- https://openalex.org/W3124923460
+- https://openalex.org/W3124927206
+- https://openalex.org/W3125645332
+- https://openalex.org/W3125804999
+- https://openalex.org/W3125839038
+- https://openalex.org/W3126196511
+- https://openalex.org/W3126233013
+- https://openalex.org/W3126525609
+- https://openalex.org/W3126570147
+- https://openalex.org/W3126572990
+- https://openalex.org/W3126883428
+- https://openalex.org/W3127076855
+- https://openalex.org/W3127193704
+- https://openalex.org/W3127517870
+- https://openalex.org/W3127520812
+- https://openalex.org/W3127566540
+- https://openalex.org/W3127825288
+- https://openalex.org/W3128259017
+- https://openalex.org/W3128261479
+- https://openalex.org/W3128288966
+- https://openalex.org/W3129080628
+- https://openalex.org/W3129576291
+- https://openalex.org/W3129581972
+- https://openalex.org/W3133191822
+- https://openalex.org/W3135243128
+- https://openalex.org/W3140022118
+- https://openalex.org/W3153982323
+- https://openalex.org/W3159001838
+- https://openalex.org/W3164719666
+- https://openalex.org/W3193840810
+- https://openalex.org/W3211147521
+- https://openalex.org/W3213055150
+- https://openalex.org/W4200283820
+- https://openalex.org/W4207035450
+- https://openalex.org/W4212784128
+- https://openalex.org/W4213286494
+- https://openalex.org/W4234339400
+- https://openalex.org/W4238788310
+- https://openalex.org/W4243340283
+- https://openalex.org/W4285091715
+primary_topic: COVID-19 diagnosis using AI
+open_access: true

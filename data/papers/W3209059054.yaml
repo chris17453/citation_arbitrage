@@ -1,0 +1,167 @@
+id: https://openalex.org/W3209059054
+doi: https://doi.org/10.1109/taslp.2021.3122291
+title: 'HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction
+  of Hidden Units'
+publication_date: '2021-01-01'
+publication_year: 2021
+cited_by_count: 1348
+citation_percentile: 0.999973
+pagerank: 2.5443244638240363e-06
+authorships:
+- author_id: https://openalex.org/A5051950818
+  display_name: Wei-Ning Hsu
+  orcid: https://orcid.org/0000-0001-5546-5217
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook, Inc., New York, NY, USA
+- author_id: https://openalex.org/A5113811530
+  display_name: Benjamin Bolte
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210099336
+    display_name: Menlo School
+    ror: https://ror.org/01240pn49
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - '[Facebook AI Research Menlo Park, CA, USA]'
+- author_id: https://openalex.org/A5015826285
+  display_name: Yao-Hung Hubert Tsai
+  orcid: https://orcid.org/0000-0001-5312-1875
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - '[Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA USA]'
+- author_id: https://openalex.org/A5050838145
+  display_name: Kushal Lakhotia
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210099336
+    display_name: Menlo School
+    ror: https://ror.org/01240pn49
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - '[Facebook AI Research Menlo Park, CA, USA]'
+- author_id: https://openalex.org/A5071983998
+  display_name: Ruslan Salakhutdinov
+  orcid: https://orcid.org/0000-0002-3752-2756
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - '[Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA USA]'
+- author_id: https://openalex.org/A5103742478
+  display_name: Abdelrahman Mohamed
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210099336
+    display_name: Menlo School
+    ror: https://ror.org/01240pn49
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - '[Facebook AI Research Menlo Park, CA, USA]'
+referenced_works:
+- https://openalex.org/W1494198834
+- https://openalex.org/W1522301498
+- https://openalex.org/W1553004968
+- https://openalex.org/W2032210463
+- https://openalex.org/W2100768664
+- https://openalex.org/W2101234009
+- https://openalex.org/W2110073835
+- https://openalex.org/W2127141656
+- https://openalex.org/W2150593711
+- https://openalex.org/W2155273149
+- https://openalex.org/W2347098582
+- https://openalex.org/W2750248772
+- https://openalex.org/W2758785877
+- https://openalex.org/W2883725317
+- https://openalex.org/W2888911345
+- https://openalex.org/W2896457183
+- https://openalex.org/W2933138175
+- https://openalex.org/W2937090315
+- https://openalex.org/W2962739339
+- https://openalex.org/W2962850167
+- https://openalex.org/W2963799213
+- https://openalex.org/W2965373594
+- https://openalex.org/W2972943112
+- https://openalex.org/W2973049979
+- https://openalex.org/W2973157397
+- https://openalex.org/W2979476256
+- https://openalex.org/W2982223350
+- https://openalex.org/W2988736778
+- https://openalex.org/W2995181338
+- https://openalex.org/W2998532468
+- https://openalex.org/W3003875258
+- https://openalex.org/W3008525923
+- https://openalex.org/W3011411500
+- https://openalex.org/W3015265920
+- https://openalex.org/W3015522062
+- https://openalex.org/W3016011332
+- https://openalex.org/W3026041220
+- https://openalex.org/W3033038061
+- https://openalex.org/W3034999214
+- https://openalex.org/W3035060554
+- https://openalex.org/W3035202887
+- https://openalex.org/W3035524453
+- https://openalex.org/W3036224891
+- https://openalex.org/W3036601975
+- https://openalex.org/W3093579165
+- https://openalex.org/W3096338464
+- https://openalex.org/W3097777922
+- https://openalex.org/W3112034174
+- https://openalex.org/W3125709657
+- https://openalex.org/W3144810982
+- https://openalex.org/W3148040514
+- https://openalex.org/W3160525311
+- https://openalex.org/W3160799772
+- https://openalex.org/W3161101519
+- https://openalex.org/W3171007011
+- https://openalex.org/W3197223534
+- https://openalex.org/W4254197176
+- https://openalex.org/W4287824654
+- https://openalex.org/W4292779060
+- https://openalex.org/W4297786395
+- https://openalex.org/W4297808394
+primary_topic: Speech Recognition and Synthesis
+open_access: true

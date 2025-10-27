@@ -1,0 +1,980 @@
+id: https://openalex.org/W4224950216
+doi: https://doi.org/10.1016/s0140-6736(22)00462-7
+title: 'Comparative analysis of the risks of hospitalisation and death associated
+  with SARS-CoV-2 omicron (B.1.1.529) and delta (B.1.617.2) variants in England: a
+  cohort study'
+publication_date: '2022-03-16'
+publication_year: 2022
+cited_by_count: 1227
+citation_percentile: 0.999952
+pagerank: 2.5351894904663993e-06
+authorships:
+- author_id: https://openalex.org/A5069060216
+  display_name: Tommy Nyberg
+  orcid: https://orcid.org/0000-0002-9436-0626
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5008407354
+  display_name: Neil M. Ferguson
+  orcid: https://orcid.org/0000-0002-1154-8093
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5034927280
+  display_name: Sophie Nash
+  orcid: https://orcid.org/0000-0002-7717-6982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5070668121
+  display_name: Harriet Webster
+  orcid: https://orcid.org/0000-0002-2145-8884
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5032005702
+  display_name: Seth Flaxman
+  orcid: https://orcid.org/0000-0002-2477-4217
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5072485453
+  display_name: Nick Andrews
+  orcid: https://orcid.org/0000-0003-2069-2684
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 Surveillance Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5085026623
+  display_name: Wes Hinsley
+  orcid: https://orcid.org/0000-0002-4597-1746
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5038691513
+  display_name: Jamie Lopez Bernal
+  orcid: https://orcid.org/0000-0002-1301-5653
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 Surveillance Cell, UK Health Security Agency, London, UK
+  - NIHR Health Protection Research Unit for Respiratory Infections, Imperial College
+    London, London, UK
+- author_id: https://openalex.org/A5038168969
+  display_name: Meaghan Kall
+  orcid: https://orcid.org/0000-0001-6971-427X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5091290326
+  display_name: Samir Bhatt
+  orcid: https://orcid.org/0000-0002-0891-4611
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5085156593
+  display_name: Paula Blomquist
+  orcid: https://orcid.org/0000-0002-3962-4211
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Outbreak Surveillance Team, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5086208105
+  display_name: Asad Zaidi
+  orcid: https://orcid.org/0000-0002-6420-2539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5058253520
+  display_name: Erik Volz
+  orcid: https://orcid.org/0000-0001-6268-8937
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5047546460
+  display_name: Nurin Abdul Aziz
+  orcid: https://orcid.org/0000-0002-8098-6935
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5054599845
+  display_name: Katie Harman
+  orcid: https://orcid.org/0000-0003-1387-0200
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5058699536
+  display_name: Sebastian Funk
+  orcid: https://orcid.org/0000-0002-2842-3406
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089966
+    display_name: London School of Hygiene & Tropical Medicine
+    ror: https://ror.org/00a0jsq62
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the Mathematical Modelling of Infectious Diseases, London School of
+    Hygiene & Tropical Medicine, London, UK
+- author_id: https://openalex.org/A5083613572
+  display_name: Sam Abbott
+  orcid: https://orcid.org/0000-0001-8057-8037
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089966
+    display_name: London School of Hygiene & Tropical Medicine
+    ror: https://ror.org/00a0jsq62
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the Mathematical Modelling of Infectious Diseases, London School of
+    Hygiene & Tropical Medicine, London, UK
+- author_id: https://openalex.org/A5039878003
+  display_name: Russell Hope
+  orcid: https://orcid.org/0000-0003-2838-6833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5005539896
+  display_name: "Andr\xE9 Charlett"
+  orcid: https://orcid.org/0000-0001-7154-0432
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I178535277
+    display_name: University of the West of England
+    ror: https://ror.org/02nwg5t34
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Joint Modelling Team, UK Health Security Agency, London, UK
+  - NIHR Health Protection Research Unit for Behavioural Science and Evaluation at
+    the University of Bristol, University of the West of England, and University of
+    Cambridge, Bristol, UK
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+  - Statistics, Modelling and Economics Department, UK Health Security Agency, London,
+    UK
+- author_id: https://openalex.org/A5067682457
+  display_name: Meera Chand
+  orcid: https://orcid.org/0000-0001-9697-0340
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 Genomics Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5009727567
+  display_name: Azra C. Ghani
+  orcid: https://orcid.org/0000-0002-0007-4910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5057085199
+  display_name: Shaun R. Seaman
+  orcid: https://orcid.org/0000-0003-3726-5937
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5084296936
+  display_name: Gavin Dabrera
+  orcid: https://orcid.org/0000-0003-4606-5945
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5017011444
+  display_name: Daniela De Angelis
+  orcid: https://orcid.org/0000-0001-6619-6112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  - id: https://openalex.org/I178535277
+    display_name: University of the West of England
+    ror: https://ror.org/02nwg5t34
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Joint Modelling Team, UK Health Security Agency, London, UK
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+  - NIHR Health Protection Research Unit for Behavioural Science and Evaluation at
+    the University of Bristol, University of the West of England, and University of
+    Cambridge, Bristol, UK
+  - Statistics, Modelling and Economics Department, UK Health Security Agency, London,
+    UK
+- author_id: https://openalex.org/A5018101302
+  display_name: Anne M. Presanis
+  orcid: https://orcid.org/0000-0003-3078-4427
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5036755484
+  display_name: Simon Thelwall
+  orcid: https://orcid.org/0000-0002-0434-2724
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5069060216
+  display_name: Tommy Nyberg
+  orcid: https://orcid.org/0000-0002-9436-0626
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5008407354
+  display_name: Neil M. Ferguson
+  orcid: https://orcid.org/0000-0002-1154-8093
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5034927280
+  display_name: Sophie Nash
+  orcid: https://orcid.org/0000-0002-7717-6982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5070668121
+  display_name: Harriet Webster
+  orcid: https://orcid.org/0000-0002-2145-8884
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5032005702
+  display_name: Seth Flaxman
+  orcid: https://orcid.org/0000-0002-2477-4217
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5072485453
+  display_name: Nick Andrews
+  orcid: https://orcid.org/0000-0003-2069-2684
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 Surveillance Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5085026623
+  display_name: Wes Hinsley
+  orcid: https://orcid.org/0000-0002-4597-1746
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5038691513
+  display_name: Jamie Lopez Bernal
+  orcid: https://orcid.org/0000-0002-1301-5653
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 Surveillance Cell, UK Health Security Agency, London, UK
+  - NIHR Health Protection Research Unit for Respiratory Infections, Imperial College
+    London, London, UK
+- author_id: https://openalex.org/A5038168969
+  display_name: Meaghan Kall
+  orcid: https://orcid.org/0000-0001-6971-427X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5091290326
+  display_name: Samir Bhatt
+  orcid: https://orcid.org/0000-0002-0891-4611
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5085156593
+  display_name: Paula Blomquist
+  orcid: https://orcid.org/0000-0002-3962-4211
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Outbreak Surveillance Team, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5086208105
+  display_name: Asad Zaidi
+  orcid: https://orcid.org/0000-0002-6420-2539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5058253520
+  display_name: Erik Volz
+  orcid: https://orcid.org/0000-0001-6268-8937
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5047546460
+  display_name: Nurin Abdul Aziz
+  orcid: https://orcid.org/0000-0002-8098-6935
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5054599845
+  display_name: Katie Harman
+  orcid: https://orcid.org/0000-0003-1387-0200
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5058699536
+  display_name: Sebastian Funk
+  orcid: https://orcid.org/0000-0002-2842-3406
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089966
+    display_name: London School of Hygiene & Tropical Medicine
+    ror: https://ror.org/00a0jsq62
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the Mathematical Modelling of Infectious Diseases, London School of
+    Hygiene & Tropical Medicine, London, UK
+- author_id: https://openalex.org/A5083613572
+  display_name: Sam Abbott
+  orcid: https://orcid.org/0000-0001-8057-8037
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089966
+    display_name: London School of Hygiene & Tropical Medicine
+    ror: https://ror.org/00a0jsq62
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the Mathematical Modelling of Infectious Diseases, London School of
+    Hygiene & Tropical Medicine, London, UK
+- author_id: https://openalex.org/A5039878003
+  display_name: Russell Hope
+  orcid: https://orcid.org/0000-0003-2838-6833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5005539896
+  display_name: "Andr\xE9 Charlett"
+  orcid: https://orcid.org/0000-0001-7154-0432
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  - id: https://openalex.org/I178535277
+    display_name: University of the West of England
+    ror: https://ror.org/02nwg5t34
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Joint Modelling Team, UK Health Security Agency, London, UK
+  - NIHR Health Protection Research Unit for Behavioural Science and Evaluation at
+    the University of Bristol, University of the West of England, and University of
+    Cambridge, Bristol, UK
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+  - Statistics, Modelling and Economics Department, UK Health Security Agency, London,
+    UK
+- author_id: https://openalex.org/A5067682457
+  display_name: Meera Chand
+  orcid: https://orcid.org/0000-0001-9697-0340
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 Genomics Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5009727567
+  display_name: Azra C. Ghani
+  orcid: https://orcid.org/0000-0002-0007-4910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit for Modelling and Health Economics, MRC Centre
+    for Global Infectious Disease Analysis, Jameel Institute, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5057085199
+  display_name: Shaun R. Seaman
+  orcid: https://orcid.org/0000-0003-3726-5937
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5093271398
+  display_name: Gavin Dabrera
+  orcid: https://orcid.org/0009-0006-9675-9661
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+- author_id: https://openalex.org/A5017011444
+  display_name: Daniela De Angelis
+  orcid: https://orcid.org/0000-0001-6619-6112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  - id: https://openalex.org/I178535277
+    display_name: University of the West of England
+    ror: https://ror.org/02nwg5t34
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Joint Modelling Team, UK Health Security Agency, London, UK
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+  - NIHR Health Protection Research Unit for Behavioural Science and Evaluation at
+    the University of Bristol, University of the West of England, and University of
+    Cambridge, Bristol, UK
+  - Statistics, Modelling and Economics Department, UK Health Security Agency, London,
+    UK
+- author_id: https://openalex.org/A5018101302
+  display_name: Anne M. Presanis
+  orcid: https://orcid.org/0000-0003-3078-4427
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5036755484
+  display_name: Simon Thelwall
+  orcid: https://orcid.org/0000-0002-0434-2724
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4387153084
+    display_name: UK Health Security Agency
+    ror: https://ror.org/018h10037
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - COVID-19 National Epidemiology Cell, UK Health Security Agency, London, UK
+referenced_works:
+- https://openalex.org/W3142474203
+- https://openalex.org/W3166402652
+- https://openalex.org/W3171654353
+- https://openalex.org/W3177416318
+- https://openalex.org/W3196284513
+- https://openalex.org/W3196618419
+- https://openalex.org/W3198045862
+- https://openalex.org/W3198487015
+- https://openalex.org/W3203507661
+- https://openalex.org/W4200236595
+- https://openalex.org/W4205568591
+- https://openalex.org/W4205860681
+- https://openalex.org/W4206167305
+- https://openalex.org/W4206765951
+- https://openalex.org/W4206781002
+- https://openalex.org/W4207057792
+- https://openalex.org/W4210308999
+- https://openalex.org/W4210429338
+- https://openalex.org/W4210665241
+- https://openalex.org/W4212846964
+- https://openalex.org/W4213069125
+- https://openalex.org/W4220884449
+- https://openalex.org/W4224287290
+- https://openalex.org/W4225795841
+- https://openalex.org/W4225942701
+- https://openalex.org/W4226108422
+- https://openalex.org/W4226164012
+- https://openalex.org/W4226181138
+- https://openalex.org/W4226192094
+- https://openalex.org/W4226229183
+- https://openalex.org/W4280589523
+- https://openalex.org/W4281784908
+- https://openalex.org/W4282586353
+- https://openalex.org/W4289517359
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

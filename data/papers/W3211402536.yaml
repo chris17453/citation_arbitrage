@@ -1,0 +1,540 @@
+id: https://openalex.org/W3211402536
+doi: https://doi.org/10.1093/nar/gkab1028
+title: The reactome pathway knowledgebase 2022
+publication_date: '2021-10-14'
+publication_year: 2021
+cited_by_count: 2069
+citation_percentile: 0.999982
+pagerank: 2.7171484669859993e-06
+authorships:
+- author_id: https://openalex.org/A5040546699
+  display_name: Marc Gillespie
+  orcid: https://orcid.org/0000-0002-5766-1702
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  - id: https://openalex.org/I142823887
+    display_name: St. John's University
+    ror: https://ror.org/00bgtad15
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Pharmacy and Health Sciences, St. John's University, Queens, NY11439,
+    USA
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5045359895
+  display_name: Bijay Jassal
+  orcid: https://orcid.org/0000-0002-5039-5405
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5102963153
+  display_name: Ralf Stephan
+  orcid: https://orcid.org/0000-0002-4650-631X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5081289281
+  display_name: M Orlic-Milacic
+  orcid: https://orcid.org/0000-0002-3218-5631
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5002658332
+  display_name: Karen Rothfels
+  orcid: https://orcid.org/0000-0002-0705-7048
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5003661676
+  display_name: "Andrea Senff\u2010Ribeiro"
+  orcid: https://orcid.org/0000-0002-7967-6307
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  - id: https://openalex.org/I52418104
+    display_name: "Universidade Federal do Paran\xE1"
+    ror: https://ror.org/05syd6y78
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+  - "Universidade Federal do Paran\xE1, Curitiba, 80060-000,\_Brazil"
+- author_id: https://openalex.org/A5001448895
+  display_name: Johannes Griss
+  orcid: https://orcid.org/0000-0003-2206-9511
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Dermatology, Medical University of Vienna, 1090 Vienna, Austria
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5029646676
+  display_name: Cristoffer Sevilla
+  orcid: https://orcid.org/0000-0002-8570-4650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5003520248
+  display_name: Lisa Matthews
+  orcid: https://orcid.org/0000-0001-5707-3065
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NYU Grossman School of Medicine, New York, NY10016, USA
+- author_id: https://openalex.org/A5086133062
+  display_name: Chuqiao Gong
+  orcid: https://orcid.org/0000-0001-8674-1739
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5089760469
+  display_name: Chuan Deng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I10535382
+    display_name: Chongqing University of Posts and Telecommunications
+    ror: https://ror.org/03dgaqz26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Chongqing Key Laboratory on Big Data for Bio Intelligence, Chongqing University\
+    \ of Posts and Telecommunications, Chongqing\_400065, China"
+  - National Center for Protein Sciences Beijing, Beijing Institute of Life Omics,
+    Beijing102206, China
+- author_id: https://openalex.org/A5058626872
+  display_name: Thawfeek Varusai
+  orcid: https://orcid.org/0000-0002-7864-5971
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210086966
+    display_name: Open Targets
+    ror: https://ror.org/000bp7q73
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+  - Open Targets, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5017919801
+  display_name: Eliot Ragueneau
+  orcid: https://orcid.org/0000-0002-7876-6503
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5017126566
+  display_name: Yusra Haider
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5036541728
+  display_name: Bruce May
+  orcid: https://orcid.org/0000-0001-5193-0855
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5056708717
+  display_name: Veronica Shamovsky
+  orcid: https://orcid.org/0000-0002-2187-2241
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NYU Grossman School of Medicine, New York, NY10016, USA
+- author_id: https://openalex.org/A5026244391
+  display_name: Joel Weiser
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5076270443
+  display_name: Timothy Brunson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health and Science University, Portland, OR 97239, USA
+- author_id: https://openalex.org/A5006812940
+  display_name: Nasim Sanati
+  orcid: https://orcid.org/0000-0001-6681-0418
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health and Science University, Portland, OR 97239, USA
+- author_id: https://openalex.org/A5018568638
+  display_name: Liam Beckman
+  orcid: https://orcid.org/0009-0008-4585-9181
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health and Science University, Portland, OR 97239, USA
+- author_id: https://openalex.org/A5001787597
+  display_name: Xiang Shao
+  orcid: https://orcid.org/0000-0002-5519-3386
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health and Science University, Portland, OR 97239, USA
+- author_id: https://openalex.org/A5017871846
+  display_name: Antonio Fabregat
+  orcid: https://orcid.org/0000-0002-3288-8599
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5087599896
+  display_name: Konstantinos Sidiropoulos
+  orcid: https://orcid.org/0000-0003-1014-967X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5033780178
+  display_name: Julieth Murillo
+  orcid: https://orcid.org/0000-0002-9865-8905
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087692
+    display_name: Centro Internacional de Entrenamiento e Investigaciones Medicas
+    ror: https://ror.org/003s20294
+    country_code: CO
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centro Internacional de Entrenamiento e Investigaciones M\xE9dicas, Cali\_18\
+    \ # 122-135, Colombia"
+- author_id: https://openalex.org/A5082483580
+  display_name: Guilherme Viteri
+  orcid: https://orcid.org/0000-0003-0530-4903
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+- author_id: https://openalex.org/A5026782519
+  display_name: Justin Cook
+  orcid: https://orcid.org/0000-0003-3457-2552
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5032388127
+  display_name: Solomon I. Shorser
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5010789029
+  display_name: Gary D. Bader
+  orcid: https://orcid.org/0000-0003-0185-8861
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada
+- author_id: https://openalex.org/A5037803004
+  display_name: Emek Demir
+  orcid: https://orcid.org/0000-0002-3663-7113
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health and Science University, Portland, OR 97239, USA
+- author_id: https://openalex.org/A5008166270
+  display_name: Chris Sander
+  orcid: https://orcid.org/0000-0001-6059-6270
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - cBio Center at Dana-Farber Cancer Institute, Boston, MA02115, USA
+- author_id: https://openalex.org/A5045676311
+  display_name: Robin Haw
+  orcid: https://orcid.org/0000-0002-2013-7835
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5006718188
+  display_name: Guanming Wu
+  orcid: https://orcid.org/0000-0001-8196-1177
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Oregon Health and Science University, Portland, OR 97239, USA
+- author_id: https://openalex.org/A5052076713
+  display_name: Lincoln Stein
+  orcid: https://orcid.org/0000-0002-1983-4588
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A1,
+    Canada
+  - Ontario Institute for Cancer Research, Toronto, ON M5G0A3, Canada
+- author_id: https://openalex.org/A5066783652
+  display_name: Henning Hermjakob
+  orcid: https://orcid.org/0000-0001-8479-0262
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI),
+    Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
+  - National Center for Protein Sciences Beijing, Beijing Institute of Life Omics,
+    Beijing102206, China
+- author_id: https://openalex.org/A5074201106
+  display_name: "Peter D\u2019Eustachio"
+  orcid: https://orcid.org/0000-0002-5494-626X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - NYU Grossman School of Medicine, New York, NY10016, USA
+referenced_works:
+- https://openalex.org/W1989277387
+- https://openalex.org/W2124045889
+- https://openalex.org/W2132992030
+- https://openalex.org/W2139129258
+- https://openalex.org/W2432916178
+- https://openalex.org/W2584760282
+- https://openalex.org/W2788451340
+- https://openalex.org/W2895689867
+- https://openalex.org/W2953275535
+- https://openalex.org/W2965796930
+- https://openalex.org/W2965912723
+- https://openalex.org/W2971956617
+- https://openalex.org/W2977870980
+- https://openalex.org/W2982521190
+- https://openalex.org/W3021219695
+- https://openalex.org/W3022285953
+- https://openalex.org/W3024689608
+- https://openalex.org/W3046558543
+- https://openalex.org/W3083903534
+- https://openalex.org/W3096828292
+- https://openalex.org/W3112376646
+- https://openalex.org/W3205620409
+- https://openalex.org/W3211402536
+- https://openalex.org/W4231254854
+- https://openalex.org/W4294576509
+primary_topic: Bioinformatics and Genomic Networks
+open_access: true

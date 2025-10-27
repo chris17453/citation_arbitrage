@@ -1,0 +1,354 @@
+id: https://openalex.org/W3025104221
+doi: https://doi.org/10.1038/s41586-020-2242-8
+title: Accelerated discovery of CO2 electrocatalysts using active machine learning
+publication_date: '2020-05-13'
+publication_year: 2020
+cited_by_count: 1301
+citation_percentile: 0.999935
+pagerank: 2.5448430634300846e-06
+authorships:
+- author_id: https://openalex.org/A5000342150
+  display_name: Miao Zhong
+  orcid: https://orcid.org/0000-0002-1253-7783
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5008974845
+  display_name: Kevin Tran
+  orcid: https://orcid.org/0000-0002-8162-4477
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5074546064
+  display_name: Yimeng Min
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5088804168
+  display_name: Chuanhao Wang
+  orcid: https://orcid.org/0000-0003-0134-5935
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5100744706
+  display_name: Ziyun Wang
+  orcid: https://orcid.org/0000-0002-2817-8367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5012487063
+  display_name: "Cao\u2010Thang Dinh"
+  orcid: https://orcid.org/0000-0001-9641-9815
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5001195523
+  display_name: Phil De Luna
+  orcid: https://orcid.org/0000-0002-7729-8816
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Materials Science Engineering, University of Toronto, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5103332295
+  display_name: Zongqian Yu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5001981614
+  display_name: Armin Sedighian Rasouli
+  orcid: https://orcid.org/0000-0002-0807-9468
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5054641401
+  display_name: Peter Brodersen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Centre for Characterization of Advanced Materials (OCCAM), University
+    of Toronto, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5078325730
+  display_name: Song Sun
+  orcid: https://orcid.org/0000-0002-3625-7858
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I126520041
+    display_name: University of Science and Technology of China
+    ror: https://ror.org/04c4dkn09
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210149848
+    display_name: National Synchrotron Radiation Laboratory
+    ror: https://ror.org/03rx2tr07
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Synchrotron Radiation Laboratory, University of Science and Technology
+    of China, Hefei, China
+- author_id: https://openalex.org/A5051815230
+  display_name: Oleksandr Voznyy
+  orcid: https://orcid.org/0000-0002-8656-5074
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5043475619
+  display_name: "Chih\u2010Shan Tan"
+  orcid: https://orcid.org/0000-0001-9043-3237
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5015651438
+  display_name: Mikhail Askerka
+  orcid: https://orcid.org/0000-0003-3134-6496
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5072657571
+  display_name: Fanglin Che
+  orcid: https://orcid.org/0000-0001-5109-8296
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5100343920
+  display_name: Min Liu
+  orcid: https://orcid.org/0000-0002-9007-4817
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5013704951
+  display_name: Ali Seifitokaldani
+  orcid: https://orcid.org/0000-0002-7169-1537
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5088633622
+  display_name: Yuanjie Pang
+  orcid: https://orcid.org/0000-0003-1328-3700
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5113887129
+  display_name: Shen-Chuan Lo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210148468
+    display_name: Industrial Technology Research Institute
+    ror: https://ror.org/05szzwt63
+    country_code: TW
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Industrial Technology Research Institute, Material and Chemical Research Laboratories,
+    Hsinchu, Taiwan
+- author_id: https://openalex.org/A5102917135
+  display_name: Alexander H. Ip
+  orcid: https://orcid.org/0000-0002-1519-9871
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5024574386
+  display_name: Zachary W. Ulissi
+  orcid: https://orcid.org/0000-0002-9401-4918
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5054680242
+  display_name: Edward H. Sargent
+  orcid: https://orcid.org/0000-0003-0396-6495
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, University of Toronto, Toronto,
+    Ontario, Canada
+referenced_works:
+- https://openalex.org/W1875842236
+- https://openalex.org/W1991003106
+- https://openalex.org/W1992985800
+- https://openalex.org/W2022714449
+- https://openalex.org/W2026960759
+- https://openalex.org/W2060023027
+- https://openalex.org/W2060441729
+- https://openalex.org/W2074964984
+- https://openalex.org/W2137818170
+- https://openalex.org/W2225958871
+- https://openalex.org/W2227974961
+- https://openalex.org/W2323309348
+- https://openalex.org/W2332028502
+- https://openalex.org/W2470552650
+- https://openalex.org/W2496132953
+- https://openalex.org/W2553791386
+- https://openalex.org/W2560832335
+- https://openalex.org/W2573313258
+- https://openalex.org/W2573377826
+- https://openalex.org/W2601140549
+- https://openalex.org/W2614092355
+- https://openalex.org/W2619468913
+- https://openalex.org/W2624335306
+- https://openalex.org/W2625339367
+- https://openalex.org/W2626885970
+- https://openalex.org/W2740275019
+- https://openalex.org/W2743443266
+- https://openalex.org/W2783223040
+- https://openalex.org/W2789471763
+- https://openalex.org/W2804235153
+- https://openalex.org/W2883379740
+- https://openalex.org/W2890961624
+- https://openalex.org/W2941803205
+primary_topic: CO2 Reduction Techniques and Catalysts
+open_access: false

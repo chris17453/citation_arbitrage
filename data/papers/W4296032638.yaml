@@ -1,0 +1,378 @@
+id: https://openalex.org/W4296032638
+doi: https://doi.org/10.1126/science.add2187
+title: "Robust deep learning\u2013based protein sequence design using ProteinMPNN"
+publication_date: '2022-09-15'
+publication_year: 2022
+cited_by_count: 1078
+citation_percentile: 0.999981
+pagerank: 2.6075194209482735e-06
+authorships:
+- author_id: https://openalex.org/A5020769173
+  display_name: Justas Dauparas
+  orcid: https://orcid.org/0000-0002-0030-144X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5075173135
+  display_name: Ivan Anishchenko
+  orcid: https://orcid.org/0000-0003-3645-2044
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5015471745
+  display_name: Nathaniel R. Bennett
+  orcid: https://orcid.org/0000-0001-8590-1454
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+  - Molecular Engineering Graduate Program, University of Washington, Seattle, WA,
+    USA.
+- author_id: https://openalex.org/A5041747900
+  display_name: Hua Bai
+  orcid: https://orcid.org/0000-0002-0448-4052
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5002418313
+  display_name: Robert J. Ragotte
+  orcid: https://orcid.org/0000-0002-6463-1595
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5041360677
+  display_name: Lukas F. Milles
+  orcid: https://orcid.org/0000-0001-8417-3205
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5029933662
+  display_name: Basile I. M. Wicky
+  orcid: https://orcid.org/0000-0002-2501-7875
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5015425309
+  display_name: Alexis Courbet
+  orcid: https://orcid.org/0000-0003-0539-7011
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5103118343
+  display_name: Robbert J. de Haas
+  orcid: https://orcid.org/0000-0002-7587-9967
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I913481162
+    display_name: Wageningen University & Research
+    ror: https://ror.org/04qw24q55
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physical Chemistry and Soft Matter, Wageningen University and Research,
+    Wageningen, Netherlands.
+- author_id: https://openalex.org/A5063666829
+  display_name: Neville P. Bethel
+  orcid: https://orcid.org/0000-0001-7576-9613
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5050658461
+  display_name: Philip J. Y. Leung
+  orcid: https://orcid.org/0000-0002-1801-8968
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+  - Molecular Engineering Graduate Program, University of Washington, Seattle, WA,
+    USA.
+- author_id: https://openalex.org/A5008125054
+  display_name: Timothy F. Huddy
+  orcid: https://orcid.org/0000-0002-5455-416X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5029382748
+  display_name: Samuel J. Pellock
+  orcid: https://orcid.org/0000-0002-7557-7985
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5027431979
+  display_name: Doug Tischer
+  orcid: https://orcid.org/0000-0003-3633-5542
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5010621640
+  display_name: F. Chan
+  orcid: https://orcid.org/0000-0001-5168-8579
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5063058216
+  display_name: Brian Koepnick
+  orcid: https://orcid.org/0000-0002-5792-8112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5084889915
+  display_name: Hannah Nguyen
+  orcid: https://orcid.org/0000-0001-9696-4004
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5046641635
+  display_name: Alex Kang
+  orcid: https://orcid.org/0000-0001-5487-0499
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5071359121
+  display_name: Banumathi Sankaran
+  orcid: https://orcid.org/0000-0002-3266-8131
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Berkeley Center for Structural Biology, Molecular Biophysics and Integrated Bioimaging,
+    Lawrence Berkeley Laboratory, Berkeley, CA, USA.
+- author_id: https://openalex.org/A5021476730
+  display_name: Asim K. Bera
+  orcid: https://orcid.org/0000-0001-9473-2912
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5016851342
+  display_name: Neil P. King
+  orcid: https://orcid.org/0000-0002-2978-4692
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5053192926
+  display_name: David Baker
+  orcid: https://orcid.org/0000-0001-7896-6217
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA.
+  - Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA, USA.
+referenced_works:
+- https://openalex.org/W1909149576
+- https://openalex.org/W2095705004
+- https://openalex.org/W2102245393
+- https://openalex.org/W2108067237
+- https://openalex.org/W2108921801
+- https://openalex.org/W2132184418
+- https://openalex.org/W2140673705
+- https://openalex.org/W2144081223
+- https://openalex.org/W2163341755
+- https://openalex.org/W2180229411
+- https://openalex.org/W2183341477
+- https://openalex.org/W2765322245
+- https://openalex.org/W2921646015
+- https://openalex.org/W2923539374
+- https://openalex.org/W2944245644
+- https://openalex.org/W2950954328
+- https://openalex.org/W2996986155
+- https://openalex.org/W3010339412
+- https://openalex.org/W3088578860
+- https://openalex.org/W3094860119
+- https://openalex.org/W3136996287
+- https://openalex.org/W3177828909
+- https://openalex.org/W3186179742
+- https://openalex.org/W4210309881
+- https://openalex.org/W4210586598
+- https://openalex.org/W4210861939
+- https://openalex.org/W4220765272
+- https://openalex.org/W4223581484
+- https://openalex.org/W4248872320
+- https://openalex.org/W4296031103
+primary_topic: Protein Structure and Dynamics
+open_access: true

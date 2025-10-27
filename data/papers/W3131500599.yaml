@@ -1,0 +1,216 @@
+id: https://openalex.org/W3131500599
+doi: https://doi.org/10.1109/iccv48922.2021.00061
+title: 'Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without
+  Convolutions'
+publication_date: '2021-10-01'
+publication_year: 2021
+cited_by_count: 3392
+citation_percentile: 0.999876
+pagerank: 3.136413362182732e-06
+authorships:
+- author_id: https://openalex.org/A5101827340
+  display_name: Wenhai Wang
+  orcid: https://orcid.org/0000-0002-2418-3134
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I881766915
+    display_name: Nanjing University
+    ror: https://ror.org/01rxvg760
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nanjing University
+- author_id: https://openalex.org/A5041031140
+  display_name: Enze Xie
+  orcid: https://orcid.org/0000-0001-6890-1049
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The University of Hong Kong
+- author_id: https://openalex.org/A5100693026
+  display_name: Xiang Li
+  orcid: https://orcid.org/0000-0002-4996-7365
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36399199
+    display_name: Nanjing University of Science and Technology
+    ror: https://ror.org/00xp9wg62
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nanjing University of Science and Technology
+- author_id: https://openalex.org/A5056294284
+  display_name: Deng-Ping Fan
+  orcid: https://orcid.org/0000-0002-5245-7518
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5028035527
+  display_name: Kaitao Song
+  orcid: https://orcid.org/0000-0002-4046-8594
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36399199
+    display_name: Nanjing University of Science and Technology
+    ror: https://ror.org/00xp9wg62
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nanjing University of Science and Technology
+- author_id: https://openalex.org/A5100751872
+  display_name: Ding Liang
+  orcid: https://orcid.org/0000-0001-9774-4687
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SenseTime Research
+- author_id: https://openalex.org/A5061696740
+  display_name: "Tong L\xFC"
+  orcid: https://orcid.org/0000-0002-7051-5347
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I881766915
+    display_name: Nanjing University
+    ror: https://ror.org/01rxvg760
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nanjing University
+- author_id: https://openalex.org/A5100752686
+  display_name: Ping Luo
+  orcid: https://orcid.org/0000-0002-6685-7950
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The University of Hong Kong
+- author_id: https://openalex.org/A5082634513
+  display_name: Ling Shao
+  orcid: https://orcid.org/0000-0002-8264-6117
+  author_position: last
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+referenced_works:
+- https://openalex.org/W1533861849
+- https://openalex.org/W1686810756
+- https://openalex.org/W1745334888
+- https://openalex.org/W1861492603
+- https://openalex.org/W1901129140
+- https://openalex.org/W1903029394
+- https://openalex.org/W2031489346
+- https://openalex.org/W2097117768
+- https://openalex.org/W2108598243
+- https://openalex.org/W2112796928
+- https://openalex.org/W2117539524
+- https://openalex.org/W2119144962
+- https://openalex.org/W2163605009
+- https://openalex.org/W2183341477
+- https://openalex.org/W2194775991
+- https://openalex.org/W2412782625
+- https://openalex.org/W2414711238
+- https://openalex.org/W2493838176
+- https://openalex.org/W2549139847
+- https://openalex.org/W2560023338
+- https://openalex.org/W2565639579
+- https://openalex.org/W2613718673
+- https://openalex.org/W2685699410
+- https://openalex.org/W2737258237
+- https://openalex.org/W2752782242
+- https://openalex.org/W2765407302
+- https://openalex.org/W2908510526
+- https://openalex.org/W2910628332
+- https://openalex.org/W2922509574
+- https://openalex.org/W2928165649
+- https://openalex.org/W2937843571
+- https://openalex.org/W2949650786
+- https://openalex.org/W2950141105
+- https://openalex.org/W2953133772
+- https://openalex.org/W2954996726
+- https://openalex.org/W2955425717
+- https://openalex.org/W2962943776
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963136578
+- https://openalex.org/W2963150697
+- https://openalex.org/W2963263347
+- https://openalex.org/W2963351448
+- https://openalex.org/W2963399829
+- https://openalex.org/W2963403868
+- https://openalex.org/W2963420686
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963647456
+- https://openalex.org/W2963840672
+- https://openalex.org/W2964166828
+- https://openalex.org/W2964241181
+- https://openalex.org/W2964299589
+- https://openalex.org/W2964309882
+- https://openalex.org/W2964350391
+- https://openalex.org/W2970389371
+- https://openalex.org/W2981413347
+- https://openalex.org/W2981689412
+- https://openalex.org/W2982220924
+- https://openalex.org/W2982770724
+- https://openalex.org/W2987761193
+- https://openalex.org/W2992308087
+- https://openalex.org/W2998508940
+- https://openalex.org/W3016719260
+- https://openalex.org/W3034826836
+- https://openalex.org/W3034885317
+- https://openalex.org/W3040304705
+- https://openalex.org/W3092344722
+- https://openalex.org/W3094502228
+- https://openalex.org/W3096609285
+- https://openalex.org/W3100321043
+- https://openalex.org/W3102710196
+- https://openalex.org/W3106250896
+- https://openalex.org/W3106940130
+- https://openalex.org/W3108944788
+- https://openalex.org/W3110900159
+- https://openalex.org/W3115390238
+- https://openalex.org/W3119786062
+- https://openalex.org/W3120885796
+- https://openalex.org/W3121523901
+- https://openalex.org/W3122239467
+- https://openalex.org/W3129436779
+- https://openalex.org/W3129603602
+- https://openalex.org/W3133696297
+- https://openalex.org/W3143320354
+- https://openalex.org/W3153635465
+- https://openalex.org/W3159307593
+- https://openalex.org/W3164098653
+- https://openalex.org/W3170874841
+- https://openalex.org/W3172752666
+- https://openalex.org/W3174499586
+- https://openalex.org/W3175515048
+- https://openalex.org/W3176187859
+- https://openalex.org/W3179092682
+- https://openalex.org/W3189898414
+- https://openalex.org/W3202285299
+- https://openalex.org/W3202896429
+- https://openalex.org/W4214561053
+- https://openalex.org/W4225555963
+- https://openalex.org/W4288325606
+- https://openalex.org/W4297665946
+- https://openalex.org/W4297686120
+- https://openalex.org/W4298395628
+- https://openalex.org/W4385245566
+- https://openalex.org/W639708223
+primary_topic: Advanced Neural Network Applications
+open_access: true

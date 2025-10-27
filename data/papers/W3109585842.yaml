@@ -1,0 +1,167 @@
+id: https://openalex.org/W3109585842
+doi: https://doi.org/10.1007/978-3-030-58452-8_24
+title: 'NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis'
+publication_date: '2020-01-01'
+publication_year: 2020
+cited_by_count: 3640
+citation_percentile: 0.999744
+pagerank: 3.0520391528450927e-06
+authorships:
+- author_id: https://openalex.org/A5083849742
+  display_name: Ben Mildenhall
+  orcid: https://orcid.org/0009-0001-9796-6121
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I134446601
+    display_name: Berkeley College
+    ror: https://ror.org/02xewxa75
+    country_code: US
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - UC Berkeley, Berkeley, USA
+- author_id: https://openalex.org/A5061519579
+  display_name: Pratul P. Srinivasan
+  orcid: https://orcid.org/0009-0008-8268-3285
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I134446601
+    display_name: Berkeley College
+    ror: https://ror.org/02xewxa75
+    country_code: US
+    type: education
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Berkeley, Berkeley, USA
+- author_id: https://openalex.org/A5058341556
+  display_name: Matthew Tancik
+  orcid: https://orcid.org/0000-0002-9059-7909
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I134446601
+    display_name: Berkeley College
+    ror: https://ror.org/02xewxa75
+    country_code: US
+    type: education
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Berkeley, Berkeley, USA
+- author_id: https://openalex.org/A5024117395
+  display_name: Jonathan T. Barron
+  orcid: https://orcid.org/0009-0009-1274-7500
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research, New York, USA
+- author_id: https://openalex.org/A5034754633
+  display_name: Ravi Ramamoorthi
+  orcid: https://orcid.org/0000-0003-3993-5789
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800935791
+    display_name: UC San Diego Health System
+    ror: https://ror.org/01kbfgm16
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC San Diego, San Diego, USA
+- author_id: https://openalex.org/A5102564359
+  display_name: Ren Ng
+  orcid: https://orcid.org/0009-0007-2207-021X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I134446601
+    display_name: Berkeley College
+    ror: https://ror.org/02xewxa75
+    country_code: US
+    type: education
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Berkeley, Berkeley, USA
+referenced_works:
+- https://openalex.org/W183071939
+- https://openalex.org/W1906648922
+- https://openalex.org/W1971719398
+- https://openalex.org/W1997057955
+- https://openalex.org/W2009422376
+- https://openalex.org/W2020399841
+- https://openalex.org/W2026058811
+- https://openalex.org/W2063366997
+- https://openalex.org/W2091019609
+- https://openalex.org/W2097404725
+- https://openalex.org/W2099332139
+- https://openalex.org/W2122572959
+- https://openalex.org/W2126521141
+- https://openalex.org/W2137983211
+- https://openalex.org/W2145178170
+- https://openalex.org/W2167696327
+- https://openalex.org/W2190691619
+- https://openalex.org/W2238402354
+- https://openalex.org/W2294985758
+- https://openalex.org/W2471962767
+- https://openalex.org/W2758175304
+- https://openalex.org/W2798291180
+- https://openalex.org/W2805658037
+- https://openalex.org/W2902812770
+- https://openalex.org/W2929298487
+- https://openalex.org/W2943445277
+- https://openalex.org/W2949582403
+- https://openalex.org/W2949657144
+- https://openalex.org/W2962785568
+- https://openalex.org/W2963403868
+- https://openalex.org/W2963557767
+- https://openalex.org/W2963627347
+- https://openalex.org/W2963739349
+- https://openalex.org/W2963926543
+- https://openalex.org/W2963966978
+- https://openalex.org/W2964121744
+- https://openalex.org/W2964288609
+- https://openalex.org/W2968257580
+- https://openalex.org/W2970086547
+- https://openalex.org/W2971278627
+- https://openalex.org/W2983597143
+- https://openalex.org/W2984210651
+- https://openalex.org/W2986023562
+- https://openalex.org/W2990173985
+- https://openalex.org/W2996064569
+- https://openalex.org/W3012728190
+- https://openalex.org/W3024211078
+- https://openalex.org/W3034968345
+- https://openalex.org/W3035426517
+- https://openalex.org/W3035515538
+- https://openalex.org/W3035591705
+- https://openalex.org/W309515887
+- https://openalex.org/W3100398946
+- https://openalex.org/W3146803896
+- https://openalex.org/W3159981575
+- https://openalex.org/W4237648096
+- https://openalex.org/W4288242633
+primary_topic: Advanced Vision and Imaging
+open_access: false

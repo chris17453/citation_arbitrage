@@ -1,0 +1,933 @@
+id: https://openalex.org/W3048775784
+doi: https://doi.org/10.1016/j.cell.2020.08.017
+title: Robust T Cell Immunity in Convalescent Individuals with Asymptomatic or Mild
+  COVID-19
+publication_date: '2020-08-14'
+publication_year: 2020
+cited_by_count: 1887
+citation_percentile: 0.999954
+pagerank: 2.8039201471942203e-06
+authorships:
+- author_id: https://openalex.org/A5069267567
+  display_name: Takuya Sekine
+  orcid: https://orcid.org/0000-0001-7649-0593
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5052891789
+  display_name: "Andr\xE9 Perez\u2010Potti"
+  orcid: https://orcid.org/0000-0002-5998-5700
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5089257461
+  display_name: "Olga Rivera\u2010Ballesteros"
+  orcid: https://orcid.org/0000-0001-6949-4270
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5004555357
+  display_name: "Kristoffer Str\xE5lin"
+  orcid: https://orcid.org/0000-0002-8801-3169
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Diseases, Karolinska University Hospital, Department of
+    Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5012037047
+  display_name: Jean-Baptiste Gorin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5101071167
+  display_name: Annika Olsson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Diseases, Karolinska University Hospital, Department of
+    Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5049532502
+  display_name: "Sian Llewellyn\u2010Lacey"
+  orcid: https://orcid.org/0000-0002-4703-0413
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800861664
+    display_name: University Hospital of Wales
+    ror: https://ror.org/04fgpet95
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, Cardiff University School of Medicine, University
+    Hospital of Wales, Cardiff, UK
+- author_id: https://openalex.org/A5026547719
+  display_name: Habiba Kamal
+  orcid: https://orcid.org/0000-0002-6662-7813
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Diseases, Karolinska University Hospital, Department of
+    Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5101411604
+  display_name: "Gordana Bogdanovi\u0107"
+  orcid: https://orcid.org/0000-0003-1563-8640
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine, Karolinska Institutet, Stockholm, Sweden
+  - Division of Clinical Microbiology, Karolinska University Hospital, Stockholm,
+    Sweden
+- author_id: https://openalex.org/A5037194096
+  display_name: Sandra Muschiol
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine, Karolinska Institutet, Stockholm, Sweden
+  - Division of Clinical Microbiology, Karolinska University Hospital, Stockholm,
+    Sweden
+- author_id: https://openalex.org/A5011268584
+  display_name: David Wullimann
+  orcid: https://orcid.org/0000-0003-1632-0394
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5060022656
+  display_name: Tobias Kammann
+  orcid: https://orcid.org/0000-0002-8433-036X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5034521640
+  display_name: "Johanna Emg\xE5rd"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5016111785
+  display_name: Tiphaine Parrot
+  orcid: https://orcid.org/0000-0001-9625-6825
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5102928469
+  display_name: Elin Folkesson
+  orcid: https://orcid.org/0000-0002-6585-6235
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Diseases, Karolinska University Hospital, Department of
+    Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5082522987
+  display_name: Olav Rooyackers
+  orcid: https://orcid.org/0000-0002-3391-5448
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Interventions and Technology, Karolinska Institutet, Stockholm,
+    Sweden
+  - Function Perioperative Medicine and Intensive Care, Karolinska University Hospital,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5109205473
+  display_name: Lars I. Eriksson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physiology and Pharmacology, Karolinska Institutet, Stockholm, Sweden
+  - Function Perioperative Medicine and Intensive Care, Karolinska University Hospital,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5078627198
+  display_name: "Jan\u2010Inge Henter"
+  orcid: https://orcid.org/0000-0002-0629-2126
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Childhood Cancer Research Unit, Department of Women's and Children's Health, Karolinska
+    Institutet, Stockholm, Sweden
+  - Theme of Children's and Women's Health, Karolinska University Hospital, Stockholm,
+    Sweden
+- author_id: https://openalex.org/A5034073363
+  display_name: "Anders S\xF6nnerborg"
+  orcid: https://orcid.org/0000-0001-8928-3374
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, Stockholm,
+    Sweden
+  - Division of Infectious Diseases, Karolinska University Hospital, Department of
+    Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5040555133
+  display_name: Tobias Allander
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine, Karolinska Institutet, Stockholm, Sweden
+  - Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, Stockholm,
+    Sweden
+  - Division of Clinical Microbiology, Karolinska University Hospital, Stockholm,
+    Sweden
+- author_id: https://openalex.org/A5061200353
+  display_name: Jan Albert
+  orcid: https://orcid.org/0000-0001-9020-0521
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine, Karolinska Institutet, Stockholm, Sweden
+  - Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, Stockholm,
+    Sweden
+  - Division of Clinical Microbiology, Karolinska University Hospital, Stockholm,
+    Sweden
+- author_id: https://openalex.org/A5076702280
+  display_name: Morten Nielsen
+  orcid: https://orcid.org/0000-0001-7885-4311
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I96673099
+    display_name: Technical University of Denmark
+    ror: https://ror.org/04qtj9h94
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I228664971
+    display_name: "National University of General San Mart\xEDn"
+    ror: https://ror.org/00v29jp57
+    country_code: AR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Health Technology, Technical University of Denmark, Lyngby, Denmark
+  - "Instituto de Investigaciones Biotecnol\xF3gicas, Universidad Nacional de San\
+    \ Mart\xEDn, San Mart\xEDn, Argentina"
+- author_id: https://openalex.org/A5055644268
+  display_name: "Jonas Klingstr\xF6m"
+  orcid: https://orcid.org/0000-0001-9076-1441
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5062976525
+  display_name: "Sara Gredmark\u2010Russ"
+  orcid: https://orcid.org/0000-0002-2446-4323
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+  - Division of Infectious Diseases, Karolinska University Hospital, Department of
+    Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5019645501
+  display_name: "Niklas K. Bj\xF6rkstr\xF6m"
+  orcid: https://orcid.org/0000-0002-0967-076X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5060046384
+  display_name: Johan K. Sandberg
+  orcid: https://orcid.org/0000-0002-6275-0750
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5100694592
+  display_name: David A. Price
+  orcid: https://orcid.org/0000-0001-9416-2737
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800861664
+    display_name: University Hospital of Wales
+    ror: https://ror.org/04fgpet95
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, Cardiff University School of Medicine, University
+    Hospital of Wales, Cardiff, UK
+  - Systems Immunity Research Institute, Cardiff University School of Medicine, University
+    Hospital of Wales, Cardiff, UK
+- author_id: https://openalex.org/A5091546357
+  display_name: "Hans\u2013Gustaf Ljunggren"
+  orcid: https://orcid.org/0000-0003-0908-7387
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5043318824
+  display_name: Soo Aleman
+  orcid: https://orcid.org/0000-0003-0461-4870
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+  - Division of Infectious Diseases, Karolinska University Hospital, Department of
+    Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5057116894
+  display_name: Marcus Buggert
+  orcid: https://orcid.org/0000-0003-0633-1719
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Medicine, Department of Medicine Huddinge, Karolinska Institutet,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5056499612
+  display_name: Mira Akber
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5062688559
+  display_name: Lena Berglin
+  orcid: https://orcid.org/0000-0003-0344-4128
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5031937176
+  display_name: Helena Bergsten
+  orcid: https://orcid.org/0000-0002-5094-1883
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5069208310
+  display_name: Susanna Brighenti
+  orcid: https://orcid.org/0000-0001-8540-153X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5027528062
+  display_name: Demi Brownlie
+  orcid: https://orcid.org/0000-0001-5932-6425
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5055856020
+  display_name: Marta Butrym
+  orcid: https://orcid.org/0000-0002-9285-7276
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5071151109
+  display_name: Benedict J. Chambers
+  orcid: https://orcid.org/0000-0003-0437-8441
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5029541730
+  display_name: Puran Chen
+  orcid: https://orcid.org/0000-0002-2890-0022
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5032004702
+  display_name: Martin Cornillet
+  orcid: https://orcid.org/0000-0001-7981-0927
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5084263346
+  display_name: Jonathan Grip
+  orcid: https://orcid.org/0000-0001-9735-4160
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5084620062
+  display_name: "Ang\xE9lica Cuapio"
+  orcid: https://orcid.org/0000-0002-9451-1914
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5035492116
+  display_name: Lena Dillner
+  orcid: https://orcid.org/0000-0001-7035-4400
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5084369455
+  display_name: Isabel Diaz Lozano
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5016674711
+  display_name: Majda Dzidic
+  orcid: https://orcid.org/0000-0002-1131-4342
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5063133241
+  display_name: "Malin Flodstr\xF6m\u2010Tullberg"
+  orcid: https://orcid.org/0000-0003-2685-2052
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5049720596
+  display_name: "Anna F\xE4rnert"
+  orcid: https://orcid.org/0000-0001-7583-282X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5026400898
+  display_name: Hedvig Glans
+  orcid: https://orcid.org/0000-0002-7401-2245
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5079140244
+  display_name: Alvaro Haroun-Izquierdo
+  orcid: https://orcid.org/0000-0003-4557-3606
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103920722
+  display_name: Elizabeth Henriksson
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5091055857
+  display_name: Laura Hertwig
+  orcid: https://orcid.org/0000-0002-1170-0948
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5078513711
+  display_name: Sadaf Kalsum
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5022878443
+  display_name: Efthymia Kokkinou
+  orcid: https://orcid.org/0000-0001-9248-4740
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5054616291
+  display_name: Egle Kvedaraite
+  orcid: https://orcid.org/0000-0001-5308-092X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5056222891
+  display_name: Marco Giulio Loreti
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5022047255
+  display_name: Magda Lourda
+  orcid: https://orcid.org/0000-0003-3155-1123
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5080888225
+  display_name: Kimia T. Maleki
+  orcid: https://orcid.org/0000-0001-5382-5477
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5061606756
+  display_name: "Karl\u2010Johan Malmberg"
+  orcid: https://orcid.org/0000-0002-8718-9373
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5005299083
+  display_name: Nicole Marquardt
+  orcid: https://orcid.org/0000-0003-3186-4752
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5078189423
+  display_name: Christopher Maucourant
+  orcid: https://orcid.org/0000-0003-1033-2992
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5010988421
+  display_name: "Jakob Micha\xEBlsson"
+  orcid: https://orcid.org/0000-0001-6948-7281
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5080628718
+  display_name: "Jenny Mj\xF6sberg"
+  orcid: https://orcid.org/0000-0002-1119-0976
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5059557787
+  display_name: Kirsten Moll
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5096392341
+  display_name: Jagadees Muva
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5072912292
+  display_name: "Johan M\xE5rtensson"
+  orcid: https://orcid.org/0000-0001-8739-7896
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5072161511
+  display_name: "Pontus Naucl\xE9r"
+  orcid: https://orcid.org/0000-0002-8185-2648
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5080532498
+  display_name: "Anna Norrby\u2010Teglund"
+  orcid: https://orcid.org/0000-0001-9372-1795
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5021399548
+  display_name: Laura M. Palma Medina
+  orcid: https://orcid.org/0000-0002-4049-9622
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5104061358
+  display_name: "Bj\xF6rn Persson"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5066935985
+  display_name: Lena Radler
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5014240362
+  display_name: Emma Ringqvist
+  orcid: https://orcid.org/0000-0001-6303-6076
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5024453939
+  display_name: John Tyler Sandberg
+  orcid: https://orcid.org/0000-0001-6747-6933
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5029469057
+  display_name: Ebba Sohlberg
+  orcid: https://orcid.org/0000-0003-1942-0040
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5043734934
+  display_name: Tea Soini
+  orcid: https://orcid.org/0000-0002-5207-6715
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103237050
+  display_name: Mattias Svensson
+  orcid: https://orcid.org/0000-0003-1695-7934
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5043246091
+  display_name: Janne Tynell
+  orcid: https://orcid.org/0000-0001-6930-5230
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5062110719
+  display_name: "Renata Varnait\u0117"
+  orcid: https://orcid.org/0000-0001-9391-9291
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5077296744
+  display_name: Andreas von Kries
+  orcid: https://orcid.org/0000-0002-7425-2329
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5021749642
+  display_name: Christian Unge
+  orcid: null
+  author_position: last
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+referenced_works:
+- https://openalex.org/W1647345871
+- https://openalex.org/W1662940398
+- https://openalex.org/W1762992946
+- https://openalex.org/W1965247885
+- https://openalex.org/W1971932781
+- https://openalex.org/W1979065938
+- https://openalex.org/W2004583429
+- https://openalex.org/W2036182565
+- https://openalex.org/W2043577668
+- https://openalex.org/W2070491512
+- https://openalex.org/W2076787697
+- https://openalex.org/W2116101651
+- https://openalex.org/W2135511012
+- https://openalex.org/W2160925670
+- https://openalex.org/W2168122647
+- https://openalex.org/W2171633892
+- https://openalex.org/W2280404143
+- https://openalex.org/W2343747529
+- https://openalex.org/W2418601731
+- https://openalex.org/W2742905047
+- https://openalex.org/W2806432542
+- https://openalex.org/W2884893672
+- https://openalex.org/W3001118548
+- https://openalex.org/W3007460166
+- https://openalex.org/W3008028633
+- https://openalex.org/W3008827533
+- https://openalex.org/W3011224398
+- https://openalex.org/W3011508332
+- https://openalex.org/W3011812996
+- https://openalex.org/W3013893137
+- https://openalex.org/W3014948915
+- https://openalex.org/W3015289726
+- https://openalex.org/W3015571324
+- https://openalex.org/W3017196735
+- https://openalex.org/W3021544284
+- https://openalex.org/W3022978671
+- https://openalex.org/W3023698680
+- https://openalex.org/W3024236348
+- https://openalex.org/W3024570138
+- https://openalex.org/W3025262235
+- https://openalex.org/W3025320502
+- https://openalex.org/W3026558549
+- https://openalex.org/W3027630905
+- https://openalex.org/W3030932953
+- https://openalex.org/W3031733179
+- https://openalex.org/W3033409819
+- https://openalex.org/W3033450058
+- https://openalex.org/W3033622610
+- https://openalex.org/W3034168389
+- https://openalex.org/W3034687867
+- https://openalex.org/W3036386821
+- https://openalex.org/W3036931136
+- https://openalex.org/W3041502662
+- https://openalex.org/W3042183476
+- https://openalex.org/W3044311014
+- https://openalex.org/W3045971896
+- https://openalex.org/W3047159181
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

@@ -1,0 +1,578 @@
+id: https://openalex.org/W3015916968
+doi: https://doi.org/10.1038/s41591-020-0815-6
+title: "Large-scale proteomic analysis of Alzheimer\u2019s disease brain and cerebrospinal\
+  \ fluid reveals early changes in energy metabolism associated with microglia and\
+  \ astrocyte activation"
+publication_date: '2020-04-13'
+publication_year: 2020
+cited_by_count: 843
+citation_percentile: 0.999956
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5041857715
+  display_name: Erik C. B. Johnson
+  orcid: https://orcid.org/0000-0002-0604-2944
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Goizueta Alzheimer's Disease Research Center, Emory University School of Medicine,
+    Atlanta, GA, USA
+- author_id: https://openalex.org/A5054941736
+  display_name: Eric B. Dammer
+  orcid: https://orcid.org/0000-0003-2947-7606
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Goizueta Alzheimer's Disease Research Center, Emory University School of Medicine,
+    Atlanta, GA, USA
+- author_id: https://openalex.org/A5061526409
+  display_name: Duc M. Duong
+  orcid: https://orcid.org/0000-0001-5880-1888
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Goizueta Alzheimer's Disease Research Center, Emory University School of Medicine,
+    Atlanta, GA, USA
+- author_id: https://openalex.org/A5075380727
+  display_name: Lingyan Ping
+  orcid: https://orcid.org/0000-0002-2623-5145
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Goizueta Alzheimer's Disease Research Center, Emory University School of Medicine,
+    Atlanta, GA, USA
+- author_id: https://openalex.org/A5032616219
+  display_name: Maotian Zhou
+  orcid: https://orcid.org/0000-0002-5274-8083
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Goizueta Alzheimer's Disease Research Center, Emory University School of Medicine,
+    Atlanta, GA, USA
+- author_id: https://openalex.org/A5070673671
+  display_name: Luming Yin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, Emory University School of Medicine, Atlanta, GA,
+    USA
+- author_id: https://openalex.org/A5103475321
+  display_name: Lenora A. Higginbotham
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Emory University School of Medicine, Atlanta, GA, USA
+- author_id: https://openalex.org/A5067385046
+  display_name: Andrew Guajardo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Johns Hopkins School of Medicine, Baltimore, MD, USA
+- author_id: https://openalex.org/A5113535059
+  display_name: Bartholomew White
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Johns Hopkins School of Medicine, Baltimore, MD, USA
+- author_id: https://openalex.org/A5048570234
+  display_name: Juan C. Troncoso
+  orcid: https://orcid.org/0000-0001-9553-6673
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Johns Hopkins School of Medicine, Baltimore, MD, USA
+- author_id: https://openalex.org/A5069442898
+  display_name: Madhav Thambisetty
+  orcid: https://orcid.org/0000-0002-2200-2299
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210136897
+    display_name: National Institute on Aging
+    ror: https://ror.org/049v75w11
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical and Translational Neuroscience Section, Laboratory of Behavioral Neuroscience,
+    National Institute on Aging, National Institutes of Health, Bethesda, MD, USA
+- author_id: https://openalex.org/A5067728043
+  display_name: Thomas J. Montine
+  orcid: https://orcid.org/0000-0002-1346-2728
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, School of Medicine, Stanford University, Palo Alto, CA,
+    USA
+- author_id: https://openalex.org/A5061968243
+  display_name: Edward B. Lee
+  orcid: https://orcid.org/0000-0002-4589-1180
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Neurodegenerative Disease Research, Department of Pathology and Laboratory
+    Medicine, Perelman School of Medicine at the University of Pennsylvania, Philadelphia,
+    PA, USA
+- author_id: https://openalex.org/A5021394368
+  display_name: John Q. Trojanowski
+  orcid: https://orcid.org/0000-0002-9239-8794
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Neurodegenerative Disease Research, Department of Pathology and Laboratory
+    Medicine, Perelman School of Medicine at the University of Pennsylvania, Philadelphia,
+    PA, USA
+- author_id: https://openalex.org/A5072613176
+  display_name: Thomas G. Beach
+  orcid: https://orcid.org/0000-0003-3296-6128
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210145600
+    display_name: Banner Sun Health Research Institute
+    ror: https://ror.org/04gjkkf30
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Banner Sun Health Research Institute, Sun City, AZ, USA
+- author_id: https://openalex.org/A5047768726
+  display_name: Eric M. Reiman
+  orcid: https://orcid.org/0000-0002-0705-3696
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I55732556
+    display_name: Arizona State University
+    ror: https://ror.org/03efmqc40
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I138006243
+    display_name: University of Arizona
+    ror: https://ror.org/03m2x1q45
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Banner Alzheimer's Institute, Arizona State University and University of Arizona,
+    Phoenix, AZ, USA
+- author_id: https://openalex.org/A5054795331
+  display_name: Vahram Haroutunian
+  orcid: https://orcid.org/0000-0001-5860-2512
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Psychiatry and Neuroscience, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5100376896
+  display_name: Minghui Wang
+  orcid: https://orcid.org/0000-0001-9171-4962
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genomic Sciences, Mount Sinai Center for Transformative
+    Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5071946434
+  display_name: Eric E. Schadt
+  orcid: https://orcid.org/0000-0002-7892-8808
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genomic Sciences, Mount Sinai Center for Transformative
+    Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5100392884
+  display_name: Bin Zhang
+  orcid: https://orcid.org/0000-0002-9549-5653
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genomic Sciences, Mount Sinai Center for Transformative
+    Disease Modeling, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5009533777
+  display_name: Dennis W. Dickson
+  orcid: https://orcid.org/0000-0001-7189-7917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neuroscience, Mayo Clinic, Jacksonville, FL, USA
+- author_id: https://openalex.org/A5077545737
+  display_name: "Nil\xFCfer Ertekin\u2010Taner"
+  orcid: https://orcid.org/0000-0003-4436-8889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neuroscience, Mayo Clinic, Jacksonville, FL, USA
+- author_id: https://openalex.org/A5058688886
+  display_name: Todd E. Golde
+  orcid: https://orcid.org/0000-0003-1867-7071
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I33213144
+    display_name: University of Florida
+    ror: https://ror.org/02y3ad647
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neuroscience, Center for Translational Research in Neurodegenerative
+    Disease, McKnight Brain Institute, University of Florida, Gainesville, FL, USA
+- author_id: https://openalex.org/A5058811459
+  display_name: Vladislav Petyuk
+  orcid: https://orcid.org/0000-0003-4076-151X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142606810
+    display_name: Pacific Northwest National Laboratory
+    ror: https://ror.org/05h992307
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biological Sciences Division, Pacific Northwest National Laboratory, Richland,
+    WA, USA
+- author_id: https://openalex.org/A5049324919
+  display_name: Philip L. De Jager
+  orcid: https://orcid.org/0000-0002-8057-2505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I78577930
+    display_name: Columbia University
+    ror: https://ror.org/00hj8s172
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Translational & Computational Neuroimmunology, Department of Neurology,
+    Taub Institute, Columbia University Irving Medical Center, New York Presbyterian
+    Hospital, New York, NY, USA
+- author_id: https://openalex.org/A5014075642
+  display_name: David A. Bennett
+  orcid: https://orcid.org/0000-0003-3689-554X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1285301757
+    display_name: Rush University Medical Center
+    ror: https://ror.org/01j7c0b24
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL,
+    USA
+- author_id: https://openalex.org/A5103132708
+  display_name: Thomas S. Wingo
+  orcid: https://orcid.org/0000-0002-7679-6282
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Emory University School of Medicine, Atlanta, GA, USA
+- author_id: https://openalex.org/A5014749047
+  display_name: Srikant Rangaraju
+  orcid: https://orcid.org/0000-0003-2765-1500
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Emory University School of Medicine, Atlanta, GA, USA
+- author_id: https://openalex.org/A5035175263
+  display_name: Ihab Hajjar
+  orcid: https://orcid.org/0000-0001-6096-5304
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Emory University School of Medicine, Atlanta, GA, USA
+- author_id: https://openalex.org/A5101430675
+  display_name: Joshua M. Shulman
+  orcid: https://orcid.org/0000-0002-1835-1971
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181547552
+    display_name: Baylor College of Medicine
+    ror: https://ror.org/02pttbw34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Neurology, Neuroscience and Molecular & Human Genetics, Baylor
+    College of Medicine, Houston, TX, USA
+- author_id: https://openalex.org/A5080612573
+  display_name: James J. Lah
+  orcid: https://orcid.org/0000-0002-8810-620X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Emory University School of Medicine, Atlanta, GA, USA
+- author_id: https://openalex.org/A5023920651
+  display_name: Allan I. Levey
+  orcid: https://orcid.org/0000-0002-3153-502X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Emory University School of Medicine, Atlanta, GA, USA
+- author_id: https://openalex.org/A5022349887
+  display_name: Nicholas T. Seyfried
+  orcid: https://orcid.org/0000-0002-4507-624X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, Emory University School of Medicine, Atlanta, GA,
+    USA
+referenced_works:
+- https://openalex.org/W1498301041
+- https://openalex.org/W1968358424
+- https://openalex.org/W1968744160
+- https://openalex.org/W1972083248
+- https://openalex.org/W1974033269
+- https://openalex.org/W1991705437
+- https://openalex.org/W2005731595
+- https://openalex.org/W2008301592
+- https://openalex.org/W2010683624
+- https://openalex.org/W2011041653
+- https://openalex.org/W2011633018
+- https://openalex.org/W2012112859
+- https://openalex.org/W2012626734
+- https://openalex.org/W2018276118
+- https://openalex.org/W2027460468
+- https://openalex.org/W2035680108
+- https://openalex.org/W2045916345
+- https://openalex.org/W2049860406
+- https://openalex.org/W2051314902
+- https://openalex.org/W2052742260
+- https://openalex.org/W2054035764
+- https://openalex.org/W2062533676
+- https://openalex.org/W2077119043
+- https://openalex.org/W2081837126
+- https://openalex.org/W2082429191
+- https://openalex.org/W2084566588
+- https://openalex.org/W2102769637
+- https://openalex.org/W2105167594
+- https://openalex.org/W2111758831
+- https://openalex.org/W2112880160
+- https://openalex.org/W2115779804
+- https://openalex.org/W2119519240
+- https://openalex.org/W2121779273
+- https://openalex.org/W2124836944
+- https://openalex.org/W2128613449
+- https://openalex.org/W2135374418
+- https://openalex.org/W2146729934
+- https://openalex.org/W2158198121
+- https://openalex.org/W2161031490
+- https://openalex.org/W2169785917
+- https://openalex.org/W2170776626
+- https://openalex.org/W2175730819
+- https://openalex.org/W2183659713
+- https://openalex.org/W2238387498
+- https://openalex.org/W2298656843
+- https://openalex.org/W2436016506
+- https://openalex.org/W2473313434
+- https://openalex.org/W2563754444
+- https://openalex.org/W2593979775
+- https://openalex.org/W2594590602
+- https://openalex.org/W2603228471
+- https://openalex.org/W2729623630
+- https://openalex.org/W2735378853
+- https://openalex.org/W2767972214
+- https://openalex.org/W2774632856
+- https://openalex.org/W2777149863
+- https://openalex.org/W2791403874
+- https://openalex.org/W2798054687
+- https://openalex.org/W2805185070
+- https://openalex.org/W2809330972
+- https://openalex.org/W2857722519
+- https://openalex.org/W2884550682
+- https://openalex.org/W2890627020
+- https://openalex.org/W2895694428
+- https://openalex.org/W2901838561
+- https://openalex.org/W2905951402
+- https://openalex.org/W2911802547
+- https://openalex.org/W2921916673
+- https://openalex.org/W2946005609
+- https://openalex.org/W2979640255
+- https://openalex.org/W2980481080
+- https://openalex.org/W2982513120
+- https://openalex.org/W2998763810
+- https://openalex.org/W3036813834
+- https://openalex.org/W3093903285
+- https://openalex.org/W3135928150
+primary_topic: Alzheimer's disease research and treatments
+open_access: true

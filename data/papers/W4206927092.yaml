@@ -1,0 +1,460 @@
+id: https://openalex.org/W4206927092
+doi: https://doi.org/10.1123/ijspp.2021-0451
+title: 'Defining Training and Performance Caliber: A Participant Classification Framework'
+publication_date: '2021-12-29'
+publication_year: 2021
+cited_by_count: 1770
+citation_percentile: 0.999848
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5026446074
+  display_name: Alannah K. A. McKay
+  orcid: https://orcid.org/0000-0002-4184-3886
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210113179
+    display_name: Finis Terrae University
+    ror: https://ror.org/0225snd59
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I86695891
+    display_name: Australian Catholic University
+    ror: https://ror.org/04cxm4j25
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210109166
+    display_name: Canadian Sport Centre Pacific
+    ror: https://ror.org/01vvmvv13
+    country_code: CA
+    type: other
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I143804889
+    display_name: Loughborough University
+    ror: https://ror.org/04vg4w365
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Centre for Disability Sport, School of Sport Exercise and Health Sciences, Loughborough
+    University, Loughborough, United Kingdom. Sheppard is also with Canada Snowboard,
+    Whistler, BC, Canada.
+  - Dept of Physiology, Faculty of Medicine and Nursing, University of the Basque
+    Country, Leioa, Basque Country, Spain, and the Exercise Science Laboratory, School
+    of Kinesiology, Faculty of Medicine,
+  - Mary MacKillop Inst for Health Research, and Martin, the School of Behavioural
+    and Health Sciences, Australian Catholic University, Melbourne, VIC, Australia.
+    Stellingwerff
+  - Mujika
+  - Sheppard are with Exercise Science, Physical & Health Education, University of
+    Victoria, Victoria, BC, Canada.
+  - Universidad Finis Terrae, Santiago, Chile.
+  - the Inst for Sport Excellence, Canadian Sport Inst Pacific, Victoria, BC, Canada.
+- author_id: https://openalex.org/A5024002477
+  display_name: Trent Stellingwerff
+  orcid: https://orcid.org/0000-0002-4704-8250
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I86695891
+    display_name: Australian Catholic University
+    ror: https://ror.org/04cxm4j25
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210109166
+    display_name: Canadian Sport Centre Pacific
+    ror: https://ror.org/01vvmvv13
+    country_code: CA
+    type: other
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210113179
+    display_name: Finis Terrae University
+    ror: https://ror.org/0225snd59
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I143804889
+    display_name: Loughborough University
+    ror: https://ror.org/04vg4w365
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Disability Sport, School of Sport Exercise and Health Sciences, Loughborough
+    University, Loughborough, United Kingdom. Sheppard is also with Canada Snowboard,
+    Whistler, BC, Canada.
+  - Dept of Physiology, Faculty of Medicine and Nursing, University of the Basque
+    Country, Leioa, Basque Country, Spain, and the Exercise Science Laboratory, School
+    of Kinesiology, Faculty of Medicine,
+  - Mary MacKillop Inst for Health Research, and Martin, the School of Behavioural
+    and Health Sciences, Australian Catholic University, Melbourne, VIC, Australia.
+    Stellingwerff
+  - Mujika
+  - Sheppard are with Exercise Science, Physical & Health Education, University of
+    Victoria, Victoria, BC, Canada.
+  - Universidad Finis Terrae, Santiago, Chile.
+  - the Inst for Sport Excellence, Canadian Sport Inst Pacific, Victoria, BC, Canada.
+- author_id: https://openalex.org/A5027697793
+  display_name: Ella S. Smith
+  orcid: https://orcid.org/0000-0003-4876-0220
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113179
+    display_name: Finis Terrae University
+    ror: https://ror.org/0225snd59
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I86695891
+    display_name: Australian Catholic University
+    ror: https://ror.org/04cxm4j25
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210109166
+    display_name: Canadian Sport Centre Pacific
+    ror: https://ror.org/01vvmvv13
+    country_code: CA
+    type: other
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I143804889
+    display_name: Loughborough University
+    ror: https://ror.org/04vg4w365
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Disability Sport, School of Sport Exercise and Health Sciences, Loughborough
+    University, Loughborough, United Kingdom. Sheppard is also with Canada Snowboard,
+    Whistler, BC, Canada.
+  - Dept of Physiology, Faculty of Medicine and Nursing, University of the Basque
+    Country, Leioa, Basque Country, Spain, and the Exercise Science Laboratory, School
+    of Kinesiology, Faculty of Medicine,
+  - Mary MacKillop Inst for Health Research, and Martin, the School of Behavioural
+    and Health Sciences, Australian Catholic University, Melbourne, VIC, Australia.
+    Stellingwerff
+  - Mujika
+  - Sheppard are with Exercise Science, Physical & Health Education, University of
+    Victoria, Victoria, BC, Canada.
+  - Universidad Finis Terrae, Santiago, Chile.
+  - the Inst for Sport Excellence, Canadian Sport Inst Pacific, Victoria, BC, Canada.
+- author_id: https://openalex.org/A5075694239
+  display_name: David T. Martin
+  orcid: https://orcid.org/0000-0002-3051-2811
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109166
+    display_name: Canadian Sport Centre Pacific
+    ror: https://ror.org/01vvmvv13
+    country_code: CA
+    type: other
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I86695891
+    display_name: Australian Catholic University
+    ror: https://ror.org/04cxm4j25
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210113179
+    display_name: Finis Terrae University
+    ror: https://ror.org/0225snd59
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I143804889
+    display_name: Loughborough University
+    ror: https://ror.org/04vg4w365
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Disability Sport, School of Sport Exercise and Health Sciences, Loughborough
+    University, Loughborough, United Kingdom. Sheppard is also with Canada Snowboard,
+    Whistler, BC, Canada.
+  - Dept of Physiology, Faculty of Medicine and Nursing, University of the Basque
+    Country, Leioa, Basque Country, Spain, and the Exercise Science Laboratory, School
+    of Kinesiology, Faculty of Medicine,
+  - Mary MacKillop Inst for Health Research, and Martin, the School of Behavioural
+    and Health Sciences, Australian Catholic University, Melbourne, VIC, Australia.
+    Stellingwerff
+  - Mujika
+  - Sheppard are with Exercise Science, Physical & Health Education, University of
+    Victoria, Victoria, BC, Canada.
+  - Universidad Finis Terrae, Santiago, Chile.
+  - the Inst for Sport Excellence, Canadian Sport Inst Pacific, Victoria, BC, Canada.
+- author_id: https://openalex.org/A5050003140
+  display_name: "I\xF1igo Mujika"
+  orcid: https://orcid.org/0000-0002-8143-9132
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I143804889
+    display_name: Loughborough University
+    ror: https://ror.org/04vg4w365
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I86695891
+    display_name: Australian Catholic University
+    ror: https://ror.org/04cxm4j25
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210109166
+    display_name: Canadian Sport Centre Pacific
+    ror: https://ror.org/01vvmvv13
+    country_code: CA
+    type: other
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210113179
+    display_name: Finis Terrae University
+    ror: https://ror.org/0225snd59
+    country_code: CL
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Disability Sport, School of Sport Exercise and Health Sciences, Loughborough
+    University, Loughborough, United Kingdom. Sheppard is also with Canada Snowboard,
+    Whistler, BC, Canada.
+  - Dept of Physiology, Faculty of Medicine and Nursing, University of the Basque
+    Country, Leioa, Basque Country, Spain, and the Exercise Science Laboratory, School
+    of Kinesiology, Faculty of Medicine,
+  - Mary MacKillop Inst for Health Research, and Martin, the School of Behavioural
+    and Health Sciences, Australian Catholic University, Melbourne, VIC, Australia.
+    Stellingwerff
+  - Mujika
+  - Sheppard are with Exercise Science, Physical & Health Education, University of
+    Victoria, Victoria, BC, Canada.
+  - Universidad Finis Terrae, Santiago, Chile.
+  - the Inst for Sport Excellence, Canadian Sport Inst Pacific, Victoria, BC, Canada.
+- author_id: https://openalex.org/A5037295265
+  display_name: "Victoria L. Goosey\u2010Tolfrey"
+  orcid: https://orcid.org/0000-0001-7203-4144
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109166
+    display_name: Canadian Sport Centre Pacific
+    ror: https://ror.org/01vvmvv13
+    country_code: CA
+    type: other
+  - id: https://openalex.org/I86695891
+    display_name: Australian Catholic University
+    ror: https://ror.org/04cxm4j25
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210113179
+    display_name: Finis Terrae University
+    ror: https://ror.org/0225snd59
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I143804889
+    display_name: Loughborough University
+    ror: https://ror.org/04vg4w365
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Disability Sport, School of Sport Exercise and Health Sciences, Loughborough
+    University, Loughborough, United Kingdom. Sheppard is also with Canada Snowboard,
+    Whistler, BC, Canada.
+  - Dept of Physiology, Faculty of Medicine and Nursing, University of the Basque
+    Country, Leioa, Basque Country, Spain, and the Exercise Science Laboratory, School
+    of Kinesiology, Faculty of Medicine,
+  - Mary MacKillop Inst for Health Research, and Martin, the School of Behavioural
+    and Health Sciences, Australian Catholic University, Melbourne, VIC, Australia.
+    Stellingwerff
+  - Mujika
+  - Sheppard are with Exercise Science, Physical & Health Education, University of
+    Victoria, Victoria, BC, Canada.
+  - Universidad Finis Terrae, Santiago, Chile.
+  - the Inst for Sport Excellence, Canadian Sport Inst Pacific, Victoria, BC, Canada.
+- author_id: https://openalex.org/A5110421040
+  display_name: Jeremy M. Sheppard
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I86695891
+    display_name: Australian Catholic University
+    ror: https://ror.org/04cxm4j25
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210109166
+    display_name: Canadian Sport Centre Pacific
+    ror: https://ror.org/01vvmvv13
+    country_code: CA
+    type: other
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210113179
+    display_name: Finis Terrae University
+    ror: https://ror.org/0225snd59
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I143804889
+    display_name: Loughborough University
+    ror: https://ror.org/04vg4w365
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Disability Sport, School of Sport Exercise and Health Sciences, Loughborough
+    University, Loughborough, United Kingdom. Sheppard is also with Canada Snowboard,
+    Whistler, BC, Canada.
+  - Dept of Physiology, Faculty of Medicine and Nursing, University of the Basque
+    Country, Leioa, Basque Country, Spain, and the Exercise Science Laboratory, School
+    of Kinesiology, Faculty of Medicine,
+  - Mary MacKillop Inst for Health Research, and Martin, the School of Behavioural
+    and Health Sciences, Australian Catholic University, Melbourne, VIC, Australia.
+    Stellingwerff
+  - Mujika
+  - Sheppard are with Exercise Science, Physical & Health Education, University of
+    Victoria, Victoria, BC, Canada.
+  - Universidad Finis Terrae, Santiago, Chile.
+  - the Inst for Sport Excellence, Canadian Sport Inst Pacific, Victoria, BC, Canada.
+- author_id: https://openalex.org/A5006609941
+  display_name: Louise M. Burke
+  orcid: https://orcid.org/0000-0001-8866-5637
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210113179
+    display_name: Finis Terrae University
+    ror: https://ror.org/0225snd59
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I143804889
+    display_name: Loughborough University
+    ror: https://ror.org/04vg4w365
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I86695891
+    display_name: Australian Catholic University
+    ror: https://ror.org/04cxm4j25
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210109166
+    display_name: Canadian Sport Centre Pacific
+    ror: https://ror.org/01vvmvv13
+    country_code: CA
+    type: other
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Disability Sport, School of Sport Exercise and Health Sciences, Loughborough
+    University, Loughborough, United Kingdom. Sheppard is also with Canada Snowboard,
+    Whistler, BC, Canada.
+  - Dept of Physiology, Faculty of Medicine and Nursing, University of the Basque
+    Country, Leioa, Basque Country, Spain, and the Exercise Science Laboratory, School
+    of Kinesiology, Faculty of Medicine,
+  - Mary MacKillop Inst for Health Research, and Martin, the School of Behavioural
+    and Health Sciences, Australian Catholic University, Melbourne, VIC, Australia.
+    Stellingwerff
+  - Mujika
+  - Sheppard are with Exercise Science, Physical & Health Education, University of
+    Victoria, Victoria, BC, Canada.
+  - Universidad Finis Terrae, Santiago, Chile.
+  - the Inst for Sport Excellence, Canadian Sport Inst Pacific, Victoria, BC, Canada.
+referenced_works:
+- https://openalex.org/W1966331109
+- https://openalex.org/W1995447655
+- https://openalex.org/W2012172244
+- https://openalex.org/W2025474224
+- https://openalex.org/W2029659775
+- https://openalex.org/W2030783512
+- https://openalex.org/W2046593992
+- https://openalex.org/W2079660398
+- https://openalex.org/W2096632664
+- https://openalex.org/W2099331982
+- https://openalex.org/W2099994307
+- https://openalex.org/W2127771407
+- https://openalex.org/W2137247190
+- https://openalex.org/W2153874562
+- https://openalex.org/W2166259264
+- https://openalex.org/W2253243743
+- https://openalex.org/W2286458682
+- https://openalex.org/W2343755147
+- https://openalex.org/W2406552394
+- https://openalex.org/W2409908568
+- https://openalex.org/W2549673064
+- https://openalex.org/W2562509757
+- https://openalex.org/W2577666091
+- https://openalex.org/W2738478647
+- https://openalex.org/W2744096320
+- https://openalex.org/W2765885152
+- https://openalex.org/W2788309916
+- https://openalex.org/W2790801134
+- https://openalex.org/W2809774965
+- https://openalex.org/W2999554481
+- https://openalex.org/W3017777850
+- https://openalex.org/W3033469141
+- https://openalex.org/W3083721818
+- https://openalex.org/W3095825231
+- https://openalex.org/W3107012390
+- https://openalex.org/W3108106255
+- https://openalex.org/W3187727644
+- https://openalex.org/W3190258547
+- https://openalex.org/W4234225465
+- https://openalex.org/W4240624835
+primary_topic: Sports Performance and Training
+open_access: true

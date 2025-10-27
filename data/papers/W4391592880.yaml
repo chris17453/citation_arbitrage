@@ -1,0 +1,495 @@
+id: https://openalex.org/W4391592880
+doi: https://doi.org/10.1056/nejmoa2309000
+title: A Phase 3, Randomized, Controlled Trial of Resmetirom in NASH with Liver Fibrosis
+publication_date: '2024-02-07'
+publication_year: 2024
+cited_by_count: 1003
+citation_percentile: 0.999972
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5028511911
+  display_name: Stephen A. Harrison
+  orcid: https://orcid.org/0000-0003-2407-2685
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210117664
+    display_name: Pinnacle Clinical Research
+    ror: https://ror.org/02k5hnj64
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pinnacle Clinical Research, San Antonio
+  - University of Oxford, Oxford
+- author_id: https://openalex.org/A5038609111
+  display_name: "Pierre B\xE9dossa"
+  orcid: https://orcid.org/0000-0002-8487-7322
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Liverpat and University of Paris
+- author_id: https://openalex.org/A5075081857
+  display_name: Cynthia D. Guy
+  orcid: https://orcid.org/0000-0002-4959-751X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210144876
+    display_name: Duke University Health System
+    ror: https://ror.org/03wfqwh68
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Duke University Health System, Durham, NC
+- author_id: https://openalex.org/A5090959657
+  display_name: "J\xF6rn M. Schattenberg"
+  orcid: https://orcid.org/0000-0002-4224-4703
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I197323543
+    display_name: Johannes Gutenberg University Mainz
+    ror: https://ror.org/023b0x485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I91712215
+    display_name: Saarland University
+    ror: https://ror.org/01jdpyv68
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210094062
+    display_name: University Medical Center of the Johannes Gutenberg University Mainz
+    ror: https://ror.org/00q1fsf04
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine II, Saarland University Medical Center, Homburg
+  - Metabolic Liver Research Program, I. Department of Medicine, University Medical
+    Center of Johannes Gutenburg University Mainz, Mainz
+- author_id: https://openalex.org/A5052059601
+  display_name: Rohit Loomba
+  orcid: https://orcid.org/0000-0002-4845-9991
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MASLD Research Center, the Division of Gastroenterology and Hepatology, University
+    of California, San Diego, La Jolla
+- author_id: https://openalex.org/A5114115410
+  display_name: Rebecca Taub
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134003
+    display_name: Madrigal Pharmaceuticals (United States)
+    ror: https://ror.org/034qq8x03
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Madrigal Pharmaceuticals, West Conshohocken, PA
+- author_id: https://openalex.org/A5082097483
+  display_name: Dominic Labriola
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134003
+    display_name: Madrigal Pharmaceuticals (United States)
+    ror: https://ror.org/034qq8x03
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Madrigal Pharmaceuticals, West Conshohocken, PA
+- author_id: https://openalex.org/A5108734649
+  display_name: Sam E. Moussa
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124665
+    display_name: Banner - University Medical Center Tucson
+    ror: https://ror.org/02xbk5j62
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Arizona for Medical Sciences
+- author_id: https://openalex.org/A5108449379
+  display_name: Guy Neff
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Covenant Metabolic Specialists, Sarasota
+- author_id: https://openalex.org/A5109691034
+  display_name: Mary E. Rinella
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40347166
+    display_name: University of Chicago
+    ror: https://ror.org/024mw5h28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Transplant Institute, Center for Liver Diseases, University of Chicago Biological\
+    \ Sciences \u2014 both in Chicago"
+- author_id: https://openalex.org/A5059068278
+  display_name: Quentin M. Anstee
+  orcid: https://orcid.org/0000-0002-9518-0088
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84884186
+    display_name: Newcastle University
+    ror: https://ror.org/01kj2bm70
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I78757542
+    display_name: University of Newcastle Australia
+    ror: https://ror.org/00eae9z71
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210088741
+    display_name: Clinical Research Institute
+    ror: https://ror.org/009ywjj88
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Translational and Clinical Research Institute, Faculty of Medical Sciences, Newcastle
+    University, Newcastle upon Tyne
+- author_id: https://openalex.org/A5011069724
+  display_name: Manal F. Abdelmalek
+  orcid: https://orcid.org/0000-0002-5001-8618
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125099
+    display_name: Mayo Clinic in Arizona
+    ror: https://ror.org/03jp40720
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN
+- author_id: https://openalex.org/A5080386622
+  display_name: Zobair M. Younossi
+  orcid: https://orcid.org/0000-0001-9313-577X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800468613
+    display_name: Inova Fairfax Hospital
+    ror: https://ror.org/0212h5y77
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Inova Fairfax Medical Campus, Falls Church
+- author_id: https://openalex.org/A5081040737
+  display_name: Seth J. Baum
+  orcid: https://orcid.org/0000-0003-1202-8126
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Flourish Research, Boca Raton
+- author_id: https://openalex.org/A5070970519
+  display_name: Sven Francque
+  orcid: https://orcid.org/0000-0002-7527-4714
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102047
+    display_name: Antwerp University Hospital
+    ror: https://ror.org/01hwamj44
+    country_code: BE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Gastroenterology and Hepatology, Antwerp University Hospital, Edegem
+- author_id: https://openalex.org/A5060169505
+  display_name: Michael Charlton
+  orcid: https://orcid.org/0000-0002-8766-7494
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40347166
+    display_name: University of Chicago
+    ror: https://ror.org/024mw5h28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Transplant Institute, Center for Liver Diseases, University of Chicago Biological\
+    \ Sciences \u2014 both in Chicago"
+- author_id: https://openalex.org/A5044832887
+  display_name: Philip N. Newsome
+  orcid: https://orcid.org/0000-0001-6085-3652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79619799
+    display_name: University of Birmingham
+    ror: https://ror.org/03angcq70
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I34931013
+    display_name: National Institute for Health Research
+    ror: https://ror.org/0187kwz08
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute for Health Research, Biomedical Research Centre at University
+    Hospitals Birmingham NHS Foundation Trust and the University of Birmingham, Birmingham
+- author_id: https://openalex.org/A5087824397
+  display_name: Nicolas Lanthier
+  orcid: https://orcid.org/0000-0002-7651-9314
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1315288073
+    display_name: Cliniques Universitaires Saint-Luc
+    ror: https://ror.org/03s4khd80
+    country_code: BE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Cliniques Universitaires Saint-Luc, Service d'H\xE9pato-gastroent\xE9rologie,\
+    \ UCLouvain, Brussels"
+- author_id: https://openalex.org/A5000364178
+  display_name: Ingolf Schiefke
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800686125
+    display_name: Klinikum St. Georg
+    ror: https://ror.org/02y8hn179
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Klinikum St. Georg Leipzig, Leipzig
+- author_id: https://openalex.org/A5013141366
+  display_name: Alessandra Mangia
+  orcid: https://orcid.org/0000-0002-2600-3555
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153126
+    display_name: Istituti di Ricovero e Cura a Carattere Scientifico
+    ror: https://ror.org/04tfzc498
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I2800188116
+    display_name: Casa Sollievo della Sofferenza
+    ror: https://ror.org/00md77g41
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Liver Unit at the IRCCS "Casa Sollievo della Sofferenza" Hospital, San Giovanni
+    Rotondo, Italy
+- author_id: https://openalex.org/A5054187872
+  display_name: "Juan M. Peric\xE0s"
+  orcid: https://orcid.org/0000-0002-3645-3293
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122544976
+    display_name: Hebron University
+    ror: https://ror.org/04wwgp209
+    country_code: PS
+    type: education
+  - id: https://openalex.org/I4210102407
+    display_name: Vall d'Hebron Institut de Recerca
+    ror: https://ror.org/01d5vx451
+    country_code: ES
+    type: facility
+  - id: https://openalex.org/I123044942
+    display_name: "Universitat Aut\xF2noma de Barcelona"
+    ror: https://ror.org/052g8jq94
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210132431
+    display_name: "Centro de Investigaci\xF3n Biom\xE9dica en Red de Enfermedades\
+      \ Hep\xE1ticas y Digestivas"
+    ror: https://ror.org/03cn6tr16
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Liver Unit, Vall d'Hebron University Hospital, Vall d'Hebron Institut de Recerca,\
+    \ Universitat Aut\xF2noma de Barcelona, Centro de Investigaci\xF3n Biom\xE9dica\
+    \ en Red de Enfermedades Hep\xE1ticas y Digestivas, Barcelona"
+- author_id: https://openalex.org/A5102848861
+  display_name: Rashmee Patil
+  orcid: https://orcid.org/0000-0002-8345-0263
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149909
+    display_name: Texas Research Institute
+    ror: https://ror.org/03r5ah485
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - South Texas Research Institute, Edinburg
+- author_id: https://openalex.org/A5070639714
+  display_name: Arun J. Sanyal
+  orcid: https://orcid.org/0000-0001-8682-5748
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I184840846
+    display_name: Virginia Commonwealth University
+    ror: https://ror.org/02nkdxk79
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Virginia Commonwealth University, Richmond
+- author_id: https://openalex.org/A5043846829
+  display_name: Mazen Noureddin
+  orcid: https://orcid.org/0000-0003-2127-2040
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1295876152
+    display_name: Houston Methodist
+    ror: https://ror.org/027zt9171
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Houston Methodist Hospital, Houston Research Institute, Houston
+- author_id: https://openalex.org/A5019999670
+  display_name: Meena B. Bansal
+  orcid: https://orcid.org/0000-0002-7501-2191
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Liver Diseases, Icahn School of Medicine at Mt. Sinai, New York
+- author_id: https://openalex.org/A5053405300
+  display_name: Naim Alkhouri
+  orcid: https://orcid.org/0000-0001-9872-2391
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210148767
+    display_name: Arizona Liver Health
+    ror: https://ror.org/05mzppf86
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Arizona Liver Health
+- author_id: https://openalex.org/A5009242334
+  display_name: "Laurent Cast\xE9ra"
+  orcid: https://orcid.org/0000-0002-6715-8588
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799502834
+    display_name: "H\xF4pital Beaujon"
+    ror: https://ror.org/03jyzk483
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210130096
+    display_name: Centre de Recherche sur l'Inflammation
+    ror: https://ror.org/02gn50d10
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1139, Centre de Recherche sur l'Inflammation
+  - "Paris, and Universit\xE9 Paris-Cit\xE9, Department of Hepatology, Beaujon Hospital,\
+    \ APHP, Clichy"
+- author_id: https://openalex.org/A5015709339
+  display_name: Madhavi Rudraraju
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117664
+    display_name: Pinnacle Clinical Research
+    ror: https://ror.org/02k5hnj64
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pinnacle Clinical Research, San Antonio
+- author_id: https://openalex.org/A5072395263
+  display_name: Vlad Ratziu
+  orcid: https://orcid.org/0000-0002-6865-3791
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - INSERM, UMRS 1138, Centre de Recherche des Cordeliers
+referenced_works:
+- https://openalex.org/W1964572117
+- https://openalex.org/W1967367254
+- https://openalex.org/W2012868945
+- https://openalex.org/W2067740038
+- https://openalex.org/W2120397203
+- https://openalex.org/W2130717716
+- https://openalex.org/W2168536722
+- https://openalex.org/W2325544658
+- https://openalex.org/W2465758073
+- https://openalex.org/W2508708811
+- https://openalex.org/W2580009538
+- https://openalex.org/W2734724639
+- https://openalex.org/W2744982526
+- https://openalex.org/W2985579744
+- https://openalex.org/W3120364536
+- https://openalex.org/W3133101076
+- https://openalex.org/W3159525431
+- https://openalex.org/W3160163020
+- https://openalex.org/W3183857127
+- https://openalex.org/W3206948891
+- https://openalex.org/W4318923555
+- https://openalex.org/W4361197023
+- https://openalex.org/W4367397089
+- https://openalex.org/W4381681857
+- https://openalex.org/W4387297067
+- https://openalex.org/W4387666937
+primary_topic: Liver Disease Diagnosis and Treatment
+open_access: true

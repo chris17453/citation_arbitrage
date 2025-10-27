@@ -1,0 +1,531 @@
+id: https://openalex.org/W3146142859
+doi: https://doi.org/10.1016/j.ijsu.2021.105906
+title: 'The PRISMA 2020 statement: An updated guideline for reporting systematic reviews'
+publication_date: '2021-03-28'
+publication_year: 2021
+cited_by_count: 9462
+citation_percentile: 0.999724
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5089979303
+  display_name: Matthew J. Page
+  orcid: https://orcid.org/0000-0002-4242-7526
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - School of Public Health and Preventive Medicine, Monash University, Melbourne,
+    Australia
+- author_id: https://openalex.org/A5015844348
+  display_name: Joanne E. McKenzie
+  orcid: https://orcid.org/0000-0003-3534-1641
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Public Health and Preventive Medicine, Monash University, Melbourne,
+    Australia
+- author_id: https://openalex.org/A5061726857
+  display_name: Patrick M. Bossuyt
+  orcid: https://orcid.org/0000-0003-4427-0128
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Epidemiology, Biostatistics and Bioinformatics, Amsterdam
+    University Medical Centres, University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5065028933
+  display_name: Isabelle Boutron
+  orcid: https://orcid.org/0000-0002-5263-6241
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4387154308
+    display_name: "Centre de Recherche \xC9pid\xE9miologie et Statistique"
+    ror: https://ror.org/00t9egj41
+    country_code: null
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Paris, Centre of Epidemiology and Statistics (CRESS), Inserm,\
+    \ F 75004, Paris, France"
+- author_id: https://openalex.org/A5090700680
+  display_name: Tammy Hoffmann
+  orcid: https://orcid.org/0000-0001-5210-8548
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I120125038
+    display_name: Bond University
+    ror: https://ror.org/006jxzx88
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Evidence-Based Healthcare, Faculty of Health Sciences and Medicine,
+    Bond University, Gold Coast, Australia
+- author_id: https://openalex.org/A5031204654
+  display_name: Cynthia D. Mulrow
+  orcid: https://orcid.org/0000-0002-4768-4492
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Annals of Internal Medicine, USA
+  - University of Texas Health Science Center at San Antonio, San Antonio, TX, USA
+- author_id: https://openalex.org/A5091561305
+  display_name: Larissa Shamseer
+  orcid: https://orcid.org/0000-0003-3690-3378
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I153718931
+    display_name: University of Ottawa
+    ror: https://ror.org/03c4mmv16
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Knowledge Translation Program, Li Ka Shing Knowledge Institute, Toronto, Canada
+  - School of Epidemiology and Public Health, Faculty of Medicine, University of Ottawa,
+    Ottawa, Canada
+- author_id: https://openalex.org/A5076572041
+  display_name: Jennifer Tetzlaff
+  orcid: https://orcid.org/0000-0003-0787-5363
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Evidence Partners, Ottawa, Canada
+- author_id: https://openalex.org/A5041615321
+  display_name: Elie A. Akl
+  orcid: https://orcid.org/0000-0002-3444-8618
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98635879
+    display_name: American University of Beirut
+    ror: https://ror.org/04pznsd21
+    country_code: LB
+    type: funder
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210161256
+    display_name: Impact
+    ror: https://ror.org/05d9dsr70
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Research Institute, American University of Beirut, Beirut, Lebanon
+  - Department of Health Research Methods, Evidence, And Impact, McMaster University,
+    Hamilton, Ontario, Canada
+- author_id: https://openalex.org/A5012486829
+  display_name: Sue Brennan
+  orcid: https://orcid.org/0000-0003-1789-8809
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Public Health and Preventive Medicine, Monash University, Melbourne,
+    Australia
+- author_id: https://openalex.org/A5070442023
+  display_name: Roger Chou
+  orcid: https://orcid.org/0000-0001-9889-8610
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science
+    University, Portland, OR, USA
+- author_id: https://openalex.org/A5003504334
+  display_name: Julie Glanville
+  orcid: https://orcid.org/0000-0002-1253-8524
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I280385510
+    display_name: Leeds and York Partnership NHS Foundation Trust
+    ror: https://ror.org/00n635c12
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I52099693
+    display_name: University of York
+    ror: https://ror.org/04m01e293
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - York Health Economics Consortium (YHEC Ltd), University of York, York, UK
+- author_id: https://openalex.org/A5054403907
+  display_name: Jeremy Grimshaw
+  orcid: https://orcid.org/0000-0001-8015-8243
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4388482656
+    display_name: Ottawa Hospital Research Institute
+    ror: https://ror.org/05jtef216
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I2800722420
+    display_name: Ottawa Hospital
+    ror: https://ror.org/03c62dg59
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I153718931
+    display_name: University of Ottawa
+    ror: https://ror.org/03c4mmv16
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Epidemiology Program, Ottawa Hospital Research Institute, Ottawa, Canada
+  - Department of Medicine, University of Ottawa, Ottawa, Canada
+  - School of Epidemiology and Public Health, University of Ottawa, Ottawa, Canada
+- author_id: https://openalex.org/A5110728949
+  display_name: "Asbj\xF8rn Hr\xF3bjartsson"
+  orcid: https://orcid.org/0000-0002-2451-5012
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801498763
+    display_name: Odense University Hospital
+    ror: https://ror.org/00ey0ed83
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Open Patient data Exploratory Network (OPEN), Odense University Hospital, Odense,
+    Denmark
+- author_id: https://openalex.org/A5007813511
+  display_name: Manoj M. Lalu
+  orcid: https://orcid.org/0000-0002-0322-382X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4388482656
+    display_name: Ottawa Hospital Research Institute
+    ror: https://ror.org/05jtef216
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I2800722420
+    display_name: Ottawa Hospital
+    ror: https://ror.org/03c62dg59
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Epidemiology Program, Blueprint Translational Research Group, Ottawa
+    Hospital Research Institute, Ottawa, Canada
+  - Department of Anesthesiology and Pain Medicine, The Ottawa Hospital, Ottawa, Canada
+  - Regenerative Medicine Program, Ottawa Hospital Research Institute, Ottawa, Canada
+- author_id: https://openalex.org/A5072760500
+  display_name: Tianjing Li
+  orcid: https://orcid.org/0000-0001-5371-4558
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I921990950
+    display_name: University of Colorado Denver
+    ror: https://ror.org/02hh7en24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore,
+    MD, USA
+  - Department of Ophthalmology, School of Medicine, University of Colorado Denver,
+    Denver, CO, United States
+- author_id: https://openalex.org/A5054045289
+  display_name: Elizabeth Loder
+  orcid: https://orcid.org/0000-0003-1501-2947
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1283280774
+    display_name: Brigham and Women's Hospital
+    ror: https://ror.org/04b6nzv94
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Headache, Department of Neurology, Brigham and Women's Hospital, Harvard
+    Medical School, Boston, MA, USA
+  - Head of Research, The BMJ, London, UK
+- author_id: https://openalex.org/A5055917772
+  display_name: "Evan Mayo\u2010Wilson"
+  orcid: https://orcid.org/0000-0001-6126-2459
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210119109
+    display_name: Indiana University Bloomington
+    ror: https://ror.org/02k40bc56
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Biostatistics, Indiana University School of Public
+    Health-Bloomington, Bloomington, IN, USA
+- author_id: https://openalex.org/A5074391235
+  display_name: Steve McDonald
+  orcid: https://orcid.org/0000-0003-2832-5205
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Public Health and Preventive Medicine, Monash University, Melbourne,
+    Australia
+- author_id: https://openalex.org/A5037094305
+  display_name: Luke A. McGuinness
+  orcid: https://orcid.org/0000-0001-8730-9761
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5082927689
+  display_name: Lesley Stewart
+  orcid: https://orcid.org/0000-0003-0287-4724
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52099693
+    display_name: University of York
+    ror: https://ror.org/04m01e293
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Reviews and Dissemination, University of York, York, UK
+- author_id: https://openalex.org/A5090183643
+  display_name: James Thomas
+  orcid: https://orcid.org/0000-0003-4805-4190
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - EPPI-Centre, UCL Social Research Institute, University College London, London,
+    UK
+- author_id: https://openalex.org/A5074901391
+  display_name: Andrea C. Tricco
+  orcid: https://orcid.org/0000-0002-4114-8971
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204722609
+    display_name: Queen's University
+    ror: https://ror.org/02y72wh86
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I1297363086
+    display_name: St. Michael's Hospital
+    ror: https://ror.org/04skqfp25
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I4399598460
+    display_name: Unity Health Toronto
+    ror: https://ror.org/012x5xb44
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Li Ka Shing Knowledge Institute of St. Michael's Hospital, Unity Health Toronto,
+    Toronto, Canada; Epidemiology Division of the Dalla Lana School of Public Health
+    and the Institute of Health Management, Policy, and Evaluation,
+  - University of Toronto, Toronto, Canada; Queen'
+- author_id: https://openalex.org/A5029006782
+  display_name: Vivian Welch
+  orcid: https://orcid.org/0000-0002-5238-7097
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I153718931
+    display_name: University of Ottawa
+    ror: https://ror.org/03c4mmv16
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210145570
+    display_name: "Bruy\xE8re"
+    ror: https://ror.org/05bznkw77
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Methods Centre, Bruy\xE8re Research Institute, Ottawa, Ontario, Canada; School\
+    \ of Epidemiology and Public Health, Faculty of Medicine,"
+  - University of Ottawa, Ottawa, Canada
+- author_id: https://openalex.org/A5077388783
+  display_name: Penny Whiting
+  orcid: https://orcid.org/0000-0003-1138-5682
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5068353058
+  display_name: David Moher
+  orcid: https://orcid.org/0000-0003-2434-4206
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I153718931
+    display_name: University of Ottawa
+    ror: https://ror.org/03c4mmv16
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I2800722420
+    display_name: Ottawa Hospital
+    ror: https://ror.org/03c62dg59
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I4388482656
+    display_name: Ottawa Hospital Research Institute
+    ror: https://ror.org/05jtef216
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Journalology, Clinical Epidemiology Program, Ottawa Hospital Research
+    Institute, Ottawa, Canada; School of Epidemiology and Public Health, Faculty of
+    Medicine,
+  - University of Ottawa, Ottawa, Canada
+referenced_works:
+- https://openalex.org/W118549185
+- https://openalex.org/W1617328014
+- https://openalex.org/W1913246108
+- https://openalex.org/W1965104586
+- https://openalex.org/W2005501262
+- https://openalex.org/W2007872832
+- https://openalex.org/W2012107441
+- https://openalex.org/W2012932483
+- https://openalex.org/W2022190222
+- https://openalex.org/W2031720106
+- https://openalex.org/W2050118439
+- https://openalex.org/W2066896354
+- https://openalex.org/W2093038967
+- https://openalex.org/W2093152548
+- https://openalex.org/W2096266245
+- https://openalex.org/W2124445109
+- https://openalex.org/W2134833483
+- https://openalex.org/W2135572748
+- https://openalex.org/W2144032281
+- https://openalex.org/W2147469877
+- https://openalex.org/W2156098321
+- https://openalex.org/W2161374186
+- https://openalex.org/W2163661402
+- https://openalex.org/W2169205464
+- https://openalex.org/W2208053283
+- https://openalex.org/W2263572070
+- https://openalex.org/W2342064264
+- https://openalex.org/W2396846174
+- https://openalex.org/W2468996569
+- https://openalex.org/W2531269403
+- https://openalex.org/W2567362164
+- https://openalex.org/W2576440140
+- https://openalex.org/W2604568423
+- https://openalex.org/W2616456691
+- https://openalex.org/W2752872022
+- https://openalex.org/W2756578555
+- https://openalex.org/W2762974940
+- https://openalex.org/W2765905280
+- https://openalex.org/W2766439930
+- https://openalex.org/W2772564313
+- https://openalex.org/W2779588463
+- https://openalex.org/W2785704959
+- https://openalex.org/W2791681873
+- https://openalex.org/W2891378911
+- https://openalex.org/W2895713118
+- https://openalex.org/W2903923633
+- https://openalex.org/W2914938986
+- https://openalex.org/W2917632902
+- https://openalex.org/W2944160460
+- https://openalex.org/W2949899843
+- https://openalex.org/W2953559630
+- https://openalex.org/W2961191798
+- https://openalex.org/W2961682569
+- https://openalex.org/W2968088578
+- https://openalex.org/W2970684805
+- https://openalex.org/W2972152141
+- https://openalex.org/W2973875029
+- https://openalex.org/W2988223630
+- https://openalex.org/W2989672233
+- https://openalex.org/W2990648940
+- https://openalex.org/W2990790246
+- https://openalex.org/W3006856936
+- https://openalex.org/W3022903699
+- https://openalex.org/W3123497531
+- https://openalex.org/W3123893780
+- https://openalex.org/W3126226315
+- https://openalex.org/W3211002328
+- https://openalex.org/W4294215472
+- https://openalex.org/W4313371821
+- https://openalex.org/W600840809
+primary_topic: Meta-analysis and systematic reviews
+open_access: true

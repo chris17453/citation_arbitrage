@@ -1,0 +1,273 @@
+id: https://openalex.org/W3171125843
+doi: https://doi.org/10.1109/cvpr46437.2021.01212
+title: Pre-Trained Image Processing Transformer
+publication_date: '2021-06-01'
+publication_year: 2021
+cited_by_count: 1602
+citation_percentile: 0.999876
+pagerank: 2.8660596526242588e-06
+authorships:
+- author_id: https://openalex.org/A5081216284
+  display_name: Hanting Chen
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210159102
+    display_name: Huawei Technologies (Sweden)
+    ror: https://ror.org/0500fyd17
+    country_code: SE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Dept. of Machine Intelligence, Key Lab of Machine Perception (MOE), Peking University
+  - "Noah\u2019s Ark Lab, Huawei Technologies"
+- author_id: https://openalex.org/A5100727358
+  display_name: Yunhe Wang
+  orcid: https://orcid.org/0000-0002-2709-4946
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210159102
+    display_name: Huawei Technologies (Sweden)
+    ror: https://ror.org/0500fyd17
+    country_code: SE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Huawei Technologies,Noah\u2019s Ark Lab"
+- author_id: https://openalex.org/A5046716542
+  display_name: Tianyu Guo
+  orcid: https://orcid.org/0000-0001-5703-7064
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210159102
+    display_name: Huawei Technologies (Sweden)
+    ror: https://ror.org/0500fyd17
+    country_code: SE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Dept. of Machine Intelligence, Key Lab of Machine Perception (MOE), Peking University
+  - "Noah\u2019s Ark Lab, Huawei Technologies"
+- author_id: https://openalex.org/A5001529504
+  display_name: Chang Xu
+  orcid: https://orcid.org/0000-0002-4756-0609
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129604602
+    display_name: The University of Sydney
+    ror: https://ror.org/0384j8v12
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The University of Sydney,School of Computer Science, Faculty of Engineering
+- author_id: https://openalex.org/A5083207452
+  display_name: Yiping Deng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123571
+    display_name: Huawei Technologies (France)
+    ror: https://ror.org/02rbzf697
+    country_code: FR
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Central Software Institution, Huawei Technologies
+- author_id: https://openalex.org/A5100420214
+  display_name: Zhenhua Liu
+  orcid: https://orcid.org/0000-0002-3152-1007
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136793
+    display_name: Peng Cheng Laboratory
+    ror: https://ror.org/03qdqbt06
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210159102
+    display_name: Huawei Technologies (Sweden)
+    ror: https://ror.org/0500fyd17
+    country_code: SE
+    type: company
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Digital Media, School of Electronic Engineering and Computer Science,
+    Peking University
+  - "Noah\u2019s Ark Lab, Huawei Technologies"
+  - Peng Cheng Laboratory
+- author_id: https://openalex.org/A5039832462
+  display_name: Siwei Ma
+  orcid: https://orcid.org/0000-0002-2731-5403
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136793
+    display_name: Peng Cheng Laboratory
+    ror: https://ror.org/03qdqbt06
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Digital Media, School of Electronic Engineering and Computer Science,
+    Peking University
+  - Peng Cheng Laboratory
+- author_id: https://openalex.org/A5101082712
+  display_name: Chunjing Xu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210159102
+    display_name: Huawei Technologies (Sweden)
+    ror: https://ror.org/0500fyd17
+    country_code: SE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Huawei Technologies,Noah\u2019s Ark Lab"
+- author_id: https://openalex.org/A5102916885
+  display_name: Chao Xu
+  orcid: https://orcid.org/0000-0002-6522-0982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Peking University,Key Lab of Machine Perception (MOE),Dept. of Machine Intelligence
+- author_id: https://openalex.org/A5018478553
+  display_name: Wen Gao
+  orcid: https://orcid.org/0000-0002-8070-802X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210136793
+    display_name: Peng Cheng Laboratory
+    ror: https://ror.org/03qdqbt06
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Digital Media, School of Electronic Engineering and Computer Science,
+    Peking University
+  - Peng Cheng Laboratory
+referenced_works:
+- https://openalex.org/W1686810756
+- https://openalex.org/W1885185971
+- https://openalex.org/W1906770428
+- https://openalex.org/W1988952689
+- https://openalex.org/W2047710600
+- https://openalex.org/W2108598243
+- https://openalex.org/W2170590026
+- https://openalex.org/W2194775991
+- https://openalex.org/W2242218935
+- https://openalex.org/W2256362396
+- https://openalex.org/W2466666260
+- https://openalex.org/W2508457857
+- https://openalex.org/W2509784253
+- https://openalex.org/W2613155248
+- https://openalex.org/W2618530766
+- https://openalex.org/W2739097844
+- https://openalex.org/W2739815012
+- https://openalex.org/W2740982616
+- https://openalex.org/W2741137940
+- https://openalex.org/W2764207251
+- https://openalex.org/W2780930362
+- https://openalex.org/W2788682721
+- https://openalex.org/W2866634454
+- https://openalex.org/W2884068670
+- https://openalex.org/W2890782586
+- https://openalex.org/W2896457183
+- https://openalex.org/W2910832120
+- https://openalex.org/W2912268344
+- https://openalex.org/W2912435603
+- https://openalex.org/W2913360047
+- https://openalex.org/W2930755307
+- https://openalex.org/W2947128531
+- https://openalex.org/W2947156405
+- https://openalex.org/W2948300571
+- https://openalex.org/W2950217418
+- https://openalex.org/W2953484813
+- https://openalex.org/W2954171777
+- https://openalex.org/W2954930822
+- https://openalex.org/W2955058313
+- https://openalex.org/W2962935103
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963306157
+- https://openalex.org/W2963319519
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963372104
+- https://openalex.org/W2963403868
+- https://openalex.org/W2963495494
+- https://openalex.org/W2963542740
+- https://openalex.org/W2963645458
+- https://openalex.org/W2963667985
+- https://openalex.org/W2963725279
+- https://openalex.org/W2963878020
+- https://openalex.org/W2964030969
+- https://openalex.org/W2964046397
+- https://openalex.org/W2964101377
+- https://openalex.org/W2964125708
+- https://openalex.org/W2964267765
+- https://openalex.org/W2965373594
+- https://openalex.org/W2970231061
+- https://openalex.org/W2982093251
+- https://openalex.org/W2990984982
+- https://openalex.org/W2999653953
+- https://openalex.org/W3000775737
+- https://openalex.org/W3005680577
+- https://openalex.org/W3030163527
+- https://openalex.org/W3033210410
+- https://openalex.org/W3034445277
+- https://openalex.org/W3034885317
+- https://openalex.org/W3035250394
+- https://openalex.org/W3035524453
+- https://openalex.org/W3038857985
+- https://openalex.org/W3082274269
+- https://openalex.org/W3083579885
+- https://openalex.org/W3090412929
+- https://openalex.org/W3092462694
+- https://openalex.org/W3093242897
+- https://openalex.org/W3094502228
+- https://openalex.org/W3096609285
+- https://openalex.org/W3096739052
+- https://openalex.org/W3097217077
+- https://openalex.org/W3103292251
+- https://openalex.org/W3104725225
+- https://openalex.org/W3109746756
+- https://openalex.org/W3111921445
+- https://openalex.org/W3128419980
+- https://openalex.org/W3132890542
+- https://openalex.org/W3168545914
+- https://openalex.org/W4288089799
+- https://openalex.org/W4292779060
+- https://openalex.org/W4385245566
+- https://openalex.org/W54257720
+- https://openalex.org/W783453938
+primary_topic: Advanced Image Processing Techniques
+open_access: true

@@ -1,0 +1,1541 @@
+id: https://openalex.org/W4293212596
+doi: https://doi.org/10.3847/1538-4357/ac7c74
+title: 'The Astropy Project: Sustaining and Growing a Community-oriented Open-source
+  Project and the Latest Major Release (v5.0) of the Core Package*'
+publication_date: '2022-08-01'
+publication_year: 2022
+cited_by_count: 3026
+citation_percentile: 0.999908
+pagerank: 2.5435525038239677e-06
+authorships:
+- author_id: https://openalex.org/A5065427484
+  display_name: The Astropy Collaboration
+  orcid: null
+  author_position: first
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051357815
+  display_name: Adrian M. Price-Whelan
+  orcid: https://orcid.org/0000-0003-0872-7098
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153999
+    display_name: Flatiron Institute
+    ror: https://ror.org/00sekdz59
+    country_code: null
+    type: nonprofit
+  - id: https://openalex.org/I4210153546
+    display_name: Flatiron Health (United States)
+    ror: https://ror.org/0508h6p74
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Computational Astrophysics, Flatiron Institute, 162 5th Avenue, New
+    York, NY 10010, USA
+- author_id: https://openalex.org/A5038308126
+  display_name: Pey Lian Lim
+  orcid: https://orcid.org/0000-0003-0079-4114
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5090882838
+  display_name: N. Earl
+  orcid: https://orcid.org/0000-0003-1714-7415
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Astronomy, University of Illinois at Urbana-Champaign, 1002 W. Green
+    Street, Urbana, IL 61801 USA
+- author_id: https://openalex.org/A5051939137
+  display_name: Nathaniel Starkman
+  orcid: https://orcid.org/0000-0003-3954-3291
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto,
+    50 St. George Street, Toronto ON M5S 3H4, Canada
+- author_id: https://openalex.org/A5044716132
+  display_name: Larry Bradley
+  orcid: https://orcid.org/0000-0002-7908-9284
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5088456706
+  display_name: D. L. Shupe
+  orcid: https://orcid.org/0000-0003-4401-0430
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210167273
+    display_name: Infrared Processing and Analysis Center
+    ror: https://ror.org/05q79g396
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IPAC, MC 100-22, Caltech, 1200 E. California Boulevard, Pasadena, CA 91125, USA
+- author_id: https://openalex.org/A5034024724
+  display_name: Aarya A. Patil
+  orcid: https://orcid.org/0000-0002-7626-506X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210110940
+    display_name: Canadian Institute for Theoretical Astrophysics
+    ror: https://ror.org/0265wc016
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto,
+    50 St. George Street, Toronto ON M5S 3H4, Canada
+  - Dunlap Institute for Astronomy & Astrophysics, University of Toronto, 50 St George
+    Street, Toronto, ON M5S 3H4, Canada
+- author_id: https://openalex.org/A5000623273
+  display_name: "L\xEDa Corrales"
+  orcid: https://orcid.org/0000-0002-5466-3817
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Michigan, Department of Astronomy, 1085 S. University Avenue, Ann
+    Arbor MI 48109, USA
+- author_id: https://openalex.org/A5066601915
+  display_name: C. E. Brasseur
+  orcid: https://orcid.org/0000-0002-9314-960X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16835326
+    display_name: University of St Andrews
+    ror: https://ror.org/02wn5qz54
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Physics and Astronomy, University of St Andrews, North Haugh, Street,
+    Andrews KY16 9SS, UK
+- author_id: https://openalex.org/A5108664690
+  display_name: "Maximilian N\xF6the"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200332995
+    display_name: TU Dortmund University
+    ror: https://ror.org/01k97gp34
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Astroparticle Physics, TU Dortmund, Otto-Hahn-Stra\xDFe 4a, D-44227 Dortmund,\
+    \ Germany"
+- author_id: https://openalex.org/A5087561903
+  display_name: Axel Donath
+  orcid: https://orcid.org/0000-0003-4568-7005
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124175
+    display_name: Center for Astrophysics Harvard & Smithsonian
+    ror: https://ror.org/03c3r2d17
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA,
+    02138, USA
+- author_id: https://openalex.org/A5083524651
+  display_name: Erik Tollerud
+  orcid: https://orcid.org/0000-0002-9599-310X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5022671363
+  display_name: Brett M. Morris
+  orcid: https://orcid.org/0000-0003-2528-3409
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I118564535
+    display_name: University of Bern
+    ror: https://ror.org/02k7v4d05
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Space and Habitability, University of Bern, Gesellschaftsstrasse 6,
+    3012 Bern, Switzerland
+- author_id: https://openalex.org/A5039093835
+  display_name: Adam Ginsburg
+  orcid: https://orcid.org/0000-0001-6431-9633
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I33213144
+    display_name: University of Florida
+    ror: https://ror.org/02y3ad647
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Astronomy, University of Florida, P.O. Box 112055, Gainesville,
+    FL, USA
+- author_id: https://openalex.org/A5020747884
+  display_name: Eero Vaher
+  orcid: https://orcid.org/0000-0001-8736-1762
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I187531555
+    display_name: Lund University
+    ror: https://ror.org/012a77v79
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lund Observatory, Department of Astronomy and Theoretical Physics, Lund University,
+    Box 43, SE-22100 Lund, Sweden
+- author_id: https://openalex.org/A5031952490
+  display_name: Benjamin Alan Weaver
+  orcid: https://orcid.org/0000-0003-3687-3463
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210141577
+    display_name: NSF NOIRLab
+    ror: https://ror.org/03zmsge54
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NSF's National Optical-Infrared Astronomy Research Laboratory, 950 North Cherry
+    Avenue, Tucson, AZ 85719, USA
+- author_id: https://openalex.org/A5071260466
+  display_name: James Tocknell
+  orcid: https://orcid.org/0000-0001-6637-6922
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99043593
+    display_name: Macquarie University
+    ror: https://ror.org/01sf06y89
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I2802629923
+    display_name: Australian Astronomical Observatory
+    ror: https://ror.org/030cszc07
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Astronomy, Astrophysics and Astrophotonics Research Centre, Macquarie University,
+    Sydney, NSW 2109, Australia
+  - Australian Astronomical Optics, Macquarie University, Sydney, NSW 2109, Australia
+  - School of Mathematical and Physical Sciences, Macquarie University, Sydney, NSW
+    2109, Australia
+- author_id: https://openalex.org/A5030465114
+  display_name: William Brian Jamieson
+  orcid: https://orcid.org/0000-0001-5976-4492
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5031567163
+  display_name: M. H. van Kerkwijk
+  orcid: https://orcid.org/0000-0002-5830-8505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto,
+    50 St. George Street, Toronto ON M5S 3H4, Canada
+- author_id: https://openalex.org/A5014651763
+  display_name: Thomas Robitaille
+  orcid: https://orcid.org/0000-0002-8642-1329
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Aperio Software Ltd., Insight House, Riverside Business Park, Stoney Common Road,
+    Stansted, Essex, CM24 8PL, UK
+- author_id: https://openalex.org/A5076076977
+  display_name: Bruce Merry
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210116079
+    display_name: South African Radio Astronomy Observatory
+    ror: https://ror.org/022j2n646
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - South African Radio Astronomy Observatory, 2 Fir Street, Black River Park, Observatory
+    7925, South Africa
+- author_id: https://openalex.org/A5073598248
+  display_name: Matteo Bachetti
+  orcid: https://orcid.org/0000-0002-4576-9337
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I875825670
+    display_name: National Institute for Astrophysics
+    ror: https://ror.org/02gh4kt33
+    country_code: IT
+    type: government
+  - id: https://openalex.org/I4210151704
+    display_name: Osservatorio Astronomico di Cagliari
+    ror: https://ror.org/045dz8764
+    country_code: IT
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Istituto Nazionale di Astrofisica/Osservatorio Astronomico di Cagliari, via della
+    Scienza 5, I-09047 Selargius (CA), Italy
+- author_id: https://openalex.org/A5046850653
+  display_name: "Hans Moritz G\xFCnther"
+  orcid: https://orcid.org/0000-0003-4243-2840
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210094059
+    display_name: Kavli Institute for Particle Astrophysics and Cosmology
+    ror: https://ror.org/00pwqz914
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MIT Kavli Institute for Astrophysics and Space Research, 77 Massachusetts Avenue,
+    Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5085224854
+  display_name: Thomas L. Aldcroft
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124175
+    display_name: Center for Astrophysics Harvard & Smithsonian
+    ror: https://ror.org/03c3r2d17
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA,
+    02138, USA
+- author_id: https://openalex.org/A5067922714
+  display_name: Jaime A. Alvarado-Montes
+  orcid: https://orcid.org/0000-0003-0353-9741
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99043593
+    display_name: Macquarie University
+    ror: https://ror.org/01sf06y89
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Astronomy, Astrophysics and Astrophotonics Research Centre, Macquarie University,
+    Sydney, NSW 2109, Australia
+  - School of Mathematical and Physical Sciences, Macquarie University, Sydney, NSW
+    2109, Australia
+- author_id: https://openalex.org/A5030889135
+  display_name: Anne M. Archibald
+  orcid: https://orcid.org/0000-0003-0638-3340
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84884186
+    display_name: Newcastle University
+    ror: https://ror.org/01kj2bm70
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Newcastle University, Newcastle upon Tyne NE1 7RU UK
+- author_id: https://openalex.org/A5085923546
+  display_name: "Attila B\xF3di"
+  orcid: https://orcid.org/0000-0002-8585-4544
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802129078
+    display_name: Konkoly Observatory
+    ror: https://ror.org/039jmcx36
+    country_code: HU
+    type: facility
+  - id: https://openalex.org/I4210128682
+    display_name: Research Centre for Astronomy and Earth Sciences
+    ror: https://ror.org/036wvs663
+    country_code: HU
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Konkoly Observatory, Research Centre for Astronomy and Earth Sciences (ELKH),\
+    \ H-1121 Budapest, Konkoly Thege Mikl\xF3s \xFAt 15-17, Hungary"
+  - "MTA CSFK Lend\xFClet Near-Field Cosmology Research Group, Budapest, Hungary"
+- author_id: https://openalex.org/A5017171558
+  display_name: Shreyas Bapat
+  orcid: https://orcid.org/0000-0002-0870-4665
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I9579091
+    display_name: Indian Institute of Technology Mandi
+    ror: https://ror.org/05r9r2f34
+    country_code: IN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computing and Electrical Engineering, Indian Institute of Technology
+    Mandi, Kamand, Mandi (H.P.), 175005, India
+- author_id: https://openalex.org/A5000264188
+  display_name: Geert Barentsen
+  orcid: https://orcid.org/0000-0002-3306-3484
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109616
+    display_name: Bay Area Environmental Research Institute
+    ror: https://ror.org/024tt5x58
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bay Area Environmental Research Institute, P.O. Box 25, Moffett Field, CA 94035,
+    USA
+- author_id: https://openalex.org/A5031599145
+  display_name: "Juanjo Baz\xE1n"
+  orcid: https://orcid.org/0000-0001-7699-3983
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210129022
+    display_name: "Centro de Astrobiolog\xEDa"
+    ror: https://ror.org/038szmr31
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CIEMAT Astroparticle Physics, Madrid, Spain
+- author_id: https://openalex.org/A5020881985
+  display_name: Manish Biswas
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I878213199
+    display_name: Savitribai Phule Pune University
+    ror: https://ror.org/044g6d731
+    country_code: IN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Savitribai Phule Pune University, Pune, Maharashtra, India
+- author_id: https://openalex.org/A5010717725
+  display_name: M. Boquien
+  orcid: https://orcid.org/0000-0003-0946-6176
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129739261
+    display_name: Universidad de Antofagasta
+    ror: https://ror.org/04eyc6d95
+    country_code: CL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centro de Astronom\xEDa (CITEVA), Universidad de Antofagasta, Avenida Angamos\
+    \ 601, Antofagasta, Chile"
+- author_id: https://openalex.org/A5035705826
+  display_name: D. J. Burke
+  orcid: https://orcid.org/0000-0003-4428-7835
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124175
+    display_name: Center for Astrophysics Harvard & Smithsonian
+    ror: https://ror.org/03c3r2d17
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA,
+    02138, USA
+- author_id: https://openalex.org/A5089860122
+  display_name: Daria Cara
+  orcid: https://orcid.org/0000-0003-3833-1668
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47251452
+    display_name: Wake Forest University
+    ror: https://ror.org/0207ad724
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wake Forest University, 1834 Wake Forest Road, Winston-Salem, NC, 27109, USA
+- author_id: https://openalex.org/A5035352659
+  display_name: Mihai Cara
+  orcid: https://orcid.org/0000-0002-9294-6551
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5004542944
+  display_name: Kyle E. Conroy
+  orcid: https://orcid.org/0000-0002-5442-8550
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5038234856
+  display_name: Simon Conseil
+  orcid: https://orcid.org/0000-0002-3657-4191
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I21491767
+    display_name: "Aix-Marseille Universit\xE9"
+    ror: https://ror.org/035xkbk20
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Aix Marseille University, CNRS, CNES, LAM, Marseille, France
+- author_id: https://openalex.org/A5057373916
+  display_name: Matthew Craig
+  orcid: https://orcid.org/0000-0001-7988-8919
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166613482
+    display_name: Minnesota State University Moorhead
+    ror: https://ror.org/03msdae35
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Astronomy, Minnesota State University Moorhead, Moorhead,
+    MN 56563, USA
+- author_id: https://openalex.org/A5010958238
+  display_name: R. Cross
+  orcid: https://orcid.org/0000-0003-0081-8024
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent Astropy Contributor
+- author_id: https://openalex.org/A5068180255
+  display_name: Kelle L. Cruz
+  orcid: https://orcid.org/0000-0002-1821-0650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1338124936
+    display_name: American Museum of Natural History
+    ror: https://ror.org/03thb3e06
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4387153999
+    display_name: Flatiron Institute
+    ror: https://ror.org/00sekdz59
+    country_code: null
+    type: nonprofit
+  - id: https://openalex.org/I39694355
+    display_name: Hunter College
+    ror: https://ror.org/00g2xk477
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210153546
+    display_name: Flatiron Health (United States)
+    ror: https://ror.org/0508h6p74
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - American Museum of Natural History, Department of Astrophysics, Central Park West
+    at 79th Street, New York, NY 10024, USA
+  - Flatiron Institute, 162 Fifth Avenue, New York, NY 10010, USA
+  - Hunter College, Physics and Astronomy, 695 Park Avenue, New York, NY 10065, USA
+- author_id: https://openalex.org/A5007065243
+  display_name: "Francesco D\u2019Eugenio"
+  orcid: https://orcid.org/0000-0003-2388-8172
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cavendish Laboratory and Kavli Institute for Cosmology, University of Cambridge,
+    Madingley Rise, Cambridge, CB3 0HA, UK
+- author_id: https://openalex.org/A5068990455
+  display_name: Nadia Dencheva
+  orcid: https://orcid.org/0000-0002-5686-9632
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5070439585
+  display_name: Hadrien A. R. Devillepoix
+  orcid: https://orcid.org/0000-0001-9226-1870
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205640436
+    display_name: Curtin University
+    ror: https://ror.org/02n415q13
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Earth and Planetary Sciences, Curtin University, Perth WA 6845, Australia
+- author_id: https://openalex.org/A5107656958
+  display_name: J. P. Dietrich
+  orcid: https://orcid.org/0000-0002-8134-9591
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097213
+    display_name: Stuttgart Observatory
+    ror: https://ror.org/00vxe3x87
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE4ts-Sternwarte M\xFCnchen, Scheinerstr, 181679 M\xFCnchen, Germany"
+- author_id: https://openalex.org/A5014303427
+  display_name: Arthur Eigenbrot
+  orcid: https://orcid.org/0000-0003-0810-4368
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088762
+    display_name: National Solar Observatory
+    ror: https://ror.org/00b9pg524
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Solar Observatory, 3665 Discovery Drive, Boulder CO, 80303, USA
+- author_id: https://openalex.org/A5109151725
+  display_name: T. Erben
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I135140700
+    display_name: University of Bonn
+    ror: https://ror.org/041nas322
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Argelander-Institut f\xFCr Astronomie (University of Bonn), Auf dem H\xFCgel\
+    \ 71, D-53121 Bonn, Germany"
+- author_id: https://openalex.org/A5101533423
+  display_name: Leonardo Ferreira
+  orcid: https://orcid.org/0000-0002-8919-079X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142263535
+    display_name: University of Nottingham
+    ror: https://ror.org/01ee9ar58
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Astronomy and Particle Physics, University of Nottingham, Nottingham,
+    UK
+- author_id: https://openalex.org/A5043101946
+  display_name: Daniel Foreman-Mackey
+  orcid: https://orcid.org/0000-0002-9328-5652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153999
+    display_name: Flatiron Institute
+    ror: https://ror.org/00sekdz59
+    country_code: null
+    type: nonprofit
+  - id: https://openalex.org/I4210153546
+    display_name: Flatiron Health (United States)
+    ror: https://ror.org/0508h6p74
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Computational Astrophysics, Flatiron Institute, 162 5th Avenue, New
+    York, NY 10010, USA
+- author_id: https://openalex.org/A5088884457
+  display_name: Ryan Fox
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent Astropy Contributor
+- author_id: https://openalex.org/A5000262389
+  display_name: Nabil Freij
+  orcid: https://orcid.org/0000-0002-6253-082X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109616
+    display_name: Bay Area Environmental Research Institute
+    ror: https://ror.org/024tt5x58
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1287521167
+    display_name: Lockheed Martin (United States)
+    ror: https://ror.org/026er9r08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bay Area Environmental Research Institute, P.O. Box 25, Moffett Field, CA 94035,
+    USA
+  - Lockheed Martin Solar & Astrophysics Laboratory, Org. A021S, Bldg. 252, 3251 Hanover
+    Street, Palo Alto, CA 94304, USA
+- author_id: https://openalex.org/A5086440543
+  display_name: Suyog Garg
+  orcid: https://orcid.org/0000-0002-2309-9731
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, The University of Tokyo, Bunkyo-ku, Tokyo 113-0033, Japan
+  - Institute of Cosmic Ray Research, The University of Tokyo, Kashiwa City, Chiba
+    277-8582, Japan
+- author_id: https://openalex.org/A5084133449
+  display_name: Robel Geda
+  orcid: https://orcid.org/0000-0003-1509-9966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Astrophysical Sciences, 4 Ivy Lane, Princeton University, Princeton,
+    NJ 08544, USA
+- author_id: https://openalex.org/A5021871047
+  display_name: Lauren Glattly
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ScienceBetter Consulting, LLC, 4 West 101st Street, No. 29, New York, NY 10025,
+    USA
+- author_id: https://openalex.org/A5001770976
+  display_name: Yash Gondhalekar
+  orcid: https://orcid.org/0000-0002-6646-4225
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210148827
+    display_name: Birla Institute of Technology and Science, Pilani - Goa Campus
+    ror: https://ror.org/046sh6j17
+    country_code: IN
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BITS Pilani/Computer Science, Sancoale, Goa 403726, India
+- author_id: https://openalex.org/A5051018099
+  display_name: Karl D. Gordon
+  orcid: https://orcid.org/0000-0001-5340-6774
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5002553861
+  display_name: David Grant
+  orcid: https://orcid.org/0000-0001-5878-618X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Bristol, HH Wills Physics Laboratory, Tyndall Avenue, Bristol, BS8
+    1TL, UK
+  - University of Oxford, Department of Physics, Keble Road, Oxford, OX1 3RH, UK
+- author_id: https://openalex.org/A5052341993
+  display_name: P. Greenfield
+  orcid: https://orcid.org/0000-0003-2269-0551
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5033727646
+  display_name: Austen Groener
+  orcid: https://orcid.org/0000-0002-6508-2938
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I72816309
+    display_name: Drexel University
+    ror: https://ror.org/04bdffz58
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Drexel University, Department of Physics, 816 Disque Hall 32 S. 32nd Street, Philadelphia,
+    PA 19104, USA
+- author_id: https://openalex.org/A5107346417
+  display_name: S. Guest
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1286704778
+    display_name: Rutherford Appleton Laboratory
+    ror: https://ror.org/03gq8fr08
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - RAL Space, STFC Rutherford Appleton Laboratory, Harwell, Didcot OX11 0QX, UK
+- author_id: https://openalex.org/A5008022587
+  display_name: S. Gurovich
+  orcid: https://orcid.org/0000-0001-5848-4077
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104034
+    display_name: Argentine National Observatory
+    ror: https://ror.org/01dtmk575
+    country_code: AR
+    type: facility
+  - id: https://openalex.org/I151201029
+    display_name: "Consejo Nacional de Investigaciones Cient\xEDficas y T\xE9cnicas"
+    ror: https://ror.org/03cqe8w59
+    country_code: AR
+    type: government
+  - id: https://openalex.org/I4210089990
+    display_name: "Instituto de Astronom\xEDa Te\xF3rica y Experimental"
+    ror: https://ror.org/008b1vj68
+    country_code: AR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Astronom\xEDa Te\xF3rica y Experimental\u2013Observatorio Astron\xF3\
+    mico C\xF3rdoba (IATE-OAC-UNC-CONICET), C\xF3rdoba, Argentina"
+- author_id: https://openalex.org/A5040554874
+  display_name: R. Handberg
+  orcid: https://orcid.org/0000-0001-8725-4502
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204337017
+    display_name: Aarhus University
+    ror: https://ror.org/01aj84f44
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stellar Astrophysics Centre, Department of Physics and Astronomy, Aarhus University,
+    Ny Munkegade 120, DK-8000 Aarhus C, Denmark
+- author_id: https://openalex.org/A5069597275
+  display_name: Akeem Hart
+  orcid: https://orcid.org/0000-0002-8138-1479
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent Astropy Contributor
+- author_id: https://openalex.org/A5070402589
+  display_name: Zac Hatfield-Dodds
+  orcid: https://orcid.org/0000-0002-8646-8362
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I118347636
+    display_name: Australian National University
+    ror: https://ror.org/019wvm592
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Australian National University, Canberra, Australia
+- author_id: https://openalex.org/A5042540132
+  display_name: D. Homeier
+  orcid: https://orcid.org/0000-0002-8546-9128
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Aperio Software Ltd., Insight House, Riverside Business Park, Stoney Common Road,
+    Stansted, Essex, CM24 8PL, UK
+  - "F\xF6rderkreis Planetarium G\xF6ttingen, G\xF6ttingen, Germany"
+- author_id: https://openalex.org/A5041269121
+  display_name: G. Hosseinzadeh
+  orcid: https://orcid.org/0000-0002-0832-2974
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138006243
+    display_name: University of Arizona
+    ror: https://ror.org/03m2x1q45
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Steward Observatory, University of Arizona, 933 North Cherry Avenue, Tucson, AZ
+    85721-0065, USA
+- author_id: https://openalex.org/A5059513243
+  display_name: T. Jenness
+  orcid: https://orcid.org/0000-0001-5982-167X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138006243
+    display_name: University of Arizona
+    ror: https://ror.org/03m2x1q45
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vera C. Rubin Observatory, University of Arizona, 950 N. Cherry Avenue, Tucson,
+    AZ 85719, USA
+- author_id: https://openalex.org/A5018714925
+  display_name: Craig Jones
+  orcid: https://orcid.org/0000-0002-0629-3006
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Malone Center for Healthcare in Engineering, Johns Hopkins University, Baltimore,
+    MD 21218-2608, USA
+- author_id: https://openalex.org/A5016252483
+  display_name: P. Joseph
+  orcid: https://orcid.org/0000-0003-1409-1903
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I48018076
+    display_name: Christ University
+    ror: https://ror.org/022tv9y30
+    country_code: IN
+    type: education
+  - id: https://openalex.org/I140717209
+    display_name: Indian Institute of Astrophysics
+    ror: https://ror.org/01msc1703
+    country_code: IN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, CHRIST (Deemed to be University), Bangalore 560029, India
+  - Indian Institute of Astrophysics, Bangalore 560034, India
+- author_id: https://openalex.org/A5042922015
+  display_name: J. Bryce Kalmbach
+  orcid: https://orcid.org/0000-0002-6825-5283
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45029084
+    display_name: City University of Seattle
+    ror: https://ror.org/008a9hf75
+    country_code: US
+    type: education
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DIRAC Institute, Department of Astronomy, University of Washington, Box 351580,
+    Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5068884480
+  display_name: E. Karamehmetoglu
+  orcid: https://orcid.org/0000-0001-6209-838X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204337017
+    display_name: Aarhus University
+    ror: https://ror.org/01aj84f44
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Aarhus University, Department of Physics and Astronomy, Ny Munkegade 120, DK-8000
+    Aarhus C, Denmark
+- author_id: https://openalex.org/A5089870524
+  display_name: "Miko\u0142aj Ka\u0142uszy\u0144ski"
+  orcid: https://orcid.org/0000-0003-0109-5833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99542240
+    display_name: Polish Academy of Sciences
+    ror: https://ror.org/01dr6c206
+    country_code: PL
+    type: government
+  - id: https://openalex.org/I4210138771
+    display_name: Nicolaus Copernicus Astronomical Center
+    ror: https://ror.org/040r57n67
+    country_code: PL
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - AkondLab, Walbrzyska 6-8, Wroclaw, Poland
+  - Nicolaus Copernicus Astronomical Center, Polish Academy of Sciences, Bartycka
+    18, 00-716 Warsaw, Poland
+- author_id: https://openalex.org/A5019575780
+  display_name: Michael S. P. Kelley
+  orcid: https://orcid.org/0000-0002-6702-7676
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I66946132
+    display_name: University of Maryland, College Park
+    ror: https://ror.org/047s2c258
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Astronomy, University of Maryland, 4296 Stadium Drive, College Park,
+    MD 20742-0001, USA
+- author_id: https://openalex.org/A5046214946
+  display_name: Nicholas S. Kern
+  orcid: https://orcid.org/0000-0002-8211-1892
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts Institute of Technology, Department of Physics, 182 Memorial Dr,
+    Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5002576957
+  display_name: Wolfgang Kerzendorf
+  orcid: https://orcid.org/0000-0002-0479-7235
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I87216513
+    display_name: Michigan State University
+    ror: https://ror.org/05hs6h993
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics & Astronomy/Computational Mathematics, Science, and Engineering,
+    Michigan State University, East Lansing, MI 48824, USA
+- author_id: https://openalex.org/A5082507738
+  display_name: Eric W. Koch
+  orcid: https://orcid.org/0000-0001-9605-780X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124175
+    display_name: Center for Astrophysics Harvard & Smithsonian
+    ror: https://ror.org/03c3r2d17
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA,
+    02138, USA
+- author_id: https://openalex.org/A5085903009
+  display_name: Shankar Kulumani
+  orcid: https://orcid.org/0000-0002-7822-0471
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802946424
+    display_name: Johns Hopkins University Applied Physics Laboratory
+    ror: https://ror.org/029pp9z10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Johns Hopkins University, Applied Physics Laboratory, Laurel, MD, USA
+- author_id: https://openalex.org/A5082768249
+  display_name: Antony Lee
+  orcid: https://orcid.org/0000-0003-2193-5369
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I15057530
+    display_name: "Universit\xE9 de Bordeaux"
+    ror: https://ror.org/057qpr032
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210139871
+    display_name: "Laboratoire Photonique, Num\xE9rique et Nanosciences"
+    ror: https://ror.org/03vdg7e33
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Laboratoire Photonique, Num\xE9rique et Nanosciences UMR 5298, Universit\xE9\
+    \ de Bordeaux, Institut d'Optique, CNRS, F-33400 Talence, France"
+- author_id: https://openalex.org/A5075263706
+  display_name: Chun Ly
+  orcid: https://orcid.org/0000-0002-4245-2318
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138006243
+    display_name: University of Arizona
+    ror: https://ror.org/03m2x1q45
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Steward Observatory, University of Arizona, 933 North Cherry Avenue, Tucson, AZ
+    85721-0065, USA
+- author_id: https://openalex.org/A5081053737
+  display_name: Zhiyuan Ma
+  orcid: https://orcid.org/0000-0003-3270-6844
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24603500
+    display_name: University of Massachusetts Amherst
+    ror: https://ror.org/0072zz521
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Astronomy, University of Massachusetts Amherst, 710 North Pleasant
+    Street, Amherst, MA 01003, USA
+- author_id: https://openalex.org/A5089411259
+  display_name: C. D. MacBride
+  orcid: https://orcid.org/0000-0002-9901-8723
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I126231945
+    display_name: Queen's University Belfast
+    ror: https://ror.org/00hswnk62
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Astrophysics Research Centre, School of Mathematics and Physics, Queen's University
+    Belfast, Belfast, BT7 1NN, UK
+- author_id: https://openalex.org/A5074836380
+  display_name: Jakob M. Maljaars
+  orcid: https://orcid.org/0000-0001-8100-9514
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210161856
+    display_name: Science and Technology Corporation (Netherlands)
+    ror: https://ror.org/050regf97
+    country_code: NL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science & Technology Corporation, Delft, The Netherlands
+- author_id: https://openalex.org/A5067904028
+  display_name: Demitri Muna
+  orcid: https://orcid.org/0000-0002-1631-4114
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45438204
+    display_name: The University of Texas at San Antonio
+    ror: https://ror.org/01kd65564
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Astronomy, University of Texas at San Antonio, San Antonio,
+    TX 78249 USA
+- author_id: https://openalex.org/A5060645832
+  display_name: Nicholas A. Murphy
+  orcid: https://orcid.org/0000-0001-6628-8033
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124175
+    display_name: Center for Astrophysics Harvard & Smithsonian
+    ror: https://ror.org/03c3r2d17
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA,
+    02138, USA
+- author_id: https://openalex.org/A5077163602
+  display_name: Henrik Norman
+  orcid: https://orcid.org/0000-0003-4189-3450
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Winter Way, Lerum, Sweden
+- author_id: https://openalex.org/A5089430581
+  display_name: "Richard O\u2019Steen"
+  orcid: https://orcid.org/0000-0002-2432-8946
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5080205649
+  display_name: Kyle A. Oman
+  orcid: https://orcid.org/0000-0001-9857-7788
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I190082696
+    display_name: Durham University
+    ror: https://ror.org/01v29qb04
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, Durham University, South Road, Durham DH1 3LE, UK
+  - Institute for Computational Cosmology, Durham University, South Road, Durham DH1
+    3LE, UK
+- author_id: https://openalex.org/A5010480309
+  display_name: Camilla Pacifici
+  orcid: https://orcid.org/0000-0003-4196-0617
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297127228
+    display_name: Space Telescope Science Institute
+    ror: https://ror.org/036f5mx38
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218,
+    USA
+- author_id: https://openalex.org/A5087875567
+  display_name: S. Pascual
+  orcid: https://orcid.org/0000-0002-9351-6051
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I121748325
+    display_name: Universidad Complutense de Madrid
+    ror: https://ror.org/02p0gd045
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Departamento de F\xEDsica de la Tierra y Astrof\xEDsica, Fac. CC. F\xEDsicas,\
+    \ Universidad Complutense de Madrid, E-28040, Madrid, Spain"
+  - "Instituto de F\xEDsica de Part\xEDculas y del Cosmos, IPARCOS, Fac. CC. F\xED\
+    sicas, Universidad Complutense de Madrid, E-28040, Madrid, Spain"
+- author_id: https://openalex.org/A5075026705
+  display_name: J. Pascual-Granado
+  orcid: https://orcid.org/0000-0003-0139-6951
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210159146
+    display_name: "Instituto de Astrof\xEDsica de Andaluc\xEDa"
+    ror: https://ror.org/04ka0vh05
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Astrof\xEDsica de Andaluc\xEDa (CSIC), Glorieta de la Astronom\xED\
+    a s/n. E-18008, Granada, Spain"
+- author_id: https://openalex.org/A5020849160
+  display_name: Rohit R. Patil
+  orcid: https://orcid.org/0000-0002-5923-4966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I70983195
+    display_name: Syracuse University
+    ror: https://ror.org/025r5qe02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Syracuse University, Syracuse, NY, USA
+- author_id: https://openalex.org/A5052681164
+  display_name: G. I. Perren
+  orcid: https://orcid.org/0000-0002-1852-9653
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I151201029
+    display_name: "Consejo Nacional de Investigaciones Cient\xEDficas y T\xE9cnicas"
+    ror: https://ror.org/03cqe8w59
+    country_code: AR
+    type: government
+  - id: https://openalex.org/I4402554105
+    display_name: "Instituto de Astrof\xEDsica de La Plata"
+    ror: https://ror.org/04sw7nr96
+    country_code: null
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Astrof\xEDsica de La Plata, IALP (CONICET-UNLP), 1900 La Plata,\
+    \ Argentina"
+- author_id: https://openalex.org/A5065399568
+  display_name: T. E. Pickering
+  orcid: https://orcid.org/0000-0002-9427-5448
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210085909
+    display_name: TMT Observatory
+    ror: https://ror.org/003s9de04
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MMT Observatory, Tucson, AZ, USA
+- author_id: https://openalex.org/A5109584540
+  display_name: Tushar Rastogi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent Astropy Contributor
+- author_id: https://openalex.org/A5013140812
+  display_name: Benjamin R. Roulston
+  orcid: https://orcid.org/0000-0002-9453-7735
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124175
+    display_name: Center for Astrophysics Harvard & Smithsonian
+    ror: https://ror.org/03c3r2d17
+    country_code: US
+    type: education
+  - id: https://openalex.org/I111088046
+    display_name: Boston University
+    ror: https://ror.org/05qwgg493
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Astronomy, Boston University, 725 Commonwealth Avenue, Boston, MA
+    02215, USA
+  - Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA,
+    02138, USA
+- author_id: https://openalex.org/A5065976494
+  display_name: Daniel F. Ryan
+  orcid: https://orcid.org/0000-0001-8661-3825
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2972652528
+    display_name: FHNW University of Applied Sciences and Arts
+    ror: https://ror.org/04mq2g308
+    country_code: CH
+    type: education
+  - id: https://openalex.org/I181401687
+    display_name: American University
+    ror: https://ror.org/052w4zt36
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - American University, 4400 Massachusetts Avenue, NW Washington, DC 20016, USA
+  - University of Applied Sciences and Arts Northwest Switzerland, Bahnhofstrasse
+    6, 5210 Windisch, Switzerland
+- author_id: https://openalex.org/A5045308614
+  display_name: E. S. Rykoff
+  orcid: https://orcid.org/0000-0001-9376-3135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801935854
+    display_name: SLAC National Accelerator Laboratory
+    ror: https://ror.org/05gzmn429
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SLAC National Accelerator Laboratory, Menlo Park, CA 94025, USA
+- author_id: https://openalex.org/A5004450883
+  display_name: J. Sabater
+  orcid: https://orcid.org/0000-0003-1149-6294
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I49611733
+    display_name: UK Astronomy Technology Centre
+    ror: https://ror.org/01egwg173
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I4210105583
+    display_name: Royal Observatory
+    ror: https://ror.org/016kj2436
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - STFC UK Astronomy Technology Centre, Royal Observatory, Blackford Hill, Edinburgh,
+    EH9 3HJ, UK
+- author_id: https://openalex.org/A5061448327
+  display_name: Parikshit Sakurikar
+  orcid: https://orcid.org/0000-0002-9523-5640
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I64189192
+    display_name: International Institute of Information Technology, Hyderabad
+    ror: https://ror.org/05f11g639
+    country_code: IN
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - International Institute of Information Technology, Hyderabad, India
+- author_id: https://openalex.org/A5087836750
+  display_name: J. Salgado
+  orcid: https://orcid.org/0000-0002-3680-4364
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108497
+    display_name: SKA Observatory
+    ror: https://ror.org/01pwgd096
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SKAO Observatory, Jodrell Bank, Cheshire, UK
+referenced_works:
+- https://openalex.org/W2011301426
+- https://openalex.org/W2065236031
+- https://openalex.org/W2093899622
+- https://openalex.org/W2104266030
+- https://openalex.org/W2114850508
+- https://openalex.org/W2116440023
+- https://openalex.org/W2118265220
+- https://openalex.org/W2135625048
+- https://openalex.org/W2170011509
+- https://openalex.org/W2217402295
+- https://openalex.org/W2287237636
+- https://openalex.org/W2342249984
+- https://openalex.org/W2401208448
+- https://openalex.org/W2417863416
+- https://openalex.org/W2580881548
+- https://openalex.org/W2762924611
+- https://openalex.org/W2766897459
+- https://openalex.org/W2892039870
+- https://openalex.org/W2911526089
+- https://openalex.org/W2952165806
+- https://openalex.org/W2952466726
+- https://openalex.org/W2964349132
+- https://openalex.org/W2984048300
+- https://openalex.org/W2990776388
+- https://openalex.org/W2992009643
+- https://openalex.org/W2996051066
+- https://openalex.org/W2996906187
+- https://openalex.org/W3003257820
+- https://openalex.org/W3005640358
+- https://openalex.org/W3014867310
+- https://openalex.org/W3015791034
+- https://openalex.org/W3022305460
+- https://openalex.org/W3099646664
+- https://openalex.org/W3099878876
+- https://openalex.org/W3100023845
+- https://openalex.org/W3101862934
+- https://openalex.org/W3102014803
+- https://openalex.org/W3105353888
+- https://openalex.org/W3105669789
+- https://openalex.org/W3105959567
+- https://openalex.org/W3106234471
+- https://openalex.org/W3125787119
+- https://openalex.org/W3155120984
+- https://openalex.org/W3167924086
+- https://openalex.org/W3174865733
+- https://openalex.org/W3205339380
+- https://openalex.org/W3209044093
+- https://openalex.org/W3209708129
+- https://openalex.org/W3210043268
+- https://openalex.org/W3210814210
+- https://openalex.org/W4206627846
+- https://openalex.org/W4230432148
+- https://openalex.org/W4288079944
+- https://openalex.org/W4292875581
+- https://openalex.org/W4301351230
+- https://openalex.org/W4309520320
+- https://openalex.org/W764059183
+primary_topic: Gamma-ray bursts and supernovae
+open_access: true

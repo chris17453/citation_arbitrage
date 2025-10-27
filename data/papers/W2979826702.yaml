@@ -1,0 +1,337 @@
+id: https://openalex.org/W2979826702
+doi: https://doi.org/10.18653/v1/2020.emnlp-demos.6
+title: 'Transformers: State-of-the-Art Natural Language Processing'
+publication_date: '2020-01-01'
+publication_year: 2020
+cited_by_count: 6562
+citation_percentile: 0.999973
+pagerank: 2.749577366545055e-06
+authorships:
+- author_id: https://openalex.org/A5078865608
+  display_name: Thomas Wolf
+  orcid: https://orcid.org/0000-0002-7134-7314
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5069696966
+  display_name: Lysandre Debut
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5049805631
+  display_name: Victor Sanh
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5038505596
+  display_name: Julien Chaumond
+  orcid: https://orcid.org/0000-0003-3188-1616
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5009717413
+  display_name: "Cl\xE9ment Delangue"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5047786477
+  display_name: Anthony Moi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5027534072
+  display_name: Pierric Cistac
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5045605007
+  display_name: Tim Rault
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5048225486
+  display_name: "R\xE9mi Louf"
+  orcid: https://orcid.org/0000-0001-7929-5507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5101062985
+  display_name: Morgan Funtowicz
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5016609904
+  display_name: Joe Davison
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5042449490
+  display_name: Sam Shleifer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5025097230
+  display_name: Patrick von Platen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5053604157
+  display_name: Clara Ma
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5000126238
+  display_name: Yacine Jernite
+  orcid: https://orcid.org/0000-0002-8053-6862
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5057464576
+  display_name: Julien Plu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5102941860
+  display_name: Canwen Xu
+  orcid: https://orcid.org/0000-0002-1552-999X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5084957527
+  display_name: Teven Le Scao
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5041801887
+  display_name: Sylvain Gugger
+  orcid: https://orcid.org/0000-0001-8056-2713
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5051831524
+  display_name: Mariama Drame
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5074885928
+  display_name: Quentin Lhoest
+  orcid: https://orcid.org/0009-0000-7660-3420
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+- author_id: https://openalex.org/A5062546146
+  display_name: Alexander M. Rush
+  orcid: https://orcid.org/0000-0002-9900-1606
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4387154989
+    display_name: Hugging Face
+    ror: https://ror.org/02grspc61
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hugging Face, Brooklyn, USA /
+referenced_works:
+- https://openalex.org/W2123442489
+- https://openalex.org/W2752194699
+- https://openalex.org/W2804032941
+- https://openalex.org/W2896457183
+- https://openalex.org/W2914120296
+- https://openalex.org/W2923014074
+- https://openalex.org/W2933138175
+- https://openalex.org/W2943552823
+- https://openalex.org/W2946417913
+- https://openalex.org/W2950339735
+- https://openalex.org/W2951490152
+- https://openalex.org/W2953320089
+- https://openalex.org/W2962739339
+- https://openalex.org/W2963026768
+- https://openalex.org/W2963212250
+- https://openalex.org/W2963691697
+- https://openalex.org/W2964110616
+- https://openalex.org/W2964343359
+- https://openalex.org/W2965373594
+- https://openalex.org/W2970597249
+- https://openalex.org/W2970771982
+- https://openalex.org/W2972119347
+- https://openalex.org/W2973727699
+- https://openalex.org/W2978017171
+- https://openalex.org/W2979949198
+- https://openalex.org/W2996428491
+- https://openalex.org/W3011411500
+- https://openalex.org/W3015468748
+- https://openalex.org/W3034999214
+- https://openalex.org/W3037109418
+- https://openalex.org/W3037191812
+- https://openalex.org/W3100279624
+- https://openalex.org/W4287760320
+- https://openalex.org/W4287824654
+- https://openalex.org/W4288089799
+- https://openalex.org/W4295838474
+- https://openalex.org/W4297747548
+- https://openalex.org/W4302343710
+- https://openalex.org/W4385245566
+primary_topic: Topic Modeling
+open_access: true

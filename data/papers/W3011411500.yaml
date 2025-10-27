@@ -1,0 +1,199 @@
+id: https://openalex.org/W3011411500
+doi: https://doi.org/10.1162/tacl_a_00300
+title: 'SpanBERT: Improving Pre-training by Representing and Predicting Spans'
+publication_date: '2020-03-12'
+publication_year: 2020
+cited_by_count: 1728
+citation_percentile: 0.999973
+pagerank: 2.8020385765792157e-06
+authorships:
+- author_id: https://openalex.org/A5108202364
+  display_name: Mandar Joshi
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Allen School of Computer Science & Engineering, University of Washington, Seattle,
+    WA, United States.
+- author_id: https://openalex.org/A5051064208
+  display_name: Danqi Chen
+  orcid: https://orcid.org/0000-0002-6226-6838
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I58610484
+    display_name: Seattle University
+    ror: https://ror.org/02jqc0m91
+    country_code: US
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Computer Science Department, Princeton University, Princeton, NJ, United States.
+  - Facebook AI Research, Seattle, United States.
+- author_id: https://openalex.org/A5019081674
+  display_name: Yinhan Liu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I58610484
+    display_name: Seattle University
+    ror: https://ror.org/02jqc0m91
+    country_code: US
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Facebook AI Research, Seattle, United States.
+- author_id: https://openalex.org/A5085011940
+  display_name: Daniel S. Weld
+  orcid: https://orcid.org/0000-0002-3255-0109
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210156221
+    display_name: Allen Institute for Artificial Intelligence
+    ror: https://ror.org/05w520734
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I58610484
+    display_name: Seattle University
+    ror: https://ror.org/02jqc0m91
+    country_code: US
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Allen Institute of Artificial Intelligence, Seattle, United States.
+  - Allen School of Computer Science & Engineering, University of Washington, Seattle,
+    WA, United States.
+- author_id: https://openalex.org/A5067919401
+  display_name: Luke Zettlemoyer
+  orcid: https://orcid.org/0009-0008-8296-0764
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I58610484
+    display_name: Seattle University
+    ror: https://ror.org/02jqc0m91
+    country_code: US
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Allen School of Computer Science & Engineering, University of Washington, Seattle,
+    WA, United States.
+  - Facebook AI Research, Seattle, United States.
+- author_id: https://openalex.org/A5024311574
+  display_name: Omer Levy
+  orcid: https://orcid.org/0000-0001-7300-8191
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I58610484
+    display_name: Seattle University
+    ror: https://ror.org/02jqc0m91
+    country_code: US
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Facebook AI Research, Seattle, United States.
+referenced_works:
+- https://openalex.org/W131533222
+- https://openalex.org/W1486649854
+- https://openalex.org/W1599016936
+- https://openalex.org/W2130158090
+- https://openalex.org/W2155069789
+- https://openalex.org/W2170973209
+- https://openalex.org/W2251939518
+- https://openalex.org/W2396767181
+- https://openalex.org/W2418562021
+- https://openalex.org/W2507974895
+- https://openalex.org/W2556691798
+- https://openalex.org/W2557764419
+- https://openalex.org/W2593390416
+- https://openalex.org/W2595840341
+- https://openalex.org/W2599674900
+- https://openalex.org/W2609826708
+- https://openalex.org/W2623751800
+- https://openalex.org/W2759211898
+- https://openalex.org/W2786464815
+- https://openalex.org/W2787560479
+- https://openalex.org/W2788510939
+- https://openalex.org/W2797051334
+- https://openalex.org/W2798812533
+- https://openalex.org/W2799054028
+- https://openalex.org/W2806120502
+- https://openalex.org/W2897038520
+- https://openalex.org/W2899663614
+- https://openalex.org/W2908510526
+- https://openalex.org/W2911109671
+- https://openalex.org/W2912924812
+- https://openalex.org/W2938830017
+- https://openalex.org/W2944815030
+- https://openalex.org/W2945260553
+- https://openalex.org/W2948629866
+- https://openalex.org/W2950813464
+- https://openalex.org/W2952509486
+- https://openalex.org/W2952862139
+- https://openalex.org/W2953356739
+- https://openalex.org/W2963246595
+- https://openalex.org/W2963323070
+- https://openalex.org/W2963339397
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963347649
+- https://openalex.org/W2963403868
+- https://openalex.org/W2963748441
+- https://openalex.org/W2963846996
+- https://openalex.org/W2963854351
+- https://openalex.org/W2963946353
+- https://openalex.org/W2964022985
+- https://openalex.org/W2964121744
+- https://openalex.org/W2964222246
+- https://openalex.org/W2965373594
+- https://openalex.org/W2969605360
+- https://openalex.org/W2970049541
+- https://openalex.org/W2970550868
+- https://openalex.org/W2978329087
+- https://openalex.org/W2980282514
+- https://openalex.org/W2988421999
+- https://openalex.org/W3037932933
+- https://openalex.org/W3104033643
+- https://openalex.org/W398859631
+- https://openalex.org/W4310895557
+- https://openalex.org/W569478347
+primary_topic: Topic Modeling
+open_access: true

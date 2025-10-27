@@ -1,0 +1,658 @@
+id: https://openalex.org/W3046751266
+doi: https://doi.org/10.1063/5.0014475
+title: Scalable molecular dynamics on CPU and GPU architectures with NAMD
+publication_date: '2020-07-28'
+publication_year: 2020
+cited_by_count: 2695
+citation_percentile: 0.999983
+pagerank: 2.537628082017616e-06
+authorships:
+- author_id: https://openalex.org/A5056552672
+  display_name: J. C. Phillips
+  orcid: https://orcid.org/0000-0002-2296-3591
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210135837
+    display_name: National Center for Supercomputing Applications
+    ror: https://ror.org/03r10zj06
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+  - National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign
+    2 , Urbana, Illinois 61801, USA
+- author_id: https://openalex.org/A5085416077
+  display_name: David J. Hardy
+  orcid: https://orcid.org/0000-0001-8533-1367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5074108666
+  display_name: Julio D. C. Maia
+  orcid: https://orcid.org/0000-0003-0579-1094
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5048680880
+  display_name: John E. Stone
+  orcid: https://orcid.org/0000-0001-7215-762X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5101488145
+  display_name: "Jo\xE3o V. Ribeiro"
+  orcid: https://orcid.org/0000-0002-0353-4126
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5020634590
+  display_name: Rafael C. Bernardi
+  orcid: https://orcid.org/0000-0003-0758-2026
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5017618681
+  display_name: Ronak Buch
+  orcid: https://orcid.org/0000-0003-0675-5116
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Illinois at Urbana-Champaign 3 ,
+    Urbana, Illinois 61801, USA
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5041624726
+  display_name: Giacomo Fiorin
+  orcid: https://orcid.org/0000-0002-8793-8645
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106489
+    display_name: National Heart Lung and Blood Institute
+    ror: https://ror.org/012pb6c26
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Heart, Lung and Blood Institute, National Institutes of Health 4 , Bethesda,
+    Maryland 20814, USA
+- author_id: https://openalex.org/A5016364652
+  display_name: "J\xE9r\xF4me H\xE9nin"
+  orcid: https://orcid.org/0000-0003-2540-4098
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210094297
+    display_name: "Laboratoire de Biochimie Th\xE9orique"
+    ror: https://ror.org/00nvjgv40
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Laboratoire de Biochimie Th\xE9orique UPR 9080, CNRS and Universit\xE9 de Paris\
+    \ 5 , Paris, France"
+- author_id: https://openalex.org/A5100776149
+  display_name: Wei Jiang
+  orcid: https://orcid.org/0000-0001-7707-6247
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1282105669
+    display_name: Argonne National Laboratory
+    ror: https://ror.org/05gvnxz63
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Leadership Computing Facility, Argonne National Laboratory 6 , Argonne, Illinois
+    60439, USA
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5054135562
+  display_name: Ryan McGreevy
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5021152068
+  display_name: Marcelo C. R. Melo
+  orcid: https://orcid.org/0000-0001-6901-1646
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Illinois at Urbana-Champaign 7 , Urbana,
+    Illinois 61801, USA
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5089169254
+  display_name: Brian K. Radak
+  orcid: https://orcid.org/0000-0001-8628-5972
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5049797937
+  display_name: Robert D. Skeel
+  orcid: https://orcid.org/0000-0002-4807-8988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I55732556
+    display_name: Arizona State University
+    ror: https://ror.org/03efmqc40
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Mathematical and Statistical Sciences, Arizona State University 8 ,
+    Tempe, Arizona 85281, USA
+- author_id: https://openalex.org/A5070279915
+  display_name: Abhishek Singharoy
+  orcid: https://orcid.org/0000-0002-9000-2397
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I55732556
+    display_name: Arizona State University
+    ror: https://ror.org/03efmqc40
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Molecular Sciences, Arizona State University 9 , Tempe, Arizona 85281,
+    USA
+- author_id: https://openalex.org/A5100364952
+  display_name: Yi Wang
+  orcid: https://orcid.org/0000-0002-4174-8790
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, The Chinese University of Hong Kong 10 , Shatin, Hong Kong,
+    China
+- author_id: https://openalex.org/A5102778212
+  display_name: "Beno\u0131\u0302t Roux"
+  orcid: https://orcid.org/0000-0002-5254-2712
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40347166
+    display_name: University of Chicago
+    ror: https://ror.org/024mw5h28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Chicago 11 , Chicago, Illinois 60637,
+    USA
+- author_id: https://openalex.org/A5076175038
+  display_name: Aleksei Aksimentiev
+  orcid: https://orcid.org/0000-0002-6042-8442
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, University of Illinois at Urbana-Champaign 12 , Urbana,
+    Illinois 61801, USA
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5004867963
+  display_name: "Zaida Luthey\u2010Schulten"
+  orcid: https://orcid.org/0000-0001-9749-8367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Illinois at Urbana-Champaign 7 , Urbana,
+    Illinois 61801, USA
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5051465480
+  display_name: "Laxmikant V. Kal\xE9"
+  orcid: https://orcid.org/0000-0001-9673-8445
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Illinois at Urbana-Champaign 3 ,
+    Urbana, Illinois 61801, USA
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5029996336
+  display_name: Klaus Schulten
+  orcid: https://orcid.org/0000-0001-7192-9632
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, University of Illinois at Urbana-Champaign 12 , Urbana,
+    Illinois 61801, USA
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5076283101
+  display_name: Christophe Chipot
+  orcid: https://orcid.org/0000-0002-9122-1698
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I90183372
+    display_name: "Universit\xE9 de Lorraine"
+    ror: https://ror.org/04vfs2w97
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Physics, University of Illinois at Urbana-Champaign 12 , Urbana,
+    Illinois 61801, USA
+  - "LIA CNRS/UIUC, UMR No. 7019, Universit\xE9 de Lorraine 13 , Vand\xE6uvre-l\xE8\
+    s-Nancy, France ."
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+- author_id: https://openalex.org/A5087810793
+  display_name: Emad Tajkhorshid
+  orcid: https://orcid.org/0000-0001-8434-1010
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biochemistry, Center for Biophyics and Quantitative Biology, University
+    of Illinois at Urbana-Champaign 14 , Urbana, Illinois 61801, USA
+  - "NIH Center for Macromolecular Modeling and\n Bioinformatics, Theoretical and\
+    \ Computational Biophysics Group, Beckman Institute for\n Advanced Science and\
+    \ Technology, University of Illinois at\n Urbana-Champaign, Urbana, Illinois 61801,\
+    \ USA"
+referenced_works:
+- https://openalex.org/W1153842025
+- https://openalex.org/W1178456644
+- https://openalex.org/W1556106311
+- https://openalex.org/W1587947312
+- https://openalex.org/W1603470798
+- https://openalex.org/W1625910593
+- https://openalex.org/W1711501290
+- https://openalex.org/W185137928
+- https://openalex.org/W1873275180
+- https://openalex.org/W1963739311
+- https://openalex.org/W1968991415
+- https://openalex.org/W1969986798
+- https://openalex.org/W1970973025
+- https://openalex.org/W1972399880
+- https://openalex.org/W1976998887
+- https://openalex.org/W1977482735
+- https://openalex.org/W1981045787
+- https://openalex.org/W1981045864
+- https://openalex.org/W1982092510
+- https://openalex.org/W1982306719
+- https://openalex.org/W1982898268
+- https://openalex.org/W1984481443
+- https://openalex.org/W1984604072
+- https://openalex.org/W1984853348
+- https://openalex.org/W1987034935
+- https://openalex.org/W1987048011
+- https://openalex.org/W1988651909
+- https://openalex.org/W1988715261
+- https://openalex.org/W1989096170
+- https://openalex.org/W1989195611
+- https://openalex.org/W1989992848
+- https://openalex.org/W1991074394
+- https://openalex.org/W1991794210
+- https://openalex.org/W1992882086
+- https://openalex.org/W1992899488
+- https://openalex.org/W1995152253
+- https://openalex.org/W1995270405
+- https://openalex.org/W1998404217
+- https://openalex.org/W1999522888
+- https://openalex.org/W2001294077
+- https://openalex.org/W2001676859
+- https://openalex.org/W2001773067
+- https://openalex.org/W2003217611
+- https://openalex.org/W2004223513
+- https://openalex.org/W2004303971
+- https://openalex.org/W2004563570
+- https://openalex.org/W2005006118
+- https://openalex.org/W2005386550
+- https://openalex.org/W2005558657
+- https://openalex.org/W2006228399
+- https://openalex.org/W2009459580
+- https://openalex.org/W2010289393
+- https://openalex.org/W2011795318
+- https://openalex.org/W2011805684
+- https://openalex.org/W2013145865
+- https://openalex.org/W2013475903
+- https://openalex.org/W2014217990
+- https://openalex.org/W2014574246
+- https://openalex.org/W2015580322
+- https://openalex.org/W2016720110
+- https://openalex.org/W2017835622
+- https://openalex.org/W2018430781
+- https://openalex.org/W2019555480
+- https://openalex.org/W2021064626
+- https://openalex.org/W2021520922
+- https://openalex.org/W2022948355
+- https://openalex.org/W2023305549
+- https://openalex.org/W2023692212
+- https://openalex.org/W2025351309
+- https://openalex.org/W2027408247
+- https://openalex.org/W2027578254
+- https://openalex.org/W2027815611
+- https://openalex.org/W2029186981
+- https://openalex.org/W2029582401
+- https://openalex.org/W2029667189
+- https://openalex.org/W2029899439
+- https://openalex.org/W2030171935
+- https://openalex.org/W2032084435
+- https://openalex.org/W2032187756
+- https://openalex.org/W2032427406
+- https://openalex.org/W2032518047
+- https://openalex.org/W2032592607
+- https://openalex.org/W2034078233
+- https://openalex.org/W2035266068
+- https://openalex.org/W2035432821
+- https://openalex.org/W2035687084
+- https://openalex.org/W2038758364
+- https://openalex.org/W2038964627
+- https://openalex.org/W2040809566
+- https://openalex.org/W2041638382
+- https://openalex.org/W2043383571
+- https://openalex.org/W2050447276
+- https://openalex.org/W2051381895
+- https://openalex.org/W2052867794
+- https://openalex.org/W2053081979
+- https://openalex.org/W2055723962
+- https://openalex.org/W2057477511
+- https://openalex.org/W2057653269
+- https://openalex.org/W2057806291
+- https://openalex.org/W2058971275
+- https://openalex.org/W2060201803
+- https://openalex.org/W2060297361
+- https://openalex.org/W2062393760
+- https://openalex.org/W2063402902
+- https://openalex.org/W2065963893
+- https://openalex.org/W2067174909
+- https://openalex.org/W2067236515
+- https://openalex.org/W2067718414
+- https://openalex.org/W2069042781
+- https://openalex.org/W2072256473
+- https://openalex.org/W2072973641
+- https://openalex.org/W2073623394
+- https://openalex.org/W2074140794
+- https://openalex.org/W2075067754
+- https://openalex.org/W2075684524
+- https://openalex.org/W2077168898
+- https://openalex.org/W2077954341
+- https://openalex.org/W2080494546
+- https://openalex.org/W2084346866
+- https://openalex.org/W2089638270
+- https://openalex.org/W2092001691
+- https://openalex.org/W2092956715
+- https://openalex.org/W2093018891
+- https://openalex.org/W2095213407
+- https://openalex.org/W2098055048
+- https://openalex.org/W2103719947
+- https://openalex.org/W2103945336
+- https://openalex.org/W2105885962
+- https://openalex.org/W2106140689
+- https://openalex.org/W2110872379
+- https://openalex.org/W2112154906
+- https://openalex.org/W2112769850
+- https://openalex.org/W2114622716
+- https://openalex.org/W2115577316
+- https://openalex.org/W2116359754
+- https://openalex.org/W2117213358
+- https://openalex.org/W2122020258
+- https://openalex.org/W2122199548
+- https://openalex.org/W2123859357
+- https://openalex.org/W2127407003
+- https://openalex.org/W2127522551
+- https://openalex.org/W2130390906
+- https://openalex.org/W2133122037
+- https://openalex.org/W2133932548
+- https://openalex.org/W2137022116
+- https://openalex.org/W2140151763
+- https://openalex.org/W2143848552
+- https://openalex.org/W2144420181
+- https://openalex.org/W2146462263
+- https://openalex.org/W2149655632
+- https://openalex.org/W2149801992
+- https://openalex.org/W2150081678
+- https://openalex.org/W2150981663
+- https://openalex.org/W2151233921
+- https://openalex.org/W2159497832
+- https://openalex.org/W2161644181
+- https://openalex.org/W2164270482
+- https://openalex.org/W2166660130
+- https://openalex.org/W2180229411
+- https://openalex.org/W2233819953
+- https://openalex.org/W2250722998
+- https://openalex.org/W2278612535
+- https://openalex.org/W2280941147
+- https://openalex.org/W2283762586
+- https://openalex.org/W2315961248
+- https://openalex.org/W2319135800
+- https://openalex.org/W2321029111
+- https://openalex.org/W2323178299
+- https://openalex.org/W2325959393
+- https://openalex.org/W2326979787
+- https://openalex.org/W2328012222
+- https://openalex.org/W2328082688
+- https://openalex.org/W2331716848
+- https://openalex.org/W2335200606
+- https://openalex.org/W2335250867
+- https://openalex.org/W2337762266
+- https://openalex.org/W2346590986
+- https://openalex.org/W2397547384
+- https://openalex.org/W2463208053
+- https://openalex.org/W2469449201
+- https://openalex.org/W2476292404
+- https://openalex.org/W2483217566
+- https://openalex.org/W2511284489
+- https://openalex.org/W2511523112
+- https://openalex.org/W2518235065
+- https://openalex.org/W2528003530
+- https://openalex.org/W2529068577
+- https://openalex.org/W2529573426
+- https://openalex.org/W2538191322
+- https://openalex.org/W2541404351
+- https://openalex.org/W2548311158
+- https://openalex.org/W2557322836
+- https://openalex.org/W2560839684
+- https://openalex.org/W2563321337
+- https://openalex.org/W2739439285
+- https://openalex.org/W2758005129
+- https://openalex.org/W2761032159
+- https://openalex.org/W2767829222
+- https://openalex.org/W2772606519
+- https://openalex.org/W2782363882
+- https://openalex.org/W2786610377
+- https://openalex.org/W2788789259
+- https://openalex.org/W2791615054
+- https://openalex.org/W2791922616
+- https://openalex.org/W2798935884
+- https://openalex.org/W2803333743
+- https://openalex.org/W2884809460
+- https://openalex.org/W2885128148
+- https://openalex.org/W2899197285
+- https://openalex.org/W2905495487
+- https://openalex.org/W2906138391
+- https://openalex.org/W2914859434
+- https://openalex.org/W2919109412
+- https://openalex.org/W2927778654
+- https://openalex.org/W2948412626
+- https://openalex.org/W2950078557
+- https://openalex.org/W2953228602
+- https://openalex.org/W2963699952
+- https://openalex.org/W2963724294
+- https://openalex.org/W2967253501
+- https://openalex.org/W2980233969
+- https://openalex.org/W2982862739
+- https://openalex.org/W3004098428
+- https://openalex.org/W3007221501
+- https://openalex.org/W3016074441
+- https://openalex.org/W3022867981
+- https://openalex.org/W3099395249
+- https://openalex.org/W3100565380
+- https://openalex.org/W3101060993
+- https://openalex.org/W3102225598
+- https://openalex.org/W3104272004
+- https://openalex.org/W4241380062
+- https://openalex.org/W4244429993
+primary_topic: Protein Structure and Dynamics
+open_access: true

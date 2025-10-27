@@ -1,0 +1,487 @@
+id: https://openalex.org/W3164692211
+doi: https://doi.org/10.1016/j.cell.2021.04.048
+title: Integrated analysis of multimodal single-cell data
+publication_date: '2021-05-31'
+publication_year: 2021
+cited_by_count: 11693
+citation_percentile: 0.999982
+pagerank: 2.7438512606891247e-06
+authorships:
+- author_id: https://openalex.org/A5014193997
+  display_name: Yuhan Hao
+  orcid: https://orcid.org/0000-0002-1810-0822
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+  - New York Genome Center, New York, NY 10013, USA
+- author_id: https://openalex.org/A5063215499
+  display_name: Stephanie Hao
+  orcid: https://orcid.org/0000-0002-1700-9699
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Technology Innovation Lab, New York Genome Center, New York, NY 10013, USA
+- author_id: https://openalex.org/A5070983913
+  display_name: "Erica Andersen\u2010Nissen"
+  orcid: https://orcid.org/0000-0001-9213-920X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cape Town HVTN Immunology Lab, Hutchinson Cancer Research Institute of South Africa,
+    Cape Town 8001, South Africa
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5065039556
+  display_name: William M. Mauck
+  orcid: https://orcid.org/0000-0001-9455-7245
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+- author_id: https://openalex.org/A5014616029
+  display_name: Shiwei Zheng
+  orcid: https://orcid.org/0000-0001-6682-6743
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+  - New York Genome Center, New York, NY 10013, USA
+- author_id: https://openalex.org/A5042529830
+  display_name: Andrew Butler
+  orcid: https://orcid.org/0000-0003-3608-0463
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+  - New York Genome Center, New York, NY 10013, USA
+- author_id: https://openalex.org/A5001775891
+  display_name: Madeline Lee
+  orcid: https://orcid.org/0000-0001-5039-6806
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305,
+    USA
+- author_id: https://openalex.org/A5088144945
+  display_name: Aaron J. Wilk
+  orcid: https://orcid.org/0000-0003-1430-5852
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305,
+    USA
+- author_id: https://openalex.org/A5034645414
+  display_name: Charlotte A. Darby
+  orcid: https://orcid.org/0000-0003-2195-5300
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+- author_id: https://openalex.org/A5091318766
+  display_name: Michael Zager
+  orcid: https://orcid.org/0000-0002-9416-8685
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Data Visualization, Fred Hutchinson Cancer Research Center, Seattle,
+    WA 98109, USA
+- author_id: https://openalex.org/A5078971011
+  display_name: Paul Hoffman
+  orcid: https://orcid.org/0000-0002-7693-8957
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+- author_id: https://openalex.org/A5084129649
+  display_name: Marlon Stoeckius
+  orcid: https://orcid.org/0000-0002-5658-029X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Technology Innovation Lab, New York Genome Center, New York, NY 10013, USA
+- author_id: https://openalex.org/A5045393597
+  display_name: Efthymia Papalexi
+  orcid: https://orcid.org/0000-0001-5898-694X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+  - New York Genome Center, New York, NY 10013, USA
+- author_id: https://openalex.org/A5025827802
+  display_name: Eleni P. Mimitou
+  orcid: https://orcid.org/0000-0001-9737-6394
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Technology Innovation Lab, New York Genome Center, New York, NY 10013, USA
+- author_id: https://openalex.org/A5021807837
+  display_name: Jaison Jain
+  orcid: https://orcid.org/0000-0002-9478-5018
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+- author_id: https://openalex.org/A5085346602
+  display_name: Avi Srivastava
+  orcid: https://orcid.org/0000-0001-9798-2079
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+- author_id: https://openalex.org/A5003957777
+  display_name: Tim Stuart
+  orcid: https://orcid.org/0000-0002-3044-0897
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+- author_id: https://openalex.org/A5110770867
+  display_name: Lamar M. Fleming
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5055098927
+  display_name: Bertrand Z. Yeung
+  orcid: https://orcid.org/0000-0003-3908-1162
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088463
+    display_name: BioLegend (United States)
+    ror: https://ror.org/006vvv981
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioLegend Inc., San Diego, CA 92121, USA
+- author_id: https://openalex.org/A5070002999
+  display_name: Angela J. Rogers
+  orcid: https://orcid.org/0000-0001-6969-6200
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305,
+    USA
+- author_id: https://openalex.org/A5084520588
+  display_name: M. Juliana McElrath
+  orcid: https://orcid.org/0000-0003-2276-7117
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5080080229
+  display_name: Catherine A. Blish
+  orcid: https://orcid.org/0000-0001-6946-7627
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chan Zuckerberg Biohub, San Francisco, CA 94063, USA
+  - Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305,
+    USA
+- author_id: https://openalex.org/A5005741024
+  display_name: "Rapha\xEBl Gottardo"
+  orcid: https://orcid.org/0000-0002-3867-0232
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5039402589
+  display_name: Peter Smibert
+  orcid: https://orcid.org/0000-0003-0772-1647
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Technology Innovation Lab, New York Genome Center, New York, NY 10013, USA
+- author_id: https://openalex.org/A5058180202
+  display_name: Rahul Satija
+  orcid: https://orcid.org/0000-0001-9448-8833
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151462
+    display_name: New York Genome Center
+    ror: https://ror.org/05wf2ga96
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Genomics and Systems Biology, New York University, New York, NY 10003,
+    USA
+  - New York Genome Center, New York, NY 10013, USA
+referenced_works:
+- https://openalex.org/W1494301621
+- https://openalex.org/W1631320694
+- https://openalex.org/W1970591872
+- https://openalex.org/W1975534326
+- https://openalex.org/W1979468186
+- https://openalex.org/W1984689597
+- https://openalex.org/W1990453562
+- https://openalex.org/W2024626836
+- https://openalex.org/W2030818161
+- https://openalex.org/W2038426170
+- https://openalex.org/W2056206662
+- https://openalex.org/W2068767807
+- https://openalex.org/W2069007188
+- https://openalex.org/W2071010503
+- https://openalex.org/W2074639544
+- https://openalex.org/W2092721627
+- https://openalex.org/W2106053110
+- https://openalex.org/W2110808396
+- https://openalex.org/W2130695226
+- https://openalex.org/W2142017607
+- https://openalex.org/W2147982220
+- https://openalex.org/W2171602775
+- https://openalex.org/W2171808845
+- https://openalex.org/W2172958821
+- https://openalex.org/W2237464999
+- https://openalex.org/W2343956310
+- https://openalex.org/W2461073387
+- https://openalex.org/W2509957998
+- https://openalex.org/W2563038222
+- https://openalex.org/W2582743722
+- https://openalex.org/W2605810679
+- https://openalex.org/W2610228741
+- https://openalex.org/W2739492614
+- https://openalex.org/W2743416243
+- https://openalex.org/W2752426001
+- https://openalex.org/W2754288485
+- https://openalex.org/W2763051133
+- https://openalex.org/W2781616011
+- https://openalex.org/W2785085486
+- https://openalex.org/W2786672974
+- https://openalex.org/W2791192045
+- https://openalex.org/W2793965282
+- https://openalex.org/W2794521141
+- https://openalex.org/W2796170779
+- https://openalex.org/W2801674411
+- https://openalex.org/W2805619986
+- https://openalex.org/W2817838603
+- https://openalex.org/W2885605094
+- https://openalex.org/W2886800354
+- https://openalex.org/W2887910040
+- https://openalex.org/W2889236955
+- https://openalex.org/W2889948284
+- https://openalex.org/W2906625258
+- https://openalex.org/W2915848182
+- https://openalex.org/W2916020270
+- https://openalex.org/W2917457305
+- https://openalex.org/W2928871599
+- https://openalex.org/W2937667996
+- https://openalex.org/W2939422961
+- https://openalex.org/W2944073176
+- https://openalex.org/W2946232537
+- https://openalex.org/W2946801856
+- https://openalex.org/W2947839897
+- https://openalex.org/W2949177718
+- https://openalex.org/W2949740511
+- https://openalex.org/W2954225929
+- https://openalex.org/W2972983657
+- https://openalex.org/W2978262900
+- https://openalex.org/W2979911343
+- https://openalex.org/W2980476706
+- https://openalex.org/W2995507706
+- https://openalex.org/W2997207862
+- https://openalex.org/W2997280954
+- https://openalex.org/W2998127407
+- https://openalex.org/W3000994048
+- https://openalex.org/W3005142225
+- https://openalex.org/W3007282081
+- https://openalex.org/W3015184839
+- https://openalex.org/W3027051073
+- https://openalex.org/W3028985235
+- https://openalex.org/W3034168389
+- https://openalex.org/W3037092919
+- https://openalex.org/W3043318404
+- https://openalex.org/W3084200104
+- https://openalex.org/W3093365070
+- https://openalex.org/W3093858607
+- https://openalex.org/W3102485225
+- https://openalex.org/W312480887
+- https://openalex.org/W3125797470
+- https://openalex.org/W3133712085
+- https://openalex.org/W3164839005
+- https://openalex.org/W4221125917
+primary_topic: Single-cell and spatial transcriptomics
+open_access: true

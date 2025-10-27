@@ -1,0 +1,275 @@
+id: https://openalex.org/W3162800482
+doi: https://doi.org/10.1038/s41588-021-00870-7
+title: Computationally efficient whole-genome regression for quantitative and binary
+  traits
+publication_date: '2021-05-20'
+publication_year: 2021
+cited_by_count: 1060
+citation_percentile: 0.999948
+pagerank: 2.5624258681978445e-06
+authorships:
+- author_id: https://openalex.org/A5067400413
+  display_name: Joelle Mbatchou
+  orcid: https://orcid.org/0000-0002-2245-3743
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5041757625
+  display_name: Leland Barnard
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5086605628
+  display_name: Joshua Backman
+  orcid: https://orcid.org/0000-0001-7262-0880
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5042341469
+  display_name: Anthony Marcketta
+  orcid: https://orcid.org/0000-0001-6356-3343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5078632163
+  display_name: Jack A. Kosmicki
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5044700702
+  display_name: Andrey Ziyatdinov
+  orcid: https://orcid.org/0000-0002-6400-6095
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5050935347
+  display_name: Christian Benner
+  orcid: https://orcid.org/0000-0003-1237-0167
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5089863056
+  display_name: "Colm O\u2019Dushlaine"
+  orcid: https://orcid.org/0000-0003-2858-3642
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5041653306
+  display_name: Mathew Barber
+  orcid: https://orcid.org/0000-0002-6217-217X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5055110704
+  display_name: Boris Boutkov
+  orcid: https://orcid.org/0000-0002-9134-0769
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5110693225
+  display_name: Lukas Habegger
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5074490470
+  display_name: Manuel A. R. Ferreira
+  orcid: https://orcid.org/0000-0001-9059-1825
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5032100711
+  display_name: Aris Baras
+  orcid: https://orcid.org/0000-0002-6830-3396
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5057175194
+  display_name: Jeffrey G. Reid
+  orcid: https://orcid.org/0000-0001-8645-4713
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5078559681
+  display_name: "Gon\xE7alo R. Abecasis"
+  orcid: https://orcid.org/0000-0003-1509-1825
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5085475149
+  display_name: Evan K. Maxwell
+  orcid: https://orcid.org/0000-0002-7325-7531
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5051043751
+  display_name: Jonathan Marchini
+  orcid: https://orcid.org/0000-0003-0610-8322
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, NY, USA
+referenced_works:
+- https://openalex.org/W1483883706
+- https://openalex.org/W1928998639
+- https://openalex.org/W1966775465
+- https://openalex.org/W1966825973
+- https://openalex.org/W1973455222
+- https://openalex.org/W1976587387
+- https://openalex.org/W1980168725
+- https://openalex.org/W2009588715
+- https://openalex.org/W2032113267
+- https://openalex.org/W2086021638
+- https://openalex.org/W2088486634
+- https://openalex.org/W2090075367
+- https://openalex.org/W2099085143
+- https://openalex.org/W2100909778
+- https://openalex.org/W2102213696
+- https://openalex.org/W2103551323
+- https://openalex.org/W2128343509
+- https://openalex.org/W2134036574
+- https://openalex.org/W2134783591
+- https://openalex.org/W2141916112
+- https://openalex.org/W2157291679
+- https://openalex.org/W2161633633
+- https://openalex.org/W2161847095
+- https://openalex.org/W2163953557
+- https://openalex.org/W2278496954
+- https://openalex.org/W2306075329
+- https://openalex.org/W2895486342
+- https://openalex.org/W2896917800
+- https://openalex.org/W2896921363
+- https://openalex.org/W2914369697
+- https://openalex.org/W2950099124
+- https://openalex.org/W2950598813
+- https://openalex.org/W2950684581
+- https://openalex.org/W2952535009
+- https://openalex.org/W2991212521
+- https://openalex.org/W3013177663
+- https://openalex.org/W3024208464
+- https://openalex.org/W3046739222
+- https://openalex.org/W3081552337
+- https://openalex.org/W3112994972
+- https://openalex.org/W4240294902
+primary_topic: Genetic Associations and Epidemiology
+open_access: true

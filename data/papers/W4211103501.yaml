@@ -1,0 +1,407 @@
+id: https://openalex.org/W4211103501
+doi: https://doi.org/10.1038/s43586-021-00092-5
+title: Mendelian randomization
+publication_date: '2022-02-10'
+publication_year: 2022
+cited_by_count: 1558
+citation_percentile: 0.999944
+pagerank: 2.556164808050436e-06
+authorships:
+- author_id: https://openalex.org/A5064620952
+  display_name: Eleanor Sanderson
+  orcid: https://orcid.org/0000-0001-5188-5775
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Medical Research Council (MRC) Integrative Epidemiology Unit, University of Bristol,
+    Bristol, UK
+- author_id: https://openalex.org/A5004781553
+  display_name: M. Maria Glymour
+  orcid: https://orcid.org/0000-0001-9644-3081
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Biostatistics, University of California, San Francisco,
+    CA, USA
+- author_id: https://openalex.org/A5055374455
+  display_name: Michael V. Holmes
+  orcid: https://orcid.org/0000-0001-6617-0879
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council (MRC) Integrative Epidemiology Unit, University of Bristol,
+    Bristol, UK
+- author_id: https://openalex.org/A5084062360
+  display_name: Hyunseung Kang
+  orcid: https://orcid.org/0000-0001-5748-2707
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I135310074
+    display_name: "University of Wisconsin\u2013Madison"
+    ror: https://ror.org/01y2jtd41
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, University of Wisconsin-Madison, Madison, WI, USA
+- author_id: https://openalex.org/A5055176503
+  display_name: Jean Morrison
+  orcid: https://orcid.org/0000-0003-4829-8283
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, University of Michigan, Ann Arbor, MI, USA
+- author_id: https://openalex.org/A5006758334
+  display_name: "Marcus R. Munaf\xF2"
+  orcid: https://orcid.org/0000-0002-4049-993X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council (MRC) Integrative Epidemiology Unit, University of Bristol,
+    Bristol, UK
+- author_id: https://openalex.org/A5080417105
+  display_name: Tom Palmer
+  orcid: https://orcid.org/0000-0003-4655-4511
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5020377532
+  display_name: C. Mary Schooling
+  orcid: https://orcid.org/0000-0001-9933-5887
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Public Health, Li Ka Shing, Faculty of Medicine, The University of Hong
+    Kong, Hong Kong, China
+- author_id: https://openalex.org/A5006577577
+  display_name: Chris Wallace
+  orcid: https://orcid.org/0000-0001-9755-1703
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5067417184
+  display_name: Qingyuan Zhao
+  orcid: https://orcid.org/0000-0001-9902-2768
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Statistical Laboratory, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5013184354
+  display_name: George Davey Smith
+  orcid: https://orcid.org/0000-0002-1407-8314
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+referenced_works:
+- https://openalex.org/W1905058580
+- https://openalex.org/W1964792004
+- https://openalex.org/W1966775465
+- https://openalex.org/W1972696558
+- https://openalex.org/W1978209044
+- https://openalex.org/W1979209029
+- https://openalex.org/W1988577995
+- https://openalex.org/W1989249306
+- https://openalex.org/W1991587639
+- https://openalex.org/W1994967652
+- https://openalex.org/W1998639983
+- https://openalex.org/W2003342692
+- https://openalex.org/W2019055517
+- https://openalex.org/W2022589976
+- https://openalex.org/W2030790498
+- https://openalex.org/W2032850607
+- https://openalex.org/W2045357062
+- https://openalex.org/W2048760408
+- https://openalex.org/W2050672146
+- https://openalex.org/W2066182646
+- https://openalex.org/W2067648040
+- https://openalex.org/W2073836327
+- https://openalex.org/W2086426685
+- https://openalex.org/W2093053972
+- https://openalex.org/W2094902224
+- https://openalex.org/W2097040757
+- https://openalex.org/W2097612130
+- https://openalex.org/W2098455392
+- https://openalex.org/W2100190891
+- https://openalex.org/W2102011776
+- https://openalex.org/W2102309722
+- https://openalex.org/W2103783427
+- https://openalex.org/W2106036991
+- https://openalex.org/W2109003937
+- https://openalex.org/W2110153620
+- https://openalex.org/W2111735528
+- https://openalex.org/W2113699335
+- https://openalex.org/W2114989590
+- https://openalex.org/W2115779804
+- https://openalex.org/W2116908385
+- https://openalex.org/W2118008714
+- https://openalex.org/W2120483845
+- https://openalex.org/W2126701388
+- https://openalex.org/W2127065386
+- https://openalex.org/W2127427274
+- https://openalex.org/W2127992265
+- https://openalex.org/W2129465958
+- https://openalex.org/W2129664096
+- https://openalex.org/W2132968009
+- https://openalex.org/W2133036419
+- https://openalex.org/W2136133622
+- https://openalex.org/W2138673359
+- https://openalex.org/W2141275050
+- https://openalex.org/W2143891888
+- https://openalex.org/W2145813488
+- https://openalex.org/W2146050890
+- https://openalex.org/W2150168958
+- https://openalex.org/W2151096860
+- https://openalex.org/W2151355802
+- https://openalex.org/W2151872224
+- https://openalex.org/W2153662687
+- https://openalex.org/W2155533485
+- https://openalex.org/W2157752701
+- https://openalex.org/W2159657105
+- https://openalex.org/W2159738130
+- https://openalex.org/W2160347316
+- https://openalex.org/W2160717726
+- https://openalex.org/W2162204400
+- https://openalex.org/W2163451904
+- https://openalex.org/W2163538303
+- https://openalex.org/W2163969089
+- https://openalex.org/W2169024707
+- https://openalex.org/W2169283889
+- https://openalex.org/W2169711166
+- https://openalex.org/W2198755677
+- https://openalex.org/W2282446826
+- https://openalex.org/W2324862792
+- https://openalex.org/W2483919957
+- https://openalex.org/W2499155228
+- https://openalex.org/W2520048741
+- https://openalex.org/W2520714999
+- https://openalex.org/W2528374605
+- https://openalex.org/W2536892348
+- https://openalex.org/W2545458768
+- https://openalex.org/W2548438891
+- https://openalex.org/W2555614465
+- https://openalex.org/W2561962665
+- https://openalex.org/W2570178861
+- https://openalex.org/W2570760970
+- https://openalex.org/W2579779633
+- https://openalex.org/W2588618729
+- https://openalex.org/W2593125540
+- https://openalex.org/W2597850678
+- https://openalex.org/W2613603864
+- https://openalex.org/W2617954971
+- https://openalex.org/W2620908531
+- https://openalex.org/W2622187097
+- https://openalex.org/W2723723801
+- https://openalex.org/W2744463954
+- https://openalex.org/W2761141539
+- https://openalex.org/W2763860064
+- https://openalex.org/W2765843292
+- https://openalex.org/W2770598799
+- https://openalex.org/W2771589121
+- https://openalex.org/W2786371198
+- https://openalex.org/W2788469717
+- https://openalex.org/W2790866882
+- https://openalex.org/W2800798499
+- https://openalex.org/W2800807051
+- https://openalex.org/W2803072880
+- https://openalex.org/W2807279683
+- https://openalex.org/W2808866519
+- https://openalex.org/W2810240697
+- https://openalex.org/W2810852503
+- https://openalex.org/W2818417770
+- https://openalex.org/W2886940617
+- https://openalex.org/W2895486342
+- https://openalex.org/W2897719756
+- https://openalex.org/W2900183310
+- https://openalex.org/W2903620370
+- https://openalex.org/W2905047802
+- https://openalex.org/W2908849404
+- https://openalex.org/W2910199421
+- https://openalex.org/W2916194715
+- https://openalex.org/W2922489701
+- https://openalex.org/W2928401928
+- https://openalex.org/W2932671560
+- https://openalex.org/W2938369805
+- https://openalex.org/W2941271956
+- https://openalex.org/W2947314538
+- https://openalex.org/W2949275660
+- https://openalex.org/W2949360485
+- https://openalex.org/W2949543964
+- https://openalex.org/W2949803117
+- https://openalex.org/W2950079295
+- https://openalex.org/W2950099124
+- https://openalex.org/W2950958620
+- https://openalex.org/W2951264395
+- https://openalex.org/W2951286101
+- https://openalex.org/W2951651423
+- https://openalex.org/W2952494466
+- https://openalex.org/W2952562325
+- https://openalex.org/W2952882299
+- https://openalex.org/W2953121869
+- https://openalex.org/W2963867565
+- https://openalex.org/W2963964823
+- https://openalex.org/W2965935912
+- https://openalex.org/W2965936319
+- https://openalex.org/W2968378263
+- https://openalex.org/W2970981400
+- https://openalex.org/W2974720922
+- https://openalex.org/W2976165123
+- https://openalex.org/W2977182596
+- https://openalex.org/W2980988155
+- https://openalex.org/W2981338841
+- https://openalex.org/W2983960090
+- https://openalex.org/W2991007563
+- https://openalex.org/W2996249643
+- https://openalex.org/W2996367824
+- https://openalex.org/W2998822473
+- https://openalex.org/W3007043092
+- https://openalex.org/W3007531403
+- https://openalex.org/W3007536163
+- https://openalex.org/W3011942165
+- https://openalex.org/W3012503364
+- https://openalex.org/W3012912937
+- https://openalex.org/W3014213794
+- https://openalex.org/W3014649693
+- https://openalex.org/W3016489931
+- https://openalex.org/W3020059669
+- https://openalex.org/W3021812483
+- https://openalex.org/W3027865872
+- https://openalex.org/W3034541161
+- https://openalex.org/W3037039951
+- https://openalex.org/W3042936392
+- https://openalex.org/W3046001377
+- https://openalex.org/W3046275966
+- https://openalex.org/W3048245060
+- https://openalex.org/W3048576450
+- https://openalex.org/W3080477490
+- https://openalex.org/W3085430416
+- https://openalex.org/W3085547988
+- https://openalex.org/W3089981509
+- https://openalex.org/W3093084901
+- https://openalex.org/W3095462020
+- https://openalex.org/W3098865414
+- https://openalex.org/W3098930857
+- https://openalex.org/W3105982350
+- https://openalex.org/W3108357298
+- https://openalex.org/W3113742933
+- https://openalex.org/W3114820250
+- https://openalex.org/W3119247746
+- https://openalex.org/W3120748327
+- https://openalex.org/W3122256196
+- https://openalex.org/W3123059484
+- https://openalex.org/W3124162861
+- https://openalex.org/W3124658416
+- https://openalex.org/W3131213308
+- https://openalex.org/W3134722469
+- https://openalex.org/W3145786446
+- https://openalex.org/W3152650006
+- https://openalex.org/W3152758353
+- https://openalex.org/W3157971051
+- https://openalex.org/W3159102563
+- https://openalex.org/W3174540256
+- https://openalex.org/W3175506407
+- https://openalex.org/W3175960565
+- https://openalex.org/W3182919869
+- https://openalex.org/W3195291379
+- https://openalex.org/W3205642818
+- https://openalex.org/W3210406414
+- https://openalex.org/W3210570897
+- https://openalex.org/W3217230513
+- https://openalex.org/W3217250127
+- https://openalex.org/W4200507292
+- https://openalex.org/W4205384179
+- https://openalex.org/W4206542202
+- https://openalex.org/W4210628869
+- https://openalex.org/W4210703904
+- https://openalex.org/W4233671617
+- https://openalex.org/W4253754191
+- https://openalex.org/W4281628584
+- https://openalex.org/W4285733940
+- https://openalex.org/W4290065535
+- https://openalex.org/W4291283607
+primary_topic: Genetic Associations and Epidemiology
+open_access: true

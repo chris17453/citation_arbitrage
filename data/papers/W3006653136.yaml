@@ -1,0 +1,167 @@
+id: https://openalex.org/W3006653136
+doi: https://doi.org/10.1038/s41587-020-0439-x
+title: The nf-core framework for community-curated bioinformatics pipelines
+publication_date: '2020-02-13'
+publication_year: 2020
+cited_by_count: 2691
+citation_percentile: 0.928571
+pagerank: 2.5657735153814903e-06
+authorships:
+- author_id: https://openalex.org/A5035382345
+  display_name: Philip Ewels
+  orcid: https://orcid.org/0000-0003-4101-2502
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I161593684
+    display_name: Stockholm University
+    ror: https://ror.org/05f0yaq80
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory (SciLifeLab), Department of Biochemistry and Biophysics,
+    Stockholm University, Stockholm, Sweden
+- author_id: https://openalex.org/A5036763688
+  display_name: Alexander Peltzer
+  orcid: https://orcid.org/0000-0002-6503-2180
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Quantitative Biology Center (QBiC), University of T\xFCbingen, T\xFCbingen, Germany"
+- author_id: https://openalex.org/A5076441590
+  display_name: Sven Fillinger
+  orcid: https://orcid.org/0000-0001-8835-2219
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Quantitative Biology Center (QBiC), University of T\xFCbingen, T\xFCbingen, Germany"
+- author_id: https://openalex.org/A5035473922
+  display_name: Harshil Patel
+  orcid: https://orcid.org/0000-0003-2707-7940
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801081054
+    display_name: The Francis Crick Institute
+    ror: https://ror.org/04tnbqb63
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics and Biostatistics, The Francis Crick Institute, London, UK
+- author_id: https://openalex.org/A5008685503
+  display_name: Johannes Alneberg
+  orcid: https://orcid.org/0000-0002-2467-008X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory (SciLifeLab), School of Engineering Sciences in Chemistry,
+    Biotechnology and Health, Department of Gene Technology, Royal Institute of Technology,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5036376802
+  display_name: Andreas Wilm
+  orcid: https://orcid.org/0000-0002-7344-3764
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I66068411
+    display_name: Genome Institute of Singapore
+    ror: https://ror.org/05k8wg936
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational & Systems Biology, Genome Institute of Singapore, Singapore, Singapore
+- author_id: https://openalex.org/A5038046084
+  display_name: M. Garcia
+  orcid: https://orcid.org/0000-0003-2827-9261
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5044258205
+  display_name: Paolo Di Tommaso
+  orcid: https://orcid.org/0000-0003-3220-0253
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210137962
+    display_name: Centre for Genomic Regulation
+    ror: https://ror.org/03wyzt892
+    country_code: ES
+    type: nonprofit
+  - id: https://openalex.org/I4210132884
+    display_name: Barcelona Institute for Science and Technology
+    ror: https://ror.org/03kpps236
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology,
+    Barcelona, Spain
+- author_id: https://openalex.org/A5008496386
+  display_name: Sven Nahnsen
+  orcid: https://orcid.org/0000-0002-4375-0691
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Quantitative Biology Center (QBiC), University of T\xFCbingen, T\xFCbingen, Germany"
+referenced_works:
+- https://openalex.org/W1919257374
+- https://openalex.org/W2097464861
+- https://openalex.org/W2131966673
+- https://openalex.org/W2135253885
+- https://openalex.org/W2145374174
+- https://openalex.org/W2231865019
+- https://openalex.org/W2254012214
+- https://openalex.org/W2310259903
+- https://openalex.org/W2406493898
+- https://openalex.org/W2576576365
+- https://openalex.org/W2604622795
+- https://openalex.org/W2605897695
+- https://openalex.org/W2765426977
+- https://openalex.org/W2765745983
+- https://openalex.org/W2886673064
+- https://openalex.org/W2917207851
+- https://openalex.org/W2934450419
+- https://openalex.org/W2952768760
+- https://openalex.org/W2952787115
+primary_topic: Scientific Computing and Data Management
+open_access: false

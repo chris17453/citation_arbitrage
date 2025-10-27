@@ -1,0 +1,378 @@
+id: https://openalex.org/W3048714202
+doi: https://doi.org/10.1016/j.cell.2020.08.012
+title: Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints
+  on Folding and ACE2 Binding
+publication_date: '2020-08-11'
+publication_year: 2020
+cited_by_count: 2074
+citation_percentile: 0.999954
+pagerank: 3.547451296089929e-06
+authorships:
+- author_id: https://openalex.org/A5012916588
+  display_name: Tyler N. Starr
+  orcid: https://orcid.org/0000-0001-6713-6904
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Basic Sciences Division and Computational Biology Program, Fred Hutchinson Cancer
+    Research Center, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5075302877
+  display_name: Allison J. Greaney
+  orcid: https://orcid.org/0000-0001-7202-3349
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Basic Sciences Division and Computational Biology Program, Fred Hutchinson Cancer
+    Research Center, Seattle, WA 98109, USA
+  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA
+  - Medical Scientist Training Program, University of Washington, Seattle, WA 98195,
+    USA
+- author_id: https://openalex.org/A5075388482
+  display_name: Sarah K. Hilton
+  orcid: https://orcid.org/0000-0001-9278-3644
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Basic Sciences Division and Computational Biology Program, Fred Hutchinson Cancer
+    Research Center, Seattle, WA 98109, USA
+  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5043923862
+  display_name: Daniel Ellis
+  orcid: https://orcid.org/0000-0001-6248-2867
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA
+  - Graduate Program in Molecular and Cellular Biology, University of Washington,
+    Seattle, WA 98195, USA
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5070608099
+  display_name: Katharine H. D. Crawford
+  orcid: https://orcid.org/0000-0002-6223-4019
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Basic Sciences Division and Computational Biology Program, Fred Hutchinson Cancer
+    Research Center, Seattle, WA 98109, USA
+  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA
+  - Medical Scientist Training Program, University of Washington, Seattle, WA 98195,
+    USA
+- author_id: https://openalex.org/A5053998664
+  display_name: Adam S. Dingens
+  orcid: https://orcid.org/0000-0001-9603-9409
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Basic Sciences Division and Computational Biology Program, Fred Hutchinson Cancer
+    Research Center, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5103920494
+  display_name: Mary Jane Navarro
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5038979662
+  display_name: John E. Bowen
+  orcid: https://orcid.org/0000-0003-3590-9727
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5006936042
+  display_name: M. Alejandra Tortorici
+  orcid: https://orcid.org/0000-0002-2260-2577
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5021781776
+  display_name: Alexandra C. Walls
+  orcid: https://orcid.org/0000-0002-9636-8330
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5016851342
+  display_name: Neil P. King
+  orcid: https://orcid.org/0000-0002-2978-4692
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5085406779
+  display_name: David Veesler
+  orcid: https://orcid.org/0000-0002-6019-8675
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA
+- author_id: https://openalex.org/A5091068534
+  display_name: Jesse D. Bloom
+  orcid: https://orcid.org/0000-0003-1267-3408
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Basic Sciences Division and Computational Biology Program, Fred Hutchinson Cancer
+    Research Center, Seattle, WA 98109, USA
+  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA
+  - Howard Hughes Medical Institute, Seattle, WA 98109, USA
+referenced_works:
+- https://openalex.org/W1512750650
+- https://openalex.org/W1964529071
+- https://openalex.org/W1966238900
+- https://openalex.org/W1966856638
+- https://openalex.org/W1969716271
+- https://openalex.org/W1972595484
+- https://openalex.org/W1979158913
+- https://openalex.org/W1982533785
+- https://openalex.org/W1988625445
+- https://openalex.org/W1989762371
+- https://openalex.org/W1990789777
+- https://openalex.org/W1991726152
+- https://openalex.org/W1993646374
+- https://openalex.org/W1997116773
+- https://openalex.org/W2000564337
+- https://openalex.org/W2003890287
+- https://openalex.org/W2008708467
+- https://openalex.org/W2016966302
+- https://openalex.org/W2025977980
+- https://openalex.org/W2031810447
+- https://openalex.org/W2038591876
+- https://openalex.org/W2038918691
+- https://openalex.org/W2046094044
+- https://openalex.org/W2060588922
+- https://openalex.org/W2074618762
+- https://openalex.org/W2079760969
+- https://openalex.org/W2080473579
+- https://openalex.org/W2081837522
+- https://openalex.org/W2086796608
+- https://openalex.org/W2090139119
+- https://openalex.org/W2094225605
+- https://openalex.org/W2094503501
+- https://openalex.org/W2094942715
+- https://openalex.org/W2096888964
+- https://openalex.org/W2097356092
+- https://openalex.org/W2099743715
+- https://openalex.org/W2099851748
+- https://openalex.org/W2103498752
+- https://openalex.org/W2103885317
+- https://openalex.org/W2104391453
+- https://openalex.org/W2105314995
+- https://openalex.org/W2113557726
+- https://openalex.org/W2115137014
+- https://openalex.org/W2115330273
+- https://openalex.org/W2115870529
+- https://openalex.org/W2116202949
+- https://openalex.org/W2121757696
+- https://openalex.org/W2122508875
+- https://openalex.org/W2134566626
+- https://openalex.org/W2135151522
+- https://openalex.org/W2139202079
+- https://openalex.org/W2141052558
+- https://openalex.org/W2157989648
+- https://openalex.org/W2160378127
+- https://openalex.org/W2164494468
+- https://openalex.org/W2167750878
+- https://openalex.org/W2170731906
+- https://openalex.org/W2171343897
+- https://openalex.org/W2195009776
+- https://openalex.org/W2238330501
+- https://openalex.org/W2294418165
+- https://openalex.org/W2298153446
+- https://openalex.org/W2302583067
+- https://openalex.org/W2471654536
+- https://openalex.org/W2498359070
+- https://openalex.org/W2587970647
+- https://openalex.org/W2602393840
+- https://openalex.org/W2609522093
+- https://openalex.org/W2620965804
+- https://openalex.org/W2626509983
+- https://openalex.org/W2769232708
+- https://openalex.org/W2775086803
+- https://openalex.org/W2786432367
+- https://openalex.org/W2787724043
+- https://openalex.org/W2789843538
+- https://openalex.org/W2790509526
+- https://openalex.org/W2800814287
+- https://openalex.org/W2885278423
+- https://openalex.org/W2887703287
+- https://openalex.org/W2903675476
+- https://openalex.org/W2903899730
+- https://openalex.org/W2906920868
+- https://openalex.org/W2913058153
+- https://openalex.org/W2915009278
+- https://openalex.org/W2950629294
+- https://openalex.org/W2950672524
+- https://openalex.org/W2951546146
+- https://openalex.org/W2953298003
+- https://openalex.org/W2970502448
+- https://openalex.org/W2994685218
+- https://openalex.org/W2995997429
+- https://openalex.org/W3004280078
+- https://openalex.org/W3004348779
+- https://openalex.org/W3006906057
+- https://openalex.org/W3007643904
+- https://openalex.org/W3008394341
+- https://openalex.org/W3009170734
+- https://openalex.org/W3009335299
+- https://openalex.org/W3009912996
+- https://openalex.org/W3010441732
+- https://openalex.org/W3011127849
+- https://openalex.org/W3013152614
+- https://openalex.org/W3013800395
+- https://openalex.org/W3014067025
+- https://openalex.org/W3014656992
+- https://openalex.org/W3014705859
+- https://openalex.org/W3014733470
+- https://openalex.org/W3016137283
+- https://openalex.org/W3016729922
+- https://openalex.org/W3017133925
+- https://openalex.org/W3020828664
+- https://openalex.org/W3021283406
+- https://openalex.org/W3022254624
+- https://openalex.org/W3023560309
+- https://openalex.org/W3024602798
+- https://openalex.org/W3025716906
+- https://openalex.org/W3025744748
+- https://openalex.org/W3025987322
+- https://openalex.org/W3026202566
+- https://openalex.org/W3028674382
+- https://openalex.org/W3029412330
+- https://openalex.org/W3029682964
+- https://openalex.org/W3032255042
+- https://openalex.org/W3033022675
+- https://openalex.org/W3033295933
+- https://openalex.org/W3033450058
+- https://openalex.org/W3034425032
+- https://openalex.org/W3034548712
+- https://openalex.org/W3034680516
+- https://openalex.org/W3035459690
+- https://openalex.org/W3035950190
+- https://openalex.org/W3035988644
+- https://openalex.org/W3036036135
+- https://openalex.org/W3038233058
+- https://openalex.org/W3040036776
+- https://openalex.org/W3040801746
+- https://openalex.org/W3041564586
+- https://openalex.org/W3042323010
+- https://openalex.org/W3045578670
+- https://openalex.org/W3046218112
+- https://openalex.org/W3054045196
+- https://openalex.org/W3080845626
+- https://openalex.org/W3082164758
+- https://openalex.org/W3086967467
+- https://openalex.org/W3087423707
+- https://openalex.org/W3091344371
+- https://openalex.org/W3092530256
+- https://openalex.org/W3105793982
+- https://openalex.org/W3135415606
+- https://openalex.org/W3173635501
+- https://openalex.org/W4210616166
+- https://openalex.org/W4288033676
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

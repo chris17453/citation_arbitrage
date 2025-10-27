@@ -1,0 +1,752 @@
+id: https://openalex.org/W3202209876
+doi: https://doi.org/10.1038/s41588-021-00931-x
+title: A cross-population atlas of genetic associations for 220 human phenotypes
+publication_date: '2021-09-30'
+publication_year: 2021
+cited_by_count: 1745
+citation_percentile: 0.999948
+pagerank: 2.5605953884706376e-06
+authorships:
+- author_id: https://openalex.org/A5064515889
+  display_name: Saori Sakaue
+  orcid: https://orcid.org/0000-0003-3618-9717
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I98285908
+    display_name: The University of Osaka
+    ror: https://ror.org/035t8zc32
+    country_code: JP
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Statistical Genetics, Osaka University Graduate School of Medicine,
+    Suita, Japan
+- author_id: https://openalex.org/A5013139956
+  display_name: Masahiro Kanai
+  orcid: https://orcid.org/0000-0001-5165-4408
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98285908
+    display_name: The University of Osaka
+    ror: https://ror.org/035t8zc32
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistical Genetics, Osaka University Graduate School of Medicine,
+    Suita, Japan
+- author_id: https://openalex.org/A5003493606
+  display_name: Yosuke Tanigawa
+  orcid: https://orcid.org/0000-0001-9759-157X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Data Science, School of Medicine, Stanford University,
+    Stanford, CA, USA
+- author_id: https://openalex.org/A5112934027
+  display_name: Juha Karjalainen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA
+- author_id: https://openalex.org/A5017396611
+  display_name: Mitja Kurki
+  orcid: https://orcid.org/0000-0002-6010-8617
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA
+- author_id: https://openalex.org/A5034080587
+  display_name: S. Koshiba
+  orcid: https://orcid.org/0000-0003-2001-1949
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136366
+    display_name: Tohoku Medical Megabank Organization
+    ror: https://ror.org/03zzyap02
+    country_code: JP
+    type: healthcare
+  - id: https://openalex.org/I201537933
+    display_name: Tohoku University
+    ror: https://ror.org/01dq60k83
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tohoku Medical Megabank Organization, Tohoku University, Sendai, Japan
+- author_id: https://openalex.org/A5012113903
+  display_name: Akira Narita
+  orcid: https://orcid.org/0000-0002-9076-0710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136366
+    display_name: Tohoku Medical Megabank Organization
+    ror: https://ror.org/03zzyap02
+    country_code: JP
+    type: healthcare
+  - id: https://openalex.org/I201537933
+    display_name: Tohoku University
+    ror: https://ror.org/01dq60k83
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tohoku Medical Megabank Organization, Tohoku University, Sendai, Japan
+- author_id: https://openalex.org/A5063293057
+  display_name: Takahiro Konuma
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98285908
+    display_name: The University of Osaka
+    ror: https://ror.org/035t8zc32
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistical Genetics, Osaka University Graduate School of Medicine,
+    Suita, Japan
+- author_id: https://openalex.org/A5016878620
+  display_name: Kenichi Yamamoto
+  orcid: https://orcid.org/0000-0001-9594-7050
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98285908
+    display_name: The University of Osaka
+    ror: https://ror.org/035t8zc32
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistical Genetics, Osaka University Graduate School of Medicine,
+    Suita, Japan
+- author_id: https://openalex.org/A5024961680
+  display_name: Masato Akiyama
+  orcid: https://orcid.org/0000-0002-1879-5476
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory for Statistical and Translational Genetics, RIKEN Center for Integrative
+    Medical Sciences, Yokohama, Japan
+- author_id: https://openalex.org/A5061198146
+  display_name: Kazuyoshi Ishigaki
+  orcid: https://orcid.org/0000-0003-2881-0657
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155419
+    display_name: Center for Systems Biology
+    ror: https://ror.org/05r3dyn47
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Data Sciences, Harvard Medical School, Boston, MA, USA
+- author_id: https://openalex.org/A5010191044
+  display_name: Akari Suzuki
+  orcid: https://orcid.org/0000-0002-5343-3681
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory for Autoimmune Diseases, RIKEN Center for Integrative Medical Sciences,
+    Yokohama, Japan
+- author_id: https://openalex.org/A5062288838
+  display_name: Ken Suzuki
+  orcid: https://orcid.org/0000-0003-1065-3593
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98285908
+    display_name: The University of Osaka
+    ror: https://ror.org/035t8zc32
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistical Genetics, Osaka University Graduate School of Medicine,
+    Suita, Japan
+- author_id: https://openalex.org/A5043724877
+  display_name: Wataru Obara
+  orcid: https://orcid.org/0000-0003-2720-9640
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180680657
+    display_name: Iwate Medical University
+    ror: https://ror.org/04cybtr86
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Urology, Iwate Medical University, Iwate, Japan
+- author_id: https://openalex.org/A5111024762
+  display_name: Ken Yamaji
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34077901
+    display_name: Juntendo University
+    ror: https://ror.org/01692sz90
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine and Rheumatology, Juntendo University Graduate
+    School of Medicine, Tokyo, Japan
+- author_id: https://openalex.org/A5080980467
+  display_name: Kazuhisa Takahashi
+  orcid: https://orcid.org/0000-0001-5749-4118
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34077901
+    display_name: Juntendo University
+    ror: https://ror.org/01692sz90
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Respiratory Medicine, Juntendo University Graduate School of Medicine,
+    Tokyo, Japan
+- author_id: https://openalex.org/A5102967687
+  display_name: Satoshi Asai
+  orcid: https://orcid.org/0000-0002-7094-4942
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I104946051
+    display_name: Nihon University
+    ror: https://ror.org/05jk51a88
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Pharmacology, Department of Biomedical Science, Nihon University School
+    of Medicine, Tokyo, Japan
+- author_id: https://openalex.org/A5047037093
+  display_name: Yasuo Takahashi
+  orcid: https://orcid.org/0000-0003-2543-7543
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I104946051
+    display_name: Nihon University
+    ror: https://ror.org/05jk51a88
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Genomic Epidemiology and Clinical Trials, Clinical Trials Research
+    Center, Nihon University School of Medicine, Tokyo, Japan
+- author_id: https://openalex.org/A5073041790
+  display_name: Takao Suzuki
+  orcid: https://orcid.org/0000-0001-5489-0983
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210099682
+    display_name: Fukuoka Tokushukai Hospital
+    ror: https://ror.org/014haym76
+    country_code: JP
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tokushukai Group, Tokyo, Japan
+- author_id: https://openalex.org/A5108437268
+  display_name: Nobuaki Shinozaki
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210099682
+    display_name: Fukuoka Tokushukai Hospital
+    ror: https://ror.org/014haym76
+    country_code: JP
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tokushukai Group, Tokyo, Japan
+- author_id: https://openalex.org/A5056051352
+  display_name: Hiroki Yamaguchi
+  orcid: https://orcid.org/0000-0002-0571-7495
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I80188885
+    display_name: Nippon Medical School
+    ror: https://ror.org/00krab219
+    country_code: JP
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Hematology, Nippon Medical School, Tokyo, Japan
+- author_id: https://openalex.org/A5054621091
+  display_name: Shiro Minami
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I80188885
+    display_name: Nippon Medical School
+    ror: https://ror.org/00krab219
+    country_code: JP
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioregulation, Nippon Medical School, Kawasaki, Japan
+- author_id: https://openalex.org/A5024641774
+  display_name: Shigeo Murayama
+  orcid: https://orcid.org/0000-0001-9709-5242
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210152580
+    display_name: Tokyo Metropolitan Geriatric Hospital
+    ror: https://ror.org/04emv5a43
+    country_code: JP
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tokyo Metropolitan Geriatric Hospital and Institute of Gerontology, Tokyo, Japan
+- author_id: https://openalex.org/A5026281541
+  display_name: Kozo Yoshimori
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210152755
+    display_name: Fukujuji Hospital
+    ror: https://ror.org/0422nk691
+    country_code: JP
+    type: healthcare
+  - id: https://openalex.org/I4210100133
+    display_name: Japan Anti Tuberculosis Association
+    ror: https://ror.org/012daep68
+    country_code: JP
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Fukujuji Hospital, Japan Anti-Tuberculosis Association, Tokyo, Japan
+- author_id: https://openalex.org/A5038862421
+  display_name: Satoshi Nagayama
+  orcid: https://orcid.org/0000-0001-9632-914X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I42570316
+    display_name: Japanese Foundation For Cancer Research
+    ror: https://ror.org/00bv64a69
+    country_code: JP
+    type: nonprofit
+  - id: https://openalex.org/I4210137039
+    display_name: The Cancer Institute Hospital
+    ror: https://ror.org/03md8p445
+    country_code: JP
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Cancer Institute Hospital of the Japanese Foundation for Cancer Research,
+    Tokyo, Japan
+- author_id: https://openalex.org/A5011341854
+  display_name: Daisuke Obata
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I160046202
+    display_name: Shiga University of Medical Science
+    ror: https://ror.org/00d8gp927
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Clinical Research and Advanced Medicine, Shiga University of Medical
+    Science, Otsu, Japan
+- author_id: https://openalex.org/A5076968285
+  display_name: Masahiko Higashiyama
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151107
+    display_name: Osaka International Cancer Institute
+    ror: https://ror.org/05xvwhv53
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General Thoracic Surgery, Osaka International Cancer Institute,
+    Osaka, Japan
+- author_id: https://openalex.org/A5112212701
+  display_name: Akihide Masumoto
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210144416
+    display_name: Aso Iizuka Hospital
+    ror: https://ror.org/04tg98e93
+    country_code: JP
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Aso Iizuka Hospital, Fukuoka, Japan
+- author_id: https://openalex.org/A5107842755
+  display_name: Yukihiro Koretsune
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090372
+    display_name: Osaka National Hospital
+    ror: https://ror.org/00b6s9f18
+    country_code: JP
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Hospital Organization Osaka National Hospital, Osaka, Japan
+- author_id: https://openalex.org/A5101958431
+  display_name: Kaoru Ito
+  orcid: https://orcid.org/0000-0003-1843-773X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory for Cardiovascular Genomics and Informatics, RIKEN Center for Integrative
+    Medical Sciences, Yokohama, Japan
+- author_id: https://openalex.org/A5005705284
+  display_name: Chikashi Terao
+  orcid: https://orcid.org/0000-0002-6452-4095
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory for Statistical and Translational Genetics, RIKEN Center for Integrative
+    Medical Sciences, Yokohama, Japan
+- author_id: https://openalex.org/A5029747116
+  display_name: Toshimasa Yamauchi
+  orcid: https://orcid.org/0000-0003-4827-6404
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine, The
+    University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5057781163
+  display_name: Issei Komuro
+  orcid: https://orcid.org/0000-0002-0714-7182
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cardiovascular Medicine, Graduate School of Medicine, The University
+    of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5040548657
+  display_name: Takashi Kadowaki
+  orcid: https://orcid.org/0000-0002-5428-3582
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Diabetes and Metabolic Diseases, Graduate School of Medicine, The
+    University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5075718612
+  display_name: Gen Tamiya
+  orcid: https://orcid.org/0000-0002-0597-415X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136366
+    display_name: Tohoku Medical Megabank Organization
+    ror: https://ror.org/03zzyap02
+    country_code: JP
+    type: healthcare
+  - id: https://openalex.org/I201537933
+    display_name: Tohoku University
+    ror: https://ror.org/01dq60k83
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tohoku Medical Megabank Organization, Tohoku University, Sendai, Japan
+- author_id: https://openalex.org/A5102992059
+  display_name: Masayuki Yamamoto
+  orcid: https://orcid.org/0000-0002-9073-9436
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136366
+    display_name: Tohoku Medical Megabank Organization
+    ror: https://ror.org/03zzyap02
+    country_code: JP
+    type: healthcare
+  - id: https://openalex.org/I201537933
+    display_name: Tohoku University
+    ror: https://ror.org/01dq60k83
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tohoku Medical Megabank Organization, Tohoku University, Sendai, Japan
+- author_id: https://openalex.org/A5079171795
+  display_name: Yusuke Nakamura
+  orcid: https://orcid.org/0000-0002-5376-9513
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genome Center, Institute of Medical Science, The University of Tokyo, Tokyo,
+    Japan
+- author_id: https://openalex.org/A5072877214
+  display_name: Michiaki Kubo
+  orcid: https://orcid.org/0000-0002-0095-2322
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - RIKEN Center for Integrative Medical Sciences, Yokohama, Japan
+- author_id: https://openalex.org/A5079980365
+  display_name: Yoshinori Murakami
+  orcid: https://orcid.org/0000-0002-2826-4396
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Molecular Pathology, Institute of Medical Science, The University
+    of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5075284186
+  display_name: Kazuhiko Yamamoto
+  orcid: https://orcid.org/0000-0001-9037-3625
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory for Autoimmune Diseases, RIKEN Center for Integrative Medical Sciences,
+    Yokohama, Japan
+- author_id: https://openalex.org/A5033755499
+  display_name: Yoichiro Kamatani
+  orcid: https://orcid.org/0000-0001-8748-5597
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory for Statistical and Translational Genetics, RIKEN Center for Integrative
+    Medical Sciences, Yokohama, Japan
+- author_id: https://openalex.org/A5085708490
+  display_name: Aarno Palotie
+  orcid: https://orcid.org/0000-0002-2527-5874
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), University of Helsinki, Helsinki,
+    Finland
+- author_id: https://openalex.org/A5073710029
+  display_name: Manuel A. Rivas
+  orcid: https://orcid.org/0000-0003-1457-9925
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Data Science, School of Medicine, Stanford University,
+    Stanford, CA, USA
+- author_id: https://openalex.org/A5107596541
+  display_name: Mark J. Daly
+  orcid: https://orcid.org/0000-0002-0949-8752
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), University of Helsinki, Helsinki,
+    Finland
+- author_id: https://openalex.org/A5072404313
+  display_name: Koichi Matsuda
+  orcid: https://orcid.org/0000-0001-7292-2686
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Computational Biology and Medical Sciences, Graduate school of Frontier
+    Sciences, The University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5037133689
+  display_name: Yukinori Okada
+  orcid: https://orcid.org/0000-0002-0311-8472
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I98285908
+    display_name: The University of Osaka
+    ror: https://ror.org/035t8zc32
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Statistical Immunology, Immunology Frontier Research Center (WPI-IFReC),
+    Osaka University, Suita, Japan
+referenced_works:
+- https://openalex.org/W1966775465
+- https://openalex.org/W1969208427
+- https://openalex.org/W1979594866
+- https://openalex.org/W1989568128
+- https://openalex.org/W1989590412
+- https://openalex.org/W2006486314
+- https://openalex.org/W200789720
+- https://openalex.org/W2016370312
+- https://openalex.org/W2028190708
+- https://openalex.org/W2052220288
+- https://openalex.org/W2098951833
+- https://openalex.org/W2107021160
+- https://openalex.org/W2113105800
+- https://openalex.org/W2116868464
+- https://openalex.org/W2133520037
+- https://openalex.org/W2145762095
+- https://openalex.org/W2153860431
+- https://openalex.org/W2154892927
+- https://openalex.org/W2161633633
+- https://openalex.org/W2195783463
+- https://openalex.org/W2265174853
+- https://openalex.org/W2340656051
+- https://openalex.org/W2345621280
+- https://openalex.org/W2410954873
+- https://openalex.org/W2412929106
+- https://openalex.org/W2414396890
+- https://openalex.org/W2417483443
+- https://openalex.org/W2438256301
+- https://openalex.org/W2464466306
+- https://openalex.org/W2470471360
+- https://openalex.org/W2531014594
+- https://openalex.org/W2565199748
+- https://openalex.org/W2587257410
+- https://openalex.org/W2757215294
+- https://openalex.org/W2761275051
+- https://openalex.org/W2766602662
+- https://openalex.org/W2766768286
+- https://openalex.org/W2789833091
+- https://openalex.org/W2791398141
+- https://openalex.org/W2795155140
+- https://openalex.org/W2802442746
+- https://openalex.org/W2895486342
+- https://openalex.org/W2900298850
+- https://openalex.org/W2913411807
+- https://openalex.org/W2921359953
+- https://openalex.org/W2932671560
+- https://openalex.org/W2942053120
+- https://openalex.org/W2950099124
+- https://openalex.org/W2950885009
+- https://openalex.org/W2952882474
+- https://openalex.org/W2953357410
+- https://openalex.org/W2969996045
+- https://openalex.org/W2971431550
+- https://openalex.org/W2975095072
+- https://openalex.org/W2998114427
+- https://openalex.org/W2999574254
+- https://openalex.org/W3012758303
+- https://openalex.org/W3017050221
+- https://openalex.org/W3029661147
+- https://openalex.org/W3033304694
+- https://openalex.org/W3033596111
+- https://openalex.org/W3036779511
+- https://openalex.org/W3046013264
+- https://openalex.org/W3105567325
+- https://openalex.org/W63818205
+- https://openalex.org/W83457872
+primary_topic: Genetic Associations and Epidemiology
+open_access: true

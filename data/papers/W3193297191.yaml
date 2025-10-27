@@ -1,0 +1,2857 @@
+id: https://openalex.org/W3193297191
+doi: https://doi.org/10.1056/nejmoa2107038
+title: Empagliflozin in Heart Failure with a Preserved Ejection Fraction
+publication_date: '2021-08-27'
+publication_year: 2021
+cited_by_count: 3644
+citation_percentile: 0.999928
+pagerank: 2.753816188574171e-06
+authorships:
+- author_id: https://openalex.org/A5003943960
+  display_name: Stefan D. Anker
+  orcid: https://orcid.org/0000-0002-0805-8683
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5022314919
+  display_name: Javed Butler
+  orcid: https://orcid.org/0000-0001-7683-4720
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5023320363
+  display_name: Gerasimos Filippatos
+  orcid: https://orcid.org/0000-0002-5640-0332
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5100602883
+  display_name: "Jo\xE3o Pedro Ferreira"
+  orcid: https://orcid.org/0000-0002-2304-6138
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5057090750
+  display_name: Edimar Alcides Bocchi
+  orcid: https://orcid.org/0000-0001-9204-485X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5008678419
+  display_name: "Michael B\xF6hm"
+  orcid: https://orcid.org/0000-0002-2976-2514
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5057864298
+  display_name: "Hans\u2010Peter Brunner\u2010La Rocca"
+  orcid: https://orcid.org/0000-0002-4356-8566
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5016608182
+  display_name: "Dong\u2010Ju Choi"
+  orcid: https://orcid.org/0000-0003-0146-2189
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5075949562
+  display_name: Vijay Chopra
+  orcid: https://orcid.org/0000-0001-9512-1718
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5023353608
+  display_name: "Eduardo Chuquiure\u2010Valenzuela"
+  orcid: https://orcid.org/0000-0003-4812-1090
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5075925255
+  display_name: Nadia Giannetti
+  orcid: https://orcid.org/0000-0001-7173-8051
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5068777110
+  display_name: "Juan Esteban G\xF3mez\u2010Mesa"
+  orcid: https://orcid.org/0000-0002-6635-6224
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5061687360
+  display_name: Stefan Janssens
+  orcid: https://orcid.org/0000-0002-3609-1122
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5043064522
+  display_name: James L. Januzzi
+  orcid: https://orcid.org/0000-0002-8338-1798
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5045256592
+  display_name: "Jos\xE9 Ram\xF3n Gonz\xE1lez\u2010Juanatey"
+  orcid: https://orcid.org/0000-0001-9681-3388
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5086692319
+  display_name: "B\xE9la Merkely"
+  orcid: https://orcid.org/0000-0001-6514-0723
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5055849986
+  display_name: Stephen J. Nicholls
+  orcid: https://orcid.org/0000-0002-9668-4368
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5025046655
+  display_name: Sergio V. Perrone
+  orcid: https://orcid.org/0000-0002-3325-7633
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5043416120
+  display_name: "Ileana L. Pi\xF1a"
+  orcid: https://orcid.org/0000-0002-4986-7129
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5017272571
+  display_name: Piotr Ponikowski
+  orcid: https://orcid.org/0000-0002-3391-7064
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5060241741
+  display_name: Michele Senni
+  orcid: https://orcid.org/0000-0001-5502-7882
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5107864011
+  display_name: David Sim
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5102980372
+  display_name: "Jind\u0159ich \u0160pinar"
+  orcid: https://orcid.org/0000-0002-1247-5607
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5075319533
+  display_name: Iain Squire
+  orcid: https://orcid.org/0000-0002-6282-4318
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5027821454
+  display_name: Stefano Taddei
+  orcid: https://orcid.org/0000-0002-5002-3070
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5091849037
+  display_name: Hiroyuki Tsutsui
+  orcid: https://orcid.org/0000-0002-5291-2875
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5080334509
+  display_name: Subodh Verma
+  orcid: https://orcid.org/0000-0002-4018-8533
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5011747612
+  display_name: "Drago\u015F Vinereanu"
+  orcid: https://orcid.org/0000-0002-9054-8779
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5100409969
+  display_name: Jian Zhang
+  orcid: https://orcid.org/0000-0002-5093-4325
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5039697719
+  display_name: Peter E. Carson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5067422552
+  display_name: Carolyn S.P. Lam
+  orcid: https://orcid.org/0000-0003-1903-0018
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5019976194
+  display_name: Nikolaus Marx
+  orcid: https://orcid.org/0000-0001-6141-634X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5006125844
+  display_name: Cordula Zeller
+  orcid: https://orcid.org/0000-0002-0639-8836
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5078498803
+  display_name: Naveed Sattar
+  orcid: https://orcid.org/0000-0002-1604-2593
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5005631453
+  display_name: Waheed Jamal
+  orcid: https://orcid.org/0000-0001-9133-8450
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5027054516
+  display_name: Sven Schnaidt
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5074299303
+  display_name: Janet Schnee
+  orcid: https://orcid.org/0000-0001-6041-5839
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5016763799
+  display_name: Martina Brueckmann
+  orcid: https://orcid.org/0000-0003-1215-0746
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5023436129
+  display_name: Stuart Pocock
+  orcid: https://orcid.org/0000-0003-2212-4007
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5036821495
+  display_name: "Fa\u0131\u0308ez Zannad"
+  orcid: https://orcid.org/0000-0001-7456-1570
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+- author_id: https://openalex.org/A5042766753
+  display_name: Milton Packer
+  orcid: https://orcid.org/0000-0003-1828-2387
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210131406
+    display_name: Boehringer Ingelheim (South Korea)
+    ror: https://ror.org/03e9p3c51
+    country_code: KR
+    type: company
+  - id: https://openalex.org/I4210094678
+    display_name: "Universit\xE4tsklinikum des Saarlandes"
+    ror: https://ror.org/00nvxt968
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210160255
+    display_name: Boehringer Ingelheim (United States)
+    ror: https://ror.org/05kffp613
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I887968799
+    display_name: RWTH Aachen University
+    ror: https://ror.org/04xfq0f34
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Department of Cardiology (CVK) and the Berlin Institute of Health Center\
+    \ for Regenerative Therapies (BCRT), German Center for Cardiovascular Research\
+    \ (DZHK) partner site Berlin, Charit\xE9 Universit\xE4tsmedizin Berlin, Berlin\
+    \ (S.D.A.), Universit\xE4tsklinikum des Saarlandes, Homberg (M. B\xF6hm), RWTH\
+    \ Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z.,\
+    \ S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann),\
+    \ and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M.\
+    \ Brueckmann) - all in Germany; the University of Mississippi Medical Center,\
+    \ Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine,\
+    \ Athens (G.F.); Universit\xE9 de Lorraine, INSERM, Centre d'Investigations Cliniques\
+    \ Plurith\xE9matique 1433, and INSERM Unit\xE9 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular\
+    \ and Renal Clinical Trialists) (J.P.F.), and Universit\xE9 de Lorraine, INSERM\
+    \ INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and\
+    \ Development Center, Department of Surgery and Physiology, Faculty of Medicine\
+    \ of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insufici\xEA\
+    ncia Card\xEDaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade\
+    \ de Medicina, Universidade de S\xE3o Paulo, S\xE3o Paulo (E.B.); Maastricht University\
+    \ Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht,\
+    \ the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University\
+    \ Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital,\
+    \ Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico\
+    \ City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's\
+    \ Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology\
+    \ Service, Fundaci\xF3n Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.);\
+    \ the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven,\
+    \ Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical\
+    \ Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain\
+    \ (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary\
+    \ (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia\
+    \ (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure,\
+    \ Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute\
+    \ - both in Buenos Aires (S.V.P.); Central Michigan"
+referenced_works:
+- https://openalex.org/W2127254785
+- https://openalex.org/W2152072062
+- https://openalex.org/W2187526770
+- https://openalex.org/W2593177793
+- https://openalex.org/W2790275265
+- https://openalex.org/W2899764361
+- https://openalex.org/W2921779932
+- https://openalex.org/W2921866736
+- https://openalex.org/W2971294569
+- https://openalex.org/W2972513641
+- https://openalex.org/W3026507424
+- https://openalex.org/W3081830235
+- https://openalex.org/W3082758064
+- https://openalex.org/W3100542962
+- https://openalex.org/W3109624671
+- https://openalex.org/W4255739262
+primary_topic: Diabetes Treatment and Management
+open_access: true

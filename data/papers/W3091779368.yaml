@@ -1,0 +1,418 @@
+id: https://openalex.org/W3091779368
+doi: https://doi.org/10.3758/s13423-020-01798-5
+title: The JASP guidelines for conducting and reporting a Bayesian analysis
+publication_date: '2020-10-09'
+publication_year: 2020
+cited_by_count: 943
+citation_percentile: 0.999824
+pagerank: 2.692338886606367e-06
+authorships:
+- author_id: https://openalex.org/A5076337994
+  display_name: Johnny van Doorn
+  orcid: https://orcid.org/0000-0003-0270-096X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5028873710
+  display_name: Don van den Bergh
+  orcid: https://orcid.org/0000-0002-9838-7308
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5015495613
+  display_name: "Udo B\xF6hm"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5008918092
+  display_name: Fabian Dablander
+  orcid: https://orcid.org/0000-0003-2650-6491
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5013727355
+  display_name: Koen Derks
+  orcid: https://orcid.org/0000-0002-5533-9349
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I870178186
+    display_name: Nyenrode Business University
+    ror: https://ror.org/018528593
+    country_code: NL
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nyenrode Business University, Breukelen, Netherlands
+- author_id: https://openalex.org/A5019964816
+  display_name: Tim Draws
+  orcid: https://orcid.org/0000-0001-5053-4674
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5031409305
+  display_name: Alexander Etz
+  orcid: https://orcid.org/0000-0001-9394-6804
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of California, Irvine, California, USA
+- author_id: https://openalex.org/A5103280164
+  display_name: Nathan J. Evans
+  orcid: https://orcid.org/0000-0002-6953-8816
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5090294872
+  display_name: Quentin F. Gronau
+  orcid: https://orcid.org/0000-0001-5510-6943
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5012030771
+  display_name: Julia M. Haaf
+  orcid: https://orcid.org/0000-0001-5122-706X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5082961171
+  display_name: Max Hinne
+  orcid: https://orcid.org/0000-0002-9279-6725
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5080646741
+  display_name: "\u0160imon Kucharsk\xFD"
+  orcid: https://orcid.org/0000-0003-4192-1140
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5017160078
+  display_name: Alexander Ly
+  orcid: https://orcid.org/0000-0003-3925-3833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5018217587
+  display_name: Maarten Marsman
+  orcid: https://orcid.org/0000-0001-5309-7502
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5034870294
+  display_name: "D\xF3ra Matzke"
+  orcid: https://orcid.org/0000-0003-1990-0175
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5078024391
+  display_name: Akash Gupta
+  orcid: https://orcid.org/0000-0002-1499-6123
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5010594004
+  display_name: Alexandra Sarafoglou
+  orcid: https://orcid.org/0000-0003-0031-685X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5011175123
+  display_name: Angelika Marlene Stefan
+  orcid: https://orcid.org/0000-0003-3382-4746
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5008773289
+  display_name: Jan G. Voelkel
+  orcid: https://orcid.org/0000-0003-4275-9798
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stanford University, Stanford, California, USA
+- author_id: https://openalex.org/A5063079579
+  display_name: "Eric\u2010Jan Wagenmakers"
+  orcid: https://orcid.org/0000-0003-1596-1034
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Amsterdam, Amsterdam, Netherlands
+referenced_works:
+- https://openalex.org/W1533179050
+- https://openalex.org/W1568266824
+- https://openalex.org/W1575236038
+- https://openalex.org/W1603903339
+- https://openalex.org/W1913823733
+- https://openalex.org/W1964679133
+- https://openalex.org/W1978662219
+- https://openalex.org/W1993930160
+- https://openalex.org/W2002030061
+- https://openalex.org/W2002314603
+- https://openalex.org/W2020389170
+- https://openalex.org/W2027255954
+- https://openalex.org/W2029705137
+- https://openalex.org/W2039640683
+- https://openalex.org/W2047792536
+- https://openalex.org/W2058189433
+- https://openalex.org/W2064060303
+- https://openalex.org/W2082836633
+- https://openalex.org/W2088960431
+- https://openalex.org/W2093231522
+- https://openalex.org/W2099170797
+- https://openalex.org/W2124923373
+- https://openalex.org/W2142460408
+- https://openalex.org/W2149378760
+- https://openalex.org/W2161291623
+- https://openalex.org/W2167796542
+- https://openalex.org/W2173711304
+- https://openalex.org/W2217402295
+- https://openalex.org/W2335953718
+- https://openalex.org/W2409860581
+- https://openalex.org/W2414830033
+- https://openalex.org/W2526501380
+- https://openalex.org/W2547503455
+- https://openalex.org/W2557706156
+- https://openalex.org/W2577537660
+- https://openalex.org/W2587913434
+- https://openalex.org/W2606193717
+- https://openalex.org/W2728684585
+- https://openalex.org/W2742569683
+- https://openalex.org/W2749069611
+- https://openalex.org/W2765646069
+- https://openalex.org/W2784576540
+- https://openalex.org/W2788075142
+- https://openalex.org/W2788840418
+- https://openalex.org/W2788932152
+- https://openalex.org/W2805070761
+- https://openalex.org/W2903795409
+- https://openalex.org/W2911808884
+- https://openalex.org/W2923915792
+- https://openalex.org/W2963503496
+- https://openalex.org/W3000294554
+- https://openalex.org/W3001129757
+- https://openalex.org/W3037007306
+- https://openalex.org/W3161479348
+- https://openalex.org/W4211177544
+- https://openalex.org/W4214571833
+- https://openalex.org/W4242094059
+- https://openalex.org/W4244014173
+- https://openalex.org/W4385628968
+- https://openalex.org/W4386373863
+- https://openalex.org/W68436435
+primary_topic: Statistical Methods and Bayesian Inference
+open_access: true

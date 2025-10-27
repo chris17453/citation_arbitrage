@@ -1,0 +1,377 @@
+id: https://openalex.org/W3209984917
+doi: https://doi.org/10.1109/jstsp.2022.3188113
+title: 'WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing'
+publication_date: '2022-07-04'
+publication_year: 2022
+cited_by_count: 886
+citation_percentile: 0.999971
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5079533447
+  display_name: Sanyuan Chen
+  orcid: https://orcid.org/0000-0002-3082-6052
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I204983213
+    display_name: Harbin Institute of Technology
+    ror: https://ror.org/01yqg2h08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, Harbin Institute of Technology,
+    Harbin, China
+- author_id: https://openalex.org/A5101863385
+  display_name: Chengyi Wang
+  orcid: https://orcid.org/0000-0002-6780-9299
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205237279
+    display_name: Nankai University
+    ror: https://ror.org/01y1kjr75
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nankai University, Tianjin, China
+- author_id: https://openalex.org/A5101416769
+  display_name: Zhengyang Chen
+  orcid: https://orcid.org/0000-0003-1293-8146
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Jiao Tong University, Shanghai, China
+- author_id: https://openalex.org/A5101709477
+  display_name: Yu Wu
+  orcid: https://orcid.org/0000-0002-5715-3011
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+- author_id: https://openalex.org/A5101635405
+  display_name: Shujie Liu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+- author_id: https://openalex.org/A5100345062
+  display_name: Zhuo Chen
+  orcid: https://orcid.org/0000-0001-9991-6892
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5100365053
+  display_name: Jinyu Li
+  orcid: https://orcid.org/0000-0002-1089-9748
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5016279564
+  display_name: Naoyuki Kanda
+  orcid: https://orcid.org/0000-0002-8628-3288
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5101618071
+  display_name: Takuya Yoshioka
+  orcid: https://orcid.org/0009-0003-7791-3545
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5101602536
+  display_name: Xiong Xiao
+  orcid: https://orcid.org/0009-0001-5128-6518
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5101674460
+  display_name: Jian Wu
+  orcid: https://orcid.org/0000-0002-3101-7011
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5106557565
+  display_name: Long Zhou
+  orcid: https://orcid.org/0009-0006-1919-4943
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+- author_id: https://openalex.org/A5010323000
+  display_name: Shuo Ren
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+- author_id: https://openalex.org/A5100341993
+  display_name: Yanmin Qian
+  orcid: https://orcid.org/0000-0002-0314-3790
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Jiao Tong University, Shanghai, China
+- author_id: https://openalex.org/A5100342006
+  display_name: Yao Qian
+  orcid: https://orcid.org/0000-0003-1855-9630
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5101674460
+  display_name: Jian Wu
+  orcid: https://orcid.org/0000-0002-3101-7011
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5089195158
+  display_name: Michael Zeng
+  orcid: https://orcid.org/0000-0001-5302-5883
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corp., Redmond, WA, USA
+- author_id: https://openalex.org/A5072540013
+  display_name: Xiangzhan Yu
+  orcid: https://orcid.org/0000-0002-1183-2844
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204983213
+    display_name: Harbin Institute of Technology
+    ror: https://ror.org/01yqg2h08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, Harbin Institute of Technology,
+    Harbin, China
+- author_id: https://openalex.org/A5014662947
+  display_name: Furu Wei
+  orcid: https://orcid.org/0000-0002-7810-5852
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+referenced_works:
+- https://openalex.org/W125553504
+- https://openalex.org/W1494198834
+- https://openalex.org/W2030486566
+- https://openalex.org/W2069681747
+- https://openalex.org/W2117678320
+- https://openalex.org/W2127141656
+- https://openalex.org/W2157161740
+- https://openalex.org/W2219249508
+- https://openalex.org/W2331143823
+- https://openalex.org/W2696967604
+- https://openalex.org/W2726515241
+- https://openalex.org/W2758785877
+- https://openalex.org/W2765425905
+- https://openalex.org/W2803322398
+- https://openalex.org/W2808631503
+- https://openalex.org/W2842511635
+- https://openalex.org/W2896457183
+- https://openalex.org/W2908510526
+- https://openalex.org/W2936774411
+- https://openalex.org/W2950813464
+- https://openalex.org/W2951974815
+- https://openalex.org/W2953190524
+- https://openalex.org/W2962850167
+- https://openalex.org/W2963122170
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963403868
+- https://openalex.org/W2963618559
+- https://openalex.org/W2969985801
+- https://openalex.org/W2970597249
+- https://openalex.org/W2972712416
+- https://openalex.org/W2972943112
+- https://openalex.org/W2972949456
+- https://openalex.org/W2973049979
+- https://openalex.org/W2973157397
+- https://openalex.org/W2975381464
+- https://openalex.org/W2979476256
+- https://openalex.org/W2981087920
+- https://openalex.org/W2982223350
+- https://openalex.org/W2991213871
+- https://openalex.org/W2995181338
+- https://openalex.org/W2996383576
+- https://openalex.org/W3002741552
+- https://openalex.org/W3004728855
+- https://openalex.org/W3008181812
+- https://openalex.org/W3015213852
+- https://openalex.org/W3015265920
+- https://openalex.org/W3015356564
+- https://openalex.org/W3016010032
+- https://openalex.org/W3016011332
+- https://openalex.org/W3016181583
+- https://openalex.org/W3016232124
+- https://openalex.org/W3024869864
+- https://openalex.org/W3026868282
+- https://openalex.org/W3033627755
+- https://openalex.org/W3035202887
+- https://openalex.org/W3036601975
+- https://openalex.org/W3041561163
+- https://openalex.org/W3082274269
+- https://openalex.org/W3094374485
+- https://openalex.org/W3095173472
+- https://openalex.org/W3095189764
+- https://openalex.org/W3095212884
+- https://openalex.org/W3095292526
+- https://openalex.org/W3097286738
+- https://openalex.org/W3097777922
+- https://openalex.org/W3099782249
+- https://openalex.org/W3100270690
+- https://openalex.org/W3112034174
+- https://openalex.org/W3119308075
+- https://openalex.org/W3125596972
+- https://openalex.org/W3125709657
+- https://openalex.org/W3139918052
+- https://openalex.org/W3144173820
+- https://openalex.org/W3157923770
+- https://openalex.org/W3160936850
+- https://openalex.org/W3162648834
+- https://openalex.org/W3163842642
+- https://openalex.org/W3165647589
+- https://openalex.org/W3169320628
+- https://openalex.org/W3169688220
+- https://openalex.org/W3174648740
+- https://openalex.org/W3175898847
+- https://openalex.org/W3178296206
+- https://openalex.org/W3178462146
+- https://openalex.org/W3193846000
+- https://openalex.org/W3194687854
+- https://openalex.org/W3196857193
+- https://openalex.org/W3197042120
+- https://openalex.org/W3197580070
+- https://openalex.org/W3198270883
+- https://openalex.org/W3198694222
+- https://openalex.org/W3198698812
+- https://openalex.org/W3198771897
+- https://openalex.org/W3198858531
+- https://openalex.org/W3204696009
+- https://openalex.org/W3205495812
+- https://openalex.org/W3205644108
+- https://openalex.org/W3206252155
+- https://openalex.org/W3206996142
+- https://openalex.org/W3209059054
+- https://openalex.org/W3212799896
+- https://openalex.org/W3212886388
+- https://openalex.org/W4220731890
+- https://openalex.org/W4225661121
+- https://openalex.org/W4226033575
+- https://openalex.org/W4285250921
+- https://openalex.org/W4287120025
+- https://openalex.org/W4287374065
+- https://openalex.org/W4288089799
+- https://openalex.org/W4294796045
+- https://openalex.org/W4297808394
+- https://openalex.org/W4300427991
+- https://openalex.org/W4306169301
+- https://openalex.org/W4307023467
+- https://openalex.org/W4308349017
+- https://openalex.org/W4385245566
+primary_topic: Speech Recognition and Synthesis
+open_access: true

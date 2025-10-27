@@ -1,0 +1,600 @@
+id: https://openalex.org/W3090844627
+doi: https://doi.org/10.1038/s41586-020-2814-7
+title: COVID-19 vaccine BNT162b1 elicits human antibody and TH1 T cell responses
+publication_date: '2020-09-30'
+publication_year: 2020
+cited_by_count: 1887
+citation_percentile: 0.999954
+pagerank: 2.721352093663036e-06
+authorships:
+- author_id: https://openalex.org/A5075617216
+  display_name: "U\u011Fur \u015Eahin"
+  orcid: https://orcid.org/0000-0003-0363-1564
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I197323543
+    display_name: Johannes Gutenberg University Mainz
+    ror: https://ror.org/023b0x485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: true
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+  - "TRON gGmbH\u2013Translational Oncology at the University Medical Center of the\
+    \ Johannes Gutenberg, Mainz, Germany"
+- author_id: https://openalex.org/A5077529566
+  display_name: Alexander Muik
+  orcid: https://orcid.org/0000-0003-4561-2273
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5063812788
+  display_name: Evelyna Derhovanessian
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5060873943
+  display_name: Isabel Vogler
+  orcid: https://orcid.org/0000-0001-9757-9618
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5076886445
+  display_name: Lena M. Kranz
+  orcid: https://orcid.org/0000-0003-1943-3431
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5047907646
+  display_name: Mathias Vormehr
+  orcid: https://orcid.org/0000-0001-7788-3380
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5057491089
+  display_name: Alina Baum
+  orcid: https://orcid.org/0000-0001-7179-8679
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Pharmaceuticals, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5079355249
+  display_name: Kristen E. Pascal
+  orcid: https://orcid.org/0000-0003-4826-4606
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Pharmaceuticals, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5042689717
+  display_name: Jasmin Quandt
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5085139348
+  display_name: Daniel Maurus
+  orcid: https://orcid.org/0000-0003-2989-264X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5086349245
+  display_name: Sebastian Brachtendorf
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5081432976
+  display_name: "Verena L\xF6rks"
+  orcid: https://orcid.org/0000-0003-0673-9386
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5076423955
+  display_name: Julian Sikorski
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5051577744
+  display_name: Rolf Hilker
+  orcid: https://orcid.org/0000-0002-8576-7731
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5103086957
+  display_name: Dirk Becker
+  orcid: https://orcid.org/0000-0002-4786-9331
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5023509204
+  display_name: Ann-Kathrin Eller
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5108718397
+  display_name: "Jan Gr\xFCtzner"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5090976014
+  display_name: Carsten Boesler
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5040298800
+  display_name: Corinna Rosenbaum
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5046000796
+  display_name: "Marie-Cristine K\xFChnle"
+  orcid: https://orcid.org/0000-0003-0256-5542
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5027089346
+  display_name: Ulrich Luxemburger
+  orcid: https://orcid.org/0000-0003-3505-3236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5022451535
+  display_name: "Alexandra Kemmer-Br\xFCck"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5103700754
+  display_name: David Langer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5069589605
+  display_name: Martin Bexon
+  orcid: https://orcid.org/0000-0002-5361-4343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142945
+    display_name: Bexon Clinical Consulting (United States)
+    ror: https://ror.org/053rz5s61
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bexon Clinical Consulting, Upper Montclair, NJ, USA
+- author_id: https://openalex.org/A5024335304
+  display_name: Stefanie Bolte
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5030598859
+  display_name: "Katalin Karik\xF3"
+  orcid: https://orcid.org/0000-0002-1864-3851
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5067085257
+  display_name: Tania Palanche
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5079524622
+  display_name: Boris Fischer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5110177836
+  display_name: Armin Schultz
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210103903
+    display_name: Clinical Research Services
+    ror: https://ror.org/01c127k53
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CRS Clinical Research Services Mannheim GmbH, Mannheim, Germany
+- author_id: https://openalex.org/A5057764651
+  display_name: "Pei\u2010Yong Shi"
+  orcid: https://orcid.org/0000-0001-5553-1616
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I55302922
+    display_name: The University of Texas Medical Branch at Galveston
+    ror: https://ror.org/016tfm930
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Texas Medical Branch, Galveston, TX, USA
+- author_id: https://openalex.org/A5011216342
+  display_name: Camila R. Fontes-Garfias
+  orcid: https://orcid.org/0000-0002-1912-8413
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I55302922
+    display_name: The University of Texas Medical Branch at Galveston
+    ror: https://ror.org/016tfm930
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Texas Medical Branch, Galveston, TX, USA
+- author_id: https://openalex.org/A5025483944
+  display_name: John L. Perez
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5023919527
+  display_name: Kena A. Swanson
+  orcid: https://orcid.org/0000-0002-3389-8414
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5038384473
+  display_name: Jakob Loschko
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5066245741
+  display_name: Ingrid L. Scully
+  orcid: https://orcid.org/0000-0001-8249-0397
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5042404549
+  display_name: Mark Cutler
+  orcid: https://orcid.org/0000-0002-5302-5477
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5072923693
+  display_name: Warren V. Kalina
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5067322377
+  display_name: Christos A. Kyratsous
+  orcid: https://orcid.org/0000-0002-2596-2906
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Pharmaceuticals, Tarrytown, NY, USA
+- author_id: https://openalex.org/A5101834037
+  display_name: David Cooper
+  orcid: https://orcid.org/0000-0002-4595-3943
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5045224941
+  display_name: Philip R. Dormitzer
+  orcid: https://orcid.org/0000-0003-0671-6360
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5044292989
+  display_name: Kathrin U. Jansen
+  orcid: https://orcid.org/0000-0001-5354-4202
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, Pearl River, NY, USA
+- author_id: https://openalex.org/A5000036560
+  display_name: "\xD6zlem T\xFCreci"
+  orcid: https://orcid.org/0000-0002-0623-1497
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+referenced_works:
+- https://openalex.org/W1420726270
+- https://openalex.org/W1489984392
+- https://openalex.org/W1963706689
+- https://openalex.org/W1980497671
+- https://openalex.org/W2001275070
+- https://openalex.org/W2007265326
+- https://openalex.org/W2022990363
+- https://openalex.org/W2039422212
+- https://openalex.org/W2047882003
+- https://openalex.org/W2058647478
+- https://openalex.org/W2082458516
+- https://openalex.org/W2087802416
+- https://openalex.org/W2151809231
+- https://openalex.org/W2292472819
+- https://openalex.org/W2531641604
+- https://openalex.org/W2584249987
+- https://openalex.org/W2802953285
+- https://openalex.org/W2885263529
+- https://openalex.org/W2891486793
+- https://openalex.org/W2903777694
+- https://openalex.org/W2915991550
+- https://openalex.org/W2924788224
+- https://openalex.org/W2944588091
+- https://openalex.org/W3004735879
+- https://openalex.org/W3015751519
+- https://openalex.org/W3022878099
+- https://openalex.org/W3034425032
+- https://openalex.org/W3034548712
+- https://openalex.org/W3034673010
+- https://openalex.org/W3035764391
+- https://openalex.org/W3036529319
+- https://openalex.org/W3046115489
+- https://openalex.org/W3048620154
+- https://openalex.org/W3048799641
+- https://openalex.org/W3053491827
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

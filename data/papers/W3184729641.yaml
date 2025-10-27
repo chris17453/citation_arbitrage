@@ -1,0 +1,520 @@
+id: https://openalex.org/W3184729641
+doi: https://doi.org/10.1126/sciadv.abh2169
+title: "A single\u2013cell type transcriptomics map of human tissues"
+publication_date: '2021-07-28'
+publication_year: 2021
+cited_by_count: 1343
+citation_percentile: 0.999982
+pagerank: 2.6059039989405977e-06
+authorships:
+- author_id: https://openalex.org/A5001905839
+  display_name: Max Karlsson
+  orcid: https://orcid.org/0000-0002-7000-4416
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5066830496
+  display_name: Cheng Zhang
+  orcid: https://orcid.org/0000-0002-3721-8586
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5000341430
+  display_name: "Loren M\xE9ar"
+  orcid: https://orcid.org/0000-0001-9333-0110
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123387679
+    display_name: Uppsala University
+    ror: https://ror.org/048a87296
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala,
+    Sweden.
+- author_id: https://openalex.org/A5024297089
+  display_name: Wen Zhong
+  orcid: https://orcid.org/0000-0002-7422-6104
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5033508194
+  display_name: Andreas Digre
+  orcid: https://orcid.org/0000-0003-1145-6700
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123387679
+    display_name: Uppsala University
+    ror: https://ror.org/048a87296
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala,
+    Sweden.
+- author_id: https://openalex.org/A5068230134
+  display_name: Borbala Katona
+  orcid: https://orcid.org/0000-0003-2431-5288
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123387679
+    display_name: Uppsala University
+    ror: https://ror.org/048a87296
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala,
+    Sweden.
+- author_id: https://openalex.org/A5090268234
+  display_name: "Evelina Sj\xF6stedt"
+  orcid: https://orcid.org/0000-0002-0327-7377
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.
+- author_id: https://openalex.org/A5011635059
+  display_name: Lynn M. Butler
+  orcid: https://orcid.org/0000-0002-2352-8217
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  - id: https://openalex.org/I78037679
+    display_name: UiT The Arctic University of Norway
+    ror: https://ror.org/00wge5k78
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Chemistry, Karolinska University Laboratory, Karolinska University Hospital,
+    Stockholm, Sweden.
+  - "Department of Clinical Medicine, The Arctic University of Norway, Troms\xF8,\
+    \ Norway."
+  - Department of Molecular Medicine and Surgery, Karolinska Institute, Stockholm,
+    Sweden.
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5080838497
+  display_name: Jacob Odeberg
+  orcid: https://orcid.org/0000-0003-0996-1644
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I78037679
+    display_name: UiT The Arctic University of Norway
+    ror: https://ror.org/00wge5k78
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Clinical Medicine, The Arctic University of Norway, Troms\xF8,\
+    \ Norway."
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5084280756
+  display_name: Philip Dusart
+  orcid: https://orcid.org/0000-0003-2747-3214
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I78037679
+    display_name: UiT The Arctic University of Norway
+    ror: https://ror.org/00wge5k78
+    country_code: 'NO'
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Clinical Medicine, The Arctic University of Norway, Troms\xF8,\
+    \ Norway."
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5008837353
+  display_name: Fredrik Edfors
+  orcid: https://orcid.org/0000-0002-0017-7987
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5039653029
+  display_name: Per Oksvold
+  orcid: https://orcid.org/0000-0003-3014-5502
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5040376096
+  display_name: Kalle von Feilitzen
+  orcid: https://orcid.org/0000-0002-0257-7554
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5052117578
+  display_name: Martin Zwahlen
+  orcid: https://orcid.org/0000-0002-0064-4776
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5100601273
+  display_name: Muhammad Arif
+  orcid: https://orcid.org/0000-0003-2261-0881
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5067366640
+  display_name: "\xD6zlem Altay"
+  orcid: https://orcid.org/0000-0002-2851-9651
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5100460323
+  display_name: "Xiangy\xFC Li"
+  orcid: https://orcid.org/0000-0002-8301-9959
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5084355284
+  display_name: "Mehmet \xD6zcan"
+  orcid: https://orcid.org/0000-0002-1222-2802
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5033316206
+  display_name: "Adil Mardino\u011Flu"
+  orcid: https://orcid.org/0000-0002-4254-6090
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5021112720
+  display_name: Linn Fagerberg
+  orcid: https://orcid.org/0000-0003-0198-7137
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5006871697
+  display_name: Jan Mulder
+  orcid: https://orcid.org/0000-0003-3717-5018
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.
+- author_id: https://openalex.org/A5036195699
+  display_name: Yonglun Luo
+  orcid: https://orcid.org/0000-0002-0007-7759
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204337017
+    display_name: Aarhus University
+    ror: https://ror.org/01aj84f44
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+  - Lars Bolund Institute of Regenerative Medicine and Qingdao-Europe Advanced Institute
+    for Life Sciences, BGI-Qingdao, BGI-Shenzhen, Qingdao, China.
+- author_id: https://openalex.org/A5005639182
+  display_name: "Fredrik Pont\xE9n"
+  orcid: https://orcid.org/0000-0003-0703-3940
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123387679
+    display_name: Uppsala University
+    ror: https://ror.org/048a87296
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala,
+    Sweden.
+- author_id: https://openalex.org/A5060241561
+  display_name: "Mathias Uhl\xE9n"
+  orcid: https://orcid.org/0000-0002-4858-8056
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800139495
+    display_name: Science for Life Laboratory
+    ror: https://ror.org/04ev03g22
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.
+  - Science for Life Laboratory, Department of Protein Science, KTH-Royal Institute
+    of Technology, Stockholm, Sweden.
+- author_id: https://openalex.org/A5029528576
+  display_name: Cecilia Lindskog
+  orcid: https://orcid.org/0000-0001-5611-1015
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I123387679
+    display_name: Uppsala University
+    ror: https://ror.org/048a87296
+    country_code: SE
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala,
+    Sweden.
+referenced_works:
+- https://openalex.org/W1934704664
+- https://openalex.org/W2002500046
+- https://openalex.org/W2012034410
+- https://openalex.org/W2055655674
+- https://openalex.org/W2068391384
+- https://openalex.org/W2123273050
+- https://openalex.org/W2127274965
+- https://openalex.org/W2159675211
+- https://openalex.org/W2180291937
+- https://openalex.org/W2343956310
+- https://openalex.org/W2471536144
+- https://openalex.org/W2507306980
+- https://openalex.org/W2612519453
+- https://openalex.org/W2793291000
+- https://openalex.org/W2896156331
+- https://openalex.org/W2896518632
+- https://openalex.org/W2900144939
+- https://openalex.org/W2916244827
+- https://openalex.org/W2949237386
+- https://openalex.org/W2950114058
+- https://openalex.org/W2950891712
+- https://openalex.org/W2952038178
+- https://openalex.org/W2969948459
+- https://openalex.org/W2981346196
+- https://openalex.org/W2990171578
+- https://openalex.org/W2996045117
+- https://openalex.org/W2997954936
+- https://openalex.org/W2999577865
+- https://openalex.org/W3009746164
+- https://openalex.org/W3020212197
+- https://openalex.org/W3022882652
+- https://openalex.org/W4205990802
+- https://openalex.org/W4213108508
+primary_topic: Single-cell and spatial transcriptomics
+open_access: true

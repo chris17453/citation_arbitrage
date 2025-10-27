@@ -1,0 +1,422 @@
+id: https://openalex.org/W3118643387
+doi: https://doi.org/10.1073/pnas.2014564118
+title: An evidence review of face masks against COVID-19
+publication_date: '2021-01-11'
+publication_year: 2021
+cited_by_count: 1211
+citation_percentile: 0.999667
+pagerank: 2.5812083167503776e-06
+authorships:
+- author_id: https://openalex.org/A5007075789
+  display_name: Jeremy Howard
+  orcid: https://orcid.org/0000-0002-3102-9282
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I76766440
+    display_name: University of San Francisco
+    ror: https://ror.org/029m7xn54
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Data Institute, University of San Francisco, San Francisco, CA 94105
+  - Data Institute, University of San Francisco, San Francisco, CA 94105;
+- author_id: https://openalex.org/A5103078881
+  display_name: Austin Huang
+  orcid: https://orcid.org/0000-0003-1349-4030
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27804330
+    display_name: Brown University
+    ror: https://ror.org/05gq02987
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Warren Alpert School of Medicine, Brown University, Providence, RI 02903;
+- author_id: https://openalex.org/A5100337921
+  display_name: Zhiyuan Li
+  orcid: https://orcid.org/0000-0001-6662-2636
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Quantitative Biology, Peking University, Beijing 100871, China;
+- author_id: https://openalex.org/A5044522704
+  display_name: "Zeynep T\xFCfek\xE7i"
+  orcid: https://orcid.org/0000-0002-7806-0025
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Information, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC 27599;
+- author_id: https://openalex.org/A5069181410
+  display_name: "Vladim\u0131\u0301r \u017Dd\u0131\u0301mal"
+  orcid: https://orcid.org/0000-0002-8167-1804
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210118944
+    display_name: Czech Academy of Sciences, Institute of Chemical Process Fundamentals
+    ror: https://ror.org/02acv3g39
+    country_code: CZ
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Chemical Process Fundamentals, Czech Academy of Sciences, CZ-165
+    02 Praha 6, Czech Republic;
+- author_id: https://openalex.org/A5045401433
+  display_name: "Helene\u2010Mari van der Westhuizen"
+  orcid: https://orcid.org/0000-0002-9233-2349
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Primary Health Care Sciences, University of Oxford, Oxford OX2 6GG,
+    United Kingdom;
+  - TB Proof, Cape Town 7130, South Africa;
+- author_id: https://openalex.org/A5069779889
+  display_name: Arne von Delft
+  orcid: https://orcid.org/0000-0002-8785-9672
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Public Health and Family Medicine, University of Cape Town, Cape Town
+    7925, South Africa;
+  - TB Proof, Cape Town 7130, South Africa;
+- author_id: https://openalex.org/A5071658432
+  display_name: Amy Price
+  orcid: https://orcid.org/0000-0002-5200-7322
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Anesthesia Informatics and Media Lab, School of Medicine, Stanford University,
+    Stanford, CA 94305;
+- author_id: https://openalex.org/A5109009001
+  display_name: Lex Fridman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I46020346
+    display_name: American Institute of Aeronautics and Astronautics
+    ror: https://ror.org/00a1rzv11
+    country_code: US
+    type: other
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Aeronautics and Astronautics, Massachusetts Institute of Technology,
+    Cambridge, MA 02139;
+- author_id: https://openalex.org/A5014230214
+  display_name: "Lei\u2010Han Tang"
+  orcid: https://orcid.org/0000-0002-2925-4691
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141568987
+    display_name: Hong Kong Baptist University
+    ror: https://ror.org/0145fw131
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210139958
+    display_name: Beijing Computational Science Research Center
+    ror: https://ror.org/04tavf782
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Complex Systems Division, Beijing Computational Science Research Center, Beijing
+    100193, China;
+  - Department of Physics, Hong Kong Baptist University, Hong Kong SAR, China;
+- author_id: https://openalex.org/A5064923052
+  display_name: Viola Tang
+  orcid: https://orcid.org/0000-0002-8942-0348
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Information Systems, Business Statistics and Operations Management,
+    Hong Kong University of Science and Technology, Hong Kong SAR, China;
+- author_id: https://openalex.org/A5078844896
+  display_name: Gregory L. Watson
+  orcid: https://orcid.org/0000-0001-7597-7359
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, Jonathan and Karin Fielding School of Public Health,
+    University of California, Los Angeles, CA 90095;
+- author_id: https://openalex.org/A5041905033
+  display_name: Christina E. Bax
+  orcid: https://orcid.org/0000-0003-1319-3318
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104;
+- author_id: https://openalex.org/A5014569011
+  display_name: Reshama Shaikh
+  orcid: https://orcid.org/0000-0003-4162-4453
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Umbrella, New York, NY 10031;
+- author_id: https://openalex.org/A5045261904
+  display_name: Frederik Questier
+  orcid: https://orcid.org/0000-0002-5596-3635
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I13469542
+    display_name: Vrije Universiteit Brussel
+    ror: https://ror.org/006e5kg04
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Teacher Education Department, Vrije Universiteit Brussel, 1050 Brussels, Belgium;
+- author_id: https://openalex.org/A5050358005
+  display_name: Danny Hernandez
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210161460
+    display_name: OpenAI (United States)
+    ror: https://ror.org/05wx9n238
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - OpenAI, San Francisco, CA 94110;
+- author_id: https://openalex.org/A5055388471
+  display_name: Larry F. Chu
+  orcid: https://orcid.org/0000-0003-0814-6402
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Anesthesia Informatics and Media Lab, School of Medicine, Stanford University,
+    Stanford, CA 94305;
+- author_id: https://openalex.org/A5022088425
+  display_name: Christina M. Ramirez
+  orcid: https://orcid.org/0000-0002-8435-0416
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, Jonathan and Karin Fielding School of Public Health,
+    University of California, Los Angeles, CA 90095;
+- author_id: https://openalex.org/A5051618172
+  display_name: Anne W. Rimoin
+  orcid: https://orcid.org/0000-0002-0662-9067
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, Jonathan and Karin Fielding School of Public Health,
+    University of California, Los Angeles, CA 90095
+referenced_works:
+- https://openalex.org/W101453954
+- https://openalex.org/W107445295
+- https://openalex.org/W1508421566
+- https://openalex.org/W1513347406
+- https://openalex.org/W1534533078
+- https://openalex.org/W1573010155
+- https://openalex.org/W1598602811
+- https://openalex.org/W1752853641
+- https://openalex.org/W1847197576
+- https://openalex.org/W1933602342
+- https://openalex.org/W1968179080
+- https://openalex.org/W1973205397
+- https://openalex.org/W1977330440
+- https://openalex.org/W1982457897
+- https://openalex.org/W1989894612
+- https://openalex.org/W1995279448
+- https://openalex.org/W1996891653
+- https://openalex.org/W1999273822
+- https://openalex.org/W2008023447
+- https://openalex.org/W2008246925
+- https://openalex.org/W2010483931
+- https://openalex.org/W2017186946
+- https://openalex.org/W2021237924
+- https://openalex.org/W2022972451
+- https://openalex.org/W2024547785
+- https://openalex.org/W2034986334
+- https://openalex.org/W2038524867
+- https://openalex.org/W2044998594
+- https://openalex.org/W2049332044
+- https://openalex.org/W2057566013
+- https://openalex.org/W2058763756
+- https://openalex.org/W2061609002
+- https://openalex.org/W2080174204
+- https://openalex.org/W2085955325
+- https://openalex.org/W2109862115
+- https://openalex.org/W2112374978
+- https://openalex.org/W2121685612
+- https://openalex.org/W2125146823
+- https://openalex.org/W2147286672
+- https://openalex.org/W2160453697
+- https://openalex.org/W2160471677
+- https://openalex.org/W2161872802
+- https://openalex.org/W2162318273
+- https://openalex.org/W2166716519
+- https://openalex.org/W2170188223
+- https://openalex.org/W2172105619
+- https://openalex.org/W2199055122
+- https://openalex.org/W2257632633
+- https://openalex.org/W2319675920
+- https://openalex.org/W2326787168
+- https://openalex.org/W2516521801
+- https://openalex.org/W2567362164
+- https://openalex.org/W2616792554
+- https://openalex.org/W26620158
+- https://openalex.org/W2755194400
+- https://openalex.org/W2783303681
+- https://openalex.org/W2791737235
+- https://openalex.org/W2884877134
+- https://openalex.org/W2890269687
+- https://openalex.org/W2905326234
+- https://openalex.org/W2921493711
+- https://openalex.org/W2948653659
+- https://openalex.org/W2955390811
+- https://openalex.org/W2970097668
+- https://openalex.org/W2971605747
+- https://openalex.org/W2978795816
+- https://openalex.org/W2989715531
+- https://openalex.org/W3006961006
+- https://openalex.org/W3010233963
+- https://openalex.org/W3010785824
+- https://openalex.org/W3011210109
+- https://openalex.org/W3011354646
+- https://openalex.org/W3011632109
+- https://openalex.org/W3012099172
+- https://openalex.org/W3012756997
+- https://openalex.org/W3012978932
+- https://openalex.org/W3013806565
+- https://openalex.org/W3013893137
+- https://openalex.org/W3014043262
+- https://openalex.org/W3014271510
+- https://openalex.org/W3014518218
+- https://openalex.org/W3014615840
+- https://openalex.org/W3014947565
+- https://openalex.org/W3015056889
+- https://openalex.org/W3015113697
+- https://openalex.org/W3016144243
+- https://openalex.org/W3016873990
+- https://openalex.org/W3017190864
+- https://openalex.org/W3018363786
+- https://openalex.org/W3019379982
+- https://openalex.org/W3019457420
+- https://openalex.org/W3021422441
+- https://openalex.org/W3021885406
+- https://openalex.org/W3022125993
+- https://openalex.org/W3022209591
+- https://openalex.org/W3023441241
+- https://openalex.org/W3023921290
+- https://openalex.org/W3024625724
+- https://openalex.org/W3025605598
+- https://openalex.org/W3027577689
+- https://openalex.org/W3028953168
+- https://openalex.org/W3029057613
+- https://openalex.org/W3029093665
+- https://openalex.org/W3029705204
+- https://openalex.org/W3029827942
+- https://openalex.org/W3029978176
+- https://openalex.org/W3030803715
+- https://openalex.org/W3030932443
+- https://openalex.org/W3031834099
+- https://openalex.org/W3032742287
+- https://openalex.org/W3033900100
+- https://openalex.org/W3034562519
+- https://openalex.org/W3034749808
+- https://openalex.org/W3035125447
+- https://openalex.org/W3035301778
+- https://openalex.org/W3035550116
+- https://openalex.org/W3038211205
+- https://openalex.org/W3038406893
+- https://openalex.org/W3040057237
+- https://openalex.org/W3044334252
+- https://openalex.org/W3045240574
+- https://openalex.org/W3046057866
+- https://openalex.org/W3068743394
+- https://openalex.org/W3074508511
+- https://openalex.org/W3082176204
+- https://openalex.org/W3094094288
+- https://openalex.org/W3096678352
+- https://openalex.org/W3116932494
+- https://openalex.org/W3122345413
+- https://openalex.org/W3124744205
+- https://openalex.org/W3165838540
+- https://openalex.org/W3204894501
+- https://openalex.org/W4206534230
+- https://openalex.org/W4225331874
+- https://openalex.org/W4229072510
+- https://openalex.org/W4254896200
+- https://openalex.org/W650465856
+primary_topic: Infection Control and Ventilation
+open_access: true

@@ -1,0 +1,621 @@
+id: https://openalex.org/W3003058300
+doi: https://doi.org/10.1038/s41568-019-0238-1
+title: A framework for advancing our understanding of cancer-associated fibroblasts
+publication_date: '2020-01-24'
+publication_year: 2020
+cited_by_count: 3040
+citation_percentile: 0.999611
+pagerank: 2.636140279737188e-06
+authorships:
+- author_id: https://openalex.org/A5078706868
+  display_name: Erik Sahai
+  orcid: https://orcid.org/0000-0002-3932-5086
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2801081054
+    display_name: The Francis Crick Institute
+    ror: https://ror.org/04tnbqb63
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - The Francis Crick Institute, London, UK
+- author_id: https://openalex.org/A5087332592
+  display_name: Igor Astsaturov
+  orcid: https://orcid.org/0000-0002-8613-1890
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1289437631
+    display_name: Fox Chase Cancer Center
+    ror: https://ror.org/0567t7073
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marvin and Concetta Greenberg Pancreatic Cancer Institute, Fox Chase Cancer Center,
+    Philadelphia, PA, USA
+- author_id: https://openalex.org/A5038454044
+  display_name: Edna Cukierman
+  orcid: https://orcid.org/0000-0002-1452-9576
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1289437631
+    display_name: Fox Chase Cancer Center
+    ror: https://ror.org/0567t7073
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Biology Program, Marvin & Concetta Greenberg Pancreatic Cancer Institute,
+    Fox Chase Cancer Center, Philadelphia, PA, USA
+- author_id: https://openalex.org/A5066901504
+  display_name: David G. DeNardo
+  orcid: https://orcid.org/0000-0002-3655-5783
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Oncology, Washington University Medical School, St Louis, MO, USA
+- author_id: https://openalex.org/A5006671000
+  display_name: Mikala Egeblad
+  orcid: https://orcid.org/0000-0002-3371-1445
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2750212522
+    display_name: Cold Spring Harbor Laboratory
+    ror: https://ror.org/02qz8b764
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA
+- author_id: https://openalex.org/A5087519016
+  display_name: Ronald M. Evans
+  orcid: https://orcid.org/0000-0002-9986-5965
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1307098950
+    display_name: Salk Institute for Biological Studies
+    ror: https://ror.org/03xez1567
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Gene Expression Laboratory, Salk Institute for Biological Studies, La Jolla, CA,
+    USA
+- author_id: https://openalex.org/A5085595853
+  display_name: Douglas T. Fearon
+  orcid: https://orcid.org/0000-0003-0612-0495
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2750212522
+    display_name: Cold Spring Harbor Laboratory
+    ror: https://ror.org/02qz8b764
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA
+- author_id: https://openalex.org/A5002204711
+  display_name: Florian R. Greten
+  orcid: https://orcid.org/0000-0002-3928-6080
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153469
+    display_name: Georg Speyer Haus
+    ror: https://ror.org/04xmnzw38
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Tumor Biology and Experimental Therapy, Georg-Speyer-Haus, Frankfurt,
+    Germany
+- author_id: https://openalex.org/A5013925502
+  display_name: Sunil R. Hingorani
+  orcid: https://orcid.org/0000-0002-3869-8729
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Fred Hutchinson Cancer Research Center, Seattle, WA, USA
+- author_id: https://openalex.org/A5010612497
+  display_name: Tony Hunter
+  orcid: https://orcid.org/0000-0002-7691-6993
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1307098950
+    display_name: Salk Institute for Biological Studies
+    ror: https://ror.org/03xez1567
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular and Cell Biology Laboratory, Salk Institute for Biological Studies,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5030647867
+  display_name: Richard O. Hynes
+  orcid: https://orcid.org/0000-0001-7603-8396
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology,
+    Cambridge, MA, USA
+- author_id: https://openalex.org/A5015585176
+  display_name: Rakesh K. Jain
+  orcid: https://orcid.org/0000-0001-7571-3548
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Edwin L Steele Laboratories, Department of Radiation Oncology, Massachusetts General
+    Hospital, Harvard Medical School, Boston, MA, USA
+- author_id: https://openalex.org/A5070960728
+  display_name: Tobias Janowitz
+  orcid: https://orcid.org/0000-0002-7820-3727
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2750212522
+    display_name: Cold Spring Harbor Laboratory
+    ror: https://ror.org/02qz8b764
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA
+- author_id: https://openalex.org/A5037846010
+  display_name: "Claus J\xF8rgensen"
+  orcid: https://orcid.org/0000-0002-7841-943X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210129527
+    display_name: Cancer Research UK Manchester Institute
+    ror: https://ror.org/037405c78
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Research UK Manchester Institute, University of Manchester, Nether Alderley,
+    UK
+- author_id: https://openalex.org/A5011348783
+  display_name: Alec C. Kimmelman
+  orcid: https://orcid.org/0009-0002-9465-8411
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210086933
+    display_name: NYU Langone Health
+    ror: https://ror.org/005dvqh91
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology, Perlmutter Cancer Center, New York University
+    Medical Center, New York, NY, USA
+- author_id: https://openalex.org/A5002631655
+  display_name: Mikhail G. Kolonin
+  orcid: https://orcid.org/0000-0002-3743-7869
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136062
+    display_name: Brown Foundation
+    ror: https://ror.org/04j0y0e37
+    country_code: US
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Brown Foundation Institute of Molecular Medicine, The University of Texas Health
+    Sciences Center at Houston, Houston, TX, USA
+- author_id: https://openalex.org/A5068677359
+  display_name: Robert G. Maki
+  orcid: https://orcid.org/0000-0002-9853-2528
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1302444339
+    display_name: Northwell Health
+    ror: https://ror.org/02bxt4m23
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Northwell Health Cancer Institute, New York, NY, USA
+- author_id: https://openalex.org/A5023989605
+  display_name: Scott Powers
+  orcid: https://orcid.org/0000-0003-2769-1932
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I59553526
+    display_name: Stony Brook University
+    ror: https://ror.org/05qghxh33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Stony Brook University, Stony Brook, NY, USA
+- author_id: https://openalex.org/A5004098027
+  display_name: "Ellen Pur\xE9"
+  orcid: https://orcid.org/0000-0003-2107-3711
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Sciences, School of Veterinary Medicine, University of
+    Pennsylvania, Philadelphia, PA, USA
+- author_id: https://openalex.org/A5052714076
+  display_name: Daniel C. Ramirez
+  orcid: https://orcid.org/0000-0003-1388-7002
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I139290212
+    display_name: Hofstra University
+    ror: https://ror.org/03pm18j10
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1302444339
+    display_name: Northwell Health
+    ror: https://ror.org/02bxt4m23
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zucker School of Medicine at Hofstra/Northwell Health System, New York, NY, USA
+- author_id: https://openalex.org/A5006544087
+  display_name: "Ruth Scherz\u2010Shouval"
+  orcid: https://orcid.org/0000-0002-4570-121X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I53964585
+    display_name: Weizmann Institute of Science
+    ror: https://ror.org/0316ej306
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomolecular Sciences, The Weizmann Institute of Science, Rehovot,
+    Israel
+- author_id: https://openalex.org/A5035829341
+  display_name: Mara H. Sherman
+  orcid: https://orcid.org/0000-0001-7826-3888
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell, Developmental & Cancer Biology, Oregon Health & Science University,
+    Portland, OR, USA
+- author_id: https://openalex.org/A5025471313
+  display_name: Sheila A. Stewart
+  orcid: https://orcid.org/0000-0002-2260-9576
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology and Physiology, Department of Medicine, ICCE Institute,
+    Siteman Cancer Center, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5112516316
+  display_name: Thea D. Tlsty
+  orcid: https://orcid.org/0000-0003-0903-1631
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210167126
+    display_name: UCSF Helen Diller Family Comprehensive Cancer Center
+    ror: https://ror.org/05yndxy10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UCSF Helen Diller Comprehensive Cancer Center, San Francisco, CA, USA
+- author_id: https://openalex.org/A5072185005
+  display_name: David A. Tuveson
+  orcid: https://orcid.org/0000-0002-8017-2712
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2750212522
+    display_name: Cold Spring Harbor Laboratory
+    ror: https://ror.org/02qz8b764
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA
+- author_id: https://openalex.org/A5068471552
+  display_name: Fiona M. Watt
+  orcid: https://orcid.org/0000-0001-9151-5154
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1298207432
+    display_name: Guy's Hospital
+    ror: https://ror.org/04r33pf22
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Stem Cells and Regenerative Medicine, King's College London, Guy's
+    Hospital, London, UK
+- author_id: https://openalex.org/A5022114303
+  display_name: Valerie M. Weaver
+  orcid: https://orcid.org/0000-0003-4786-6752
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Bioengineering and Tissue Regeneration, Department of Surgery, University
+    of California, San Francisco, San Francisco, CA, USA
+- author_id: https://openalex.org/A5085589424
+  display_name: Ashani T. Weeraratna
+  orcid: https://orcid.org/0000-0003-0448-6952
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210164401
+    display_name: Sidney Kimmel Comprehensive Cancer Center
+    ror: https://ror.org/05m5b8x20
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210106595
+    display_name: Sidney Kimmel Cancer Center
+    ror: https://ror.org/010h6g454
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sidney Kimmel Cancer Center, Johns Hopkins School of Medicine, Baltimore, MD,
+    USA
+- author_id: https://openalex.org/A5048523154
+  display_name: Zena Werb
+  orcid: https://orcid.org/0000-0002-6525-3872
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anatomy, University of California, San Francisco, San Francisco,
+    CA, USA
+referenced_works:
+- https://openalex.org/W1224756471
+- https://openalex.org/W1526847097
+- https://openalex.org/W1572890328
+- https://openalex.org/W1598296711
+- https://openalex.org/W1747944491
+- https://openalex.org/W1907149477
+- https://openalex.org/W1914096163
+- https://openalex.org/W1917974963
+- https://openalex.org/W1934094702
+- https://openalex.org/W1940485834
+- https://openalex.org/W1952391983
+- https://openalex.org/W1959606306
+- https://openalex.org/W1967708173
+- https://openalex.org/W1973767497
+- https://openalex.org/W1977381126
+- https://openalex.org/W1985314055
+- https://openalex.org/W1985549756
+- https://openalex.org/W1996912024
+- https://openalex.org/W2001114745
+- https://openalex.org/W2001733842
+- https://openalex.org/W2002733746
+- https://openalex.org/W2010645803
+- https://openalex.org/W2010885105
+- https://openalex.org/W2016193552
+- https://openalex.org/W2020575974
+- https://openalex.org/W2031409539
+- https://openalex.org/W2033998652
+- https://openalex.org/W2038034756
+- https://openalex.org/W2038569449
+- https://openalex.org/W2041237929
+- https://openalex.org/W2043664496
+- https://openalex.org/W2044339772
+- https://openalex.org/W2048253455
+- https://openalex.org/W2049233086
+- https://openalex.org/W2050752490
+- https://openalex.org/W2051696368
+- https://openalex.org/W2053007259
+- https://openalex.org/W2055091294
+- https://openalex.org/W2055463899
+- https://openalex.org/W2055624262
+- https://openalex.org/W2056574134
+- https://openalex.org/W2060934232
+- https://openalex.org/W2061346823
+- https://openalex.org/W2062809449
+- https://openalex.org/W2076891934
+- https://openalex.org/W2077429419
+- https://openalex.org/W2079488858
+- https://openalex.org/W2083166046
+- https://openalex.org/W2085121865
+- https://openalex.org/W2085963386
+- https://openalex.org/W2086834665
+- https://openalex.org/W2088110734
+- https://openalex.org/W2091590272
+- https://openalex.org/W2093463613
+- https://openalex.org/W2097774418
+- https://openalex.org/W2097862336
+- https://openalex.org/W2097968887
+- https://openalex.org/W2098054841
+- https://openalex.org/W2099052265
+- https://openalex.org/W2100039832
+- https://openalex.org/W2106572080
+- https://openalex.org/W2107441200
+- https://openalex.org/W2109445521
+- https://openalex.org/W2112910223
+- https://openalex.org/W2113150805
+- https://openalex.org/W2113240092
+- https://openalex.org/W2115226530
+- https://openalex.org/W2121262075
+- https://openalex.org/W2123584388
+- https://openalex.org/W2126925922
+- https://openalex.org/W2128668256
+- https://openalex.org/W2129204158
+- https://openalex.org/W2131631451
+- https://openalex.org/W2133490025
+- https://openalex.org/W2135114065
+- https://openalex.org/W2136174986
+- https://openalex.org/W2137217704
+- https://openalex.org/W2137816700
+- https://openalex.org/W2138871107
+- https://openalex.org/W2139325323
+- https://openalex.org/W2141815918
+- https://openalex.org/W2142755954
+- https://openalex.org/W2144325011
+- https://openalex.org/W2146749615
+- https://openalex.org/W2146971577
+- https://openalex.org/W2147650118
+- https://openalex.org/W2150461375
+- https://openalex.org/W2156569937
+- https://openalex.org/W2160108544
+- https://openalex.org/W2160698607
+- https://openalex.org/W2169281418
+- https://openalex.org/W2170956329
+- https://openalex.org/W2171102578
+- https://openalex.org/W2171157655
+- https://openalex.org/W2171352366
+- https://openalex.org/W2185467239
+- https://openalex.org/W2189406882
+- https://openalex.org/W2217024048
+- https://openalex.org/W2222290333
+- https://openalex.org/W2258383155
+- https://openalex.org/W2263390674
+- https://openalex.org/W2274666458
+- https://openalex.org/W2299095671
+- https://openalex.org/W2314266733
+- https://openalex.org/W2315129148
+- https://openalex.org/W2336583997
+- https://openalex.org/W2341205093
+- https://openalex.org/W2376800108
+- https://openalex.org/W2400935955
+- https://openalex.org/W2442704894
+- https://openalex.org/W2469223980
+- https://openalex.org/W2512899508
+- https://openalex.org/W2516006356
+- https://openalex.org/W2517354454
+- https://openalex.org/W2553667461
+- https://openalex.org/W2555981673
+- https://openalex.org/W2561396377
+- https://openalex.org/W2561691830
+- https://openalex.org/W2579216462
+- https://openalex.org/W2582965286
+- https://openalex.org/W2586149603
+- https://openalex.org/W2588118089
+- https://openalex.org/W2590390825
+- https://openalex.org/W2613010545
+- https://openalex.org/W2730083492
+- https://openalex.org/W2753965489
+- https://openalex.org/W2764256970
+- https://openalex.org/W2771542157
+- https://openalex.org/W2772923107
+- https://openalex.org/W2774304513
+- https://openalex.org/W2774991280
+- https://openalex.org/W2781198385
+- https://openalex.org/W2783271194
+- https://openalex.org/W2785291766
+- https://openalex.org/W2785713700
+- https://openalex.org/W2785803176
+- https://openalex.org/W2786031287
+- https://openalex.org/W2786421413
+- https://openalex.org/W2788975052
+- https://openalex.org/W2790543400
+- https://openalex.org/W2796997430
+- https://openalex.org/W2809059040
+- https://openalex.org/W2865352686
+- https://openalex.org/W2895129523
+- https://openalex.org/W2895240612
+- https://openalex.org/W2895250239
+- https://openalex.org/W2898435366
+- https://openalex.org/W2901515128
+- https://openalex.org/W2901741449
+- https://openalex.org/W2902447942
+- https://openalex.org/W2911197932
+- https://openalex.org/W2911526204
+- https://openalex.org/W2920295895
+- https://openalex.org/W2920517824
+- https://openalex.org/W2922178589
+- https://openalex.org/W2936366750
+- https://openalex.org/W2943306398
+- https://openalex.org/W2943362985
+- https://openalex.org/W2944168058
+- https://openalex.org/W2944564829
+- https://openalex.org/W2947955936
+- https://openalex.org/W2948679696
+- https://openalex.org/W2949633340
+- https://openalex.org/W2949851288
+- https://openalex.org/W2951222857
+- https://openalex.org/W2951737903
+- https://openalex.org/W2955755158
+- https://openalex.org/W2955881766
+- https://openalex.org/W2963431641
+- https://openalex.org/W2963936065
+- https://openalex.org/W2968449628
+- https://openalex.org/W2969111064
+- https://openalex.org/W3024031448
+- https://openalex.org/W3025442594
+- https://openalex.org/W3026855035
+- https://openalex.org/W3028560143
+- https://openalex.org/W3033906762
+- https://openalex.org/W4244129533
+primary_topic: Cancer Cells and Metastasis
+open_access: true

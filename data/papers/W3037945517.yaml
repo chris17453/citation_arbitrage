@@ -1,0 +1,2064 @@
+id: https://openalex.org/W3037945517
+doi: https://doi.org/10.1016/j.cell.2020.06.034
+title: The Global Phosphorylation Landscape of SARS-CoV-2 Infection
+publication_date: '2020-06-28'
+publication_year: 2020
+cited_by_count: 1058
+citation_percentile: 0.999919
+pagerank: 2.59255533283041e-06
+authorships:
+- author_id: https://openalex.org/A5051653899
+  display_name: Mehdi Bouhaddou
+  orcid: https://orcid.org/0000-0002-9526-1427
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5018028692
+  display_name: Danish Memon
+  orcid: https://orcid.org/0000-0002-1365-0710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+- author_id: https://openalex.org/A5088389725
+  display_name: Bjoern Meyer
+  orcid: https://orcid.org/0000-0002-7903-5710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 75724
+    Paris, Cedex 15, France
+- author_id: https://openalex.org/A5041400773
+  display_name: Kris M. White
+  orcid: https://orcid.org/0000-0003-0889-0506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+  - Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount
+    Sinai, New York, NY, 10029, USA
+- author_id: https://openalex.org/A5035783463
+  display_name: Veronica V. Rezelj
+  orcid: https://orcid.org/0000-0003-1571-8325
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 75724
+    Paris, Cedex 15, France
+- author_id: https://openalex.org/A5011698965
+  display_name: Miguel Correa Marrero
+  orcid: https://orcid.org/0000-0002-3840-3273
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+- author_id: https://openalex.org/A5077747543
+  display_name: Benjamin J. Polacco
+  orcid: https://orcid.org/0000-0003-1570-9234
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5046273752
+  display_name: James E. Melnyk
+  orcid: https://orcid.org/0000-0003-1915-8089
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - Howard Hughes Medical Institute
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5059505824
+  display_name: Svenja Ulferts
+  orcid: https://orcid.org/0000-0002-6605-8163
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161046081
+    display_name: University of Freiburg
+    ror: https://ror.org/0245cg223
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Clinical and Experimental Pharmacology and Toxicology, University
+    of Freiburg, Freiburg 79104, Germany
+- author_id: https://openalex.org/A5033570629
+  display_name: Robyn M. Kaake
+  orcid: https://orcid.org/0000-0002-8341-3067
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5041960960
+  display_name: Jyoti Batra
+  orcid: https://orcid.org/0000-0002-2335-0607
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5080546161
+  display_name: Alicia Richards
+  orcid: https://orcid.org/0000-0002-4869-2945
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5073866730
+  display_name: Erica Stevenson
+  orcid: https://orcid.org/0000-0001-7853-1854
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5053113013
+  display_name: David E. Gordon
+  orcid: https://orcid.org/0000-0001-7954-0306
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5045521856
+  display_name: Ajda Rojc
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5016281633
+  display_name: Kirsten Obernier
+  orcid: https://orcid.org/0000-0002-4025-1299
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5114074484
+  display_name: Jacqueline M. Fabius
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5025723984
+  display_name: Margaret Soucheray
+  orcid: https://orcid.org/0000-0002-0370-6653
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5071789149
+  display_name: Lisa Miorin
+  orcid: https://orcid.org/0000-0003-0989-3178
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+  - Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount
+    Sinai, New York, NY, 10029, USA
+- author_id: https://openalex.org/A5034393162
+  display_name: Elena Moreno
+  orcid: https://orcid.org/0000-0002-2301-4558
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+  - Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount
+    Sinai, New York, NY, 10029, USA
+- author_id: https://openalex.org/A5061467634
+  display_name: Cassandra Koh
+  orcid: https://orcid.org/0000-0003-2466-6731
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 75724
+    Paris, Cedex 15, France
+- author_id: https://openalex.org/A5021784087
+  display_name: Quang Tran
+  orcid: https://orcid.org/0000-0002-9263-0733
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 75724
+    Paris, Cedex 15, France
+- author_id: https://openalex.org/A5045412808
+  display_name: Alexandra Hardy
+  orcid: https://orcid.org/0000-0002-3027-8308
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 75724
+    Paris, Cedex 15, France
+- author_id: https://openalex.org/A5008006641
+  display_name: "R\xE9my Robinot"
+  orcid: https://orcid.org/0000-0002-3651-0171
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210112943
+    display_name: Department of Virology
+    ror: https://ror.org/01xx2ne27
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I4210119150
+    display_name: Institut de Recherche Vaccinale
+    ror: https://ror.org/02f9r3321
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine Research Institute, 94000 Creteil, France
+  - Virus & Immunity Unit, Department of Virology, CNRS UMR 3569, Institut Pasteur,
+    75724 Paris, Cedex 15, France
+- author_id: https://openalex.org/A5058370828
+  display_name: Thomas Vallet
+  orcid: https://orcid.org/0000-0001-7775-7448
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 75724
+    Paris, Cedex 15, France
+- author_id: https://openalex.org/A5046641538
+  display_name: Benjamin E. Nilsson-Payant
+  orcid: https://orcid.org/0000-0003-2661-7837
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+- author_id: https://openalex.org/A5055117156
+  display_name: "Claudia Hern\xE1ndez-Armenta"
+  orcid: https://orcid.org/0000-0003-1510-1253
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+- author_id: https://openalex.org/A5077383030
+  display_name: Alistair S. Dunham
+  orcid: https://orcid.org/0000-0001-9076-3025
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+- author_id: https://openalex.org/A5002259273
+  display_name: Sebastian Weigang
+  orcid: https://orcid.org/0000-0002-8415-6920
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161046081
+    display_name: University of Freiburg
+    ror: https://ror.org/0245cg223
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I2801240073
+    display_name: University Medical Center Freiburg
+    ror: https://ror.org/03vzbgh69
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Virology, Medical Center \u2013 University of Freiburg, Freiburg\
+    \ 79104, Germany"
+- author_id: https://openalex.org/A5077875157
+  display_name: Julian Knerr
+  orcid: https://orcid.org/0000-0002-2614-6185
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161046081
+    display_name: University of Freiburg
+    ror: https://ror.org/0245cg223
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Clinical and Experimental Pharmacology and Toxicology, University
+    of Freiburg, Freiburg 79104, Germany
+- author_id: https://openalex.org/A5047079775
+  display_name: Maya Modak
+  orcid: https://orcid.org/0000-0002-0670-6683
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5059481043
+  display_name: Diego Quintero
+  orcid: https://orcid.org/0000-0003-0336-1875
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5071256143
+  display_name: Yuan Zhou
+  orcid: https://orcid.org/0000-0002-1393-5476
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5019269764
+  display_name: "Aur\xE9lien Dugourd"
+  orcid: https://orcid.org/0000-0002-0714-028X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802164966
+    display_name: University Hospital Heidelberg
+    ror: https://ror.org/013czdx64
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Computational Biomedicine, Bioquant, Heidelberg University, Faculty
+    of Medicine, and Heidelberg University Hospital, Heidelberg 69120, Germany
+- author_id: https://openalex.org/A5065507596
+  display_name: Alberto Valdeolivas
+  orcid: https://orcid.org/0000-0001-5482-9023
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802164966
+    display_name: University Hospital Heidelberg
+    ror: https://ror.org/013czdx64
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Computational Biomedicine, Bioquant, Heidelberg University, Faculty
+    of Medicine, and Heidelberg University Hospital, Heidelberg 69120, Germany
+- author_id: https://openalex.org/A5011054235
+  display_name: Trupti Patil
+  orcid: https://orcid.org/0000-0001-7072-482X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5011611587
+  display_name: Qiongyu Li
+  orcid: https://orcid.org/0000-0003-3654-0378
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5085235302
+  display_name: "Ruth H\xFCttenhain"
+  orcid: https://orcid.org/0000-0002-0896-5910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5083826024
+  display_name: "Merve \xC7ak\u0131r"
+  orcid: https://orcid.org/0000-0003-1803-5693
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5021315066
+  display_name: Monita Muralidharan
+  orcid: https://orcid.org/0000-0001-9401-0397
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5082312806
+  display_name: Minkyu Kim
+  orcid: https://orcid.org/0000-0001-9317-1658
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5043261925
+  display_name: "Gwendolyn \u039C. Jang"
+  orcid: https://orcid.org/0000-0001-7806-9874
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5005930950
+  display_name: Beril Tutuncuoglu
+  orcid: https://orcid.org/0000-0002-5458-2988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5102959431
+  display_name: Joseph Hiatt
+  orcid: https://orcid.org/0000-0002-8015-9614
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5086055110
+  display_name: Jeffrey Guo
+  orcid: https://orcid.org/0000-0003-2857-9870
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5072655041
+  display_name: Jiewei Xu
+  orcid: https://orcid.org/0000-0002-8647-4172
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5067742912
+  display_name: Sophia Bouhaddou
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5040648502
+  display_name: Christopher J.P. Mathy
+  orcid: https://orcid.org/0000-0002-5546-9733
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering & Therapeutic Sciences, University of California,
+    San Francisco, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5050930900
+  display_name: Anna Gaulton
+  orcid: https://orcid.org/0000-0003-2634-7400
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+- author_id: https://openalex.org/A5089264825
+  display_name: Emma J. Manners
+  orcid: https://orcid.org/0000-0001-7875-1259
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+- author_id: https://openalex.org/A5023616305
+  display_name: "Eloy F\xE9lix"
+  orcid: https://orcid.org/0000-0002-5512-6810
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+- author_id: https://openalex.org/A5101772235
+  display_name: Ying Shi
+  orcid: https://orcid.org/0000-0002-9263-4320
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - Howard Hughes Medical Institute
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5030557508
+  display_name: Marisa Goff
+  orcid: https://orcid.org/0000-0002-1025-5950
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+- author_id: https://openalex.org/A5036568474
+  display_name: Jean K. Lim
+  orcid: https://orcid.org/0000-0002-4572-6417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+- author_id: https://openalex.org/A5060751129
+  display_name: Timothy McBride
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA 90232, USA
+- author_id: https://openalex.org/A5050972732
+  display_name: "Michael C. O\u2019Neal"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA 90232, USA
+- author_id: https://openalex.org/A5057938987
+  display_name: Yiming Cai
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA 90232, USA
+- author_id: https://openalex.org/A5056154892
+  display_name: Jason C. Chang
+  orcid: https://orcid.org/0000-0002-1705-1870
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA 90232, USA
+- author_id: https://openalex.org/A5089438567
+  display_name: David Broadhurst
+  orcid: https://orcid.org/0000-0001-9816-115X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA 90232, USA
+- author_id: https://openalex.org/A5008567873
+  display_name: Saker Klippsten
+  orcid: https://orcid.org/0000-0002-9749-6756
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA 90232, USA
+- author_id: https://openalex.org/A5084110734
+  display_name: Emmie de Wit
+  orcid: https://orcid.org/0000-0002-9763-7758
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIH/NIAID/Rocky Mountain Laboratories, Hamilton, MT 59840, USA
+- author_id: https://openalex.org/A5036729806
+  display_name: Andrew R. Leach
+  orcid: https://orcid.org/0000-0001-8178-0253
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+- author_id: https://openalex.org/A5000906927
+  display_name: Tanja Kortemme
+  orcid: https://orcid.org/0000-0002-8494-680X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering & Therapeutic Sciences, University of California,
+    San Francisco, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5009419179
+  display_name: Brian K. Shoichet
+  orcid: https://orcid.org/0000-0002-6098-7367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5068579765
+  display_name: "M\xE9lanie Ott"
+  orcid: https://orcid.org/0000-0002-5697-1274
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5005499510
+  display_name: "Julio S\xE1ez-Rodr\xEDguez"
+  orcid: https://orcid.org/0000-0002-8552-8976
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I2802164966
+    display_name: University Hospital Heidelberg
+    ror: https://ror.org/013czdx64
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Computational Biomedicine, Bioquant, Heidelberg University, Faculty
+    of Medicine, and Heidelberg University Hospital, Heidelberg 69120, Germany
+- author_id: https://openalex.org/A5060623081
+  display_name: Benjamin R. tenOever
+  orcid: https://orcid.org/0000-0003-0324-3078
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+- author_id: https://openalex.org/A5027559931
+  display_name: R. Dyche Mullins
+  orcid: https://orcid.org/0000-0002-0871-5479
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - Howard Hughes Medical Institute
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5077072507
+  display_name: Elizabeth R. Fischer
+  orcid: https://orcid.org/0000-0002-3292-3673
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIH/NIAID/Rocky Mountain Laboratories, Hamilton, MT 59840, USA
+- author_id: https://openalex.org/A5049879563
+  display_name: Georg Kochs
+  orcid: https://orcid.org/0000-0003-0187-559X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161046081
+    display_name: University of Freiburg
+    ror: https://ror.org/0245cg223
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I2801240073
+    display_name: University Medical Center Freiburg
+    ror: https://ror.org/03vzbgh69
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, University of Freiburg, Freiburg 79008, Germany
+  - "Institute of Virology, Medical Center \u2013 University of Freiburg, Freiburg\
+    \ 79104, Germany"
+- author_id: https://openalex.org/A5014359969
+  display_name: Robert Grosse
+  orcid: https://orcid.org/0000-0002-3380-5273
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161046081
+    display_name: University of Freiburg
+    ror: https://ror.org/0245cg223
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Integrative Biological Signalling Studies (CIBSS), Freiburg 79104,
+    Germany
+  - Faculty of Medicine, University of Freiburg, Freiburg 79008, Germany
+  - Institute for Clinical and Experimental Pharmacology and Toxicology, University
+    of Freiburg, Freiburg 79104, Germany
+- author_id: https://openalex.org/A5004889712
+  display_name: "Adolfo Garc\xEDa\u2010Sastre"
+  orcid: https://orcid.org/0000-0002-6551-1827
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+  - Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount
+    Sinai, New York, NY, 10029, USA
+  - The Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York,
+    NY, 10029, USA
+- author_id: https://openalex.org/A5081754461
+  display_name: Marco Vignuzzi
+  orcid: https://orcid.org/0000-0002-4400-771X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, 75724
+    Paris, Cedex 15, France
+- author_id: https://openalex.org/A5018840106
+  display_name: Jeffrey R. Johnson
+  orcid: https://orcid.org/0000-0002-4221-298X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+- author_id: https://openalex.org/A5079376363
+  display_name: Kevan M. Shokat
+  orcid: https://orcid.org/0000-0001-8590-7741
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - Howard Hughes Medical Institute
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5087550248
+  display_name: Danielle L. Swaney
+  orcid: https://orcid.org/0000-0001-6119-6084
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5050058340
+  display_name: "Pedro Beltr\xE3o"
+  orcid: https://orcid.org/0000-0002-2724-7703
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Hinxton, Cambridge, UK
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5026080576
+  display_name: Nevan J. Krogan
+  orcid: https://orcid.org/0000-0003-4902-337X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California, San
+    Francisco, San Francisco, CA 94158, USA
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY 10029, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA 94158, USA
+  - Quantitative Biosciences Institute (QBI), University of California, San Francisco,
+    San Francisco, CA 94158, USA
+referenced_works:
+- https://openalex.org/W1119297566
+- https://openalex.org/W1150922657
+- https://openalex.org/W1167913247
+- https://openalex.org/W1491507080
+- https://openalex.org/W1496740734
+- https://openalex.org/W1503439600
+- https://openalex.org/W1512287707
+- https://openalex.org/W1547512866
+- https://openalex.org/W1559960346
+- https://openalex.org/W1575158132
+- https://openalex.org/W1577872659
+- https://openalex.org/W1579348184
+- https://openalex.org/W1599137086
+- https://openalex.org/W1605718906
+- https://openalex.org/W1617606969
+- https://openalex.org/W1652794785
+- https://openalex.org/W1653306654
+- https://openalex.org/W169449544
+- https://openalex.org/W1712461720
+- https://openalex.org/W1896395394
+- https://openalex.org/W1902946625
+- https://openalex.org/W1963723016
+- https://openalex.org/W1963951796
+- https://openalex.org/W1964712389
+- https://openalex.org/W1965448327
+- https://openalex.org/W1965757343
+- https://openalex.org/W1966034049
+- https://openalex.org/W1966475487
+- https://openalex.org/W1967600311
+- https://openalex.org/W1968005873
+- https://openalex.org/W1968664688
+- https://openalex.org/W1969179779
+- https://openalex.org/W1969404344
+- https://openalex.org/W1969836970
+- https://openalex.org/W1973006390
+- https://openalex.org/W1974069821
+- https://openalex.org/W1975861025
+- https://openalex.org/W1975902897
+- https://openalex.org/W1977241157
+- https://openalex.org/W1977681992
+- https://openalex.org/W1977893138
+- https://openalex.org/W1978128233
+- https://openalex.org/W1978226325
+- https://openalex.org/W1978625554
+- https://openalex.org/W1978714931
+- https://openalex.org/W1979316039
+- https://openalex.org/W1979962491
+- https://openalex.org/W1981237554
+- https://openalex.org/W1982198730
+- https://openalex.org/W1982335809
+- https://openalex.org/W1983166456
+- https://openalex.org/W1984358344
+- https://openalex.org/W1985775217
+- https://openalex.org/W1985846457
+- https://openalex.org/W1986682972
+- https://openalex.org/W1987514467
+- https://openalex.org/W1989136001
+- https://openalex.org/W1989277387
+- https://openalex.org/W1989969147
+- https://openalex.org/W1990317973
+- https://openalex.org/W1990626167
+- https://openalex.org/W1991605733
+- https://openalex.org/W1993034428
+- https://openalex.org/W1994101634
+- https://openalex.org/W1994195919
+- https://openalex.org/W1994817306
+- https://openalex.org/W1995517360
+- https://openalex.org/W1996310767
+- https://openalex.org/W1996464103
+- https://openalex.org/W1996562397
+- https://openalex.org/W1996813073
+- https://openalex.org/W1996914468
+- https://openalex.org/W1997861019
+- https://openalex.org/W1997957892
+- https://openalex.org/W1998163656
+- https://openalex.org/W1999286346
+- https://openalex.org/W2000392885
+- https://openalex.org/W2001291651
+- https://openalex.org/W2001493900
+- https://openalex.org/W2002117112
+- https://openalex.org/W2002648866
+- https://openalex.org/W2002861864
+- https://openalex.org/W2003381961
+- https://openalex.org/W2003796096
+- https://openalex.org/W2003801411
+- https://openalex.org/W2004003292
+- https://openalex.org/W2004114388
+- https://openalex.org/W2004477375
+- https://openalex.org/W2005015111
+- https://openalex.org/W2005488748
+- https://openalex.org/W2005955483
+- https://openalex.org/W2006565856
+- https://openalex.org/W2006778392
+- https://openalex.org/W2008153316
+- https://openalex.org/W2008185037
+- https://openalex.org/W2009746447
+- https://openalex.org/W2009982434
+- https://openalex.org/W2010367429
+- https://openalex.org/W2011282245
+- https://openalex.org/W2011290290
+- https://openalex.org/W2011574819
+- https://openalex.org/W2014598309
+- https://openalex.org/W2015974098
+- https://openalex.org/W2016098919
+- https://openalex.org/W2017229548
+- https://openalex.org/W2018872127
+- https://openalex.org/W2018924496
+- https://openalex.org/W2019547241
+- https://openalex.org/W2020520526
+- https://openalex.org/W2020959817
+- https://openalex.org/W2021707377
+- https://openalex.org/W2021776571
+- https://openalex.org/W2022215247
+- https://openalex.org/W2025565849
+- https://openalex.org/W2026858110
+- https://openalex.org/W2026926544
+- https://openalex.org/W2027363067
+- https://openalex.org/W2028053979
+- https://openalex.org/W2028124816
+- https://openalex.org/W2028491236
+- https://openalex.org/W2029791035
+- https://openalex.org/W2030074624
+- https://openalex.org/W2030865745
+- https://openalex.org/W2031169398
+- https://openalex.org/W2031376669
+- https://openalex.org/W2031636010
+- https://openalex.org/W2031783962
+- https://openalex.org/W2031920481
+- https://openalex.org/W2032477983
+- https://openalex.org/W2033185023
+- https://openalex.org/W2033191689
+- https://openalex.org/W2033334784
+- https://openalex.org/W2033452173
+- https://openalex.org/W2035618305
+- https://openalex.org/W2036304879
+- https://openalex.org/W2037139350
+- https://openalex.org/W2037423297
+- https://openalex.org/W2037895634
+- https://openalex.org/W2038062029
+- https://openalex.org/W2038143768
+- https://openalex.org/W2038695324
+- https://openalex.org/W2039445258
+- https://openalex.org/W2039791966
+- https://openalex.org/W2039998866
+- https://openalex.org/W2041308494
+- https://openalex.org/W2041734497
+- https://openalex.org/W2042560536
+- https://openalex.org/W2042948648
+- https://openalex.org/W2044606964
+- https://openalex.org/W2045340640
+- https://openalex.org/W2047362083
+- https://openalex.org/W2047809719
+- https://openalex.org/W2048651813
+- https://openalex.org/W2048849569
+- https://openalex.org/W2050625628
+- https://openalex.org/W2050712486
+- https://openalex.org/W2051260769
+- https://openalex.org/W2051485704
+- https://openalex.org/W2052090797
+- https://openalex.org/W2054084181
+- https://openalex.org/W2054327174
+- https://openalex.org/W2054683873
+- https://openalex.org/W2054691788
+- https://openalex.org/W2056431509
+- https://openalex.org/W2056980054
+- https://openalex.org/W2057075902
+- https://openalex.org/W2057294733
+- https://openalex.org/W2057650061
+- https://openalex.org/W2057922534
+- https://openalex.org/W2058258724
+- https://openalex.org/W2058508164
+- https://openalex.org/W2058772313
+- https://openalex.org/W2059868299
+- https://openalex.org/W2060328544
+- https://openalex.org/W2060444223
+- https://openalex.org/W2060607801
+- https://openalex.org/W2061768441
+- https://openalex.org/W2061786382
+- https://openalex.org/W2062345676
+- https://openalex.org/W2062819794
+- https://openalex.org/W2062859898
+- https://openalex.org/W2062962568
+- https://openalex.org/W2065568194
+- https://openalex.org/W2065647961
+- https://openalex.org/W2066085022
+- https://openalex.org/W2067293798
+- https://openalex.org/W2067377990
+- https://openalex.org/W2067669402
+- https://openalex.org/W2068881880
+- https://openalex.org/W2068972095
+- https://openalex.org/W2070463916
+- https://openalex.org/W2071962567
+- https://openalex.org/W2072522514
+- https://openalex.org/W2074377887
+- https://openalex.org/W2074883812
+- https://openalex.org/W2074998873
+- https://openalex.org/W2075124527
+- https://openalex.org/W2075530183
+- https://openalex.org/W2075767774
+- https://openalex.org/W2075889928
+- https://openalex.org/W2076075378
+- https://openalex.org/W2077283045
+- https://openalex.org/W2078731043
+- https://openalex.org/W2078908762
+- https://openalex.org/W2079713056
+- https://openalex.org/W2079978255
+- https://openalex.org/W2081606420
+- https://openalex.org/W2081771560
+- https://openalex.org/W2082128104
+- https://openalex.org/W2082211859
+- https://openalex.org/W2084582881
+- https://openalex.org/W2085410427
+- https://openalex.org/W2086901484
+- https://openalex.org/W2087812126
+- https://openalex.org/W2090303261
+- https://openalex.org/W2090857775
+- https://openalex.org/W2091604056
+- https://openalex.org/W2091826086
+- https://openalex.org/W2092884086
+- https://openalex.org/W2093023493
+- https://openalex.org/W2093338791
+- https://openalex.org/W2093398773
+- https://openalex.org/W2094399892
+- https://openalex.org/W2094980313
+- https://openalex.org/W2095340633
+- https://openalex.org/W2096057003
+- https://openalex.org/W2097102109
+- https://openalex.org/W2098509515
+- https://openalex.org/W2099343588
+- https://openalex.org/W2099901921
+- https://openalex.org/W2100500716
+- https://openalex.org/W2101422485
+- https://openalex.org/W2102918674
+- https://openalex.org/W2103089522
+- https://openalex.org/W2103832597
+- https://openalex.org/W2104617152
+- https://openalex.org/W2104726963
+- https://openalex.org/W2105022572
+- https://openalex.org/W2107575403
+- https://openalex.org/W2107881958
+- https://openalex.org/W2108116956
+- https://openalex.org/W2109848822
+- https://openalex.org/W2111091913
+- https://openalex.org/W2111306357
+- https://openalex.org/W2111615982
+- https://openalex.org/W2112923156
+- https://openalex.org/W2113288593
+- https://openalex.org/W2113356346
+- https://openalex.org/W2113695502
+- https://openalex.org/W2114165700
+- https://openalex.org/W2115768394
+- https://openalex.org/W2116239259
+- https://openalex.org/W2116376819
+- https://openalex.org/W2116631863
+- https://openalex.org/W2117209575
+- https://openalex.org/W2117629868
+- https://openalex.org/W2118471764
+- https://openalex.org/W2118495604
+- https://openalex.org/W2118897660
+- https://openalex.org/W2119148710
+- https://openalex.org/W2119545286
+- https://openalex.org/W2119856031
+- https://openalex.org/W2121384249
+- https://openalex.org/W2121617253
+- https://openalex.org/W2122897430
+- https://openalex.org/W2123342169
+- https://openalex.org/W2125605037
+- https://openalex.org/W2125666085
+- https://openalex.org/W2126073113
+- https://openalex.org/W2127610221
+- https://openalex.org/W2128006274
+- https://openalex.org/W2128463141
+- https://openalex.org/W2129313447
+- https://openalex.org/W2130376046
+- https://openalex.org/W2130410032
+- https://openalex.org/W2133181350
+- https://openalex.org/W2133422078
+- https://openalex.org/W2133728532
+- https://openalex.org/W2134369683
+- https://openalex.org/W2134604398
+- https://openalex.org/W2134847995
+- https://openalex.org/W2135868454
+- https://openalex.org/W2136718845
+- https://openalex.org/W2138804664
+- https://openalex.org/W2139844764
+- https://openalex.org/W2140502998
+- https://openalex.org/W2140638448
+- https://openalex.org/W2141115493
+- https://openalex.org/W2141627824
+- https://openalex.org/W2143238378
+- https://openalex.org/W2143712195
+- https://openalex.org/W2145412955
+- https://openalex.org/W2147277388
+- https://openalex.org/W2147997023
+- https://openalex.org/W2148043260
+- https://openalex.org/W2149758484
+- https://openalex.org/W2149848093
+- https://openalex.org/W2150351516
+- https://openalex.org/W2152018334
+- https://openalex.org/W2152028923
+- https://openalex.org/W2153233254
+- https://openalex.org/W2153542488
+- https://openalex.org/W2154904733
+- https://openalex.org/W2156083282
+- https://openalex.org/W2156247618
+- https://openalex.org/W2158344198
+- https://openalex.org/W2158617540
+- https://openalex.org/W2161028192
+- https://openalex.org/W2162373413
+- https://openalex.org/W2164460259
+- https://openalex.org/W2166227754
+- https://openalex.org/W2166722620
+- https://openalex.org/W2167080692
+- https://openalex.org/W2167366094
+- https://openalex.org/W2167842927
+- https://openalex.org/W2168684397
+- https://openalex.org/W2170193813
+- https://openalex.org/W2171376829
+- https://openalex.org/W2171613863
+- https://openalex.org/W2171667802
+- https://openalex.org/W2175830459
+- https://openalex.org/W2176222937
+- https://openalex.org/W2179438025
+- https://openalex.org/W2183189886
+- https://openalex.org/W2191666140
+- https://openalex.org/W2194309244
+- https://openalex.org/W2203610959
+- https://openalex.org/W2203715900
+- https://openalex.org/W2225421910
+- https://openalex.org/W2227929566
+- https://openalex.org/W2228035583
+- https://openalex.org/W2234611476
+- https://openalex.org/W2240139143
+- https://openalex.org/W2242410361
+- https://openalex.org/W2295430109
+- https://openalex.org/W2295819104
+- https://openalex.org/W2312282875
+- https://openalex.org/W2315905967
+- https://openalex.org/W2321150785
+- https://openalex.org/W2327657695
+- https://openalex.org/W2328415948
+- https://openalex.org/W2329112543
+- https://openalex.org/W2332811711
+- https://openalex.org/W2338105231
+- https://openalex.org/W2338309706
+- https://openalex.org/W2339766707
+- https://openalex.org/W2343801220
+- https://openalex.org/W2346651667
+- https://openalex.org/W235098460
+- https://openalex.org/W2357763069
+- https://openalex.org/W2400040529
+- https://openalex.org/W2404252289
+- https://openalex.org/W2405218379
+- https://openalex.org/W2406603544
+- https://openalex.org/W2418556043
+- https://openalex.org/W2443568108
+- https://openalex.org/W2472255748
+- https://openalex.org/W2477952912
+- https://openalex.org/W2480527458
+- https://openalex.org/W2487740014
+- https://openalex.org/W2512830039
+- https://openalex.org/W2544166731
+- https://openalex.org/W2565914197
+- https://openalex.org/W2578264952
+- https://openalex.org/W258228400
+- https://openalex.org/W2582743722
+- https://openalex.org/W2584071387
+- https://openalex.org/W2588449240
+- https://openalex.org/W2588974142
+- https://openalex.org/W2594457640
+- https://openalex.org/W2600432485
+- https://openalex.org/W2606513998
+- https://openalex.org/W2610183112
+- https://openalex.org/W2662199527
+- https://openalex.org/W2679259315
+- https://openalex.org/W2702602847
+- https://openalex.org/W2742248038
+- https://openalex.org/W2747675480
+- https://openalex.org/W2750773786
+- https://openalex.org/W2751598965
+- https://openalex.org/W2752942423
+- https://openalex.org/W2759345990
+- https://openalex.org/W2759961160
+- https://openalex.org/W2765542169
+- https://openalex.org/W2768147024
+- https://openalex.org/W2768441550
+- https://openalex.org/W2769003114
+- https://openalex.org/W2773508959
+- https://openalex.org/W2782796854
+- https://openalex.org/W2783973260
+- https://openalex.org/W2784563471
+- https://openalex.org/W2790240574
+- https://openalex.org/W2805336377
+- https://openalex.org/W2805815575
+- https://openalex.org/W2805978177
+- https://openalex.org/W2883746216
+- https://openalex.org/W2884283824
+- https://openalex.org/W2887795152
+- https://openalex.org/W2891701817
+- https://openalex.org/W2899553700
+- https://openalex.org/W2899760200
+- https://openalex.org/W2899864830
+- https://openalex.org/W2901354538
+- https://openalex.org/W2904824676
+- https://openalex.org/W2904910134
+- https://openalex.org/W2910694760
+- https://openalex.org/W2939041766
+- https://openalex.org/W2940546951
+- https://openalex.org/W2943499727
+- https://openalex.org/W2944085962
+- https://openalex.org/W2950069446
+- https://openalex.org/W2950585704
+- https://openalex.org/W2959338076
+- https://openalex.org/W2963402728
+- https://openalex.org/W2963533778
+- https://openalex.org/W2964315448
+- https://openalex.org/W2964331975
+- https://openalex.org/W2964483649
+- https://openalex.org/W2970618267
+- https://openalex.org/W2971135467
+- https://openalex.org/W2982461378
+- https://openalex.org/W2987709331
+- https://openalex.org/W2990722035
+- https://openalex.org/W2994464657
+- https://openalex.org/W3000174410
+- https://openalex.org/W3000973071
+- https://openalex.org/W3003637715
+- https://openalex.org/W3004239190
+- https://openalex.org/W3004280078
+- https://openalex.org/W3006645647
+- https://openalex.org/W3008696669
+- https://openalex.org/W3008827533
+- https://openalex.org/W3009584253
+- https://openalex.org/W3009912996
+- https://openalex.org/W3010361335
+- https://openalex.org/W3012232836
+- https://openalex.org/W3013093478
+- https://openalex.org/W3013407357
+- https://openalex.org/W3013533831
+- https://openalex.org/W3013800395
+- https://openalex.org/W3014001472
+- https://openalex.org/W3014067025
+- https://openalex.org/W3014781092
+- https://openalex.org/W3015490759
+- https://openalex.org/W3016489853
+- https://openalex.org/W3016553966
+- https://openalex.org/W3022285953
+- https://openalex.org/W3022520316
+- https://openalex.org/W3041206342
+- https://openalex.org/W3043391491
+- https://openalex.org/W3098424114
+- https://openalex.org/W311927316
+- https://openalex.org/W3201200663
+- https://openalex.org/W4212976300
+- https://openalex.org/W4225874681
+- https://openalex.org/W4231254854
+- https://openalex.org/W4243348004
+- https://openalex.org/W4243979784
+- https://openalex.org/W4249713142
+- https://openalex.org/W4390473166
+- https://openalex.org/W788272009
+primary_topic: interferon and immune responses
+open_access: true

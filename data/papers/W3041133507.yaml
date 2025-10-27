@@ -1,0 +1,411 @@
+id: https://openalex.org/W3041133507
+doi: https://doi.org/10.1109/jproc.2020.3004555
+title: A Comprehensive Survey on Transfer Learning
+publication_date: '2020-07-07'
+publication_year: 2020
+cited_by_count: 4960
+citation_percentile: 0.999973
+pagerank: 2.5611683779238877e-06
+authorships:
+- author_id: https://openalex.org/A5102969899
+  display_name: Fuzhen Zhuang
+  orcid: https://orcid.org/0000-0002-0520-2619
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210090176
+    display_name: Institute of Computing Technology
+    ror: https://ror.org/0090r4d87
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Intelligent Information Processing, Institute of Computing Technology,
+    Chinese Academy of Sciences (CAS), Beijing, China
+  - University of Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5053909989
+  display_name: Zhiyuan Qi
+  orcid: https://orcid.org/0000-0002-6593-0693
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090176
+    display_name: Institute of Computing Technology
+    ror: https://ror.org/0090r4d87
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Intelligent Information Processing, Institute of Computing Technology,
+    Chinese Academy of Sciences (CAS), Beijing, China
+  - University of Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5103914982
+  display_name: Keyu Duan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210090176
+    display_name: Institute of Computing Technology
+    ror: https://ror.org/0090r4d87
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Intelligent Information Processing, Institute of Computing Technology,
+    Chinese Academy of Sciences (CAS), Beijing, China
+  - University of Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5070602232
+  display_name: Dongbo Xi
+  orcid: https://orcid.org/0000-0001-7789-029X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090176
+    display_name: Institute of Computing Technology
+    ror: https://ror.org/0090r4d87
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Intelligent Information Processing, Institute of Computing Technology,
+    Chinese Academy of Sciences (CAS), Beijing, China
+  - University of Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5101880191
+  display_name: Yongchun Zhu
+  orcid: https://orcid.org/0000-0002-7096-3190
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090176
+    display_name: Institute of Computing Technology
+    ror: https://ror.org/0090r4d87
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Intelligent Information Processing, Institute of Computing Technology,
+    Chinese Academy of Sciences (CAS), Beijing, China
+  - University of Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5049015446
+  display_name: Hengshu Zhu
+  orcid: https://orcid.org/0000-0003-4570-643X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98301712
+    display_name: Baidu (China)
+    ror: https://ror.org/03vs3wt56
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Baidu Inc., Beijing, China
+- author_id: https://openalex.org/A5101862104
+  display_name: Hui Xiong
+  orcid: https://orcid.org/0000-0001-6016-6465
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102322142
+    display_name: Rutgers, The State University of New Jersey
+    ror: https://ror.org/05vt9qd57
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rutgers, The State University of New Jersey, Newark, NJ, USA
+- author_id: https://openalex.org/A5100734672
+  display_name: Qing He
+  orcid: https://orcid.org/0000-0001-8833-5398
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210090176
+    display_name: Institute of Computing Technology
+    ror: https://ror.org/0090r4d87
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Intelligent Information Processing, Institute of Computing Technology,
+    Chinese Academy of Sciences (CAS), Beijing, China
+  - University of Chinese Academy of Sciences, Beijing, China
+referenced_works:
+- https://openalex.org/W116902681
+- https://openalex.org/W1502375784
+- https://openalex.org/W1540155273
+- https://openalex.org/W1565327149
+- https://openalex.org/W1612003148
+- https://openalex.org/W1638081485
+- https://openalex.org/W1670132599
+- https://openalex.org/W1722318740
+- https://openalex.org/W1731081199
+- https://openalex.org/W1834646128
+- https://openalex.org/W1882958252
+- https://openalex.org/W1964357740
+- https://openalex.org/W1965555277
+- https://openalex.org/W1981658663
+- https://openalex.org/W1985155799
+- https://openalex.org/W1986614398
+- https://openalex.org/W1988790447
+- https://openalex.org/W1990975153
+- https://openalex.org/W1994576156
+- https://openalex.org/W1998894210
+- https://openalex.org/W2000987725
+- https://openalex.org/W2008695654
+- https://openalex.org/W2017588182
+- https://openalex.org/W2021326137
+- https://openalex.org/W2025768430
+- https://openalex.org/W2033468335
+- https://openalex.org/W2037265949
+- https://openalex.org/W2040812261
+- https://openalex.org/W2043228833
+- https://openalex.org/W2046385669
+- https://openalex.org/W2048679005
+- https://openalex.org/W2049633694
+- https://openalex.org/W2050752817
+- https://openalex.org/W2051464482
+- https://openalex.org/W2062179223
+- https://openalex.org/W2062291443
+- https://openalex.org/W2068463433
+- https://openalex.org/W2069057437
+- https://openalex.org/W2074469456
+- https://openalex.org/W2075728230
+- https://openalex.org/W2085789144
+- https://openalex.org/W2087179032
+- https://openalex.org/W2092012321
+- https://openalex.org/W2096873754
+- https://openalex.org/W2096943734
+- https://openalex.org/W2097117768
+- https://openalex.org/W2097381042
+- https://openalex.org/W2099471712
+- https://openalex.org/W2100664256
+- https://openalex.org/W2102997946
+- https://openalex.org/W2104068492
+- https://openalex.org/W2104290444
+- https://openalex.org/W2106261996
+- https://openalex.org/W2107021927
+- https://openalex.org/W2107298017
+- https://openalex.org/W2108598243
+- https://openalex.org/W2110097068
+- https://openalex.org/W2111362445
+- https://openalex.org/W2112008099
+- https://openalex.org/W2112483442
+- https://openalex.org/W2115403315
+- https://openalex.org/W2115575686
+- https://openalex.org/W2116447720
+- https://openalex.org/W2117420919
+- https://openalex.org/W2118045473
+- https://openalex.org/W2118414455
+- https://openalex.org/W2120149881
+- https://openalex.org/W2120354757
+- https://openalex.org/W2121947440
+- https://openalex.org/W2122156965
+- https://openalex.org/W2122838776
+- https://openalex.org/W2124260444
+- https://openalex.org/W2128053425
+- https://openalex.org/W2129416674
+- https://openalex.org/W2130903752
+- https://openalex.org/W2133556223
+- https://openalex.org/W2137901802
+- https://openalex.org/W2138695073
+- https://openalex.org/W2140095548
+- https://openalex.org/W2141114446
+- https://openalex.org/W2143374704
+- https://openalex.org/W2144752499
+- https://openalex.org/W2145494108
+- https://openalex.org/W2147152072
+- https://openalex.org/W2148820067
+- https://openalex.org/W2149466042
+- https://openalex.org/W2149933564
+- https://openalex.org/W2152209321
+- https://openalex.org/W2153086202
+- https://openalex.org/W2153353890
+- https://openalex.org/W2158108973
+- https://openalex.org/W2158305599
+- https://openalex.org/W2158751697
+- https://openalex.org/W2159291411
+- https://openalex.org/W2160842254
+- https://openalex.org/W2162854380
+- https://openalex.org/W2163302275
+- https://openalex.org/W2163345210
+- https://openalex.org/W2163605009
+- https://openalex.org/W2164524038
+- https://openalex.org/W2164943005
+- https://openalex.org/W2165698076
+- https://openalex.org/W2165874743
+- https://openalex.org/W2170108941
+- https://openalex.org/W2170148990
+- https://openalex.org/W2170607218
+- https://openalex.org/W2173893078
+- https://openalex.org/W2183585960
+- https://openalex.org/W2194775991
+- https://openalex.org/W2211769421
+- https://openalex.org/W2222448723
+- https://openalex.org/W2235081654
+- https://openalex.org/W2240757205
+- https://openalex.org/W2253429366
+- https://openalex.org/W2261310161
+- https://openalex.org/W2276885704
+- https://openalex.org/W2279034837
+- https://openalex.org/W2281948289
+- https://openalex.org/W22861983
+- https://openalex.org/W2293363371
+- https://openalex.org/W2329664094
+- https://openalex.org/W2336938381
+- https://openalex.org/W2338113043
+- https://openalex.org/W2345166825
+- https://openalex.org/W2363300041
+- https://openalex.org/W2395579298
+- https://openalex.org/W2398879410
+- https://openalex.org/W2400714358
+- https://openalex.org/W2405248387
+- https://openalex.org/W2434205482
+- https://openalex.org/W2463983882
+- https://openalex.org/W2476363355
+- https://openalex.org/W2520436654
+- https://openalex.org/W2533186686
+- https://openalex.org/W2539428289
+- https://openalex.org/W2545861465
+- https://openalex.org/W2579628011
+- https://openalex.org/W2590019597
+- https://openalex.org/W2593768305
+- https://openalex.org/W2594718649
+- https://openalex.org/W2613870276
+- https://openalex.org/W2616287544
+- https://openalex.org/W2619354140
+- https://openalex.org/W2753709519
+- https://openalex.org/W2757455114
+- https://openalex.org/W2758375579
+- https://openalex.org/W2766328202
+- https://openalex.org/W2767414097
+- https://openalex.org/W2769980131
+- https://openalex.org/W2770645414
+- https://openalex.org/W2783519195
+- https://openalex.org/W2786808285
+- https://openalex.org/W2788058792
+- https://openalex.org/W2794129223
+- https://openalex.org/W2795155917
+- https://openalex.org/W2800549527
+- https://openalex.org/W2803920401
+- https://openalex.org/W2830295458
+- https://openalex.org/W2885297021
+- https://openalex.org/W2887280559
+- https://openalex.org/W2889945482
+- https://openalex.org/W2891832283
+- https://openalex.org/W2891975605
+- https://openalex.org/W2894544906
+- https://openalex.org/W2904209271
+- https://openalex.org/W2907676369
+- https://openalex.org/W2912073028
+- https://openalex.org/W2912210943
+- https://openalex.org/W2912522929
+- https://openalex.org/W2913158272
+- https://openalex.org/W2914951395
+- https://openalex.org/W2938819323
+- https://openalex.org/W2940579548
+- https://openalex.org/W2946812986
+- https://openalex.org/W2949920370
+- https://openalex.org/W2952841984
+- https://openalex.org/W2952992882
+- https://openalex.org/W2953265847
+- https://openalex.org/W2955109214
+- https://openalex.org/W2960188294
+- https://openalex.org/W2962808524
+- https://openalex.org/W2962879438
+- https://openalex.org/W2962986791
+- https://openalex.org/W2963168418
+- https://openalex.org/W2963214104
+- https://openalex.org/W2963217615
+- https://openalex.org/W2963275094
+- https://openalex.org/W2963532621
+- https://openalex.org/W2963693396
+- https://openalex.org/W2963777311
+- https://openalex.org/W2963826681
+- https://openalex.org/W2964109570
+- https://openalex.org/W2964117661
+- https://openalex.org/W2964278684
+- https://openalex.org/W2964285681
+- https://openalex.org/W2964288524
+- https://openalex.org/W2964995401
+- https://openalex.org/W2968584961
+- https://openalex.org/W2974088513
+- https://openalex.org/W2978573218
+- https://openalex.org/W2979920800
+- https://openalex.org/W2980096013
+- https://openalex.org/W2980113592
+- https://openalex.org/W2990493584
+- https://openalex.org/W2997701990
+- https://openalex.org/W3003339128
+- https://openalex.org/W3004205097
+- https://openalex.org/W3012650537
+- https://openalex.org/W3012859421
+- https://openalex.org/W3102090507
+- https://openalex.org/W3138819813
+- https://openalex.org/W3146885639
+- https://openalex.org/W3212464519
+- https://openalex.org/W4210592990
+- https://openalex.org/W4233659793
+- https://openalex.org/W4242460762
+- https://openalex.org/W4255387915
+- https://openalex.org/W4256490426
+- https://openalex.org/W4285688121
+- https://openalex.org/W4299518610
+- https://openalex.org/W43161092
+- https://openalex.org/W4320013936
+- https://openalex.org/W61101988
+primary_topic: Domain Adaptation and Few-Shot Learning
+open_access: true

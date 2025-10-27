@@ -1,0 +1,181 @@
+id: https://openalex.org/W4226334005
+doi: https://doi.org/10.1109/cvpr52688.2022.01166
+title: "Scaling Up Your Kernels to 31\xD731: Revisiting Large Kernel Design in CNNs"
+publication_date: '2022-06-01'
+publication_year: 2022
+cited_by_count: 904
+citation_percentile: 0.99984
+pagerank: 2.548944602921219e-06
+authorships:
+- author_id: https://openalex.org/A5101762391
+  display_name: Xiaohan Ding
+  orcid: https://orcid.org/0009-0003-2679-3344
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Beijing National Research Center for Information Science and Technology (BNRist),
+    School of Software, Tsinghua University, Beijing, China
+- author_id: https://openalex.org/A5100362465
+  display_name: Xiangyu Zhang
+  orcid: https://orcid.org/0000-0003-2138-4608
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4401726805
+    display_name: Megvii (China)
+    ror: https://ror.org/040b32p69
+    country_code: null
+    type: company
+  - id: https://openalex.org/I4210109870
+    display_name: Vi Technology (United States)
+    ror: https://ror.org/016mnbp44
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MEGVII Technology
+- author_id: https://openalex.org/A5046605531
+  display_name: Jungong Han
+  orcid: https://orcid.org/0000-0003-4361-956X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16038530
+    display_name: Aberystwyth University
+    ror: https://ror.org/015m2p889
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Aberystwyth University,Computer Science Department,UK,SY23 3FL
+- author_id: https://openalex.org/A5057732142
+  display_name: Guiguang Ding
+  orcid: https://orcid.org/0000-0003-0137-9975
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Beijing National Research Center for Information Science and Technology (BNRist),
+    School of Software, Tsinghua University, Beijing, China
+referenced_works:
+- https://openalex.org/W1686810756
+- https://openalex.org/W1836465849
+- https://openalex.org/W1861492603
+- https://openalex.org/W1903029394
+- https://openalex.org/W2097117768
+- https://openalex.org/W2183341477
+- https://openalex.org/W2194775991
+- https://openalex.org/W2331143823
+- https://openalex.org/W2340897893
+- https://openalex.org/W2412782625
+- https://openalex.org/W2507296351
+- https://openalex.org/W2531409750
+- https://openalex.org/W2541674938
+- https://openalex.org/W2549139847
+- https://openalex.org/W2553303224
+- https://openalex.org/W2598666589
+- https://openalex.org/W2601564443
+- https://openalex.org/W2618530766
+- https://openalex.org/W2630837129
+- https://openalex.org/W2752782242
+- https://openalex.org/W2765407302
+- https://openalex.org/W2883780447
+- https://openalex.org/W2884822772
+- https://openalex.org/W2899663614
+- https://openalex.org/W2908510526
+- https://openalex.org/W2913318911
+- https://openalex.org/W2932077855
+- https://openalex.org/W2949846184
+- https://openalex.org/W2951104886
+- https://openalex.org/W2952809536
+- https://openalex.org/W2955425717
+- https://openalex.org/W2962850830
+- https://openalex.org/W2963125010
+- https://openalex.org/W2963150697
+- https://openalex.org/W2963163009
+- https://openalex.org/W2963340555
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963840672
+- https://openalex.org/W2963849369
+- https://openalex.org/W2963925437
+- https://openalex.org/W2964121718
+- https://openalex.org/W2964309882
+- https://openalex.org/W2964350391
+- https://openalex.org/W2981413347
+- https://openalex.org/W2981609437
+- https://openalex.org/W2982083293
+- https://openalex.org/W2982770724
+- https://openalex.org/W2983446232
+- https://openalex.org/W2987761193
+- https://openalex.org/W2989676862
+- https://openalex.org/W2992308087
+- https://openalex.org/W2998508940
+- https://openalex.org/W3014641072
+- https://openalex.org/W3034429256
+- https://openalex.org/W3035661013
+- https://openalex.org/W3035682985
+- https://openalex.org/W3035794324
+- https://openalex.org/W3097065222
+- https://openalex.org/W3103334733
+- https://openalex.org/W3126337491
+- https://openalex.org/W3131500599
+- https://openalex.org/W3132401450
+- https://openalex.org/W3138516171
+- https://openalex.org/W3139049060
+- https://openalex.org/W3157506437
+- https://openalex.org/W3159481202
+- https://openalex.org/W3159885121
+- https://openalex.org/W3160566314
+- https://openalex.org/W3161120562
+- https://openalex.org/W3163465952
+- https://openalex.org/W3167976421
+- https://openalex.org/W3169745417
+- https://openalex.org/W3170841864
+- https://openalex.org/W3170863103
+- https://openalex.org/W3170874841
+- https://openalex.org/W3171038842
+- https://openalex.org/W3171125843
+- https://openalex.org/W3171660447
+- https://openalex.org/W3172099915
+- https://openalex.org/W3172509117
+- https://openalex.org/W3174068320
+- https://openalex.org/W3175516023
+- https://openalex.org/W3178132214
+- https://openalex.org/W3179869055
+- https://openalex.org/W3193895134
+- https://openalex.org/W3196691776
+- https://openalex.org/W3207918547
+- https://openalex.org/W3207935851
+- https://openalex.org/W3211490618
+- https://openalex.org/W3213601271
+- https://openalex.org/W4214493665
+- https://openalex.org/W4214520160
+- https://openalex.org/W4285661751
+- https://openalex.org/W4287022992
+- https://openalex.org/W4287332096
+- https://openalex.org/W4295308583
+- https://openalex.org/W4297665946
+- https://openalex.org/W4297772692
+- https://openalex.org/W4297775537
+- https://openalex.org/W4297812995
+- https://openalex.org/W4298395628
+- https://openalex.org/W4299802238
+- https://openalex.org/W4308831279
+- https://openalex.org/W4312349930
+- https://openalex.org/W4312443924
+- https://openalex.org/W4312820606
+- https://openalex.org/W4313007769
+- https://openalex.org/W4313159166
+- https://openalex.org/W4320927267
+- https://openalex.org/W4385245566
+primary_topic: Advanced Neural Network Applications
+open_access: true

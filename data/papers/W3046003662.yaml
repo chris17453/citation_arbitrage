@@ -1,0 +1,605 @@
+id: https://openalex.org/W3046003662
+doi: https://doi.org/10.1038/s41586-020-2077-3
+title: A large-scale binding and functional map of human RNA-binding proteins
+publication_date: '2020-07-29'
+publication_year: 2020
+cited_by_count: 1114
+citation_percentile: 0.999983
+pagerank: 2.555328595003092e-06
+authorships:
+- author_id: https://openalex.org/A5026605816
+  display_name: Eric L. Van Nostrand
+  orcid: https://orcid.org/0000-0002-5188-0082
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5005384908
+  display_name: Peter Freese
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Computational and Systems Biology, Massachusetts Institute of Technology,
+    Cambridge, MA, USA
+- author_id: https://openalex.org/A5037976483
+  display_name: Henry Pratt
+  orcid: https://orcid.org/0000-0001-9413-834X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5100333216
+  display_name: Xiaofeng Wang
+  orcid: https://orcid.org/0000-0001-7611-4491
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158752
+    display_name: Montreal Clinical Research Institute
+    ror: https://ror.org/05m8pzq90
+    country_code: CA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut de Recherches Cliniques de Montr\xE9al (IRCM), Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5091724333
+  display_name: Xintao Wei
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genome Sciences, Institute for Systems Genomics, UConn
+    Health, Farmington, CT, USA
+- author_id: https://openalex.org/A5038508779
+  display_name: Rui Xiao
+  orcid: https://orcid.org/0000-0002-9477-1054
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5032471267
+  display_name: Steven M. Blue
+  orcid: https://orcid.org/0000-0003-0279-6690
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5100380043
+  display_name: Jiayu Chen
+  orcid: https://orcid.org/0000-0001-9449-9321
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5111533844
+  display_name: Neal Cody
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158752
+    display_name: Montreal Clinical Research Institute
+    ror: https://ror.org/05m8pzq90
+    country_code: CA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut de Recherches Cliniques de Montr\xE9al (IRCM), Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5064743714
+  display_name: "Daniel Dom\xEDnguez"
+  orcid: https://orcid.org/0000-0001-8075-6489
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5033570546
+  display_name: Sara Olson
+  orcid: https://orcid.org/0009-0009-1064-9974
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genome Sciences, Institute for Systems Genomics, UConn
+    Health, Farmington, CT, USA
+- author_id: https://openalex.org/A5012962031
+  display_name: Balaji Sundararaman
+  orcid: https://orcid.org/0000-0001-8559-1660
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5101396940
+  display_name: Lijun Zhan
+  orcid: https://orcid.org/0000-0003-3982-7884
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genome Sciences, Institute for Systems Genomics, UConn
+    Health, Farmington, CT, USA
+- author_id: https://openalex.org/A5112597589
+  display_name: Cassandra Bazile
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5026100917
+  display_name: Louis Philip Benoit Bouvrette
+  orcid: https://orcid.org/0000-0003-2726-5669
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158752
+    display_name: Montreal Clinical Research Institute
+    ror: https://ror.org/05m8pzq90
+    country_code: CA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut de Recherches Cliniques de Montr\xE9al (IRCM), Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5082228544
+  display_name: Julie Bergalet
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158752
+    display_name: Montreal Clinical Research Institute
+    ror: https://ror.org/05m8pzq90
+    country_code: CA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut de Recherches Cliniques de Montr\xE9al (IRCM), Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5109849116
+  display_name: Michael O. Duff
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genome Sciences, Institute for Systems Genomics, UConn
+    Health, Farmington, CT, USA
+- author_id: https://openalex.org/A5024186213
+  display_name: Keri E. Garcia
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5039270872
+  display_name: Chelsea Gelboin-Burkhart
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5070940156
+  display_name: Myles Hochman
+  orcid: https://orcid.org/0000-0001-5172-6395
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5013176795
+  display_name: Nicole Lambert
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5021039670
+  display_name: Hairi Li
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5068088742
+  display_name: Michael P. McGurk
+  orcid: https://orcid.org/0000-0003-1938-4481
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5069128335
+  display_name: Thai B. Nguyen
+  orcid: https://orcid.org/0000-0001-8450-2988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5025140402
+  display_name: Tsultrim Palden
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5052811612
+  display_name: Ines Rabano
+  orcid: https://orcid.org/0000-0003-4826-4403
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California San Diego,
+    La Jolla, CA, USA
+- author_id: https://openalex.org/A5060615493
+  display_name: Shashank Sathe
+  orcid: https://orcid.org/0000-0003-3013-4459
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5079518149
+  display_name: Rebecca Stanton
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5058222046
+  display_name: Amanda Su
+  orcid: https://orcid.org/0009-0002-4203-1713
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5037786337
+  display_name: Ruth Wang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5044573289
+  display_name: Brian A. Yee
+  orcid: https://orcid.org/0000-0001-5615-8550
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5072137533
+  display_name: Bing Zhou
+  orcid: https://orcid.org/0000-0003-2846-1813
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5087379788
+  display_name: Ashley L. Louie
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5077600290
+  display_name: Stefan Aigner
+  orcid: https://orcid.org/0000-0002-9511-3328
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5103144746
+  display_name: "Xiang\u2010Dong Fu"
+  orcid: https://orcid.org/0000-0001-5499-8732
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Genomic Medicine, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5018570031
+  display_name: "\xC9ric L\xE9cuyer"
+  orcid: https://orcid.org/0000-0002-4383-342X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158752
+    display_name: Montreal Clinical Research Institute
+    ror: https://ror.org/05m8pzq90
+    country_code: CA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut de Recherches Cliniques de Montr\xE9al (IRCM), Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5048799588
+  display_name: Christopher B. Burge
+  orcid: https://orcid.org/0000-0001-9047-5648
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Computational and Systems Biology, Massachusetts Institute of Technology,
+    Cambridge, MA, USA
+- author_id: https://openalex.org/A5114376185
+  display_name: Brenton R. Graveley
+  orcid: https://orcid.org/0000-0001-5777-5892
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genome Sciences, Institute for Systems Genomics, UConn
+    Health, Farmington, CT, USA
+- author_id: https://openalex.org/A5082310752
+  display_name: G Yeo
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics and Systems Biology Graduate Program, University of California
+    San Diego, La Jolla, CA, USA
+referenced_works:
+- https://openalex.org/W1173331003
+- https://openalex.org/W1482190741
+- https://openalex.org/W1819822159
+- https://openalex.org/W1934704664
+- https://openalex.org/W1986911150
+- https://openalex.org/W1993152319
+- https://openalex.org/W1996423252
+- https://openalex.org/W1997535872
+- https://openalex.org/W1999574084
+- https://openalex.org/W2011813312
+- https://openalex.org/W2025075195
+- https://openalex.org/W2026671856
+- https://openalex.org/W2041440237
+- https://openalex.org/W2044117548
+- https://openalex.org/W2050480410
+- https://openalex.org/W2052870583
+- https://openalex.org/W2066231767
+- https://openalex.org/W2076563297
+- https://openalex.org/W2080505162
+- https://openalex.org/W2081164083
+- https://openalex.org/W2081534563
+- https://openalex.org/W2092594973
+- https://openalex.org/W2100939507
+- https://openalex.org/W2105037453
+- https://openalex.org/W2107665951
+- https://openalex.org/W2109962448
+- https://openalex.org/W2124514674
+- https://openalex.org/W2136897192
+- https://openalex.org/W2137319242
+- https://openalex.org/W2140729960
+- https://openalex.org/W2141458291
+- https://openalex.org/W2154241726
+- https://openalex.org/W2159730169
+- https://openalex.org/W2166242782
+- https://openalex.org/W2169456326
+- https://openalex.org/W2170219300
+- https://openalex.org/W2170551349
+- https://openalex.org/W2179438025
+- https://openalex.org/W2197124664
+- https://openalex.org/W2223836536
+- https://openalex.org/W2297344571
+- https://openalex.org/W2307041907
+- https://openalex.org/W2332075290
+- https://openalex.org/W2397278579
+- https://openalex.org/W2411136521
+- https://openalex.org/W2465057958
+- https://openalex.org/W2528142478
+- https://openalex.org/W2592811885
+- https://openalex.org/W2762250455
+- https://openalex.org/W2794416695
+- https://openalex.org/W2797495365
+- https://openalex.org/W2885321095
+- https://openalex.org/W2900040744
+- https://openalex.org/W2909784611
+- https://openalex.org/W3009218638
+- https://openalex.org/W3012888971
+- https://openalex.org/W3106930452
+- https://openalex.org/W4246488417
+- https://openalex.org/W4251885525
+primary_topic: RNA Research and Splicing
+open_access: true

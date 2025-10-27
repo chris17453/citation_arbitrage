@@ -1,0 +1,626 @@
+id: https://openalex.org/W3197095402
+doi: https://doi.org/10.3847/2041-8213/ac089b
+title: The Radius of PSR J0740+6620 from NICER and XMM-Newton Data
+publication_date: '2021-09-01'
+publication_year: 2021
+cited_by_count: 1046
+citation_percentile: 0.99993
+pagerank: 2.5423274194593864e-06
+authorships:
+- author_id: https://openalex.org/A5017592222
+  display_name: M. Coleman Miller
+  orcid: https://orcid.org/0000-0002-2666-728X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I66946132
+    display_name: University of Maryland, College Park
+    ror: https://ror.org/047s2c258
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210112515
+    display_name: Joint Space Science Institute
+    ror: https://ror.org/01wjew854
+    country_code: US
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Astronomy and Joint Space-Science Institute, University of Maryland,
+    College Park, MD 20742-2421 USA
+- author_id: https://openalex.org/A5053248556
+  display_name: Frederick K. Lamb
+  orcid: https://orcid.org/0000-0002-3862-7402
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Astronomy, University of Illinois at Urbana-Champaign, 1002 West
+    Green Street, Urbana, IL 61801-3074, USA
+  - Illinois Center for Advanced Studies of the Universe and Department of Physics,
+    University of Illinois at Urbana-Champaign, 1110 West Green Street, Urbana, IL
+    61801-3080, USA
+- author_id: https://openalex.org/A5030328469
+  display_name: Alexander J. Dittmann
+  orcid: https://orcid.org/0000-0001-6157-6722
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I66946132
+    display_name: University of Maryland, College Park
+    ror: https://ror.org/047s2c258
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210112515
+    display_name: Joint Space Science Institute
+    ror: https://ror.org/01wjew854
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Astronomy and Joint Space-Science Institute, University of Maryland,
+    College Park, MD 20742-2421 USA
+- author_id: https://openalex.org/A5044016014
+  display_name: Slavko Bogdanov
+  orcid: https://orcid.org/0000-0002-9870-2742
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78577930
+    display_name: Columbia University
+    ror: https://ror.org/00hj8s172
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Columbia Astrophysics Laboratory, Columbia University, 550 West 120th Street,
+    New York, NY 10027, USA
+- author_id: https://openalex.org/A5080561663
+  display_name: Zaven Arzoumanian
+  orcid: https://orcid.org/0009-0008-6187-8753
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - X-Ray Astrophysics Laboratory, NASA Goddard Space Flight Center, Code 662, Greenbelt,
+    MD 20771, USA
+- author_id: https://openalex.org/A5082925108
+  display_name: Keith C. Gendreau
+  orcid: https://orcid.org/0000-0001-7115-2819
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - X-Ray Astrophysics Laboratory, NASA Goddard Space Flight Center, Code 662, Greenbelt,
+    MD 20771, USA
+- author_id: https://openalex.org/A5040459651
+  display_name: "S\xE9bastien Guillot"
+  orcid: https://orcid.org/0000-0002-6449-106X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107416
+    display_name: Roche (France)
+    ror: https://ror.org/01mqmer16
+    country_code: FR
+    type: company
+  - id: https://openalex.org/I134560555
+    display_name: "Universit\xE9 Toulouse III - Paul Sabatier"
+    ror: https://ror.org/02v6kpv12
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I17866349
+    display_name: "Universit\xE9 F\xE9d\xE9rale de Toulouse Midi-Pyr\xE9n\xE9es"
+    ror: https://ror.org/004raaa70
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IRAP, CNRS, 9 avenue du Colonel Roche, BP 44346, F-31028 Toulouse Cedex 4, France
+  - "Universit\xE9 de Toulouse, CNES, UPS-OMP, F-31028 Toulouse, France"
+- author_id: https://openalex.org/A5001343941
+  display_name: Wynn C. G. Ho
+  orcid: https://orcid.org/0000-0002-6089-6836
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I155707491
+    display_name: Haverford College
+    ror: https://ror.org/04fnrxr62
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Astronomy, Haverford College, 370 Lancaster Avenue,
+    Haverford, PA 19041, USA
+- author_id: https://openalex.org/A5058973177
+  display_name: James M. Lattimer
+  orcid: https://orcid.org/0000-0002-5907-4552
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I59553526
+    display_name: Stony Brook University
+    ror: https://ror.org/05qghxh33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Astronomy, Stony Brook University, Stony Brook, NY 11794-3800,
+    USA
+- author_id: https://openalex.org/A5049868532
+  display_name: Michael Loewenstein
+  orcid: https://orcid.org/0000-0002-1661-4029
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I66946132
+    display_name: University of Maryland, College Park
+    ror: https://ror.org/047s2c258
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Research and Exploration in Space Science and Technology, NASA/GSFC,
+    Greenbelt, MD 20771, USA
+  - Department of Astronomy, University of Maryland, College Park, MD 20742-2421,
+    USA
+  - X-Ray Astrophysics Laboratory, NASA Goddard Space Flight Center, Code 662, Greenbelt,
+    MD 20771, USA
+- author_id: https://openalex.org/A5108166815
+  display_name: Sharon M. Morsink
+  orcid: https://orcid.org/0000-0003-4357-0575
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, University of Alberta, 4-183 CCIS, Edmonton, AB T6G 2E1,
+    Canada
+- author_id: https://openalex.org/A5069770373
+  display_name: Paul S. Ray
+  orcid: https://orcid.org/0000-0002-5297-5278
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1288214837
+    display_name: United States Naval Research Laboratory
+    ror: https://ror.org/04d23a975
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Science Division, U.S. Naval Research Laboratory, Washington, DC 20375,
+    USA
+- author_id: https://openalex.org/A5061162681
+  display_name: M. T. Wolff
+  orcid: https://orcid.org/0000-0002-4013-5650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1288214837
+    display_name: United States Naval Research Laboratory
+    ror: https://ror.org/04d23a975
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Science Division, U.S. Naval Research Laboratory, Washington, DC 20375,
+    USA
+- author_id: https://openalex.org/A5065811096
+  display_name: C. L. Baker
+  orcid: https://orcid.org/0000-0003-2552-7821
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Applied Engineering and Technology Directorate, NASA Goddard Space Flight Center,
+    Greenbelt, MD 20771, USA
+- author_id: https://openalex.org/A5080235299
+  display_name: T. Cazeau
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - X-Ray Astrophysics Laboratory, NASA Goddard Space Flight Center, Code 662, Greenbelt,
+    MD 20771, USA
+- author_id: https://openalex.org/A5016338201
+  display_name: Sridhar Manthripragada
+  orcid: https://orcid.org/0009-0007-6471-3471
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Instrument Systems and Technology Division, NASA Goddard Space Flight Center,
+    Greenbelt, MD 20771, USA
+- author_id: https://openalex.org/A5108167265
+  display_name: C. B. Markwardt
+  orcid: https://orcid.org/0000-0001-9803-3879
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Astrophysics Science Division, NASA Goddard Space Flight Center, Greenbelt, MD
+    20771, USA
+- author_id: https://openalex.org/A5063648549
+  display_name: Takashi Okajima
+  orcid: https://orcid.org/0000-0002-6054-3432
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - X-Ray Astrophysics Laboratory, NASA Goddard Space Flight Center, Code 662, Greenbelt,
+    MD 20771, USA
+- author_id: https://openalex.org/A5110431209
+  display_name: S. Pollard
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - X-Ray Astrophysics Laboratory, NASA Goddard Space Flight Center, Code 662, Greenbelt,
+    MD 20771, USA
+- author_id: https://openalex.org/A5006134581
+  display_name: I. Cognard
+  orcid: https://orcid.org/0000-0002-1775-9692
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12449238
+    display_name: "Universit\xE9 d'Orl\xE9ans"
+    ror: https://ror.org/014zrew76
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210109968
+    display_name: Laboratoire de Chimie Physique
+    ror: https://ror.org/016r2hq43
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "9 Laboratoire de Physique et Chimie de lEnvironnement, CNRS, 3A Avenue de la\
+    \ Recherche Scientifique, F-45071, Orl\xE9ans Cedex 2, France"
+  - "Station de Radioastronomie de Nan\xE7ay, Observatoire de Paris, CNRS/INSU, Universit\xE9\
+    \ d'Orleans, F-18330, Nan\xE7ay, France"
+- author_id: https://openalex.org/A5007176015
+  display_name: H. Thankful Cromartie
+  orcid: https://orcid.org/0000-0002-6039-692X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cornell Center for Astrophysics and Planetary Science and Department of Astronomy,
+    Cornell University, Ithaca, NY 14853, USA
+- author_id: https://openalex.org/A5087315310
+  display_name: Emmanuel Fonseca
+  orcid: https://orcid.org/0000-0001-8384-5049
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I5023651
+    display_name: McGill University
+    ror: https://ror.org/01pxwe438
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I12097938
+    display_name: West Virginia University
+    ror: https://ror.org/011vxgd24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Gravitational Waves and Cosmology, West Virginia University, Chestnut
+    Ridge Research Building, Morgantown, WV 26505, USA
+  - Department of Physics and Astronomy, West Virginia University, P.O. Box 6315,
+    Morgantown, WV 26506, USA
+  - "Department of Physics, McGill University, 3600 rue University, Montr\xE9al, QC\
+    \ H3A 2T8, Canada"
+  - "McGill Space Institute, McGill University, 3550 rue University, Montr\xE9al,\
+    \ QC H3A 2A7, Canada"
+- author_id: https://openalex.org/A5091186797
+  display_name: L. Guillemot
+  orcid: https://orcid.org/0000-0002-9049-8716
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12449238
+    display_name: "Universit\xE9 d'Orl\xE9ans"
+    ror: https://ror.org/014zrew76
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210109968
+    display_name: Laboratoire de Chimie Physique
+    ror: https://ror.org/016r2hq43
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "9 Laboratoire de Physique et Chimie de lEnvironnement, CNRS, 3A Avenue de la\
+    \ Recherche Scientifique, F-45071, Orl\xE9ans Cedex 2, France"
+  - "Station de Radioastronomie de Nan\xE7ay, Observatoire de Paris, CNRS/INSU, Universit\xE9\
+    \ d'Orleans, F-18330, Nan\xE7ay, France"
+- author_id: https://openalex.org/A5066502046
+  display_name: M. Kerr
+  orcid: https://orcid.org/0000-0002-0893-4073
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1288214837
+    display_name: United States Naval Research Laboratory
+    ror: https://ror.org/04d23a975
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Space Science Division, Naval Research Laboratory, Washington, DC 20375 5352,
+    USA
+- author_id: https://openalex.org/A5024211707
+  display_name: A. Parthasarathy
+  orcid: https://orcid.org/0000-0002-4140-5616
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158571
+    display_name: Max Planck Institute for Radio Astronomy
+    ror: https://ror.org/04jvemc39
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Max-Planck-Institut f\xFCr Radioastronomie, Auf dem H\xFCgel 69, D-53121 Bonn,\
+    \ Germany"
+- author_id: https://openalex.org/A5047667839
+  display_name: Timothy T. Pennucci
+  orcid: https://orcid.org/0000-0001-5465-2889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2609998029
+    display_name: National Radio Astronomy Observatory
+    ror: https://ror.org/04m24yn62
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I106118109
+    display_name: "E\xF6tv\xF6s Lor\xE1nd University"
+    ror: https://ror.org/01jsq2704
+    country_code: HU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Physics, E\xF6tv\xF6s Lor\xE1nd University, P\xE1zm\xE1ny P.s. 1/A,\
+    \ 1117 Budapest, Hungary"
+  - National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903,
+    USA
+- author_id: https://openalex.org/A5023309913
+  display_name: S. M. Ransom
+  orcid: https://orcid.org/0000-0001-5799-9714
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2609998029
+    display_name: National Radio Astronomy Observatory
+    ror: https://ror.org/04m24yn62
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903,
+    USA
+- author_id: https://openalex.org/A5046076241
+  display_name: I. H. Stairs
+  orcid: https://orcid.org/0000-0001-9784-8670
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I141945490
+    display_name: University of British Columbia
+    ror: https://ror.org/03rmrcq20
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Astronomy, University of British Columbia, 6224 Agricultural
+    Road, Vancouver, BC V6T 1Z1, Canada
+referenced_works:
+- https://openalex.org/W1579788182
+- https://openalex.org/W1746819321
+- https://openalex.org/W1757987097
+- https://openalex.org/W1966714954
+- https://openalex.org/W1979567655
+- https://openalex.org/W1981361979
+- https://openalex.org/W1994863669
+- https://openalex.org/W1995777558
+- https://openalex.org/W1996833935
+- https://openalex.org/W2007709299
+- https://openalex.org/W2011301426
+- https://openalex.org/W2012430171
+- https://openalex.org/W2017159292
+- https://openalex.org/W2024166666
+- https://openalex.org/W2032332167
+- https://openalex.org/W2036662279
+- https://openalex.org/W2038257577
+- https://openalex.org/W2038946560
+- https://openalex.org/W2045137892
+- https://openalex.org/W2049142257
+- https://openalex.org/W2053572452
+- https://openalex.org/W2053760773
+- https://openalex.org/W2054177618
+- https://openalex.org/W2059491260
+- https://openalex.org/W2062322544
+- https://openalex.org/W2085488455
+- https://openalex.org/W2092194717
+- https://openalex.org/W2092350553
+- https://openalex.org/W2094740723
+- https://openalex.org/W2098778873
+- https://openalex.org/W2104266030
+- https://openalex.org/W2110114082
+- https://openalex.org/W2118147733
+- https://openalex.org/W2129905273
+- https://openalex.org/W2136299892
+- https://openalex.org/W2154078330
+- https://openalex.org/W2158197794
+- https://openalex.org/W2166909002
+- https://openalex.org/W2167348656
+- https://openalex.org/W2167572849
+- https://openalex.org/W2170543518
+- https://openalex.org/W2194080530
+- https://openalex.org/W2209563422
+- https://openalex.org/W2271746249
+- https://openalex.org/W2290284740
+- https://openalex.org/W2295104883
+- https://openalex.org/W2296945736
+- https://openalex.org/W2328054821
+- https://openalex.org/W2337252298
+- https://openalex.org/W2484752123
+- https://openalex.org/W2751956030
+- https://openalex.org/W2759675126
+- https://openalex.org/W2765081049
+- https://openalex.org/W2767122548
+- https://openalex.org/W2767349080
+- https://openalex.org/W2792912078
+- https://openalex.org/W2797925906
+- https://openalex.org/W2799156423
+- https://openalex.org/W2805600018
+- https://openalex.org/W2807309204
+- https://openalex.org/W2886698987
+- https://openalex.org/W2897955452
+- https://openalex.org/W2902214302
+- https://openalex.org/W2905083907
+- https://openalex.org/W2907368089
+- https://openalex.org/W2914039871
+- https://openalex.org/W2918344943
+- https://openalex.org/W2923910082
+- https://openalex.org/W2938956468
+- https://openalex.org/W2944517589
+- https://openalex.org/W2949204834
+- https://openalex.org/W2971578589
+- https://openalex.org/W2974725663
+- https://openalex.org/W2981844146
+- https://openalex.org/W2991503457
+- https://openalex.org/W2995178730
+- https://openalex.org/W2995381361
+- https://openalex.org/W2996168102
+- https://openalex.org/W2996652714
+- https://openalex.org/W2999365684
+- https://openalex.org/W3007652288
+- https://openalex.org/W3011248798
+- https://openalex.org/W3011892758
+- https://openalex.org/W3016277558
+- https://openalex.org/W3016464176
+- https://openalex.org/W3017145089
+- https://openalex.org/W3025997614
+- https://openalex.org/W3032978191
+- https://openalex.org/W3036761016
+- https://openalex.org/W3040521230
+- https://openalex.org/W3080795078
+- https://openalex.org/W3085449757
+- https://openalex.org/W3089038184
+- https://openalex.org/W3091401790
+- https://openalex.org/W3095224587
+- https://openalex.org/W3098100524
+- https://openalex.org/W3098145359
+- https://openalex.org/W3098341876
+- https://openalex.org/W3098362642
+- https://openalex.org/W3098641065
+- https://openalex.org/W3099016719
+- https://openalex.org/W3099018083
+- https://openalex.org/W3099651099
+- https://openalex.org/W3099967914
+- https://openalex.org/W3100332472
+- https://openalex.org/W3100405606
+- https://openalex.org/W3100802398
+- https://openalex.org/W3100928534
+- https://openalex.org/W3101053597
+- https://openalex.org/W3101410117
+- https://openalex.org/W3101452811
+- https://openalex.org/W3102014803
+- https://openalex.org/W3102364156
+- https://openalex.org/W3102424878
+- https://openalex.org/W3102654746
+- https://openalex.org/W3102749234
+- https://openalex.org/W3102775271
+- https://openalex.org/W3102839133
+- https://openalex.org/W3102882083
+- https://openalex.org/W3103454958
+- https://openalex.org/W3104188978
+- https://openalex.org/W3104191132
+- https://openalex.org/W3104270151
+- https://openalex.org/W3104624969
+- https://openalex.org/W3104833059
+- https://openalex.org/W3105394841
+- https://openalex.org/W3105880739
+- https://openalex.org/W3105981474
+- https://openalex.org/W3106110599
+- https://openalex.org/W3106171379
+- https://openalex.org/W3106421949
+- https://openalex.org/W3110683067
+- https://openalex.org/W3114526545
+- https://openalex.org/W3120569425
+- https://openalex.org/W3123613068
+- https://openalex.org/W3123782013
+- https://openalex.org/W3129656243
+- https://openalex.org/W3132010812
+- https://openalex.org/W3143721421
+- https://openalex.org/W3153066954
+- https://openalex.org/W3165643098
+- https://openalex.org/W3170819767
+- https://openalex.org/W68850945
+primary_topic: Pulsars and Gravitational Waves Research
+open_access: true

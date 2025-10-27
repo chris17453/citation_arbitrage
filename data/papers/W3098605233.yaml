@@ -1,0 +1,192 @@
+id: https://openalex.org/W3098605233
+doi: https://doi.org/10.18653/v1/2020.findings-emnlp.139
+title: 'CodeBERT: A Pre-Trained Model for Programming and Natural Languages'
+publication_date: '2020-01-01'
+publication_year: 2020
+cited_by_count: 1666
+citation_percentile: 0.999912
+pagerank: 2.5482164288243806e-06
+authorships:
+- author_id: https://openalex.org/A5007059246
+  display_name: Zhangyin Feng
+  orcid: https://orcid.org/0000-0001-5909-1339
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I204983213
+    display_name: Harbin Institute of Technology
+    ror: https://ror.org/01yqg2h08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Center for Social Computing and Information Retrieval, Harbin Institute
+    of Technology, China
+- author_id: https://openalex.org/A5060364305
+  display_name: Daya Guo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The School of Data and Computer Science, Sun Yat-sen University, China
+- author_id: https://openalex.org/A5110628758
+  display_name: Duyu Tang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+- author_id: https://openalex.org/A5042018181
+  display_name: Nan Duan
+  orcid: https://orcid.org/0000-0002-3387-4674
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+- author_id: https://openalex.org/A5073213620
+  display_name: Xiaocheng Feng
+  orcid: https://orcid.org/0000-0001-6011-0496
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204983213
+    display_name: Harbin Institute of Technology
+    ror: https://ror.org/01yqg2h08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Center for Social Computing and Information Retrieval, Harbin Institute
+    of Technology, China
+- author_id: https://openalex.org/A5101640051
+  display_name: Ming Gong
+  orcid: https://orcid.org/0000-0001-6140-7187
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Search Technology Center Asia, Beijing, China
+- author_id: https://openalex.org/A5077262995
+  display_name: Linjun Shou
+  orcid: https://orcid.org/0000-0002-1050-7708
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Search Technology Center Asia, Beijing, China
+- author_id: https://openalex.org/A5017671620
+  display_name: Bing Qin
+  orcid: https://orcid.org/0000-0002-2543-5604
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204983213
+    display_name: Harbin Institute of Technology
+    ror: https://ror.org/01yqg2h08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Center for Social Computing and Information Retrieval, Harbin Institute
+    of Technology, China
+- author_id: https://openalex.org/A5100418156
+  display_name: Ting Liu
+  orcid: https://orcid.org/0000-0002-9091-7757
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204983213
+    display_name: Harbin Institute of Technology
+    ror: https://ror.org/01yqg2h08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Center for Social Computing and Information Retrieval, Harbin Institute
+    of Technology, China
+- author_id: https://openalex.org/A5060116992
+  display_name: Daxin Jiang
+  orcid: https://orcid.org/0000-0002-6657-5806
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Search Technology Center Asia, Beijing, China
+- author_id: https://openalex.org/A5100701572
+  display_name: Ming Zhou
+  orcid: https://orcid.org/0000-0002-2551-2964
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+referenced_works:
+- https://openalex.org/W1832693441
+- https://openalex.org/W2124807415
+- https://openalex.org/W2130942839
+- https://openalex.org/W2142112143
+- https://openalex.org/W2157331557
+- https://openalex.org/W2516621648
+- https://openalex.org/W2525778437
+- https://openalex.org/W2595715041
+- https://openalex.org/W2725049817
+- https://openalex.org/W2794601162
+- https://openalex.org/W2887364112
+- https://openalex.org/W2896457183
+- https://openalex.org/W2952638691
+- https://openalex.org/W2962739339
+- https://openalex.org/W2962965405
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963355447
+- https://openalex.org/W2963403868
+- https://openalex.org/W2965373594
+- https://openalex.org/W2966715458
+- https://openalex.org/W2970476646
+- https://openalex.org/W2970597249
+- https://openalex.org/W2970608575
+- https://openalex.org/W2973529529
+- https://openalex.org/W2981851019
+- https://openalex.org/W2995333547
+- https://openalex.org/W3034999214
+- https://openalex.org/W3082274269
+- https://openalex.org/W3111372685
+- https://openalex.org/W4287824654
+- https://openalex.org/W4288089799
+- https://openalex.org/W4385245566
+- https://openalex.org/W4394638297
+primary_topic: Topic Modeling
+open_access: true

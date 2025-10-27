@@ -1,0 +1,603 @@
+id: https://openalex.org/W3020300207
+doi: https://doi.org/10.1126/science.abb4489
+title: Structure-based design of antiviral drug candidates targeting the SARS-CoV-2
+  main protease
+publication_date: '2020-04-22'
+publication_year: 2020
+cited_by_count: 1524
+citation_percentile: 0.999954
+pagerank: 2.640961190591834e-06
+authorships:
+- author_id: https://openalex.org/A5049059749
+  display_name: Wenhao Dai
+  orcid: https://orcid.org/0000-0001-8508-7130
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I161716053
+    display_name: China Pharmaceutical University
+    ror: https://ror.org/01sfm2718
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - School of Pharmacy, China Pharmaceutical University, Nanjing 210009, Jiangsu,
+    China.
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+- author_id: https://openalex.org/A5100389663
+  display_name: Bing Zhang
+  orcid: https://orcid.org/0000-0001-8556-8049
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5112565164
+  display_name: Xia-Ming Jiang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210106882
+    display_name: Wuhan Institute of Virology
+    ror: https://ror.org/01jxjav08
+    country_code: CN
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety
+    Mega-Science, Chinese Academy of Sciences, Wuhan 430071, China.
+- author_id: https://openalex.org/A5040922268
+  display_name: Haixia Su
+  orcid: https://orcid.org/0000-0002-7174-3851
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5100402448
+  display_name: Jian Li
+  orcid: https://orcid.org/0000-0001-9434-7803
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I131434179
+    display_name: Nanjing University of Chinese Medicine
+    ror: https://ror.org/04523zj19
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Pharmacy, Nanjing University of Chinese Medicine, Qixia District, Nanjing
+    210023, China.
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+- author_id: https://openalex.org/A5061840421
+  display_name: Yao Zhao
+  orcid: https://orcid.org/0000-0002-2932-2164
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5100927554
+  display_name: Xiong Xie
+  orcid: https://orcid.org/0000-0003-1685-867X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5051409435
+  display_name: Zhenming Jin
+  orcid: https://orcid.org/0000-0001-6448-820X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5060667764
+  display_name: Jingjing Peng
+  orcid: https://orcid.org/0000-0001-7596-4494
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5010053857
+  display_name: Fengjiang Liu
+  orcid: https://orcid.org/0000-0002-9400-308X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5075263856
+  display_name: Chunpu Li
+  orcid: https://orcid.org/0000-0002-3000-0728
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5103247547
+  display_name: You Li
+  orcid: https://orcid.org/0000-0002-5042-9038
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24185976
+    display_name: Sichuan University
+    ror: https://ror.org/011ashp19
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Chengdu Center for Safety Evaluation of Drugs, Westchina Hospital of
+    Sichuan University, High-Tech Development Zone, Chengdu, Sichuan 610041, China.
+- author_id: https://openalex.org/A5068731692
+  display_name: Fang Bai
+  orcid: https://orcid.org/0000-0003-1468-5568
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5080023492
+  display_name: Haofeng Wang
+  orcid: https://orcid.org/0000-0001-8175-5621
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5070050027
+  display_name: Xi Cheng
+  orcid: https://orcid.org/0000-0003-3081-3750
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+- author_id: https://openalex.org/A5071679140
+  display_name: Xiaobo Cen
+  orcid: https://orcid.org/0000-0002-9760-5238
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24185976
+    display_name: Sichuan University
+    ror: https://ror.org/011ashp19
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Chengdu Center for Safety Evaluation of Drugs, Westchina Hospital of
+    Sichuan University, High-Tech Development Zone, Chengdu, Sichuan 610041, China.
+- author_id: https://openalex.org/A5057236010
+  display_name: Shulei Hu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+- author_id: https://openalex.org/A5046197484
+  display_name: Xiuna Yang
+  orcid: https://orcid.org/0000-0003-3443-9815
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5100351627
+  display_name: Jiang Wang
+  orcid: https://orcid.org/0000-0003-1705-4905
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5100408567
+  display_name: Xiang Liu
+  orcid: https://orcid.org/0000-0001-5498-6942
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205237279
+    display_name: Nankai University
+    ror: https://ror.org/01y1kjr75
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4391767646
+    display_name: State Key Laboratory of Medicinal Chemical Biology
+    ror: https://ror.org/032p70522
+    country_code: null
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for
+    Cell Response, College of Life Sciences, College of Pharmacy, Nankai University,
+    Tianjin 300353, China.
+- author_id: https://openalex.org/A5029228548
+  display_name: Gengfu Xiao
+  orcid: https://orcid.org/0000-0001-9401-235X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106882
+    display_name: Wuhan Institute of Virology
+    ror: https://ror.org/01jxjav08
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety
+    Mega-Science, Chinese Academy of Sciences, Wuhan 430071, China.
+- author_id: https://openalex.org/A5001392142
+  display_name: Hualiang Jiang
+  orcid: https://orcid.org/0000-0003-0656-6315
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I161716053
+    display_name: China Pharmaceutical University
+    ror: https://ror.org/01sfm2718
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Pharmacy, China Pharmaceutical University, Nanjing 210009, Jiangsu,
+    China.
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5056028884
+  display_name: Zihe Rao
+  orcid: https://orcid.org/0000-0001-9866-2384
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5060830739
+  display_name: Leike Zhang
+  orcid: https://orcid.org/0000-0002-2593-2571
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210106882
+    display_name: Wuhan Institute of Virology
+    ror: https://ror.org/01jxjav08
+    country_code: CN
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - State Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety
+    Mega-Science, Chinese Academy of Sciences, Wuhan 430071, China.
+- author_id: https://openalex.org/A5101477541
+  display_name: Yechun Xu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5013550923
+  display_name: Haitao Yang
+  orcid: https://orcid.org/0000-0002-1875-3268
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I30809798
+    display_name: ShanghaiTech University
+    ror: https://ror.org/030bhh786
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Shanghai Institute for Advanced Immunochemical Studies and School of Life Science
+    and Technology, ShanghaiTech University, Shanghai 201210, China.
+- author_id: https://openalex.org/A5100410371
+  display_name: Hong Liu
+  orcid: https://orcid.org/0000-0003-3685-6268
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I131434179
+    display_name: Nanjing University of Chinese Medicine
+    ror: https://ror.org/04523zj19
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I161716053
+    display_name: China Pharmaceutical University
+    ror: https://ror.org/01sfm2718
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - College of Pharmacy, Nanjing University of Chinese Medicine, Qixia District, Nanjing
+    210023, China.
+  - School of Pharmacy, China Pharmaceutical University, Nanjing 210009, Jiangsu,
+    China.
+  - State Key Laboratory of Drug Research, CAS Key Laboratory of Receptor Research,
+    Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203,
+    China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+referenced_works:
+- https://openalex.org/W2022934948
+- https://openalex.org/W2027484375
+- https://openalex.org/W2114622716
+- https://openalex.org/W2114626540
+- https://openalex.org/W2119119130
+- https://openalex.org/W2124026197
+- https://openalex.org/W2126918460
+- https://openalex.org/W2137804369
+- https://openalex.org/W2152602391
+- https://openalex.org/W2158812536
+- https://openalex.org/W2161572568
+- https://openalex.org/W2163341755
+- https://openalex.org/W2180229411
+- https://openalex.org/W2237489673
+- https://openalex.org/W2316769242
+- https://openalex.org/W3001456238
+- https://openalex.org/W3001897055
+- https://openalex.org/W3002539152
+- https://openalex.org/W3003217347
+- https://openalex.org/W3003465021
+- https://openalex.org/W3003668884
+- https://openalex.org/W3004280078
+- https://openalex.org/W3004318991
+- https://openalex.org/W3005111420
+- https://openalex.org/W3005212621
+- https://openalex.org/W3005775246
+- https://openalex.org/W3012379316
+- https://openalex.org/W3043490370
+- https://openalex.org/W4248872320
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

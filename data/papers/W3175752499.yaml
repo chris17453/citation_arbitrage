@@ -1,0 +1,264 @@
+id: https://openalex.org/W3175752499
+doi: https://doi.org/10.1016/j.xinn.2021.100141
+title: 'clusterProfiler 4.0: A universal enrichment tool for interpreting omics data'
+publication_date: '2021-07-01'
+publication_year: 2021
+cited_by_count: 10109
+citation_percentile: 0.999982
+pagerank: 2.6003687598289966e-06
+authorships:
+- author_id: https://openalex.org/A5019490993
+  display_name: Tianzhi Wu
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5027301155
+  display_name: Erqiang Hu
+  orcid: https://orcid.org/0000-0002-1798-7513
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5000421632
+  display_name: Shuangbin Xu
+  orcid: https://orcid.org/0000-0003-3513-5362
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5101815066
+  display_name: Meijun Chen
+  orcid: https://orcid.org/0009-0005-3494-6683
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5066459211
+  display_name: Pingfan Guo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5112627872
+  display_name: Zehan Dai
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5015160001
+  display_name: Tingze Feng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5014705738
+  display_name: Lang Zhou
+  orcid: https://orcid.org/0000-0002-4316-1192
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5019245678
+  display_name: Wenli Tang
+  orcid: https://orcid.org/0000-0002-6141-5854
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5036113185
+  display_name: Li Zhan
+  orcid: https://orcid.org/0009-0004-4180-8206
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5027893979
+  display_name: Xiaocong Fu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5100417148
+  display_name: Shanshan Liu
+  orcid: https://orcid.org/0000-0003-3080-7465
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+- author_id: https://openalex.org/A5102983020
+  display_name: Xiaochen Bo
+  orcid: https://orcid.org/0000-0003-3490-5812
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210132047
+    display_name: Beijing Radiation Center
+    ror: https://ror.org/030t7nd77
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biotechnology, Beijing Institute of Radiation Medicine, Beijing
+    100850, China
+- author_id: https://openalex.org/A5027320896
+  display_name: Guangchuang Yu
+  orcid: https://orcid.org/0000-0002-6485-8781
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I58200834
+    display_name: Southern Medical University
+    ror: https://ror.org/01vjw4z39
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210120929
+    display_name: Zhujiang Hospital
+    ror: https://ror.org/02mhxa927
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical
+    University, Guangzhou 510515, China
+  - Guangdong Provincial Key Laboratory of Proteomics, School of Basic Medical Sciences,
+    Southern Medical University, Guangzhou 510515, China
+  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital,
+    Southern Medical University, Guangzhou 510515, China
+referenced_works:
+- https://openalex.org/W1816176398
+- https://openalex.org/W1979594866
+- https://openalex.org/W2001191731
+- https://openalex.org/W2012977478
+- https://openalex.org/W2035618305
+- https://openalex.org/W2100761975
+- https://openalex.org/W2117313288
+- https://openalex.org/W2130410032
+- https://openalex.org/W2133579817
+- https://openalex.org/W2139149201
+- https://openalex.org/W2140099276
+- https://openalex.org/W2141703917
+- https://openalex.org/W2164154943
+- https://openalex.org/W2166574880
+- https://openalex.org/W2169784081
+- https://openalex.org/W2170830174
+- https://openalex.org/W2172557341
+- https://openalex.org/W2186341657
+- https://openalex.org/W2409989580
+- https://openalex.org/W2460110786
+- https://openalex.org/W2472544934
+- https://openalex.org/W2517051411
+- https://openalex.org/W2559588208
+- https://openalex.org/W2599586112
+- https://openalex.org/W2724377567
+- https://openalex.org/W2747998719
+- https://openalex.org/W2765373776
+- https://openalex.org/W2803526872
+- https://openalex.org/W2883731195
+- https://openalex.org/W2895456557
+- https://openalex.org/W2909230349
+- https://openalex.org/W2911986456
+- https://openalex.org/W2941048020
+- https://openalex.org/W2950595506
+- https://openalex.org/W2952523407
+- https://openalex.org/W2952959400
+- https://openalex.org/W2994363107
+- https://openalex.org/W3000787953
+- https://openalex.org/W3002402252
+- https://openalex.org/W3026181871
+- https://openalex.org/W3037659634
+- https://openalex.org/W3099862724
+- https://openalex.org/W3102147110
+- https://openalex.org/W3126956114
+- https://openalex.org/W3134896250
+- https://openalex.org/W3157517304
+- https://openalex.org/W3164713820
+primary_topic: Bioinformatics and Genomic Networks
+open_access: true

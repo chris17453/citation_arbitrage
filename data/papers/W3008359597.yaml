@@ -1,0 +1,1390 @@
+id: https://openalex.org/W3008359597
+doi: https://doi.org/10.1038/s41586-020-2080-8
+title: Mutational signature in colorectal cancer caused by genotoxic pks+ E. coli
+publication_date: '2020-02-27'
+publication_year: 2020
+cited_by_count: 902
+citation_percentile: 0.999906
+pagerank: 2.5763305589840637e-06
+authorships:
+- author_id: https://openalex.org/A5081204044
+  display_name: "Cayetano Pleguezuelos\u2010Manzano"
+  orcid: https://orcid.org/0000-0003-4676-9838
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1322597698
+    display_name: Royal Netherlands Academy of Arts and Sciences
+    ror: https://ror.org/043c0p156
+    country_code: NL
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) and
+    UMC Utrecht, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5050401175
+  display_name: Jens Puschhof
+  orcid: https://orcid.org/0000-0001-9275-4034
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1322597698
+    display_name: Royal Netherlands Academy of Arts and Sciences
+    ror: https://ror.org/043c0p156
+    country_code: NL
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) and
+    UMC Utrecht, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5074662449
+  display_name: Axel Rosendahl Huber
+  orcid: https://orcid.org/0000-0003-4001-5605
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111138
+    display_name: Oncode Institute
+    ror: https://ror.org/01n92vv28
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncode Institute, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5000355154
+  display_name: Arne van Hoeck
+  orcid: https://orcid.org/0000-0002-6570-1452
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111138
+    display_name: Oncode Institute
+    ror: https://ror.org/01n92vv28
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncode Institute, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5021955122
+  display_name: Henry M. Wood
+  orcid: https://orcid.org/0000-0003-3009-5904
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130828816
+    display_name: University of Leeds
+    ror: https://ror.org/024mrxd33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathology and Data Analytics, Leeds Institute of Medical Research at St James's,
+    University of Leeds, Leeds, UK
+- author_id: https://openalex.org/A5010597903
+  display_name: Jason Nomburg
+  orcid: https://orcid.org/0000-0001-7807-8658
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate Program in Virology, Division of Medical Sciences, Harvard Medical School,
+    Boston, MA, USA
+- author_id: https://openalex.org/A5047049914
+  display_name: Carino Gurjao
+  orcid: https://orcid.org/0000-0002-4813-5460
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Dana-Farber Cancer Institute and Harvard Medical
+    School, Boston, MA, USA
+- author_id: https://openalex.org/A5052323199
+  display_name: Freek Manders
+  orcid: https://orcid.org/0000-0001-6197-347X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111138
+    display_name: Oncode Institute
+    ror: https://ror.org/01n92vv28
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncode Institute, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5080950280
+  display_name: Guillaume Dalmasso
+  orcid: https://orcid.org/0000-0002-3433-870X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210123714
+    display_name: Microbe, Intestine, Inflammation and Host Susceptibility
+    ror: https://ror.org/02q7f3j18
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University Clermont Auvergne, Inserm U1071, INRA USC2018, M2iSH, Clermont-Ferrand,
+    France
+- author_id: https://openalex.org/A5019511829
+  display_name: Paul B. Stege
+  orcid: https://orcid.org/0000-0003-2020-2702
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, University Medical Center Utrecht, Utrecht,
+    The Netherlands
+- author_id: https://openalex.org/A5087090079
+  display_name: Fernanda L. Paganelli
+  orcid: https://orcid.org/0000-0001-9990-9203
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, University Medical Center Utrecht, Utrecht,
+    The Netherlands
+- author_id: https://openalex.org/A5068468767
+  display_name: Maarten H. Geurts
+  orcid: https://orcid.org/0009-0006-8832-3745
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111138
+    display_name: Oncode Institute
+    ror: https://ror.org/01n92vv28
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncode Institute, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5016217407
+  display_name: Joep Beumer
+  orcid: https://orcid.org/0000-0002-2055-4444
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1322597698
+    display_name: Royal Netherlands Academy of Arts and Sciences
+    ror: https://ror.org/043c0p156
+    country_code: NL
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) and
+    UMC Utrecht, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5081019294
+  display_name: Tomohiro Mizutani
+  orcid: https://orcid.org/0000-0002-8373-7969
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111138
+    display_name: Oncode Institute
+    ror: https://ror.org/01n92vv28
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncode Institute, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5005654242
+  display_name: Yi Miao
+  orcid: https://orcid.org/0000-0003-0738-6041
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford,
+    CA, USA
+- author_id: https://openalex.org/A5091814599
+  display_name: Reinier van der Linden
+  orcid: https://orcid.org/0000-0001-7437-8901
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1322597698
+    display_name: Royal Netherlands Academy of Arts and Sciences
+    ror: https://ror.org/043c0p156
+    country_code: NL
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) and
+    UMC Utrecht, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5103876598
+  display_name: Stefan van der Elst
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1322597698
+    display_name: Royal Netherlands Academy of Arts and Sciences
+    ror: https://ror.org/043c0p156
+    country_code: NL
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) and
+    UMC Utrecht, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5109451435
+  display_name: J. C. Ambrose
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5108849214
+  display_name: P. Arumugam
+  orcid: https://orcid.org/0000-0002-3564-3191
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5109734273
+  display_name: E. L. Baple
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5048271276
+  display_name: Marta Bleda
+  orcid: https://orcid.org/0000-0002-1287-6013
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5003048867
+  display_name: F. Boardman-Pretty
+  orcid: https://orcid.org/0000-0001-8459-4739
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5107899984
+  display_name: J. M. Boissiere
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5107898792
+  display_name: C. R. Boustred
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5112690295
+  display_name: H. Brittain
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5108705317
+  display_name: M. J. Caulfield
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5018585615
+  display_name: Gcf Chan
+  orcid: https://orcid.org/0000-0001-5032-8985
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5112587428
+  display_name: C. E. H. Craig
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5024088874
+  display_name: Louise C. Daugherty
+  orcid: https://orcid.org/0000-0003-4546-6667
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5065905981
+  display_name: Anna de Burca
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5019045189
+  display_name: A. Devereau
+  orcid: https://orcid.org/0000-0003-0356-1519
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5031649400
+  display_name: Greg Elgar
+  orcid: https://orcid.org/0000-0001-7323-1596
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5010119322
+  display_name: R. E. Foulger
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5055393004
+  display_name: Tom Fowler
+  orcid: https://orcid.org/0000-0002-7258-2279
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5008228503
+  display_name: "Pedro Furi\xF3\u2010Tar\xED"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5045968328
+  display_name: J. M. Hackett
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5020706490
+  display_name: Dina Halai
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5062534223
+  display_name: Angela Hamblin
+  orcid: https://orcid.org/0000-0002-0183-5910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5039225250
+  display_name: Seton Henderson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5066106971
+  display_name: J. E. Holman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5007549481
+  display_name: Tim Hubbard
+  orcid: https://orcid.org/0000-0002-1767-9318
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5002038498
+  display_name: "Kristina Ib\xE1\xF1ez"
+  orcid: https://orcid.org/0000-0002-7718-814X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5069454171
+  display_name: R. Jackson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5110477132
+  display_name: Lesley Jones
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5002790513
+  display_name: D. Kasperaviciute
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5014458985
+  display_name: Melis Kayikci
+  orcid: https://orcid.org/0000-0002-0170-1939
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5021093327
+  display_name: L. Lahnstein
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5018130982
+  display_name: Lovett Lawson
+  orcid: https://orcid.org/0000-0001-9019-7537
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5062194841
+  display_name: S. E. A. Leigh
+  orcid: https://orcid.org/0000-0003-3368-7059
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5029354348
+  display_name: Ivone Leong
+  orcid: https://orcid.org/0000-0002-0831-3461
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5059319222
+  display_name: F. J. Lopez
+  orcid: https://orcid.org/0000-0002-4097-6281
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5072894526
+  display_name: F. Maleady-Crowe
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5026581021
+  display_name: James Mason
+  orcid: https://orcid.org/0000-0001-9210-4082
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5053845353
+  display_name: Ellen M. McDonagh
+  orcid: https://orcid.org/0000-0001-5806-6174
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5040035281
+  display_name: Loukas Moutsianas
+  orcid: https://orcid.org/0000-0001-5453-345X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5022163792
+  display_name: Michael Mueller
+  orcid: https://orcid.org/0000-0003-3217-5385
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5009530521
+  display_name: Nirupa Murugaesu
+  orcid: https://orcid.org/0000-0002-5005-7908
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5058888420
+  display_name: A. C. Need
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5063982664
+  display_name: Christopher A. Odhams
+  orcid: https://orcid.org/0000-0003-2396-6150
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5081912788
+  display_name: Christine Patch
+  orcid: https://orcid.org/0000-0002-4191-0663
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5110809460
+  display_name: D. Perez-Gil
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5007654867
+  display_name: Dimitris Polychronopoulos
+  orcid: https://orcid.org/0000-0001-9427-3082
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5008780949
+  display_name: J. Pullinger
+  orcid: https://orcid.org/0000-0001-9357-1184
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5063495458
+  display_name: T. Rahim
+  orcid: https://orcid.org/0000-0001-6504-0618
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5058403686
+  display_name: Augusto Rendon
+  orcid: https://orcid.org/0000-0001-8994-0039
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5037774310
+  display_name: Pablo Riesgo-Ferreiro
+  orcid: https://orcid.org/0000-0003-2739-1315
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5016412107
+  display_name: Tim Rogers
+  orcid: https://orcid.org/0000-0002-5733-1658
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5042439287
+  display_name: Mina Ryten
+  orcid: https://orcid.org/0000-0001-9520-6957
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5110041746
+  display_name: K. Savage
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5044755722
+  display_name: K. Sawant
+  orcid: https://orcid.org/0000-0001-5351-9576
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5021709237
+  display_name: Richard H. Scott
+  orcid: https://orcid.org/0000-0002-9113-2978
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5051307930
+  display_name: Afshan Siddiq
+  orcid: https://orcid.org/0000-0002-9110-1434
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5071459991
+  display_name: A. Sieghart
+  orcid: https://orcid.org/0000-0001-5484-4346
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5009950897
+  display_name: Damian Smedley
+  orcid: https://orcid.org/0000-0002-5836-9850
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5036382921
+  display_name: Katherine R. Smith
+  orcid: https://orcid.org/0000-0002-0329-5938
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5065495238
+  display_name: Alona Sosinsky
+  orcid: https://orcid.org/0000-0001-9022-7409
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5110238141
+  display_name: W. Spooner
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5027869126
+  display_name: H. E. Stevens
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5108803541
+  display_name: Ashley Stuckey
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5019885528
+  display_name: Razia Sultana Mohammad
+  orcid: https://orcid.org/0000-0001-9623-479X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5103806302
+  display_name: Elaine Thomas
+  orcid: https://orcid.org/0000-0002-6904-5405
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5004837924
+  display_name: S. R. Thompson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5006537715
+  display_name: Carolyn Tregidgo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5088727176
+  display_name: Arianna Tucci
+  orcid: https://orcid.org/0000-0001-5644-0070
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5052899640
+  display_name: Elizabeth T. Walsh
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5011677936
+  display_name: S. A. Watters
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5027497046
+  display_name: M. J. Welland
+  orcid: https://orcid.org/0000-0002-7683-6213
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5053851350
+  display_name: E. G. Williams
+  orcid: https://orcid.org/0000-0003-3913-5095
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5078343001
+  display_name: Kate Witkowska
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5074018804
+  display_name: S. M. Wood
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5022457689
+  display_name: Magdalena Zarowiecki
+  orcid: https://orcid.org/0000-0001-6102-7731
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143578
+    display_name: Genomics England
+    ror: https://ror.org/04rxxfz69
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomics England, London, UK
+- author_id: https://openalex.org/A5017426114
+  display_name: "K. Christopher Garc\xEDa"
+  orcid: https://orcid.org/0000-0001-9273-0278
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Structural Biology, Stanford University School of Medicine, Stanford,
+    CA, USA
+- author_id: https://openalex.org/A5016206046
+  display_name: Janetta Top
+  orcid: https://orcid.org/0000-0002-4620-8128
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, University Medical Center Utrecht, Utrecht,
+    The Netherlands
+- author_id: https://openalex.org/A5114377169
+  display_name: Rob J. L. Willems
+  orcid: https://orcid.org/0000-0002-7370-0812
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, University Medical Center Utrecht, Utrecht,
+    The Netherlands
+- author_id: https://openalex.org/A5048568172
+  display_name: Marios Giannakis
+  orcid: https://orcid.org/0000-0001-9012-6982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA, USA
+- author_id: https://openalex.org/A5111880805
+  display_name: R. Bonnet
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210128870
+    display_name: Centre Hospitalier Universitaire de Clermont-Ferrand
+    ror: https://ror.org/02tcf7a68
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bacteriology, University Hospital of Clermont-Ferrand, Clermont-Ferrand,
+    France
+- author_id: https://openalex.org/A5056121788
+  display_name: Philip Quirke
+  orcid: https://orcid.org/0000-0002-3597-5444
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130828816
+    display_name: University of Leeds
+    ror: https://ror.org/024mrxd33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathology and Data Analytics, Leeds Institute of Medical Research at St James's,
+    University of Leeds, Leeds, UK
+- author_id: https://openalex.org/A5056373767
+  display_name: Matthew Meyerson
+  orcid: https://orcid.org/0000-0002-9133-8108
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Harvard Medical School, Boston, MA, USA
+- author_id: https://openalex.org/A5072084304
+  display_name: Edwin Cuppen
+  orcid: https://orcid.org/0000-0002-0400-9542
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097902
+    display_name: Center for Personalized Cancer Treatment
+    ror: https://ror.org/00xjcve44
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CPCT Consortium, Rotterdam, The Netherlands
+- author_id: https://openalex.org/A5019020568
+  display_name: Ruben van Boxtel
+  orcid: https://orcid.org/0000-0003-1285-2836
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127118
+    display_name: "Princess M\xE1xima Center"
+    ror: https://ror.org/02aj7yc53
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "The Princess M\xE1xima Center for Pediatric Oncology, Utrecht, The Netherlands"
+referenced_works:
+- https://openalex.org/W1980621284
+- https://openalex.org/W1989207761
+- https://openalex.org/W1996173530
+- https://openalex.org/W1996955003
+- https://openalex.org/W2002513358
+- https://openalex.org/W2005271513
+- https://openalex.org/W2075479850
+- https://openalex.org/W2089643849
+- https://openalex.org/W2093398724
+- https://openalex.org/W2094122486
+- https://openalex.org/W2096139589
+- https://openalex.org/W2103441770
+- https://openalex.org/W2111725588
+- https://openalex.org/W2129136620
+- https://openalex.org/W2131478115
+- https://openalex.org/W2152061559
+- https://openalex.org/W2168397218
+- https://openalex.org/W2513084235
+- https://openalex.org/W2524881570
+- https://openalex.org/W2524926761
+- https://openalex.org/W2555723171
+- https://openalex.org/W2567447777
+- https://openalex.org/W2567647827
+- https://openalex.org/W2626550929
+- https://openalex.org/W2755775794
+- https://openalex.org/W2768799378
+- https://openalex.org/W2774520815
+- https://openalex.org/W2786541232
+- https://openalex.org/W2790637625
+- https://openalex.org/W2800002600
+- https://openalex.org/W2809107133
+- https://openalex.org/W2883749459
+- https://openalex.org/W2902846198
+- https://openalex.org/W2912413992
+- https://openalex.org/W2926356503
+- https://openalex.org/W2927453907
+- https://openalex.org/W2938255062
+- https://openalex.org/W2948402706
+- https://openalex.org/W2967933500
+- https://openalex.org/W2976166276
+- https://openalex.org/W2981548686
+- https://openalex.org/W2981552021
+- https://openalex.org/W3004480399
+- https://openalex.org/W3106239080
+- https://openalex.org/W4247053599
+- https://openalex.org/W4254159617
+primary_topic: Cancer Genomics and Diagnostics
+open_access: true

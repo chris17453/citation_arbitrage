@@ -1,0 +1,976 @@
+id: https://openalex.org/W4220673385
+doi: https://doi.org/10.1038/s41586-021-04387-1
+title: Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization
+publication_date: '2021-12-23'
+publication_year: 2021
+cited_by_count: 1122
+citation_percentile: 0.999959
+pagerank: 2.799661736323786e-06
+authorships:
+- author_id: https://openalex.org/A5029167954
+  display_name: Sandile Cele
+  orcid: https://orcid.org/0000-0002-0905-7164
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+  - School of Laboratory Medicine and Medical Sciences, University of KwaZulu-Natal,
+    Durban, South Africa
+- author_id: https://openalex.org/A5018230858
+  display_name: Laurelle Jackson
+  orcid: https://orcid.org/0000-0003-3235-2468
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5032696857
+  display_name: David S. Khoury
+  orcid: https://orcid.org/0000-0002-2663-1551
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5065720886
+  display_name: Khadija Khan
+  orcid: https://orcid.org/0000-0001-7565-7400
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+  - School of Laboratory Medicine and Medical Sciences, University of KwaZulu-Natal,
+    Durban, South Africa
+- author_id: https://openalex.org/A5057721184
+  display_name: Thandeka Moyo-Gwete
+  orcid: https://orcid.org/0000-0002-4269-9281
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I192619145
+    display_name: University of the Witwatersrand
+    ror: https://ror.org/03rp50x72
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I10947320
+    display_name: South African Medical Research Council
+    ror: https://ror.org/05q60vz69
+    country_code: ZA
+    type: other
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute for Communicable Diseases of the National Health Laboratory
+    Service, Johannesburg, South Africa
+  - SA MRC Antibody Immunity Research Unit, School of Pathology, Faculty of Health
+    Sciences, University of the Witwatersrand, Johannesburg, South Africa
+- author_id: https://openalex.org/A5038957518
+  display_name: Houriiyah Tegally
+  orcid: https://orcid.org/0000-0002-7102-8540
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - KwaZulu-Natal Research Innovation and Sequencing Platform, Durban, South Africa
+- author_id: https://openalex.org/A5040564587
+  display_name: James Emmanuel San
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - KwaZulu-Natal Research Innovation and Sequencing Platform, Durban, South Africa
+- author_id: https://openalex.org/A5084962083
+  display_name: Deborah Cromer
+  orcid: https://orcid.org/0000-0002-5276-5094
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5011789840
+  display_name: Cathrine Scheepers
+  orcid: https://orcid.org/0000-0002-1683-0282
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I192619145
+    display_name: University of the Witwatersrand
+    ror: https://ror.org/03rp50x72
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I10947320
+    display_name: South African Medical Research Council
+    ror: https://ror.org/05q60vz69
+    country_code: ZA
+    type: other
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute for Communicable Diseases of the National Health Laboratory
+    Service, Johannesburg, South Africa
+  - SA MRC Antibody Immunity Research Unit, School of Pathology, Faculty of Health
+    Sciences, University of the Witwatersrand, Johannesburg, South Africa
+- author_id: https://openalex.org/A5063425289
+  display_name: Daniel G. Amoako
+  orcid: https://orcid.org/0000-0003-3551-3458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute for Communicable Diseases of the National Health Laboratory
+    Service, Johannesburg, South Africa
+  - School of Laboratory Medicine and Medical Sciences, University of KwaZulu-Natal,
+    Durban, South Africa
+- author_id: https://openalex.org/A5062989379
+  display_name: Farina Karim
+  orcid: https://orcid.org/0000-0001-9698-016X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5004602433
+  display_name: Mallory Bernstein
+  orcid: https://orcid.org/0000-0001-7498-2391
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5086522081
+  display_name: Gila Lustig
+  orcid: https://orcid.org/0000-0002-8204-0182
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800715850
+    display_name: Centre for the AIDS Programme of Research in South Africa
+    ror: https://ror.org/04qkg4668
+    country_code: ZA
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the AIDS Programme of Research in South Africa, Durban, South Africa
+- author_id: https://openalex.org/A5068843080
+  display_name: Derseree Archary
+  orcid: https://orcid.org/0000-0002-2216-2866
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800715850
+    display_name: Centre for the AIDS Programme of Research in South Africa
+    ror: https://ror.org/04qkg4668
+    country_code: ZA
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the AIDS Programme of Research in South Africa, Durban, South Africa
+- author_id: https://openalex.org/A5029033892
+  display_name: Muneerah Smith
+  orcid: https://orcid.org/0000-0002-1516-3270
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Integrative Biomedical Sciences, Faculty of Health Sciences, University
+    of Cape Town, Cape Town, South Africa
+- author_id: https://openalex.org/A5061642890
+  display_name: Yashica Ganga
+  orcid: https://orcid.org/0000-0001-8330-2853
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5040148696
+  display_name: Zesuliwe Jule
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5008632193
+  display_name: Kajal Reedoy
+  orcid: https://orcid.org/0000-0003-1148-2650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5052866092
+  display_name: Shi-Hsia Hwa
+  orcid: https://orcid.org/0000-0002-5648-9808
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5040659613
+  display_name: Jennifer Giandhari
+  orcid: https://orcid.org/0000-0002-2944-4583
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - KwaZulu-Natal Research Innovation and Sequencing Platform, Durban, South Africa
+- author_id: https://openalex.org/A5090452087
+  display_name: Jonathan M. Blackburn
+  orcid: https://orcid.org/0000-0001-8988-9595
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Integrative Biomedical Sciences, Faculty of Health Sciences, University
+    of Cape Town, Cape Town, South Africa
+- author_id: https://openalex.org/A5044061287
+  display_name: Bernadett I. Gosnell
+  orcid: https://orcid.org/0000-0002-6336-7489
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infectious Diseases, Nelson R. Mandela School of Clinical Medicine,
+    University of KwaZulu-Natal, Durban, South Africa
+- author_id: https://openalex.org/A5082618220
+  display_name: Salim S. Abdool Karim
+  orcid: https://orcid.org/0000-0002-4986-2133
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800715850
+    display_name: Centre for the AIDS Programme of Research in South Africa
+    ror: https://ror.org/04qkg4668
+    country_code: ZA
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the AIDS Programme of Research in South Africa, Durban, South Africa
+- author_id: https://openalex.org/A5015195207
+  display_name: Willem A. Hanekom
+  orcid: https://orcid.org/0000-0003-3070-6154
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+  - Division of Infection and Immunity, University College London, London, UK
+- author_id: https://openalex.org/A5027479790
+  display_name: "Mary\u2010Ann Davies"
+  orcid: https://orcid.org/0000-0001-8496-6475
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Disease Epidemiology and Research, School of Public Health
+    and Family Medicine, University of Cape Town, Cape Town, South Africa
+- author_id: https://openalex.org/A5046584384
+  display_name: Marvin Hsiao
+  orcid: https://orcid.org/0000-0003-4926-6216
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Cape Town/Groote Schuur Complex of the National Health Laboratory
+    Service (NHLS), University of Cape Town, Cape Town, South Africa
+- author_id: https://openalex.org/A5064593386
+  display_name: Darren P. Martin
+  orcid: https://orcid.org/0000-0002-8785-0870
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Infectious Disease and Molecular Medicine, University of Cape Town,
+    Cape Town, South Africa
+- author_id: https://openalex.org/A5018428348
+  display_name: Koleka Mlisana
+  orcid: https://orcid.org/0000-0002-8436-3268
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Microbiology Department, University of KwaZulu-Natal, Durban, South Africa
+  - National Health Laboratory Services (NHLS), Durban, South Africa
+- author_id: https://openalex.org/A5026861087
+  display_name: Constantinos Kurt Wibmer
+  orcid: https://orcid.org/0000-0003-2329-2280
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute for Communicable Diseases of the National Health Laboratory
+    Service, Johannesburg, South Africa
+- author_id: https://openalex.org/A5042296790
+  display_name: Carolyn Williamson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute for Communicable Diseases of the National Health Laboratory
+    Service, Johannesburg, South Africa
+- author_id: https://openalex.org/A5110776203
+  display_name: Denis York
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134552
+    display_name: Molecular Diagnostics Services
+    ror: https://ror.org/04554dw68
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Diagnostics Services, Durban, South Africa
+- author_id: https://openalex.org/A5052276718
+  display_name: Rohen Harrichandparsad
+  orcid: https://orcid.org/0000-0002-0391-8496
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurosurgery, University of KwaZulu-Natal, Durban, South Africa
+- author_id: https://openalex.org/A5114134643
+  display_name: Kobus Herbst
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5083327866
+  display_name: Prakash Jeena
+  orcid: https://orcid.org/0000-0001-9244-6285
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Paediatrics and Child Health, University of KwaZulu-Natal, Durban,
+    South Africa
+- author_id: https://openalex.org/A5091569181
+  display_name: Thandeka Khoza
+  orcid: https://orcid.org/0000-0002-0008-5409
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5089411837
+  display_name: "Henrik N. Kl\xF8verpris"
+  orcid: https://orcid.org/0000-0002-2165-3313
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5073126768
+  display_name: Alasdair Leslie
+  orcid: https://orcid.org/0000-0003-2538-6467
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, University College London, London, UK
+- author_id: https://openalex.org/A5062756669
+  display_name: Rajhmun Madansein
+  orcid: https://orcid.org/0000-0001-7306-1304
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cardiothoracic Surgery, University of KwaZulu-Natal, Durban, South
+    Africa
+- author_id: https://openalex.org/A5049781250
+  display_name: Nombulelo Magula
+  orcid: https://orcid.org/0000-0001-8625-9539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210129265
+    display_name: King Edward VIII Hospital
+    ror: https://ror.org/03r56rv89
+    country_code: ZA
+    type: healthcare
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, King Edward VIII Hospital and University of KwaZulu Natal,
+    Durban, South Africa
+- author_id: https://openalex.org/A5029152950
+  display_name: Nithendra Manickchund
+  orcid: https://orcid.org/0000-0002-0919-8506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infectious Diseases, Nelson R. Mandela School of Clinical Medicine,
+    University of KwaZulu-Natal, Durban, South Africa
+- author_id: https://openalex.org/A5008066934
+  display_name: Mohlopheni J. Marakalala
+  orcid: https://orcid.org/0000-0001-7476-1652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+  - Division of Infection and Immunity, University College London, London, UK
+- author_id: https://openalex.org/A5002006889
+  display_name: Matilda Mazibuko
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5002454753
+  display_name: Mosa Moshabela
+  orcid: https://orcid.org/0000-0002-9438-7095
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Health Sciences, University of KwaZulu-Natal, Durban, South Africa
+- author_id: https://openalex.org/A5016574421
+  display_name: Ntombifuthi Mthabela
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5068440170
+  display_name: Kimesh Naidoo
+  orcid: https://orcid.org/0000-0003-4940-0534
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800715850
+    display_name: Centre for the AIDS Programme of Research in South Africa
+    ror: https://ror.org/04qkg4668
+    country_code: ZA
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the AIDS Programme of Research in South Africa, Durban, South Africa
+- author_id: https://openalex.org/A5017060304
+  display_name: Zaza M. Ndhlovu
+  orcid: https://orcid.org/0000-0002-2708-3315
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ragon Institute of MGH, MIT and Harvard, Boston, MA, USA
+- author_id: https://openalex.org/A5040954811
+  display_name: "Thumbi Ndung\u2019u"
+  orcid: https://orcid.org/0000-0003-2962-3992
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087223
+    display_name: Max Planck Institute for Infection Biology
+    ror: https://ror.org/0046gcs23
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute for Infection Biology, Berlin, Germany
+- author_id: https://openalex.org/A5043471128
+  display_name: Nokuthula Ngcobo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5056135996
+  display_name: Kennedy Nyamande
+  orcid: https://orcid.org/0000-0002-8515-0774
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonology and Critical Care, University of KwaZulu-Natal, Durban,
+    South Africa
+- author_id: https://openalex.org/A5101615277
+  display_name: Vinod Patel
+  orcid: https://orcid.org/0000-0002-8164-9578
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, University of KwaZulu-Natal, Durban, South Africa
+- author_id: https://openalex.org/A5059526771
+  display_name: Theresa Smit
+  orcid: https://orcid.org/0000-0003-0400-3500
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+- author_id: https://openalex.org/A5073440523
+  display_name: Adrie J. C. Steyn
+  orcid: https://orcid.org/0000-0001-9177-8827
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32389192
+    display_name: University of Alabama at Birmingham
+    ror: https://ror.org/008s83205
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Diseases, University of Alabama at Birmingham, Birmingham,
+    AL, USA
+- author_id: https://openalex.org/A5050499437
+  display_name: Emily Wong
+  orcid: https://orcid.org/0000-0003-4755-5380
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32389192
+    display_name: University of Alabama at Birmingham
+    ror: https://ror.org/008s83205
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Diseases, University of Alabama at Birmingham, Birmingham,
+    AL, USA
+- author_id: https://openalex.org/A5058553692
+  display_name: Anne von Gottberg
+  orcid: https://orcid.org/0000-0002-0243-7455
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I192619145
+    display_name: University of the Witwatersrand
+    ror: https://ror.org/03rp50x72
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I10947320
+    display_name: South African Medical Research Council
+    ror: https://ror.org/05q60vz69
+    country_code: ZA
+    type: other
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute for Communicable Diseases of the National Health Laboratory
+    Service, Johannesburg, South Africa
+  - SA MRC Antibody Immunity Research Unit, School of Pathology, Faculty of Health
+    Sciences, University of the Witwatersrand, Johannesburg, South Africa
+- author_id: https://openalex.org/A5076138661
+  display_name: Jinal N. Bhiman
+  orcid: https://orcid.org/0000-0001-6354-4003
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I192619145
+    display_name: University of the Witwatersrand
+    ror: https://ror.org/03rp50x72
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I10947320
+    display_name: South African Medical Research Council
+    ror: https://ror.org/05q60vz69
+    country_code: ZA
+    type: other
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute for Communicable Diseases of the National Health Laboratory
+    Service, Johannesburg, South Africa
+  - SA MRC Antibody Immunity Research Unit, School of Pathology, Faculty of Health
+    Sciences, University of the Witwatersrand, Johannesburg, South Africa
+- author_id: https://openalex.org/A5062343676
+  display_name: Richard Lessells
+  orcid: https://orcid.org/0000-0003-0926-710X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800715850
+    display_name: Centre for the AIDS Programme of Research in South Africa
+    ror: https://ror.org/04qkg4668
+    country_code: ZA
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the AIDS Programme of Research in South Africa, Durban, South Africa
+- author_id: https://openalex.org/A5035982137
+  display_name: "Mahomed\u2010Yunus S. Moosa"
+  orcid: https://orcid.org/0000-0001-6191-4023
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infectious Diseases, Nelson R. Mandela School of Clinical Medicine,
+    University of KwaZulu-Natal, Durban, South Africa
+- author_id: https://openalex.org/A5006896785
+  display_name: Miles P. Davenport
+  orcid: https://orcid.org/0000-0002-4751-1831
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5051373841
+  display_name: "T\xFAlio de Oliveira"
+  orcid: https://orcid.org/0000-0002-3027-5254
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Global Health, University of Washington, Seattle, WA, USA
+- author_id: https://openalex.org/A5030822254
+  display_name: Penny L. Moore
+  orcid: https://orcid.org/0000-0001-8719-4028
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I192619145
+    display_name: University of the Witwatersrand
+    ror: https://ror.org/03rp50x72
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I10947320
+    display_name: South African Medical Research Council
+    ror: https://ror.org/05q60vz69
+    country_code: ZA
+    type: other
+  - id: https://openalex.org/I2800715850
+    display_name: Centre for the AIDS Programme of Research in South Africa
+    ror: https://ror.org/04qkg4668
+    country_code: ZA
+    type: other
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I107920810
+    display_name: National Health Laboratory Service
+    ror: https://ror.org/00znvbk37
+    country_code: ZA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for the AIDS Programme of Research in South Africa, Durban, South Africa
+  - Institute of Infectious Disease and Molecular Medicine, University of Cape Town,
+    Cape Town, South Africa
+  - National Institute for Communicable Diseases of the National Health Laboratory
+    Service, Johannesburg, South Africa
+  - SA MRC Antibody Immunity Research Unit, School of Pathology, Faculty of Health
+    Sciences, University of the Witwatersrand, Johannesburg, South Africa
+- author_id: https://openalex.org/A5073746404
+  display_name: Alex Sigal
+  orcid: https://orcid.org/0000-0001-8571-2004
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210087223
+    display_name: Max Planck Institute for Infection Biology
+    ror: https://ror.org/0046gcs23
+    country_code: DE
+    type: facility
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I4210127310
+    display_name: Africa Health Research Institute
+    ror: https://ror.org/034m6ke32
+    country_code: ZA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Africa Health Research Institute, Durban, South Africa
+  - Max Planck Institute for Infection Biology, Berlin, Germany
+  - School of Laboratory Medicine and Medical Sciences, University of KwaZulu-Natal,
+    Durban, South Africa
+referenced_works:
+- https://openalex.org/W2050826226
+- https://openalex.org/W3096064145
+- https://openalex.org/W3126729284
+- https://openalex.org/W3131995220
+- https://openalex.org/W3133794453
+- https://openalex.org/W3133980772
+- https://openalex.org/W3135383916
+- https://openalex.org/W3136570200
+- https://openalex.org/W3137469790
+- https://openalex.org/W3139074260
+- https://openalex.org/W3146894320
+- https://openalex.org/W3148277587
+- https://openalex.org/W3163785571
+- https://openalex.org/W3165479483
+- https://openalex.org/W3199531458
+- https://openalex.org/W3199849883
+- https://openalex.org/W3203602168
+- https://openalex.org/W3207910965
+- https://openalex.org/W3208466650
+- https://openalex.org/W3212439952
+- https://openalex.org/W3212447088
+- https://openalex.org/W4200167646
+- https://openalex.org/W4200186202
+- https://openalex.org/W4200236595
+- https://openalex.org/W4200320470
+- https://openalex.org/W4200505933
+- https://openalex.org/W4200600457
+- https://openalex.org/W4220807057
+- https://openalex.org/W4225691034
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

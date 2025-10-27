@@ -1,0 +1,1901 @@
+id: https://openalex.org/W4317390883
+doi: https://doi.org/10.1038/s41586-022-05473-8
+title: FinnGen provides genetic insights from a well-phenotyped isolated population
+publication_date: '2023-01-18'
+publication_year: 2023
+cited_by_count: 2820
+citation_percentile: 0.999944
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5017396611
+  display_name: Mitja Kurki
+  orcid: https://orcid.org/0000-0002-6010-8617
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston,
+    MA, USA.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA.
+  - Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge,
+    MA, USA.
+- author_id: https://openalex.org/A5112934027
+  display_name: Juha Karjalainen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston,
+    MA, USA.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA.
+  - Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge,
+    MA, USA.
+- author_id: https://openalex.org/A5066237538
+  display_name: Priit Palta
+  orcid: https://orcid.org/0000-0001-9320-7008
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Estonian Genome Centre, Institute of Genomics, University of Tartu, Tartu, Estonia.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5087434511
+  display_name: "Timo P. Sipil\xE4"
+  orcid: https://orcid.org/0000-0001-6739-1606
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5019774367
+  display_name: Kati Kristiansson
+  orcid: https://orcid.org/0000-0003-4688-107X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+- author_id: https://openalex.org/A5031403277
+  display_name: Kati Donner
+  orcid: https://orcid.org/0000-0001-9190-4336
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5043982944
+  display_name: Mary Pat Reeve
+  orcid: https://orcid.org/0000-0003-1788-2321
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5035957107
+  display_name: Hannele Laivuori
+  orcid: https://orcid.org/0000-0003-3212-7826
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I2800394112
+    display_name: Helsinki University Hospital
+    ror: https://ror.org/02e8hzf44
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210126318
+    display_name: Tampere University Hospital
+    ror: https://ror.org/02hvt5f17
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Obstetrics and Gynecology, Tampere University Hospital, Tampere,
+    Finland.
+  - Faculty of Medicine and Health Technology, Center for Child, Adolescent and Maternal
+    Health, University of Tampere, Tampere, Finland.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+  - Medical and Clinical Genetics, University of Helsinki and Helsinki University
+    Hospital, Helsinki, Finland.
+- author_id: https://openalex.org/A5063496761
+  display_name: Mervi Aavikko
+  orcid: https://orcid.org/0000-0003-2583-0150
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5052199048
+  display_name: Mari Kaunisto
+  orcid: https://orcid.org/0000-0002-6946-9195
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5047558899
+  display_name: Anu Loukola
+  orcid: https://orcid.org/0000-0003-0542-5967
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210166427
+    display_name: Hospital District of Helsinki and Uusimaa
+    ror: https://ror.org/020cpqb94
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Helsinki Biobank, University of Helsinki and Hospital District of Helsinki and
+    Uusimaa, Helsinki, Finland.
+- author_id: https://openalex.org/A5066917262
+  display_name: Elisa Lahtela
+  orcid: https://orcid.org/0000-0001-7370-1762
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5081812419
+  display_name: Hannele Mattsson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+- author_id: https://openalex.org/A5023095371
+  display_name: "P\xE4ivi Laiho"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+- author_id: https://openalex.org/A5041178410
+  display_name: Pietro Della Briotta Parolo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5057953008
+  display_name: "Arto Lehist\xF6"
+  orcid: https://orcid.org/0000-0003-2972-470X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5013139956
+  display_name: Masahiro Kanai
+  orcid: https://orcid.org/0000-0001-5165-4408
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston,
+    MA, USA.
+  - Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA.
+  - Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge,
+    MA, USA.
+- author_id: https://openalex.org/A5061885811
+  display_name: Nina Mars
+  orcid: https://orcid.org/0000-0002-7259-5993
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5044378355
+  display_name: "Joel R\xE4m\xF6"
+  orcid: https://orcid.org/0000-0002-6429-5149
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5088371050
+  display_name: Tuomo Kiiskinen
+  orcid: https://orcid.org/0000-0002-6306-8227
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5033226852
+  display_name: Henrike Heyne
+  orcid: https://orcid.org/0000-0001-9893-3850
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I143288331
+    display_name: Hasso Plattner Institute
+    ror: https://ror.org/058rn5r42
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I176453806
+    display_name: University of Potsdam
+    ror: https://ror.org/03bnmw459
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Digital Health Center, Hasso Plattner Institute for Digital Engineering, University
+    of Potsdam Potsdam, Potsdam, Germany.
+  - Hasso Plattner Institute for Digital Health at Mount Sinai, Department of Genetics
+    and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA.
+  - Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge,
+    MA, USA.
+- author_id: https://openalex.org/A5014896157
+  display_name: Kumar Veerapen
+  orcid: https://orcid.org/0000-0001-6768-7060
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston,
+    MA, USA.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA.
+  - Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge,
+    MA, USA.
+- author_id: https://openalex.org/A5054695994
+  display_name: "Sina R\xFCeger"
+  orcid: https://orcid.org/0000-0003-2848-9242
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5037148639
+  display_name: "Susanna Lemmel\xE4"
+  orcid: https://orcid.org/0000-0001-6027-8715
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5100766761
+  display_name: Wei Zhou
+  orcid: https://orcid.org/0000-0001-7719-0859
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston,
+    MA, USA.
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA.
+  - Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge,
+    MA, USA.
+- author_id: https://openalex.org/A5043062017
+  display_name: Sanni Ruotsalainen
+  orcid: https://orcid.org/0000-0002-1631-4069
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5000090310
+  display_name: "Kalle P\xE4rn"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5001091496
+  display_name: Tero Hiekkalinna
+  orcid: https://orcid.org/0000-0002-3345-2981
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+- author_id: https://openalex.org/A5003567449
+  display_name: Sami Koskelainen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+- author_id: https://openalex.org/A5085125013
+  display_name: Teemu Paajanen
+  orcid: https://orcid.org/0000-0003-3499-4800
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+- author_id: https://openalex.org/A5015118948
+  display_name: Vincent Llorens
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5055263342
+  display_name: "Javier Gracia\u2010Tabuenca"
+  orcid: https://orcid.org/0000-0002-2455-0598
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - TAUCHI Research Center, Faculty of Information Technology and Communication Sciences,
+    Tampere University, Tampere, Finland.
+- author_id: https://openalex.org/A5002033823
+  display_name: Harri Siirtola
+  orcid: https://orcid.org/0000-0002-4720-1702
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - TAUCHI Research Center, Faculty of Information Technology and Communication Sciences,
+    Tampere University, Tampere, Finland.
+- author_id: https://openalex.org/A5040675172
+  display_name: Kadri Reis
+  orcid: https://orcid.org/0000-0002-2144-5856
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Estonian Genome Centre, Institute of Genomics, University of Tartu, Tartu, Estonia.
+- author_id: https://openalex.org/A5038065072
+  display_name: Abdelrahman G. Elnahas
+  orcid: https://orcid.org/0009-0008-3389-0720
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Estonian Genome Centre, Institute of Genomics, University of Tartu, Tartu, Estonia.
+- author_id: https://openalex.org/A5001174275
+  display_name: Benjamin B. Sun
+  orcid: https://orcid.org/0000-0001-6347-2281
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BHF Cardiovascular Epidemiology Unit, Department of Public Health and Primary
+    Care, University of Cambridge, Cambridge, UK.
+  - Translational Biology, Research and Development, Biogen, Cambridge, MA, USA.
+- author_id: https://openalex.org/A5044626025
+  display_name: Christopher N. Foley
+  orcid: https://orcid.org/0000-0002-0970-2610
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092780
+    display_name: Optimat (United Kingdom)
+    ror: https://ror.org/00q1rsz50
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Biostatistics Unit, School of Clinical Medicine, University of Cambridge,
+    Cambridge, UK.
+  - Optima Partners, Edinburgh, UK.
+- author_id: https://openalex.org/A5027482380
+  display_name: "Katriina Aalto\u2010Set\xE4l\xE4"
+  orcid: https://orcid.org/0000-0003-0334-2172
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.
+- author_id: https://openalex.org/A5012002618
+  display_name: Kaur Alasoo
+  orcid: https://orcid.org/0000-0002-1761-8881
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Computer Science, University of Tartu, Tartu, Estonia.
+- author_id: https://openalex.org/A5036297981
+  display_name: Mikko Arvas
+  orcid: https://orcid.org/0000-0002-6902-8488
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801434414
+    display_name: Finnish Red Cross
+    ror: https://ror.org/045thge14
+    country_code: FI
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Red Cross Blood Service, Helsinki, Finland.
+- author_id: https://openalex.org/A5112585032
+  display_name: Kirsi Auro
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115161
+    display_name: Glaxosmithkline (Finland)
+    ror: https://ror.org/01jxkq910
+    country_code: FI
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - GlaxoSmithKline, Espoo, Finland.
+- author_id: https://openalex.org/A5019382305
+  display_name: Shameek Biswas
+  orcid: https://orcid.org/0000-0002-9372-1143
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091812
+    display_name: Bristol-Myers Squibb (United States)
+    ror: https://ror.org/00gtmwv55
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bristol Myers Squibb, New York, NY, USA.
+- author_id: https://openalex.org/A5031857162
+  display_name: Argyro Bizaki-Vallaskangas
+  orcid: https://orcid.org/0000-0001-9484-0913
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210126318
+    display_name: Tampere University Hospital
+    ror: https://ror.org/02hvt5f17
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tampere University Hospital and Tampere University, Tampere, Finland.
+- author_id: https://openalex.org/A5030148031
+  display_name: "Olli Carp\xE9n"
+  orcid: https://orcid.org/0000-0002-7847-5706
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210166427
+    display_name: Hospital District of Helsinki and Uusimaa
+    ror: https://ror.org/020cpqb94
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Helsinki Biobank, University of Helsinki and Hospital District of Helsinki and
+    Uusimaa, Helsinki, Finland.
+- author_id: https://openalex.org/A5035223725
+  display_name: "Chia\u2010Yen Chen"
+  orcid: https://orcid.org/0000-0001-9548-5597
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biogen, Cambridge, MA, USA.
+- author_id: https://openalex.org/A5070679810
+  display_name: Oluwaseun Alexander Dada
+  orcid: https://orcid.org/0000-0003-2941-0911
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5029261155
+  display_name: Zhihao Ding
+  orcid: https://orcid.org/0000-0003-0961-2284
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1330995197
+    display_name: Boehringer Ingelheim (Germany)
+    ror: https://ror.org/00q32j219
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boehringer Ingelheim, Ingelheim am Rhein, Germany.
+- author_id: https://openalex.org/A5077581482
+  display_name: Margaret G. Ehm
+  orcid: https://orcid.org/0000-0001-5032-5637
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114143
+    display_name: GlaxoSmithKline (United States)
+    ror: https://ror.org/025vn3989
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - GlaxoSmithKline, Collegeville, PA, USA.
+- author_id: https://openalex.org/A5058020478
+  display_name: Kari K. Eklund
+  orcid: https://orcid.org/0000-0002-5870-4663
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800394112
+    display_name: Helsinki University Hospital
+    ror: https://ror.org/02e8hzf44
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I4210110770
+    display_name: "Invalidis\xE4\xE4ti\xF6"
+    ror: https://ror.org/020vv3w23
+    country_code: FI
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Rheumatology, Department of Medicine, Helsinki University Central
+    Hospital, Helsinki, Finland.
+  - Orton Orthopedic Hospital, Helsinki, Finland.
+- author_id: https://openalex.org/A5065139294
+  display_name: "Martti F\xE4rkkil\xE2"
+  orcid: https://orcid.org/0000-0002-0250-8559
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I2800394112
+    display_name: Helsinki University Hospital
+    ror: https://ror.org/02e8hzf44
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Abdominal Center, Helsinki University Hospital, Helsinki University, Helsinki,
+    Finland.
+- author_id: https://openalex.org/A5021444806
+  display_name: Hilary K. Finucane
+  orcid: https://orcid.org/0000-0003-3864-9828
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston,
+    MA, USA.
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA.
+  - Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge,
+    MA, USA.
+- author_id: https://openalex.org/A5073500794
+  display_name: Andrea Ganna
+  orcid: https://orcid.org/0000-0002-8147-240X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston,
+    MA, USA.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+  - Program in Medical and Population Genetics, Broad Institute of Harvard and MIT,
+    Cambridge, MA, USA.
+  - Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, Cambridge,
+    MA, USA.
+- author_id: https://openalex.org/A5066690176
+  display_name: Awaisa Ghazal
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5006090041
+  display_name: Robert Graham
+  orcid: https://orcid.org/0000-0001-7151-4277
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122394
+    display_name: Maze (United States)
+    ror: https://ror.org/030sdfc18
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Maze Therapeutics, South San Francisco, CA, USA.
+- author_id: https://openalex.org/A5022150928
+  display_name: Eric M. Green
+  orcid: https://orcid.org/0000-0001-7874-9482
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122394
+    display_name: Maze (United States)
+    ror: https://ror.org/030sdfc18
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Maze Therapeutics, South San Francisco, CA, USA.
+- author_id: https://openalex.org/A5016961250
+  display_name: Antti Hakanen
+  orcid: https://orcid.org/0000-0003-4180-0306
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801970007
+    display_name: Turku University Hospital
+    ror: https://ror.org/05dbzj528
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I155660961
+    display_name: University of Turku
+    ror: https://ror.org/05vghhr25
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Auria Biobank, University of Turku and Turku University Hospital, Turku, Finland.
+- author_id: https://openalex.org/A5042362361
+  display_name: Marco Hautalahti
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FINBB, Finnish Biobank Cooperative, Helsinki, Finland.
+- author_id: https://openalex.org/A5090139506
+  display_name: "\xC5sa K. Hedman"
+  orcid: https://orcid.org/0000-0001-5413-204X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Karolinska Institute, Solna, Sweden.
+  - Pfizer, New York, NY, USA.
+- author_id: https://openalex.org/A5082600086
+  display_name: Mikko Hiltunen
+  orcid: https://orcid.org/0000-0003-3566-4096
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126318
+    display_name: Tampere University Hospital
+    ror: https://ror.org/02hvt5f17
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Biobank Tampere, Tampere University and Tampere University Hospital,
+    Tampere, Finland.
+- author_id: https://openalex.org/A5063104099
+  display_name: Reetta Hinttala
+  orcid: https://orcid.org/0000-0002-7642-4008
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98381234
+    display_name: University of Oulu
+    ror: https://ror.org/03yj89h83
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I2799272722
+    display_name: Oulu University Hospital
+    ror: https://ror.org/045ney286
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biocenter Oulu, University of Oulu, Oulu, Finland.
+  - Medical Research Center Oulu and PEDEGO Research Unit, University of Oulu, Oulu,
+    Finland.
+  - Oulu University Hospital, Oulu, Finland.
+- author_id: https://openalex.org/A5054298399
+  display_name: Iiris Hovatta
+  orcid: https://orcid.org/0000-0002-5990-7892
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychology and Logopedics, Faculty of Medicine, University of Helsinki,
+    Helsinki, Finland.
+  - SleepWell Research Program, Faculty of Medicine, University of Helsinki, Helsinki,
+    Finland.
+- author_id: https://openalex.org/A5049924565
+  display_name: Xinli Hu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pfizer, New York, NY, USA.
+- author_id: https://openalex.org/A5107935682
+  display_name: "Adriana Huertas\u2010V\xE1zquez"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1285764155
+    display_name: Merck & Co., Inc., Rahway, NJ, USA (United States)
+    ror: https://ror.org/02891sr49
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Merck & Co, Kenilworth, NJ, USA.
+- author_id: https://openalex.org/A5024812595
+  display_name: Laura Huilaja
+  orcid: https://orcid.org/0000-0002-7597-4323
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98381234
+    display_name: University of Oulu
+    ror: https://ror.org/03yj89h83
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I2799272722
+    display_name: Oulu University Hospital
+    ror: https://ror.org/045ney286
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Dermatology and Medical Research Center Oulu, Oulu University Hospital,
+    Oulu, Finland.
+  - PEDEGO Research Unit, University of Oulu, Oulu, Finland.
+- author_id: https://openalex.org/A5110991427
+  display_name: Julie Hunkapiller
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genentech, San Francisco, CA, USA.
+- author_id: https://openalex.org/A5105789969
+  display_name: Howard Jacob
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2948539688
+    display_name: AbbVie (United States)
+    ror: https://ror.org/02g5p4n58
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - AbbVie, Chicago, IL, USA.
+- author_id: https://openalex.org/A5086201285
+  display_name: Jan-Nygaard Jensen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1330995197
+    display_name: Boehringer Ingelheim (Germany)
+    ror: https://ror.org/00q32j219
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boehringer Ingelheim, Ingelheim am Rhein, Germany.
+- author_id: https://openalex.org/A5090618504
+  display_name: Heikki Joensuu
+  orcid: https://orcid.org/0000-0003-0281-2507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I2800394112
+    display_name: Helsinki University Hospital
+    ror: https://ror.org/02e8hzf44
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Helsinki University Hospital and University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5111622517
+  display_name: Sally John
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biogen, Cambridge, MA, USA.
+- author_id: https://openalex.org/A5042850649
+  display_name: Valtteri Julkunen
+  orcid: https://orcid.org/0000-0002-8727-8536
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I175532246
+    display_name: University of Eastern Finland
+    ror: https://ror.org/00cyydd11
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210092991
+    display_name: Kuopio University Hospital
+    ror: https://ror.org/00fqdfs68
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Medicine-Neurology, University of Eastern Finland, Kuopio,
+    Finland.
+  - Neuro Center, Neurology, Kuopio University Hospital, Kuopio, Finland.
+- author_id: https://openalex.org/A5002960624
+  display_name: Marc Jung
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1330995197
+    display_name: Boehringer Ingelheim (Germany)
+    ror: https://ror.org/00q32j219
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boehringer Ingelheim, Ingelheim am Rhein, Germany.
+- author_id: https://openalex.org/A5053247564
+  display_name: Juhani Junttila
+  orcid: https://orcid.org/0000-0002-8896-1281
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210130546
+    display_name: Northern Ostrobothnia Hospital District
+    ror: https://ror.org/03ht5e806
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I98381234
+    display_name: University of Oulu
+    ror: https://ror.org/03yj89h83
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210102514
+    display_name: Borealis (Finland)
+    ror: https://ror.org/019qdfq91
+    country_code: FI
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Northern Finland Biobank Borealis, University of Oulu, Northern Ostrobothnia Hospital
+    District, Oulu, Finland.
+- author_id: https://openalex.org/A5021448617
+  display_name: Kai Kaarniranta
+  orcid: https://orcid.org/0000-0003-2600-8679
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092991
+    display_name: Kuopio University Hospital
+    ror: https://ror.org/00fqdfs68
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I175532246
+    display_name: University of Eastern Finland
+    ror: https://ror.org/00cyydd11
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Ophthalmology, Institute of Clinical Medicine, University of Eastern
+    Finland, Kuopio, Finland.
+  - Department of Ophthalmology, Kuopio University Hospital, Kuopio, Finland.
+- author_id: https://openalex.org/A5045767788
+  display_name: "Mika K\xE4h\xF6nen"
+  orcid: https://orcid.org/0000-0002-4510-7341
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126318
+    display_name: Tampere University Hospital
+    ror: https://ror.org/02hvt5f17
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Physiology, Tampere University Hospital, Tampere, Finland.
+  - Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland.
+- author_id: https://openalex.org/A5043494315
+  display_name: Risto Kajanne
+  orcid: https://orcid.org/0000-0002-3405-7115
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5108140468
+  display_name: Lila Kallio
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801970007
+    display_name: Turku University Hospital
+    ror: https://ror.org/05dbzj528
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I155660961
+    display_name: University of Turku
+    ror: https://ror.org/05vghhr25
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Auria Biobank, University of Turku and Turku University Hospital, Turku, Finland.
+- author_id: https://openalex.org/A5025493981
+  display_name: "Reetta K\xE4lvi\xE4inen"
+  orcid: https://orcid.org/0000-0003-2935-5131
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I175532246
+    display_name: University of Eastern Finland
+    ror: https://ror.org/00cyydd11
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210092991
+    display_name: Kuopio University Hospital
+    ror: https://ror.org/00fqdfs68
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, University of Eastern Finland, Kuopio, Finland.
+  - Epilepsy Center, Kuopio University Hospital, Kuopio, Finland.
+- author_id: https://openalex.org/A5002275174
+  display_name: Jaakko Kaprio
+  orcid: https://orcid.org/0000-0002-3716-2455
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Public Health, University of Helsinki, Helsinki, Finland.
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5020003945
+  display_name: Nurlan Kerimov
+  orcid: https://orcid.org/0000-0001-7660-3148
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Computer Science, University of Tartu, Tartu, Estonia.
+- author_id: https://openalex.org/A5022876944
+  display_name: Johannes Kettunen
+  orcid: https://orcid.org/0000-0002-3345-491X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  - id: https://openalex.org/I98381234
+    display_name: University of Oulu
+    ror: https://ror.org/03yj89h83
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biocenter Oulu, University of Oulu, Oulu, Finland.
+  - Computational Medicine, Center for Life Course Health Research, Faculty of Medicine,
+    University of Oulu, Oulu, Finland.
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+- author_id: https://openalex.org/A5034432440
+  display_name: "Elina Kilpel\xE4inen"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5074159991
+  display_name: Terhi Kilpi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39624965
+    display_name: Finnish Institute for Health and Welfare
+    ror: https://ror.org/03tf0c761
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Institute for Health and Welfare (THL), Helsinki, Finland.
+- author_id: https://openalex.org/A5113700879
+  display_name: K. Klinger
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Translational Sciences, Sanofi R&D, Framingham, MA, USA.
+- author_id: https://openalex.org/A5111551947
+  display_name: "Veli\u2010Matti Kosma"
+  orcid: https://orcid.org/0000-0001-9794-9797
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I175532246
+    display_name: University of Eastern Finland
+    ror: https://ror.org/00cyydd11
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210107997
+    display_name: Finland University
+    ror: https://ror.org/014rks409
+    country_code: FI
+    type: education
+  - id: https://openalex.org/I4210092991
+    display_name: Kuopio University Hospital
+    ror: https://ror.org/00fqdfs68
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biobank of Eastern Finland, University of Eastern Finland, Kuopio, Finland.
+  - Kuopio University Hospital, Kuopio, Finland.
+- author_id: https://openalex.org/A5030000724
+  display_name: Teijo Kuopio
+  orcid: https://orcid.org/0000-0003-3503-4094
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140036
+    display_name: Central Finland Health Care District
+    ror: https://ror.org/054h11b04
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Central Finland Biobank, Central Finland Health Care District, Jyv\xE4skyl\xE4\
+    , Finland."
+- author_id: https://openalex.org/A5017949423
+  display_name: Venla Kurra
+  orcid: https://orcid.org/0000-0002-3086-733X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126318
+    display_name: Tampere University Hospital
+    ror: https://ror.org/02hvt5f17
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Genetics, Faculty of Medicine and Health Technology, Tampere,
+    Finland.
+  - Department of Clinical Genetics, Tampere University Hospital, Tampere, Finland.
+- author_id: https://openalex.org/A5042176597
+  display_name: Triin Laisk
+  orcid: https://orcid.org/0000-0003-1501-9030
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Estonian Genome Centre, Institute of Genomics, University of Tartu, Tartu, Estonia.
+- author_id: https://openalex.org/A5053917493
+  display_name: Jari A. Laukkanen
+  orcid: https://orcid.org/0000-0002-3738-1586
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140036
+    display_name: Central Finland Health Care District
+    ror: https://ror.org/054h11b04
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I175532246
+    display_name: University of Eastern Finland
+    ror: https://ror.org/00cyydd11
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Central Finland Biobank, Central Finland Health Care District, Jyv\xE4skyl\xE4\
+    , Finland."
+  - Department of Medicine, Institute of Clinical Medicine, University of Eastern
+    Finland, Kuopio, Finland.
+- author_id: https://openalex.org/A5001288398
+  display_name: Nathan Lawless
+  orcid: https://orcid.org/0000-0002-3120-1126
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1330995197
+    display_name: Boehringer Ingelheim (Germany)
+    ror: https://ror.org/00q32j219
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boehringer Ingelheim, Ingelheim am Rhein, Germany.
+- author_id: https://openalex.org/A5030801342
+  display_name: Aoxing Liu
+  orcid: https://orcid.org/0000-0002-9155-1494
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133586
+    display_name: Institute for Molecular Medicine Finland
+    ror: https://ror.org/030sbze61
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life Science
+    (HiLIFE), University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5027600522
+  display_name: Simonne Longerich
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1285764155
+    display_name: Merck & Co., Inc., Rahway, NJ, USA (United States)
+    ror: https://ror.org/02891sr49
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Merck & Co, Kenilworth, NJ, USA.
+- author_id: https://openalex.org/A5068163296
+  display_name: "Reedik M\xE4gi"
+  orcid: https://orcid.org/0000-0002-2964-6011
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Estonian Genome Centre, Institute of Genomics, University of Tartu, Tartu, Estonia.
+- author_id: https://openalex.org/A5042358836
+  display_name: "Johanna M\xE4kel\xE4"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FINBB, Finnish Biobank Cooperative, Turku, Finland.
+- author_id: https://openalex.org/A5007965763
+  display_name: "Antti M\xE4kitie"
+  orcid: https://orcid.org/0000-0002-0451-2404
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I2800394112
+    display_name: Helsinki University Hospital
+    ror: https://ror.org/02e8hzf44
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Otorhinolaryngology-Head and Neck Surgery, University of Helsinki,
+    Helsinki, Finland.
+  - Helsinki University Hospital, Helsinki, Finland.
+- author_id: https://openalex.org/A5028094654
+  display_name: "Anders M\xE4larstig"
+  orcid: https://orcid.org/0000-0003-2608-1358
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Epidemiology and Biostatistics, Karolinska Institute, Solna,
+    Sweden.
+  - Pfizer, Cambridge, MA, USA.
+- author_id: https://openalex.org/A5088150654
+  display_name: Graham J. Mann
+  orcid: https://orcid.org/0000-0003-1301-405X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I175532246
+    display_name: University of Eastern Finland
+    ror: https://ror.org/00cyydd11
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I4210107997
+    display_name: Finland University
+    ror: https://ror.org/014rks409
+    country_code: FI
+    type: education
+  - id: https://openalex.org/I4210092991
+    display_name: Kuopio University Hospital
+    ror: https://ror.org/00fqdfs68
+    country_code: FI
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biobank of Eastern Finland, University of Eastern Finland, Kuopio, Finland.
+  - Kuopio University Hospital, Kuopio, Finland.
+- author_id: https://openalex.org/A5090254983
+  display_name: Joseph Maranville
+  orcid: https://orcid.org/0000-0002-1688-1573
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091812
+    display_name: Bristol-Myers Squibb (United States)
+    ror: https://ror.org/00gtmwv55
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bristol Myers Squibb, New York, NY, USA.
+- author_id: https://openalex.org/A5045493603
+  display_name: Athena Matakidou
+  orcid: https://orcid.org/0000-0002-8656-3802
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I105036370
+    display_name: AstraZeneca (United Kingdom)
+    ror: https://ror.org/04r9x1a08
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Genomics Research, Discovery Sciences, BioPharmaceuticals R&D, AstraZeneca,
+    Cambridge, UK.
+- author_id: https://openalex.org/A5013569815
+  display_name: Tuomo J Meretoja
+  orcid: https://orcid.org/0000-0002-2691-0710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800394112
+    display_name: Helsinki University Hospital
+    ror: https://ror.org/02e8hzf44
+    country_code: FI
+    type: healthcare
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Helsinki University Hospital and University of Helsinki, Helsinki, Finland.
+- author_id: https://openalex.org/A5013482714
+  display_name: Sahar V. Mozaffari
+  orcid: https://orcid.org/0000-0002-8216-1670
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122394
+    display_name: Maze (United States)
+    ror: https://ror.org/030sdfc18
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Maze Therapeutics, South San Francisco, CA, USA.
+referenced_works:
+- https://openalex.org/W1489420155
+- https://openalex.org/W1830916533
+- https://openalex.org/W1848828990
+- https://openalex.org/W1986818660
+- https://openalex.org/W2098482403
+- https://openalex.org/W2104549677
+- https://openalex.org/W2115801316
+- https://openalex.org/W2166124982
+- https://openalex.org/W2289246536
+- https://openalex.org/W2461155898
+- https://openalex.org/W2547919599
+- https://openalex.org/W2555614465
+- https://openalex.org/W2605706957
+- https://openalex.org/W2609051652
+- https://openalex.org/W2619692554
+- https://openalex.org/W2689256168
+- https://openalex.org/W2723723801
+- https://openalex.org/W2762475241
+- https://openalex.org/W2763344981
+- https://openalex.org/W2770026599
+- https://openalex.org/W2775393828
+- https://openalex.org/W2794121782
+- https://openalex.org/W2895486342
+- https://openalex.org/W2901303766
+- https://openalex.org/W2950099124
+- https://openalex.org/W2951262789
+- https://openalex.org/W2966886256
+- https://openalex.org/W2994028870
+- https://openalex.org/W2999009832
+- https://openalex.org/W3002701846
+- https://openalex.org/W3011810785
+- https://openalex.org/W3015631361
+- https://openalex.org/W3021078061
+- https://openalex.org/W3022576198
+- https://openalex.org/W3029661147
+- https://openalex.org/W3033596111
+- https://openalex.org/W3037404046
+- https://openalex.org/W3042068575
+- https://openalex.org/W3106143834
+- https://openalex.org/W3109235605
+- https://openalex.org/W3118849389
+- https://openalex.org/W3119847398
+- https://openalex.org/W3122622362
+- https://openalex.org/W3126778118
+- https://openalex.org/W3157950658
+- https://openalex.org/W3162892136
+- https://openalex.org/W3182807823
+- https://openalex.org/W3193910581
+- https://openalex.org/W3195090707
+- https://openalex.org/W3196426274
+- https://openalex.org/W3196521151
+- https://openalex.org/W3202209876
+- https://openalex.org/W3217078466
+- https://openalex.org/W4213454312
+- https://openalex.org/W4220920955
+- https://openalex.org/W4229014957
+- https://openalex.org/W4244350811
+- https://openalex.org/W4249913495
+- https://openalex.org/W4280590293
+- https://openalex.org/W4292323902
+- https://openalex.org/W4317242287
+- https://openalex.org/W4317390715
+primary_topic: Genetic Associations and Epidemiology
+open_access: true

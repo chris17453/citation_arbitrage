@@ -1,0 +1,236 @@
+id: https://openalex.org/W3091506611
+doi: https://doi.org/10.1038/s41592-020-00971-x
+title: 'metaFlye: scalable long-read metagenome assembly using repeat graphs'
+publication_date: '2020-10-05'
+publication_year: 2020
+cited_by_count: 814
+citation_percentile: 0.999983
+pagerank: 2.5609137539709426e-06
+authorships:
+- author_id: https://openalex.org/A5025147358
+  display_name: Mikhail Kolmogorov
+  orcid: https://orcid.org/0000-0002-5489-9045
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, University of California, San
+    Diego, CA, USA
+- author_id: https://openalex.org/A5002044231
+  display_name: Derek M. Bickhart
+  orcid: https://orcid.org/0000-0003-2223-9285
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143546
+    display_name: U.S. Dairy Forage Research Center
+    ror: https://ror.org/048zyw409
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cell Wall Biology and Utilization Laboratory, Dairy Forage Research Center, USDA,
+    Madison, WI, USA
+- author_id: https://openalex.org/A5035220791
+  display_name: Bahar Behsaz
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate Program in Bioinformatics and System Biology, University of California,
+    San Diego, CA, USA
+- author_id: https://openalex.org/A5030895995
+  display_name: Alexey Gurevich
+  orcid: https://orcid.org/0000-0002-5855-3519
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172901346
+    display_name: St Petersburg University
+    ror: https://ror.org/023znxa73
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Algorithmic Biotechnology, St. Petersburg State University, St. Petersburg,
+    Russia
+- author_id: https://openalex.org/A5065862017
+  display_name: Mikhail Rayko
+  orcid: https://orcid.org/0000-0002-3737-1521
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172901346
+    display_name: St Petersburg University
+    ror: https://ror.org/023znxa73
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Algorithmic Biotechnology, St. Petersburg State University, St. Petersburg,
+    Russia
+- author_id: https://openalex.org/A5038805108
+  display_name: Sung Bong Shin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135792
+    display_name: Roman L. Hruska U.S. Meat Animal Research Center
+    ror: https://ror.org/03hya7h57
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - USDA-ARS US Meat Animal Research Center, Clay Center, NE, USA
+- author_id: https://openalex.org/A5075763377
+  display_name: Kristen L. Kuhn
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135792
+    display_name: Roman L. Hruska U.S. Meat Animal Research Center
+    ror: https://ror.org/03hya7h57
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - USDA-ARS US Meat Animal Research Center, Clay Center, NE, USA
+- author_id: https://openalex.org/A5078202188
+  display_name: Jeffrey Yuan
+  orcid: https://orcid.org/0000-0003-3855-1994
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate Program in Bioinformatics and System Biology, University of California,
+    San Diego, CA, USA
+- author_id: https://openalex.org/A5036076504
+  display_name: Evgeny Polevikov
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172901346
+    display_name: St Petersburg University
+    ror: https://ror.org/023znxa73
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Algorithmic Biotechnology, St. Petersburg State University, St. Petersburg,
+    Russia
+- author_id: https://openalex.org/A5064402534
+  display_name: Timothy P. L. Smith
+  orcid: https://orcid.org/0000-0003-1611-6828
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135792
+    display_name: Roman L. Hruska U.S. Meat Animal Research Center
+    ror: https://ror.org/03hya7h57
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - USDA-ARS US Meat Animal Research Center, Clay Center, NE, USA
+- author_id: https://openalex.org/A5027480961
+  display_name: Pavel A. Pevzner
+  orcid: https://orcid.org/0000-0002-0418-165X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Microbiome Innovation, University of California, San Diego, CA, USA
+referenced_works:
+- https://openalex.org/W1750841778
+- https://openalex.org/W1833347391
+- https://openalex.org/W1982855075
+- https://openalex.org/W2011301426
+- https://openalex.org/W2012251902
+- https://openalex.org/W2013798014
+- https://openalex.org/W2034285706
+- https://openalex.org/W2042661579
+- https://openalex.org/W2045204781
+- https://openalex.org/W2052591459
+- https://openalex.org/W2099273939
+- https://openalex.org/W2107903949
+- https://openalex.org/W2112364185
+- https://openalex.org/W2113679889
+- https://openalex.org/W2116279310
+- https://openalex.org/W2140059069
+- https://openalex.org/W2141408763
+- https://openalex.org/W2143485490
+- https://openalex.org/W2150859566
+- https://openalex.org/W2153325555
+- https://openalex.org/W2160969485
+- https://openalex.org/W2170747616
+- https://openalex.org/W2194172909
+- https://openalex.org/W2224150270
+- https://openalex.org/W2271006909
+- https://openalex.org/W2437388877
+- https://openalex.org/W2513506562
+- https://openalex.org/W2538143681
+- https://openalex.org/W2575750030
+- https://openalex.org/W2578149194
+- https://openalex.org/W2586360538
+- https://openalex.org/W2599417231
+- https://openalex.org/W2607669908
+- https://openalex.org/W2739999456
+- https://openalex.org/W2741026700
+- https://openalex.org/W2773939681
+- https://openalex.org/W2775696757
+- https://openalex.org/W2777639606
+- https://openalex.org/W2788099780
+- https://openalex.org/W2788228074
+- https://openalex.org/W2789843538
+- https://openalex.org/W2791552377
+- https://openalex.org/W2808352813
+- https://openalex.org/W2908149669
+- https://openalex.org/W2912413992
+- https://openalex.org/W2912816423
+- https://openalex.org/W2929062889
+- https://openalex.org/W2942757983
+- https://openalex.org/W2948090592
+- https://openalex.org/W2950354111
+- https://openalex.org/W2950410693
+- https://openalex.org/W2950671516
+- https://openalex.org/W2951254987
+- https://openalex.org/W2952492514
+- https://openalex.org/W2954520209
+- https://openalex.org/W2965025968
+- https://openalex.org/W2966589940
+- https://openalex.org/W2966669703
+- https://openalex.org/W2969327028
+- https://openalex.org/W2970367351
+- https://openalex.org/W2972718785
+- https://openalex.org/W2975619549
+- https://openalex.org/W2992976869
+- https://openalex.org/W2995917874
+- https://openalex.org/W2996063941
+- https://openalex.org/W2999426077
+- https://openalex.org/W3004227146
+- https://openalex.org/W3005528502
+- https://openalex.org/W3035528350
+- https://openalex.org/W3042374389
+- https://openalex.org/W3048756544
+- https://openalex.org/W3091506611
+- https://openalex.org/W3111607156
+- https://openalex.org/W4393750335
+primary_topic: Genomics and Phylogenetic Studies
+open_access: true

@@ -1,0 +1,1149 @@
+id: https://openalex.org/W3005127469
+doi: https://doi.org/10.1186/s13059-020-1926-6
+title: Eleven grand challenges in single-cell data science
+publication_date: '2020-02-07'
+publication_year: 2020
+cited_by_count: 1119
+citation_percentile: 0.999783
+pagerank: 2.5799759140952725e-06
+authorships:
+- author_id: https://openalex.org/A5108916122
+  display_name: "David L\xE4hnemann"
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I62318514
+    display_name: University of Duisburg-Essen
+    ror: https://ror.org/04mz5ra38
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Algorithms for Reproducible Bioinformatics, Genome Informatics, Institute of Human
+    Genetics, University Hospital Essen, University of Duisburg-Essen, Essen, Germany
+- author_id: https://openalex.org/A5005124395
+  display_name: "Johannes K\xF6ster"
+  orcid: https://orcid.org/0000-0001-9818-9320
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62318514
+    display_name: University of Duisburg-Essen
+    ror: https://ror.org/04mz5ra38
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Algorithms for Reproducible Bioinformatics, Genome Informatics, Institute of Human
+    Genetics, University Hospital Essen, University of Duisburg-Essen, Essen, Germany
+- author_id: https://openalex.org/A5036326710
+  display_name: Ewa Szczurek
+  orcid: https://orcid.org/0000-0002-1320-6695
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Informatics, Faculty of Mathematics, Informatics and Mechanics, University
+    of Warsaw, Warszawa, Poland
+- author_id: https://openalex.org/A5034469657
+  display_name: Davis J. McCarthy
+  orcid: https://orcid.org/0000-0002-2218-6833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I77826658
+    display_name: St Vincents Institute of Medical Research
+    ror: https://ror.org/02k3cxs74
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Bioinformatics and Cellular Genomics, St Vincent\u2019s Institute of Medical\
+    \ Research, Fitzroy, Australia"
+- author_id: https://openalex.org/A5028505800
+  display_name: Stephanie C. Hicks
+  orcid: https://orcid.org/0000-0002-7858-0231
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, Johns Hopkins University, Baltimore, MD, USA
+- author_id: https://openalex.org/A5029455059
+  display_name: Mark D. Robinson
+  orcid: https://orcid.org/0000-0002-3048-5518
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Molecular Life Sciences and SIB Swiss Institute of Bioinformatics,\
+    \ University of Z\xFCrich, Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5005082169
+  display_name: Catalina A. Vallejos
+  orcid: https://orcid.org/0000-0003-3638-1960
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158898
+    display_name: Institute of Genetics and Cancer
+    ror: https://ror.org/05hygey35
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I2800150677
+    display_name: Western General Hospital
+    ror: https://ror.org/009kr6r15
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Human Genetics Unit, Institute of Genetics and Molecular Medicine, University
+    of Edinburgh, Western General Hospital, Edinburgh, UK
+- author_id: https://openalex.org/A5005821516
+  display_name: Kieran R. Campbell
+  orcid: https://orcid.org/0000-0003-1981-5763
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141945490
+    display_name: University of British Columbia
+    ror: https://ror.org/03rmrcq20
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, University of British Columbia, Vancouver, Canada
+- author_id: https://openalex.org/A5035497488
+  display_name: Niko Beerenwinkel
+  orcid: https://orcid.org/0000-0002-0573-6119
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland
+- author_id: https://openalex.org/A5006562407
+  display_name: Ahmed Mahfouz
+  orcid: https://orcid.org/0000-0001-8601-2149
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Leiden Computational Biology Center, Leiden University Medical Center, Leiden,
+    The Netherlands
+- author_id: https://openalex.org/A5078228499
+  display_name: Luca Pinello
+  orcid: https://orcid.org/0000-0003-1109-3823
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149717
+    display_name: Center for Cancer Research
+    ror: https://ror.org/05bjen692
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Pathology Unit and Center for Cancer Research, Massachusetts General
+    Hospital Research Institute, Charlestown, USA
+- author_id: https://openalex.org/A5052456631
+  display_name: Pavel Skums
+  orcid: https://orcid.org/0000-0003-4007-5624
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181565077
+    display_name: Georgia State University
+    ror: https://ror.org/03qt6ba18
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Georgia State University, Atlanta, USA
+- author_id: https://openalex.org/A5025640090
+  display_name: Alexandros Stamatakis
+  orcid: https://orcid.org/0000-0003-0353-0691
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I71030271
+    display_name: Heidelberg Institute for Theoretical Studies
+    ror: https://ror.org/01f7bcy98
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Molecular Evolution Group, Heidelberg Institute for Theoretical
+    Studies, Heidelberg, Germany
+- author_id: https://openalex.org/A5085139761
+  display_name: "Camille Stephan\u2010Otto Attolini"
+  orcid: https://orcid.org/0000-0001-8045-320X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122345
+    display_name: Institute for Research in Biomedicine
+    ror: https://ror.org/01z1gye03
+    country_code: ES
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Research in Biomedicine, The Barcelona Institute of Science and
+    Technology, Barcelona, Spain
+- author_id: https://openalex.org/A5074271128
+  display_name: "Samuel Apar\xEDcio"
+  orcid: https://orcid.org/0000-0002-0487-9599
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1289530486
+    display_name: BC Cancer Agency
+    ror: https://ror.org/03sfybe47
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Oncology, BC Cancer Agency, Vancouver, Canada
+- author_id: https://openalex.org/A5000303828
+  display_name: Jasmijn A. Baaijens
+  orcid: https://orcid.org/0000-0001-5661-0658
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1341640284
+    display_name: Centrum Wiskunde & Informatica
+    ror: https://ror.org/00x7ekv49
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Life Sciences and Health, Centrum Wiskunde & Informatica, Amsterdam, The Netherlands
+- author_id: https://openalex.org/A5063491180
+  display_name: Marleen Balvert
+  orcid: https://orcid.org/0000-0002-2376-9301
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1341640284
+    display_name: Centrum Wiskunde & Informatica
+    ror: https://ror.org/00x7ekv49
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Life Sciences and Health, Centrum Wiskunde & Informatica, Amsterdam, The Netherlands
+- author_id: https://openalex.org/A5028105530
+  display_name: Buys de Barbanson
+  orcid: https://orcid.org/0000-0002-6967-5757
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Molecular Medicine, University Medical Center Utrecht, Utrecht, The
+    Netherlands
+- author_id: https://openalex.org/A5068866514
+  display_name: Antonio Cappuccio
+  orcid: https://orcid.org/0000-0002-8266-2344
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I55027601
+    display_name: Netherlands Institute for Advanced Study in the Humanities and Social
+      Sciences
+    ror: https://ror.org/04z3wz653
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Advanced Study, University of Amsterdam, Amsterdam, The Netherlands
+- author_id: https://openalex.org/A5008548817
+  display_name: Giacomo Corleone
+  orcid: https://orcid.org/0000-0002-6170-9780
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery and Cancer, The Imperial Centre for Translational and Experimental
+    Medicine, Imperial College London, London, UK
+- author_id: https://openalex.org/A5084321697
+  display_name: Bas E. Dutilh
+  orcid: https://orcid.org/0000-0003-2329-7890
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Theoretical Biology and Bioinformatics, Science for Life, Utrecht University,
+    Utrecht, The Netherlands
+- author_id: https://openalex.org/A5012181400
+  display_name: Maria Florescu
+  orcid: https://orcid.org/0000-0002-0564-5663
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Molecular Medicine, University Medical Center Utrecht, Utrecht, The
+    Netherlands
+- author_id: https://openalex.org/A5050979301
+  display_name: Victor Guryev
+  orcid: https://orcid.org/0000-0002-5810-6022
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Research Institute for the Biology of Ageing, University Medical Center
+    Groningen, University of Groningen, Groningen, The Netherlands
+- author_id: https://openalex.org/A5044698265
+  display_name: Rens Holmer
+  orcid: https://orcid.org/0000-0002-1080-1763
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I913481162
+    display_name: Wageningen University & Research
+    ror: https://ror.org/04qw24q55
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics Group, Wageningen University, Wageningen, The Netherlands
+- author_id: https://openalex.org/A5102807386
+  display_name: Katharina Jahn
+  orcid: https://orcid.org/0000-0002-6983-4615
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland
+- author_id: https://openalex.org/A5082299380
+  display_name: Thamar Jessurun Lobo
+  orcid: https://orcid.org/0000-0002-5940-2827
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I1334415907
+    display_name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Research Institute for the Biology of Ageing, University Medical Center
+    Groningen, University of Groningen, Groningen, The Netherlands
+- author_id: https://openalex.org/A5030754944
+  display_name: Emma M Keizer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I913481162
+    display_name: Wageningen University & Research
+    ror: https://ror.org/04qw24q55
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biometris, Wageningen University & Research, Wageningen, The Netherlands
+- author_id: https://openalex.org/A5032153099
+  display_name: Indu Khatri
+  orcid: https://orcid.org/0000-0002-7993-1953
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunohematology and Blood Transfusion, Leiden University Medical
+    Center, Leiden, The Netherlands
+- author_id: https://openalex.org/A5021607152
+  display_name: "Szymon M. Kie\u0142basa"
+  orcid: https://orcid.org/0000-0003-2805-6535
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Data Sciences, Leiden University Medical Center, Leiden,
+    The Netherlands
+- author_id: https://openalex.org/A5071136927
+  display_name: Jan O. Korbel
+  orcid: https://orcid.org/0000-0002-2798-3794
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138560
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/03mstc592
+    country_code: DE
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany
+- author_id: https://openalex.org/A5108777053
+  display_name: Alexey M. Kozlov
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I71030271
+    display_name: Heidelberg Institute for Theoretical Studies
+    ror: https://ror.org/01f7bcy98
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Molecular Evolution Group, Heidelberg Institute for Theoretical
+    Studies, Heidelberg, Germany
+- author_id: https://openalex.org/A5110665573
+  display_name: Tzu-Hao Kuo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124929
+    display_name: Helmholtz Centre for Infection Research
+    ror: https://ror.org/03d0p2685
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Biology of Infection Research Group, Helmholtz Centre for Infection
+    Research, Braunschweig, Germany
+- author_id: https://openalex.org/A5019003563
+  display_name: Boudewijn P. F. Lelieveldt
+  orcid: https://orcid.org/0000-0001-8269-7603
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98358874
+    display_name: Delft University of Technology
+    ror: https://ror.org/02e2c7k09
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - PRB lab, Delft University of Technology, Delft, The Netherlands
+- author_id: https://openalex.org/A5014788373
+  display_name: "Ion M\u0103ndoiu"
+  orcid: https://orcid.org/0000-0002-4818-0237
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I140172145
+    display_name: University of Connecticut
+    ror: https://ror.org/02der9h97
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computer Science & Engineering Department, University of Connecticut, Storrs,
+    USA
+- author_id: https://openalex.org/A5042376614
+  display_name: John C. Marioni
+  orcid: https://orcid.org/0000-0001-9092-0852
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089382
+    display_name: Cancer Research UK Cambridge Center
+    ror: https://ror.org/0068m0j38
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Research UK Cambridge Institute, Li Ka Shing Centre, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5067570776
+  display_name: Tobias Marschall
+  orcid: https://orcid.org/0000-0002-9376-1030
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I91712215
+    display_name: Saarland University
+    ror: https://ror.org/01jdpyv68
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Bioinformatics, Saarland University, Saarbr\xFCcken, Germany"
+- author_id: https://openalex.org/A5046976706
+  display_name: "Felix M\xF6lder"
+  orcid: https://orcid.org/0000-0002-3976-9701
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62318514
+    display_name: University of Duisburg-Essen
+    ror: https://ror.org/04mz5ra38
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Algorithms for Reproducible Bioinformatics, Genome Informatics, Institute of Human
+    Genetics, University Hospital Essen, University of Duisburg-Essen, Essen, Germany
+- author_id: https://openalex.org/A5027422333
+  display_name: Amir Niknejad
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195893171
+    display_name: Zuse Institute Berlin
+    ror: https://ror.org/02eva5865
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computation molecular design, Zuse Institute Berlin, Berlin, Germany
+- author_id: https://openalex.org/A5044049473
+  display_name: "Alicja R\u0105czkowska"
+  orcid: https://orcid.org/0000-0001-5901-4595
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Informatics, Faculty of Mathematics, Informatics and Mechanics, University
+    of Warsaw, Warszawa, Poland
+- author_id: https://openalex.org/A5052699801
+  display_name: Marcel Reinders
+  orcid: https://orcid.org/0000-0002-1148-1562
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98358874
+    display_name: Delft University of Technology
+    ror: https://ror.org/02e2c7k09
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Delft Bioinformatics Lab, Faculty of Electrical Engineering, Mathematics and Computer
+    Science, Delft University of Technology, Delft, The Netherlands
+- author_id: https://openalex.org/A5071483953
+  display_name: Jeroen de Ridder
+  orcid: https://orcid.org/0000-0002-0828-3477
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Molecular Medicine, University Medical Center Utrecht, Utrecht, The
+    Netherlands
+- author_id: https://openalex.org/A5112562473
+  display_name: Antoine-Emmanuel Saliba
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125858
+    display_name: Helmholtz Institute for RNA-based Infection Research
+    ror: https://ror.org/02a98s891
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Helmholtz Institute for RNA-based Infection Research, Helmholtz-Center for Infection\
+    \ Research, W\xFCrzburg, Germany"
+- author_id: https://openalex.org/A5004232884
+  display_name: Antonios Somarakis
+  orcid: https://orcid.org/0000-0003-1020-1562
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Image Processing, Department of Radiology, Leiden University Medical
+    Center, Leiden, The Netherlands
+- author_id: https://openalex.org/A5091002491
+  display_name: Oliver Stegle
+  orcid: https://orcid.org/0000-0002-8818-7193
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138560
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/03mstc592
+    country_code: DE
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany
+- author_id: https://openalex.org/A5083128670
+  display_name: Fabian J. Theis
+  orcid: https://orcid.org/0000-0002-2419-1943
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018134672
+    display_name: "Helmholtz Zentrum M\xFCnchen"
+    ror: https://ror.org/00cfam450
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Computational Biology, Helmholtz Zentrum M\xFCnchen\u2013German\
+    \ Research Center for Environmental Health, Neuherberg, Germany"
+- author_id: https://openalex.org/A5037505637
+  display_name: Huan Yang
+  orcid: https://orcid.org/0000-0002-3471-8235
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133171
+    display_name: Centre for Human Drug Research
+    ror: https://ror.org/044hshx49
+    country_code: NL
+    type: facility
+  - id: https://openalex.org/I121797337
+    display_name: Leiden University
+    ror: https://ror.org/027bh9e22
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Division of Drug Discovery and Safety, Leiden Academic Center for Drug Research\u2013\
+    LACDR\u2013Leiden University, Leiden, The Netherlands"
+- author_id: https://openalex.org/A5072751459
+  display_name: Alex Zelikovsky
+  orcid: https://orcid.org/0000-0003-4424-4691
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181565077
+    display_name: Georgia State University
+    ror: https://ror.org/03qt6ba18
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Georgia State University, Atlanta, USA
+- author_id: https://openalex.org/A5081103408
+  display_name: Alice C. McHardy
+  orcid: https://orcid.org/0000-0003-2370-3430
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124929
+    display_name: Helmholtz Centre for Infection Research
+    ror: https://ror.org/03d0p2685
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Biology of Infection Research Group, Helmholtz Centre for Infection
+    Research, Braunschweig, Germany
+- author_id: https://openalex.org/A5025899028
+  display_name: Benjamin J. Raphael
+  orcid: https://orcid.org/0000-0003-1274-048X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Princeton University, Princeton, USA
+- author_id: https://openalex.org/A5033441782
+  display_name: Sohrab P. Shah
+  orcid: https://orcid.org/0000-0001-6402-523X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Oncology, Department of Epidemiology and Biostatistics, Memorial
+    Sloan Kettering Cancer Center, New York, USA
+- author_id: https://openalex.org/A5001148638
+  display_name: "Alexander Sch\xF6nhuth"
+  orcid: https://orcid.org/0000-0003-3529-0856
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Theoretical Biology and Bioinformatics, Science for Life, Utrecht University,
+    Utrecht, The Netherlands
+referenced_works:
+- https://openalex.org/W1254826609
+- https://openalex.org/W143964993
+- https://openalex.org/W1492083415
+- https://openalex.org/W1530675242
+- https://openalex.org/W1536902151
+- https://openalex.org/W1575228817
+- https://openalex.org/W1602702667
+- https://openalex.org/W1803809895
+- https://openalex.org/W1810935231
+- https://openalex.org/W1841351562
+- https://openalex.org/W1902522291
+- https://openalex.org/W1964154017
+- https://openalex.org/W1967327758
+- https://openalex.org/W1971916129
+- https://openalex.org/W1972618510
+- https://openalex.org/W1979985168
+- https://openalex.org/W1981641790
+- https://openalex.org/W1984731778
+- https://openalex.org/W1984883254
+- https://openalex.org/W1988391018
+- https://openalex.org/W1989215251
+- https://openalex.org/W1990347487
+- https://openalex.org/W1999707793
+- https://openalex.org/W2011637823
+- https://openalex.org/W2019605179
+- https://openalex.org/W2030017878
+- https://openalex.org/W2032518018
+- https://openalex.org/W2035252444
+- https://openalex.org/W2042789810
+- https://openalex.org/W2043565262
+- https://openalex.org/W2045641296
+- https://openalex.org/W2045953361
+- https://openalex.org/W2047623048
+- https://openalex.org/W2051765910
+- https://openalex.org/W2052975116
+- https://openalex.org/W2053129129
+- https://openalex.org/W2063775230
+- https://openalex.org/W2064955010
+- https://openalex.org/W2069089843
+- https://openalex.org/W2069594922
+- https://openalex.org/W2075691559
+- https://openalex.org/W2076195270
+- https://openalex.org/W2076617993
+- https://openalex.org/W2088735033
+- https://openalex.org/W2096192437
+- https://openalex.org/W2097331522
+- https://openalex.org/W2097348296
+- https://openalex.org/W2097977090
+- https://openalex.org/W2100030044
+- https://openalex.org/W2102212449
+- https://openalex.org/W2102424972
+- https://openalex.org/W2103243046
+- https://openalex.org/W2106619117
+- https://openalex.org/W2108911240
+- https://openalex.org/W2109860416
+- https://openalex.org/W2111574404
+- https://openalex.org/W2112138633
+- https://openalex.org/W2112495642
+- https://openalex.org/W2115276344
+- https://openalex.org/W2119033868
+- https://openalex.org/W2123273050
+- https://openalex.org/W2123639897
+- https://openalex.org/W2124790653
+- https://openalex.org/W2126537932
+- https://openalex.org/W2133860872
+- https://openalex.org/W2134246371
+- https://openalex.org/W2135937351
+- https://openalex.org/W2139300319
+- https://openalex.org/W2139790154
+- https://openalex.org/W2140001244
+- https://openalex.org/W2140080780
+- https://openalex.org/W2143447139
+- https://openalex.org/W2143451223
+- https://openalex.org/W2145903120
+- https://openalex.org/W2150550712
+- https://openalex.org/W2152692691
+- https://openalex.org/W2160828336
+- https://openalex.org/W2161726503
+- https://openalex.org/W2163676912
+- https://openalex.org/W2164291580
+- https://openalex.org/W2167133711
+- https://openalex.org/W2171590421
+- https://openalex.org/W2173441045
+- https://openalex.org/W2177087965
+- https://openalex.org/W2179429273
+- https://openalex.org/W2190545194
+- https://openalex.org/W2211016425
+- https://openalex.org/W2222000795
+- https://openalex.org/W2232214289
+- https://openalex.org/W2255988550
+- https://openalex.org/W2260951263
+- https://openalex.org/W2269040222
+- https://openalex.org/W2315243978
+- https://openalex.org/W2336564348
+- https://openalex.org/W2337440967
+- https://openalex.org/W2338756998
+- https://openalex.org/W2338882301
+- https://openalex.org/W2340974016
+- https://openalex.org/W2343956310
+- https://openalex.org/W2344887288
+- https://openalex.org/W2346273585
+- https://openalex.org/W2358053195
+- https://openalex.org/W2373831850
+- https://openalex.org/W2399912172
+- https://openalex.org/W2414771725
+- https://openalex.org/W2422879816
+- https://openalex.org/W2430994085
+- https://openalex.org/W2461073387
+- https://openalex.org/W2467197661
+- https://openalex.org/W2471536144
+- https://openalex.org/W2479420012
+- https://openalex.org/W2499574881
+- https://openalex.org/W2509957998
+- https://openalex.org/W2517636946
+- https://openalex.org/W2520191991
+- https://openalex.org/W2524021047
+- https://openalex.org/W2533012945
+- https://openalex.org/W2550247089
+- https://openalex.org/W2551917609
+- https://openalex.org/W255464861
+- https://openalex.org/W2559325775
+- https://openalex.org/W2564176045
+- https://openalex.org/W2566749675
+- https://openalex.org/W2569995699
+- https://openalex.org/W2571353615
+- https://openalex.org/W2572375651
+- https://openalex.org/W2572662684
+- https://openalex.org/W2579382924
+- https://openalex.org/W2580665472
+- https://openalex.org/W2580989000
+- https://openalex.org/W2586629973
+- https://openalex.org/W2598149992
+- https://openalex.org/W2605512081
+- https://openalex.org/W2605624585
+- https://openalex.org/W2607196065
+- https://openalex.org/W2610774430
+- https://openalex.org/W2612538354
+- https://openalex.org/W2613264274
+- https://openalex.org/W2618433578
+- https://openalex.org/W2693925639
+- https://openalex.org/W2734237109
+- https://openalex.org/W2736547131
+- https://openalex.org/W2737955624
+- https://openalex.org/W2741564801
+- https://openalex.org/W2742865544
+- https://openalex.org/W2743344672
+- https://openalex.org/W2747545374
+- https://openalex.org/W2747877289
+- https://openalex.org/W2750682442
+- https://openalex.org/W2751468300
+- https://openalex.org/W2751723768
+- https://openalex.org/W2753908609
+- https://openalex.org/W2754025713
+- https://openalex.org/W2757922369
+- https://openalex.org/W2760463524
+- https://openalex.org/W2760895042
+- https://openalex.org/W2761803678
+- https://openalex.org/W2762185802
+- https://openalex.org/W2763051133
+- https://openalex.org/W2766380147
+- https://openalex.org/W2766437506
+- https://openalex.org/W2766623924
+- https://openalex.org/W2767792097
+- https://openalex.org/W2768365920
+- https://openalex.org/W2770572337
+- https://openalex.org/W2771767991
+- https://openalex.org/W2774307122
+- https://openalex.org/W2774761491
+- https://openalex.org/W2776140326
+- https://openalex.org/W2781608882
+- https://openalex.org/W2782146634
+- https://openalex.org/W2783644856
+- https://openalex.org/W2784595248
+- https://openalex.org/W2785668899
+- https://openalex.org/W2788348358
+- https://openalex.org/W2790675139
+- https://openalex.org/W2792069602
+- https://openalex.org/W2792537872
+- https://openalex.org/W2792647356
+- https://openalex.org/W2792693509
+- https://openalex.org/W2793965282
+- https://openalex.org/W2794083495
+- https://openalex.org/W2794480084
+- https://openalex.org/W2794521141
+- https://openalex.org/W2794891507
+- https://openalex.org/W2795049082
+- https://openalex.org/W2795499463
+- https://openalex.org/W2796038592
+- https://openalex.org/W2796170779
+- https://openalex.org/W2796538159
+- https://openalex.org/W2796928275
+- https://openalex.org/W2797648291
+- https://openalex.org/W2799796757
+- https://openalex.org/W2800028441
+- https://openalex.org/W2800247524
+- https://openalex.org/W2800392236
+- https://openalex.org/W2800912249
+- https://openalex.org/W2801430887
+- https://openalex.org/W2801443765
+- https://openalex.org/W2801527818
+- https://openalex.org/W2801820889
+- https://openalex.org/W2802302382
+- https://openalex.org/W2803292849
+- https://openalex.org/W2804307951
+- https://openalex.org/W2804691345
+- https://openalex.org/W2805619986
+- https://openalex.org/W2806418193
+- https://openalex.org/W2806965496
+- https://openalex.org/W2807760758
+- https://openalex.org/W2807848287
+- https://openalex.org/W2808593441
+- https://openalex.org/W2808845633
+- https://openalex.org/W2809008801
+- https://openalex.org/W2809368942
+- https://openalex.org/W2809381176
+- https://openalex.org/W2809830507
+- https://openalex.org/W2811242925
+- https://openalex.org/W2832881433
+- https://openalex.org/W2884197618
+- https://openalex.org/W2884523875
+- https://openalex.org/W2885781875
+- https://openalex.org/W2885927965
+- https://openalex.org/W2886142860
+- https://openalex.org/W2886396955
+- https://openalex.org/W2887694579
+- https://openalex.org/W2888128282
+- https://openalex.org/W2888594764
+- https://openalex.org/W2888615663
+- https://openalex.org/W2889236955
+- https://openalex.org/W2889435420
+- https://openalex.org/W2889654045
+- https://openalex.org/W2890035501
+- https://openalex.org/W2890147601
+- https://openalex.org/W2891286176
+- https://openalex.org/W2891800461
+- https://openalex.org/W2894687190
+- https://openalex.org/W2897212827
+- https://openalex.org/W2897346235
+- https://openalex.org/W2897980690
+- https://openalex.org/W2898718502
+- https://openalex.org/W2898821675
+- https://openalex.org/W2898889075
+- https://openalex.org/W2898933064
+- https://openalex.org/W2899190218
+- https://openalex.org/W2899224111
+- https://openalex.org/W2899228325
+- https://openalex.org/W2899342433
+- https://openalex.org/W2899348912
+- https://openalex.org/W2899455541
+- https://openalex.org/W2900263612
+- https://openalex.org/W2900510132
+- https://openalex.org/W2900850487
+- https://openalex.org/W2901677030
+- https://openalex.org/W2903388206
+- https://openalex.org/W2906425510
+- https://openalex.org/W2907783748
+- https://openalex.org/W2907800416
+- https://openalex.org/W2908470250
+- https://openalex.org/W2910635251
+- https://openalex.org/W2912241197
+- https://openalex.org/W2915848182
+- https://openalex.org/W2915857439
+- https://openalex.org/W2916020270
+- https://openalex.org/W2916779758
+- https://openalex.org/W2916942367
+- https://openalex.org/W2918794395
+- https://openalex.org/W2921230232
+- https://openalex.org/W2921683137
+- https://openalex.org/W2922985761
+- https://openalex.org/W2923101443
+- https://openalex.org/W2923300855
+- https://openalex.org/W2923569719
+- https://openalex.org/W2924067995
+- https://openalex.org/W2927507212
+- https://openalex.org/W2940024093
+- https://openalex.org/W2940982798
+- https://openalex.org/W2941910667
+- https://openalex.org/W2942298442
+- https://openalex.org/W2943401499
+- https://openalex.org/W2944189019
+- https://openalex.org/W2945823867
+- https://openalex.org/W2946254955
+- https://openalex.org/W2947275143
+- https://openalex.org/W2947877009
+- https://openalex.org/W2948321041
+- https://openalex.org/W2949067670
+- https://openalex.org/W2949086748
+- https://openalex.org/W2949177718
+- https://openalex.org/W2949238013
+- https://openalex.org/W2949244194
+- https://openalex.org/W2949272108
+- https://openalex.org/W2949275240
+- https://openalex.org/W2949376507
+- https://openalex.org/W2949693072
+- https://openalex.org/W2949693884
+- https://openalex.org/W2949800632
+- https://openalex.org/W2949867654
+- https://openalex.org/W2950030509
+- https://openalex.org/W2950104637
+- https://openalex.org/W2950217729
+- https://openalex.org/W2950372712
+- https://openalex.org/W2950541340
+- https://openalex.org/W2950548777
+- https://openalex.org/W2950684648
+- https://openalex.org/W2950814274
+- https://openalex.org/W2950847777
+- https://openalex.org/W2950985821
+- https://openalex.org/W2951217100
+- https://openalex.org/W2951232102
+- https://openalex.org/W2951268343
+- https://openalex.org/W2951271761
+- https://openalex.org/W2951381561
+- https://openalex.org/W2951385940
+- https://openalex.org/W2951506174
+- https://openalex.org/W2951566836
+- https://openalex.org/W2951624434
+- https://openalex.org/W2951638683
+- https://openalex.org/W2951914955
+- https://openalex.org/W2952016241
+- https://openalex.org/W2952148401
+- https://openalex.org/W2952285109
+- https://openalex.org/W2952303649
+- https://openalex.org/W2952350893
+- https://openalex.org/W2952383043
+- https://openalex.org/W2952520709
+- https://openalex.org/W2952522477
+- https://openalex.org/W2952570350
+- https://openalex.org/W2952708922
+- https://openalex.org/W2952775948
+- https://openalex.org/W2952794346
+- https://openalex.org/W2952840385
+- https://openalex.org/W2952935243
+- https://openalex.org/W2953036966
+- https://openalex.org/W2954018630
+- https://openalex.org/W2957168551
+- https://openalex.org/W2957221979
+- https://openalex.org/W2958554910
+- https://openalex.org/W2962073995
+- https://openalex.org/W2962785200
+- https://openalex.org/W2963101269
+- https://openalex.org/W2963775347
+- https://openalex.org/W2967290233
+- https://openalex.org/W2968292465
+- https://openalex.org/W2968352143
+- https://openalex.org/W2969923101
+- https://openalex.org/W2970633838
+- https://openalex.org/W2970956836
+- https://openalex.org/W2971653850
+- https://openalex.org/W2973156019
+- https://openalex.org/W2973370607
+- https://openalex.org/W2977512847
+- https://openalex.org/W2978541146
+- https://openalex.org/W2978551960
+- https://openalex.org/W2978575375
+- https://openalex.org/W2980147288
+- https://openalex.org/W2980495984
+- https://openalex.org/W2980586637
+- https://openalex.org/W2983201012
+- https://openalex.org/W2996274328
+- https://openalex.org/W2997280954
+- https://openalex.org/W2998065416
+- https://openalex.org/W3001485171
+- https://openalex.org/W3009370296
+- https://openalex.org/W3009560560
+- https://openalex.org/W3015223320
+- https://openalex.org/W3017512083
+- https://openalex.org/W3035266582
+- https://openalex.org/W3037698209
+- https://openalex.org/W3041129226
+- https://openalex.org/W3044164214
+- https://openalex.org/W3075371075
+- https://openalex.org/W3093243321
+- https://openalex.org/W3094571539
+- https://openalex.org/W3098918848
+- https://openalex.org/W3099320613
+- https://openalex.org/W3099404564
+- https://openalex.org/W3100003598
+- https://openalex.org/W3101014443
+- https://openalex.org/W3101047928
+- https://openalex.org/W3101918572
+- https://openalex.org/W3102039604
+- https://openalex.org/W3103676718
+- https://openalex.org/W3104221309
+- https://openalex.org/W3123922469
+- https://openalex.org/W3192460903
+- https://openalex.org/W4213108508
+- https://openalex.org/W4231157025
+- https://openalex.org/W4231519797
+- https://openalex.org/W4233637541
+- https://openalex.org/W4240098044
+- https://openalex.org/W4243545763
+- https://openalex.org/W4251287806
+- https://openalex.org/W4396766049
+- https://openalex.org/W655754122
+- https://openalex.org/W839653734
+primary_topic: Single-cell and spatial transcriptomics
+open_access: true

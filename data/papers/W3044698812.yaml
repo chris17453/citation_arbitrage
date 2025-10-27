@@ -1,0 +1,893 @@
+id: https://openalex.org/W3044698812
+doi: https://doi.org/10.1029/2019rg000678
+title: An Assessment of Earth's Climate Sensitivity Using Multiple Lines of Evidence
+publication_date: '2020-07-22'
+publication_year: 2020
+cited_by_count: 1109
+citation_percentile: 0.995134
+pagerank: 2.529810428191982e-06
+authorships:
+- author_id: https://openalex.org/A5051942539
+  display_name: Steven C. Sherwood
+  orcid: https://orcid.org/0000-0001-7420-8216
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210120769
+    display_name: ARC Centre of Excellence for Climate System Science
+    ror: https://ror.org/0288wcg94
+    country_code: AU
+    type: facility
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Climate Change Research Centre and ARC Centre of Excellence for Climate Extremes,
+    University of New South Wales Sydney, Sydney, New South Wales, Australia
+- author_id: https://openalex.org/A5024576697
+  display_name: Mark J. Webb
+  orcid: https://orcid.org/0000-0002-7709-7088
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1293035123
+    display_name: Met Office
+    ror: https://ror.org/01ch2yn61
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Met Office Hadley Centre, Exeter, UK
+- author_id: https://openalex.org/A5057608563
+  display_name: J. D. Annan
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Blue Skies Research Ltd, Settle, UK
+- author_id: https://openalex.org/A5032152269
+  display_name: Kyle C. Armour
+  orcid: https://orcid.org/0000-0002-6833-5179
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, WA, USA
+- author_id: https://openalex.org/A5036642769
+  display_name: Piers Forster
+  orcid: https://orcid.org/0000-0002-6078-0171
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130828816
+    display_name: University of Leeds
+    ror: https://ror.org/024mrxd33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Priestley International Centre for Climate, University of Leeds, Leeds, UK
+- author_id: https://openalex.org/A5051642314
+  display_name: J. C. Hargreaves
+  orcid: https://orcid.org/0000-0002-4217-5023
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Blue Skies Research Ltd, Settle, UK
+- author_id: https://openalex.org/A5083816490
+  display_name: Gabriele C. Hegerl
+  orcid: https://orcid.org/0000-0002-4159-1295
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Geosciences, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5022865217
+  display_name: Stephen A. Klein
+  orcid: https://orcid.org/0000-0002-5476-858X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - PCMDI-LLNL, California, Berkeley, USA
+- author_id: https://openalex.org/A5087344149
+  display_name: Kate Marvel
+  orcid: https://orcid.org/0000-0002-9771-6720
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78577930
+    display_name: Columbia University
+    ror: https://ror.org/00hj8s172
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I116578957
+    display_name: Goddard Institute for Space Studies
+    ror: https://ror.org/01cyfxe35
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Physics and Applied Math, Columbia University, New York,
+    NY, USA
+  - NASA Goddard Institute for Space Studies, New York, NY, USA
+- author_id: https://openalex.org/A5076761974
+  display_name: Eelco J. Rohling
+  orcid: https://orcid.org/0000-0001-5349-2158
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I118347636
+    display_name: Australian National University
+    ror: https://ror.org/019wvm592
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I197940685
+    display_name: National Oceanography Centre
+    ror: https://ror.org/00874hx02
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I43439940
+    display_name: University of Southampton
+    ror: https://ror.org/01ryk1543
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ocean and Earth Science, National Oceanography Centre, University of Southampton,
+    Southampton, UK
+  - Research School of Earth Sciences, Australian National University, Canberra, ACT,
+    Australia
+- author_id: https://openalex.org/A5085868360
+  display_name: Masahiro Watanabe
+  orcid: https://orcid.org/0000-0001-6500-2101
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Atmosphere and Ocean Research Institute, The University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5004375415
+  display_name: Timothy Andrews
+  orcid: https://orcid.org/0000-0002-8248-8753
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1293035123
+    display_name: Met Office
+    ror: https://ror.org/01ch2yn61
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Met Office Hadley Centre, Exeter, UK
+- author_id: https://openalex.org/A5061045769
+  display_name: Pascale Braconnot
+  orcid: https://orcid.org/0000-0002-1852-9178
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210124937
+    display_name: Laboratoire des Sciences du Climat et de l'Environnement
+    ror: https://ror.org/03dsd0g48
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I195731000
+    display_name: "Universit\xE9 de Versailles Saint-Quentin-en-Yvelines"
+    ror: https://ror.org/03mkjjy25
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210128565
+    display_name: CEA Paris-Saclay
+    ror: https://ror.org/03n15ch10
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I2738703131
+    display_name: "Commissariat \xE0 l'\xC9nergie Atomique et aux \xC9nergies Alternatives"
+    ror: https://ror.org/00jjx8s55
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Laboratoire des Sciences du Climat et de l'Environnement, unit\xE9 mixte CEA\u2010\
+    CNRS\u2010UVSQ Universit\xE9 Paris\u2010Saclay  Gif sur Yvette France"
+- author_id: https://openalex.org/A5052150295
+  display_name: Christopher S. Bretherton
+  orcid: https://orcid.org/0000-0002-6712-8856
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, WA, USA
+- author_id: https://openalex.org/A5069362910
+  display_name: Gavin L. Foster
+  orcid: https://orcid.org/0000-0003-3688-9668
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I197940685
+    display_name: National Oceanography Centre
+    ror: https://ror.org/00874hx02
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I43439940
+    display_name: University of Southampton
+    ror: https://ror.org/01ryk1543
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ocean and Earth Science, National Oceanography Centre, University of Southampton,
+    Southampton, UK
+- author_id: https://openalex.org/A5085329398
+  display_name: Zeke Hausfather
+  orcid: https://orcid.org/0000-0002-2926-0581
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801568573
+    display_name: Breakthrough Institute
+    ror: https://ror.org/04c7vyz18
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Breakthrough Institute, Oakland, CA, USA
+- author_id: https://openalex.org/A5083883124
+  display_name: Anna S. von der Heydt
+  orcid: https://orcid.org/0000-0002-5557-3282
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Marine and Atmospheric Research, and Centre for Complex Systems
+    Science, Utrecht University, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5063323899
+  display_name: Reto Knutti
+  orcid: https://orcid.org/0000-0001-8303-6700
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Atmospheric and Climate Science, Zurich, Switzerland
+- author_id: https://openalex.org/A5000717001
+  display_name: Thorsten Mauritsen
+  orcid: https://orcid.org/0000-0003-1418-4077
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161593684
+    display_name: Stockholm University
+    ror: https://ror.org/05f0yaq80
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Meteorology, Stockholm University, Stockholm, Sweden
+- author_id: https://openalex.org/A5057498344
+  display_name: Joel R. Norris
+  orcid: https://orcid.org/0000-0003-4384-0977
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150209017
+    display_name: Scripps Institution of Oceanography
+    ror: https://ror.org/04v7hvq31
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Scripps Institution of Oceanography, La Jolla, CA, USA
+- author_id: https://openalex.org/A5051221198
+  display_name: Cristian Proistosescu
+  orcid: https://orcid.org/0000-0002-1717-124X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Atmospheric Sciences and Department of Geology, University of Illinois
+    at Urbana-Champaign, Urbana, IL, USA
+- author_id: https://openalex.org/A5058167436
+  display_name: Maria Rugenstein
+  orcid: https://orcid.org/0000-0002-4541-3277
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210163131
+    display_name: Max Planck Institute for Meteorology
+    ror: https://ror.org/05esem239
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute for Meteorology, Hamburg, Germany
+- author_id: https://openalex.org/A5012924570
+  display_name: Gavin A. Schmidt
+  orcid: https://orcid.org/0000-0002-2258-0486
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I116578957
+    display_name: Goddard Institute for Space Studies
+    ror: https://ror.org/01cyfxe35
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NASA Goddard Institute for Space Studies, New York, NY, USA
+- author_id: https://openalex.org/A5062808278
+  display_name: Katarzyna Tokarska
+  orcid: https://orcid.org/0000-0001-8887-8798
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Atmospheric and Climate Science, Zurich, Switzerland
+  - School of Geosciences, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5071054071
+  display_name: Mark D. Zelinka
+  orcid: https://orcid.org/0000-0002-6570-5445
+  author_position: last
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - PCMDI-LLNL, California, Berkeley, USA
+referenced_works:
+- https://openalex.org/W1484925071
+- https://openalex.org/W1488899619
+- https://openalex.org/W1492160811
+- https://openalex.org/W1492289470
+- https://openalex.org/W1498728590
+- https://openalex.org/W1513349809
+- https://openalex.org/W1523440570
+- https://openalex.org/W1544698369
+- https://openalex.org/W1561001384
+- https://openalex.org/W1564787279
+- https://openalex.org/W1566889860
+- https://openalex.org/W1567275569
+- https://openalex.org/W1568913699
+- https://openalex.org/W1594305847
+- https://openalex.org/W1609726361
+- https://openalex.org/W1610643821
+- https://openalex.org/W1611139875
+- https://openalex.org/W1612946550
+- https://openalex.org/W1657399902
+- https://openalex.org/W1675158699
+- https://openalex.org/W1675763965
+- https://openalex.org/W1676562810
+- https://openalex.org/W1733916393
+- https://openalex.org/W1772877165
+- https://openalex.org/W1803793154
+- https://openalex.org/W1840304231
+- https://openalex.org/W1840349573
+- https://openalex.org/W1849429962
+- https://openalex.org/W1879063106
+- https://openalex.org/W1880537776
+- https://openalex.org/W1885778149
+- https://openalex.org/W1899493958
+- https://openalex.org/W1901739161
+- https://openalex.org/W1901876877
+- https://openalex.org/W1908487823
+- https://openalex.org/W1910754480
+- https://openalex.org/W1913520319
+- https://openalex.org/W1921635979
+- https://openalex.org/W1930393311
+- https://openalex.org/W1933585260
+- https://openalex.org/W1935944464
+- https://openalex.org/W1950527038
+- https://openalex.org/W1951559735
+- https://openalex.org/W1962419189
+- https://openalex.org/W1965358009
+- https://openalex.org/W1965514539
+- https://openalex.org/W1966607069
+- https://openalex.org/W1966733655
+- https://openalex.org/W1966847571
+- https://openalex.org/W1967407000
+- https://openalex.org/W1968362955
+- https://openalex.org/W1968644801
+- https://openalex.org/W1968690962
+- https://openalex.org/W1972423646
+- https://openalex.org/W1972708547
+- https://openalex.org/W1973218015
+- https://openalex.org/W1973233492
+- https://openalex.org/W1973843772
+- https://openalex.org/W1974436718
+- https://openalex.org/W1975098860
+- https://openalex.org/W1976268560
+- https://openalex.org/W1976329073
+- https://openalex.org/W1976521143
+- https://openalex.org/W1977089250
+- https://openalex.org/W1977244495
+- https://openalex.org/W1977264967
+- https://openalex.org/W1978144402
+- https://openalex.org/W1978484859
+- https://openalex.org/W1978485637
+- https://openalex.org/W1978986705
+- https://openalex.org/W1979383925
+- https://openalex.org/W1979993739
+- https://openalex.org/W1980498037
+- https://openalex.org/W1981782586
+- https://openalex.org/W1982288271
+- https://openalex.org/W1982297907
+- https://openalex.org/W1982696937
+- https://openalex.org/W1984682253
+- https://openalex.org/W1984722412
+- https://openalex.org/W1984835367
+- https://openalex.org/W1985646043
+- https://openalex.org/W1986344857
+- https://openalex.org/W1987516748
+- https://openalex.org/W1989010928
+- https://openalex.org/W1989561469
+- https://openalex.org/W1992525066
+- https://openalex.org/W1992752541
+- https://openalex.org/W1992941940
+- https://openalex.org/W1992983800
+- https://openalex.org/W1993735150
+- https://openalex.org/W1994015690
+- https://openalex.org/W1994669542
+- https://openalex.org/W1995483742
+- https://openalex.org/W1995655874
+- https://openalex.org/W1995986570
+- https://openalex.org/W1999037513
+- https://openalex.org/W1999824329
+- https://openalex.org/W1999881248
+- https://openalex.org/W2000367699
+- https://openalex.org/W2001426559
+- https://openalex.org/W2001575273
+- https://openalex.org/W2002859026
+- https://openalex.org/W2003819578
+- https://openalex.org/W2004486709
+- https://openalex.org/W2006545601
+- https://openalex.org/W2007031656
+- https://openalex.org/W2007825899
+- https://openalex.org/W2009074883
+- https://openalex.org/W2010573265
+- https://openalex.org/W2011838863
+- https://openalex.org/W2012592445
+- https://openalex.org/W2014398088
+- https://openalex.org/W2015320755
+- https://openalex.org/W2015952177
+- https://openalex.org/W2016331858
+- https://openalex.org/W2017974358
+- https://openalex.org/W2018075600
+- https://openalex.org/W2019168554
+- https://openalex.org/W2019314030
+- https://openalex.org/W2019621096
+- https://openalex.org/W2020301263
+- https://openalex.org/W2020374726
+- https://openalex.org/W2021408515
+- https://openalex.org/W2021487499
+- https://openalex.org/W2023183033
+- https://openalex.org/W2024966118
+- https://openalex.org/W2027060966
+- https://openalex.org/W2027072998
+- https://openalex.org/W2028397896
+- https://openalex.org/W2028732731
+- https://openalex.org/W2029034365
+- https://openalex.org/W2029376422
+- https://openalex.org/W2031027346
+- https://openalex.org/W2031951873
+- https://openalex.org/W2032011064
+- https://openalex.org/W2032069641
+- https://openalex.org/W2032082343
+- https://openalex.org/W2032308662
+- https://openalex.org/W2032847257
+- https://openalex.org/W2033700933
+- https://openalex.org/W2033718180
+- https://openalex.org/W2034409215
+- https://openalex.org/W2035221792
+- https://openalex.org/W2037332161
+- https://openalex.org/W2037790142
+- https://openalex.org/W2040440416
+- https://openalex.org/W2042677197
+- https://openalex.org/W2043168616
+- https://openalex.org/W2043292022
+- https://openalex.org/W2045386802
+- https://openalex.org/W2046759075
+- https://openalex.org/W2047023360
+- https://openalex.org/W2048318032
+- https://openalex.org/W2048356720
+- https://openalex.org/W2049451608
+- https://openalex.org/W2049766574
+- https://openalex.org/W2052768090
+- https://openalex.org/W2053955061
+- https://openalex.org/W2057316453
+- https://openalex.org/W2058820078
+- https://openalex.org/W2062050836
+- https://openalex.org/W2062310155
+- https://openalex.org/W2062649567
+- https://openalex.org/W2063091265
+- https://openalex.org/W2063603732
+- https://openalex.org/W2068603488
+- https://openalex.org/W2068715784
+- https://openalex.org/W2069558052
+- https://openalex.org/W2069739265
+- https://openalex.org/W2070769196
+- https://openalex.org/W2071507402
+- https://openalex.org/W2071694890
+- https://openalex.org/W2072935186
+- https://openalex.org/W2076371860
+- https://openalex.org/W2076774504
+- https://openalex.org/W2078568316
+- https://openalex.org/W2079647930
+- https://openalex.org/W2079859354
+- https://openalex.org/W2080914116
+- https://openalex.org/W2081172746
+- https://openalex.org/W2081222292
+- https://openalex.org/W2081288537
+- https://openalex.org/W2081840989
+- https://openalex.org/W2082130975
+- https://openalex.org/W2083367302
+- https://openalex.org/W2087171230
+- https://openalex.org/W2087354441
+- https://openalex.org/W2087827426
+- https://openalex.org/W2088283807
+- https://openalex.org/W2089028175
+- https://openalex.org/W2090347106
+- https://openalex.org/W2090636826
+- https://openalex.org/W2091388550
+- https://openalex.org/W2091813923
+- https://openalex.org/W2093065246
+- https://openalex.org/W2093623878
+- https://openalex.org/W2094350389
+- https://openalex.org/W2094585216
+- https://openalex.org/W2094633221
+- https://openalex.org/W2095857706
+- https://openalex.org/W2096004786
+- https://openalex.org/W2096425009
+- https://openalex.org/W2096980539
+- https://openalex.org/W2097259059
+- https://openalex.org/W2098290609
+- https://openalex.org/W2098839044
+- https://openalex.org/W2098921391
+- https://openalex.org/W2099550415
+- https://openalex.org/W2100055302
+- https://openalex.org/W2101875061
+- https://openalex.org/W2102493439
+- https://openalex.org/W2102505913
+- https://openalex.org/W2104127988
+- https://openalex.org/W2105015045
+- https://openalex.org/W2105612799
+- https://openalex.org/W2106880912
+- https://openalex.org/W2107789221
+- https://openalex.org/W2108214551
+- https://openalex.org/W2109960092
+- https://openalex.org/W2111707238
+- https://openalex.org/W2111816679
+- https://openalex.org/W2112219575
+- https://openalex.org/W2112570856
+- https://openalex.org/W2114736124
+- https://openalex.org/W2115446626
+- https://openalex.org/W2116695301
+- https://openalex.org/W2118222708
+- https://openalex.org/W2118387673
+- https://openalex.org/W2119017224
+- https://openalex.org/W2119105175
+- https://openalex.org/W2120903086
+- https://openalex.org/W2121033220
+- https://openalex.org/W2121879697
+- https://openalex.org/W2123134820
+- https://openalex.org/W2123222190
+- https://openalex.org/W2124058228
+- https://openalex.org/W2124901782
+- https://openalex.org/W2126933442
+- https://openalex.org/W2127594299
+- https://openalex.org/W2127790736
+- https://openalex.org/W2128253739
+- https://openalex.org/W2130694448
+- https://openalex.org/W2133050257
+- https://openalex.org/W2133484165
+- https://openalex.org/W2133631519
+- https://openalex.org/W2134095828
+- https://openalex.org/W2135362100
+- https://openalex.org/W2136033115
+- https://openalex.org/W2136053723
+- https://openalex.org/W2136610119
+- https://openalex.org/W2137567014
+- https://openalex.org/W2137922089
+- https://openalex.org/W2137966020
+- https://openalex.org/W2138884861
+- https://openalex.org/W2139199775
+- https://openalex.org/W2139268105
+- https://openalex.org/W2141045770
+- https://openalex.org/W2141812989
+- https://openalex.org/W2142390227
+- https://openalex.org/W2143037254
+- https://openalex.org/W2144822949
+- https://openalex.org/W2146200079
+- https://openalex.org/W2146487757
+- https://openalex.org/W2146687568
+- https://openalex.org/W2146747860
+- https://openalex.org/W2148099617
+- https://openalex.org/W2148651398
+- https://openalex.org/W2149761807
+- https://openalex.org/W2150186950
+- https://openalex.org/W2150190351
+- https://openalex.org/W2150286367
+- https://openalex.org/W2151218709
+- https://openalex.org/W2154017026
+- https://openalex.org/W2155104238
+- https://openalex.org/W2155144099
+- https://openalex.org/W2155706641
+- https://openalex.org/W2156121608
+- https://openalex.org/W2156653098
+- https://openalex.org/W2159376404
+- https://openalex.org/W2160442286
+- https://openalex.org/W2161103622
+- https://openalex.org/W2162200850
+- https://openalex.org/W2162901362
+- https://openalex.org/W2162911451
+- https://openalex.org/W2163041296
+- https://openalex.org/W2163323989
+- https://openalex.org/W2167856753
+- https://openalex.org/W2168699591
+- https://openalex.org/W2169768170
+- https://openalex.org/W2170745251
+- https://openalex.org/W2172002940
+- https://openalex.org/W2173487571
+- https://openalex.org/W2177263178
+- https://openalex.org/W2179079380
+- https://openalex.org/W2179459906
+- https://openalex.org/W2179756133
+- https://openalex.org/W2181115216
+- https://openalex.org/W2189851893
+- https://openalex.org/W2190124010
+- https://openalex.org/W2193503481
+- https://openalex.org/W2195908559
+- https://openalex.org/W2217744022
+- https://openalex.org/W2228076011
+- https://openalex.org/W2246020467
+- https://openalex.org/W2247349610
+- https://openalex.org/W2252419606
+- https://openalex.org/W2257740455
+- https://openalex.org/W227090777
+- https://openalex.org/W2271400225
+- https://openalex.org/W2279210858
+- https://openalex.org/W2302366419
+- https://openalex.org/W2302375105
+- https://openalex.org/W2306905182
+- https://openalex.org/W2310649619
+- https://openalex.org/W2319504665
+- https://openalex.org/W2324275236
+- https://openalex.org/W2337399347
+- https://openalex.org/W2338005630
+- https://openalex.org/W2339953596
+- https://openalex.org/W2341047908
+- https://openalex.org/W2341381771
+- https://openalex.org/W2341511228
+- https://openalex.org/W2342713082
+- https://openalex.org/W2343404668
+- https://openalex.org/W2344689389
+- https://openalex.org/W2345336796
+- https://openalex.org/W2345465812
+- https://openalex.org/W2345697694
+- https://openalex.org/W2346539216
+- https://openalex.org/W2346899731
+- https://openalex.org/W2353868709
+- https://openalex.org/W2402521863
+- https://openalex.org/W2403368281
+- https://openalex.org/W2404168073
+- https://openalex.org/W2409662752
+- https://openalex.org/W2460722822
+- https://openalex.org/W2467141671
+- https://openalex.org/W2468575288
+- https://openalex.org/W2470926071
+- https://openalex.org/W2472054196
+- https://openalex.org/W2472993327
+- https://openalex.org/W2473616148
+- https://openalex.org/W2474460813
+- https://openalex.org/W2511784814
+- https://openalex.org/W2513274944
+- https://openalex.org/W2513783605
+- https://openalex.org/W2515147100
+- https://openalex.org/W2517035962
+- https://openalex.org/W2518459119
+- https://openalex.org/W2518635801
+- https://openalex.org/W2520924300
+- https://openalex.org/W2522765912
+- https://openalex.org/W2523158102
+- https://openalex.org/W2525783532
+- https://openalex.org/W2527922782
+- https://openalex.org/W2528671555
+- https://openalex.org/W2530450118
+- https://openalex.org/W2531205202
+- https://openalex.org/W2536463572
+- https://openalex.org/W2541454866
+- https://openalex.org/W2543176785
+- https://openalex.org/W2551959074
+- https://openalex.org/W2557173482
+- https://openalex.org/W2557951249
+- https://openalex.org/W2564065614
+- https://openalex.org/W2566312563
+- https://openalex.org/W2567371572
+- https://openalex.org/W2572684869
+- https://openalex.org/W2573417923
+- https://openalex.org/W2583021177
+- https://openalex.org/W2583661120
+- https://openalex.org/W2586058225
+- https://openalex.org/W2590107759
+- https://openalex.org/W2590983508
+- https://openalex.org/W2591443624
+- https://openalex.org/W2594584909
+- https://openalex.org/W2594702982
+- https://openalex.org/W2595529991
+- https://openalex.org/W2604218940
+- https://openalex.org/W2604517814
+- https://openalex.org/W2605305155
+- https://openalex.org/W2605399913
+- https://openalex.org/W2605709464
+- https://openalex.org/W2606730441
+- https://openalex.org/W2607205254
+- https://openalex.org/W2607496293
+- https://openalex.org/W2617601469
+- https://openalex.org/W2619220565
+- https://openalex.org/W2619280447
+- https://openalex.org/W2621922516
+- https://openalex.org/W2733898201
+- https://openalex.org/W2734628437
+- https://openalex.org/W2734999831
+- https://openalex.org/W2735157793
+- https://openalex.org/W2739096448
+- https://openalex.org/W2748476893
+- https://openalex.org/W2748488583
+- https://openalex.org/W2751847990
+- https://openalex.org/W2752713919
+- https://openalex.org/W2753989175
+- https://openalex.org/W2760458605
+- https://openalex.org/W2761089649
+- https://openalex.org/W2761128817
+- https://openalex.org/W2762332231
+- https://openalex.org/W2764029364
+- https://openalex.org/W2766992128
+- https://openalex.org/W2767291420
+- https://openalex.org/W2767736436
+- https://openalex.org/W2769271313
+- https://openalex.org/W2770038364
+- https://openalex.org/W2770541382
+- https://openalex.org/W2772896719
+- https://openalex.org/W2775121567
+- https://openalex.org/W2775515334
+- https://openalex.org/W2778175050
+- https://openalex.org/W2782734207
+- https://openalex.org/W2784008656
+- https://openalex.org/W2784161922
+- https://openalex.org/W2784321492
+- https://openalex.org/W2786443773
+- https://openalex.org/W2788461564
+- https://openalex.org/W2791590178
+- https://openalex.org/W2792121704
+- https://openalex.org/W2793705078
+- https://openalex.org/W2794005491
+- https://openalex.org/W2794018984
+- https://openalex.org/W2800525565
+- https://openalex.org/W2801080873
+- https://openalex.org/W2801196356
+- https://openalex.org/W2801715454
+- https://openalex.org/W2803003999
+- https://openalex.org/W2803561114
+- https://openalex.org/W2805007108
+- https://openalex.org/W2806977122
+- https://openalex.org/W2808453509
+- https://openalex.org/W2809354578
+- https://openalex.org/W2826845060
+- https://openalex.org/W2883066342
+- https://openalex.org/W2883329130
+- https://openalex.org/W2883451419
+- https://openalex.org/W2885562408
+- https://openalex.org/W2886903059
+- https://openalex.org/W2887144228
+- https://openalex.org/W2895974873
+- https://openalex.org/W2899240562
+- https://openalex.org/W2899619418
+- https://openalex.org/W2899803789
+- https://openalex.org/W2901832160
+- https://openalex.org/W2904601733
+- https://openalex.org/W2907392378
+- https://openalex.org/W2907402105
+- https://openalex.org/W2908291032
+- https://openalex.org/W2908946718
+- https://openalex.org/W2909652575
+- https://openalex.org/W2914579290
+- https://openalex.org/W2915691882
+- https://openalex.org/W2920897755
+- https://openalex.org/W2926682201
+- https://openalex.org/W2934984619
+- https://openalex.org/W2938442499
+- https://openalex.org/W2941534450
+- https://openalex.org/W2944768311
+- https://openalex.org/W2946150834
+- https://openalex.org/W2946979808
+- https://openalex.org/W2947197111
+- https://openalex.org/W2949457131
+- https://openalex.org/W2952469797
+- https://openalex.org/W2952916955
+- https://openalex.org/W2959969038
+- https://openalex.org/W2963243430
+- https://openalex.org/W2964276362
+- https://openalex.org/W2965572644
+- https://openalex.org/W2966070318
+- https://openalex.org/W2966336080
+- https://openalex.org/W2971053639
+- https://openalex.org/W2978821840
+- https://openalex.org/W2980047943
+- https://openalex.org/W2980455709
+- https://openalex.org/W2982457389
+- https://openalex.org/W2984514134
+- https://openalex.org/W2987398437
+- https://openalex.org/W2987830845
+- https://openalex.org/W2989785791
+- https://openalex.org/W2990157034
+- https://openalex.org/W2990317592
+- https://openalex.org/W2990720407
+- https://openalex.org/W2991821872
+- https://openalex.org/W2996158092
+- https://openalex.org/W2996276926
+- https://openalex.org/W2996825230
+- https://openalex.org/W2997515033
+- https://openalex.org/W2998003639
+- https://openalex.org/W2998500935
+- https://openalex.org/W2998624531
+- https://openalex.org/W2999414590
+- https://openalex.org/W3004068387
+- https://openalex.org/W3008734677
+- https://openalex.org/W3009261244
+- https://openalex.org/W3010860482
+- https://openalex.org/W3041088561
+- https://openalex.org/W3044698812
+- https://openalex.org/W3048099458
+- https://openalex.org/W3080183443
+- https://openalex.org/W3100145213
+- https://openalex.org/W3102673816
+- https://openalex.org/W3121497926
+- https://openalex.org/W3148727958
+- https://openalex.org/W3159281654
+- https://openalex.org/W4213327538
+- https://openalex.org/W4232632925
+- https://openalex.org/W4243077454
+- https://openalex.org/W4243951297
+- https://openalex.org/W4248681815
+- https://openalex.org/W4249751050
+- https://openalex.org/W4250143236
+- https://openalex.org/W4252360830
+- https://openalex.org/W4302085737
+- https://openalex.org/W4392576943
+- https://openalex.org/W98895577
+- https://openalex.org/W998280947
+primary_topic: Climate variability and models
+open_access: true

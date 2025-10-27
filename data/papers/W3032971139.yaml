@@ -1,0 +1,838 @@
+id: https://openalex.org/W3032971139
+doi: https://doi.org/10.1038/s41586-020-2405-7
+title: Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe
+publication_date: '2020-06-08'
+publication_year: 2020
+cited_by_count: 3504
+citation_percentile: 0.999831
+pagerank: 3.050255376910169e-06
+authorships:
+- author_id: https://openalex.org/A5032005702
+  display_name: Seth Flaxman
+  orcid: https://orcid.org/0000-0002-2477-4217
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5063912611
+  display_name: Swapnil Mishra
+  orcid: https://orcid.org/0000-0002-8759-5902
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5043216872
+  display_name: Axel Gandy
+  orcid: https://orcid.org/0000-0002-6777-0451
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5072980853
+  display_name: H. Juliette T. Unwin
+  orcid: https://orcid.org/0000-0002-9120-4003
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5085657900
+  display_name: Thomas A. Mellan
+  orcid: https://orcid.org/0000-0003-4185-9930
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5069674396
+  display_name: Helen Coupland
+  orcid: https://orcid.org/0000-0003-3581-1404
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5061411035
+  display_name: Charles Whittaker
+  orcid: https://orcid.org/0000-0002-5003-2575
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5089110295
+  display_name: Harrison Zhu
+  orcid: https://orcid.org/0000-0002-3232-1314
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5065748980
+  display_name: Tresnia Berah
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5033519595
+  display_name: Jeffrey W. Eaton
+  orcid: https://orcid.org/0000-0001-7728-728X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5035563472
+  display_name: "M\xE9lodie Monod"
+  orcid: https://orcid.org/0000-0001-6448-2051
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5023423019
+  display_name: "Pablo N. Perez\u2010Guzman"
+  orcid: https://orcid.org/0000-0002-5277-5196
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5015264471
+  display_name: Nora Schmit
+  orcid: https://orcid.org/0000-0001-9840-0878
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5077036972
+  display_name: Lucia Cilloni
+  orcid: https://orcid.org/0000-0002-5456-5723
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5030841774
+  display_name: Kylie E. C. Ainslie
+  orcid: https://orcid.org/0000-0001-5419-7206
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5061272028
+  display_name: Marc Baguelin
+  orcid: https://orcid.org/0000-0003-3867-1953
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5050488354
+  display_name: Adhiratha Boonyasiri
+  orcid: https://orcid.org/0000-0001-6549-9621
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109636
+    display_name: NIHR Imperial Biomedical Research Centre
+    ror: https://ror.org/01kmhx639
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit in Healthcare Associated Infections and Antimicrobial
+    Resistance, Imperial College London, London, UK
+- author_id: https://openalex.org/A5043866292
+  display_name: Olivia Boyd
+  orcid: https://orcid.org/0000-0001-8858-1660
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5069294379
+  display_name: Lorenzo Cattarino
+  orcid: https://orcid.org/0000-0003-3975-550X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5088011336
+  display_name: Laura Cooper
+  orcid: https://orcid.org/0000-0002-2942-3627
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5038399464
+  display_name: "Zulma M. Cucunub\xE1"
+  orcid: https://orcid.org/0000-0002-8165-3198
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5051715740
+  display_name: Gina Cuomo-Dannenburg
+  orcid: https://orcid.org/0000-0001-6821-0352
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5004886737
+  display_name: Amy Dighe
+  orcid: https://orcid.org/0000-0001-5024-8061
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5024424416
+  display_name: Bimandra A Djaafara
+  orcid: https://orcid.org/0000-0001-7481-2624
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5010447284
+  display_name: Ilaria Dorigatti
+  orcid: https://orcid.org/0000-0001-9959-0706
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5035576970
+  display_name: Sabine van Elsland
+  orcid: https://orcid.org/0000-0003-0775-7463
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5014601619
+  display_name: Richard G. FitzJohn
+  orcid: https://orcid.org/0000-0001-8888-3837
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5012223040
+  display_name: Katy A. M. Gaythorpe
+  orcid: https://orcid.org/0000-0003-3734-9081
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5080788176
+  display_name: Lily Geidelberg
+  orcid: https://orcid.org/0000-0002-8057-1844
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5019654788
+  display_name: Nicholas C. Grassly
+  orcid: https://orcid.org/0000-0001-6067-4507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5028425116
+  display_name: William D. Green
+  orcid: https://orcid.org/0000-0001-8556-0389
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5049874690
+  display_name: Timothy B. Hallett
+  orcid: https://orcid.org/0000-0002-9681-0424
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5007609449
+  display_name: Arran Hamlet
+  orcid: https://orcid.org/0000-0003-0871-0640
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5085026623
+  display_name: Wes Hinsley
+  orcid: https://orcid.org/0000-0002-4597-1746
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5040877411
+  display_name: B Jeffrey
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5076957237
+  display_name: Edward Knock
+  orcid: https://orcid.org/0000-0003-1135-9652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5028482508
+  display_name: Daniel J. Laydon
+  orcid: https://orcid.org/0000-0003-4270-3321
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5003559913
+  display_name: "Gemma Nedjati\u2010Gilani"
+  orcid: https://orcid.org/0000-0001-5723-5028
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5026590903
+  display_name: Pierre Nouvellet
+  orcid: https://orcid.org/0000-0002-6094-5722
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I162608824
+    display_name: University of Sussex
+    ror: https://ror.org/00ayhx656
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Life Sciences, University of Sussex, Brighton, UK
+- author_id: https://openalex.org/A5045686938
+  display_name: Kris V. Parag
+  orcid: https://orcid.org/0000-0002-7806-3605
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5015957442
+  display_name: Igor Siveroni
+  orcid: https://orcid.org/0000-0003-2595-3062
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5039446883
+  display_name: Hayley A Thompson
+  orcid: https://orcid.org/0000-0002-9314-9458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5084944682
+  display_name: Robert Verity
+  orcid: https://orcid.org/0000-0002-3902-8567
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5058253520
+  display_name: Erik Volz
+  orcid: https://orcid.org/0000-0001-6268-8937
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5074313191
+  display_name: Caroline E. Walters
+  orcid: https://orcid.org/0000-0003-1882-0886
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5022306105
+  display_name: Haowei Wang
+  orcid: https://orcid.org/0000-0003-4753-8783
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5079237967
+  display_name: Yuanrong Wang
+  orcid: https://orcid.org/0000-0001-6708-4569
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5031970678
+  display_name: Oliver J. Watson
+  orcid: https://orcid.org/0000-0003-2374-0741
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27804330
+    display_name: Brown University
+    ror: https://ror.org/05gq02987
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine and Pathology, Brown University, Providence,
+    RI, USA
+- author_id: https://openalex.org/A5080897367
+  display_name: Peter Winskill
+  orcid: https://orcid.org/0000-0003-3001-4959
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5036440835
+  display_name: Xiaoyue Xi
+  orcid: https://orcid.org/0000-0002-7490-282X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5029349379
+  display_name: Patrick Walker
+  orcid: https://orcid.org/0000-0002-9596-9628
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5009727567
+  display_name: Azra C. Ghani
+  orcid: https://orcid.org/0000-0002-0007-4910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5012533867
+  display_name: Christl A. Donnelly
+  orcid: https://orcid.org/0000-0002-0195-2463
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5091885439
+  display_name: Steven Riley
+  orcid: https://orcid.org/0000-0001-7904-4804
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5072422735
+  display_name: Michaela Vollmer
+  orcid: https://orcid.org/0000-0001-6970-7192
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5008407354
+  display_name: Neil M. Ferguson
+  orcid: https://orcid.org/0000-0002-1154-8093
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5059589209
+  display_name: Lucy Okell
+  orcid: https://orcid.org/0000-0001-7202-6873
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+- author_id: https://openalex.org/A5091290326
+  display_name: Samir Bhatt
+  orcid: https://orcid.org/0000-0002-0891-4611
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease
+    and Emergency Analytics, Imperial College London, London, UK
+referenced_works:
+- https://openalex.org/W1981457167
+- https://openalex.org/W2035886603
+- https://openalex.org/W2097446414
+- https://openalex.org/W2163930085
+- https://openalex.org/W2982204749
+- https://openalex.org/W3011243131
+- https://openalex.org/W3012284084
+- https://openalex.org/W3013967887
+- https://openalex.org/W3013985547
+- https://openalex.org/W3018970359
+- https://openalex.org/W3020184843
+- https://openalex.org/W3025090814
+- https://openalex.org/W3025684696
+- https://openalex.org/W3026382261
+- https://openalex.org/W3032725243
+- https://openalex.org/W3037177566
+- https://openalex.org/W3040552450
+primary_topic: COVID-19 epidemiological studies
+open_access: true

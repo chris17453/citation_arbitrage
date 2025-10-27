@@ -1,0 +1,756 @@
+id: https://openalex.org/W3043049174
+doi: https://doi.org/10.1161/circulationaha.120.047430
+title: Pulmonary Embolism in Patients With COVID-19
+publication_date: '2020-04-24'
+publication_year: 2020
+cited_by_count: 1068
+citation_percentile: 0.999531
+pagerank: 2.6505736305284363e-06
+authorships:
+- author_id: https://openalex.org/A5014663814
+  display_name: Julien Poissy
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I2279609970
+    display_name: "Universit\xE9 de Lille"
+    ror: https://ror.org/02kzqn938
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210118174
+    display_name: "Unit\xE9 de Glycobiologie Structurale et Fonctionnelle"
+    ror: https://ror.org/02g6y2720
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Lille, Inserm U1285, CHU Lille, P\xF4le de r\xE9animation, CNRS,\
+    \ UMR 8576\u2013UGSF\u2013Unit\xE9 de Glycobiologie Structurale et Fonctionnelle,\
+    \ France (J.P.)."
+- author_id: https://openalex.org/A5010299811
+  display_name: Julien Goutay
+  orcid: https://orcid.org/0000-0002-8879-3572
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "CHU Lille, P\xF4le de r\xE9animation, France (J.G., M.C., E.P., T.D.)."
+- author_id: https://openalex.org/A5057293369
+  display_name: Morgan Caplan
+  orcid: https://orcid.org/0000-0002-6016-0749
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "CHU Lille, P\xF4le de r\xE9animation, France (J.G., M.C., E.P., T.D.)."
+- author_id: https://openalex.org/A5020070547
+  display_name: Erika Parmentier-Decrucq
+  orcid: https://orcid.org/0000-0002-5836-5956
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "CHU Lille, P\xF4le de r\xE9animation, France (J.G., M.C., E.P., T.D.)."
+- author_id: https://openalex.org/A5059976906
+  display_name: Thibault Duburcq
+  orcid: https://orcid.org/0000-0002-8184-930X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "CHU Lille, P\xF4le de r\xE9animation, France (J.G., M.C., E.P., T.D.)."
+- author_id: https://openalex.org/A5026772510
+  display_name: Fanny Lassalle
+  orcid: https://orcid.org/0000-0003-0494-823X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2279609970
+    display_name: "Universit\xE9 de Lille"
+    ror: https://ror.org/02kzqn938
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I2800921988
+    display_name: Institut Pasteur de Lille
+    ror: https://ror.org/05k9skc85
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Lille, Inserm, CHU Lille, Department of Hematology and Transfusion,\
+    \ P\xF4le de Biologie Pathologie G\xE9n\xE9tique, Institut Pasteur de Lille, UMR1011-EGID,\
+    \ France (F.L., E.J., A.R., S.S.)."
+- author_id: https://openalex.org/A5043707199
+  display_name: Emmanuelle Jeanpierre
+  orcid: https://orcid.org/0000-0002-7900-0518
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2279609970
+    display_name: "Universit\xE9 de Lille"
+    ror: https://ror.org/02kzqn938
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I2800921988
+    display_name: Institut Pasteur de Lille
+    ror: https://ror.org/05k9skc85
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Lille, Inserm, CHU Lille, Department of Hematology and Transfusion,\
+    \ P\xF4le de Biologie Pathologie G\xE9n\xE9tique, Institut Pasteur de Lille, UMR1011-EGID,\
+    \ France (F.L., E.J., A.R., S.S.)."
+- author_id: https://openalex.org/A5046587142
+  display_name: Antoine Rauch
+  orcid: https://orcid.org/0000-0002-1182-4131
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I2279609970
+    display_name: "Universit\xE9 de Lille"
+    ror: https://ror.org/02kzqn938
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I2800921988
+    display_name: Institut Pasteur de Lille
+    ror: https://ror.org/05k9skc85
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Lille, Inserm, CHU Lille, Department of Hematology and Transfusion,\
+    \ P\xF4le de Biologie Pathologie G\xE9n\xE9tique, Institut Pasteur de Lille, UMR1011-EGID,\
+    \ France (F.L., E.J., A.R., S.S.)."
+- author_id: https://openalex.org/A5013990412
+  display_name: Julien Labreuche
+  orcid: https://orcid.org/0000-0002-3384-0423
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2279609970
+    display_name: "Universit\xE9 de Lille"
+    ror: https://ror.org/02kzqn938
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210139070
+    display_name: "Unit\xE9 de Technologies Chimiques et Biologiques pour la Sant\xE9"
+    ror: https://ror.org/03k1e4r14
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4387155751
+    display_name: "Evaluation des technologies de sant\xE9 et des pratiques m\xE9\
+      dicales"
+    ror: https://ror.org/01qygwc68
+    country_code: null
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Lille, CHU Lille, ULR 2694\u2013METRICS: \xC9valuation des technologies\
+    \ de sant\xE9 et des pratiques m\xE9dicales, France (J.L.)."
+- author_id: https://openalex.org/A5066163712
+  display_name: Sophie Susen
+  orcid: https://orcid.org/0000-0001-5953-163X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I2279609970
+    display_name: "Universit\xE9 de Lille"
+    ror: https://ror.org/02kzqn938
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I2800921988
+    display_name: Institut Pasteur de Lille
+    ror: https://ror.org/05k9skc85
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Lille, Inserm, CHU Lille, Department of Hematology and Transfusion,\
+    \ P\xF4le de Biologie Pathologie G\xE9n\xE9tique, Institut Pasteur de Lille, UMR1011-EGID,\
+    \ France (F.L., E.J., A.R., S.S.)."
+- author_id: https://openalex.org/A5072406312
+  display_name: Nicolas Cousin
+  orcid: https://orcid.org/0000-0002-0068-9253
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5112618012
+  display_name: Arthur Durand
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5056054921
+  display_name: Ahmed El Kalioubie
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5017402247
+  display_name: "Rapha\xEBl Favory"
+  orcid: https://orcid.org/0000-0001-7772-2608
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5021360966
+  display_name: Patrick Girardie
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5040441576
+  display_name: Marion Houard
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5023506142
+  display_name: Emmanuelle Jaillette
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5057395882
+  display_name: M. Jourdain
+  orcid: https://orcid.org/0000-0001-9450-192X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5010532065
+  display_name: G. Ledoux
+  orcid: https://orcid.org/0000-0002-0462-5185
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5101602263
+  display_name: Daniel Mathieu
+  orcid: https://orcid.org/0000-0003-3538-7180
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5075528511
+  display_name: "Anne\u2010Sophie Moreau"
+  orcid: https://orcid.org/0000-0002-8036-9312
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5068081824
+  display_name: "Christopher Nil\xE8s"
+  orcid: https://orcid.org/0000-0001-7078-4283
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5064736877
+  display_name: Saad Nseir
+  orcid: https://orcid.org/0000-0002-7618-0357
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5089440478
+  display_name: Thierry Onimus
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5072233694
+  display_name: "S\xE9bastien Pr\xE9au"
+  orcid: https://orcid.org/0000-0002-8638-7183
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5089610925
+  display_name: Laurent Robriquet
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5042987943
+  display_name: "Anahita Rouz\xE9"
+  orcid: https://orcid.org/0000-0002-1330-3161
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5014232760
+  display_name: Arthur Simonnet
+  orcid: https://orcid.org/0000-0003-1529-3259
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5110533624
+  display_name: Sophie Six
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5113911170
+  display_name: "Aur\xE9lia Toussaint"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5102735239
+  display_name: Annabelle Dupont
+  orcid: https://orcid.org/0000-0002-1554-9931
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5018608064
+  display_name: Anne Bauters
+  orcid: https://orcid.org/0000-0003-2734-456X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5107843697
+  display_name: Christophe Zawadzki
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "R\xE9cepteurs nucl\xE9aires, maladies cardiovasculaires et diab\xE8te - U 1011"
+- author_id: https://openalex.org/A5063518303
+  display_name: Camille Paris
+  orcid: https://orcid.org/0000-0002-7256-6332
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5084811745
+  display_name: Nathalie Trillot
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5073571614
+  display_name: B. Wibaut
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5106659568
+  display_name: Audrey Hochart
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5023949675
+  display_name: Catherine Marichez
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5013201569
+  display_name: Vincent Dalibard
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5067127680
+  display_name: Sandrine Vanderziepe
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5047747069
+  display_name: Laureline Bourgeois
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5076626177
+  display_name: "Ana\xEFs Gaul"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5044906611
+  display_name: "Aur\xE9lie Jospin"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5009798087
+  display_name: Nataliia Stepina
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5058227654
+  display_name: "B\xE9n\xE9dicte Pradines"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5064940562
+  display_name: A. Tournoys
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5113908424
+  display_name: Thierry Brousseau
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5112641924
+  display_name: "Martine R\xE9my"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+- author_id: https://openalex.org/A5054180064
+  display_name: Antoine Hutt
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I3018718406
+    display_name: Centre Hospitalier Universitaire de Lille
+    ror: https://ror.org/02ppyfa04
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier R\xE9gional Universitaire [CHU Lille]"
+referenced_works:
+- https://openalex.org/W2110992040
+- https://openalex.org/W2901288830
+- https://openalex.org/W2902174064
+- https://openalex.org/W3013730242
+- https://openalex.org/W3016182787
+primary_topic: Venous Thromboembolism Diagnosis and Management
+open_access: true

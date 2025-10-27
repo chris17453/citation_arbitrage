@@ -1,0 +1,440 @@
+id: https://openalex.org/W4211036635
+doi: https://doi.org/10.1038/s41572-021-00269-y
+title: Alzheimer disease
+publication_date: '2021-05-13'
+publication_year: 2021
+cited_by_count: 1782
+citation_percentile: 0.999434
+pagerank: 2.5403506854183263e-06
+authorships:
+- author_id: https://openalex.org/A5059027860
+  display_name: David S. Knopman
+  orcid: https://orcid.org/0000-0002-6544-066X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210125099
+    display_name: Mayo Clinic in Arizona
+    ror: https://ror.org/03jp40720
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Neurology, Mayo Clinic, Rochester, MN, USA
+- author_id: https://openalex.org/A5066723376
+  display_name: "H\xE9l\xE8ne Amieva"
+  orcid: https://orcid.org/0000-0002-0119-7242
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I15057530
+    display_name: "Universit\xE9 de Bordeaux"
+    ror: https://ror.org/057qpr032
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210106115
+    display_name: Bordeaux Population Health
+    ror: https://ror.org/00xzzba89
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Inserm U1219 Bordeaux Population Health Center, University of Bordeaux, Bordeaux,
+    France
+- author_id: https://openalex.org/A5045246745
+  display_name: Ronald C. Petersen
+  orcid: https://orcid.org/0000-0002-8178-6601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125099
+    display_name: Mayo Clinic in Arizona
+    ror: https://ror.org/03jp40720
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Mayo Clinic, Rochester, MN, USA
+- author_id: https://openalex.org/A5007086576
+  display_name: "Ga\xEBl Ch\xE9telat"
+  orcid: https://orcid.org/0000-0002-4889-7932
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I98702875
+    display_name: "Universit\xE9 de Caen Normandie"
+    ror: https://ror.org/051kpcy16
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210105918
+    display_name: "Normandie Universit\xE9"
+    ror: https://ror.org/01k40cz91
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4387153933
+    display_name: Physiopathologie et imagerie des troubles neurologiques
+    ror: https://ror.org/00vsvph51
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I4210154143
+    display_name: Cyceron
+    ror: https://ror.org/04zeq1c51
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Normandie Univ, UNICAEN, INSERM, U1237, PhIND "Physiopathology and Imaging of
+    Neurological Disorders", Institut Blood and Brain @ Caen-Normandie, Cyceron, Caen,
+    France
+- author_id: https://openalex.org/A5088998527
+  display_name: David M. Holtzman
+  orcid: https://orcid.org/0000-0002-3400-0856
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St. Louis,
+    MO, USA
+- author_id: https://openalex.org/A5068688487
+  display_name: Bradley T. Hyman
+  orcid: https://orcid.org/0000-0002-7959-9401
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Massachusetts General Hospital, Boston, MA, USA
+- author_id: https://openalex.org/A5022090615
+  display_name: Ralph A. Nixon
+  orcid: https://orcid.org/0000-0001-5124-1021
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210086933
+    display_name: NYU Langone Health
+    ror: https://ror.org/005dvqh91
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Psychiatry and Cell Biology, New York University Langone Medical
+    Center, New York University, New York, NY, USA
+- author_id: https://openalex.org/A5063489595
+  display_name: David T. Jones
+  orcid: https://orcid.org/0000-0002-4807-9833
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210125099
+    display_name: Mayo Clinic in Arizona
+    ror: https://ror.org/03jp40720
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Mayo Clinic, Rochester, MN, USA
+referenced_works:
+- https://openalex.org/W1494326734
+- https://openalex.org/W1514559719
+- https://openalex.org/W1523693806
+- https://openalex.org/W1559001474
+- https://openalex.org/W1587329234
+- https://openalex.org/W1803199265
+- https://openalex.org/W1892456310
+- https://openalex.org/W1916330421
+- https://openalex.org/W1941791902
+- https://openalex.org/W1958554455
+- https://openalex.org/W1967823816
+- https://openalex.org/W1968900405
+- https://openalex.org/W1969414063
+- https://openalex.org/W1971032265
+- https://openalex.org/W1972886222
+- https://openalex.org/W1974300727
+- https://openalex.org/W1975216966
+- https://openalex.org/W1978343814
+- https://openalex.org/W1980260502
+- https://openalex.org/W1980825524
+- https://openalex.org/W1980842500
+- https://openalex.org/W1982566038
+- https://openalex.org/W1984652813
+- https://openalex.org/W1985871594
+- https://openalex.org/W1990752558
+- https://openalex.org/W1993023011
+- https://openalex.org/W1995006422
+- https://openalex.org/W1995779519
+- https://openalex.org/W2004371621
+- https://openalex.org/W2005483591
+- https://openalex.org/W2005765994
+- https://openalex.org/W2009799196
+- https://openalex.org/W2010484888
+- https://openalex.org/W2012763181
+- https://openalex.org/W2013333500
+- https://openalex.org/W2016134516
+- https://openalex.org/W2020771577
+- https://openalex.org/W2022982095
+- https://openalex.org/W2023200476
+- https://openalex.org/W2026812199
+- https://openalex.org/W2028436804
+- https://openalex.org/W2028943878
+- https://openalex.org/W2029923284
+- https://openalex.org/W2030050451
+- https://openalex.org/W2031866379
+- https://openalex.org/W2040522662
+- https://openalex.org/W2040863767
+- https://openalex.org/W2043181113
+- https://openalex.org/W2043291430
+- https://openalex.org/W2046952010
+- https://openalex.org/W2047095305
+- https://openalex.org/W2048505725
+- https://openalex.org/W2048685634
+- https://openalex.org/W2052742260
+- https://openalex.org/W2053082937
+- https://openalex.org/W2055186021
+- https://openalex.org/W2057249855
+- https://openalex.org/W2059481988
+- https://openalex.org/W2065338300
+- https://openalex.org/W2069121057
+- https://openalex.org/W2073809577
+- https://openalex.org/W2075444764
+- https://openalex.org/W2082429191
+- https://openalex.org/W2082524462
+- https://openalex.org/W2088554064
+- https://openalex.org/W2089936534
+- https://openalex.org/W2091924214
+- https://openalex.org/W2093488421
+- https://openalex.org/W2094732273
+- https://openalex.org/W2095963715
+- https://openalex.org/W2096063777
+- https://openalex.org/W2096197732
+- https://openalex.org/W2097171675
+- https://openalex.org/W2099511111
+- https://openalex.org/W2099588975
+- https://openalex.org/W2104287008
+- https://openalex.org/W2108216517
+- https://openalex.org/W2108681415
+- https://openalex.org/W2109527205
+- https://openalex.org/W2110665915
+- https://openalex.org/W2114146133
+- https://openalex.org/W2115017507
+- https://openalex.org/W2116709840
+- https://openalex.org/W2119190539
+- https://openalex.org/W2121341819
+- https://openalex.org/W2124030567
+- https://openalex.org/W2126650951
+- https://openalex.org/W2128030851
+- https://openalex.org/W2128197886
+- https://openalex.org/W2128228199
+- https://openalex.org/W2131864441
+- https://openalex.org/W2133649359
+- https://openalex.org/W2134836371
+- https://openalex.org/W2136435696
+- https://openalex.org/W2136922708
+- https://openalex.org/W2137649439
+- https://openalex.org/W2138190873
+- https://openalex.org/W2141975447
+- https://openalex.org/W2142746788
+- https://openalex.org/W2143285014
+- https://openalex.org/W2144647267
+- https://openalex.org/W2144907160
+- https://openalex.org/W2146788881
+- https://openalex.org/W2148281700
+- https://openalex.org/W2148457471
+- https://openalex.org/W2149724453
+- https://openalex.org/W2151384687
+- https://openalex.org/W2152163581
+- https://openalex.org/W2154755614
+- https://openalex.org/W2156326104
+- https://openalex.org/W2157657208
+- https://openalex.org/W2159367229
+- https://openalex.org/W2161240378
+- https://openalex.org/W2163349796
+- https://openalex.org/W2167693778
+- https://openalex.org/W2167720733
+- https://openalex.org/W2171346860
+- https://openalex.org/W2184320181
+- https://openalex.org/W2185296608
+- https://openalex.org/W2204819948
+- https://openalex.org/W2235698702
+- https://openalex.org/W2265553328
+- https://openalex.org/W2293378393
+- https://openalex.org/W2312617997
+- https://openalex.org/W2344407798
+- https://openalex.org/W2353776455
+- https://openalex.org/W2419430317
+- https://openalex.org/W2421404761
+- https://openalex.org/W2425008001
+- https://openalex.org/W2437840001
+- https://openalex.org/W2460076813
+- https://openalex.org/W2462925203
+- https://openalex.org/W2464372814
+- https://openalex.org/W2472346278
+- https://openalex.org/W2505483170
+- https://openalex.org/W2547593615
+- https://openalex.org/W2549366107
+- https://openalex.org/W2560062133
+- https://openalex.org/W2562785312
+- https://openalex.org/W2565491613
+- https://openalex.org/W2573597225
+- https://openalex.org/W2582524520
+- https://openalex.org/W2591809865
+- https://openalex.org/W2592067246
+- https://openalex.org/W2592378632
+- https://openalex.org/W2599851926
+- https://openalex.org/W2601075442
+- https://openalex.org/W2603451911
+- https://openalex.org/W2605316169
+- https://openalex.org/W2605454964
+- https://openalex.org/W2612300503
+- https://openalex.org/W2612655633
+- https://openalex.org/W2613492737
+- https://openalex.org/W2616302329
+- https://openalex.org/W2619097621
+- https://openalex.org/W2619717932
+- https://openalex.org/W2623521763
+- https://openalex.org/W2625796101
+- https://openalex.org/W2728546490
+- https://openalex.org/W2735794637
+- https://openalex.org/W2738200982
+- https://openalex.org/W2743254891
+- https://openalex.org/W2743925765
+- https://openalex.org/W2750718695
+- https://openalex.org/W2752570168
+- https://openalex.org/W2756959977
+- https://openalex.org/W2757684047
+- https://openalex.org/W2758608261
+- https://openalex.org/W2759476787
+- https://openalex.org/W2763403209
+- https://openalex.org/W2766782573
+- https://openalex.org/W2767368042
+- https://openalex.org/W2771599582
+- https://openalex.org/W2771949785
+- https://openalex.org/W2774369241
+- https://openalex.org/W2777739866
+- https://openalex.org/W2778293650
+- https://openalex.org/W2779580162
+- https://openalex.org/W2780732598
+- https://openalex.org/W2783503227
+- https://openalex.org/W2786029268
+- https://openalex.org/W2786084903
+- https://openalex.org/W2789976306
+- https://openalex.org/W2791199363
+- https://openalex.org/W2793407859
+- https://openalex.org/W2793877525
+- https://openalex.org/W2798054687
+- https://openalex.org/W2800998714
+- https://openalex.org/W2801534945
+- https://openalex.org/W2806036204
+- https://openalex.org/W2806938337
+- https://openalex.org/W2807946721
+- https://openalex.org/W2808438144
+- https://openalex.org/W2810367404
+- https://openalex.org/W2886816095
+- https://openalex.org/W2887375324
+- https://openalex.org/W2888418802
+- https://openalex.org/W2891411797
+- https://openalex.org/W2891486442
+- https://openalex.org/W2892120842
+- https://openalex.org/W2894273961
+- https://openalex.org/W2895939677
+- https://openalex.org/W2896430225
+- https://openalex.org/W2900990131
+- https://openalex.org/W2902155257
+- https://openalex.org/W2903601366
+- https://openalex.org/W2903957639
+- https://openalex.org/W2905324087
+- https://openalex.org/W2905614745
+- https://openalex.org/W2907061143
+- https://openalex.org/W2907547898
+- https://openalex.org/W2907592852
+- https://openalex.org/W2909477364
+- https://openalex.org/W2910128841
+- https://openalex.org/W2911023351
+- https://openalex.org/W2912533302
+- https://openalex.org/W2913933796
+- https://openalex.org/W2914222102
+- https://openalex.org/W2916749909
+- https://openalex.org/W2917476942
+- https://openalex.org/W2917906486
+- https://openalex.org/W2930696305
+- https://openalex.org/W2945458022
+- https://openalex.org/W2947363735
+- https://openalex.org/W2948656839
+- https://openalex.org/W2948815538
+- https://openalex.org/W2951707943
+- https://openalex.org/W2953373572
+- https://openalex.org/W2955011744
+- https://openalex.org/W2959411532
+- https://openalex.org/W2959600977
+- https://openalex.org/W2961942506
+- https://openalex.org/W2966365568
+- https://openalex.org/W2967807085
+- https://openalex.org/W2972315303
+- https://openalex.org/W2973395456
+- https://openalex.org/W2980270906
+- https://openalex.org/W2989855650
+- https://openalex.org/W2990944800
+- https://openalex.org/W2995183059
+- https://openalex.org/W3000313970
+- https://openalex.org/W3002293416
+- https://openalex.org/W3006732691
+- https://openalex.org/W3007767538
+- https://openalex.org/W3008202901
+- https://openalex.org/W3008391208
+- https://openalex.org/W3012272172
+- https://openalex.org/W3012618838
+- https://openalex.org/W3014222043
+- https://openalex.org/W3014779409
+- https://openalex.org/W3014879687
+- https://openalex.org/W3015782501
+- https://openalex.org/W3016191946
+- https://openalex.org/W3016796793
+- https://openalex.org/W3018431352
+- https://openalex.org/W3021135759
+- https://openalex.org/W3022217792
+- https://openalex.org/W3024127790
+- https://openalex.org/W3024517573
+- https://openalex.org/W3025103961
+- https://openalex.org/W3031694559
+- https://openalex.org/W3034536401
+- https://openalex.org/W3035823399
+- https://openalex.org/W3035869254
+- https://openalex.org/W3039837585
+- https://openalex.org/W3042402214
+- https://openalex.org/W3044043077
+- https://openalex.org/W3045897262
+- https://openalex.org/W3045997188
+- https://openalex.org/W3046275966
+- https://openalex.org/W3048109944
+- https://openalex.org/W3087587305
+- https://openalex.org/W3091838285
+- https://openalex.org/W3093546635
+- https://openalex.org/W3094301905
+- https://openalex.org/W3094668876
+- https://openalex.org/W3095328230
+- https://openalex.org/W3108584570
+- https://openalex.org/W3109359388
+- https://openalex.org/W3109535162
+- https://openalex.org/W3112120242
+- https://openalex.org/W3118496727
+- https://openalex.org/W3131335329
+- https://openalex.org/W3131646863
+- https://openalex.org/W3137826907
+- https://openalex.org/W380069984
+- https://openalex.org/W4206686463
+- https://openalex.org/W4211068768
+- https://openalex.org/W4247665917
+primary_topic: Alzheimer's disease research and treatments
+open_access: true

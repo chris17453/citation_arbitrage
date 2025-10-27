@@ -1,0 +1,390 @@
+id: https://openalex.org/W3126958162
+doi: https://doi.org/10.1038/s41593-020-00787-0
+title: Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal
+  cortex
+publication_date: '2021-02-08'
+publication_year: 2021
+cited_by_count: 872
+citation_percentile: 0.999982
+pagerank: 2.5516631195494167e-06
+authorships:
+- author_id: https://openalex.org/A5040039946
+  display_name: Kristen R. Maynard
+  orcid: https://orcid.org/0000-0003-0031-8468
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151493
+    display_name: Lieber Institute for Brain Development
+    ror: https://ror.org/04q36wn27
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lieber Institute for Brain Development, Johns Hopkins Medical Campus, Baltimore,
+    MD, USA
+- author_id: https://openalex.org/A5075979341
+  display_name: "Leonardo Collado\u2010Torres"
+  orcid: https://orcid.org/0000-0003-2140-308X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151493
+    display_name: Lieber Institute for Brain Development
+    ror: https://ror.org/04q36wn27
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lieber Institute for Brain Development, Johns Hopkins Medical Campus, Baltimore,
+    MD, USA
+- author_id: https://openalex.org/A5066778646
+  display_name: Lukas M. Weber
+  orcid: https://orcid.org/0000-0002-3282-1730
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health,
+    Baltimore, MD, USA
+- author_id: https://openalex.org/A5014285260
+  display_name: Cedric R. Uytingco
+  orcid: https://orcid.org/0000-0003-1625-3988
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5064103290
+  display_name: Brianna K. Barry
+  orcid: https://orcid.org/0000-0002-9900-1841
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151493
+    display_name: Lieber Institute for Brain Development
+    ror: https://ror.org/04q36wn27
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lieber Institute for Brain Development, Johns Hopkins Medical Campus, Baltimore,
+    MD, USA
+- author_id: https://openalex.org/A5034310814
+  display_name: Stephen R. Williams
+  orcid: https://orcid.org/0000-0003-2108-2757
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5056879946
+  display_name: Joseph Catallini
+  orcid: https://orcid.org/0000-0001-5949-0399
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health,
+    Baltimore, MD, USA
+- author_id: https://openalex.org/A5019365383
+  display_name: Matthew N. Tran
+  orcid: https://orcid.org/0000-0001-9694-7378
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151493
+    display_name: Lieber Institute for Brain Development
+    ror: https://ror.org/04q36wn27
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lieber Institute for Brain Development, Johns Hopkins Medical Campus, Baltimore,
+    MD, USA
+- author_id: https://openalex.org/A5062320954
+  display_name: Zachary Besich
+  orcid: https://orcid.org/0000-0001-5802-8282
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151493
+    display_name: Lieber Institute for Brain Development
+    ror: https://ror.org/04q36wn27
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lieber Institute for Brain Development, Johns Hopkins Medical Campus, Baltimore,
+    MD, USA
+- author_id: https://openalex.org/A5064957197
+  display_name: Madhavi Tippani
+  orcid: https://orcid.org/0000-0002-6465-6418
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151493
+    display_name: Lieber Institute for Brain Development
+    ror: https://ror.org/04q36wn27
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lieber Institute for Brain Development, Johns Hopkins Medical Campus, Baltimore,
+    MD, USA
+- author_id: https://openalex.org/A5030557421
+  display_name: Jennifer Chew
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5030701106
+  display_name: Yifeng Yin
+  orcid: https://orcid.org/0000-0002-2739-6477
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5020523652
+  display_name: Joel E. Kleinman
+  orcid: https://orcid.org/0000-0002-4210-6052
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Behavioral Sciences, Johns Hopkins School of Medicine,
+    Baltimore, MD, USA
+- author_id: https://openalex.org/A5056413476
+  display_name: Thomas M. Hyde
+  orcid: https://orcid.org/0000-0002-8746-3037
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Behavioral Sciences, Johns Hopkins School of Medicine,
+    Baltimore, MD, USA
+- author_id: https://openalex.org/A5030021421
+  display_name: Nikhil Rao
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10x Genomics, Pleasanton, CA, USA
+- author_id: https://openalex.org/A5028505800
+  display_name: Stephanie C. Hicks
+  orcid: https://orcid.org/0000-0002-7858-0231
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health,
+    Baltimore, MD, USA
+- author_id: https://openalex.org/A5003322851
+  display_name: Keri Martinowich
+  orcid: https://orcid.org/0000-0002-5237-0789
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799853436
+    display_name: Johns Hopkins Medicine
+    ror: https://ror.org/037zgn354
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Behavioral Sciences, Johns Hopkins School of Medicine,
+    Baltimore, MD, USA
+- author_id: https://openalex.org/A5055206246
+  display_name: Andrew E. Jaffe
+  orcid: https://orcid.org/0000-0001-6886-1454
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Computational Biology, Johns Hopkins University, Baltimore, MD, USA
+referenced_works:
+- https://openalex.org/W1552434751
+- https://openalex.org/W1844405070
+- https://openalex.org/W2031215175
+- https://openalex.org/W2040868835
+- https://openalex.org/W2042789810
+- https://openalex.org/W2051314902
+- https://openalex.org/W2053725214
+- https://openalex.org/W2055655674
+- https://openalex.org/W2063328671
+- https://openalex.org/W2082638532
+- https://openalex.org/W2083252150
+- https://openalex.org/W2087123651
+- https://openalex.org/W2090490936
+- https://openalex.org/W2109354517
+- https://openalex.org/W2110387447
+- https://openalex.org/W2124740086
+- https://openalex.org/W2132379826
+- https://openalex.org/W2137526110
+- https://openalex.org/W2146512944
+- https://openalex.org/W2153860431
+- https://openalex.org/W2168950294
+- https://openalex.org/W2169456326
+- https://openalex.org/W2187089797
+- https://openalex.org/W2264585211
+- https://openalex.org/W2287180374
+- https://openalex.org/W229097380
+- https://openalex.org/W2336440223
+- https://openalex.org/W2471513101
+- https://openalex.org/W2471536144
+- https://openalex.org/W2486882743
+- https://openalex.org/W2516455020
+- https://openalex.org/W2526546796
+- https://openalex.org/W2540833380
+- https://openalex.org/W2606755846
+- https://openalex.org/W2738082385
+- https://openalex.org/W2747841296
+- https://openalex.org/W2763529304
+- https://openalex.org/W2763776271
+- https://openalex.org/W2772624269
+- https://openalex.org/W2774307122
+- https://openalex.org/W2775417722
+- https://openalex.org/W2777388159
+- https://openalex.org/W2792835547
+- https://openalex.org/W2793922811
+- https://openalex.org/W2808465642
+- https://openalex.org/W2883175830
+- https://openalex.org/W2889326414
+- https://openalex.org/W2904884010
+- https://openalex.org/W2906213364
+- https://openalex.org/W2909826030
+- https://openalex.org/W2914482125
+- https://openalex.org/W2915848182
+- https://openalex.org/W2921756914
+- https://openalex.org/W2937443931
+- https://openalex.org/W2940256315
+- https://openalex.org/W2942678593
+- https://openalex.org/W2945232783
+- https://openalex.org/W2946016273
+- https://openalex.org/W2948150815
+- https://openalex.org/W2949275240
+- https://openalex.org/W2950375827
+- https://openalex.org/W2951158909
+- https://openalex.org/W2951502983
+- https://openalex.org/W2952383043
+- https://openalex.org/W2952459265
+- https://openalex.org/W2952602120
+- https://openalex.org/W2952673268
+- https://openalex.org/W2953036966
+- https://openalex.org/W2953068997
+- https://openalex.org/W2955503846
+- https://openalex.org/W2969948459
+- https://openalex.org/W2972983657
+- https://openalex.org/W2989807288
+- https://openalex.org/W2996171578
+- https://openalex.org/W2998912431
+- https://openalex.org/W2999977864
+- https://openalex.org/W3012534492
+- https://openalex.org/W3022553019
+- https://openalex.org/W3089167717
+- https://openalex.org/W3108941787
+- https://openalex.org/W4254687493
+primary_topic: Single-cell and spatial transcriptomics
+open_access: true

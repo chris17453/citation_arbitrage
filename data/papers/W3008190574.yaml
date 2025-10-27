@@ -1,0 +1,515 @@
+id: https://openalex.org/W3008190574
+doi: https://doi.org/10.1200/jco.19.02274
+title: 'Preoperative Chemoradiotherapy Versus Immediate Surgery for Resectable and
+  Borderline Resectable Pancreatic Cancer: Results of the Dutch Randomized Phase III
+  PREOPANC Trial'
+publication_date: '2020-02-27'
+publication_year: 2020
+cited_by_count: 908
+citation_percentile: 0.999966
+pagerank: 2.5677884821576694e-06
+authorships:
+- author_id: https://openalex.org/A5002147373
+  display_name: Eva Versteijne
+  orcid: https://orcid.org/0000-0003-3861-5310
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology, Cancer Center Amsterdam, Amsterdam UMC, University
+    of Amsterdam, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5003973735
+  display_name: Mustafa Suker
+  orcid: https://orcid.org/0000-0002-7935-4666
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149908
+    display_name: Erasmus MC Cancer Institute
+    ror: https://ror.org/03r4m3349
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Erasmus MC Cancer Institute, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5065098749
+  display_name: Karin Groothuis
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142067
+    display_name: Netherlands Comprehensive Cancer Organisation
+    ror: https://ror.org/03g5hcd33
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Research Department, Comprehensive Cancer Organisation the Netherlands
+    (IKNL), Nijmegen, the Netherlands
+- author_id: https://openalex.org/A5086772172
+  display_name: Janine M. Akkermans-Vogelaar
+  orcid: https://orcid.org/0000-0001-6779-6646
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142067
+    display_name: Netherlands Comprehensive Cancer Organisation
+    ror: https://ror.org/03g5hcd33
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Research Department, Comprehensive Cancer Organisation the Netherlands
+    (IKNL), Nijmegen, the Netherlands
+- author_id: https://openalex.org/A5015416945
+  display_name: Marc G. Besselink
+  orcid: https://orcid.org/0000-0003-2650-9350
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Cancer Center Amsterdam, Amsterdam UMC, University of Amsterdam,
+    Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5052876669
+  display_name: Bert A. Bonsing
+  orcid: https://orcid.org/0000-0003-4513-5737
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Leiden University Medical Center, Leiden, the Netherlands
+- author_id: https://openalex.org/A5023698533
+  display_name: Jeroen Buijsen
+  orcid: https://orcid.org/0000-0001-9521-8587
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210161616
+    display_name: Maastro Clinic
+    ror: https://ror.org/059wkzj26
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I2800191616
+    display_name: Maastricht University Medical Centre
+    ror: https://ror.org/02d9ce178
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology (MAASTRO), GROW School for Oncology and Developmental
+    Biology, Maastricht University Medical Centre, Maastricht, the Netherlands
+- author_id: https://openalex.org/A5039275887
+  display_name: Olivier R. Busch
+  orcid: https://orcid.org/0000-0001-9605-6831
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Cancer Center Amsterdam, Amsterdam UMC, University of Amsterdam,
+    Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5018004001
+  display_name: Geert-Jan Creemers
+  orcid: https://orcid.org/0000-0002-9358-1996
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801238018
+    display_name: Catharina Ziekenhuis
+    ror: https://ror.org/01qavk531
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Catharina Hospital, Eindhoven, the Netherlands
+- author_id: https://openalex.org/A5041935065
+  display_name: Ronald M. van Dam
+  orcid: https://orcid.org/0000-0001-8415-5090
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800191616
+    display_name: Maastricht University Medical Centre
+    ror: https://ror.org/02d9ce178
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Division of Hepato-Pancreato-Biliary & Oncology, European
+    Surgery Center Aachen Maastricht, Maastricht UMC+, Maastricht, the Netherlands
+- author_id: https://openalex.org/A5112538610
+  display_name: Ferry A.L.M. Eskens
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149908
+    display_name: Erasmus MC Cancer Institute
+    ror: https://ror.org/03r4m3349
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Erasmus MC Cancer Institute, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5107903885
+  display_name: Sebastiaan Festen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105568
+    display_name: OLVG
+    ror: https://ror.org/01d02sf11
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Onze Lieve Vrouwe Gasthuis, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5024976681
+  display_name: Jan Willem B. de Groot
+  orcid: https://orcid.org/0000-0002-1043-5011
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146510
+    display_name: Isala
+    ror: https://ror.org/046a2wj10
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Isala Oncology Centre, Zwolle, the Netherlands
+- author_id: https://openalex.org/A5027294559
+  display_name: Bas Groot Koerkamp
+  orcid: https://orcid.org/0000-0003-1917-6973
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149908
+    display_name: Erasmus MC Cancer Institute
+    ror: https://ror.org/03r4m3349
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Erasmus MC Cancer Institute, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5074957985
+  display_name: Ignace H. J. T. de Hingh
+  orcid: https://orcid.org/0000-0003-3491-4268
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801238018
+    display_name: Catharina Ziekenhuis
+    ror: https://ror.org/01qavk531
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Catharina Hospital, Eindhoven, the Netherlands
+- author_id: https://openalex.org/A5078260564
+  display_name: Marjolein Y.V. Homs
+  orcid: https://orcid.org/0000-0001-9828-2541
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149908
+    display_name: Erasmus MC Cancer Institute
+    ror: https://ror.org/03r4m3349
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Erasmus MC Cancer Institute, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5074911126
+  display_name: Jeanin E. van Hooft
+  orcid: https://orcid.org/0000-0002-4424-0079
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Gastroenterology and Hepatology, Cancer Centre Amsterdam, Amsterdam
+    UMC, University of Amsterdam, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5017560439
+  display_name: Emile D. Kerver
+  orcid: https://orcid.org/0009-0004-6456-4857
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105568
+    display_name: OLVG
+    ror: https://ror.org/01d02sf11
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Onze Lieve Vrouwe Gasthuis, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5054231020
+  display_name: Saskia Luelmo
+  orcid: https://orcid.org/0000-0002-9298-2878
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Leiden University Medical Center, Leiden, the
+    Netherlands
+- author_id: https://openalex.org/A5012438017
+  display_name: Karen J. Neelis
+  orcid: https://orcid.org/0000-0002-3506-4966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology, Leiden University Medical Center, Leiden, the
+    Netherlands
+- author_id: https://openalex.org/A5108229737
+  display_name: Joost J. Nuyttens
+  orcid: https://orcid.org/0009-0002-5021-1597
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149908
+    display_name: Erasmus MC Cancer Institute
+    ror: https://ror.org/03r4m3349
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology, Erasmus MC Cancer Institute, Rotterdam, the
+    Netherlands
+- author_id: https://openalex.org/A5002633658
+  display_name: Gabriel Paardekooper
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146510
+    display_name: Isala
+    ror: https://ror.org/046a2wj10
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology, Isala Oncology Center, Zwolle, the Netherlands
+- author_id: https://openalex.org/A5043134557
+  display_name: Gijs A. Patijn
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146510
+    display_name: Isala
+    ror: https://ror.org/046a2wj10
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Isala Oncology Center, Zwolle, the Netherlands
+- author_id: https://openalex.org/A5010810138
+  display_name: Maurice J.C. van der Sangen
+  orcid: https://orcid.org/0000-0003-1866-7367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801238018
+    display_name: Catharina Ziekenhuis
+    ror: https://ror.org/01qavk531
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology, Catharina Hospital, Eindhoven, the Netherlands
+- author_id: https://openalex.org/A5031137165
+  display_name: "Judith de Vos\u2010Geelen"
+  orcid: https://orcid.org/0000-0003-2578-1766
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800191616
+    display_name: Maastricht University Medical Centre
+    ror: https://ror.org/02d9ce178
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Division of Medical Oncology, GROW School for
+    Oncology and Developmental Biology, Maastricht UMC+, Maastricht, the Netherlands
+- author_id: https://openalex.org/A5110360711
+  display_name: Johanna W. Wilmink
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Cancer Center Amsterdam, Amsterdam UMC, University
+    of Amsterdam, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5051056050
+  display_name: Aeilko H. Zwinderman
+  orcid: https://orcid.org/0000-0003-0361-3139
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Cancer Center Amsterdam, Amsterdam UMC, University
+    of Amsterdam, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5043942519
+  display_name: Cornelis J.A. Punt
+  orcid: https://orcid.org/0000-0003-0846-1445
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Cancer Center Amsterdam, Amsterdam UMC, University
+    of Amsterdam, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5006641161
+  display_name: Casper H.J. van Eijck
+  orcid: https://orcid.org/0000-0002-9511-2157
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149908
+    display_name: Erasmus MC Cancer Institute
+    ror: https://ror.org/03r4m3349
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Erasmus MC Cancer Institute, Rotterdam, the Netherlands
+- author_id: https://openalex.org/A5033788401
+  display_name: Geertjan van Tienhoven
+  orcid: https://orcid.org/0000-0002-2516-2263
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology, Cancer Center Amsterdam, Amsterdam UMC, University
+    of Amsterdam, Amsterdam, the Netherlands
+referenced_works:
+- https://openalex.org/W1994177577
+- https://openalex.org/W2013507617
+- https://openalex.org/W2017325830
+- https://openalex.org/W2017955572
+- https://openalex.org/W2029240267
+- https://openalex.org/W2048716552
+- https://openalex.org/W2061274398
+- https://openalex.org/W2062980345
+- https://openalex.org/W2107539963
+- https://openalex.org/W2120362356
+- https://openalex.org/W2125452425
+- https://openalex.org/W2133853120
+- https://openalex.org/W2154444715
+- https://openalex.org/W2170462613
+- https://openalex.org/W2294867706
+- https://openalex.org/W2526895401
+- https://openalex.org/W2528969961
+- https://openalex.org/W2581973599
+- https://openalex.org/W2734470205
+- https://openalex.org/W2748935831
+- https://openalex.org/W2796434454
+- https://openalex.org/W2799575632
+- https://openalex.org/W2801077576
+- https://openalex.org/W2802949357
+- https://openalex.org/W2883551349
+- https://openalex.org/W2903623792
+- https://openalex.org/W2907779690
+- https://openalex.org/W2908229190
+- https://openalex.org/W2908229932
+- https://openalex.org/W2912196744
+- https://openalex.org/W2913927793
+- https://openalex.org/W2921197938
+- https://openalex.org/W4230892783
+- https://openalex.org/W592682419
+- https://openalex.org/W993424279
+primary_topic: Pancreatic and Hepatic Oncology Research
+open_access: true

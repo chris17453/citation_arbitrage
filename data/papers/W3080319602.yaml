@@ -1,0 +1,483 @@
+id: https://openalex.org/W3080319602
+doi: https://doi.org/10.3390/rs12172735
+title: Reconstructing Three Decades of Land Use and Land Cover Changes in Brazilian
+  Biomes with Landsat Archive and Earth Engine
+publication_date: '2020-08-25'
+publication_year: 2020
+cited_by_count: 1316
+citation_percentile: 0.999949
+pagerank: 2.532566501829385e-06
+authorships:
+- author_id: https://openalex.org/A5002899122
+  display_name: Carlos Souza
+  orcid: https://orcid.org/0000-0002-0205-6134
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210135491
+    display_name: Imazon
+    ror: https://ror.org/03z114n70
+    country_code: BR
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Instituto do Homem e Meio Ambiente da Amaz\xF4nia (Imazon), Bel\xE9m 66055-200,\
+    \ Brazil"
+- author_id: https://openalex.org/A5039171301
+  display_name: Julia Z. Shimbo
+  orcid: https://orcid.org/0000-0001-6432-0351
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122360
+    display_name: "Instituto de Pesquisa Ambiental da Amaz\xF4nia"
+    ror: https://ror.org/020f9s554
+    country_code: BR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Pesquisa Ambiental da Amaz\xF4nia (Ipam), Bras\xEDlia 70863-520,\
+    \ Brazil"
+- author_id: https://openalex.org/A5074393061
+  display_name: Marcos Reis Rosa
+  orcid: https://orcid.org/0000-0001-5367-8059
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I17974374
+    display_name: "Universidade de S\xE3o Paulo"
+    ror: https://ror.org/036rp1748
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Programa de P\xF3s-Gradu\xE7\xE3o em Geografia F\xEDsica, Faculdade de Filosofia,\
+    \ Letras e Ci\xEAncias Humanas, Universidade de S\xE3o Paulo, S\xE3o Paulo 05508-000,\
+    \ Brazil"
+- author_id: https://openalex.org/A5022678523
+  display_name: Leandro Parente
+  orcid: https://orcid.org/0000-0003-1589-0467
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68106152
+    display_name: "Universidade Federal de Goi\xE1s"
+    ror: https://ror.org/0039d5757
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Image Processing and GIS Laboratory (LAPIG), Federal University of Goi\xE1s (UFG),\
+    \ Goiania 74001-970, Brazil"
+- author_id: https://openalex.org/A5071960252
+  display_name: Ane Alencar
+  orcid: https://orcid.org/0000-0001-5605-7469
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122360
+    display_name: "Instituto de Pesquisa Ambiental da Amaz\xF4nia"
+    ror: https://ror.org/020f9s554
+    country_code: BR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Pesquisa Ambiental da Amaz\xF4nia (Ipam), Bras\xEDlia 70863-520,\
+    \ Brazil"
+- author_id: https://openalex.org/A5018660875
+  display_name: Bernardo Friedrich Theodor Rudorff
+  orcid: https://orcid.org/0000-0003-2931-0427
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Agrosat\xE9lite Geotecnologia Aplicada Ltda, Florian\xF3polis 88050-000, Brazil"
+- author_id: https://openalex.org/A5081422843
+  display_name: Heinrich Hasenack
+  orcid: https://orcid.org/0000-0002-8521-1266
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130442723
+    display_name: Universidade Federal do Rio Grande do Sul
+    ror: https://ror.org/041yk2d64
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centro de Ecologia, Universidade Federal do Rio Grande do Sul, Porto Alegre 91501-970,
+    Brazil
+- author_id: https://openalex.org/A5033272839
+  display_name: Marcelo Matsumoto
+  orcid: https://orcid.org/0000-0003-2899-6981
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "WRI Brasil, S\xE3o Paulo 05422-030, Brazil"
+- author_id: https://openalex.org/A5071673783
+  display_name: "Laerte Guimar\xE3es Ferreira"
+  orcid: https://orcid.org/0000-0002-0489-1141
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68106152
+    display_name: "Universidade Federal de Goi\xE1s"
+    ror: https://ror.org/0039d5757
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Image Processing and GIS Laboratory (LAPIG), Federal University of Goi\xE1s (UFG),\
+    \ Goiania 74001-970, Brazil"
+- author_id: https://openalex.org/A5090894114
+  display_name: Pedro Walfir Martins e Souza Filho
+  orcid: https://orcid.org/0000-0003-0252-808X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210161302
+    display_name: Vale Technological Institute
+    ror: https://ror.org/05wnasr61
+    country_code: BR
+    type: funder
+  - id: https://openalex.org/I59606676
+    display_name: "Universidade Federal do Par\xE1"
+    ror: https://ror.org/03q9sr818
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto Tecnol\xF3gico Vale, Universidade Federal do Par\xE1, Bel\xE9m 66055-090,\
+    \ Brazil"
+- author_id: https://openalex.org/A5010007877
+  display_name: Sergio W. de Oliveira
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Ecostage, S\xE3o Paulo 01402-002, Brazil"
+- author_id: https://openalex.org/A5023097260
+  display_name: Washington Franca-Rocha
+  orcid: https://orcid.org/0000-0002-2175-2792
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I21606457
+    display_name: Universidade Estadual de Feira de Santana
+    ror: https://ror.org/04ygk5j35
+    country_code: BR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Programa de P\xF3s-Gradua\xE7\xE3o em Modelagem em Ci\xEAncias da Terra e do\
+    \ Ambiente, Universidade Estadual de Feira de Santana, Feira de Santana 44031-460,\
+    \ Brazil"
+- author_id: https://openalex.org/A5101723766
+  display_name: "Ant\xF4nio V. Fonseca"
+  orcid: https://orcid.org/0000-0001-6309-6204
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135491
+    display_name: Imazon
+    ror: https://ror.org/03z114n70
+    country_code: BR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto do Homem e Meio Ambiente da Amaz\xF4nia (Imazon), Bel\xE9m 66055-200,\
+    \ Brazil"
+- author_id: https://openalex.org/A5070029766
+  display_name: Camila B. Marques
+  orcid: https://orcid.org/0000-0001-7696-8569
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122360
+    display_name: "Instituto de Pesquisa Ambiental da Amaz\xF4nia"
+    ror: https://ror.org/020f9s554
+    country_code: BR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Pesquisa Ambiental da Amaz\xF4nia (Ipam), Bras\xEDlia 70863-520,\
+    \ Brazil"
+- author_id: https://openalex.org/A5081423158
+  display_name: Cesar Guerreiro Diniz
+  orcid: https://orcid.org/0000-0001-7718-0992
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Solved\u2014Solutions in Geoinformation, Bel\xE9m 66077-830, Brazil"
+- author_id: https://openalex.org/A5039278729
+  display_name: Diego Pereira Costa
+  orcid: https://orcid.org/0000-0002-5117-898X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I21606457
+    display_name: Universidade Estadual de Feira de Santana
+    ror: https://ror.org/04ygk5j35
+    country_code: BR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Programa de P\xF3s-Gradua\xE7\xE3o em Modelagem em Ci\xEAncias da Terra e do\
+    \ Ambiente, Universidade Estadual de Feira de Santana, Feira de Santana 44031-460,\
+    \ Brazil"
+- author_id: https://openalex.org/A5052281772
+  display_name: Dyeden Monteiro
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098009
+    display_name: Amazon Research Foundation
+    ror: https://ror.org/00ssgrj25
+    country_code: BR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Terras App Solutions, Bel\xE9m 66055-050, Brazil"
+- author_id: https://openalex.org/A5077083851
+  display_name: Eduardo Reis Rosa
+  orcid: https://orcid.org/0000-0003-1370-6558
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "ArcPlan, S\xE3o Paulo 04026-001, Brazil"
+- author_id: https://openalex.org/A5054688784
+  display_name: "Eduardo V\xE9lez\u2010Martin"
+  orcid: https://orcid.org/0000-0001-8028-8953
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130442723
+    display_name: Universidade Federal do Rio Grande do Sul
+    ror: https://ror.org/041yk2d64
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centro de Ecologia, Universidade Federal do Rio Grande do Sul, Porto Alegre 91501-970,
+    Brazil
+- author_id: https://openalex.org/A5046018970
+  display_name: "Eliseu Jos\xE9 Weber"
+  orcid: https://orcid.org/0000-0003-4873-0232
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130442723
+    display_name: Universidade Federal do Rio Grande do Sul
+    ror: https://ror.org/041yk2d64
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Departamento Interdisciplinar, Universidade Federal do Rio Grande do Sul, Tramanda\xED\
+    \ 95590-000, Brazil"
+- author_id: https://openalex.org/A5001893126
+  display_name: Felipe Lenti
+  orcid: https://orcid.org/0000-0001-7790-7573
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122360
+    display_name: "Instituto de Pesquisa Ambiental da Amaz\xF4nia"
+    ror: https://ror.org/020f9s554
+    country_code: BR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Pesquisa Ambiental da Amaz\xF4nia (Ipam), Bras\xEDlia 70863-520,\
+    \ Brazil"
+- author_id: https://openalex.org/A5015256082
+  display_name: Fernando F. Paternost
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "ArcPlan, S\xE3o Paulo 04026-001, Brazil"
+- author_id: https://openalex.org/A5018854393
+  display_name: Frans Germain Corneel Pareyn
+  orcid: https://orcid.org/0000-0002-8954-4789
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210086656
+    display_name: "Centro de Tecnologias Estrat\xE9gicas do Nordeste"
+    ror: https://ror.org/002a3ss66
+    country_code: BR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Associa\xE7\xE3o Plantas do Nordeste, Recife 50731-280, Brazil"
+- author_id: https://openalex.org/A5009386210
+  display_name: "Jo\xE3o Victor Siqueira"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "JVN SIQUEIRA\u2014ME, Bel\xE9m 66010-000, Brazil"
+- author_id: https://openalex.org/A5051259077
+  display_name: "Jos\xE9 L. Viera"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210086656
+    display_name: "Centro de Tecnologias Estrat\xE9gicas do Nordeste"
+    ror: https://ror.org/002a3ss66
+    country_code: BR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Associa\xE7\xE3o Plantas do Nordeste, Recife 50731-280, Brazil"
+- author_id: https://openalex.org/A5068402266
+  display_name: Luiz C. Ferreira Neto
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Solved\u2014Solutions in Geoinformation, Bel\xE9m 66077-830, Brazil"
+- author_id: https://openalex.org/A5031958103
+  display_name: Marciano Saraiva
+  orcid: https://orcid.org/0000-0002-4697-5239
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Agrosat\xE9lite Geotecnologia Aplicada Ltda, Florian\xF3polis 88050-000, Brazil"
+- author_id: https://openalex.org/A5102724646
+  display_name: "M\xE1rcio Sales"
+  orcid: https://orcid.org/0000-0001-8897-742X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "MHR Sales Consultoria, Bel\xE9m 66010-000, Brazil"
+- author_id: https://openalex.org/A5037414088
+  display_name: "Mois\xE9s Salgado"
+  orcid: https://orcid.org/0000-0001-5314-4698
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Agrosat\xE9lite Geotecnologia Aplicada Ltda, Florian\xF3polis 88050-000, Brazil"
+- author_id: https://openalex.org/A5012194293
+  display_name: Rodrigo Nogueira de Vasconcelos
+  orcid: https://orcid.org/0000-0002-1368-6721
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I21606457
+    display_name: Universidade Estadual de Feira de Santana
+    ror: https://ror.org/04ygk5j35
+    country_code: BR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Programa de P\xF3s-Gradua\xE7\xE3o em Modelagem em Ci\xEAncias da Terra e do\
+    \ Ambiente, Universidade Estadual de Feira de Santana, Feira de Santana 44031-460,\
+    \ Brazil"
+- author_id: https://openalex.org/A5038854597
+  display_name: Soltan Galano
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I21606457
+    display_name: Universidade Estadual de Feira de Santana
+    ror: https://ror.org/04ygk5j35
+    country_code: BR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Programa de P\xF3s-Gradua\xE7\xE3o em Modelagem em Ci\xEAncias da Terra e do\
+    \ Ambiente, Universidade Estadual de Feira de Santana, Feira de Santana 44031-460,\
+    \ Brazil"
+- author_id: https://openalex.org/A5082376748
+  display_name: "Vin\xEDcius Vieira Mesquita"
+  orcid: https://orcid.org/0000-0003-0400-4087
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68106152
+    display_name: "Universidade Federal de Goi\xE1s"
+    ror: https://ror.org/0039d5757
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Image Processing and GIS Laboratory (LAPIG), Federal University of Goi\xE1s (UFG),\
+    \ Goiania 74001-970, Brazil"
+- author_id: https://openalex.org/A5084117411
+  display_name: Tasso Azevedo
+  orcid: https://orcid.org/0000-0003-0489-8295
+  author_position: last
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "MapBiomas, Observat\xF3rio do Clima, S\xE3o Paulo 05418-060, Brazil"
+referenced_works:
+- https://openalex.org/W1198997062
+- https://openalex.org/W1815391834
+- https://openalex.org/W1963799937
+- https://openalex.org/W1965846105
+- https://openalex.org/W1970219967
+- https://openalex.org/W1977993374
+- https://openalex.org/W2006929658
+- https://openalex.org/W2011500029
+- https://openalex.org/W2014582653
+- https://openalex.org/W2021291741
+- https://openalex.org/W2028157701
+- https://openalex.org/W2042692910
+- https://openalex.org/W2043540570
+- https://openalex.org/W2050320438
+- https://openalex.org/W2061692811
+- https://openalex.org/W2066978892
+- https://openalex.org/W2068167377
+- https://openalex.org/W2068557084
+- https://openalex.org/W2069614109
+- https://openalex.org/W2076111734
+- https://openalex.org/W2077031712
+- https://openalex.org/W2082527494
+- https://openalex.org/W2085282193
+- https://openalex.org/W2102734227
+- https://openalex.org/W2106723908
+- https://openalex.org/W2108721001
+- https://openalex.org/W2110637553
+- https://openalex.org/W2113828183
+- https://openalex.org/W2120560384
+- https://openalex.org/W2131615718
+- https://openalex.org/W2145638163
+- https://openalex.org/W2153221451
+- https://openalex.org/W2155952421
+- https://openalex.org/W2157675604
+- https://openalex.org/W2162348455
+- https://openalex.org/W2168937486
+- https://openalex.org/W2170121306
+- https://openalex.org/W2176635760
+- https://openalex.org/W2188083314
+- https://openalex.org/W2396669988
+- https://openalex.org/W2522240313
+- https://openalex.org/W2588450090
+- https://openalex.org/W2616379711
+- https://openalex.org/W2617566215
+- https://openalex.org/W2621021710
+- https://openalex.org/W2626187214
+- https://openalex.org/W2725897987
+- https://openalex.org/W2735042947
+- https://openalex.org/W2755013453
+- https://openalex.org/W2765110741
+- https://openalex.org/W2769949806
+- https://openalex.org/W2788693165
+- https://openalex.org/W2797997284
+- https://openalex.org/W2804467493
+- https://openalex.org/W2805081991
+- https://openalex.org/W2883479521
+- https://openalex.org/W2884817717
+- https://openalex.org/W2888562171
+- https://openalex.org/W2896745835
+- https://openalex.org/W2909648611
+- https://openalex.org/W2912475768
+- https://openalex.org/W2925219434
+- https://openalex.org/W2935317424
+- https://openalex.org/W2944489601
+- https://openalex.org/W2947654647
+- https://openalex.org/W2952849258
+- https://openalex.org/W2966881035
+- https://openalex.org/W2970967456
+- https://openalex.org/W3008247969
+- https://openalex.org/W3011435629
+- https://openalex.org/W3029438666
+- https://openalex.org/W3122191690
+- https://openalex.org/W4237709168
+primary_topic: Remote Sensing in Agriculture
+open_access: true

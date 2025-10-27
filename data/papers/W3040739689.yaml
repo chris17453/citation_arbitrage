@@ -1,0 +1,1730 @@
+id: https://openalex.org/W3040739689
+doi: https://doi.org/10.1038/s41597-020-0534-3
+title: The FLUXNET2015 dataset and the ONEFlux processing pipeline for eddy covariance
+  data
+publication_date: '2020-07-09'
+publication_year: 2020
+cited_by_count: 1467
+citation_percentile: 0.999946
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5074467940
+  display_name: Gilberto Pastorello
+  orcid: https://orcid.org/0000-0002-9387-3702
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Computational Research Division, Lawrence Berkeley National Laboratory, Berkeley,
+    CA, 94720, USA
+- author_id: https://openalex.org/A5048910651
+  display_name: Carlo Trotta
+  orcid: https://orcid.org/0000-0001-6377-0262
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138938424
+    display_name: "Universit\xE0 degli Studi della Tuscia"
+    ror: https://ror.org/03svwq685
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DIBAF, University of Tuscia, Viterbo, 01100, Italy
+- author_id: https://openalex.org/A5076243141
+  display_name: Eleonora Canfora
+  orcid: https://orcid.org/0000-0002-6613-8702
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138938424
+    display_name: "Universit\xE0 degli Studi della Tuscia"
+    ror: https://ror.org/03svwq685
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DIBAF, University of Tuscia, Viterbo, 01100, Italy
+- author_id: https://openalex.org/A5015534386
+  display_name: Housen Chu
+  orcid: https://orcid.org/0000-0002-8131-4938
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Climate & Ecosystem Sciences Division, Lawrence Berkeley National Laboratory,
+    Berkeley, CA, 94720, USA
+- author_id: https://openalex.org/A5019427365
+  display_name: Danielle Christianson
+  orcid: https://orcid.org/0000-0002-8663-7701
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Research Division, Lawrence Berkeley National Laboratory, Berkeley,
+    CA, 94720, USA
+- author_id: https://openalex.org/A5038012602
+  display_name: You-Wei Cheah
+  orcid: https://orcid.org/0000-0003-2241-4901
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Research Division, Lawrence Berkeley National Laboratory, Berkeley,
+    CA, 94720, USA
+- author_id: https://openalex.org/A5059297061
+  display_name: C. Poindexter
+  orcid: https://orcid.org/0000-0003-0280-3256
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I43522216
+    display_name: California State University, Sacramento
+    ror: https://ror.org/03e26wv14
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Civil Engineering, California State University, Sacramento, CA,
+    95819, USA
+- author_id: https://openalex.org/A5055823556
+  display_name: Jiquan Chen
+  orcid: https://orcid.org/0000-0003-0761-9458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I87216513
+    display_name: Michigan State University
+    ror: https://ror.org/05hs6h993
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Geography, Environment, and Spatial Sciences, Michigan State University,
+    East Lansing, MI, 48823, USA
+- author_id: https://openalex.org/A5090980722
+  display_name: Abdelrahman Elbashandy
+  orcid: https://orcid.org/0000-0001-5044-9453
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Research Division, Lawrence Berkeley National Laboratory, Berkeley,
+    CA, 94720, USA
+- author_id: https://openalex.org/A5042853178
+  display_name: Marty Humphrey
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I51556381
+    display_name: University of Virginia
+    ror: https://ror.org/0153tk833
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Virginia, Charlottesville, VA, 22904,
+    USA
+- author_id: https://openalex.org/A5027973547
+  display_name: Peter Isaac
+  orcid: https://orcid.org/0000-0002-2160-9398
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - TERN Ecosystem Processes, Menzies Creek, VIC3159, Australia
+- author_id: https://openalex.org/A5083827575
+  display_name: Diego Polidori
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111827
+    display_name: CMCC Foundation - Euro-Mediterranean Center on Climate Change
+    ror: https://ror.org/01tf11a61
+    country_code: IT
+    type: nonprofit
+  - id: https://openalex.org/I138938424
+    display_name: "Universit\xE0 degli Studi della Tuscia"
+    ror: https://ror.org/03svwq685
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DIBAF, University of Tuscia, Viterbo, 01100, Italy
+  - Euro-Mediterranean Centre on Climate Change Foundation (CMCC), Lecce, 73100, Italy
+- author_id: https://openalex.org/A5071721504
+  display_name: Markus Reichstein
+  orcid: https://orcid.org/0000-0001-5736-1112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210154168
+    display_name: Max Planck Institute for Biogeochemistry
+    ror: https://ror.org/051yxp643
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute for Biogeochemistry, Jena, 07701, Germany
+- author_id: https://openalex.org/A5088036953
+  display_name: Alessio Ribeca
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138938424
+    display_name: "Universit\xE0 degli Studi della Tuscia"
+    ror: https://ror.org/03svwq685
+    country_code: IT
+    type: funder
+  - id: https://openalex.org/I4210111827
+    display_name: CMCC Foundation - Euro-Mediterranean Center on Climate Change
+    ror: https://ror.org/01tf11a61
+    country_code: IT
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DIBAF, University of Tuscia, Viterbo, 01100, Italy
+  - Euro-Mediterranean Centre on Climate Change Foundation (CMCC), Lecce, 73100, Italy
+- author_id: https://openalex.org/A5074465144
+  display_name: Catharine van Ingen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Research Division, Lawrence Berkeley National Laboratory, Berkeley,
+    CA, 94720, USA
+- author_id: https://openalex.org/A5055893241
+  display_name: Nicolas Vuichard
+  orcid: https://orcid.org/0000-0002-3397-7948
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195731000
+    display_name: "Universit\xE9 de Versailles Saint-Quentin-en-Yvelines"
+    ror: https://ror.org/03mkjjy25
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210124937
+    display_name: Laboratoire des Sciences du Climat et de l'Environnement
+    ror: https://ror.org/03dsd0g48
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I2738703131
+    display_name: "Commissariat \xE0 l'\xC9nergie Atomique et aux \xC9nergies Alternatives"
+    ror: https://ror.org/00jjx8s55
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratoire des Sciences du Climat et de l'Environnement (LSCE), CEA CNRS, UVSQ
+    UPSACLAY, Gif sur Yvette, 91190, France
+- author_id: https://openalex.org/A5026251507
+  display_name: Leiming Zhang
+  orcid: https://orcid.org/0000-0001-5437-5412
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160793
+    display_name: Institute of Geographic Sciences and Natural Resources Research
+    ror: https://ror.org/04t1cdb72
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic
+    Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing,
+    100101, China
+- author_id: https://openalex.org/A5029468558
+  display_name: B. D. Amiro
+  orcid: https://orcid.org/0000-0002-9969-0050
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I46247651
+    display_name: University of Manitoba
+    ror: https://ror.org/02gfys938
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Soil Science, University of Manitoba, Winnipeg, MB, R3T2N2, Canada
+- author_id: https://openalex.org/A5041980313
+  display_name: Christof Ammann
+  orcid: https://orcid.org/0000-0002-0783-5444
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139035
+    display_name: Agroscope
+    ror: https://ror.org/04d8ztx87
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Agroecology and Environment, Agroscope Research Institute, Z\xFC\
+    rich, 8046, Switzerland"
+- author_id: https://openalex.org/A5014933674
+  display_name: M. Altaf Arain
+  orcid: https://orcid.org/0000-0002-1433-5173
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Geography and Earth Sciences, McMaster University, L8S4K1, Hamilton,
+    ON, Canada
+- author_id: https://openalex.org/A5035922506
+  display_name: "Jonas Ard\xF6"
+  orcid: https://orcid.org/0000-0002-9318-0973
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I187531555
+    display_name: Lund University
+    ror: https://ror.org/012a77v79
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physical Geography and Ecosystem Science, Lund University, Lund,
+    22362, Sweden
+- author_id: https://openalex.org/A5002096338
+  display_name: Timothy J. Arkebauer
+  orcid: https://orcid.org/0000-0002-9731-7551
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114395901
+    display_name: "University of Nebraska\u2013Lincoln"
+    ror: https://ror.org/043mer456
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Lincoln,
+    NE, 68583, USA
+- author_id: https://openalex.org/A5070094610
+  display_name: Stefan K. Arndt
+  orcid: https://orcid.org/0000-0001-7086-9375
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165779595
+    display_name: The University of Melbourne
+    ror: https://ror.org/01ej9dk98
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Ecosystem and Forest Sciences, The University of Melbourne, Richmond,
+    VIC3121, Australia
+- author_id: https://openalex.org/A5078332618
+  display_name: Nicola Arriga
+  orcid: https://orcid.org/0000-0001-5321-3497
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210118689
+    display_name: Joint Research Centre
+    ror: https://ror.org/02qezmz13
+    country_code: IT
+    type: government
+  - id: https://openalex.org/I149213910
+    display_name: University of Antwerp
+    ror: https://ror.org/008x57b05
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Research Group PLECO, University of Antwerp, Antwerp, 2610,
+    Belgium
+  - Joint Research Centre, European Commission, Ispra, 21027, Italy
+- author_id: https://openalex.org/A5090028349
+  display_name: Marc Aubinet
+  orcid: https://orcid.org/0000-0002-4667-1809
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157674565
+    display_name: "University of Li\xE8ge"
+    ror: https://ror.org/00afp2z80
+    country_code: BE
+    type: funder
+  - id: https://openalex.org/I27895137
+    display_name: Gembloux Agro-Bio Tech
+    ror: https://ror.org/00bmzhb16
+    country_code: BE
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - TERRA Teaching and Research Center, University of Liege, Gembloux, B-5030, Belgium
+- author_id: https://openalex.org/A5031651964
+  display_name: Mika Aurela
+  orcid: https://orcid.org/0000-0002-4046-7225
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1285790362
+    display_name: Finnish Meteorological Institute
+    ror: https://ror.org/05hppb561
+    country_code: FI
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Finnish Meteorological Institute, Helsinki, 00560, Finland
+- author_id: https://openalex.org/A5091811096
+  display_name: Dennis Baldocchi
+  orcid: https://orcid.org/0000-0003-3496-4919
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ESPM, University of California Berkeley, Berkeley, CA, 94720, USA
+- author_id: https://openalex.org/A5043229697
+  display_name: Alan Barr
+  orcid: https://orcid.org/0000-0003-2717-218X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32625721
+    display_name: University of Saskatchewan
+    ror: https://ror.org/010x8gc63
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210161576
+    display_name: Global Institute for Water Security
+    ror: https://ror.org/05997db74
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I1342547582
+    display_name: Environment and Climate Change Canada
+    ror: https://ror.org/026ny0e17
+    country_code: CA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Climate Research Division, Environment and Climate Change Canada, Saskatoon, SK,
+    S7N3H5, Canada
+  - Global Institute for Water Security, University of Saskatchewan, Saskatoon, SK,
+    S7N3H5, Canada
+- author_id: https://openalex.org/A5088658117
+  display_name: Eric Beamesderfer
+  orcid: https://orcid.org/0000-0002-7513-7349
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Geography and Earth Sciences, McMaster University, L8S4K1, Hamilton,
+    ON, Canada
+- author_id: https://openalex.org/A5023333232
+  display_name: Luca Belelli Marchesini
+  orcid: https://orcid.org/0000-0001-8408-4675
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I103225651
+    display_name: Fondazione Edmund Mach
+    ror: https://ror.org/0381bab64
+    country_code: IT
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Landscape Design and Sustainable Ecosystems, Agrarian-Technological
+    Institute, RUDN University, Moscow, 117198, Russia
+  - Department of Sustainable Agro-ecosystems and Bioresources, Research and Innovation
+    Centre, Fondazione Edmund Mach, San Michele All'adige, 38010, Italy
+- author_id: https://openalex.org/A5013465795
+  display_name: Onil Bergeron
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210166601
+    display_name: "Minist\xE8re des Ressources naturelles et des For\xEAts"
+    ror: https://ror.org/05ekmpa79
+    country_code: CA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Direction du march\xE9 du carbone, Minist\xE8re du D\xE9veloppement durable de\
+    \ l'Environnement et de la Lutte contre les changements climatiques, Qu\xE9bec,\
+    \ QC, G1R5V7, Canada"
+- author_id: https://openalex.org/A5033905771
+  display_name: Jason Beringer
+  orcid: https://orcid.org/0000-0002-4619-8361
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177877127
+    display_name: The University of Western Australia
+    ror: https://ror.org/047272k79
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Agriculture and Environment, University of Western Australia, Crawley,
+    6009, Australia
+- author_id: https://openalex.org/A5011136047
+  display_name: Christian Bernhofer
+  orcid: https://orcid.org/0000-0003-1061-3073
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78650965
+    display_name: "Technische Universit\xE4t Dresden"
+    ror: https://ror.org/042aqky30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Hydrology and Meteorology, Technische Universit\xE4t Dresden, Tharandt,\
+    \ 01737, Germany"
+- author_id: https://openalex.org/A5020178407
+  display_name: Daniel Berveiller
+  orcid: https://orcid.org/0000-0001-7461-6420
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091490
+    display_name: "\xC9cologie, Syst\xE9matique et \xC9volution"
+    ror: https://ror.org/00kk89y84
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I22248866
+    display_name: AgroParisTech
+    ror: https://ror.org/02kbmgc12
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 Paris-Saclay, CNRS, AgroParisTech, Ecologie Syst\xE9matique et\
+    \ Evolution, Orsay, 91405, France"
+- author_id: https://openalex.org/A5077897735
+  display_name: D. P. Billesbach
+  orcid: https://orcid.org/0000-0001-8661-9178
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114395901
+    display_name: "University of Nebraska\u2013Lincoln"
+    ror: https://ror.org/043mer456
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biological Systems Engineering, University of Nebraska-Lincoln, Lincoln, NE, 68583,
+    USA
+- author_id: https://openalex.org/A5019081296
+  display_name: T. Andrew Black
+  orcid: https://orcid.org/0000-0002-7494-9767
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141945490
+    display_name: University of British Columbia
+    ror: https://ror.org/03rmrcq20
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Land and Food Systems, University of British Columbia, Vancouver, BC,
+    V6T1Z4, Canada
+- author_id: https://openalex.org/A5064412993
+  display_name: Peter D. Blanken
+  orcid: https://orcid.org/0000-0002-7405-2220
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I188538660
+    display_name: University of Colorado Boulder
+    ror: https://ror.org/02ttsq026
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Geography, University of Colorado, Boulder, CO, 80309, USA
+- author_id: https://openalex.org/A5061715783
+  display_name: Gil Bohrer
+  orcid: https://orcid.org/0000-0002-9209-9540
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52357470
+    display_name: The Ohio State University
+    ror: https://ror.org/00rs6vg23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Civil, Environmental & Geodetic Engineering, Ohio State University,
+    Columbus, OH, 43210, USA
+- author_id: https://openalex.org/A5011080965
+  display_name: Julia Boike
+  orcid: https://orcid.org/0000-0002-5875-2112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I127251866
+    display_name: "Alfred-Wegener-Institut Helmholtz-Zentrum f\xFCr Polar- und Meeresforschung"
+    ror: https://ror.org/032e6b942
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research, Potsdam,
+    14482, Germany
+  - "Geography Department, Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5112185251
+  display_name: Paul V. Bolstad
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1322780083
+    display_name: Minnesota Department of Natural Resources
+    ror: https://ror.org/056vcnr65
+    country_code: US
+    type: government
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Forest Resources, University of Minnesota, St Paul, MN, 55108, USA
+- author_id: https://openalex.org/A5089380611
+  display_name: Damien Bonal
+  orcid: https://orcid.org/0000-0001-9602-8603
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I90183372
+    display_name: "Universit\xE9 de Lorraine"
+    ror: https://ror.org/04vfs2w97
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210088668
+    display_name: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    ror: https://ror.org/003vg9w96
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I22248866
+    display_name: AgroParisTech
+    ror: https://ror.org/02kbmgc12
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I4210104468
+    display_name: Silva
+    ror: https://ror.org/01d5v2p67
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Lorraine, AgroParisTech, INRAE, UMR Silva, Nancy, 54000, France"
+- author_id: https://openalex.org/A5110500920
+  display_name: Jean-Marc Bonnefond
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091158
+    display_name: "\xC9cole Nationale Sup\xE9rieure des Sciences Agronomiques de Bordeaux-Aquitaine"
+    ror: https://ror.org/00har9915
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I4210088668
+    display_name: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    ror: https://ror.org/003vg9w96
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ISPA, Bordeaux Sciences Agro, INRAE, Villenave d'Ornon, 33140, France
+- author_id: https://openalex.org/A5090019564
+  display_name: D. R. Bowling
+  orcid: https://orcid.org/0000-0002-3864-4042
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I223532165
+    display_name: University of Utah
+    ror: https://ror.org/03r0ha626
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Biological Sciences, University of Utah, Salt Lake City, UT, 84112,
+    USA
+- author_id: https://openalex.org/A5056095534
+  display_name: Rosvel Bracho
+  orcid: https://orcid.org/0000-0002-8015-9796
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I33213144
+    display_name: University of Florida
+    ror: https://ror.org/02y3ad647
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Forest Resources and Conservation, University of Florida, Gainesville,
+    FL, 32611, USA
+- author_id: https://openalex.org/A5075441180
+  display_name: Jason Brodeur
+  orcid: https://orcid.org/0000-0001-7118-8360
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - McMaster University Library, McMaster University, Hamilton, ON, L8S4L6, Canada
+- author_id: https://openalex.org/A5033564055
+  display_name: "Christian Br\xFCmmer"
+  orcid: https://orcid.org/0000-0001-6621-5010
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093792
+    display_name: "Johann Heinrich von Th\xFCnen-Institut"
+    ror: https://ror.org/00mr84n67
+    country_code: DE
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Th\xFCnen Institute of Climate-Smart Agriculture, Federal Research Institute\
+    \ of Rural Areas, Forestry and Fisheries, Braunschweig, 38116, Germany"
+- author_id: https://openalex.org/A5077323678
+  display_name: Nina Buchmann
+  orcid: https://orcid.org/0000-0003-0826-2980
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Environmental Systems Science, ETH Zurich, Zurich, 8092, Switzerland
+- author_id: https://openalex.org/A5091019795
+  display_name: "Beno\xEEt Burban"
+  orcid: https://orcid.org/0000-0002-8779-1559
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210145525
+    display_name: Guiana Space Centre
+    ror: https://ror.org/05h5a7d89
+    country_code: GF
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - INRAE UMR ECOFOG, Kourou, 97387, French Guiana
+- author_id: https://openalex.org/A5072242196
+  display_name: Sean P. Burns
+  orcid: https://orcid.org/0000-0002-6258-1838
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I188538660
+    display_name: University of Colorado Boulder
+    ror: https://ror.org/02ttsq026
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Geography, University of Colorado, Boulder, CO, 80309, USA
+- author_id: https://openalex.org/A5050625435
+  display_name: Pauline Buysse
+  orcid: https://orcid.org/0000-0002-7664-7797
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I22248866
+    display_name: AgroParisTech
+    ror: https://ror.org/02kbmgc12
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I4210108708
+    display_name: "\xC9cologie Fonctionnelle et \xC9cotoxicologie des Agro\xE9cosyst\xE8\
+      mes"
+    ror: https://ror.org/01z6yh944
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I190752583
+    display_name: ParisTech
+    ror: https://ror.org/05c2qg481
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210088668
+    display_name: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    ror: https://ror.org/003vg9w96
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 Paris-Saclay, INRAE, AgroParisTech, UMR ECOSYS, Thiverval-Grignon,\
+    \ 78850, France"
+- author_id: https://openalex.org/A5031576024
+  display_name: Peter Cale
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Australian Landscape Trust, Renmark, SA5341, Australia
+- author_id: https://openalex.org/A5023139229
+  display_name: M. Cavagna
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I103225651
+    display_name: Fondazione Edmund Mach
+    ror: https://ror.org/0381bab64
+    country_code: IT
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Sustainable Agro-ecosystems and Bioresources, Research and Innovation
+    Centre, Fondazione Edmund Mach, San Michele All'adige, 38010, Italy
+- author_id: https://openalex.org/A5103948467
+  display_name: Pierre Cellier
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210088668
+    display_name: Institut National de Recherche pour l'Agriculture, l'Alimentation
+      et l'Environnement
+    ror: https://ror.org/003vg9w96
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I22248866
+    display_name: AgroParisTech
+    ror: https://ror.org/02kbmgc12
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I4210108708
+    display_name: "\xC9cologie Fonctionnelle et \xC9cotoxicologie des Agro\xE9cosyst\xE8\
+      mes"
+    ror: https://ror.org/01z6yh944
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I190752583
+    display_name: ParisTech
+    ror: https://ror.org/05c2qg481
+    country_code: FR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 Paris-Saclay, INRAE, AgroParisTech, UMR ECOSYS, Thiverval-Grignon,\
+    \ 78850, France"
+- author_id: https://openalex.org/A5101695148
+  display_name: Shiping Chen
+  orcid: https://orcid.org/0000-0002-1934-2372
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210158097
+    display_name: Institute of Botany
+    ror: https://ror.org/05hr3ch11
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Vegetation and Environmental Change, Institute of Botany,
+    Chinese Academy of Sciences, Beijing, 100093, China
+- author_id: https://openalex.org/A5011932028
+  display_name: Isaac Chini
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I103225651
+    display_name: Fondazione Edmund Mach
+    ror: https://ror.org/0381bab64
+    country_code: IT
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Sustainable Agro-ecosystems and Bioresources, Research and Innovation
+    Centre, Fondazione Edmund Mach, San Michele All'adige, 38010, Italy
+- author_id: https://openalex.org/A5047475383
+  display_name: Torben R. Christensen
+  orcid: https://orcid.org/0000-0002-4917-148X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204337017
+    display_name: Aarhus University
+    ror: https://ror.org/01aj84f44
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioscience, Arctic Research Center, Aarhus University, Roskilde,
+    4000, Denmark
+- author_id: https://openalex.org/A5059820653
+  display_name: James Cleverly
+  orcid: https://orcid.org/0000-0002-2731-7150
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114017466
+    display_name: University of Technology Sydney
+    ror: https://ror.org/03f0f6041
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Life Sciences, University of Technology Sydney, Sydney, 2007, Australia
+- author_id: https://openalex.org/A5031523852
+  display_name: Alessio Collalti
+  orcid: https://orcid.org/0000-0002-4980-8487
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138938424
+    display_name: "Universit\xE0 degli Studi della Tuscia"
+    ror: https://ror.org/03svwq685
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DIBAF, University of Tuscia, Viterbo, 01100, Italy
+- author_id: https://openalex.org/A5052817184
+  display_name: Claudia Consalvo
+  orcid: https://orcid.org/0000-0003-2038-4315
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138938424
+    display_name: "Universit\xE0 degli Studi della Tuscia"
+    ror: https://ror.org/03svwq685
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DIBAF, University of Tuscia, Viterbo, 01100, Italy
+- author_id: https://openalex.org/A5032467184
+  display_name: Bruce D. Cook
+  orcid: https://orcid.org/0000-0002-8528-000X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1306266525
+    display_name: Goddard Space Flight Center
+    ror: https://ror.org/0171mag52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biospheric Sciences Laboratory, NASA Goddard Space Flight Center, Greenbelt, MD,
+    20771, USA
+- author_id: https://openalex.org/A5011173358
+  display_name: David Cook
+  orcid: https://orcid.org/0000-0003-3645-7590
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1282105669
+    display_name: Argonne National Laboratory
+    ror: https://ror.org/05gvnxz63
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Environmental Science Division, Argonne National Laboratory, Lemont, IL, 60439,
+    USA
+- author_id: https://openalex.org/A5081269940
+  display_name: Carole Coursolle
+  orcid: https://orcid.org/0000-0003-4289-5095
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1281735042
+    display_name: Natural Resources Canada
+    ror: https://ror.org/05hepy730
+    country_code: CA
+    type: government
+  - id: https://openalex.org/I1280367701
+    display_name: Canadian Forest Service
+    ror: https://ror.org/0430zw506
+    country_code: CA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Canadian Forest Service, Natural Resources Canada, Qu\xE9bec, QC, G1V4C7, Canada"
+- author_id: https://openalex.org/A5024148305
+  display_name: Edoardo Cremonese
+  orcid: https://orcid.org/0000-0002-6708-8532
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114007267
+    display_name: Agenzia Regionale per la Protezione Ambientale del Piemonte
+    ror: https://ror.org/00qrc8a81
+    country_code: IT
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Climate Change Unit, Environmental Protection Agency of Aosta Valley, Saint Christophe,
+    11020, Italy
+- author_id: https://openalex.org/A5034545497
+  display_name: Peter S. Curtis
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52357470
+    display_name: The Ohio State University
+    ror: https://ror.org/00rs6vg23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Evolution, Ecology, and Organismal Biology, Ohio State University,
+    Columbus, OH, 43210, USA
+- author_id: https://openalex.org/A5030377010
+  display_name: "Ettore D\u2019Andrea"
+  orcid: https://orcid.org/0000-0002-5884-210X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155236
+    display_name: National Research Council
+    ror: https://ror.org/04zaypm56
+    country_code: IT
+    type: nonprofit
+  - id: https://openalex.org/I4387156168
+    display_name: Institute for Agricultural and Forest Systems in the Mediterranean
+    ror: https://ror.org/02the9q75
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Agricultural and Forestry Systems in the Mediterranean, National
+    Research Council of Italy, Ercolano, 80056, Italy
+- author_id: https://openalex.org/A5110744392
+  display_name: Humberto da Rocha
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I17974374
+    display_name: "Universidade de S\xE3o Paulo"
+    ror: https://ror.org/036rp1748
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Astronomia, Geof\xEDsica e Ci\xEAncias Atmosf\xE9ricas, Universidade\
+    \ de S\xE3o Paulo, S\xE3o Paulo, SP, 01000-000, Brazil"
+- author_id: https://openalex.org/A5045972989
+  display_name: Xiaoqin Dai
+  orcid: https://orcid.org/0000-0001-7506-9406
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160793
+    display_name: Institute of Geographic Sciences and Natural Resources Research
+    ror: https://ror.org/04t1cdb72
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic
+    Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing,
+    100101, China
+- author_id: https://openalex.org/A5022020940
+  display_name: K. J. Davis
+  orcid: https://orcid.org/0000-0002-1992-8381
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130769515
+    display_name: Pennsylvania State University
+    ror: https://ror.org/04p491231
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Meteorology and Atmospheric Science, The Pennsylvania State University,
+    University Park, PA, 16802, USA
+- author_id: https://openalex.org/A5077718129
+  display_name: Bruno De Cinti
+  orcid: https://orcid.org/0000-0002-7277-6081
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155236
+    display_name: National Research Council
+    ror: https://ror.org/04zaypm56
+    country_code: IT
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Research on Terrestrial Ecosystems, National Research Council of
+    Italy, Montelibretti, 00010, Italy
+- author_id: https://openalex.org/A5107856026
+  display_name: A. de Grandcourt
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091717
+    display_name: "Ecologie fonctionnelle & biog\xE9ochimie des sols & des agro-syst\xE8\
+      mes"
+    ror: https://ror.org/00b80ez59
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I131077856
+    display_name: "Centre de Coop\xE9ration Internationale en Recherche Agronomique\
+      \ pour le D\xE9veloppement"
+    ror: https://ror.org/05kpkpg04
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UMR Eco&Sols, CIRAD, Montpellier, 34060, France
+- author_id: https://openalex.org/A5085226362
+  display_name: Anne De Ligne
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27895137
+    display_name: Gembloux Agro-Bio Tech
+    ror: https://ror.org/00bmzhb16
+    country_code: BE
+    type: education
+  - id: https://openalex.org/I157674565
+    display_name: "University of Li\xE8ge"
+    ror: https://ror.org/00afp2z80
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - TERRA Teaching and Research Center, University of Liege, Gembloux, B-5030, Belgium
+- author_id: https://openalex.org/A5091088692
+  display_name: Raimundo Cosme de Oliveira
+  orcid: https://orcid.org/0000-0002-2735-1746
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I199691007
+    display_name: Brazilian Agricultural Research Corporation
+    ror: https://ror.org/0482b5b22
+    country_code: BR
+    type: government
+  - id: https://openalex.org/I1311688040
+    display_name: Amazon (United States)
+    ror: https://ror.org/04mv4n011
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Pedology, Embrapa Amazonia Oriental, Bel\xE9m, PA, 68020640, Brazil"
+- author_id: https://openalex.org/A5022557344
+  display_name: Nicolas Delpierre
+  orcid: https://orcid.org/0000-0003-0906-9402
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210091490
+    display_name: "\xC9cologie, Syst\xE9matique et \xC9volution"
+    ror: https://ror.org/00kk89y84
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I22248866
+    display_name: AgroParisTech
+    ror: https://ror.org/02kbmgc12
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 Paris-Saclay, CNRS, AgroParisTech, Ecologie Syst\xE9matique et\
+    \ Evolution, Orsay, 91405, France"
+- author_id: https://openalex.org/A5043657497
+  display_name: Ankur R. Desai
+  orcid: https://orcid.org/0000-0002-5226-6041
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I135310074
+    display_name: "University of Wisconsin\u2013Madison"
+    ror: https://ror.org/01y2jtd41
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Atmospheric and Oceanic Sciences, University of Wisconsin-Madison, Madison, WI,
+    53706, USA
+- author_id: https://openalex.org/A5112907286
+  display_name: Carlos Marcelo Di Bella
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24354313
+    display_name: Universidad de Buenos Aires
+    ror: https://ror.org/0081fs513
+    country_code: AR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Departamento de M\xE9todos Cuantitativos y Sistemas de Informaci\xF3n, Facultad\
+    \ de Agronom\xEDa, UBA, Buenos Aires, 1417, Argentina"
+- author_id: https://openalex.org/A5061091066
+  display_name: Paul Di Tommasi
+  orcid: https://orcid.org/0000-0003-1391-3231
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387156168
+    display_name: Institute for Agricultural and Forest Systems in the Mediterranean
+    ror: https://ror.org/02the9q75
+    country_code: null
+    type: government
+  - id: https://openalex.org/I4210155236
+    display_name: National Research Council
+    ror: https://ror.org/04zaypm56
+    country_code: IT
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Agricultural and Forestry Systems in the Mediterranean, National
+    Research Council of Italy, Ercolano, 80056, Italy
+- author_id: https://openalex.org/A5025983426
+  display_name: A. J. Dolman
+  orcid: https://orcid.org/0000-0003-0099-0457
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I865915315
+    display_name: Vrije Universiteit Amsterdam
+    ror: https://ror.org/008xxew50
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Earth Sciences, Vrije Universiteit Amsterdam, Amsterdam, 1081 HV,
+    The Netherlands
+- author_id: https://openalex.org/A5091827803
+  display_name: Francisco Domingo
+  orcid: https://orcid.org/0000-0002-7145-7281
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210103887
+    display_name: Estacion Experimental de Zonas Aridas
+    ror: https://ror.org/01hq59z49
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Desertification and Geoecology Department, Experimental Station of Arid Zones,\
+    \ CSIC, Almer\xEDa, 04120, Spain"
+- author_id: https://openalex.org/A5019485232
+  display_name: Gang Dong
+  orcid: https://orcid.org/0000-0002-9515-6643
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181877577
+    display_name: Shanxi University
+    ror: https://ror.org/03y3e3s17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Life Science, Shanxi University, Taiyuan, 030006, China
+- author_id: https://openalex.org/A5049141695
+  display_name: Sabina Dore
+  orcid: https://orcid.org/0000-0003-2956-5251
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HydroFocus, Davis, CA, 95618, USA
+- author_id: https://openalex.org/A5084267996
+  display_name: Pierpaolo Duce
+  orcid: https://orcid.org/0000-0002-5011-2903
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155236
+    display_name: National Research Council
+    ror: https://ror.org/04zaypm56
+    country_code: IT
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of BioEconomy, National Research Council of Italy, Sassari, 07100, Italy
+- author_id: https://openalex.org/A5061141147
+  display_name: "\xC9ric Dufr\xEAne"
+  orcid: https://orcid.org/0000-0001-8897-5512
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210091490
+    display_name: "\xC9cologie, Syst\xE9matique et \xC9volution"
+    ror: https://ror.org/00kk89y84
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I22248866
+    display_name: AgroParisTech
+    ror: https://ror.org/02kbmgc12
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 Paris-Saclay, CNRS, AgroParisTech, Ecologie Syst\xE9matique et\
+    \ Evolution, Orsay, 91405, France"
+- author_id: https://openalex.org/A5054483058
+  display_name: Allison L. Dunn
+  orcid: https://orcid.org/0000-0003-1960-6718
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28033587
+    display_name: Worcester State University
+    ror: https://ror.org/04j8de466
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Earth, Environment, and Physics, Worcester State University, Worcester,
+    MA, 01602, USA
+- author_id: https://openalex.org/A5080993920
+  display_name: "Ji\u0159\xED Du\u0161ek"
+  orcid: https://orcid.org/0000-0001-6119-0838
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112497
+    display_name: Czech Academy of Sciences, Global Change Research Institute
+    ror: https://ror.org/01v5hek98
+    country_code: CZ
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Matter and Energy Fluxes, Global Change Research Institute of the
+    Czech Academy of Sciences, Brno, 60300, Czech Republic
+- author_id: https://openalex.org/A5024116906
+  display_name: Derek Eamus
+  orcid: https://orcid.org/0000-0003-2765-8040
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114017466
+    display_name: University of Technology Sydney
+    ror: https://ror.org/03f0f6041
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Life Sciences, University of Technology Sydney, Sydney, 2007, Australia
+- author_id: https://openalex.org/A5061902330
+  display_name: Uwe Eichelmann
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78650965
+    display_name: "Technische Universit\xE4t Dresden"
+    ror: https://ror.org/042aqky30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Hydrology and Meteorology, Technische Universit\xE4t Dresden, Tharandt,\
+    \ 01737, Germany"
+- author_id: https://openalex.org/A5032625935
+  display_name: Hatim Abdalla M. ElKhidir
+  orcid: https://orcid.org/0000-0002-0779-6369
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156828
+    display_name: Agricultural Research Corporation
+    ror: https://ror.org/0590dv991
+    country_code: SD
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ElObeid Research Station, Agricultural Research Corporation, ElObeid, 51111, Sudan
+- author_id: https://openalex.org/A5009972805
+  display_name: Werner Eugster
+  orcid: https://orcid.org/0000-0001-6067-0741
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Environmental Systems Science, ETH Zurich, Zurich, 8092, Switzerland
+- author_id: https://openalex.org/A5082003395
+  display_name: "C\xE4cilia Ewenz"
+  orcid: https://orcid.org/0000-0003-1466-8653
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Airborne Research Australia, TERN Ecosystem Processes Central Node, Parafield,
+    5106, Australia
+- author_id: https://openalex.org/A5084996894
+  display_name: B. E. Ewers
+  orcid: https://orcid.org/0000-0001-6647-7475
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12834331
+    display_name: University of Wyoming
+    ror: https://ror.org/01485tq96
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Botany, Program in Ecology, University of Wyoming, 1000 E. Univ.
+    Ave, Laramie, WY, 82071, USA
+- author_id: https://openalex.org/A5086868944
+  display_name: Daniela Famulari
+  orcid: https://orcid.org/0000-0002-2388-9282
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155236
+    display_name: National Research Council
+    ror: https://ror.org/04zaypm56
+    country_code: IT
+    type: nonprofit
+  - id: https://openalex.org/I4387156168
+    display_name: Institute for Agricultural and Forest Systems in the Mediterranean
+    ror: https://ror.org/02the9q75
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Agricultural and Forestry Systems in the Mediterranean, National
+    Research Council of Italy, Ercolano, 80056, Italy
+- author_id: https://openalex.org/A5074464747
+  display_name: Silvano Fares
+  orcid: https://orcid.org/0000-0002-1990-0928
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088917
+    display_name: Cereal Research Centre
+    ror: https://ror.org/007bjx395
+    country_code: IT
+    type: facility
+  - id: https://openalex.org/I4210155236
+    display_name: National Research Council
+    ror: https://ror.org/04zaypm56
+    country_code: IT
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of BioEconomy, National Research Council of Italy, Rome, 00100, Italy
+  - Research Centre for Forestry and Wood, Council for Agricultural Research and Economics,
+    Rome, 00166, Italy
+- author_id: https://openalex.org/A5031100038
+  display_name: Iris Feigenwinter
+  orcid: https://orcid.org/0000-0001-7493-6790
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Environmental Systems Science, ETH Zurich, Zurich, 8092, Switzerland
+- author_id: https://openalex.org/A5078783375
+  display_name: Andrew Feitz
+  orcid: https://orcid.org/0000-0002-8041-9535
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1331816111
+    display_name: Geoscience Australia
+    ror: https://ror.org/04ge02x20
+    country_code: AU
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Geoscience Australia, Canberra, 2601, Australia
+- author_id: https://openalex.org/A5012354290
+  display_name: Rasmus Fensholt
+  orcid: https://orcid.org/0000-0003-3067-4527
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Geosciences and Natural Resource Management, University of Copenhagen,
+    Copenhagen, 1350, Denmark
+- author_id: https://openalex.org/A5037028553
+  display_name: Gianluca Filippa
+  orcid: https://orcid.org/0000-0002-4554-6045
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114007267
+    display_name: Agenzia Regionale per la Protezione Ambientale del Piemonte
+    ror: https://ror.org/00qrc8a81
+    country_code: IT
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Climate Change Unit, Environmental Protection Agency of Aosta Valley, Saint Christophe,
+    11020, Italy
+- author_id: https://openalex.org/A5082584770
+  display_name: M. L. Fischer
+  orcid: https://orcid.org/0000-0001-7956-2361
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Energy Analysis & Environmental Impacts Division, Lawrence Berkeley National Laboratory,
+    Berkeley, CA, 94720, USA
+- author_id: https://openalex.org/A5019274225
+  display_name: J. M. Frank
+  orcid: https://orcid.org/0000-0001-6543-0333
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140135
+    display_name: Rocky Mountain Research Station
+    ror: https://ror.org/04347cr60
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - USDA Forest Service, Rocky Mountain Research Station, Fort Collins, CO, 80526,
+    USA
+- author_id: https://openalex.org/A5024229842
+  display_name: Marta Galvagno
+  orcid: https://orcid.org/0000-0002-0827-487X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114007267
+    display_name: Agenzia Regionale per la Protezione Ambientale del Piemonte
+    ror: https://ror.org/00qrc8a81
+    country_code: IT
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Climate Change Unit, Environmental Protection Agency of Aosta Valley, Saint Christophe,
+    11020, Italy
+- author_id: https://openalex.org/A5070045377
+  display_name: Mana Gharun
+  orcid: https://orcid.org/0000-0003-0337-7367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Environmental Systems Science, ETH Zurich, Zurich, 8092, Switzerland
+referenced_works:
+- https://openalex.org/W1867005924
+- https://openalex.org/W194869310
+- https://openalex.org/W1997191880
+- https://openalex.org/W2014215649
+- https://openalex.org/W2017415106
+- https://openalex.org/W2029830219
+- https://openalex.org/W2032981909
+- https://openalex.org/W2033904036
+- https://openalex.org/W2037072018
+- https://openalex.org/W2040300188
+- https://openalex.org/W2043540666
+- https://openalex.org/W2045173766
+- https://openalex.org/W2095143567
+- https://openalex.org/W2097693265
+- https://openalex.org/W2106835815
+- https://openalex.org/W2112081076
+- https://openalex.org/W2117324426
+- https://openalex.org/W2119895530
+- https://openalex.org/W2121745948
+- https://openalex.org/W2123095840
+- https://openalex.org/W2124437404
+- https://openalex.org/W2128342866
+- https://openalex.org/W2148781507
+- https://openalex.org/W2151478249
+- https://openalex.org/W2158289041
+- https://openalex.org/W2298779432
+- https://openalex.org/W2338049369
+- https://openalex.org/W2343787371
+- https://openalex.org/W2345072211
+- https://openalex.org/W2564836735
+- https://openalex.org/W2572951874
+- https://openalex.org/W2581115296
+- https://openalex.org/W2606098303
+- https://openalex.org/W2622417512
+- https://openalex.org/W2763905991
+- https://openalex.org/W2765024744
+- https://openalex.org/W2765724720
+- https://openalex.org/W2788423896
+- https://openalex.org/W2898363363
+- https://openalex.org/W2902633236
+- https://openalex.org/W2902972635
+- https://openalex.org/W2904321320
+- https://openalex.org/W2910913518
+- https://openalex.org/W2913863402
+- https://openalex.org/W2915470105
+- https://openalex.org/W2916320502
+- https://openalex.org/W2917682037
+- https://openalex.org/W2920548691
+- https://openalex.org/W2921752371
+- https://openalex.org/W2924212103
+- https://openalex.org/W2924926980
+- https://openalex.org/W2925161127
+- https://openalex.org/W2931688955
+- https://openalex.org/W2932014252
+- https://openalex.org/W2939177528
+- https://openalex.org/W2941539612
+- https://openalex.org/W2970578364
+- https://openalex.org/W3009301532
+- https://openalex.org/W3144154643
+- https://openalex.org/W4237123086
+- https://openalex.org/W4290951096
+- https://openalex.org/W4297968615
+- https://openalex.org/W4298097816
+- https://openalex.org/W4298173480
+- https://openalex.org/W4298239377
+- https://openalex.org/W4298292754
+- https://openalex.org/W4298292793
+- https://openalex.org/W4298300063
+- https://openalex.org/W4298332432
+- https://openalex.org/W4298333570
+- https://openalex.org/W4298527189
+- https://openalex.org/W4298727502
+- https://openalex.org/W4298775047
+- https://openalex.org/W4298839903
+- https://openalex.org/W4298849036
+- https://openalex.org/W4298865160
+- https://openalex.org/W4299366533
+- https://openalex.org/W4299413398
+- https://openalex.org/W4299510842
+- https://openalex.org/W4299547740
+- https://openalex.org/W4299648744
+- https://openalex.org/W4299843519
+- https://openalex.org/W4299969131
+- https://openalex.org/W4300017390
+- https://openalex.org/W4300043863
+- https://openalex.org/W4300056196
+- https://openalex.org/W4300059304
+- https://openalex.org/W4300070036
+- https://openalex.org/W4300077402
+- https://openalex.org/W4300102602
+- https://openalex.org/W4300178304
+- https://openalex.org/W4300226968
+- https://openalex.org/W4300282473
+- https://openalex.org/W4300437104
+- https://openalex.org/W4300503150
+- https://openalex.org/W4300506653
+- https://openalex.org/W4300557822
+- https://openalex.org/W4300568847
+- https://openalex.org/W4300616970
+- https://openalex.org/W4300656137
+- https://openalex.org/W4300698575
+- https://openalex.org/W4300758890
+- https://openalex.org/W4300779747
+- https://openalex.org/W4300841342
+- https://openalex.org/W4300872339
+- https://openalex.org/W4300874704
+- https://openalex.org/W4300880423
+- https://openalex.org/W4300942616
+- https://openalex.org/W4300997690
+- https://openalex.org/W4301046045
+- https://openalex.org/W4301051863
+- https://openalex.org/W4301143303
+- https://openalex.org/W4301170018
+- https://openalex.org/W4301208691
+- https://openalex.org/W4301222736
+- https://openalex.org/W4301297367
+- https://openalex.org/W4301376725
+- https://openalex.org/W4301434283
+- https://openalex.org/W4301455654
+- https://openalex.org/W4301464542
+- https://openalex.org/W4301499133
+- https://openalex.org/W4301625518
+- https://openalex.org/W4301671981
+- https://openalex.org/W4301854708
+- https://openalex.org/W4301954324
+- https://openalex.org/W4301972894
+- https://openalex.org/W4302038560
+- https://openalex.org/W4302159600
+- https://openalex.org/W4302194732
+- https://openalex.org/W4302313220
+- https://openalex.org/W4302556124
+- https://openalex.org/W4302566569
+- https://openalex.org/W4302577642
+- https://openalex.org/W4302765058
+- https://openalex.org/W4302776457
+- https://openalex.org/W4302806329
+- https://openalex.org/W61274215
+primary_topic: Plant Water Relations and Carbon Dynamics
+open_access: true

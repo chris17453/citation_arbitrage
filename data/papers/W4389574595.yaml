@@ -1,0 +1,952 @@
+id: https://openalex.org/W4389574595
+doi: https://doi.org/10.1016/j.jacc.2023.11.007
+title: Global Burden of Cardiovascular Diseases and Risks, 1990-2022
+publication_date: '2023-12-01'
+publication_year: 2023
+cited_by_count: 810
+citation_percentile: 0.999951
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5014290409
+  display_name: George A. Mensah
+  orcid: https://orcid.org/0000-0002-0387-5326
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210106489
+    display_name: National Heart Lung and Blood Institute
+    ror: https://ror.org/012pb6c26
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Translation Research and Implementation Science, National Heart, Lung,
+    and Blood Institute, National Institutes of Health, Bethesda, Maryland, USA
+- author_id: https://openalex.org/A5074727212
+  display_name: "Valent\u0131\u0301n Fuster"
+  orcid: https://orcid.org/0000-0002-9043-9986
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2809107791
+    display_name: Spanish National Centre for Cardiovascular Research
+    ror: https://ror.org/02qs1a797
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centro Nacional de Investigaciones Cardiovasculares (CNIC), Madrid, Spain
+  - Mount Sinai Heart, Icahn School of Medicine at Mount Sinai, New York, New York,
+    USA
+- author_id: https://openalex.org/A5102733391
+  display_name: Christopher J L Murray
+  orcid: https://orcid.org/0000-0002-4930-9450
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Health Metrics Sciences, Institute for Health Metrics and Evaluation,
+    School of Medicine, University of Washington, Seattle, Washington, USA
+- author_id: https://openalex.org/A5029226649
+  display_name: Gregory A. Roth
+  orcid: https://orcid.org/0000-0002-8355-9146
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Health Metrics Sciences, Institute for Health Metrics and Evaluation,
+    School of Medicine, University of Washington, Seattle, Washington, USA
+  - Division of Cardiology, Department of Medicine, University of Washington, Seattle,
+    Washington, USA
+- author_id: https://openalex.org/A5014290409
+  display_name: George A. Mensah
+  orcid: https://orcid.org/0000-0002-0387-5326
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Translation Research and Implementation Science, National Institutes
+    of Health, Bethesda, MD, USA
+  - Department of Medicine, University of Cape Town, Cape Town, South Africa
+- author_id: https://openalex.org/A5092247508
+  display_name: Yohannes Habtegiorgis Abate
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Governance and Quality Improvement, Aleta Wondo Hospital,
+    Aleta Wondo, Ethiopia
+- author_id: https://openalex.org/A5061881796
+  display_name: Mohammadreza Abbasian
+  orcid: https://orcid.org/0000-0002-7949-8213
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58048189
+    display_name: Shahid Beheshti University of Medical Sciences
+    ror: https://ror.org/034m2b326
+    country_code: IR
+    type: funder
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Orthopaedic Surgery, Shahid Beheshti University of Medical Sciences,
+    Tehran, Iran
+  - Department of Orthopedic Surgery, Harvard University, Boston, MA, USA
+- author_id: https://openalex.org/A5081409858
+  display_name: Foad Abd-Allah
+  orcid: https://orcid.org/0000-0001-8308-5756
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145487455
+    display_name: Cairo University
+    ror: https://ror.org/03q21mh05
+    country_code: EG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Cairo University, Cairo, Egypt
+- author_id: https://openalex.org/A5031154417
+  display_name: Ashkan Abdollahi
+  orcid: https://orcid.org/0000-0003-3009-9307
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I194604659
+    display_name: Shiraz University of Medical Sciences
+    ror: https://ror.org/01n3s4692
+    country_code: IR
+    type: funder
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cardiovascular Medicine, Johns Hopkins University, Baltimore, MD,
+    USA
+  - Department of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran
+- author_id: https://openalex.org/A5068915111
+  display_name: Mohammad Abdollahi
+  orcid: https://orcid.org/0000-0003-0123-1209
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I70640408
+    display_name: Tehran University of Medical Sciences
+    ror: https://ror.org/01c4pz451
+    country_code: IR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Pharmacy, Tehran University of Medical Sciences, Tehran, Iran
+  - The Institute of Pharmaceutical Sciences (TIPS), Tehran University of Medical
+    Sciences, Tehran, Iran
+- author_id: https://openalex.org/A5045098150
+  display_name: Deldar Morad Abdulah
+  orcid: https://orcid.org/0000-0002-8986-5793
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I6033180
+    display_name: University of Duhok
+    ror: https://ror.org/02g07ds81
+    country_code: IQ
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Community and Maternity Nursing Unit, University of Duhok, Duhok, Iraq
+- author_id: https://openalex.org/A5020492764
+  display_name: Auwal Abdullahi
+  orcid: https://orcid.org/0000-0001-9214-3313
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I14243506
+    display_name: Hong Kong Polytechnic University
+    ror: https://ror.org/0030zas98
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I919958821
+    display_name: Bayero University Kano
+    ror: https://ror.org/049pzty39
+    country_code: NG
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physiotherapy, Bayero University Kano, Kano, Nigeria
+  - Department of Rehabilitation Sciences, Hong Kong Polytechnic University, Hong
+    Kong, China
+- author_id: https://openalex.org/A5046071851
+  display_name: Ayele Mamo Abebe
+  orcid: https://orcid.org/0000-0002-1801-8167
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1282700336
+    display_name: Debre Berhan University
+    ror: https://ror.org/04e72vw61
+    country_code: ET
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pediatrics Nursing Department, Debre Berhan University, Debre Berhan, Ethiopia
+- author_id: https://openalex.org/A5088337370
+  display_name: Aidin Abedi
+  orcid: https://orcid.org/0000-0001-8243-3878
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1174212
+    display_name: University of Southern California
+    ror: https://ror.org/03taz7m60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurosurgery, University of Southern California, Los Angeles, CA,
+    USA
+  - Keck School of Medicine, University of Southern California, Los Angeles, CA, USA
+- author_id: https://openalex.org/A5015653535
+  display_name: Armita Abedi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I116768543
+    display_name: Zanjan University of Medical Sciences
+    ror: https://ror.org/01xf7jb19
+    country_code: IR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Emergency Medicine, Zanjan University of Medical Sciences, Zanjan,
+    Iran
+- author_id: https://openalex.org/A5047638039
+  display_name: Olugbenga Olusola Abiodun
+  orcid: https://orcid.org/0000-0001-8625-4834
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117096
+    display_name: Federal Medical Centre
+    ror: https://ror.org/029rx2040
+    country_code: NG
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Federal Medical Centre, Abuja, Nigeria
+- author_id: https://openalex.org/A5083674265
+  display_name: Hiwa Abubaker Ali
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210118815
+    display_name: University of Human Development
+    ror: https://ror.org/02jz38b76
+    country_code: IQ
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Banking and Finance, University of Human Development, Sulaymaniyah,
+    Iraq
+- author_id: https://openalex.org/A5010950335
+  display_name: "Eman Abu\u2010Gharbieh"
+  orcid: https://orcid.org/0000-0002-5972-0681
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I29891158
+    display_name: University of Sharjah
+    ror: https://ror.org/00engpz63
+    country_code: AE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Sciences Department, University of Sharjah, Sharjah, United Arab Emirates
+- author_id: https://openalex.org/A5112068167
+  display_name: Niveen M. E. Abu-Rmeileh
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I94800806
+    display_name: Birzeit University
+    ror: https://ror.org/0256kw398
+    country_code: PS
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Community and Public Health, Birzeit University, Ramallah, Palestine
+- author_id: https://openalex.org/A5076655521
+  display_name: Salahdein Aburuz
+  orcid: https://orcid.org/0000-0002-2478-3914
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201726411
+    display_name: United Arab Emirates University
+    ror: https://ror.org/01km6p862
+    country_code: AE
+    type: funder
+  - id: https://openalex.org/I114972647
+    display_name: University of Jordan
+    ror: https://ror.org/05k89ew48
+    country_code: JO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Pharmacy, University of Jordan, Amman, Jordan
+  - Department of Therapeutics, United Arab Emirates University, Al Ain, United Arab
+    Emirates
+- author_id: https://openalex.org/A5024753707
+  display_name: Abdelrahman Ibrahim Abushouk
+  orcid: https://orcid.org/0000-0003-1399-6487
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5060035961
+  display_name: "Ahmed Abu\u2010Zaid"
+  orcid: https://orcid.org/0000-0003-2286-2181
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051615777
+  display_name: Tigist Demssew Adane
+  orcid: https://orcid.org/0000-0003-2665-9703
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5069048116
+  display_name: Nicola J. Adderley
+  orcid: https://orcid.org/0000-0003-0543-3254
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5025832040
+  display_name: Oladimeji Adebayo
+  orcid: https://orcid.org/0000-0001-7096-4460
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5056925652
+  display_name: Bashir Aden
+  orcid: https://orcid.org/0000-0002-2919-0755
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5012384149
+  display_name: Temitayo Esther Adeyeoluwa
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5011259051
+  display_name: Olorunsola Adeyomoye
+  orcid: https://orcid.org/0000-0003-4860-499X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5041858336
+  display_name: Qorinah Estiningtyas Sakilah Adnani
+  orcid: https://orcid.org/0000-0002-4625-4861
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5008139634
+  display_name: Fatemeh Afrashteh
+  orcid: https://orcid.org/0000-0002-3090-6175
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5093467449
+  display_name: Shadi Afyouni
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5056238149
+  display_name: Saira Afzal
+  orcid: https://orcid.org/0000-0002-4882-2404
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5043133312
+  display_name: Pradyumna Agasthi
+  orcid: https://orcid.org/0000-0003-3067-6979
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5039532395
+  display_name: Antonella Agodi
+  orcid: https://orcid.org/0000-0002-4405-8162
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5111037376
+  display_name: Constanza Elizabeth Aguilera Arriagada
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5067679041
+  display_name: "Williams Agyemang\u2010Duah"
+  orcid: https://orcid.org/0000-0001-7929-0685
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5056919645
+  display_name: Bright Opoku Ahinkorah
+  orcid: https://orcid.org/0000-0001-7415-895X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5037659082
+  display_name: Aqeel Ahmad
+  orcid: https://orcid.org/0000-0002-6003-9404
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051591837
+  display_name: Danish Ahmad
+  orcid: https://orcid.org/0000-0001-7891-3756
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5061105475
+  display_name: Firdos Ahmad
+  orcid: https://orcid.org/0000-0001-6530-6068
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5052478560
+  display_name: Muayyad Ahmad
+  orcid: https://orcid.org/0000-0002-4388-8332
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5052175315
+  display_name: Ayman Ahmed
+  orcid: https://orcid.org/0000-0002-9516-9508
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5033578852
+  display_name: Haroon Ahmed
+  orcid: https://orcid.org/0000-0002-0382-3569
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5042862791
+  display_name: Muktar Beshir Ahmed
+  orcid: https://orcid.org/0000-0002-9524-7027
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5017298371
+  display_name: Syed Anees Ahmed
+  orcid: https://orcid.org/0000-0002-0148-5148
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5018689912
+  display_name: Marjan Ajami
+  orcid: https://orcid.org/0000-0002-6820-550X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5082925950
+  display_name: Karolina Akinosoglou
+  orcid: https://orcid.org/0000-0002-4289-9494
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5062198742
+  display_name: Moein Ala
+  orcid: https://orcid.org/0000-0001-5951-4864
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201726411
+    display_name: United Arab Emirates University
+    ror: https://ror.org/01km6p862
+    country_code: AE
+    type: funder
+  - id: https://openalex.org/I114972647
+    display_name: University of Jordan
+    ror: https://ror.org/05k89ew48
+    country_code: JO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Pharmacy, University of Jordan, Amman, Jordan
+  - Department of Therapeutics, United Arab Emirates University, Al Ain, United Arab
+    Emirates
+- author_id: https://openalex.org/A5059694508
+  display_name: Tareq Mohammed Ali AL-Ahdal
+  orcid: https://orcid.org/0000-0001-6693-4525
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5039855760
+  display_name: Samer O Alalalmeh
+  orcid: https://orcid.org/0000-0002-4762-9311
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5047490642
+  display_name: "Ziyad Al\u2010Aly"
+  orcid: https://orcid.org/0000-0002-2600-0434
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5011336310
+  display_name: Nazmul Alam
+  orcid: https://orcid.org/0000-0001-6119-8178
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5029629686
+  display_name: "Rasmieh Al\u2010Amer"
+  orcid: https://orcid.org/0000-0002-9411-7386
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5050184537
+  display_name: Alaa Alashi
+  orcid: https://orcid.org/0000-0002-6377-2564
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5086359506
+  display_name: Mohammed ALBashtawy
+  orcid: https://orcid.org/0000-0002-6107-7605
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5110897314
+  display_name: Mohammad T AlBataineh
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5054073218
+  display_name: Haileselasie Berhane Alema
+  orcid: https://orcid.org/0000-0001-7373-9154
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5045477734
+  display_name: Sharifullah Alemi
+  orcid: https://orcid.org/0000-0002-4530-8565
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5108040261
+  display_name: Megbaru Alemu
+  orcid: https://orcid.org/0000-0003-3145-3494
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5048320351
+  display_name: "Adel Al\u2010Gheethi"
+  orcid: https://orcid.org/0000-0001-7257-2954
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5054535416
+  display_name: Khalid F. AlHabib
+  orcid: https://orcid.org/0000-0002-6692-3874
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5016004392
+  display_name: Fadwa Alhalaiqa
+  orcid: https://orcid.org/0000-0002-0899-7883
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5102779656
+  display_name: Mohammed Usman Ali
+  orcid: https://orcid.org/0000-0002-9266-2065
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210118815
+    display_name: University of Human Development
+    ror: https://ror.org/02jz38b76
+    country_code: IQ
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Banking and Finance, University of Human Development, Sulaymaniyah,
+    Iraq
+- author_id: https://openalex.org/A5054406085
+  display_name: Rafat Ali
+  orcid: https://orcid.org/0000-0002-9986-7565
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210118815
+    display_name: University of Human Development
+    ror: https://ror.org/02jz38b76
+    country_code: IQ
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Banking and Finance, University of Human Development, Sulaymaniyah,
+    Iraq
+- author_id: https://openalex.org/A5042246162
+  display_name: Syed Shujait Ali
+  orcid: https://orcid.org/0000-0002-6277-2335
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5006260823
+  display_name: Gianfranco Alicandro
+  orcid: https://orcid.org/0000-0002-0430-2714
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051723269
+  display_name: Reyhaneh Alikhani
+  orcid: https://orcid.org/0000-0002-1014-8434
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5029961086
+  display_name: Syed Mohamed Aljunid
+  orcid: https://orcid.org/0000-0002-0380-1335
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5026413767
+  display_name: "Fran\xE7ois Alla"
+  orcid: https://orcid.org/0000-0002-5793-7190
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145487455
+    display_name: Cairo University
+    ror: https://ror.org/03q21mh05
+    country_code: EG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Cairo University, Cairo, Egypt
+- author_id: https://openalex.org/A5062034086
+  display_name: Wael Almahmeed
+  orcid: https://orcid.org/0000-0003-0312-9910
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5021587383
+  display_name: Sabah Al-Marwani
+  orcid: https://orcid.org/0000-0002-1638-792X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5002758767
+  display_name: Jordi Alonso
+  orcid: https://orcid.org/0000-0001-8627-9636
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5035907008
+  display_name: "Rajaa Al\u2010Raddadi"
+  orcid: https://orcid.org/0000-0002-8921-9628
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5054924005
+  display_name: Farrukh Jawad Alvi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5078832673
+  display_name: "Nelson Alvis\u2010Guzm\xE1n"
+  orcid: https://orcid.org/0000-0001-9458-864X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5085934063
+  display_name: Nelson J Alvis-Zakzuk
+  orcid: https://orcid.org/0000-0001-9382-214X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5053772815
+  display_name: Hassan Alwafi
+  orcid: https://orcid.org/0000-0001-5627-1633
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5081153018
+  display_name: Hany Aly
+  orcid: https://orcid.org/0000-0001-7395-6394
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5061574425
+  display_name: Prince M. Amegbor
+  orcid: https://orcid.org/0000-0001-7701-2585
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5047615658
+  display_name: Tarek Tawfik Amin
+  orcid: https://orcid.org/0000-0003-2502-110X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5092486205
+  display_name: Alireza Amindarolzarbi
+  orcid: https://orcid.org/0000-0002-3029-3188
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5017054765
+  display_name: "Mostafa Amini\u2010Rarani"
+  orcid: https://orcid.org/0000-0002-4809-2237
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5000415467
+  display_name: Sohrab Amiri
+  orcid: https://orcid.org/0000-0003-0297-0142
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5039729003
+  display_name: Enrico Ammirati
+  orcid: https://orcid.org/0000-0002-1676-5257
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051805598
+  display_name: Tanu Anand
+  orcid: https://orcid.org/0000-0003-2911-2332
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5043120571
+  display_name: Robert Ancuceanu
+  orcid: https://orcid.org/0000-0002-9369-3314
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5050120227
+  display_name: Deanna Anderlini
+  orcid: https://orcid.org/0000-0003-4594-2125
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5018015693
+  display_name: Abhishek Anil
+  orcid: https://orcid.org/0000-0001-7289-2325
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5075835840
+  display_name: Golnoosh Ansari
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103642807
+  display_name: P.E. Anyanwu
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5060235408
+  display_name: Anayochukwu Edward Anyasodor
+  orcid: https://orcid.org/0000-0003-1928-7657
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5098060002
+  display_name: Geminn Louis Carace Apostol
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5011663896
+  display_name: Jalal Arabloo
+  orcid: https://orcid.org/0000-0003-1223-4528
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5027753393
+  display_name: Mosab Arafat
+  orcid: https://orcid.org/0000-0001-9297-6745
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5091863515
+  display_name: Aleksandr Y. Aravkin
+  orcid: https://orcid.org/0000-0002-1875-1801
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5007517607
+  display_name: Olatunde Aremu
+  orcid: https://orcid.org/0000-0002-5832-2403
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5001187199
+  display_name: Benedetta Armocida
+  orcid: https://orcid.org/0000-0003-3583-2790
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5044523693
+  display_name: "Johan \xC4rnl\xF6v"
+  orcid: https://orcid.org/0000-0002-6933-4637
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5048607323
+  display_name: Oluwaseyi Olalekan Arowosegbe
+  orcid: https://orcid.org/0000-0003-1637-0404
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5074484944
+  display_name: Anton A Artamonov
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+referenced_works:
+- https://openalex.org/W142006462
+- https://openalex.org/W1753514453
+- https://openalex.org/W2105454146
+- https://openalex.org/W2144935380
+- https://openalex.org/W2161370807
+- https://openalex.org/W2462161029
+- https://openalex.org/W2903201307
+- https://openalex.org/W3092849554
+- https://openalex.org/W3092861045
+- https://openalex.org/W3093298383
+- https://openalex.org/W3103940138
+- https://openalex.org/W3112785303
+- https://openalex.org/W3115258265
+- https://openalex.org/W3121059311
+- https://openalex.org/W3144543375
+- https://openalex.org/W3165555856
+- https://openalex.org/W3183402545
+- https://openalex.org/W4304080870
+- https://openalex.org/W4304084045
+- https://openalex.org/W4308150433
+- https://openalex.org/W4368359961
+- https://openalex.org/W4387190728
+- https://openalex.org/W4388163013
+primary_topic: Cardiac Imaging and Diagnostics
+open_access: true

@@ -1,0 +1,780 @@
+id: https://openalex.org/W3015599879
+doi: https://doi.org/10.1158/2159-8290.cd-20-0422
+title: 'Patients with Cancer Appear More Vulnerable to SARS-CoV-2: A Multicenter Study
+  during the COVID-19 Outbreak'
+publication_date: '2020-04-28'
+publication_year: 2020
+cited_by_count: 1565
+citation_percentile: 0.999966
+pagerank: 2.766425933177027e-06
+authorships:
+- author_id: https://openalex.org/A5103078267
+  display_name: Mengyuan Dai
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Department of Gynecological Oncology, Zhongnan Hospital of Wuhan University,
+    Wuhan, Hubei, China.
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+- author_id: https://openalex.org/A5014407399
+  display_name: Dianbo Liu
+  orcid: https://orcid.org/0000-0002-3042-9161
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1288882113
+    display_name: Boston Children's Hospital
+    ror: https://ror.org/00dvg7y05
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 4Computational Health Informatics Program, Boston Children's Hospital, Boston,
+    Massachusetts.
+  - 5Department of Pediatrics, Harvard Medical School, Boston, Massachusetts.
+- author_id: https://openalex.org/A5100348919
+  display_name: Miao Liu
+  orcid: https://orcid.org/0000-0003-3365-0213
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1283280774
+    display_name: Brigham and Women's Hospital
+    ror: https://ror.org/04b6nzv94
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - 6Department of Pathology, Brigham and Women's Hospital, Harvard Medical School,
+    Boston, Massachusetts.
+- author_id: https://openalex.org/A5028677741
+  display_name: Fuxiang Zhou
+  orcid: https://orcid.org/0000-0001-9216-5395
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+  - 7Department of Oncology, Zhongnan Hospital of Wuhan University, Wuhan, Hubei,
+    China.
+- author_id: https://openalex.org/A5100657168
+  display_name: Guiling Li
+  orcid: https://orcid.org/0000-0002-5663-4585
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I1318643470
+    display_name: Union Hospital
+    ror: https://ror.org/01j7r2734
+    country_code: HK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 8Cancer Center, Union Hospital affiliated to Tongji Medical College of Huazhong
+    University of Science and Technology, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5103152029
+  display_name: Zhen Chen
+  orcid: https://orcid.org/0000-0001-8875-6926
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210143568
+    display_name: Central Hospital of Wuhan
+    ror: https://ror.org/04qs2sz84
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 9Department of Emergency, The Central Hospital of Wuhan affiliated to Tongji Medical
+    College of Huazhong University of Science and Technology, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5009478898
+  display_name: Zhian Zhang
+  orcid: https://orcid.org/0000-0002-8691-6006
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162891
+    display_name: Huanggang Central Hospital
+    ror: https://ror.org/02sjdcn27
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10Department of Gynecology, The Central Hospital of Huanggang, Huanggang, Hubei,
+    China
+- author_id: https://openalex.org/A5058982057
+  display_name: Hua You
+  orcid: https://orcid.org/0000-0002-9630-5284
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 11Affiliated Cancer Hospital and Institute of Guangzhou Medical University, Guangzhou,
+    Guangdong Province, China.
+- author_id: https://openalex.org/A5101867998
+  display_name: Meng Wu
+  orcid: https://orcid.org/0000-0002-1920-9213
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 12Department of Ultrasound, Zhongnan Hospital of Wuhan University, Wuhan, China.
+- author_id: https://openalex.org/A5050963366
+  display_name: Qichao Zheng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 12Department of Ultrasound, Zhongnan Hospital of Wuhan University, Wuhan, China.
+- author_id: https://openalex.org/A5063789000
+  display_name: Yong Xiong
+  orcid: https://orcid.org/0000-0003-0678-4064
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 13Department of Infectious Disease, Zhongnan Hospital of Wuhan University, Wuhan,
+    China.
+- author_id: https://openalex.org/A5110737813
+  display_name: Huihua Xiong
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160344
+    display_name: Tongji Hospital
+    ror: https://ror.org/04xy45965
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 14Cancer Center, Tongji Hospital affiliated to Tongji Medical College of Huazhong
+    University of Science and Technology, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5100367578
+  display_name: Chun Wang
+  orcid: https://orcid.org/0000-0002-4389-7159
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210143568
+    display_name: Central Hospital of Wuhan
+    ror: https://ror.org/04qs2sz84
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 15Department of Oncology, The Central Hospital of Wuhan affiliated to Tongji Medical
+    College of Huazhong University of Science and Technology, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5066220678
+  display_name: "Chang\u2010Chun Chen"
+  orcid: https://orcid.org/0000-0003-1110-2582
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 16Department of Radiology, Hubei Cancer Hospital, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5050600154
+  display_name: Fei Xiong
+  orcid: https://orcid.org/0000-0002-3571-1772
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 17Department of Thoracic Surgery, Hubei Cancer Hospital, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5115603655
+  display_name: Yan Zhang
+  orcid: https://orcid.org/0000-0002-4835-8541
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210140357
+    display_name: Renmin Hospital of Wuhan University
+    ror: https://ror.org/03ekhbz91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 18Department of Obstetrics and Gynecology, Renmin Hospital of Wuhan University,
+    Wuhan, China.
+- author_id: https://openalex.org/A5101314278
+  display_name: Yaqin Peng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210140357
+    display_name: Renmin Hospital of Wuhan University
+    ror: https://ror.org/03ekhbz91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 18Department of Obstetrics and Gynecology, Renmin Hospital of Wuhan University,
+    Wuhan, China.
+- author_id: https://openalex.org/A5021627994
+  display_name: Si-Ping Ge
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093544
+    display_name: Wuhan Puai Hospital
+    ror: https://ror.org/00qavst65
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 19Department of Oncology, Wuhan Puren Hospital, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5080120344
+  display_name: B Zhen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098856
+    display_name: Xianning Central Hospital
+    ror: https://ror.org/0138a8a04
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 20Department of Obstetrics and Gynecology, The Central Hospital of Xianning, Xianning,
+    Hubei, China.
+- author_id: https://openalex.org/A5080440228
+  display_name: Tingting Yu
+  orcid: https://orcid.org/0000-0003-1694-7592
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106296
+    display_name: The Central Hospital of Xiao gan
+    ror: https://ror.org/01has8079
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 21Department of Oncology, The Central Hospital of Xiaogan, Xiaogan, China.
+- author_id: https://openalex.org/A5100398651
+  display_name: Ling Wang
+  orcid: https://orcid.org/0000-0001-7524-2977
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210086600
+    display_name: Meizhou City People's Hospital
+    ror: https://ror.org/0026mdx79
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 22Department of Obstetrics and Gynecology, The People's Hospital of Huangmei,
+    Huangmei, Hubei, China.
+- author_id: https://openalex.org/A5100403938
+  display_name: Hua Wang
+  orcid: https://orcid.org/0000-0002-2605-5697
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210164464
+    display_name: Xiang Yang No.1 People's Hospital
+    ror: https://ror.org/05q9ymz20
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I1285929390
+    display_name: Hubei University of Medicine
+    ror: https://ror.org/01dr2b756
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 23Department of Obstetrics and Gynecology, Xiangyang First People's Hospital affiliated
+    to Hubei University of Medicine, Xiangyang, Hubei, China.
+- author_id: https://openalex.org/A5100345711
+  display_name: Yu Liu
+  orcid: https://orcid.org/0000-0002-1282-4897
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+  - 7Department of Oncology, Zhongnan Hospital of Wuhan University, Wuhan, Hubei,
+    China.
+- author_id: https://openalex.org/A5040170733
+  display_name: Yeshan Chen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1318643470
+    display_name: Union Hospital
+    ror: https://ror.org/01j7r2734
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 8Cancer Center, Union Hospital affiliated to Tongji Medical College of Huazhong
+    University of Science and Technology, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5101198260
+  display_name: Junhua Mei
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162891
+    display_name: Huanggang Central Hospital
+    ror: https://ror.org/02sjdcn27
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10Department of Gynecology, The Central Hospital of Huanggang, Huanggang, Hubei,
+    China
+- author_id: https://openalex.org/A5103645662
+  display_name: Xiaojia Gao
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210143568
+    display_name: Central Hospital of Wuhan
+    ror: https://ror.org/04qs2sz84
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 15Department of Oncology, The Central Hospital of Wuhan affiliated to Tongji Medical
+    College of Huazhong University of Science and Technology, Wuhan, Hubei, China.
+- author_id: https://openalex.org/A5011102209
+  display_name: Zhuyan Li
+  orcid: https://orcid.org/0009-0006-0536-7903
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210129556
+    display_name: People's Hospital of Shiyan
+    ror: https://ror.org/02t268r72
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 24Department of Obstetrics and Gynecology, The People's Hospital of Shiyan, Shiyan,
+    Hubei, China.
+- author_id: https://openalex.org/A5014599286
+  display_name: Lijuan Gan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Department of Gynecological Oncology, Zhongnan Hospital of Wuhan University,
+    Wuhan, Hubei, China.
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+- author_id: https://openalex.org/A5047216849
+  display_name: Can He
+  orcid: https://orcid.org/0000-0002-4216-6848
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Department of Gynecological Oncology, Zhongnan Hospital of Wuhan University,
+    Wuhan, Hubei, China.
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+- author_id: https://openalex.org/A5100779324
+  display_name: Zhen Li
+  orcid: https://orcid.org/0000-0002-5341-4384
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Department of Gynecological Oncology, Zhongnan Hospital of Wuhan University,
+    Wuhan, Hubei, China.
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+- author_id: https://openalex.org/A5112573305
+  display_name: Yuying Shi
+  orcid: https://orcid.org/0009-0002-0572-8714
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Department of Gynecological Oncology, Zhongnan Hospital of Wuhan University,
+    Wuhan, Hubei, China.
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+- author_id: https://openalex.org/A5049348056
+  display_name: Yuwen Qi
+  orcid: https://orcid.org/0000-0002-2420-2235
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Department of Gynecological Oncology, Zhongnan Hospital of Wuhan University,
+    Wuhan, Hubei, China.
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+- author_id: https://openalex.org/A5100688953
+  display_name: Jing Yang
+  orcid: https://orcid.org/0009-0004-6493-5638
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Department of Gynecological Oncology, Zhongnan Hospital of Wuhan University,
+    Wuhan, Hubei, China.
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+- author_id: https://openalex.org/A5056687452
+  display_name: Daniel G. Tenen
+  orcid: https://orcid.org/0000-0002-6423-3888
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I4210157861
+    display_name: Harvard Stem Cell Institute
+    ror: https://ror.org/04kj1hn59
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210103786
+    display_name: National University Cancer Institute, Singapore
+    ror: https://ror.org/025yypj46
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 25Harvard Stem Cell Institute, Harvard Medical School, Boston, Massachusetts.
+  - 26Cancer Science Institute of Singapore, National University of Singapore, Singapore.
+- author_id: https://openalex.org/A5058977705
+  display_name: Li Chai
+  orcid: https://orcid.org/0000-0003-1937-4750
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1283280774
+    display_name: Brigham and Women's Hospital
+    ror: https://ror.org/04b6nzv94
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 6Department of Pathology, Brigham and Women's Hospital, Harvard Medical School,
+    Boston, Massachusetts.
+- author_id: https://openalex.org/A5049753330
+  display_name: Lorelei A. Mucci
+  orcid: https://orcid.org/0000-0002-2551-4927
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134579
+    display_name: Dana-Farber/Harvard Cancer Center
+    ror: https://ror.org/03pvyf116
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 27Harvard T.H. Chan School of Public Health, Dana-Farber, Harvard Cancer Center,
+    Boston, Massachusetts.
+- author_id: https://openalex.org/A5069001141
+  display_name: Mauricio Santillana
+  orcid: https://orcid.org/0000-0002-4206-418X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1288882113
+    display_name: Boston Children's Hospital
+    ror: https://ror.org/00dvg7y05
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - 4Computational Health Informatics Program, Boston Children's Hospital, Boston,
+    Massachusetts.
+  - 5Department of Pediatrics, Harvard Medical School, Boston, Massachusetts.
+- author_id: https://openalex.org/A5100734376
+  display_name: Hongbing Cai
+  orcid: https://orcid.org/0000-0001-7664-912X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160841
+    display_name: Hubei Cancer Hospital
+    ror: https://ror.org/05p38yh32
+    country_code: CN
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - 1Department of Gynecological Oncology, Zhongnan Hospital of Wuhan University,
+    Wuhan, Hubei, China.
+  - 2Hubei Key Laboratory of Tumor Biological Behaviors, Wuhan, China.
+  - 3Hubei Cancer Clinical Study Center, Wuhan, China.
+referenced_works:
+- https://openalex.org/W1971054351
+- https://openalex.org/W2066567180
+- https://openalex.org/W2163067702
+- https://openalex.org/W2272984102
+- https://openalex.org/W2620163654
+- https://openalex.org/W2783703728
+- https://openalex.org/W2800370063
+- https://openalex.org/W2889646458
+- https://openalex.org/W2981596557
+- https://openalex.org/W2999281781
+- https://openalex.org/W3002108456
+- https://openalex.org/W3005403371
+- https://openalex.org/W3006355661
+- https://openalex.org/W3007940623
+- https://openalex.org/W3008028633
+- https://openalex.org/W3008090866
+- https://openalex.org/W3008827533
+- https://openalex.org/W3010004613
+- https://openalex.org/W3010361335
+- https://openalex.org/W3010378560
+- https://openalex.org/W3012860910
+- https://openalex.org/W3041206342
+- https://openalex.org/W3195431600
+- https://openalex.org/W4211135634
+primary_topic: COVID-19 and healthcare impacts
+open_access: true

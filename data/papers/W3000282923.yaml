@@ -1,0 +1,508 @@
+id: https://openalex.org/W3000282923
+doi: https://doi.org/10.1038/s41586-019-1906-8
+title: B cells are associated with survival and immunotherapy response in sarcoma
+publication_date: '2020-01-15'
+publication_year: 2020
+cited_by_count: 1654
+citation_percentile: 0.999975
+pagerank: 2.6553041728656432e-06
+authorships:
+- author_id: https://openalex.org/A5010029786
+  display_name: Florent Petitprez
+  orcid: https://orcid.org/0000-0002-5117-6466
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Team Cancer, Immune Control and Escape, Centre de Recherche des Cordeliers, INSERM,
+    Paris, France
+- author_id: https://openalex.org/A5042627121
+  display_name: "Aur\xE9lien de Reyni\xE8s"
+  orcid: https://orcid.org/0000-0002-1328-5290
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095243
+    display_name: La Ligue Contre le Cancer
+    ror: https://ror.org/00rkrv905
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Programme Cartes d'Identit\xE9 des Tumeurs, Ligue Nationale Contre le Cancer,\
+    \ Paris, France"
+- author_id: https://openalex.org/A5079909397
+  display_name: Emily Z. Keung
+  orcid: https://orcid.org/0000-0002-8783-8484
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center,
+    Houston, TX, USA
+- author_id: https://openalex.org/A5054458525
+  display_name: "Tom Wei\u2010Wu Chen"
+  orcid: https://orcid.org/0000-0003-4112-4029
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16733864
+    display_name: National Taiwan University
+    ror: https://ror.org/05bqach95
+    country_code: TW
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate Institute of Oncology, National Taiwan University College of Medicine,
+    Taipei, Taiwan
+- author_id: https://openalex.org/A5058125634
+  display_name: "Cheng\u2010Ming Sun"
+  orcid: https://orcid.org/0000-0002-2392-7701
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Team Cancer, Immune Control and Escape, Centre de Recherche des Cordeliers, INSERM,
+    Paris, France
+- author_id: https://openalex.org/A5066134441
+  display_name: "Julien Cald\xE9raro"
+  orcid: https://orcid.org/0000-0002-5370-0807
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Team Cancer, Immune Control and Escape, Centre de Recherche des Cordeliers, INSERM,
+    Paris, France
+- author_id: https://openalex.org/A5041457441
+  display_name: "Yung\u2010Ming Jeng"
+  orcid: https://orcid.org/0000-0002-3878-4491
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16733864
+    display_name: National Taiwan University
+    ror: https://ror.org/05bqach95
+    country_code: TW
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centers of Genomic and Precision Medicine, National Taiwan University, Taipei,
+    Taiwan
+- author_id: https://openalex.org/A5081810526
+  display_name: Li-Ping Hsiao
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210131804
+    display_name: National Taiwan University Hospital
+    ror: https://ror.org/03nteze27
+    country_code: TW
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Oncology, National Taiwan University Hospital, Taipei, Taiwan
+- author_id: https://openalex.org/A5109405390
+  display_name: Laetitia Lacroix
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Team Cancer, Immune Control and Escape, Centre de Recherche des Cordeliers, INSERM,
+    Paris, France
+- author_id: https://openalex.org/A5086860586
+  display_name: "Antoine Bougo\xFCin"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Team Cancer, Immune Control and Escape, Centre de Recherche des Cordeliers, INSERM,
+    Paris, France
+- author_id: https://openalex.org/A5050352004
+  display_name: Marco Moreira
+  orcid: https://orcid.org/0000-0002-9933-7767
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Team Cancer, Immune Control and Escape, Centre de Recherche des Cordeliers, INSERM,
+    Paris, France
+- author_id: https://openalex.org/A5001883877
+  display_name: Guillaume Lacroix
+  orcid: https://orcid.org/0000-0003-2408-5267
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210091437
+    display_name: "Sorbonne Paris Cit\xE9"
+    ror: https://ror.org/001z21q04
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre de Recherche des Cordeliers, Universit\xE9 de Paris, Sorbonne Paris Cite,\
+    \ Paris, France"
+- author_id: https://openalex.org/A5006648872
+  display_name: Ivo Natario
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210091437
+    display_name: "Sorbonne Paris Cit\xE9"
+    ror: https://ror.org/001z21q04
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre de Recherche des Cordeliers, Universit\xE9 de Paris, Sorbonne Paris Cite,\
+    \ Paris, France"
+- author_id: https://openalex.org/A5006476106
+  display_name: Julien Adam
+  orcid: https://orcid.org/0000-0001-7556-9101
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801843802
+    display_name: Institut Gustave Roussy
+    ror: https://ror.org/0321g0743
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology and Pathology, Gustave Roussy, Villejuif, France
+- author_id: https://openalex.org/A5037236636
+  display_name: Carlo Lucchesi
+  orcid: https://orcid.org/0000-0001-6657-2341
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134409
+    display_name: "Institut Bergoni\xE9"
+    ror: https://ror.org/02yw1f353
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Bergoni\xE9, Bordeaux, France"
+- author_id: https://openalex.org/A5088506812
+  display_name: "Yec\u2019han Laizet"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134409
+    display_name: "Institut Bergoni\xE9"
+    ror: https://ror.org/02yw1f353
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Bergoni\xE9, Bordeaux, France"
+- author_id: https://openalex.org/A5084836759
+  display_name: Maud Toulmonde
+  orcid: https://orcid.org/0000-0003-3896-9274
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134409
+    display_name: "Institut Bergoni\xE9"
+    ror: https://ror.org/02yw1f353
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Bergoni\xE9, Bordeaux, France"
+- author_id: https://openalex.org/A5088270651
+  display_name: Melissa Burgess
+  orcid: https://orcid.org/0000-0002-5753-1422
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Divison of Hematology/Oncology, University of Pittsburgh,
+    Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5065094159
+  display_name: Vanessa Bolejack
+  orcid: https://orcid.org/0000-0003-2118-8500
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210101190
+    display_name: Cancer Research And Biostatistics
+    ror: https://ror.org/01575p865
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Research and Biostatistics, Seattle, WA, USA
+- author_id: https://openalex.org/A5042484310
+  display_name: Denise K. Reinke
+  orcid: https://orcid.org/0000-0002-8662-7060
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210141491
+    display_name: Sarcoma Alliance for Research through Collaboration
+    ror: https://ror.org/04fnb9f41
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sarcoma Alliance for Research Through Collaboration, Ann Arbor, MI, USA
+- author_id: https://openalex.org/A5002000838
+  display_name: Khalid M. Wani
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston,
+    TX, USA
+- author_id: https://openalex.org/A5071747925
+  display_name: "Wei\u2010Lien Wang"
+  orcid: https://orcid.org/0000-0001-8809-4424
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston,
+    TX, USA
+- author_id: https://openalex.org/A5050445982
+  display_name: Alexander J. Lazar
+  orcid: https://orcid.org/0000-0002-6395-4499
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston,
+    TX, USA
+- author_id: https://openalex.org/A5086634878
+  display_name: Christina L. Roland
+  orcid: https://orcid.org/0000-0003-3400-0087
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center,
+    Houston, TX, USA
+- author_id: https://openalex.org/A5035427219
+  display_name: Jennifer A. Wargo
+  orcid: https://orcid.org/0000-0003-3438-7576
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgical Oncology, The University of Texas MD Anderson Cancer Center,
+    Houston, TX, USA
+- author_id: https://openalex.org/A5060949051
+  display_name: "Anto\xEEne Italiano"
+  orcid: https://orcid.org/0000-0002-8540-5351
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134409
+    display_name: "Institut Bergoni\xE9"
+    ror: https://ror.org/02yw1f353
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Bergoni\xE9, Bordeaux, France"
+- author_id: https://openalex.org/A5054880022
+  display_name: "Catherine Saut\xE8s\u2010Fridman"
+  orcid: https://orcid.org/0000-0003-1735-8722
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre de Recherche des Cordeliers, Sorbonne University, Paris, France
+- author_id: https://openalex.org/A5000768609
+  display_name: Hussein A. Tawbi
+  orcid: https://orcid.org/0000-0003-1942-851X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Medical Oncology, The University of Texas MD Anderson Cancer Center,
+    Houston, TX, USA
+- author_id: https://openalex.org/A5075098122
+  display_name: Wolf H. Fridman
+  orcid: https://orcid.org/0000-0002-1332-0973
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre de Recherche des Cordeliers, Sorbonne University, Paris, France
+referenced_works:
+- https://openalex.org/W1969963445
+- https://openalex.org/W1975320260
+- https://openalex.org/W1985563120
+- https://openalex.org/W2022914202
+- https://openalex.org/W2024781765
+- https://openalex.org/W2043275588
+- https://openalex.org/W2060895401
+- https://openalex.org/W2062718503
+- https://openalex.org/W2068923084
+- https://openalex.org/W2081070412
+- https://openalex.org/W2084598886
+- https://openalex.org/W2086797990
+- https://openalex.org/W2101304964
+- https://openalex.org/W2105943307
+- https://openalex.org/W2107665951
+- https://openalex.org/W2111553417
+- https://openalex.org/W2112382960
+- https://openalex.org/W2113878188
+- https://openalex.org/W2149668671
+- https://openalex.org/W2155048802
+- https://openalex.org/W2168572010
+- https://openalex.org/W2234923158
+- https://openalex.org/W2303799488
+- https://openalex.org/W2460510582
+- https://openalex.org/W2466343307
+- https://openalex.org/W2533508881
+- https://openalex.org/W2546582613
+- https://openalex.org/W2586101933
+- https://openalex.org/W2610371878
+- https://openalex.org/W2751913496
+- https://openalex.org/W2754092421
+- https://openalex.org/W2762797139
+- https://openalex.org/W2765468373
+- https://openalex.org/W2779312016
+- https://openalex.org/W2783070348
+- https://openalex.org/W2884100356
+- https://openalex.org/W2920948567
+- https://openalex.org/W2945057866
+- https://openalex.org/W2967300456
+- https://openalex.org/W2998795792
+primary_topic: Sarcoma Diagnosis and Treatment
+open_access: true

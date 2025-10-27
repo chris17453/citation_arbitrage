@@ -1,0 +1,825 @@
+id: https://openalex.org/W3112389805
+doi: https://doi.org/10.1126/scitranslmed.abd2223
+title: IgA dominates the early neutralizing antibody response to SARS-CoV-2
+publication_date: '2020-12-08'
+publication_year: 2020
+cited_by_count: 1038
+citation_percentile: 0.999954
+pagerank: 2.5984900621474743e-06
+authorships:
+- author_id: https://openalex.org/A5082806299
+  display_name: Delphine Sterlin
+  orcid: https://orcid.org/0000-0002-5993-687X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "D\xE9partement d\u2019Immunologie, Assistance Publique-H\xF4pitaux de Paris (AP-HP),\
+    \ H\xF4pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013\
+    \ Paris, France."
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+  - Unit of Antibodies in Therapy and Pathology, Institut Pasteur, UMR1222, Inserm,
+    25-28 Rue du Dr Roux, 75015 Paris, France.
+- author_id: https://openalex.org/A5003392643
+  display_name: Alexis Mathian
+  orcid: https://orcid.org/0000-0002-7653-6528
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Service de M\xE9decine Interne 2, Institut E3M, AP-HP, H\xF4pital Piti\xE9-Salp\xEA\
+    tri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5043754495
+  display_name: Makoto Miyara
+  orcid: https://orcid.org/0000-0001-8743-8846
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "D\xE9partement d\u2019Immunologie, Assistance Publique-H\xF4pitaux de Paris (AP-HP),\
+    \ H\xF4pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013\
+    \ Paris, France."
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5033235611
+  display_name: Audrey Mohr
+  orcid: https://orcid.org/0000-0001-7031-8602
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5007958973
+  display_name: "Fran\xE7ois Anna"
+  orcid: https://orcid.org/0000-0002-9170-6556
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I4210086254
+    display_name: Theravectys (France)
+    ror: https://ror.org/001edfm43
+    country_code: FR
+    type: company
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Theravectys, Institut Pasteur, 25-28 Rue du Dr Roux, 75015 Paris, France.
+  - "Unit\xE9 de Virologie Mol\xE9culaire et Vaccinologie, Institut Pasteur, 25-28\
+    \ Rue du Dr Roux, 75015 Paris, France."
+- author_id: https://openalex.org/A5006131453
+  display_name: "Laetitia Cla\xEBr"
+  orcid: https://orcid.org/0000-0002-1955-7664
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5069769494
+  display_name: Paul Quentric
+  orcid: https://orcid.org/0000-0002-5157-3795
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5106124677
+  display_name: Jehane Fadlallah
+  orcid: https://orcid.org/0000-0003-3064-9401
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de M\xE9decine Interne 2, Institut E3M, AP-HP, H\xF4pital Piti\xE9-Salp\xEA\
+    tri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5103262812
+  display_name: "Herv\xE9 Devilliers"
+  orcid: https://orcid.org/0000-0003-0679-1029
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210116240
+    display_name: CHU Dijon Bourgogne
+    ror: https://ror.org/0377z4z10
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centre Hospitalier Universitaire de Dijon, H\xF4pital Fran\xE7ois Mitterrand,\
+    \ service de m\xE9decine interne et maladies syst\xE9miques (m\xE9decine interne\
+    \ 2) et Centre d\u2019Investigation Clinique, Inserm CIC-EC 1432, 3 rue du FBG\
+    \ Raines, 21000 Dijon, France."
+- author_id: https://openalex.org/A5090621980
+  display_name: P. Ghillani
+  orcid: https://orcid.org/0000-0002-1369-7690
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "D\xE9partement d\u2019Immunologie, Assistance Publique-H\xF4pitaux de Paris (AP-HP),\
+    \ H\xF4pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013\
+    \ Paris, France."
+- author_id: https://openalex.org/A5057331740
+  display_name: Cary Gunn
+  orcid: https://orcid.org/0000-0002-8838-1826
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102744
+    display_name: Genalyte (United States)
+    ror: https://ror.org/01k8bzw08
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genalyte Inc., 10520 Wateridge Circle, San Diego, CA 92121, USA.
+- author_id: https://openalex.org/A5053295518
+  display_name: Rick Hockett
+  orcid: https://orcid.org/0000-0002-4760-8051
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102744
+    display_name: Genalyte (United States)
+    ror: https://ror.org/01k8bzw08
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genalyte Inc., 10520 Wateridge Circle, San Diego, CA 92121, USA.
+- author_id: https://openalex.org/A5018929111
+  display_name: Sasi Mudumba
+  orcid: https://orcid.org/0000-0003-0582-1521
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102744
+    display_name: Genalyte (United States)
+    ror: https://ror.org/01k8bzw08
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genalyte Inc., 10520 Wateridge Circle, San Diego, CA 92121, USA.
+- author_id: https://openalex.org/A5016185127
+  display_name: "Am\xE9lie Guihot"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "D\xE9partement d\u2019Immunologie, Assistance Publique-H\xF4pitaux de Paris (AP-HP),\
+    \ H\xF4pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013\
+    \ Paris, France."
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5046498953
+  display_name: "Charles\u2010\xC9douard Luyt"
+  orcid: https://orcid.org/0000-0001-7424-2705
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210154657
+    display_name: "Fondation pour l\u2019innovation en Cadiom\xE9tabolisme et Nutrition"
+    ror: https://ror.org/050c3pq49
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de M\xE9decine Intensive R\xE9animation, Institut de Cardiologie, APHP,\
+    \ Sorbonne-Universit\xE9, H\xF4pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard\
+    \ de l\u2019H\xF4pital, 75013 Paris, France."
+  - "Sorbonne Universit\xE9, INSERM, UMRS 1166-ICAN Institute of Cardiometabolism\
+    \ and Nutrition, 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5106342009
+  display_name: Julien Mayaux
+  orcid: https://orcid.org/0000-0003-2799-5418
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de M\xE9decine Intensive\u2013R\xE9animation et Pneumologie, APHP, H\xF4\
+    pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013 Paris,\
+    \ France."
+- author_id: https://openalex.org/A5108278423
+  display_name: Alexandra Beurton
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4387152586
+    display_name: "Neurophysiologie respiratoire exp\xE9rimentale et clinique"
+    ror: https://ror.org/0259td381
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de M\xE9decine Intensive\u2013R\xE9animation et Pneumologie, APHP, H\xF4\
+    pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013 Paris,\
+    \ France."
+  - "Sorbonne Universit\xE9, Inserm UMRS Neurophysiologie respiratoire exp\xE9rimentale\
+    \ et clinique, AP-HP, 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5042635985
+  display_name: S. Fourati
+  orcid: https://orcid.org/0000-0002-8025-8575
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210130096
+    display_name: Centre de Recherche sur l'Inflammation
+    ror: https://ror.org/02gn50d10
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Inserm UMR1149, Centre de Recherche sur l\u2019Inflammation Paris Montmartre\
+    \ (CRI), 16 rue Henri Huchard, 75890 Paris, France."
+  - "Service de Biochimie Endocrinienne et Oncologique, AP-HP, H\xF4pital Piti\xE9\
+    -Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5033376690
+  display_name: "Timoth\xE9e Bruel"
+  orcid: https://orcid.org/0000-0002-3952-4261
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112943
+    display_name: Department of Virology
+    ror: https://ror.org/01xx2ne27
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210119150
+    display_name: Institut de Recherche Vaccinale
+    ror: https://ror.org/02f9r3321
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CNRS-UMR3569, Institut Pasteur, 25-28 Rue du Dr Roux, 75015 Paris, France.
+  - "Vaccine Research Institute, 51 avenue du Mar\xE9chal de Lattre de Tassigny, 94000\
+    \ Cr\xE9teil, France."
+  - Virus and Immunity Unit, Department of Virology, Institut Pasteur, 25-28 Rue du
+    Dr Roux, 75015 Paris, France.
+- author_id: https://openalex.org/A5055664477
+  display_name: Olivier Schwartz
+  orcid: https://orcid.org/0000-0002-0729-1475
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210119150
+    display_name: Institut de Recherche Vaccinale
+    ror: https://ror.org/02f9r3321
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I4210112943
+    display_name: Department of Virology
+    ror: https://ror.org/01xx2ne27
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CNRS-UMR3569, Institut Pasteur, 25-28 Rue du Dr Roux, 75015 Paris, France.
+  - "Vaccine Research Institute, 51 avenue du Mar\xE9chal de Lattre de Tassigny, 94000\
+    \ Cr\xE9teil, France."
+  - Virus and Immunity Unit, Department of Virology, Institut Pasteur, 25-28 Rue du
+    Dr Roux, 75015 Paris, France.
+- author_id: https://openalex.org/A5086033021
+  display_name: "Jean\u2010Marc Lacorte"
+  orcid: https://orcid.org/0000-0002-3454-0406
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210154657
+    display_name: "Fondation pour l\u2019innovation en Cadiom\xE9tabolisme et Nutrition"
+    ror: https://ror.org/050c3pq49
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de Biochimie Endocrinienne et Oncologique, AP-HP, H\xF4pital Piti\xE9\
+    -Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+  - "Sorbonne Universit\xE9, INSERM, UMRS 1166-ICAN Institute of Cardiometabolism\
+    \ and Nutrition, 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5036491309
+  display_name: Hans Yssel
+  orcid: https://orcid.org/0000-0001-7454-1836
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5017531056
+  display_name: Christophe Parizot
+  orcid: https://orcid.org/0000-0001-5723-4471
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "D\xE9partement d\u2019Immunologie, Assistance Publique-H\xF4pitaux de Paris (AP-HP),\
+    \ H\xF4pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013\
+    \ Paris, France."
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5017744326
+  display_name: Karim Dorgham
+  orcid: https://orcid.org/0000-0001-9539-3203
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5042560435
+  display_name: Pierre Charneau
+  orcid: https://orcid.org/0000-0003-1184-5773
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I4210086254
+    display_name: Theravectys (France)
+    ror: https://ror.org/001edfm43
+    country_code: FR
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Theravectys, Institut Pasteur, 25-28 Rue du Dr Roux, 75015 Paris, France.
+  - "Unit\xE9 de Virologie Mol\xE9culaire et Vaccinologie, Institut Pasteur, 25-28\
+    \ Rue du Dr Roux, 75015 Paris, France."
+- author_id: https://openalex.org/A5034623450
+  display_name: Zahir Amoura
+  orcid: https://orcid.org/0000-0003-0292-9043
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Service de M\xE9decine Interne 2, Institut E3M, AP-HP, H\xF4pital Piti\xE9-Salp\xEA\
+    tri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+- author_id: https://openalex.org/A5053965677
+  display_name: Guy Gorochov
+  orcid: https://orcid.org/0000-0003-2097-9677
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210121705
+    display_name: "Piti\xE9-Salp\xEAtri\xE8re Hospital"
+    ror: https://ror.org/02mh9a093
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "D\xE9partement d\u2019Immunologie, Assistance Publique-H\xF4pitaux de Paris (AP-HP),\
+    \ H\xF4pital Piti\xE9-Salp\xEAtri\xE8re, 83 boulevard de l\u2019H\xF4pital, 75013\
+    \ Paris, France."
+  - "Sorbonne Universit\xE9, Inserm, Centre d\u2019Immunologie et des Maladies Infectieuses\
+    \ (CIMI-Paris), 91 boulevard de l\u2019H\xF4pital, 75013 Paris, France."
+referenced_works:
+- https://openalex.org/W1561042888
+- https://openalex.org/W1651016359
+- https://openalex.org/W1897748761
+- https://openalex.org/W1965272893
+- https://openalex.org/W2001452004
+- https://openalex.org/W2007631332
+- https://openalex.org/W2016244758
+- https://openalex.org/W2019283439
+- https://openalex.org/W2050417626
+- https://openalex.org/W2052438728
+- https://openalex.org/W2053270538
+- https://openalex.org/W2055431368
+- https://openalex.org/W2063036448
+- https://openalex.org/W2063432056
+- https://openalex.org/W2063774431
+- https://openalex.org/W2069075878
+- https://openalex.org/W2084343696
+- https://openalex.org/W2087058561
+- https://openalex.org/W2093019529
+- https://openalex.org/W2156141826
+- https://openalex.org/W2163673566
+- https://openalex.org/W2165324863
+- https://openalex.org/W2172091110
+- https://openalex.org/W2306794997
+- https://openalex.org/W2396891909
+- https://openalex.org/W2615728508
+- https://openalex.org/W2751180356
+- https://openalex.org/W2759933576
+- https://openalex.org/W2888947039
+- https://openalex.org/W2964102418
+- https://openalex.org/W2998467622
+- https://openalex.org/W3010951319
+- https://openalex.org/W3011224398
+- https://openalex.org/W3011307261
+- https://openalex.org/W3012846954
+- https://openalex.org/W3013891156
+- https://openalex.org/W3014129609
+- https://openalex.org/W3014721277
+- https://openalex.org/W3021590963
+- https://openalex.org/W3023834325
+- https://openalex.org/W3023996322
+- https://openalex.org/W3029682964
+- https://openalex.org/W3032255042
+- https://openalex.org/W3034816694
+- https://openalex.org/W3044382958
+- https://openalex.org/W3057728496
+- https://openalex.org/W3080999659
+- https://openalex.org/W3083815322
+- https://openalex.org/W3091977890
+- https://openalex.org/W3107452553
+- https://openalex.org/W3112028440
+- https://openalex.org/W4206142017
+- https://openalex.org/W4247389509
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

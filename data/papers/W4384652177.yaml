@@ -1,0 +1,326 @@
+id: https://openalex.org/W4384652177
+doi: https://doi.org/10.1186/s12859-023-05385-y
+title: 'MitoHiFi: a python pipeline for mitochondrial genome assembly from PacBio
+  high fidelity reads'
+publication_date: '2023-07-18'
+publication_year: 2023
+cited_by_count: 1327
+citation_percentile: 0.999981
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5061679388
+  display_name: "Marcela Uliano\u2010Silva"
+  orcid: https://orcid.org/0000-0001-6723-4715
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Tree of Life, Wellcome Sanger Institute, Cambridge, CB10 1SA, UK
+- author_id: https://openalex.org/A5068937376
+  display_name: "Jo\xE3o Gabriel R. N. Ferreira"
+  orcid: https://orcid.org/0000-0002-5226-7159
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210148226
+    display_name: "Funda\xE7\xE3o Carlos Chagas Filho de Amparo \xE0 Pesquisa do Estado\
+      \ do Rio de Janeiro"
+    ror: https://ror.org/03kk0s825
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bio Bureau Biotecnologia, Rio de Janeiro, Brazil
+  - "Instituto de Biof\xEDsica Carlos Chagas Filho, UniversidadeFederal Do Rio de\
+    \ Janeiro, Rio de Janeiro, Brazil"
+- author_id: https://openalex.org/A5041367299
+  display_name: Ksenia Krasheninnikova
+  orcid: https://orcid.org/0000-0002-0604-2047
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tree of Life, Wellcome Sanger Institute, Cambridge, CB10 1SA, UK
+- author_id: https://openalex.org/A5060637041
+  display_name: Mark Blaxter
+  orcid: https://orcid.org/0000-0003-2861-949X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tree of Life, Wellcome Sanger Institute, Cambridge, CB10 1SA, UK
+- author_id: https://openalex.org/A5059329418
+  display_name: Nova Mieszkowska
+  orcid: https://orcid.org/0000-0002-9570-7759
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5057145757
+  display_name: Neil Hall
+  orcid: https://orcid.org/0000-0003-2808-0009
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5072354679
+  display_name: Peter W. H. Holland
+  orcid: https://orcid.org/0000-0003-1533-9376
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5082040351
+  display_name: Richard Durbin
+  orcid: https://orcid.org/0000-0002-9130-1006
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Cambridge, Cambridge, CB2 3EH, UK
+- author_id: https://openalex.org/A5005492049
+  display_name: Thomas A. Richards
+  orcid: https://orcid.org/0000-0002-9692-0973
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5068191371
+  display_name: Paul Kersey
+  orcid: https://orcid.org/0000-0002-7054-800X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5102827640
+  display_name: Peter M. Hollingsworth
+  orcid: https://orcid.org/0000-0003-0602-0654
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5048839411
+  display_name: Willie Wilson
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5022720735
+  display_name: Alex D. Twyford
+  orcid: https://orcid.org/0000-0002-8746-6617
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5072639213
+  display_name: Ester Gaya
+  orcid: https://orcid.org/0000-0001-6404-4297
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5085247591
+  display_name: Mara Lawniczak
+  orcid: https://orcid.org/0000-0002-3006-2080
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5002111430
+  display_name: Owen Lewis
+  orcid: https://orcid.org/0000-0002-7915-6870
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5070612147
+  display_name: Gavin R. Broad
+  orcid: https://orcid.org/0000-0001-7223-5333
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5085030371
+  display_name: Fergal J. Martin
+  orcid: https://orcid.org/0000-0002-1672-050X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5055527092
+  display_name: Michelle Hart
+  orcid: https://orcid.org/0000-0001-9503-7786
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5091570618
+  display_name: Ian Barnes
+  orcid: https://orcid.org/0000-0001-8322-6918
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Tree of Life, Wellcome Sanger Institute, Cambridge, CB10 1SA, UK
+- author_id: https://openalex.org/A5018079714
+  display_name: Giulio Formenti
+  orcid: https://orcid.org/0000-0002-7554-5991
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I83399316
+    display_name: Rockefeller University
+    ror: https://ror.org/0420db125
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Rockefeller University, New York, NY, USA
+- author_id: https://openalex.org/A5032724916
+  display_name: Linelle Abueg
+  orcid: https://orcid.org/0000-0002-6879-3954
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I83399316
+    display_name: Rockefeller University
+    ror: https://ror.org/0420db125
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Rockefeller University, New York, NY, USA
+- author_id: https://openalex.org/A5066372539
+  display_name: James Torrance
+  orcid: https://orcid.org/0000-0002-6117-8190
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tree of Life, Wellcome Sanger Institute, Cambridge, CB10 1SA, UK
+- author_id: https://openalex.org/A5068657716
+  display_name: Eugene W. Myers
+  orcid: https://orcid.org/0000-0002-6580-7839
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210159854
+    display_name: Max Planck Institute of Molecular Cell Biology and Genetics
+    ror: https://ror.org/05b8d3w18
+    country_code: DE
+    type: facility
+  - id: https://openalex.org/I142637625
+    display_name: Okinawa Institute of Science and Technology Graduate University
+    ror: https://ror.org/02qg15b79
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany
+  - Okinawa Institute of Science and Technology, Okinawa, Japan
+- author_id: https://openalex.org/A5082040351
+  display_name: Richard Durbin
+  orcid: https://orcid.org/0000-0002-9130-1006
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Cambridge, Cambridge, CB2 3EH, UK
+- author_id: https://openalex.org/A5060637041
+  display_name: Mark Blaxter
+  orcid: https://orcid.org/0000-0003-2861-949X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tree of Life, Wellcome Sanger Institute, Cambridge, CB10 1SA, UK
+- author_id: https://openalex.org/A5030669774
+  display_name: Shane McCarthy
+  orcid: https://orcid.org/0000-0002-2715-4187
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Cambridge, Cambridge, CB2 3EH, UK
+  - Tree of Life, Wellcome Sanger Institute, Cambridge, CB10 1SA, UK
+referenced_works:
+- https://openalex.org/W1753040613
+- https://openalex.org/W1967390196
+- https://openalex.org/W1979971790
+- https://openalex.org/W1989083100
+- https://openalex.org/W2028257373
+- https://openalex.org/W2035625064
+- https://openalex.org/W2077005155
+- https://openalex.org/W2136846721
+- https://openalex.org/W2142678478
+- https://openalex.org/W2474868843
+- https://openalex.org/W2802282671
+- https://openalex.org/W2927961455
+- https://openalex.org/W2951254987
+- https://openalex.org/W2968499116
+- https://openalex.org/W2970442701
+- https://openalex.org/W3014884007
+- https://openalex.org/W3048090444
+- https://openalex.org/W3049406222
+- https://openalex.org/W3084201551
+- https://openalex.org/W3125399386
+- https://openalex.org/W3128198169
+- https://openalex.org/W3157679996
+- https://openalex.org/W3159728495
+- https://openalex.org/W3182682238
+- https://openalex.org/W4205493727
+- https://openalex.org/W4206641739
+- https://openalex.org/W4207025036
+- https://openalex.org/W4220849072
+- https://openalex.org/W4236459334
+- https://openalex.org/W4242123597
+- https://openalex.org/W4391061129
+primary_topic: Genomics and Phylogenetic Studies
+open_access: true

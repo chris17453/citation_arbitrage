@@ -1,0 +1,1960 @@
+id: https://openalex.org/W3032677067
+doi: https://doi.org/10.1056/nejmoa2015301
+title: Remdesivir for 5 or 10 Days in Patients with Severe Covid-19
+publication_date: '2020-05-27'
+publication_year: 2020
+cited_by_count: 1404
+citation_percentile: 0.999954
+pagerank: 2.9261002682936836e-06
+authorships:
+- author_id: https://openalex.org/A5021162080
+  display_name: Jason D. Goldman
+  orcid: https://orcid.org/0000-0002-3825-6832
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5039929987
+  display_name: David Chien Lye
+  orcid: https://orcid.org/0000-0003-0324-0205
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5089024033
+  display_name: David S.C. Hui
+  orcid: https://orcid.org/0000-0003-4382-2445
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5087344011
+  display_name: Kristen Marks
+  orcid: https://orcid.org/0000-0003-1896-4978
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5073716258
+  display_name: Raffaele Bruno
+  orcid: https://orcid.org/0000-0002-0235-9207
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5024852804
+  display_name: "Roc\xEDo Montejano"
+  orcid: https://orcid.org/0000-0002-3446-0545
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5045808037
+  display_name: Christoph D. Spinner
+  orcid: https://orcid.org/0000-0002-3875-5367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5010351936
+  display_name: Massimo Galli
+  orcid: https://orcid.org/0000-0001-8887-6215
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5113688945
+  display_name: Mi-Young Ahn
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5034118840
+  display_name: Ronald Nahass
+  orcid: https://orcid.org/0000-0002-4401-7491
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5035819246
+  display_name: Yao-Shen Chen
+  orcid: https://orcid.org/0000-0003-4585-9516
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5033466901
+  display_name: Devi SenGupta
+  orcid: https://orcid.org/0000-0003-3811-8111
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5111918859
+  display_name: Robert H. Hyland
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5007526376
+  display_name: Anu Osinusi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5113624401
+  display_name: Huyen Cao
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5009975917
+  display_name: Christiana Blair
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5113854324
+  display_name: Xuelian Wei
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5014107752
+  display_name: Anuj Gaggar
+  orcid: https://orcid.org/0000-0001-7865-001X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5108607196
+  display_name: Diana M. Brainard
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5088188519
+  display_name: William Towner
+  orcid: https://orcid.org/0000-0001-5645-2979
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5020989510
+  display_name: "Jos\xE9 Mu\xF1\xF3z"
+  orcid: https://orcid.org/0000-0002-0945-1735
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5024701462
+  display_name: Kathleen M. Mullane
+  orcid: https://orcid.org/0000-0002-8921-8561
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5011325960
+  display_name: Francisco M. Marty
+  orcid: https://orcid.org/0000-0002-3708-8734
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5038522202
+  display_name: Karen T. Tashima
+  orcid: https://orcid.org/0000-0002-1211-3120
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5112612240
+  display_name: George Diaz
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+- author_id: https://openalex.org/A5079595569
+  display_name: Aruna Subramanian
+  orcid: https://orcid.org/0000-0002-1373-6768
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  - id: https://openalex.org/I2801107848
+    display_name: New York Hospital Queens
+    ror: https://ror.org/01j17xg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802408685
+    display_name: Tan Tock Seng Hospital
+    ror: https://ror.org/032d59j24
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I1340179700
+    display_name: "NewYork\u2013Presbyterian Hospital"
+    ror: https://ror.org/03gzbrs57
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1342778266
+    display_name: Providence Regional Medical Center Everett
+    ror: https://ror.org/05dshav68
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1297760795
+    display_name: Robert Wood Johnson University Hospital
+    ror: https://ror.org/00eekd641
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the Swedish Center for Research and Innovation, Swedish Medical Center,\
+    \ and the University of Washington, Seattle (J.D.G.), and Providence Regional\
+    \ Medical Center, Everett (G.D.) - both in Washington; the National Center for\
+    \ Infectious Diseases, Lee Kong Chian School of Medicine, Tan Tock Seng Hospital,\
+    \ Singapore (D.C.B.L.); the Chinese University of Hong Kong-Prince of Wales Hospital,\
+    \ Hong Kong (D.S.H.); New York-Presbyterian Hospital and Weill Cornell Medicine,\
+    \ New York (K.M. Marks); Malattie Infettive Fondazione IRCCS Policlinico San Matteo,\
+    \ Pavia-Universit\xE0 di Pavia, Pavia (R.B.), and Universit\xE0 di Milano, Department\
+    \ of Biomedical and Clinical Sciences, L. Sacco Infectious Diseases Unit, ASST\
+    \ Fatebenefratelli Sacco, Milan (M.G.) - both in Italy; Hospital Universitario\
+    \ La Paz, IdiPAZ, Madrid (R.M.), and Barcelona Institute for Global Health (ISGlobal)\
+    \ Hospital Cl\xEDnic-Universitat de Barcelona, Barcelona (J.M.); Technical University\
+    \ of Munich, School of Medicine, University Hospital rechts der Isar, Munich,\
+    \ Germany (C.D.S.); Seoul Medical Center, Seoul, South Korea (M.-Y.A.); ID Care,\
+    \ Hillsborough, and Robert Wood Johnson University Hospital Somerset, Somerville\
+    \ - both in New Jersey (R.G.N.); Kaohsiung Veterans General Hospital, Taiwan (Y.-S.C.);\
+    \ Gilead Sciences, Foster City (D.S., R.H.H., A.O.O., H.C., C.B., X.W., A.G.,\
+    \ D.M.B.), Kaiser Permanente, Los Angeles (W.J.T.), and Stanford University, Palo\
+    \ Alto (A.S.) - all in California; University of Chicago, Chicago (K.M. Mullane);\
+    \ Brigham and Women's Hospital and Harvard Medical School, Boston (F.M.M.); and\
+    \ Miriam Hospital, Warren Alpert Medical School of Brown University, Providence,\
+    \ RI (K.T.T.)."
+referenced_works:
+- https://openalex.org/W2292021561
+- https://openalex.org/W2725497285
+- https://openalex.org/W2991491848
+- https://openalex.org/W3000413850
+- https://openalex.org/W3005212621
+- https://openalex.org/W3006564542
+- https://openalex.org/W3008827533
+- https://openalex.org/W3008928028
+- https://openalex.org/W3010637630
+- https://openalex.org/W3011739897
+- https://openalex.org/W3012174259
+- https://openalex.org/W3012379316
+- https://openalex.org/W3016535995
+- https://openalex.org/W3017579918
+- https://openalex.org/W3018023298
+- https://openalex.org/W3027630905
+- https://openalex.org/W3032915827
+- https://openalex.org/W3033364035
+- https://openalex.org/W3033550924
+- https://openalex.org/W3033628872
+- https://openalex.org/W3035158503
+- https://openalex.org/W3036904861
+- https://openalex.org/W3040751560
+- https://openalex.org/W3044711307
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

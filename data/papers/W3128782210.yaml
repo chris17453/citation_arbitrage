@@ -1,0 +1,388 @@
+id: https://openalex.org/W3128782210
+doi: https://doi.org/10.1038/s43586-020-00001-2
+title: Bayesian statistics and modelling
+publication_date: '2021-01-14'
+publication_year: 2021
+cited_by_count: 895
+citation_percentile: 0.999973
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5041799420
+  display_name: Rens van de Schoot
+  orcid: https://orcid.org/0000-0001-7736-2091
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Methods and Statistics, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5036027681
+  display_name: Sarah Depaoli
+  orcid: https://orcid.org/0000-0002-1277-0462
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I156087764
+    display_name: University of California, Merced
+    ror: https://ror.org/00d9ah105
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Quantitative Psychology, University of California Merced, Merced,
+    CA, USA
+- author_id: https://openalex.org/A5025914946
+  display_name: Ruth King
+  orcid: https://orcid.org/0000-0002-5174-8727
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Mathematics, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5030014883
+  display_name: Bianca Kramer
+  orcid: https://orcid.org/0000-0002-5965-6560
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Utrecht University Library, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5062738925
+  display_name: "Kaspar M\xE4rtens"
+  orcid: https://orcid.org/0000-0002-7631-727X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5086793581
+  display_name: Mahlet G. Tadesse
+  orcid: https://orcid.org/0000-0003-2671-1663
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I184565670
+    display_name: Georgetown University
+    ror: https://ror.org/05vzafd60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics and Statistics, Georgetown University, Washington, DC,
+    USA
+- author_id: https://openalex.org/A5030348494
+  display_name: Marina Vannucci
+  orcid: https://orcid.org/0000-0002-7360-5321
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74775410
+    display_name: Rice University
+    ror: https://ror.org/008zs3103
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, Rice University, Houston, TX, USA
+- author_id: https://openalex.org/A5074093929
+  display_name: Andrew Gelman
+  orcid: https://orcid.org/0000-0002-6975-2601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78577930
+    display_name: Columbia University
+    ror: https://ror.org/00hj8s172
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, Columbia University, New York, NY, USA
+- author_id: https://openalex.org/A5000898333
+  display_name: Duco Veen
+  orcid: https://orcid.org/0000-0002-8352-7574
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Methods and Statistics, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5088758897
+  display_name: Joukje E. Willemsen
+  orcid: https://orcid.org/0000-0002-7260-0828
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193662353
+    display_name: Utrecht University
+    ror: https://ror.org/04pp8hn57
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Methods and Statistics, Utrecht University, Utrecht, Netherlands
+- author_id: https://openalex.org/A5084571119
+  display_name: Christopher Yau
+  orcid: https://orcid.org/0000-0001-7615-8523
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Informatics, Imaging & Data Sciences, University of Manchester, Manchester,
+    UK
+referenced_works:
+- https://openalex.org/W136174036
+- https://openalex.org/W1490229695
+- https://openalex.org/W1501586228
+- https://openalex.org/W1517555081
+- https://openalex.org/W1526262927
+- https://openalex.org/W1536497620
+- https://openalex.org/W1544131626
+- https://openalex.org/W1549911417
+- https://openalex.org/W1553148111
+- https://openalex.org/W1565709818
+- https://openalex.org/W1569946230
+- https://openalex.org/W1603902380
+- https://openalex.org/W1747046542
+- https://openalex.org/W1767470961
+- https://openalex.org/W1840847274
+- https://openalex.org/W1844985714
+- https://openalex.org/W1894548862
+- https://openalex.org/W1905960767
+- https://openalex.org/W1964065871
+- https://openalex.org/W1964072811
+- https://openalex.org/W1969415786
+- https://openalex.org/W1969946313
+- https://openalex.org/W1972641858
+- https://openalex.org/W1976041429
+- https://openalex.org/W1979996936
+- https://openalex.org/W1980199371
+- https://openalex.org/W1982061668
+- https://openalex.org/W1982652137
+- https://openalex.org/W1983278573
+- https://openalex.org/W1991237518
+- https://openalex.org/W1992866626
+- https://openalex.org/W1999974018
+- https://openalex.org/W2000515557
+- https://openalex.org/W2001136052
+- https://openalex.org/W2005587766
+- https://openalex.org/W2006622525
+- https://openalex.org/W2007069447
+- https://openalex.org/W2009634320
+- https://openalex.org/W2010959895
+- https://openalex.org/W2016219233
+- https://openalex.org/W2020389170
+- https://openalex.org/W2020999234
+- https://openalex.org/W2023232915
+- https://openalex.org/W2024153789
+- https://openalex.org/W2029035844
+- https://openalex.org/W2029459061
+- https://openalex.org/W2030597423
+- https://openalex.org/W2036183522
+- https://openalex.org/W2038885294
+- https://openalex.org/W2040011853
+- https://openalex.org/W2043071382
+- https://openalex.org/W2051341588
+- https://openalex.org/W2053597171
+- https://openalex.org/W2055025635
+- https://openalex.org/W2056536708
+- https://openalex.org/W2056760934
+- https://openalex.org/W2058755574
+- https://openalex.org/W2059448777
+- https://openalex.org/W2061315473
+- https://openalex.org/W2064053411
+- https://openalex.org/W2064157768
+- https://openalex.org/W2064480843
+- https://openalex.org/W2064604759
+- https://openalex.org/W2068621387
+- https://openalex.org/W2069435832
+- https://openalex.org/W2070644478
+- https://openalex.org/W2071596394
+- https://openalex.org/W2072351255
+- https://openalex.org/W2078803352
+- https://openalex.org/W2079101498
+- https://openalex.org/W2079199322
+- https://openalex.org/W2083875149
+- https://openalex.org/W2085259108
+- https://openalex.org/W2085573033
+- https://openalex.org/W2087036932
+- https://openalex.org/W2093223772
+- https://openalex.org/W2095705004
+- https://openalex.org/W2098365715
+- https://openalex.org/W2100036367
+- https://openalex.org/W2100270478
+- https://openalex.org/W2106675691
+- https://openalex.org/W2106706098
+- https://openalex.org/W2107858042
+- https://openalex.org/W2111051539
+- https://openalex.org/W2114169935
+- https://openalex.org/W2120064221
+- https://openalex.org/W2129905273
+- https://openalex.org/W2130416410
+- https://openalex.org/W2132330850
+- https://openalex.org/W2135046866
+- https://openalex.org/W2138309709
+- https://openalex.org/W2138710913
+- https://openalex.org/W2142499192
+- https://openalex.org/W2144492336
+- https://openalex.org/W2144898279
+- https://openalex.org/W2146784647
+- https://openalex.org/W2148534890
+- https://openalex.org/W2152977846
+- https://openalex.org/W2157335584
+- https://openalex.org/W2157787485
+- https://openalex.org/W2158508636
+- https://openalex.org/W2158553842
+- https://openalex.org/W2158679941
+- https://openalex.org/W2159347337
+- https://openalex.org/W2161291623
+- https://openalex.org/W2161556702
+- https://openalex.org/W2166851633
+- https://openalex.org/W2167269590
+- https://openalex.org/W2168331993
+- https://openalex.org/W2168934042
+- https://openalex.org/W2217402295
+- https://openalex.org/W2225156818
+- https://openalex.org/W2254427319
+- https://openalex.org/W2273597220
+- https://openalex.org/W2285598936
+- https://openalex.org/W2285690655
+- https://openalex.org/W2301327553
+- https://openalex.org/W2302501749
+- https://openalex.org/W2316175917
+- https://openalex.org/W2322720146
+- https://openalex.org/W2409860581
+- https://openalex.org/W2428070046
+- https://openalex.org/W2470289662
+- https://openalex.org/W2472791252
+- https://openalex.org/W2482566988
+- https://openalex.org/W2497431972
+- https://openalex.org/W2503389303
+- https://openalex.org/W2503406530
+- https://openalex.org/W2518893691
+- https://openalex.org/W2530192738
+- https://openalex.org/W2547407901
+- https://openalex.org/W2552618727
+- https://openalex.org/W2556390436
+- https://openalex.org/W2570760970
+- https://openalex.org/W2577537660
+- https://openalex.org/W2583321412
+- https://openalex.org/W2584464732
+- https://openalex.org/W2588969809
+- https://openalex.org/W2606464018
+- https://openalex.org/W2612690371
+- https://openalex.org/W2613486607
+- https://openalex.org/W2619837186
+- https://openalex.org/W2622091505
+- https://openalex.org/W2680346963
+- https://openalex.org/W2738655609
+- https://openalex.org/W2747599906
+- https://openalex.org/W2753599755
+- https://openalex.org/W2753738274
+- https://openalex.org/W2755730676
+- https://openalex.org/W2765646069
+- https://openalex.org/W2772058922
+- https://openalex.org/W2773787581
+- https://openalex.org/W2777635006
+- https://openalex.org/W2783658081
+- https://openalex.org/W2785607024
+- https://openalex.org/W2792368783
+- https://openalex.org/W2805055243
+- https://openalex.org/W2806225217
+- https://openalex.org/W2808618339
+- https://openalex.org/W2808845633
+- https://openalex.org/W2890620276
+- https://openalex.org/W2895152177
+- https://openalex.org/W2901677030
+- https://openalex.org/W2909021043
+- https://openalex.org/W2912029926
+- https://openalex.org/W2912390237
+- https://openalex.org/W2916160768
+- https://openalex.org/W2920804790
+- https://openalex.org/W2943050242
+- https://openalex.org/W2944958851
+- https://openalex.org/W2952051154
+- https://openalex.org/W2963105736
+- https://openalex.org/W2963238274
+- https://openalex.org/W2963680191
+- https://openalex.org/W2963909968
+- https://openalex.org/W2963977107
+- https://openalex.org/W2964321317
+- https://openalex.org/W2967722141
+- https://openalex.org/W2970633838
+- https://openalex.org/W2982619951
+- https://openalex.org/W2984916588
+- https://openalex.org/W2986579771
+- https://openalex.org/W2992035660
+- https://openalex.org/W3000312518
+- https://openalex.org/W3002319139
+- https://openalex.org/W3005913868
+- https://openalex.org/W3006204650
+- https://openalex.org/W3009186558
+- https://openalex.org/W3011540686
+- https://openalex.org/W3033071662
+- https://openalex.org/W3035994216
+- https://openalex.org/W3036067006
+- https://openalex.org/W3083113686
+- https://openalex.org/W3083375873
+- https://openalex.org/W3088727439
+- https://openalex.org/W3096618769
+- https://openalex.org/W3098069145
+- https://openalex.org/W3099090856
+- https://openalex.org/W3101022954
+- https://openalex.org/W3101032515
+- https://openalex.org/W3101256146
+- https://openalex.org/W3101380508
+- https://openalex.org/W3101886251
+- https://openalex.org/W3102763196
+- https://openalex.org/W3104819369
+- https://openalex.org/W3104822289
+- https://openalex.org/W3106333376
+- https://openalex.org/W3127517104
+- https://openalex.org/W3139220309
+- https://openalex.org/W3209295227
+- https://openalex.org/W3209569717
+- https://openalex.org/W4206566734
+- https://openalex.org/W4211177544
+- https://openalex.org/W4214946787
+- https://openalex.org/W4230472026
+- https://openalex.org/W4232383088
+- https://openalex.org/W4232542785
+- https://openalex.org/W4233700112
+- https://openalex.org/W4243529926
+- https://openalex.org/W4248681815
+- https://openalex.org/W4256038730
+- https://openalex.org/W4293872935
+- https://openalex.org/W4388322985
+- https://openalex.org/W4399581809
+- https://openalex.org/W575464242
+- https://openalex.org/W603672673
+- https://openalex.org/W621546036
+- https://openalex.org/W643935111
+- https://openalex.org/W68436435
+- https://openalex.org/W839653734
+primary_topic: Bayesian Methods and Mixture Models
+open_access: false

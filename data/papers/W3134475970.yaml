@@ -1,0 +1,451 @@
+id: https://openalex.org/W3134475970
+doi: https://doi.org/10.1109/jproc.2021.3054390
+title: 'A Review of Deep Learning in Medical Imaging: Imaging Traits, Technology Trends,
+  Case Studies With Progress Highlights, and Future Promises'
+publication_date: '2021-02-26'
+publication_year: 2021
+cited_by_count: 811
+citation_percentile: 0.999169
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5028465673
+  display_name: S. Kevin Zhou
+  orcid: https://orcid.org/0000-0002-6881-4444
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210090176
+    display_name: Institute of Computing Technology
+    ror: https://ror.org/0090r4d87
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I126520041
+    display_name: University of Science and Technology of China
+    ror: https://ror.org/04c4dkn09
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+  - School of Biomedical Engineering, University of Science and Technology of China,
+    Hefei, China
+- author_id: https://openalex.org/A5078473649
+  display_name: Hayit Greenspan
+  orcid: https://orcid.org/0000-0001-6908-7552
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16391192
+    display_name: Tel Aviv University
+    ror: https://ror.org/04mhzgx49
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Faculty of Engineering, Tel-Aviv University,
+    Tel-Aviv, Israel
+- author_id: https://openalex.org/A5034999945
+  display_name: Christos Davatzikos
+  orcid: https://orcid.org/0000-0002-1025-8561
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Electrical and Systems Engineering Department, University of Pennsylvania, Philadelphia,
+    PA, USA
+  - Radiology Department, University of Pennsylvania, Philadelphia, PA, USA
+- author_id: https://openalex.org/A5046673670
+  display_name: James S. Duncan
+  orcid: https://orcid.org/0000-0002-5167-9856
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Yale University, New Haven, CT, USA
+  - Department of Radiology and Biomedical Imaging, Yale University, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5042982766
+  display_name: Bram van Ginneken
+  orcid: https://orcid.org/0000-0003-2028-8972
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802934949
+    display_name: Radboud University Medical Center
+    ror: https://ror.org/05wg1m734
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I2802849423
+    display_name: University Medical Center
+    ror: https://ror.org/036pt7h44
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Radboud University Medical Center, Nijmegen, GA, The Netherlands
+- author_id: https://openalex.org/A5027642699
+  display_name: Anant Madabhushi
+  orcid: https://orcid.org/0000-0002-5741-0399
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210110978
+    display_name: Louis Stokes Cleveland VA Medical Center
+    ror: https://ror.org/01vrybr67
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I58956616
+    display_name: Case Western Reserve University
+    ror: https://ror.org/051fd9666
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, CaseWestern Reserve University, Cleveland,
+    OH, USA
+  - Louis Stokes Cleveland Veterans Administration Medical Center, Cleveland, OH,
+    USA
+- author_id: https://openalex.org/A5066682675
+  display_name: Jerry L. Prince
+  orcid: https://orcid.org/0000-0002-6553-0876
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Electrical and Computer Engineering Department, Johns Hopkins University, Baltimore,
+    MD, USA
+- author_id: https://openalex.org/A5006461848
+  display_name: Daniel Rueckert
+  orcid: https://orcid.org/0000-0002-5683-5889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802619606
+    display_name: Klinikum rechts der Isar
+    ror: https://ror.org/04jc43x05
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing, Imperial College London, London, U.K.
+  - Klinikum rechts der Isar, Technical University of Munich (TU Munich), Munich,
+    Germany
+- author_id: https://openalex.org/A5016047550
+  display_name: Ronald M. Summers
+  orcid: https://orcid.org/0000-0001-8081-7376
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210155647
+    display_name: National Institutes of Health Clinical Center
+    ror: https://ror.org/04vfsmv21
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institutes of Health Clinical Center, Bethesda, MD, USA
+referenced_works:
+- https://openalex.org/W1514535095
+- https://openalex.org/W1570613334
+- https://openalex.org/W1601976844
+- https://openalex.org/W1686810756
+- https://openalex.org/W1871050032
+- https://openalex.org/W1884191083
+- https://openalex.org/W1901129140
+- https://openalex.org/W1973391164
+- https://openalex.org/W1993947467
+- https://openalex.org/W2006968062
+- https://openalex.org/W2015032510
+- https://openalex.org/W2057536936
+- https://openalex.org/W2082907106
+- https://openalex.org/W2097117768
+- https://openalex.org/W2098140880
+- https://openalex.org/W2099471712
+- https://openalex.org/W2124982846
+- https://openalex.org/W2142584642
+- https://openalex.org/W2150671093
+- https://openalex.org/W2158646765
+- https://openalex.org/W2162856335
+- https://openalex.org/W2163605009
+- https://openalex.org/W2168894214
+- https://openalex.org/W2194775991
+- https://openalex.org/W2248620004
+- https://openalex.org/W2253429366
+- https://openalex.org/W2284198383
+- https://openalex.org/W2301358467
+- https://openalex.org/W2337438617
+- https://openalex.org/W2344328023
+- https://openalex.org/W2345010043
+- https://openalex.org/W2395611524
+- https://openalex.org/W2397287600
+- https://openalex.org/W2504150216
+- https://openalex.org/W2517898202
+- https://openalex.org/W2525606708
+- https://openalex.org/W2533800772
+- https://openalex.org/W2535838896
+- https://openalex.org/W2542707222
+- https://openalex.org/W2557738935
+- https://openalex.org/W2562469482
+- https://openalex.org/W2567599812
+- https://openalex.org/W2579617530
+- https://openalex.org/W2585890928
+- https://openalex.org/W2589647984
+- https://openalex.org/W2592929672
+- https://openalex.org/W2604920239
+- https://openalex.org/W2606546398
+- https://openalex.org/W2607075141
+- https://openalex.org/W2608353599
+- https://openalex.org/W2612445135
+- https://openalex.org/W2615032626
+- https://openalex.org/W2620296437
+- https://openalex.org/W2624552887
+- https://openalex.org/W2709402577
+- https://openalex.org/W2738232076
+- https://openalex.org/W2744335798
+- https://openalex.org/W2744730369
+- https://openalex.org/W2745006834
+- https://openalex.org/W2748941639
+- https://openalex.org/W2750760359
+- https://openalex.org/W2751665805
+- https://openalex.org/W2752782242
+- https://openalex.org/W2760946358
+- https://openalex.org/W2762081760
+- https://openalex.org/W2765366332
+- https://openalex.org/W2769502140
+- https://openalex.org/W2769910914
+- https://openalex.org/W2772048364
+- https://openalex.org/W2772723798
+- https://openalex.org/W2776220900
+- https://openalex.org/W2777186991
+- https://openalex.org/W2789863594
+- https://openalex.org/W2792124446
+- https://openalex.org/W2794022343
+- https://openalex.org/W2796409016
+- https://openalex.org/W2798122215
+- https://openalex.org/W2799738340
+- https://openalex.org/W2803176574
+- https://openalex.org/W2803416021
+- https://openalex.org/W2804078698
+- https://openalex.org/W2805285736
+- https://openalex.org/W2805494981
+- https://openalex.org/W2806389172
+- https://openalex.org/W2807006176
+- https://openalex.org/W2807572416
+- https://openalex.org/W2810065831
+- https://openalex.org/W2811126861
+- https://openalex.org/W2849711574
+- https://openalex.org/W2883683269
+- https://openalex.org/W2885218528
+- https://openalex.org/W2885311373
+- https://openalex.org/W2886328034
+- https://openalex.org/W2886612741
+- https://openalex.org/W2886943560
+- https://openalex.org/W2887477052
+- https://openalex.org/W2888365315
+- https://openalex.org/W2889158831
+- https://openalex.org/W2889611173
+- https://openalex.org/W2890139949
+- https://openalex.org/W2891378267
+- https://openalex.org/W2891451067
+- https://openalex.org/W2891631795
+- https://openalex.org/W2891800461
+- https://openalex.org/W2895401428
+- https://openalex.org/W2897230576
+- https://openalex.org/W2899491031
+- https://openalex.org/W2899604332
+- https://openalex.org/W2900206120
+- https://openalex.org/W2900243258
+- https://openalex.org/W2900298334
+- https://openalex.org/W2900582237
+- https://openalex.org/W2903814341
+- https://openalex.org/W2904787157
+- https://openalex.org/W2910705748
+- https://openalex.org/W2912213068
+- https://openalex.org/W2912664121
+- https://openalex.org/W2913279579
+- https://openalex.org/W2913292358
+- https://openalex.org/W2914570111
+- https://openalex.org/W2915126261
+- https://openalex.org/W2919115771
+- https://openalex.org/W2922901657
+- https://openalex.org/W2923212559
+- https://openalex.org/W2925321904
+- https://openalex.org/W2929753309
+- https://openalex.org/W2941964694
+- https://openalex.org/W2943951921
+- https://openalex.org/W2946185430
+- https://openalex.org/W2947263797
+- https://openalex.org/W2947706148
+- https://openalex.org/W2948025379
+- https://openalex.org/W2948930564
+- https://openalex.org/W2949522309
+- https://openalex.org/W2951505611
+- https://openalex.org/W2952234052
+- https://openalex.org/W2952952194
+- https://openalex.org/W2953441164
+- https://openalex.org/W2956228567
+- https://openalex.org/W2959170286
+- https://openalex.org/W2959200884
+- https://openalex.org/W2961602927
+- https://openalex.org/W2962825119
+- https://openalex.org/W2962837118
+- https://openalex.org/W2962900979
+- https://openalex.org/W2962914239
+- https://openalex.org/W2963125010
+- https://openalex.org/W2963395421
+- https://openalex.org/W2963420686
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963466845
+- https://openalex.org/W2963524571
+- https://openalex.org/W2963548592
+- https://openalex.org/W2963606038
+- https://openalex.org/W2963891322
+- https://openalex.org/W2963908753
+- https://openalex.org/W2964059111
+- https://openalex.org/W2964132985
+- https://openalex.org/W2964137552
+- https://openalex.org/W2964175939
+- https://openalex.org/W2964212578
+- https://openalex.org/W2964317695
+- https://openalex.org/W2967444033
+- https://openalex.org/W2967967941
+- https://openalex.org/W2970202650
+- https://openalex.org/W2970854840
+- https://openalex.org/W2971013993
+- https://openalex.org/W2971561076
+- https://openalex.org/W2972260430
+- https://openalex.org/W2974837498
+- https://openalex.org/W2977118703
+- https://openalex.org/W2978882452
+- https://openalex.org/W2979410457
+- https://openalex.org/W2979431884
+- https://openalex.org/W2979447087
+- https://openalex.org/W2979494820
+- https://openalex.org/W2979637109
+- https://openalex.org/W2979640220
+- https://openalex.org/W2979708377
+- https://openalex.org/W2979847772
+- https://openalex.org/W2979966119
+- https://openalex.org/W2980246484
+- https://openalex.org/W2980311233
+- https://openalex.org/W2980661348
+- https://openalex.org/W2982440944
+- https://openalex.org/W2986668407
+- https://openalex.org/W2986785750
+- https://openalex.org/W2989692526
+- https://openalex.org/W2990273940
+- https://openalex.org/W2990366895
+- https://openalex.org/W2990368613
+- https://openalex.org/W2995138985
+- https://openalex.org/W2995162454
+- https://openalex.org/W2995225687
+- https://openalex.org/W2997816193
+- https://openalex.org/W2999091210
+- https://openalex.org/W2999171691
+- https://openalex.org/W2999399991
+- https://openalex.org/W2999727266
+- https://openalex.org/W3000948500
+- https://openalex.org/W3004053956
+- https://openalex.org/W3007100994
+- https://openalex.org/W3007743770
+- https://openalex.org/W3009791801
+- https://openalex.org/W3010414725
+- https://openalex.org/W3011810856
+- https://openalex.org/W3013056581
+- https://openalex.org/W3014795415
+- https://openalex.org/W3014974815
+- https://openalex.org/W3015922642
+- https://openalex.org/W3019336217
+- https://openalex.org/W3021214012
+- https://openalex.org/W3022092973
+- https://openalex.org/W3022596695
+- https://openalex.org/W3025576489
+- https://openalex.org/W3025885500
+- https://openalex.org/W3028394061
+- https://openalex.org/W3033671339
+- https://openalex.org/W3037024761
+- https://openalex.org/W3037286432
+- https://openalex.org/W3037517826
+- https://openalex.org/W3040685212
+- https://openalex.org/W3044738747
+- https://openalex.org/W3049070089
+- https://openalex.org/W3081573058
+- https://openalex.org/W3089778897
+- https://openalex.org/W3091852954
+- https://openalex.org/W3092298915
+- https://openalex.org/W3092411102
+- https://openalex.org/W3094638381
+- https://openalex.org/W3094672651
+- https://openalex.org/W3098046820
+- https://openalex.org/W3098325931
+- https://openalex.org/W3098754093
+- https://openalex.org/W3098848838
+- https://openalex.org/W3098977020
+- https://openalex.org/W3099147628
+- https://openalex.org/W3099561884
+- https://openalex.org/W3100084586
+- https://openalex.org/W3101156210
+- https://openalex.org/W3101333263
+- https://openalex.org/W3103351005
+- https://openalex.org/W3104164805
+- https://openalex.org/W3104810384
+- https://openalex.org/W3105164764
+- https://openalex.org/W3105186204
+- https://openalex.org/W3105445034
+- https://openalex.org/W3105747145
+- https://openalex.org/W3105821574
+- https://openalex.org/W3106033385
+- https://openalex.org/W3106437781
+- https://openalex.org/W3112701542
+- https://openalex.org/W3127107873
+- https://openalex.org/W3203801990
+- https://openalex.org/W3210384128
+- https://openalex.org/W4214627933
+- https://openalex.org/W4239905806
+- https://openalex.org/W4241074797
+- https://openalex.org/W4244821078
+- https://openalex.org/W4247765127
+- https://openalex.org/W4286419982
+- https://openalex.org/W4287712729
+- https://openalex.org/W4297687186
+- https://openalex.org/W4297775537
+- https://openalex.org/W4297922551
+- https://openalex.org/W4299370070
+- https://openalex.org/W4306412607
+- https://openalex.org/W4309845474
+- https://openalex.org/W4320013936
+- https://openalex.org/W4394659038
+- https://openalex.org/W582134693
+- https://openalex.org/W631225344
+- https://openalex.org/W634138163
+primary_topic: Radiomics and Machine Learning in Medical Imaging
+open_access: true

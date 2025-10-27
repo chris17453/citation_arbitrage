@@ -1,0 +1,313 @@
+id: https://openalex.org/W2999044305
+doi: https://doi.org/10.1038/s41586-019-1923-7
+title: Improved protein structure prediction using potentials from deep learning
+publication_date: '2020-01-15'
+publication_year: 2020
+cited_by_count: 3124
+citation_percentile: 0.999983
+pagerank: 2.843488647354234e-06
+authorships:
+- author_id: https://openalex.org/A5079708487
+  display_name: Andrew Senior
+  orcid: https://orcid.org/0000-0002-2401-5691
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5017082774
+  display_name: K Taki
+  orcid: https://orcid.org/0000-0003-4675-8469
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5059179935
+  display_name: John Jumper
+  orcid: https://orcid.org/0000-0001-6169-6580
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5102954368
+  display_name: James Kirkpatrick
+  orcid: https://orcid.org/0000-0002-6344-8190
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5053301405
+  display_name: Laurent Sifre
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5101569668
+  display_name: Tim Green
+  orcid: https://orcid.org/0000-0002-3227-1505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5076073500
+  display_name: Chongli Qin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5009567462
+  display_name: "Augustin \u017D\xEDdek"
+  orcid: https://orcid.org/0000-0002-0748-9684
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5039904333
+  display_name: Alexander Nelson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5027154958
+  display_name: Alex Bridgland
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5049173481
+  display_name: Hugo Penedones
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5050109164
+  display_name: Stig Petersen
+  orcid: https://orcid.org/0000-0002-5043-2325
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5004625775
+  display_name: Karen Simonyan
+  orcid: https://orcid.org/0000-0003-0787-5507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5079439391
+  display_name: Steve Crossan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5013834379
+  display_name: Pushmeet Kohli
+  orcid: https://orcid.org/0000-0002-7466-7997
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5068654082
+  display_name: David T. Jones
+  orcid: https://orcid.org/0000-0001-8626-3765
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801081054
+    display_name: The Francis Crick Institute
+    ror: https://ror.org/04tnbqb63
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Francis Crick Institute, London, UK
+- author_id: https://openalex.org/A5091771290
+  display_name: David Silver
+  orcid: https://orcid.org/0000-0002-5197-2892
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5090341705
+  display_name: Koray Kavukcuoglu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5005349213
+  display_name: Demis Hassabis
+  orcid: https://orcid.org/0000-0003-2812-9917
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+referenced_works:
+- https://openalex.org/W1955046737
+- https://openalex.org/W1967292572
+- https://openalex.org/W1970973025
+- https://openalex.org/W1976666280
+- https://openalex.org/W1989777815
+- https://openalex.org/W2008545402
+- https://openalex.org/W2008708467
+- https://openalex.org/W2014050554
+- https://openalex.org/W2024060531
+- https://openalex.org/W2032050148
+- https://openalex.org/W2051210555
+- https://openalex.org/W2051434435
+- https://openalex.org/W2052935924
+- https://openalex.org/W2053069893
+- https://openalex.org/W2060421713
+- https://openalex.org/W2082667898
+- https://openalex.org/W2095705004
+- https://openalex.org/W2102245393
+- https://openalex.org/W2107867854
+- https://openalex.org/W2109801072
+- https://openalex.org/W2114340287
+- https://openalex.org/W2127793522
+- https://openalex.org/W2129020329
+- https://openalex.org/W2130479394
+- https://openalex.org/W2132275076
+- https://openalex.org/W2136799255
+- https://openalex.org/W2140564438
+- https://openalex.org/W2140673705
+- https://openalex.org/W2146134187
+- https://openalex.org/W2154106236
+- https://openalex.org/W2158714788
+- https://openalex.org/W2161151688
+- https://openalex.org/W2166701319
+- https://openalex.org/W2194775991
+- https://openalex.org/W2213268248
+- https://openalex.org/W2557595285
+- https://openalex.org/W2558272290
+- https://openalex.org/W2567587907
+- https://openalex.org/W2765742208
+- https://openalex.org/W2766710027
+- https://openalex.org/W2783006100
+- https://openalex.org/W2801109052
+- https://openalex.org/W2902663357
+- https://openalex.org/W2949197630
+- https://openalex.org/W2949867299
+- https://openalex.org/W2953384591
+- https://openalex.org/W2960589734
+- https://openalex.org/W2962831078
+- https://openalex.org/W2967999860
+- https://openalex.org/W2968295962
+- https://openalex.org/W2971003495
+- https://openalex.org/W2980272550
+- https://openalex.org/W3199799076
+- https://openalex.org/W4241935390
+primary_topic: Protein Structure and Dynamics
+open_access: false

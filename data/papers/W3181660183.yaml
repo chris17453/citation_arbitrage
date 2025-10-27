@@ -1,0 +1,559 @@
+id: https://openalex.org/W3181660183
+doi: https://doi.org/10.1038/s41592-021-01197-1
+title: 'Mass spectrometry-based metabolomics: a guide for annotation, quantification
+  and best reporting practices'
+publication_date: '2021-07-01'
+publication_year: 2021
+cited_by_count: 821
+citation_percentile: 0.999796
+pagerank: 2.557511357001674e-06
+authorships:
+- author_id: https://openalex.org/A5000498952
+  display_name: Saleh Alseekh
+  orcid: https://orcid.org/0000-0003-2067-5235
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210105972
+    display_name: Max Planck Institute of Molecular Plant Physiology
+    ror: https://ror.org/01fbde567
+    country_code: DE
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm, Germany
+- author_id: https://openalex.org/A5026316454
+  display_name: Asaph Aharoni
+  orcid: https://orcid.org/0000-0002-6077-1590
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I53964585
+    display_name: Weizmann Institute of Science
+    ror: https://ror.org/0316ej306
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Plant and Environmental Sciences, Weizmann Institute of Science,
+    Rehovot, Israel
+- author_id: https://openalex.org/A5081870300
+  display_name: Yariv Brotman
+  orcid: https://orcid.org/0000-0001-6573-7845
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124227911
+    display_name: Ben-Gurion University of the Negev
+    ror: https://ror.org/05tkyf982
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Life Sciences, Ben Gurion University of the Negev, Beersheva, Israel
+- author_id: https://openalex.org/A5062579994
+  display_name: "K\xE9vin Contrepois"
+  orcid: https://orcid.org/0000-0001-9678-5161
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, Stanford University School of Medicine, Stanford, CA,
+    USA
+- author_id: https://openalex.org/A5041590573
+  display_name: "John C. D\u2019Auria"
+  orcid: https://orcid.org/0000-0002-4865-3938
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127902
+    display_name: Leibniz Institute of Plant Genetics and Crop Plant Research
+    ror: https://ror.org/02skbsp27
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben,
+    Germany
+- author_id: https://openalex.org/A5063818297
+  display_name: Jan Ewald
+  orcid: https://orcid.org/0000-0002-9415-2317
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76198965
+    display_name: Friedrich Schiller University Jena
+    ror: https://ror.org/05qpz1x62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, University of Jena, Jena, Germany
+- author_id: https://openalex.org/A5081524879
+  display_name: Jennifer C. Ewald
+  orcid: https://orcid.org/0000-0003-1822-4988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Interfaculty Institute of Cell Biology, Eberhard Karls University of Tuebingen,
+    Tuebingen, Germany
+- author_id: https://openalex.org/A5062646364
+  display_name: Paul D. Fraser
+  orcid: https://orcid.org/0000-0002-5953-8900
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I184558857
+    display_name: Royal Holloway University of London
+    ror: https://ror.org/04g2vpn86
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biological Sciences, Royal Holloway University of London, Egham, UK
+- author_id: https://openalex.org/A5013171903
+  display_name: Patrick Giavalisco
+  orcid: https://orcid.org/0000-0002-4636-1827
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153965
+    display_name: Max Planck Institute for Biology of Ageing
+    ror: https://ror.org/04xx1tc24
+    country_code: DE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute for Biology of Ageing, Cologne, Germany
+- author_id: https://openalex.org/A5063356916
+  display_name: Robert D. Hall
+  orcid: https://orcid.org/0000-0002-5786-768X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I913481162
+    display_name: Wageningen University & Research
+    ror: https://ror.org/04qw24q55
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BU Bioscience, Wageningen Research, Wageningen, the Netherlands
+- author_id: https://openalex.org/A5038031436
+  display_name: Matthias Heinemann
+  orcid: https://orcid.org/0000-0002-5512-9077
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Systems Biology, Groningen Biomolecular Sciences and Biotechnology Institute,
+    University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5023301010
+  display_name: Hannes Link
+  orcid: https://orcid.org/0000-0002-6677-555X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210166203
+    display_name: Max Planck Institute for Terrestrial Microbiology
+    ror: https://ror.org/05r7n9c40
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute for Terrestrial Microbiology, Marburg, Germany
+- author_id: https://openalex.org/A5113192518
+  display_name: Jie Luo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20942203
+    display_name: Hainan University
+    ror: https://ror.org/03q648j11
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Tropical Crops, Hainan University, Haikou, China
+- author_id: https://openalex.org/A5038786156
+  display_name: Steffen Neumann
+  orcid: https://orcid.org/0000-0002-7899-7192
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210110463
+    display_name: Leibniz Institute of Plant Biochemistry
+    ror: https://ror.org/01mzk5576
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics and Scientific Data, Leibniz Institute for Plant Biochemistry,
+    Halle, Germany
+- author_id: https://openalex.org/A5083238115
+  display_name: Jens Nielsen
+  orcid: https://orcid.org/0000-0002-9955-6003
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146628
+    display_name: BioInnovation Institute
+    ror: https://ror.org/048b3qc73
+    country_code: DK
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioInnovation Institute, Copenhagen, Denmark
+- author_id: https://openalex.org/A5068402866
+  display_name: Leonardo Perez de Souza
+  orcid: https://orcid.org/0000-0002-7200-8808
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105972
+    display_name: Max Planck Institute of Molecular Plant Physiology
+    ror: https://ror.org/01fbde567
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm, Germany
+- author_id: https://openalex.org/A5052696406
+  display_name: Kazuki Saito
+  orcid: https://orcid.org/0000-0001-6310-5342
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I159385669
+    display_name: Chiba University
+    ror: https://ror.org/01hjzeq58
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Plant Molecular Science Center, Chiba University, Chiba, Japan
+- author_id: https://openalex.org/A5014164691
+  display_name: Uwe Sauer
+  orcid: https://orcid.org/0000-0002-5923-0770
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Systems Biology, ETH Zurich, Zurich, Switzerland
+- author_id: https://openalex.org/A5078783207
+  display_name: Frank C. Schroeder
+  orcid: https://orcid.org/0000-0002-4420-0237
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boyce Thompson Institute and Department of Chemistry and Chemical Biology, Cornell
+    University, Ithaca, NY, USA
+- author_id: https://openalex.org/A5101433039
+  display_name: Stefan Schuster
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76198965
+    display_name: Friedrich Schiller University Jena
+    ror: https://ror.org/05qpz1x62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics, University of Jena, Jena, Germany
+- author_id: https://openalex.org/A5067311581
+  display_name: Gary Siuzdak
+  orcid: https://orcid.org/0000-0002-4749-0014
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123431417
+    display_name: Scripps Research Institute
+    ror: https://ror.org/02dxx6824
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Metabolomics and Mass Spectrometry, Scripps Research Institute, La
+    Jolla, CA, USA
+- author_id: https://openalex.org/A5016778149
+  display_name: Aleksandra Skirycz
+  orcid: https://orcid.org/0000-0002-7627-7925
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boyce Thompson Institute and Department of Chemistry and Chemical Biology, Cornell
+    University, Ithaca, NY, USA
+- author_id: https://openalex.org/A5056350822
+  display_name: Lloyd W. Sumner
+  orcid: https://orcid.org/0000-0002-4086-663X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76835614
+    display_name: University of Missouri
+    ror: https://ror.org/02ymw8z06
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and MU Metabolomics Center, University of Missouri,
+    Columbia, MO, USA
+- author_id: https://openalex.org/A5024120181
+  display_name: M Snyder
+  orcid: https://orcid.org/0000-0003-0784-7987
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, Stanford University School of Medicine, Stanford, CA,
+    USA
+- author_id: https://openalex.org/A5069413008
+  display_name: Huiru Tang
+  orcid: https://orcid.org/0000-0002-7139-2756
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4391768242
+    display_name: State Key Laboratory of Genetic Engineering
+    ror: https://ror.org/01n3rg866
+    country_code: null
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Genetic Engineering, Zhongshan Hospital and School of
+    Life Sciences, Human Phenome Institute, Metabonomics and Systems Biology Laboratory
+    at Shanghai International Centre for Molecular Phenomics, Fudan University, Shanghai,
+    China
+- author_id: https://openalex.org/A5088735018
+  display_name: Takayuki Tohge
+  orcid: https://orcid.org/0000-0001-5555-5650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I75917431
+    display_name: Nara Institute of Science and Technology
+    ror: https://ror.org/05bhada84
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Science, Nara Institute of Science and Technology, Ikoma,
+    Japan
+- author_id: https://openalex.org/A5100661959
+  display_name: Yulan Wang
+  orcid: https://orcid.org/0000-0002-2831-8737
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Singapore Phenome Center, Lee Kong Chian School of Medicine, School of Biological
+    Sciences, Nanyang Technological University, Nanyang, Singapore
+- author_id: https://openalex.org/A5051524435
+  display_name: Weiwei Wen
+  orcid: https://orcid.org/0000-0002-3413-4766
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204823248
+    display_name: Huazhong Agricultural University
+    ror: https://ror.org/023b72294
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Horticultural Plant Biology (MOE), College of Horticulture and
+    Forestry Sciences, Huazhong Agricultural University, Wuhan, China
+- author_id: https://openalex.org/A5033836561
+  display_name: Si Wu
+  orcid: https://orcid.org/0000-0001-8050-7167
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, Stanford University School of Medicine, Stanford, CA,
+    USA
+- author_id: https://openalex.org/A5031458824
+  display_name: Guowang Xu
+  orcid: https://orcid.org/0000-0003-4298-3554
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180585399
+    display_name: Dalian Institute of Chemical Physics
+    ror: https://ror.org/00prkya54
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Separation Science for Analytical Chemistry, Dalian Institute
+    of Chemical Physics, Chinese Academy of Sciences, Dalian, China
+- author_id: https://openalex.org/A5089920309
+  display_name: Nicola Zamboni
+  orcid: https://orcid.org/0000-0003-1271-1021
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Systems Biology, ETH Zurich, Zurich, Switzerland
+- author_id: https://openalex.org/A5082852942
+  display_name: Alisdair R. Fernie
+  orcid: https://orcid.org/0000-0001-9000-335X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210086650
+    display_name: Center of Plant Systems Biology and Biotechnology
+    ror: https://ror.org/0020pnp42
+    country_code: BG
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Plants Systems Biology and Biotechnology, Plovdiv, Bulgaria
+referenced_works:
+- https://openalex.org/W1509926796
+- https://openalex.org/W1538574688
+- https://openalex.org/W1611854178
+- https://openalex.org/W1960974681
+- https://openalex.org/W1965645988
+- https://openalex.org/W1965920457
+- https://openalex.org/W1971606140
+- https://openalex.org/W1975615266
+- https://openalex.org/W1978813965
+- https://openalex.org/W1981509058
+- https://openalex.org/W1987142903
+- https://openalex.org/W1997784050
+- https://openalex.org/W2006317824
+- https://openalex.org/W2006947703
+- https://openalex.org/W2007091097
+- https://openalex.org/W2010847239
+- https://openalex.org/W2020564966
+- https://openalex.org/W2023535481
+- https://openalex.org/W2028240481
+- https://openalex.org/W2032115591
+- https://openalex.org/W2034309799
+- https://openalex.org/W2034873249
+- https://openalex.org/W2035940511
+- https://openalex.org/W2046965677
+- https://openalex.org/W2050100306
+- https://openalex.org/W2054339391
+- https://openalex.org/W2060733138
+- https://openalex.org/W2064988047
+- https://openalex.org/W2069928158
+- https://openalex.org/W2071790069
+- https://openalex.org/W2077545398
+- https://openalex.org/W2079554237
+- https://openalex.org/W2079609797
+- https://openalex.org/W2095462420
+- https://openalex.org/W2095684725
+- https://openalex.org/W2101098894
+- https://openalex.org/W2103239798
+- https://openalex.org/W2103795997
+- https://openalex.org/W2111115065
+- https://openalex.org/W2114370721
+- https://openalex.org/W2115382253
+- https://openalex.org/W2115507180
+- https://openalex.org/W2115831900
+- https://openalex.org/W2119726180
+- https://openalex.org/W2121388578
+- https://openalex.org/W2121574075
+- https://openalex.org/W2128307328
+- https://openalex.org/W2139138803
+- https://openalex.org/W2140695271
+- https://openalex.org/W2142140748
+- https://openalex.org/W2149617981
+- https://openalex.org/W2159511040
+- https://openalex.org/W2162539049
+- https://openalex.org/W2164339823
+- https://openalex.org/W2181471414
+- https://openalex.org/W2296877449
+- https://openalex.org/W2299824834
+- https://openalex.org/W2334617819
+- https://openalex.org/W2397545422
+- https://openalex.org/W2483024785
+- https://openalex.org/W2508694782
+- https://openalex.org/W2529689461
+- https://openalex.org/W2556428520
+- https://openalex.org/W2557270017
+- https://openalex.org/W2558428302
+- https://openalex.org/W2577168473
+- https://openalex.org/W2608815200
+- https://openalex.org/W2614935527
+- https://openalex.org/W2759859016
+- https://openalex.org/W2760339615
+- https://openalex.org/W2767683865
+- https://openalex.org/W2767955262
+- https://openalex.org/W2793744420
+- https://openalex.org/W2795425364
+- https://openalex.org/W2797100077
+- https://openalex.org/W2802473898
+- https://openalex.org/W2804459982
+- https://openalex.org/W2809464809
+- https://openalex.org/W2810895840
+- https://openalex.org/W2902733144
+- https://openalex.org/W2906914952
+- https://openalex.org/W2913028692
+- https://openalex.org/W2916376502
+- https://openalex.org/W2924756238
+- https://openalex.org/W2950304422
+- https://openalex.org/W2950625953
+- https://openalex.org/W2951891306
+- https://openalex.org/W2981552290
+- https://openalex.org/W2994650772
+- https://openalex.org/W3025883815
+- https://openalex.org/W3049190563
+- https://openalex.org/W3080789666
+- https://openalex.org/W3099074835
+- https://openalex.org/W4211085285
+- https://openalex.org/W4232669324
+- https://openalex.org/W4294326454
+primary_topic: Metabolomics and Mass Spectrometry Studies
+open_access: true

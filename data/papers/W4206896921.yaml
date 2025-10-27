@@ -1,0 +1,1273 @@
+id: https://openalex.org/W4206896921
+doi: https://doi.org/10.1016/j.cell.2022.01.014
+title: Multiple early factors anticipate post-acute COVID-19 sequelae
+publication_date: '2022-01-25'
+publication_year: 2022
+cited_by_count: 984
+citation_percentile: 0.999925
+pagerank: 2.5362658068821463e-06
+authorships:
+- author_id: https://openalex.org/A5073047339
+  display_name: Yapeng Su
+  orcid: https://orcid.org/0000-0002-6305-8467
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Clinical Research Division, Program in Immunology, Fred Hutchinson Cancer Research
+    Center, Seattle, WA 98109, USA
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5100747820
+  display_name: Dan Yuan
+  orcid: https://orcid.org/0000-0001-9651-8020
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of Washington, Seattle, WA 98105, USA
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5100696399
+  display_name: Daniel Chen
+  orcid: https://orcid.org/0000-0001-6660-6257
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Department of Informatics, University of Washington,
+    Seattle, WA 98195, USA
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5113567130
+  display_name: Raymond T. Ng
+  orcid: https://orcid.org/0000-0003-3692-8524
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of Washington, Seattle, WA 98105, USA
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5100437036
+  display_name: Kai Wang
+  orcid: https://orcid.org/0000-0002-6170-4744
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5102801051
+  display_name: Jongchan Choi
+  orcid: https://orcid.org/0000-0003-0394-9978
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5035807877
+  display_name: Sarah Li
+  orcid: https://orcid.org/0000-0002-6424-5483
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5005860238
+  display_name: Sunga Hong
+  orcid: https://orcid.org/0000-0003-4412-2811
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5101803268
+  display_name: Rongyu Zhang
+  orcid: https://orcid.org/0000-0001-7361-9152
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of Washington, Seattle, WA 98105, USA
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5004074885
+  display_name: Jingyi Xie
+  orcid: https://orcid.org/0000-0002-8959-4268
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+  - Molecular Engineering & Sciences Institute, University of Washington, Seattle,
+    WA 98105, USA
+- author_id: https://openalex.org/A5086494262
+  display_name: Sergey A. Kornilov
+  orcid: https://orcid.org/0000-0002-8378-110X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5041370713
+  display_name: Kelsey Scherler
+  orcid: https://orcid.org/0000-0001-5955-5391
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5027467570
+  display_name: Ana Jimena Pavlovitch-Bedzyk
+  orcid: https://orcid.org/0000-0003-1021-3635
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Immunity, Transplantation and Infection, Stanford University School
+    of Medicine, Stanford, CA 94305, USA
+- author_id: https://openalex.org/A5038216864
+  display_name: Shen Dong
+  orcid: https://orcid.org/0000-0001-8839-7046
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Diabetes Center, University of California, San Francisco, San Francisco, CA 94143,
+    USA
+- author_id: https://openalex.org/A5037957654
+  display_name: Christopher Lausted
+  orcid: https://orcid.org/0000-0003-3073-9212
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5089827354
+  display_name: Inyoul Lee
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5033091883
+  display_name: Shannon Fallen
+  orcid: https://orcid.org/0000-0003-0833-0613
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5060832423
+  display_name: Chengzhen L. Dai
+  orcid: https://orcid.org/0000-0002-3073-211X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5047843839
+  display_name: Priyanka Baloni
+  orcid: https://orcid.org/0000-0002-3382-4941
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5101687211
+  display_name: Brett Smith
+  orcid: https://orcid.org/0000-0002-2586-5014
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5026851154
+  display_name: Venkata R. Duvvuri
+  orcid: https://orcid.org/0000-0001-7356-338X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5072551415
+  display_name: Kristin G. Anderson
+  orcid: https://orcid.org/0000-0001-9263-4438
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Research Division, Program in Immunology, Fred Hutchinson Cancer Research
+    Center, Seattle, WA 98109, USA
+  - Departments of Immunology and Medicine, University of Washington, Seattle, WA
+    98109, USA
+- author_id: https://openalex.org/A5100336830
+  display_name: Jing Li
+  orcid: https://orcid.org/0000-0001-9588-5291
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Immunity, Transplantation and Infection, Stanford University School
+    of Medicine, Stanford, CA 94305, USA
+- author_id: https://openalex.org/A5035880695
+  display_name: Fan Yang
+  orcid: https://orcid.org/0000-0003-4821-6583
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Stanford University, Stanford, CA 94304, USA
+- author_id: https://openalex.org/A5063589047
+  display_name: Caroline J. Duncombe
+  orcid: https://orcid.org/0000-0002-4356-6317
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Global Health, University of Washington, Seattle, WA 98105, USA
+- author_id: https://openalex.org/A5053484297
+  display_name: Denise J. McCulloch
+  orcid: https://orcid.org/0000-0001-8755-6105
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Allergy and Infectious Diseases, Department of Medicine, University
+    of Washington, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5090106715
+  display_name: Clifford Rostomily
+  orcid: https://orcid.org/0000-0001-9550-6538
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5037345271
+  display_name: Pamela Troisch
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5103210384
+  display_name: Jing Zhou
+  orcid: https://orcid.org/0000-0001-6190-8053
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156267
+    display_name: IsoPlexis (United States)
+    ror: https://ror.org/052e10e62
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isoplexis Corporation, Branford, CT 06405, USA
+- author_id: https://openalex.org/A5043685783
+  display_name: Sean Mackay
+  orcid: https://orcid.org/0009-0006-4030-916X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156267
+    display_name: IsoPlexis (United States)
+    ror: https://ror.org/052e10e62
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isoplexis Corporation, Branford, CT 06405, USA
+- author_id: https://openalex.org/A5063339624
+  display_name: Quinn DeGottardi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106996
+    display_name: Adaptive Biotechnologies (United States)
+    ror: https://ror.org/01gbt6a54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Adaptive Biotechnologies, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5019063351
+  display_name: Damon May
+  orcid: https://orcid.org/0000-0001-6902-3153
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106996
+    display_name: Adaptive Biotechnologies (United States)
+    ror: https://ror.org/01gbt6a54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Adaptive Biotechnologies, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5056984628
+  display_name: Ruth Taniguchi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106996
+    display_name: Adaptive Biotechnologies (United States)
+    ror: https://ror.org/01gbt6a54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Adaptive Biotechnologies, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5010064754
+  display_name: Rachel Gittelman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106996
+    display_name: Adaptive Biotechnologies (United States)
+    ror: https://ror.org/01gbt6a54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Adaptive Biotechnologies, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5022565348
+  display_name: Mark Klinger
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106996
+    display_name: Adaptive Biotechnologies (United States)
+    ror: https://ror.org/01gbt6a54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Adaptive Biotechnologies, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5065179188
+  display_name: Thomas M. Snyder
+  orcid: https://orcid.org/0000-0001-7256-7821
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106996
+    display_name: Adaptive Biotechnologies (United States)
+    ror: https://ror.org/01gbt6a54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Adaptive Biotechnologies, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5032085445
+  display_name: Ryan Roper
+  orcid: https://orcid.org/0000-0003-0086-7029
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5071224434
+  display_name: Gladys Wojciechowska
+  orcid: https://orcid.org/0000-0001-9890-8794
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I146122375
+    display_name: "Medical University of Bia\u0142ystok"
+    ror: https://ror.org/00y4ya841
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+  - "Medical University of Bia\u0142ystok, Bia\u0142ystok 15089, Poland"
+- author_id: https://openalex.org/A5037554437
+  display_name: Kim M. Murray
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5082314978
+  display_name: Rick Edmark
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5103158963
+  display_name: Simon Evans
+  orcid: https://orcid.org/0000-0001-7875-9445
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5012650060
+  display_name: Lesley Jones
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5102765163
+  display_name: Yong Zhou
+  orcid: https://orcid.org/0000-0001-7643-5455
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5105789017
+  display_name: Lee Rowen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5101661551
+  display_name: Rachel Liu
+  orcid: https://orcid.org/0000-0002-3997-0325
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5036939402
+  display_name: William Chour
+  orcid: https://orcid.org/0000-0003-1817-0123
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5055557057
+  display_name: Heather A. Algren
+  orcid: https://orcid.org/0000-0003-0703-1873
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210130773
+    display_name: St. Joseph Health System
+    ror: https://ror.org/03t995d97
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Providence St. Joseph Health, Renton, WA 98057, USA
+  - Swedish Center for Research and Innovation, Swedish Medical Center, Seattle, WA
+    98109, USA
+- author_id: https://openalex.org/A5021572343
+  display_name: William R. Berrington
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210130773
+    display_name: St. Joseph Health System
+    ror: https://ror.org/03t995d97
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Providence St. Joseph Health, Renton, WA 98057, USA
+  - Swedish Center for Research and Innovation, Swedish Medical Center, Seattle, WA
+    98109, USA
+- author_id: https://openalex.org/A5003823652
+  display_name: Julie A. Wallick
+  orcid: https://orcid.org/0000-0002-4568-4704
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210130773
+    display_name: St. Joseph Health System
+    ror: https://ror.org/03t995d97
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Providence St. Joseph Health, Renton, WA 98057, USA
+  - Swedish Center for Research and Innovation, Swedish Medical Center, Seattle, WA
+    98109, USA
+- author_id: https://openalex.org/A5051006317
+  display_name: Rebecca A. Cochran
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210130773
+    display_name: St. Joseph Health System
+    ror: https://ror.org/03t995d97
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Providence St. Joseph Health, Renton, WA 98057, USA
+  - Swedish Center for Research and Innovation, Swedish Medical Center, Seattle, WA
+    98109, USA
+- author_id: https://openalex.org/A5087350091
+  display_name: Mary Micikas
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210130773
+    display_name: St. Joseph Health System
+    ror: https://ror.org/03t995d97
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Providence St. Joseph Health, Renton, WA 98057, USA
+  - Swedish Center for Research and Innovation, Swedish Medical Center, Seattle, WA
+    98109, USA
+- author_id: https://openalex.org/A5034553895
+  display_name: Terri Wrin
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monogram Biosciences, South San Francisco, CA 94080, USA
+- author_id: https://openalex.org/A5042931433
+  display_name: Christos J. Petropoulos
+  orcid: https://orcid.org/0000-0001-5496-8090
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monogram Biosciences, South San Francisco, CA 94080, USA
+- author_id: https://openalex.org/A5053865314
+  display_name: Hunter Cole
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140353
+    display_name: St. John's School
+    ror: https://ror.org/03e4a0h58
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210104056
+    display_name: Saint John's Health Center
+    ror: https://ror.org/01gcc9p15
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St. John's Cancer Institute at Saint John's Health Center, Santa Monica, CA 90404,
+    USA
+- author_id: https://openalex.org/A5040604726
+  display_name: Trevan Fischer
+  orcid: https://orcid.org/0000-0002-1522-7924
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104056
+    display_name: Saint John's Health Center
+    ror: https://ror.org/01gcc9p15
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210140353
+    display_name: St. John's School
+    ror: https://ror.org/03e4a0h58
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St. John's Cancer Institute at Saint John's Health Center, Santa Monica, CA 90404,
+    USA
+- author_id: https://openalex.org/A5100323681
+  display_name: Wei Wei
+  orcid: https://orcid.org/0000-0002-1018-7708
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5029428307
+  display_name: "Dave S.\uFFFDB. Hoon"
+  orcid: https://orcid.org/0000-0003-1915-3683
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104056
+    display_name: Saint John's Health Center
+    ror: https://ror.org/01gcc9p15
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210140353
+    display_name: St. John's School
+    ror: https://ror.org/03e4a0h58
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - St. John's Cancer Institute at Saint John's Health Center, Santa Monica, CA 90404,
+    USA
+- author_id: https://openalex.org/A5034589050
+  display_name: Nathan D. Price
+  orcid: https://orcid.org/0000-0002-4157-0267
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5090998899
+  display_name: Naeha Subramanian
+  orcid: https://orcid.org/0000-0003-3754-0521
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Global Heath and Department of Immunology, University of Washington,
+    Seattle, WA 98109, USA
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5000958441
+  display_name: Joshua A. Hill
+  orcid: https://orcid.org/0000-0002-7665-7100
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Allergy and Infectious Diseases, Department of Medicine, University
+    of Washington, Seattle, WA 98109, USA
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5048774661
+  display_name: Jennifer Hadlock
+  orcid: https://orcid.org/0000-0001-6103-7606
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5035252203
+  display_name: Andrew T. Magis
+  orcid: https://orcid.org/0000-0003-0576-677X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5083745558
+  display_name: Antoni Ribas
+  orcid: https://orcid.org/0000-0003-3669-8458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109986
+    display_name: Parker Institute for Cancer Immunotherapy
+    ror: https://ror.org/0184qbg02
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, Los Angeles, and Parker Institute
+    for Cancer Immunotherapy, Los Angeles, CA 90095, USA
+- author_id: https://openalex.org/A5000763253
+  display_name: Lewis L. Lanier
+  orcid: https://orcid.org/0000-0003-1308-3952
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109986
+    display_name: Parker Institute for Cancer Immunotherapy
+    ror: https://ror.org/0184qbg02
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Immunology, University of California, San Francisco,
+    and Parker Institute for Cancer Immunotherapy, San Francisco, CA 94143, USA
+- author_id: https://openalex.org/A5064302758
+  display_name: Scott D. Boyd
+  orcid: https://orcid.org/0000-0003-0963-044X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Stanford University, Stanford, CA 94304, USA
+- author_id: https://openalex.org/A5028331971
+  display_name: Jeffrey A. Bluestone
+  orcid: https://orcid.org/0000-0001-8793-7848
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Diabetes Center, University of California, San Francisco, San Francisco, CA 94143,
+    USA
+- author_id: https://openalex.org/A5004611421
+  display_name: Helen Y. Chu
+  orcid: https://orcid.org/0000-0001-8502-9600
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Allergy and Infectious Diseases, Department of Medicine, University
+    of Washington, Seattle, WA 98109, USA
+  - Division of Global Health, University of Washington, Seattle, WA 98105, USA
+- author_id: https://openalex.org/A5085306431
+  display_name: Leroy Hood
+  orcid: https://orcid.org/0000-0001-7158-3678
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210130773
+    display_name: St. Joseph Health System
+    ror: https://ror.org/03t995d97
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+  - Providence St. Joseph Health, Renton, WA 98057, USA
+- author_id: https://openalex.org/A5005741024
+  display_name: "Rapha\xEBl Gottardo"
+  orcid: https://orcid.org/0000-0002-3867-0232
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I97565354
+    display_name: University of Lausanne
+    ror: https://ror.org/019whta54
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Data Sciences, Lausanne University Hospital, University of Lausanne,
+    Lausanne, 1011, Switzerland
+  - Department of Statistics, University of Washington, Seattle, WA 98195, USA
+  - Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle,
+    WA 98109, USA
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5030463228
+  display_name: Philip D. Greenberg
+  orcid: https://orcid.org/0000-0003-3812-647X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Research Division, Program in Immunology, Fred Hutchinson Cancer Research
+    Center, Seattle, WA 98109, USA
+  - Departments of Immunology and Medicine, University of Washington, Seattle, WA
+    98109, USA
+- author_id: https://openalex.org/A5025539602
+  display_name: Mark M. Davis
+  orcid: https://orcid.org/0000-0001-6868-657X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Immunology, Stanford University School of Medicine,
+    Stanford, CA 94305, USA
+  - Institute for Immunity, Transplantation and Infection, Stanford University School
+    of Medicine, Stanford, CA 94305, USA
+  - The Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford,
+    CA 94305, USA
+- author_id: https://openalex.org/A5021162080
+  display_name: Jason D. Goldman
+  orcid: https://orcid.org/0000-0002-3825-6832
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210093417
+    display_name: Swedish Medical Center
+    ror: https://ror.org/004jktf35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210130773
+    display_name: St. Joseph Health System
+    ror: https://ror.org/03t995d97
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Division of Allergy and Infectious Diseases, Department of Medicine, University
+    of Washington, Seattle, WA 98109, USA
+  - Providence St. Joseph Health, Renton, WA 98057, USA
+  - Swedish Center for Research and Innovation, Swedish Medical Center, Seattle, WA
+    98109, USA
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA 98109, USA
+- author_id: https://openalex.org/A5032990625
+  display_name: James R. Heath
+  orcid: https://orcid.org/0000-0001-5356-4385
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of Washington, Seattle, WA 98105, USA
+  - Institute for Systems Biology, Seattle, WA 98109, USA
+referenced_works:
+- https://openalex.org/W1419989796
+- https://openalex.org/W1822028895
+- https://openalex.org/W1967139098
+- https://openalex.org/W1985122168
+- https://openalex.org/W2021988356
+- https://openalex.org/W2029525307
+- https://openalex.org/W2043071551
+- https://openalex.org/W2043416239
+- https://openalex.org/W2074640340
+- https://openalex.org/W2087323512
+- https://openalex.org/W2100081088
+- https://openalex.org/W2101234009
+- https://openalex.org/W2155243000
+- https://openalex.org/W2158714788
+- https://openalex.org/W2170904230
+- https://openalex.org/W2338263211
+- https://openalex.org/W2605177850
+- https://openalex.org/W2764282242
+- https://openalex.org/W2786672974
+- https://openalex.org/W2800392236
+- https://openalex.org/W2801894898
+- https://openalex.org/W2817838603
+- https://openalex.org/W2825313082
+- https://openalex.org/W2884965035
+- https://openalex.org/W2897114391
+- https://openalex.org/W2899702946
+- https://openalex.org/W2903806518
+- https://openalex.org/W2914874661
+- https://openalex.org/W2947920363
+- https://openalex.org/W2948071723
+- https://openalex.org/W2952354682
+- https://openalex.org/W2965512201
+- https://openalex.org/W2967177832
+- https://openalex.org/W2967488951
+- https://openalex.org/W2979330275
+- https://openalex.org/W2999871383
+- https://openalex.org/W3007115356
+- https://openalex.org/W3019023480
+- https://openalex.org/W3023059761
+- https://openalex.org/W3032902005
+- https://openalex.org/W3033466557
+- https://openalex.org/W3040324319
+- https://openalex.org/W3041494167
+- https://openalex.org/W3047402958
+- https://openalex.org/W3047483639
+- https://openalex.org/W3082387222
+- https://openalex.org/W3082789052
+- https://openalex.org/W3085825182
+- https://openalex.org/W3087983071
+- https://openalex.org/W3093960905
+- https://openalex.org/W3095016916
+- https://openalex.org/W3106188259
+- https://openalex.org/W3120387768
+- https://openalex.org/W3126044452
+- https://openalex.org/W3128934913
+- https://openalex.org/W3128961456
+- https://openalex.org/W3129951990
+- https://openalex.org/W3136955306
+- https://openalex.org/W3138069999
+- https://openalex.org/W3151076337
+- https://openalex.org/W3153732845
+- https://openalex.org/W3153912282
+- https://openalex.org/W3160449499
+- https://openalex.org/W3170549259
+- https://openalex.org/W3171257686
+- https://openalex.org/W3171906465
+- https://openalex.org/W3175450024
+- https://openalex.org/W3176186491
+- https://openalex.org/W3177256923
+- https://openalex.org/W3195130348
+- https://openalex.org/W3196841487
+- https://openalex.org/W3198936050
+- https://openalex.org/W3201061364
+- https://openalex.org/W3202014360
+- https://openalex.org/W3206065137
+- https://openalex.org/W4313502956
+- https://openalex.org/W4399271987
+- https://openalex.org/W4399495789
+primary_topic: Long-Term Effects of COVID-19
+open_access: true

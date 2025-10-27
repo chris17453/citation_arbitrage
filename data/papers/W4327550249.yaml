@@ -1,0 +1,220 @@
+id: https://openalex.org/W4327550249
+doi: https://doi.org/10.1126/science.ade2574
+title: Evolutionary-scale prediction of atomic-level protein structure with a language
+  model
+publication_date: '2023-03-16'
+publication_year: 2023
+cited_by_count: 2860
+citation_percentile: 0.999981
+pagerank: 2.800410502843101e-06
+authorships:
+- author_id: https://openalex.org/A5101484037
+  display_name: Zeming Lin
+  orcid: https://orcid.org/0000-0002-0883-1373
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+  - New York University, New York, NY, USA.
+- author_id: https://openalex.org/A5001757327
+  display_name: Halil Akin
+  orcid: https://orcid.org/0000-0003-1666-3223
+  author_position: middle
+  institutions: []
+  is_corresponding: true
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5035441206
+  display_name: Roshan Rao
+  orcid: https://orcid.org/0000-0003-4412-3742
+  author_position: middle
+  institutions: []
+  is_corresponding: true
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5021962955
+  display_name: Brian Hie
+  orcid: https://orcid.org/0000-0003-3224-8142
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1743320
+    display_name: Palo Alto University
+    ror: https://ror.org/04f812k67
+    country_code: US
+    type: education
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+  - Stanford University, Palo Alto, CA, USA.
+- author_id: https://openalex.org/A5026512325
+  display_name: Zhongkai Zhu
+  orcid: https://orcid.org/0000-0002-2721-1508
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5081216215
+  display_name: Wenting Lu
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5028613913
+  display_name: Nikita Smetanin
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5082335045
+  display_name: Robert Verkuil
+  orcid: https://orcid.org/0000-0001-9533-7623
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5086801064
+  display_name: Ori Kabeli
+  orcid: https://orcid.org/0000-0002-4153-2463
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5074280299
+  display_name: Yaniv Shmueli
+  orcid: https://orcid.org/0000-0002-3581-2485
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5087232751
+  display_name: Allan dos Santos Costa
+  orcid: https://orcid.org/0000-0001-8061-339X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts Institute of Technology, Cambridge, MA, USA.
+- author_id: https://openalex.org/A5053471950
+  display_name: Maryam Fazel-Zarandi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5006044037
+  display_name: Tom Sercu
+  orcid: https://orcid.org/0000-0003-2947-6064
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5079593012
+  display_name: Salvatore Candido
+  orcid: https://orcid.org/0000-0002-5847-0617
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+- author_id: https://openalex.org/A5029063409
+  display_name: Alexander Rives
+  orcid: https://orcid.org/0000-0003-2208-0796
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - FAIR, Meta AI, New York, NY, USA.
+  - New York University, New York, NY, USA.
+referenced_works:
+- https://openalex.org/W1514077080
+- https://openalex.org/W1979762151
+- https://openalex.org/W2008545402
+- https://openalex.org/W2045435533
+- https://openalex.org/W2055043387
+- https://openalex.org/W2059117301
+- https://openalex.org/W2079145130
+- https://openalex.org/W2084312697
+- https://openalex.org/W2101234009
+- https://openalex.org/W2102461176
+- https://openalex.org/W2106694138
+- https://openalex.org/W2118756701
+- https://openalex.org/W2140564438
+- https://openalex.org/W2146891463
+- https://openalex.org/W2148312059
+- https://openalex.org/W2161151688
+- https://openalex.org/W2171641243
+- https://openalex.org/W2508425869
+- https://openalex.org/W2770647690
+- https://openalex.org/W2780845733
+- https://openalex.org/W2800392236
+- https://openalex.org/W2893348872
+- https://openalex.org/W2898364362
+- https://openalex.org/W2918063357
+- https://openalex.org/W2949342052
+- https://openalex.org/W2949867299
+- https://openalex.org/W2950954328
+- https://openalex.org/W2980789587
+- https://openalex.org/W2984894304
+- https://openalex.org/W2995514860
+- https://openalex.org/W2997234557
+- https://openalex.org/W2999044305
+- https://openalex.org/W3037888463
+- https://openalex.org/W3096951695
+- https://openalex.org/W3111174583
+- https://openalex.org/W3129831491
+- https://openalex.org/W3133458480
+- https://openalex.org/W3146944767
+- https://openalex.org/W3166142427
+- https://openalex.org/W3177500196
+- https://openalex.org/W3177828909
+- https://openalex.org/W3183475563
+- https://openalex.org/W3186179742
+- https://openalex.org/W3198923619
+- https://openalex.org/W3202105508
+- https://openalex.org/W3211728297
+- https://openalex.org/W3211795435
+- https://openalex.org/W4200538065
+- https://openalex.org/W4210840673
+- https://openalex.org/W4223581484
+- https://openalex.org/W4281287617
+- https://openalex.org/W4281291878
+- https://openalex.org/W4281790889
+- https://openalex.org/W4286488966
+- https://openalex.org/W4286669150
+- https://openalex.org/W4296031103
+- https://openalex.org/W4296032638
+- https://openalex.org/W4300861364
+- https://openalex.org/W4309643848
+primary_topic: Genomics and Phylogenetic Studies
+open_access: true

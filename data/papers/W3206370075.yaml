@@ -1,0 +1,787 @@
+id: https://openalex.org/W3206370075
+doi: https://doi.org/10.1126/science.abm0829
+title: mRNA vaccines induce durable immune memory to SARS-CoV-2 and variants of concern
+publication_date: '2021-10-15'
+publication_year: 2021
+cited_by_count: 835
+citation_percentile: 0.999959
+pagerank: 2.6273980350264353e-06
+authorships:
+- author_id: https://openalex.org/A5072931739
+  display_name: Rishi R. Goel
+  orcid: https://orcid.org/0000-0003-1715-5191
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5012551799
+  display_name: Mark M. Painter
+  orcid: https://orcid.org/0000-0002-0180-2748
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5088705194
+  display_name: Sokratis A. Apostolidis
+  orcid: https://orcid.org/0000-0002-0224-0097
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Division of Rheumatology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5037836890
+  display_name: Divij Mathew
+  orcid: https://orcid.org/0000-0002-8323-7358
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5029630376
+  display_name: Wenzhao Meng
+  orcid: https://orcid.org/0000-0002-8040-7825
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology and Laboratory Medicine, University of Pennsylvania Perelman
+    School of Medicine, Philadelphia, PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5062643020
+  display_name: Aaron M. Rosenfeld
+  orcid: https://orcid.org/0000-0002-2266-0355
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology and Laboratory Medicine, University of Pennsylvania Perelman
+    School of Medicine, Philadelphia, PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5075253266
+  display_name: Kendall A. Lundgreen
+  orcid: https://orcid.org/0000-0003-2431-7152
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5015179336
+  display_name: Arnold Reynaldi
+  orcid: https://orcid.org/0000-0002-5529-5542
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kirby Institute, University of New South Wales, Sydney, NSW, Australia.
+- author_id: https://openalex.org/A5032696857
+  display_name: David S. Khoury
+  orcid: https://orcid.org/0000-0002-2663-1551
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kirby Institute, University of New South Wales, Sydney, NSW, Australia.
+- author_id: https://openalex.org/A5003176990
+  display_name: Ajinkya Pattekar
+  orcid: https://orcid.org/0000-0002-1416-1230
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+- author_id: https://openalex.org/A5029779920
+  display_name: Sigrid Gouma
+  orcid: https://orcid.org/0000-0002-7853-8340
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5088045188
+  display_name: Leticia Kuri-Cervantes
+  orcid: https://orcid.org/0000-0002-2432-9500
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5007011551
+  display_name: Philip Hicks
+  orcid: https://orcid.org/0000-0002-1574-5692
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5025086503
+  display_name: Sarah Dysinger
+  orcid: https://orcid.org/0000-0003-0687-0018
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5083035733
+  display_name: Amanda Hicks
+  orcid: https://orcid.org/0000-0002-3496-1745
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+- author_id: https://openalex.org/A5101687893
+  display_name: Harsh Sharma
+  orcid: https://orcid.org/0000-0003-2905-0266
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+- author_id: https://openalex.org/A5061484676
+  display_name: Sarah Herring
+  orcid: https://orcid.org/0000-0001-5685-0854
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+- author_id: https://openalex.org/A5075599400
+  display_name: Scott W. Korte
+  orcid: https://orcid.org/0000-0003-0214-3374
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+- author_id: https://openalex.org/A5080780873
+  display_name: Amy E. Baxter
+  orcid: https://orcid.org/0000-0002-1555-0713
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5052479584
+  display_name: Derek A. Oldridge
+  orcid: https://orcid.org/0000-0003-2177-5633
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology and Laboratory Medicine, University of Pennsylvania Perelman
+    School of Medicine, Philadelphia, PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5075157319
+  display_name: Josephine R. Giles
+  orcid: https://orcid.org/0000-0002-3713-338X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210125521
+    display_name: Translational Therapeutics (United States)
+    ror: https://ror.org/02z3rcy16
+    country_code: US
+    type: company
+  - id: https://openalex.org/I4210109986
+    display_name: Parker Institute for Cancer Immunotherapy
+    ror: https://ror.org/0184qbg02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Systems Pharmacology and Translational Therapeutics, University
+    of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+  - Parker Institute for Cancer Immunotherapy, University of Pennsylvania Perelman
+    School of Medicine, Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5000200617
+  display_name: Madison E. Weirick
+  orcid: https://orcid.org/0000-0003-2112-8102
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5017521854
+  display_name: Christopher M. McAllister
+  orcid: https://orcid.org/0000-0002-0011-4089
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5002345486
+  display_name: Moses Awofolaju
+  orcid: https://orcid.org/0000-0002-9281-6036
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5087876326
+  display_name: Nicole Tanenbaum
+  orcid: https://orcid.org/0000-0003-0626-2821
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5046964576
+  display_name: Elizabeth M. Drapeau
+  orcid: https://orcid.org/0000-0002-8243-6478
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5064414570
+  display_name: Jeanette Dougherty
+  orcid: https://orcid.org/0000-0001-9400-6240
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5084505657
+  display_name: Sherea Long
+  orcid: https://orcid.org/0000-0002-8508-8333
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5090652107
+  display_name: "Kurt D\u2019Andrea"
+  orcid: https://orcid.org/0000-0001-7005-3800
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5022161853
+  display_name: Jacob T. Hamilton
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+- author_id: https://openalex.org/A5017251529
+  display_name: M. A. McLaughlin
+  orcid: https://orcid.org/0000-0001-7697-7422
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5032213296
+  display_name: Justine C. Williams
+  orcid: https://orcid.org/0000-0001-8552-6447
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+- author_id: https://openalex.org/A5064091459
+  display_name: Sharon Adamski
+  orcid: https://orcid.org/0000-0001-5933-5292
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+- author_id: https://openalex.org/A5079242451
+  display_name: Oliva Kuthuru
+  orcid: https://orcid.org/0000-0002-9435-9764
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5067519373
+  display_name: Ian Frank
+  orcid: https://orcid.org/0000-0002-7824-0106
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Disease, University of Pennsylvania Perelman School of
+    Medicine, Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5018939650
+  display_name: Michael R. Betts
+  orcid: https://orcid.org/0000-0002-7690-1484
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5057212930
+  display_name: Laura A. Vella
+  orcid: https://orcid.org/0000-0002-8917-4845
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335321130
+    display_name: Children's Hospital of Philadelphia
+    ror: https://ror.org/01z7r7q48
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Disease, Department of Pediatrics, Children's Hospital
+    of Philadelphia, Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5083647614
+  display_name: Alba Grifoni
+  orcid: https://orcid.org/0000-0002-0369-1746
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1311191458
+    display_name: La Jolla Institute for Immunology
+    ror: https://ror.org/05vkpd318
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Disease and Vaccine Research, La Jolla Institute for Immunology
+    (LJI), La Jolla, CA, USA.
+- author_id: https://openalex.org/A5071431150
+  display_name: Daniela Weiskopf
+  orcid: https://orcid.org/0000-0003-2968-7371
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1311191458
+    display_name: La Jolla Institute for Immunology
+    ror: https://ror.org/05vkpd318
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Disease and Vaccine Research, La Jolla Institute for Immunology
+    (LJI), La Jolla, CA, USA.
+- author_id: https://openalex.org/A5010966529
+  display_name: Alessandro Sette
+  orcid: https://orcid.org/0000-0001-7013-2250
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1311191458
+    display_name: La Jolla Institute for Immunology
+    ror: https://ror.org/05vkpd318
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Infectious Disease and Vaccine Research, La Jolla Institute for Immunology
+    (LJI), La Jolla, CA, USA.
+  - Department of Medicine, Division of Infectious Diseases and Global Public Health,
+    University of California San Diego (UCSD), La Jolla, CA, USA.
+- author_id: https://openalex.org/A5032690962
+  display_name: Scott E. Hensley
+  orcid: https://orcid.org/0000-0002-2928-7506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5006896785
+  display_name: Miles P. Davenport
+  orcid: https://orcid.org/0000-0002-4751-1831
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kirby Institute, University of New South Wales, Sydney, NSW, Australia.
+- author_id: https://openalex.org/A5054030645
+  display_name: Paul Bates
+  orcid: https://orcid.org/0000-0002-3918-5976
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5023609359
+  display_name: Eline T. Luning Prak
+  orcid: https://orcid.org/0000-0002-9478-9211
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology and Laboratory Medicine, University of Pennsylvania Perelman
+    School of Medicine, Philadelphia, PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5070948793
+  display_name: Allison R. Greenplate
+  orcid: https://orcid.org/0000-0002-2614-3072
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+- author_id: https://openalex.org/A5057824723
+  display_name: E. John Wherry
+  orcid: https://orcid.org/0000-0003-0477-1956
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210125521
+    display_name: Translational Therapeutics (United States)
+    ror: https://ror.org/02z3rcy16
+    country_code: US
+    type: company
+  - id: https://openalex.org/I4210109986
+    display_name: Parker Institute for Cancer Immunotherapy
+    ror: https://ror.org/0184qbg02
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Systems Pharmacology and Translational Therapeutics, University
+    of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA.
+  - Immune Health, University of Pennsylvania Perelman School of Medicine, Philadelphia,
+    PA, USA.
+  - Institute for Immunology, University of Pennsylvania Perelman School of Medicine,
+    Philadelphia, PA, USA.
+  - Parker Institute for Cancer Immunotherapy, University of Pennsylvania Perelman
+    School of Medicine, Philadelphia, PA, USA.
+referenced_works:
+- https://openalex.org/W1965031244
+- https://openalex.org/W1987372263
+- https://openalex.org/W1996740811
+- https://openalex.org/W2029525307
+- https://openalex.org/W2033505817
+- https://openalex.org/W2151558930
+- https://openalex.org/W2170904230
+- https://openalex.org/W2277953252
+- https://openalex.org/W2510979876
+- https://openalex.org/W2513665253
+- https://openalex.org/W2745908856
+- https://openalex.org/W2750464792
+- https://openalex.org/W2808408389
+- https://openalex.org/W2811364409
+- https://openalex.org/W2891599382
+- https://openalex.org/W2995903145
+- https://openalex.org/W3025320502
+- https://openalex.org/W3041494167
+- https://openalex.org/W3042587425
+- https://openalex.org/W3045609246
+- https://openalex.org/W3047091198
+- https://openalex.org/W3087903445
+- https://openalex.org/W3096867322
+- https://openalex.org/W3111255098
+- https://openalex.org/W3113734454
+- https://openalex.org/W3121008609
+- https://openalex.org/W3121906900
+- https://openalex.org/W3122458452
+- https://openalex.org/W3131995220
+- https://openalex.org/W3133819496
+- https://openalex.org/W3134446480
+- https://openalex.org/W3135942249
+- https://openalex.org/W3136570200
+- https://openalex.org/W3137469790
+- https://openalex.org/W3139030566
+- https://openalex.org/W3142193311
+- https://openalex.org/W3155262144
+- https://openalex.org/W3157116442
+- https://openalex.org/W3157661219
+- https://openalex.org/W3158748765
+- https://openalex.org/W3163785571
+- https://openalex.org/W3165367963
+- https://openalex.org/W3167555428
+- https://openalex.org/W3172858351
+- https://openalex.org/W3173512675
+- https://openalex.org/W3176441117
+- https://openalex.org/W3177181935
+- https://openalex.org/W3178772652
+- https://openalex.org/W3179636616
+- https://openalex.org/W3182321939
+- https://openalex.org/W3182898074
+- https://openalex.org/W3183161080
+- https://openalex.org/W3184172540
+- https://openalex.org/W3186036477
+- https://openalex.org/W3186582923
+- https://openalex.org/W3188536728
+- https://openalex.org/W3190606158
+- https://openalex.org/W3191296753
+- https://openalex.org/W3191726938
+- https://openalex.org/W3193510505
+- https://openalex.org/W3195533500
+- https://openalex.org/W3196659939
+- https://openalex.org/W3199143851
+- https://openalex.org/W3201962062
+- https://openalex.org/W3202826390
+- https://openalex.org/W3216422624
+- https://openalex.org/W3217661335
+- https://openalex.org/W4205483821
+- https://openalex.org/W4221071417
+- https://openalex.org/W4226530665
+- https://openalex.org/W4353060963
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

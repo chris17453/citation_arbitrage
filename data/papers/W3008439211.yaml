@@ -1,0 +1,500 @@
+id: https://openalex.org/W3008439211
+doi: https://doi.org/10.1016/j.rse.2020.111716
+title: 'Deep learning in environmental remote sensing: Achievements and challenges'
+publication_date: '2020-02-27'
+publication_year: 2020
+cited_by_count: 1328
+citation_percentile: 0.999847
+pagerank: 2.5461380572093416e-06
+authorships:
+- author_id: https://openalex.org/A5047576305
+  display_name: Qiangqiang Yuan
+  orcid: https://orcid.org/0000-0001-7140-2224
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Innovation Center of Geospatial Technology, Wuhan, China
+  - Key Laboratory of Geospace Environment and Geodesy, Ministry of Education, Wuhan
+    University, Wuhan, China
+  - School of Geodesy and Geomatics, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5114374395
+  display_name: Huanfeng Shen
+  orcid: https://orcid.org/0000-0002-4140-1869
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Collaborative Innovation Center of Geospatial Technology, Wuhan, China
+  - School of Resource and Environmental Sciences, Wuhan University, Wuhan, China
+  - The Key Laboratory of Geographic Information System, Ministry of Education, Wuhan
+    University, Wuhan, China
+- author_id: https://openalex.org/A5048117999
+  display_name: Tongwen Li
+  orcid: https://orcid.org/0000-0001-7197-3713
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Resource and Environmental Sciences, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5100618665
+  display_name: Zhiwei Li
+  orcid: https://orcid.org/0000-0001-5635-8499
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Resource and Environmental Sciences, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5101699387
+  display_name: Shuwen Li
+  orcid: https://orcid.org/0000-0002-8822-4185
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Geodesy and Geomatics, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5101434523
+  display_name: Yun Jiang
+  orcid: https://orcid.org/0000-0001-7768-5237
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Resource and Environmental Sciences, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5017266329
+  display_name: Hongzhang Xu
+  orcid: https://orcid.org/0000-0002-6407-3917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Geodesy and Geomatics, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5014137349
+  display_name: Weiwei Tan
+  orcid: https://orcid.org/0000-0001-9443-3613
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210118728
+    display_name: State Key Laboratory of Information Engineering in Surveying Mapping
+      and Remote Sensing
+    ror: https://ror.org/02bpap860
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The State Key Laboratory of Information Engineering in Surveying, Mapping and
+    Remote Sensing, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5055558851
+  display_name: Qianqian Yang
+  orcid: https://orcid.org/0000-0002-1378-7418
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Geodesy and Geomatics, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5101881511
+  display_name: Jiwen Wang
+  orcid: https://orcid.org/0000-0001-9158-562X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Geodesy and Geomatics, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5067061049
+  display_name: Jianhao Gao
+  orcid: https://orcid.org/0000-0002-4491-1928
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Geodesy and Geomatics, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5100673818
+  display_name: Liangpei Zhang
+  orcid: https://orcid.org/0000-0001-6890-3650
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210118728
+    display_name: State Key Laboratory of Information Engineering in Surveying Mapping
+      and Remote Sensing
+    ror: https://ror.org/02bpap860
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Innovation Center of Geospatial Technology, Wuhan, China
+  - The State Key Laboratory of Information Engineering in Surveying, Mapping and
+    Remote Sensing, Wuhan University, Wuhan, China
+referenced_works:
+- https://openalex.org/W1487923163
+- https://openalex.org/W1491321328
+- https://openalex.org/W1493695866
+- https://openalex.org/W1498729378
+- https://openalex.org/W1500410627
+- https://openalex.org/W1598241312
+- https://openalex.org/W1598796236
+- https://openalex.org/W1655403841
+- https://openalex.org/W1696305814
+- https://openalex.org/W1812516979
+- https://openalex.org/W1843514792
+- https://openalex.org/W1849277567
+- https://openalex.org/W189066446
+- https://openalex.org/W1898704524
+- https://openalex.org/W1964324565
+- https://openalex.org/W1965867673
+- https://openalex.org/W1967834048
+- https://openalex.org/W1967948223
+- https://openalex.org/W1969763679
+- https://openalex.org/W1970538633
+- https://openalex.org/W1973342514
+- https://openalex.org/W1977959274
+- https://openalex.org/W1978128908
+- https://openalex.org/W1978145340
+- https://openalex.org/W1981606223
+- https://openalex.org/W1982609002
+- https://openalex.org/W1983455668
+- https://openalex.org/W1984792953
+- https://openalex.org/W1987442830
+- https://openalex.org/W1987458430
+- https://openalex.org/W1990320093
+- https://openalex.org/W1991293348
+- https://openalex.org/W1991811454
+- https://openalex.org/W1992226275
+- https://openalex.org/W1992809911
+- https://openalex.org/W1994319753
+- https://openalex.org/W1994674869
+- https://openalex.org/W2007101051
+- https://openalex.org/W2010779124
+- https://openalex.org/W2014847057
+- https://openalex.org/W2016237711
+- https://openalex.org/W2017717118
+- https://openalex.org/W2024643119
+- https://openalex.org/W2026913026
+- https://openalex.org/W2027554150
+- https://openalex.org/W2030066882
+- https://openalex.org/W2031946334
+- https://openalex.org/W2033057948
+- https://openalex.org/W2035760979
+- https://openalex.org/W2036341004
+- https://openalex.org/W2037106792
+- https://openalex.org/W2038137144
+- https://openalex.org/W2039865412
+- https://openalex.org/W2039975014
+- https://openalex.org/W2040188220
+- https://openalex.org/W2042006695
+- https://openalex.org/W2043230890
+- https://openalex.org/W2043360138
+- https://openalex.org/W2044163057
+- https://openalex.org/W2048175578
+- https://openalex.org/W2048336910
+- https://openalex.org/W2049868698
+- https://openalex.org/W2051598809
+- https://openalex.org/W2052616784
+- https://openalex.org/W2057532702
+- https://openalex.org/W2057746737
+- https://openalex.org/W2058232479
+- https://openalex.org/W2064231542
+- https://openalex.org/W2065802959
+- https://openalex.org/W2066485336
+- https://openalex.org/W2068328119
+- https://openalex.org/W2069566115
+- https://openalex.org/W2070861023
+- https://openalex.org/W2070904642
+- https://openalex.org/W2072844032
+- https://openalex.org/W2073833206
+- https://openalex.org/W2077519572
+- https://openalex.org/W2077910286
+- https://openalex.org/W2078550814
+- https://openalex.org/W2079797871
+- https://openalex.org/W2080010866
+- https://openalex.org/W2081944707
+- https://openalex.org/W2081990052
+- https://openalex.org/W2082081125
+- https://openalex.org/W2088699921
+- https://openalex.org/W2089487480
+- https://openalex.org/W2089668000
+- https://openalex.org/W2089724914
+- https://openalex.org/W2090407929
+- https://openalex.org/W2090702492
+- https://openalex.org/W2094434658
+- https://openalex.org/W2094653192
+- https://openalex.org/W2095896231
+- https://openalex.org/W2098676252
+- https://openalex.org/W2106933546
+- https://openalex.org/W2108702257
+- https://openalex.org/W2112105203
+- https://openalex.org/W2112335693
+- https://openalex.org/W2112674101
+- https://openalex.org/W2114794293
+- https://openalex.org/W2116905012
+- https://openalex.org/W2118741031
+- https://openalex.org/W2119204870
+- https://openalex.org/W2119803205
+- https://openalex.org/W2119879130
+- https://openalex.org/W2125520565
+- https://openalex.org/W2125917403
+- https://openalex.org/W2129414606
+- https://openalex.org/W2132190221
+- https://openalex.org/W2134011470
+- https://openalex.org/W2134524598
+- https://openalex.org/W2135552708
+- https://openalex.org/W2139227431
+- https://openalex.org/W2144801285
+- https://openalex.org/W2147388364
+- https://openalex.org/W2147867287
+- https://openalex.org/W2148736789
+- https://openalex.org/W2149390240
+- https://openalex.org/W2150280378
+- https://openalex.org/W2151949673
+- https://openalex.org/W2152509385
+- https://openalex.org/W2155607073
+- https://openalex.org/W2157331557
+- https://openalex.org/W2159162331
+- https://openalex.org/W2159692846
+- https://openalex.org/W2159892998
+- https://openalex.org/W2160192633
+- https://openalex.org/W2163654989
+- https://openalex.org/W2163922914
+- https://openalex.org/W2164413132
+- https://openalex.org/W2165124663
+- https://openalex.org/W2165836576
+- https://openalex.org/W2166659908
+- https://openalex.org/W2167591388
+- https://openalex.org/W2167722434
+- https://openalex.org/W2170097984
+- https://openalex.org/W2172174961
+- https://openalex.org/W2178467613
+- https://openalex.org/W2192767806
+- https://openalex.org/W2200121095
+- https://openalex.org/W2202019762
+- https://openalex.org/W2203849420
+- https://openalex.org/W2232647241
+- https://openalex.org/W2245000483
+- https://openalex.org/W2267317359
+- https://openalex.org/W2268448246
+- https://openalex.org/W2272706126
+- https://openalex.org/W2285717070
+- https://openalex.org/W2315350461
+- https://openalex.org/W2323406821
+- https://openalex.org/W2323483937
+- https://openalex.org/W2336157727
+- https://openalex.org/W2345726069
+- https://openalex.org/W2353778445
+- https://openalex.org/W2399666353
+- https://openalex.org/W2412588858
+- https://openalex.org/W2417174564
+- https://openalex.org/W2463983882
+- https://openalex.org/W2480175994
+- https://openalex.org/W2483888092
+- https://openalex.org/W2492018752
+- https://openalex.org/W2492586371
+- https://openalex.org/W2501784446
+- https://openalex.org/W2512633596
+- https://openalex.org/W2514340250
+- https://openalex.org/W2523388123
+- https://openalex.org/W2527189750
+- https://openalex.org/W2529858031
+- https://openalex.org/W2531022405
+- https://openalex.org/W2533228971
+- https://openalex.org/W2542055599
+- https://openalex.org/W2553152989
+- https://openalex.org/W2553519799
+- https://openalex.org/W2557283755
+- https://openalex.org/W2559001317
+- https://openalex.org/W2581055858
+- https://openalex.org/W2581811121
+- https://openalex.org/W2588561483
+- https://openalex.org/W2589085805
+- https://openalex.org/W2590366910
+- https://openalex.org/W2596462923
+- https://openalex.org/W2599868771
+- https://openalex.org/W2603422184
+- https://openalex.org/W2604086375
+- https://openalex.org/W2604645045
+- https://openalex.org/W2608643293
+- https://openalex.org/W2609303685
+- https://openalex.org/W2613015850
+- https://openalex.org/W2614861146
+- https://openalex.org/W2618400371
+- https://openalex.org/W2620207452
+- https://openalex.org/W2621194191
+- https://openalex.org/W2648242067
+- https://openalex.org/W2738423991
+- https://openalex.org/W2739323338
+- https://openalex.org/W2740144340
+- https://openalex.org/W2750302842
+- https://openalex.org/W2755090963
+- https://openalex.org/W2762603548
+- https://openalex.org/W2763635700
+- https://openalex.org/W2766134838
+- https://openalex.org/W2766291668
+- https://openalex.org/W2767126550
+- https://openalex.org/W2767489146
+- https://openalex.org/W2767689241
+- https://openalex.org/W2769449999
+- https://openalex.org/W2772269064
+- https://openalex.org/W2774222522
+- https://openalex.org/W2778580105
+- https://openalex.org/W2779685858
+- https://openalex.org/W2782522152
+- https://openalex.org/W2784731895
+- https://openalex.org/W2784831205
+- https://openalex.org/W2786248992
+- https://openalex.org/W2787931125
+- https://openalex.org/W2792886864
+- https://openalex.org/W2795782711
+- https://openalex.org/W2801586435
+- https://openalex.org/W2801764806
+- https://openalex.org/W2801800694
+- https://openalex.org/W2802689996
+- https://openalex.org/W2803892188
+- https://openalex.org/W2803946774
+- https://openalex.org/W2804427116
+- https://openalex.org/W2804687177
+- https://openalex.org/W2805142011
+- https://openalex.org/W2805525552
+- https://openalex.org/W2808247753
+- https://openalex.org/W2808436940
+- https://openalex.org/W2809537360
+- https://openalex.org/W2810004461
+- https://openalex.org/W2810886818
+- https://openalex.org/W2811300257
+- https://openalex.org/W2864957534
+- https://openalex.org/W2884821113
+- https://openalex.org/W2886493749
+- https://openalex.org/W2886592274
+- https://openalex.org/W2886807638
+- https://openalex.org/W2887176132
+- https://openalex.org/W2887487187
+- https://openalex.org/W2887901282
+- https://openalex.org/W2888608859
+- https://openalex.org/W2889780520
+- https://openalex.org/W2890443177
+- https://openalex.org/W2893624886
+- https://openalex.org/W2893754789
+- https://openalex.org/W2896500956
+- https://openalex.org/W2897656581
+- https://openalex.org/W2898661956
+- https://openalex.org/W2899101283
+- https://openalex.org/W2899485756
+- https://openalex.org/W2899594121
+- https://openalex.org/W2899742462
+- https://openalex.org/W2900828225
+- https://openalex.org/W2901800745
+- https://openalex.org/W2901877307
+- https://openalex.org/W2904749099
+- https://openalex.org/W2905885772
+- https://openalex.org/W2906036379
+- https://openalex.org/W2908188812
+- https://openalex.org/W2913323966
+- https://openalex.org/W2914267938
+- https://openalex.org/W2914874661
+- https://openalex.org/W2919115771
+- https://openalex.org/W2929349101
+- https://openalex.org/W2936479764
+- https://openalex.org/W2939734061
+- https://openalex.org/W2940726923
+- https://openalex.org/W2942760620
+- https://openalex.org/W2943515148
+- https://openalex.org/W2944419102
+- https://openalex.org/W2945600159
+- https://openalex.org/W2949351478
+- https://openalex.org/W2950635152
+- https://openalex.org/W2952183007
+- https://openalex.org/W2953473428
+- https://openalex.org/W2953516452
+- https://openalex.org/W2955846576
+- https://openalex.org/W2963352149
+- https://openalex.org/W2964052062
+- https://openalex.org/W2968801187
+- https://openalex.org/W2968885972
+- https://openalex.org/W2970351942
+- https://openalex.org/W2971445855
+- https://openalex.org/W2975879014
+- https://openalex.org/W2976120863
+- https://openalex.org/W2977666392
+- https://openalex.org/W2978354175
+- https://openalex.org/W2982156305
+- https://openalex.org/W2986339177
+- https://openalex.org/W2988079113
+- https://openalex.org/W2991488782
+- https://openalex.org/W2999085129
+- https://openalex.org/W3005739096
+- https://openalex.org/W3017759407
+- https://openalex.org/W3103753223
+- https://openalex.org/W3103964896
+- https://openalex.org/W3104341624
+- https://openalex.org/W3105234146
+- https://openalex.org/W3122817556
+- https://openalex.org/W3125807057
+- https://openalex.org/W3142302184
+- https://openalex.org/W3149238961
+- https://openalex.org/W4213085226
+- https://openalex.org/W4247964138
+- https://openalex.org/W4248710273
+- https://openalex.org/W4250643796
+- https://openalex.org/W4251358664
+- https://openalex.org/W4252267199
+- https://openalex.org/W4289096930
+- https://openalex.org/W4302369407
+primary_topic: Remote-Sensing Image Classification
+open_access: false

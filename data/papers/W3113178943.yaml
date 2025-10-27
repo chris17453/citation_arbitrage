@@ -1,0 +1,1399 @@
+id: https://openalex.org/W3113178943
+doi: https://doi.org/10.1016/j.jacc.2020.11.010
+title: "Global Burden of Cardiovascular Diseases and Risk Factors, 1990\u20132019"
+publication_date: '2020-12-01'
+publication_year: 2020
+cited_by_count: 8548
+citation_percentile: 0.999499
+pagerank: 2.787896549678105e-06
+authorships:
+- author_id: https://openalex.org/A5029226649
+  display_name: Gregory A. Roth
+  orcid: https://orcid.org/0000-0002-8355-9146
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA
+- author_id: https://openalex.org/A5014290409
+  display_name: George A. Mensah
+  orcid: https://orcid.org/0000-0002-0387-5326
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106489
+    display_name: National Heart Lung and Blood Institute
+    ror: https://ror.org/012pb6c26
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - National Heart, Lung, and Blood Institute (NHLBI), Bethesda, Maryland, USA
+- author_id: https://openalex.org/A5012750261
+  display_name: Catherine O. Johnson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Institute for Health Metrics and Evaluation, Seattle,
+    Washington, USA
+- author_id: https://openalex.org/A5002120873
+  display_name: Giovanni Addolorato
+  orcid: https://orcid.org/0000-0002-1522-9946
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I103320735
+    display_name: "Universit\xE0 Cattolica del Sacro Cuore"
+    ror: https://ror.org/03h7r5v07
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Catholic University of Rome, Rome, Italy
+- author_id: https://openalex.org/A5039729003
+  display_name: Enrico Ammirati
+  orcid: https://orcid.org/0000-0002-1676-5257
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210094195
+    display_name: Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano
+      Niguarda
+    ror: https://ror.org/00htrxv69
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - De Gasperis Cardio Center and Transplant Center, Niguarda Hospital, Milan, Italy
+- author_id: https://openalex.org/A5055691879
+  display_name: Larry M. Baddour
+  orcid: https://orcid.org/0000-0002-4473-7077
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1330342723
+    display_name: Mayo Clinic
+    ror: https://ror.org/02qp3tb03
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mayo Clinic, Rochester, Minnesota, USA
+- author_id: https://openalex.org/A5079582130
+  display_name: "No\xEBl C. Barengo"
+  orcid: https://orcid.org/0000-0003-0660-3091
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19700959
+    display_name: Florida International University
+    ror: https://ror.org/02gz6gg07
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Herbert Wertheim College of Medicine, Florida International University, Miami,
+    Florida, USA
+- author_id: https://openalex.org/A5054480109
+  display_name: Andrea Beaton
+  orcid: https://orcid.org/0000-0002-4963-355X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1285204247
+    display_name: Cincinnati Children's Hospital Medical Center
+    ror: https://ror.org/01hcyya48
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cincinnati Children's Hospital, Cincinnati, Ohio, USA
+- author_id: https://openalex.org/A5064309113
+  display_name: Emelia J. Benjamin
+  orcid: https://orcid.org/0000-0003-4076-2336
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111088046
+    display_name: Boston University
+    ror: https://ror.org/05qwgg493
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boston University School of Public Health, Boston, Massachusetts, USA
+- author_id: https://openalex.org/A5089207192
+  display_name: Catherine P. Benziger
+  orcid: https://orcid.org/0000-0002-8992-6197
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I143414431
+    display_name: Essentia Health
+    ror: https://ror.org/019ssje31
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Essentia Health, Duluth, Minnesota, USA
+- author_id: https://openalex.org/A5039698349
+  display_name: "Aim\xE9 Bonny"
+  orcid: https://orcid.org/0000-0002-3666-4234
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I163423212
+    display_name: University of Douala
+    ror: https://ror.org/02zr5jr81
+    country_code: CM
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - District Hospital of Bonassama-University of Douala, Douala, Cameroon
+- author_id: https://openalex.org/A5082018855
+  display_name: "Michael Br\xE4uer"
+  orcid: https://orcid.org/0000-0002-9103-9343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141945490
+    display_name: University of British Columbia
+    ror: https://ror.org/03rmrcq20
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of British Columbia, Vancouver, British Columbia, Canada
+- author_id: https://openalex.org/A5076495125
+  display_name: Marianne Brodmann
+  orcid: https://orcid.org/0000-0001-6493-3799
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202276237
+    display_name: Medical University of Graz
+    ror: https://ror.org/02n0bts35
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical University of Graz, Graz, Austria
+- author_id: https://openalex.org/A5103260063
+  display_name: Thomas J. Cahill
+  orcid: https://orcid.org/0000-0003-4318-5618
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Newpath Partners LLC, Boston, Massachusetts, USA
+- author_id: https://openalex.org/A5023976277
+  display_name: Jonathan R. Carapetis
+  orcid: https://orcid.org/0000-0002-1182-9792
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I175234967
+    display_name: The Kids Research Institute Australia
+    ror: https://ror.org/01dbmzx78
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Telethon Kids Institute, Nedlands, Western Australia, Australia
+- author_id: https://openalex.org/A5091523473
+  display_name: Alberico L. Catapano
+  orcid: https://orcid.org/0000-0002-7593-2094
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I189158943
+    display_name: University of Milan
+    ror: https://ror.org/00wjc7c48
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Milano, Milan, Italy
+- author_id: https://openalex.org/A5002927065
+  display_name: Sumeet S. Chugh
+  orcid: https://orcid.org/0000-0002-4417-5326
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210141674
+    display_name: Cedars-Sinai Smidt Heart Institute
+    ror: https://ror.org/041vn2102
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cedars-Sinai, Smidt Heart Institute, Los Angeles, California, USA
+- author_id: https://openalex.org/A5050860766
+  display_name: Leslie T. Cooper
+  orcid: https://orcid.org/0000-0003-1002-3313
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801572250
+    display_name: Jacksonville College
+    ror: https://ror.org/03a9t7g49
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802423016
+    display_name: WinnMed
+    ror: https://ror.org/02s47w807
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mayo Clinic, Jacksonville, Florida, USA
+- author_id: https://openalex.org/A5047227825
+  display_name: Josef Coresh
+  orcid: https://orcid.org/0000-0002-4598-0669
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA
+- author_id: https://openalex.org/A5108806687
+  display_name: Michael H Criqui
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of California at San Diego, San Diego, California, USA
+- author_id: https://openalex.org/A5113180760
+  display_name: Nicole DeCleene
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1336053918
+    display_name: Ochsner Health System
+    ror: https://ror.org/003ngne20
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ochsner Health, New Orleans, Louisiana, USA;
+  - The University of Michigan Samuel and Jean Frankel Cardiovascular Center, Ann
+    Arbor, Michigan, USA;
+- author_id: https://openalex.org/A5101098087
+  display_name: Kim A. Eagle
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The University of Michigan Samuel and Jean Frankel Cardiovascular Center, Ann
+    Arbor, Michigan, USA;
+- author_id: https://openalex.org/A5010757111
+  display_name: "Sophia Emmons\u2010Bell"
+  orcid: https://orcid.org/0000-0002-6973-9052
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Institute for Health Metrics and Evaluation, Seattle,
+    Washington, USA;
+- author_id: https://openalex.org/A5052615582
+  display_name: Valery L. Feigin
+  orcid: https://orcid.org/0000-0002-6372-1740
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA;
+- author_id: https://openalex.org/A5091816145
+  display_name: "Joaquim Fern\xE1ndez\u2010Sol\xE0"
+  orcid: https://orcid.org/0000-0002-8180-8479
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115097
+    display_name: "Hospital Cl\xEDnic de Barcelona"
+    ror: https://ror.org/02a2kzf50
+    country_code: ES
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Barnaclinic\xFE Grup Hospital Clinic, Barcelona, Spain;"
+- author_id: https://openalex.org/A5009020907
+  display_name: Gerry Fowkes
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts General Hospital, Boston, Massachusetts, USA;
+  - University of Edinburgh, Edinburgh, United Kingdom;
+- author_id: https://openalex.org/A5037038907
+  display_name: Emmanuela Gakidou
+  orcid: https://orcid.org/0000-0002-8992-591X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA;
+- author_id: https://openalex.org/A5056794714
+  display_name: Scott M. Grundy
+  orcid: https://orcid.org/0000-0003-2956-7900
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I867280407
+    display_name: The University of Texas Southwestern Medical Center
+    ror: https://ror.org/05byvp690
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Texas Southwestern Medical Center, Dallas, Texas, USA;
+- author_id: https://openalex.org/A5079064549
+  display_name: Feng J. He
+  orcid: https://orcid.org/0000-0003-2807-4119
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I143414431
+    display_name: Essentia Health
+    ror: https://ror.org/019ssje31
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Essentia Health, Duluth, Minnesota, USA
+- author_id: https://openalex.org/A5088595592
+  display_name: George Howard
+  orcid: https://orcid.org/0000-0002-3068-5720
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106489
+    display_name: National Heart Lung and Blood Institute
+    ror: https://ror.org/012pb6c26
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - National Heart, Lung, and Blood Institute (NHLBI), Bethesda, Maryland, USA
+- author_id: https://openalex.org/A5056459536
+  display_name: Frank B. Hu
+  orcid: https://orcid.org/0000-0002-8233-6274
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210141674
+    display_name: Cedars-Sinai Smidt Heart Institute
+    ror: https://ror.org/041vn2102
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cedars-Sinai, Smidt Heart Institute, Los Angeles, California, USA
+- author_id: https://openalex.org/A5054296834
+  display_name: Lesley A. Inker
+  orcid: https://orcid.org/0000-0003-2820-9482
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290900354
+    display_name: Tufts Medical Center
+    ror: https://ror.org/002hsbm82
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tufts Medical Center, Boston, Massachusetts, USA;
+- author_id: https://openalex.org/A5003441894
+  display_name: Ganesan Karthikeyan
+  orcid: https://orcid.org/0000-0002-2073-2917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63739035
+    display_name: All India Institute of Medical Sciences
+    ror: https://ror.org/02dwcqs71
+    country_code: IN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cardiothoracic Sciences Centre, All India Institute of Medical Sciences, New Delhi,
+    India;
+- author_id: https://openalex.org/A5023196986
+  display_name: Nicholas J Kassebaum
+  orcid: https://orcid.org/0000-0002-4299-9348
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA;
+- author_id: https://openalex.org/A5000644127
+  display_name: Walter J. Koroshetz
+  orcid: https://orcid.org/0000-0001-7292-7831
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210110767
+    display_name: National Institute of Neurological Disorders and Stroke
+    ror: https://ror.org/01s5ya894
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute of Neurological Disorders and Stroke, Bethesda, Maryland, USA;
+- author_id: https://openalex.org/A5059582018
+  display_name: Carl J. Lavie
+  orcid: https://orcid.org/0000-0003-3906-1911
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1336053918
+    display_name: Ochsner Health System
+    ror: https://ror.org/003ngne20
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ochsner Health, New Orleans, Louisiana, USA;
+- author_id: https://openalex.org/A5017418373
+  display_name: "Donald M. Lloyd\u2010Jones"
+  orcid: https://orcid.org/0000-0003-0847-6110
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111979921
+    display_name: Northwestern University
+    ror: https://ror.org/000e0be47
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA;
+- author_id: https://openalex.org/A5024376952
+  display_name: "Hong L\xFC"
+  orcid: https://orcid.org/0000-0002-0577-2558
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I143302722
+    display_name: University of Kentucky
+    ror: https://ror.org/02k3smh20
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Kentucky College of Medicine, Lexington, Kentucky, USA;
+- author_id: https://openalex.org/A5065456103
+  display_name: Antonio Mirijello
+  orcid: https://orcid.org/0000-0003-3932-3803
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800188116
+    display_name: Casa Sollievo della Sofferenza
+    ror: https://ror.org/00md77g41
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I4210153126
+    display_name: Istituti di Ricovero e Cura a Carattere Scientifico
+    ror: https://ror.org/04tfzc498
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IRCCS Casa Sollievo della Sofferenza Hospital, Department of Medical Sciences,
+    San Giovanni Rotondo, Italy;
+- author_id: https://openalex.org/A5101784087
+  display_name: Awoke Misganaw Temesgen
+  orcid: https://orcid.org/0000-0002-3949-9457
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Institute for Health Metrics and Evaluation, Seattle,
+    Washington, USA;
+- author_id: https://openalex.org/A5083535850
+  display_name: Ali H. Mokdad
+  orcid: https://orcid.org/0000-0002-4994-3339
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Institute for Health Metrics and Evaluation, Seattle,
+    Washington, USA;
+- author_id: https://openalex.org/A5107950162
+  display_name: Andrew Moran
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78577930
+    display_name: Columbia University
+    ror: https://ror.org/00hj8s172
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Columbia University Irving Medical Center, New York, New York, USA; jj Icahn School
+    of Medicine at Mount Sinai, New York, New York, USA;
+- author_id: https://openalex.org/A5079959622
+  display_name: Paul Muntner
+  orcid: https://orcid.org/0000-0002-4711-5492
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32389192
+    display_name: University of Alabama at Birmingham
+    ror: https://ror.org/008s83205
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Alabama at Birmingham School of Public Health, Birmingham, Alabama,
+    USA;
+- author_id: https://openalex.org/A5000545244
+  display_name: Jagat Narula
+  orcid: https://orcid.org/0000-0002-0280-3996
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5075162144
+  display_name: Bruce Neal
+  orcid: https://orcid.org/0000-0002-0490-7465
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129604602
+    display_name: The University of Sydney
+    ror: https://ror.org/0384j8v12
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I122140584
+    display_name: Universidade Federal do Rio de Janeiro
+    ror: https://ror.org/03490as77
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The University of Sydney School of Medicine, Sydney, New South Wales, Australia;
+  - Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil;
+  - ll University of Cape Town, Cape Town, South Africa; mm
+- author_id: https://openalex.org/A5082069854
+  display_name: Mpiko Ntsekhe
+  orcid: https://orcid.org/0000-0002-0851-7675
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5024866578
+  display_name: Glaucia Moraes de Oliveira
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5001026049
+  display_name: Catherine M Otto
+  orcid: https://orcid.org/0000-0002-0527-9392
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I143414431
+    display_name: Essentia Health
+    ror: https://ror.org/019ssje31
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Essentia Health, Duluth, Minnesota, USA
+- author_id: https://openalex.org/A5031904244
+  display_name: Mayowa Owolabi
+  orcid: https://orcid.org/0000-0003-1146-3070
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5089136645
+  display_name: Michael Pratt
+  orcid: https://orcid.org/0000-0002-8939-7715
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of California at San Diego, San Diego, California, USA
+- author_id: https://openalex.org/A5022334933
+  display_name: Sanjay Rajagopalan
+  orcid: https://orcid.org/0000-0001-6669-8163
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153792
+    display_name: University School
+    ror: https://ror.org/05ap66461
+    country_code: US
+    type: education
+  - id: https://openalex.org/I58956616
+    display_name: Case Western Reserve University
+    ror: https://ror.org/051fd9666
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Case Western Reserve University School of Medicine, Cleveland, Ohio, USA;
+- author_id: https://openalex.org/A5053232907
+  display_name: Marissa B Reitsma
+  orcid: https://orcid.org/0000-0001-7276-4876
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I110200422
+    display_name: Universidade Federal de Minas Gerais
+    ror: https://ror.org/0176yjw32
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stanford University School of Medicine, Stanford, California, USA;
+  - qq Universidade Federal de Minas Gerais, Minas Gerais, Brazil;
+- author_id: https://openalex.org/A5100725966
+  display_name: "Ant\xF4nio Luiz Pinho Ribeiro"
+  orcid: https://orcid.org/0000-0002-2740-0042
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5088728555
+  display_name: Nancy A. Rigotti
+  orcid: https://orcid.org/0000-0002-2223-1657
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts General Hospital, Boston, Massachusetts, USA;
+- author_id: https://openalex.org/A5015704931
+  display_name: Anthony Rodgers
+  orcid: https://orcid.org/0000-0003-1282-1896
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5062076555
+  display_name: Craig Sable
+  orcid: https://orcid.org/0000-0002-6798-2737
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard Medical School, Boston, Massachusetts, USA;
+- author_id: https://openalex.org/A5072830684
+  display_name: Saate Shakil
+  orcid: https://orcid.org/0000-0001-7775-006X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA;
+- author_id: https://openalex.org/A5009122078
+  display_name: "Karen Sliwa\u2010Hahnle"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5111042178
+  display_name: Benjamin Stark
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111088046
+    display_name: Boston University
+    ror: https://ror.org/05qwgg493
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boston University School of Public Health, Boston, Massachusetts, USA
+- author_id: https://openalex.org/A5074614812
+  display_name: "Johan Sundstr\xF6m"
+  orcid: https://orcid.org/0000-0003-2247-8454
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5026117519
+  display_name: Patrick Timpel
+  orcid: https://orcid.org/0000-0002-5158-0178
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5083611413
+  display_name: Imad M. Tleyjeh
+  orcid: https://orcid.org/0000-0002-5551-0353
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5032028897
+  display_name: Marco Valgimigli
+  orcid: https://orcid.org/0000-0002-4353-7110
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5007119101
+  display_name: Theo Vos
+  orcid: https://orcid.org/0000-0002-5690-5365
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA;
+- author_id: https://openalex.org/A5049535333
+  display_name: Paul K. Whelton
+  orcid: https://orcid.org/0000-0002-2225-383X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5034894903
+  display_name: Magdi Yacoub
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5056446038
+  display_name: "Liesl Z\xFChlke"
+  orcid: https://orcid.org/0000-0003-3961-2760
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5025291648
+  display_name: Chris Murray
+  orcid: https://orcid.org/0000-0001-8980-4539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts General Hospital, Boston, Massachusetts, USA;
+  - University of Washington, Institute for Health Metrics and Evaluation, Seattle,
+    Washington, USA;
+- author_id: https://openalex.org/A5074727212
+  display_name: "Valent\u0131\u0301n Fuster"
+  orcid: https://orcid.org/0000-0002-9043-9986
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard Medical School, Boston, Massachusetts, USA;
+- author_id: https://openalex.org/A5029226649
+  display_name: Gregory A. Roth
+  orcid: https://orcid.org/0000-0002-8355-9146
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA
+- author_id: https://openalex.org/A5014290409
+  display_name: George A. Mensah
+  orcid: https://orcid.org/0000-0002-0387-5326
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106489
+    display_name: National Heart Lung and Blood Institute
+    ror: https://ror.org/012pb6c26
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - National Heart, Lung, and Blood Institute (NHLBI), Bethesda, Maryland, USA
+- author_id: https://openalex.org/A5012750261
+  display_name: Catherine O. Johnson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Institute for Health Metrics and Evaluation, Seattle,
+    Washington, USA
+- author_id: https://openalex.org/A5002120873
+  display_name: Giovanni Addolorato
+  orcid: https://orcid.org/0000-0002-1522-9946
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I103320735
+    display_name: "Universit\xE0 Cattolica del Sacro Cuore"
+    ror: https://ror.org/03h7r5v07
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Catholic University of Rome, Rome, Italy
+- author_id: https://openalex.org/A5039729003
+  display_name: Enrico Ammirati
+  orcid: https://orcid.org/0000-0002-1676-5257
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210094195
+    display_name: Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano
+      Niguarda
+    ror: https://ror.org/00htrxv69
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - De Gasperis Cardio Center and Transplant Center, Niguarda Hospital, Milan, Italy
+- author_id: https://openalex.org/A5055691879
+  display_name: Larry M. Baddour
+  orcid: https://orcid.org/0000-0002-4473-7077
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1330342723
+    display_name: Mayo Clinic
+    ror: https://ror.org/02qp3tb03
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mayo Clinic, Rochester, Minnesota, USA
+- author_id: https://openalex.org/A5079582130
+  display_name: "No\xEBl C. Barengo"
+  orcid: https://orcid.org/0000-0003-0660-3091
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19700959
+    display_name: Florida International University
+    ror: https://ror.org/02gz6gg07
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Herbert Wertheim College of Medicine, Florida International University, Miami,
+    Florida, USA
+- author_id: https://openalex.org/A5054480109
+  display_name: Andrea Beaton
+  orcid: https://orcid.org/0000-0002-4963-355X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1285204247
+    display_name: Cincinnati Children's Hospital Medical Center
+    ror: https://ror.org/01hcyya48
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cincinnati Children's Hospital, Cincinnati, Ohio, USA
+- author_id: https://openalex.org/A5064309113
+  display_name: Emelia J. Benjamin
+  orcid: https://orcid.org/0000-0003-4076-2336
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111088046
+    display_name: Boston University
+    ror: https://ror.org/05qwgg493
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Boston University School of Public Health, Boston, Massachusetts, USA
+- author_id: https://openalex.org/A5089207192
+  display_name: Catherine P. Benziger
+  orcid: https://orcid.org/0000-0002-8992-6197
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I143414431
+    display_name: Essentia Health
+    ror: https://ror.org/019ssje31
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Essentia Health, Duluth, Minnesota, USA
+- author_id: https://openalex.org/A5039698349
+  display_name: "Aim\xE9 Bonny"
+  orcid: https://orcid.org/0000-0002-3666-4234
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I163423212
+    display_name: University of Douala
+    ror: https://ror.org/02zr5jr81
+    country_code: CM
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - District Hospital of Bonassama-University of Douala, Douala, Cameroon
+- author_id: https://openalex.org/A5082018855
+  display_name: "Michael Br\xE4uer"
+  orcid: https://orcid.org/0000-0002-9103-9343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141945490
+    display_name: University of British Columbia
+    ror: https://ror.org/03rmrcq20
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of British Columbia, Vancouver, British Columbia, Canada
+- author_id: https://openalex.org/A5076495125
+  display_name: Marianne Brodmann
+  orcid: https://orcid.org/0000-0001-6493-3799
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202276237
+    display_name: Medical University of Graz
+    ror: https://ror.org/02n0bts35
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical University of Graz, Graz, Austria
+- author_id: https://openalex.org/A5103260063
+  display_name: Thomas J. Cahill
+  orcid: https://orcid.org/0000-0003-4318-5618
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Newpath Partners LLC, Boston, Massachusetts, USA
+- author_id: https://openalex.org/A5023976277
+  display_name: Jonathan R. Carapetis
+  orcid: https://orcid.org/0000-0002-1182-9792
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I175234967
+    display_name: The Kids Research Institute Australia
+    ror: https://ror.org/01dbmzx78
+    country_code: AU
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Telethon Kids Institute, Nedlands, Western Australia, Australia
+- author_id: https://openalex.org/A5091523473
+  display_name: Alberico L. Catapano
+  orcid: https://orcid.org/0000-0002-7593-2094
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I189158943
+    display_name: University of Milan
+    ror: https://ror.org/00wjc7c48
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Milano, Milan, Italy
+- author_id: https://openalex.org/A5002927065
+  display_name: Sumeet S. Chugh
+  orcid: https://orcid.org/0000-0002-4417-5326
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210141674
+    display_name: Cedars-Sinai Smidt Heart Institute
+    ror: https://ror.org/041vn2102
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cedars-Sinai, Smidt Heart Institute, Los Angeles, California, USA
+- author_id: https://openalex.org/A5050860766
+  display_name: Leslie T. Cooper
+  orcid: https://orcid.org/0000-0003-1002-3313
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801572250
+    display_name: Jacksonville College
+    ror: https://ror.org/03a9t7g49
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802423016
+    display_name: WinnMed
+    ror: https://ror.org/02s47w807
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mayo Clinic, Jacksonville, Florida, USA
+- author_id: https://openalex.org/A5047227825
+  display_name: Josef Coresh
+  orcid: https://orcid.org/0000-0002-4598-0669
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA
+- author_id: https://openalex.org/A5108806687
+  display_name: Michael H Criqui
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of California at San Diego, San Diego, California, USA
+- author_id: https://openalex.org/A5113180760
+  display_name: Nicole DeCleene
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1336053918
+    display_name: Ochsner Health System
+    ror: https://ror.org/003ngne20
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ochsner Health, New Orleans, Louisiana, USA;
+  - The University of Michigan Samuel and Jean Frankel Cardiovascular Center, Ann
+    Arbor, Michigan, USA;
+- author_id: https://openalex.org/A5101098087
+  display_name: Kim A. Eagle
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The University of Michigan Samuel and Jean Frankel Cardiovascular Center, Ann
+    Arbor, Michigan, USA;
+- author_id: https://openalex.org/A5010757111
+  display_name: "Sophia Emmons\u2010Bell"
+  orcid: https://orcid.org/0000-0002-6973-9052
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3143470655
+    display_name: Institute for Health Metrics and Evaluation
+    ror: https://ror.org/02684h094
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Institute for Health Metrics and Evaluation, Seattle,
+    Washington, USA;
+- author_id: https://openalex.org/A5052615582
+  display_name: Valery L. Feigin
+  orcid: https://orcid.org/0000-0002-6372-1740
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA;
+- author_id: https://openalex.org/A5091816145
+  display_name: "Joaquim Fern\xE1ndez\u2010Sol\xE0"
+  orcid: https://orcid.org/0000-0002-8180-8479
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115097
+    display_name: "Hospital Cl\xEDnic de Barcelona"
+    ror: https://ror.org/02a2kzf50
+    country_code: ES
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Barnaclinic\xFE Grup Hospital Clinic, Barcelona, Spain;"
+- author_id: https://openalex.org/A5049378858
+  display_name: F. Gerry R. Fowkes
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts General Hospital, Boston, Massachusetts, USA;
+  - University of Edinburgh, Edinburgh, United Kingdom;
+- author_id: https://openalex.org/A5037038907
+  display_name: Emmanuela Gakidou
+  orcid: https://orcid.org/0000-0002-8992-591X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, Washington, USA;
+- author_id: https://openalex.org/A5056794714
+  display_name: Scott M. Grundy
+  orcid: https://orcid.org/0000-0003-2956-7900
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I867280407
+    display_name: The University of Texas Southwestern Medical Center
+    ror: https://ror.org/05byvp690
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Texas Southwestern Medical Center, Dallas, Texas, USA;
+- author_id: https://openalex.org/A5079064549
+  display_name: Feng J. He
+  orcid: https://orcid.org/0000-0003-2807-4119
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I143414431
+    display_name: Essentia Health
+    ror: https://ror.org/019ssje31
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Essentia Health, Duluth, Minnesota, USA
+- author_id: https://openalex.org/A5088595592
+  display_name: George Howard
+  orcid: https://orcid.org/0000-0002-3068-5720
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106489
+    display_name: National Heart Lung and Blood Institute
+    ror: https://ror.org/012pb6c26
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - National Heart, Lung, and Blood Institute (NHLBI), Bethesda, Maryland, USA
+- author_id: https://openalex.org/A5056459536
+  display_name: Frank B. Hu
+  orcid: https://orcid.org/0000-0002-8233-6274
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210141674
+    display_name: Cedars-Sinai Smidt Heart Institute
+    ror: https://ror.org/041vn2102
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cedars-Sinai, Smidt Heart Institute, Los Angeles, California, USA
+referenced_works:
+- https://openalex.org/W134174417
+- https://openalex.org/W1970042230
+- https://openalex.org/W1980822644
+- https://openalex.org/W1986019364
+- https://openalex.org/W1992020655
+- https://openalex.org/W1994085864
+- https://openalex.org/W2017729549
+- https://openalex.org/W2024896628
+- https://openalex.org/W2043558173
+- https://openalex.org/W2060217571
+- https://openalex.org/W2093629089
+- https://openalex.org/W2118953216
+- https://openalex.org/W2120536963
+- https://openalex.org/W2129362401
+- https://openalex.org/W2130007655
+- https://openalex.org/W2204275981
+- https://openalex.org/W2323812521
+- https://openalex.org/W2414889832
+- https://openalex.org/W2576869859
+- https://openalex.org/W2768267412
+- https://openalex.org/W2803674135
+- https://openalex.org/W2890689490
+- https://openalex.org/W2892371839
+- https://openalex.org/W2899773405
+- https://openalex.org/W2910530924
+- https://openalex.org/W2925419705
+- https://openalex.org/W2944467172
+- https://openalex.org/W2954508392
+- https://openalex.org/W2959591820
+- https://openalex.org/W2963423223
+- https://openalex.org/W2969358996
+- https://openalex.org/W2980309524
+- https://openalex.org/W2989281995
+- https://openalex.org/W3002652237
+- https://openalex.org/W3009470027
+- https://openalex.org/W3017021940
+- https://openalex.org/W3017749128
+- https://openalex.org/W3023134771
+- https://openalex.org/W3030103373
+- https://openalex.org/W3040346116
+- https://openalex.org/W3092849554
+- https://openalex.org/W3092861045
+- https://openalex.org/W3095732008
+- https://openalex.org/W3200652876
+primary_topic: Cardiovascular Health and Risk Factors
+open_access: true

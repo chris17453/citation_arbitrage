@@ -1,0 +1,542 @@
+id: https://openalex.org/W3022734398
+doi: https://doi.org/10.1126/science.abc1560
+title: Structural basis for inhibition of the RNA-dependent RNA polymerase from SARS-CoV-2
+  by remdesivir
+publication_date: '2020-05-01'
+publication_year: 2020
+cited_by_count: 1234
+citation_percentile: 0.999954
+pagerank: 2.611384380858803e-06
+authorships:
+- author_id: https://openalex.org/A5085154549
+  display_name: Wanchao Yin
+  orcid: https://orcid.org/0000-0002-6889-4907
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I2802390878
+    display_name: Sir Run Run Shaw Hospital
+    ror: https://ror.org/00ka6rp58
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I76130692
+    display_name: Zhejiang University
+    ror: https://ror.org/00a2xv884
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biophysics, and Department of Pathology of Sir Run Run Shaw Hospital,
+    Zhejiang University School of Medicine, Hangzhou 310058, China.
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+- author_id: https://openalex.org/A5036072521
+  display_name: Chunyou Mao
+  orcid: https://orcid.org/0000-0001-5349-8592
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76130692
+    display_name: Zhejiang University
+    ror: https://ror.org/00a2xv884
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I2802390878
+    display_name: Sir Run Run Shaw Hospital
+    ror: https://ror.org/00ka6rp58
+    country_code: CN
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biophysics, and Department of Pathology of Sir Run Run Shaw Hospital,
+    Zhejiang University School of Medicine, Hangzhou 310058, China.
+- author_id: https://openalex.org/A5035833039
+  display_name: Xiaodong Luan
+  orcid: https://orcid.org/0000-0002-1279-5432
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I2801228662
+    display_name: Peking Union Medical College Hospital
+    ror: https://ror.org/04jztag35
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160507
+    display_name: Center for Life Sciences
+    ror: https://ror.org/05kje8j93
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Cardiology, Peking Union Medical College Hospital, Peking Union
+    Medical College and Chinese Academy of Medical Sciences, Beijing 100730, China.
+  - School of Medicine, Tsinghua University, Haidian District, Beijing 100084, China.
+  - Tsinghua-Peking Center for Life Sciences, Tsinghua University, Beijing 100084,
+    China.
+- author_id: https://openalex.org/A5024873224
+  display_name: Dandan Shen
+  orcid: https://orcid.org/0000-0001-8757-4602
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802390878
+    display_name: Sir Run Run Shaw Hospital
+    ror: https://ror.org/00ka6rp58
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I76130692
+    display_name: Zhejiang University
+    ror: https://ror.org/00a2xv884
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biophysics, and Department of Pathology of Sir Run Run Shaw Hospital,
+    Zhejiang University School of Medicine, Hangzhou 310058, China.
+- author_id: https://openalex.org/A5013532628
+  display_name: Qingya Shen
+  orcid: https://orcid.org/0000-0001-6602-7116
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802390878
+    display_name: Sir Run Run Shaw Hospital
+    ror: https://ror.org/00ka6rp58
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I76130692
+    display_name: Zhejiang University
+    ror: https://ror.org/00a2xv884
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biophysics, and Department of Pathology of Sir Run Run Shaw Hospital,
+    Zhejiang University School of Medicine, Hangzhou 310058, China.
+- author_id: https://openalex.org/A5040922268
+  display_name: Haixia Su
+  orcid: https://orcid.org/0000-0002-7174-3851
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5031317758
+  display_name: Xiaoxi Wang
+  orcid: https://orcid.org/0000-0002-4274-5698
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+- author_id: https://openalex.org/A5067136376
+  display_name: Fulai Zhou
+  orcid: https://orcid.org/0000-0002-3840-6757
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+- author_id: https://openalex.org/A5103019715
+  display_name: Wenfeng Zhao
+  orcid: https://orcid.org/0000-0003-2517-4747
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+- author_id: https://openalex.org/A5034751061
+  display_name: Minqi Gao
+  orcid: https://orcid.org/0000-0003-1082-4380
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090137
+    display_name: Biortus (China)
+    ror: https://ror.org/00e55tr36
+    country_code: CN
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - WuxiBiortus Biosciences Co. Ltd., Jiangyin 214437, China.
+- author_id: https://openalex.org/A5054339751
+  display_name: Shenghai Chang
+  orcid: https://orcid.org/0000-0002-0908-711X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802390878
+    display_name: Sir Run Run Shaw Hospital
+    ror: https://ror.org/00ka6rp58
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I76130692
+    display_name: Zhejiang University
+    ror: https://ror.org/00a2xv884
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center of Cryo-Electron Microscopy, Zhejiang University School of Medicine, Hangzhou
+    310058, China.
+  - Center of Diagnostic Electron Microscopy, Sir Run Run Shaw Hospital, Zhejiang
+    University School of Medicine, Hangzhou 310058, China.
+- author_id: https://openalex.org/A5013313442
+  display_name: Yuanchao Xie
+  orcid: https://orcid.org/0000-0001-9875-887X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+- author_id: https://openalex.org/A5115848249
+  display_name: Guanghui Tian
+  orcid: https://orcid.org/0000-0002-7988-5715
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+- author_id: https://openalex.org/A5070647154
+  display_name: "He\u2010wei Jiang"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine
+    (Ministry of Education), Shanghai Jiao Tong University, Shanghai 200240, China.
+- author_id: https://openalex.org/A5060394204
+  display_name: "Sheng\u2010ce Tao"
+  orcid: https://orcid.org/0000-0002-9210-1823
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine
+    (Ministry of Education), Shanghai Jiao Tong University, Shanghai 200240, China.
+- author_id: https://openalex.org/A5008792226
+  display_name: Jingshan Shen
+  orcid: https://orcid.org/0000-0001-9679-9934
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5062324518
+  display_name: Yi Jiang
+  orcid: https://orcid.org/0000-0002-0723-1413
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5001392142
+  display_name: Hualiang Jiang
+  orcid: https://orcid.org/0000-0003-0656-6315
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5101477541
+  display_name: Yechun Xu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+- author_id: https://openalex.org/A5073931873
+  display_name: Shuyang Zhang
+  orcid: https://orcid.org/0000-0002-1532-0029
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I2801228662
+    display_name: Peking Union Medical College Hospital
+    ror: https://ror.org/04jztag35
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160507
+    display_name: Center for Life Sciences
+    ror: https://ror.org/05kje8j93
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Cardiology, Peking Union Medical College Hospital, Peking Union
+    Medical College and Chinese Academy of Medical Sciences, Beijing 100730, China.
+  - School of Medicine, Tsinghua University, Haidian District, Beijing 100084, China.
+  - Tsinghua-Peking Center for Life Sciences, Tsinghua University, Beijing 100084,
+    China.
+- author_id: https://openalex.org/A5100456393
+  display_name: Yan Zhang
+  orcid: https://orcid.org/0000-0003-2189-0244
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76130692
+    display_name: Zhejiang University
+    ror: https://ror.org/00a2xv884
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I2802390878
+    display_name: Sir Run Run Shaw Hospital
+    ror: https://ror.org/00ka6rp58
+    country_code: CN
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biophysics, and Department of Pathology of Sir Run Run Shaw Hospital,
+    Zhejiang University School of Medicine, Hangzhou 310058, China.
+  - Key Laboratory of Immunity and Inflammatory Diseases of Zhejiang Province, Hangzhou
+    310058, China.
+- author_id: https://openalex.org/A5052217844
+  display_name: H. Eric Xu
+  orcid: https://orcid.org/0000-0002-6829-8144
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210112820
+    display_name: Shanghai Institute of Materia Medica
+    ror: https://ror.org/022syn853
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - The CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica,
+    Chinese Academy of Sciences, Shanghai 201203, China.
+  - University of Chinese Academy of Sciences, Beijing 100049, China.
+referenced_works:
+- https://openalex.org/W1967819126
+- https://openalex.org/W1973648815
+- https://openalex.org/W1975709809
+- https://openalex.org/W2004837257
+- https://openalex.org/W2029227918
+- https://openalex.org/W2031159147
+- https://openalex.org/W2031648434
+- https://openalex.org/W2033345469
+- https://openalex.org/W2044453886
+- https://openalex.org/W2059763393
+- https://openalex.org/W2072202424
+- https://openalex.org/W2082846873
+- https://openalex.org/W2104234755
+- https://openalex.org/W2114940808
+- https://openalex.org/W2117455984
+- https://openalex.org/W2132629607
+- https://openalex.org/W2134092129
+- https://openalex.org/W2140943911
+- https://openalex.org/W2144081223
+- https://openalex.org/W2157839983
+- https://openalex.org/W2222589778
+- https://openalex.org/W2244208996
+- https://openalex.org/W2292021561
+- https://openalex.org/W2581273760
+- https://openalex.org/W2587625522
+- https://openalex.org/W2593511418
+- https://openalex.org/W2756923350
+- https://openalex.org/W2791400386
+- https://openalex.org/W2914796231
+- https://openalex.org/W2935101654
+- https://openalex.org/W2950967305
+- https://openalex.org/W3003465021
+- https://openalex.org/W3004280078
+- https://openalex.org/W3005111420
+- https://openalex.org/W3005212621
+- https://openalex.org/W3007643904
+- https://openalex.org/W3007969569
+- https://openalex.org/W3008443627
+- https://openalex.org/W3009335299
+- https://openalex.org/W3009906937
+- https://openalex.org/W3010441732
+- https://openalex.org/W3011680753
+- https://openalex.org/W3013152614
+- https://openalex.org/W3013800395
+- https://openalex.org/W3014067025
+- https://openalex.org/W3014306106
+- https://openalex.org/W3014708904
+- https://openalex.org/W3015429854
+- https://openalex.org/W3015554176
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

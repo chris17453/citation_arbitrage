@@ -1,0 +1,177 @@
+id: https://openalex.org/W3122173535
+doi: https://doi.org/10.1016/j.neucom.2022.07.042
+title: Focal and efficient IOU loss for accurate bounding box regression
+publication_date: '2022-07-22'
+publication_year: 2022
+cited_by_count: 1288
+citation_percentile: 0.999945
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5114686064
+  display_name: Yifan Zhang
+  orcid: https://orcid.org/0000-0002-9190-3509
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210112150
+    display_name: Institute of Automation
+    ror: https://ror.org/022c3hy66
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CRIPAC & NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing,
+    China
+  - University of Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5100512461
+  display_name: Weiqiang Ren
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4401726824
+    display_name: Horizon Robotics (China)
+    ror: https://ror.org/05cmv6g68
+    country_code: null
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Horizon Robotics, Beijing, China
+- author_id: https://openalex.org/A5100599309
+  display_name: Zhang Zhang
+  orcid: https://orcid.org/0000-0001-9425-3065
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210112150
+    display_name: Institute of Automation
+    ror: https://ror.org/022c3hy66
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - CRIPAC & NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing,
+    China
+  - University of Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5023640358
+  display_name: Zhen Jia
+  orcid: https://orcid.org/0000-0002-6810-2279
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112150
+    display_name: Institute of Automation
+    ror: https://ror.org/022c3hy66
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CRIPAC & NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing,
+    China
+- author_id: https://openalex.org/A5100456601
+  display_name: Liang Wang
+  orcid: https://orcid.org/0000-0003-4015-9385
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112150
+    display_name: Institute of Automation
+    ror: https://ror.org/022c3hy66
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CRIPAC & NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing,
+    China
+  - University of Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5111885963
+  display_name: Tieniu Tan
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210112150
+    display_name: Institute of Automation
+    ror: https://ror.org/022c3hy66
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CRIPAC & NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing,
+    China
+  - University of Chinese Academy of Sciences, Beijing, China
+referenced_works:
+- https://openalex.org/W1536680647
+- https://openalex.org/W1861492603
+- https://openalex.org/W2102605133
+- https://openalex.org/W2109255472
+- https://openalex.org/W2168356304
+- https://openalex.org/W2504335775
+- https://openalex.org/W2585439946
+- https://openalex.org/W2613718673
+- https://openalex.org/W2886904239
+- https://openalex.org/W2899771611
+- https://openalex.org/W2962721361
+- https://openalex.org/W2962766617
+- https://openalex.org/W2963037989
+- https://openalex.org/W2963150697
+- https://openalex.org/W2963296245
+- https://openalex.org/W2963351448
+- https://openalex.org/W2963516811
+- https://openalex.org/W2964241181
+- https://openalex.org/W2997747012
+- https://openalex.org/W3020833432
+- https://openalex.org/W3034669389
+- https://openalex.org/W3035134467
+- https://openalex.org/W3035396860
+- https://openalex.org/W3035694605
+- https://openalex.org/W3042634770
+- https://openalex.org/W3096609285
+- https://openalex.org/W3097779785
+- https://openalex.org/W3098090606
+- https://openalex.org/W3106250896
+- https://openalex.org/W3107867277
+- https://openalex.org/W3108849448
+- https://openalex.org/W3109381875
+- https://openalex.org/W4286696412
+primary_topic: Advanced Neural Network Applications
+open_access: true

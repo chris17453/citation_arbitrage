@@ -1,0 +1,778 @@
+id: https://openalex.org/W4376133743
+doi: https://doi.org/10.1038/s41586-023-06063-y
+title: Personalized RNA neoantigen vaccines stimulate T cells in pancreatic cancer
+publication_date: '2023-05-10'
+publication_year: 2023
+cited_by_count: 876
+citation_percentile: 0.999916
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5067346260
+  display_name: Luis A. Rojas
+  orcid: https://orcid.org/0000-0001-9218-4086
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immuno-Oncology Service, Human Oncology and Pathogenesis Program, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5084804922
+  display_name: Zachary Sethna
+  orcid: https://orcid.org/0000-0001-8859-1084
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immuno-Oncology Service, Human Oncology and Pathogenesis Program, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5058857144
+  display_name: Kevin C. Soares
+  orcid: https://orcid.org/0000-0002-0406-017X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hepatopancreatobiliary Service, Department of Surgery, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5060690612
+  display_name: Cristina Olcese
+  orcid: https://orcid.org/0009-0009-4952-5477
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hepatopancreatobiliary Service, Department of Surgery, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5101744394
+  display_name: Nan Pang
+  orcid: https://orcid.org/0000-0002-9557-9451
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hepatopancreatobiliary Service, Department of Surgery, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5109524703
+  display_name: Erin Patterson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hepatopancreatobiliary Service, Department of Surgery, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5080805143
+  display_name: Jayon Lihm
+  orcid: https://orcid.org/0000-0002-1308-6507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Oncology Service, Department of Epidemiology and Biostatistics,
+    Memorial Sloan Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5041842371
+  display_name: Nicholas Ceglia
+  orcid: https://orcid.org/0000-0001-9387-103X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Oncology Service, Department of Epidemiology and Biostatistics,
+    Memorial Sloan Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5060095341
+  display_name: Pablo Guasp
+  orcid: https://orcid.org/0000-0002-3655-916X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immuno-Oncology Service, Human Oncology and Pathogenesis Program, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5058618539
+  display_name: Alexander L. Chu
+  orcid: https://orcid.org/0000-0003-1799-127X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Oncology Service, Department of Epidemiology and Biostatistics,
+    Memorial Sloan Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5006885811
+  display_name: Rebecca Yu
+  orcid: https://orcid.org/0000-0002-4137-7993
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immuno-Oncology Service, Human Oncology and Pathogenesis Program, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5039152404
+  display_name: Adrienne Kaya Chandra
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immuno-Oncology Service, Human Oncology and Pathogenesis Program, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5104074820
+  display_name: Theresa Waters
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immuno-Oncology Service, Human Oncology and Pathogenesis Program, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5112245749
+  display_name: Jennifer Jin Ruan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immuno-Oncology Service, Human Oncology and Pathogenesis Program, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5076427318
+  display_name: Masataka Amisaki
+  orcid: https://orcid.org/0000-0003-4153-4036
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immuno-Oncology Service, Human Oncology and Pathogenesis Program, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5081300102
+  display_name: Abderezak Zebboudj
+  orcid: https://orcid.org/0000-0002-4708-5211
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hepatopancreatobiliary Service, Department of Surgery, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5111636371
+  display_name: Zagaa Odgerel
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hepatopancreatobiliary Service, Department of Surgery, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5083437807
+  display_name: George C. Payne
+  orcid: https://orcid.org/0009-0008-7931-2184
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hepatopancreatobiliary Service, Department of Surgery, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5063812788
+  display_name: Evelyna Derhovanessian
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5061352303
+  display_name: "Felicitas M\xFCller"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5047573588
+  display_name: Ina Rhee
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genentech, San Francisco, CA, USA
+- author_id: https://openalex.org/A5036276427
+  display_name: Mahesh Yadav
+  orcid: https://orcid.org/0000-0003-2168-8177
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genentech, San Francisco, CA, USA
+- author_id: https://openalex.org/A5039167694
+  display_name: Anton Dobrin
+  orcid: https://orcid.org/0000-0002-9751-0677
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Cell Engineering, Memorial Sloan Kettering Cancer Center, New York,
+    NY, USA
+- author_id: https://openalex.org/A5059625599
+  display_name: Michel Sadelain
+  orcid: https://orcid.org/0000-0002-9031-8025
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Cell Engineering, Memorial Sloan Kettering Cancer Center, New York,
+    NY, USA
+- author_id: https://openalex.org/A5012300513
+  display_name: "Marta \u0141uksza"
+  orcid: https://orcid.org/0000-0002-8443-8135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Oncological Sciences, Tisch Cancer Institute, Icahn School of Medicine
+    at Mount Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5033144345
+  display_name: Noah A. Cohen
+  orcid: https://orcid.org/0000-0003-3947-2585
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5021215219
+  display_name: Laura H. Tang
+  orcid: https://orcid.org/0000-0001-5735-9354
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5085620004
+  display_name: "Olca Ba\u015Ft\xFCrk"
+  orcid: https://orcid.org/0000-0003-2747-1366
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5051277222
+  display_name: "Mithat G\xF6nen"
+  orcid: https://orcid.org/0000-0001-8683-8477
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer
+    Center, New York, NY, USA
+- author_id: https://openalex.org/A5073076234
+  display_name: Seth S. Katz
+  orcid: https://orcid.org/0000-0001-8941-950X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5058483454
+  display_name: Richard Kinh Gian
+  orcid: https://orcid.org/0000-0002-6554-0310
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5083487197
+  display_name: Andrew S. Epstein
+  orcid: https://orcid.org/0000-0003-1808-3070
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5014234217
+  display_name: Parisa Momtaz
+  orcid: https://orcid.org/0000-0002-3030-7615
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5033315908
+  display_name: Wungki Park
+  orcid: https://orcid.org/0000-0002-8006-3102
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David M. Rubenstein Center for Pancreatic Cancer Research, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5067764965
+  display_name: Ryan Sugarman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5027467209
+  display_name: Anna M. Varghese
+  orcid: https://orcid.org/0000-0001-5426-0885
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5079470582
+  display_name: Elizabeth Won
+  orcid: https://orcid.org/0000-0001-5901-750X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5074144766
+  display_name: Avni M. Desai
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY,
+    USA
+- author_id: https://openalex.org/A5000216315
+  display_name: Alice C. Wei
+  orcid: https://orcid.org/0000-0002-2505-959X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David M. Rubenstein Center for Pancreatic Cancer Research, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5111197614
+  display_name: "Michael I. D\u2019Angelica"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David M. Rubenstein Center for Pancreatic Cancer Research, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5070901426
+  display_name: T. Peter Kingham
+  orcid: https://orcid.org/0000-0002-3359-3186
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David M. Rubenstein Center for Pancreatic Cancer Research, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5085574965
+  display_name: Ira Mellman
+  orcid: https://orcid.org/0000-0002-6132-7299
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genentech, San Francisco, CA, USA
+- author_id: https://openalex.org/A5002951130
+  display_name: Taha Merghoub
+  orcid: https://orcid.org/0000-0002-1518-5111
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153466
+    display_name: Weill Cornell Medicine
+    ror: https://ror.org/02r109517
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Meyer Cancer Center, Weill Cornell Medicine, Weill Cornell Medical College, New
+    York, NY, USA
+- author_id: https://openalex.org/A5054656505
+  display_name: Jedd D. Wolchok
+  orcid: https://orcid.org/0000-0001-6718-2222
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4387153466
+    display_name: Weill Cornell Medicine
+    ror: https://ror.org/02r109517
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Meyer Cancer Center, Weill Cornell Medicine, Weill Cornell Medical College, New
+    York, NY, USA
+- author_id: https://openalex.org/A5075617216
+  display_name: "U\u011Fur \u015Eahin"
+  orcid: https://orcid.org/0000-0003-0363-1564
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5000036560
+  display_name: "\xD6zlem T\xFCreci"
+  orcid: https://orcid.org/0000-0002-0623-1497
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134778
+    display_name: BioNTech (Germany)
+    ror: https://ror.org/04fbd2g40
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioNTech, Mainz, Germany
+- author_id: https://openalex.org/A5063215100
+  display_name: Benjamin D. Greenbaum
+  orcid: https://orcid.org/0000-0001-6153-8793
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Oncology Service, Department of Epidemiology and Biostatistics,
+    Memorial Sloan Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5042440032
+  display_name: William R. Jarnagin
+  orcid: https://orcid.org/0000-0002-1635-5768
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David M. Rubenstein Center for Pancreatic Cancer Research, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5079031946
+  display_name: Jeffrey A. Drebin
+  orcid: https://orcid.org/0000-0003-2312-2062
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David M. Rubenstein Center for Pancreatic Cancer Research, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5076438320
+  display_name: "Eileen M. O\u2019Reilly"
+  orcid: https://orcid.org/0000-0002-8076-9199
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David M. Rubenstein Center for Pancreatic Cancer Research, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5060380153
+  display_name: Vinod P. Balachandran
+  orcid: https://orcid.org/0000-0002-2956-223X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David M. Rubenstein Center for Pancreatic Cancer Research, Memorial Sloan Kettering
+    Cancer Center, New York, NY, USA
+referenced_works:
+- https://openalex.org/W148516797
+- https://openalex.org/W1968812902
+- https://openalex.org/W1969072247
+- https://openalex.org/W1980497671
+- https://openalex.org/W1981150156
+- https://openalex.org/W1994391392
+- https://openalex.org/W1998518732
+- https://openalex.org/W2011458181
+- https://openalex.org/W2022990363
+- https://openalex.org/W2039422212
+- https://openalex.org/W2044363258
+- https://openalex.org/W2047318784
+- https://openalex.org/W2051978340
+- https://openalex.org/W2058817033
+- https://openalex.org/W2074640340
+- https://openalex.org/W2077200917
+- https://openalex.org/W2079696222
+- https://openalex.org/W2104603094
+- https://openalex.org/W2119180969
+- https://openalex.org/W2120079339
+- https://openalex.org/W2124427232
+- https://openalex.org/W2129884672
+- https://openalex.org/W2138582833
+- https://openalex.org/W2161208630
+- https://openalex.org/W223909586
+- https://openalex.org/W2282550179
+- https://openalex.org/W2412158473
+- https://openalex.org/W2461466229
+- https://openalex.org/W2538063110
+- https://openalex.org/W2560367415
+- https://openalex.org/W2564934728
+- https://openalex.org/W2624519828
+- https://openalex.org/W2724264513
+- https://openalex.org/W2767699537
+- https://openalex.org/W2767891987
+- https://openalex.org/W2772063315
+- https://openalex.org/W2779221466
+- https://openalex.org/W2800392236
+- https://openalex.org/W2897346547
+- https://openalex.org/W2898789672
+- https://openalex.org/W2911449055
+- https://openalex.org/W2947818769
+- https://openalex.org/W2950612260
+- https://openalex.org/W3005326482
+- https://openalex.org/W3040324319
+- https://openalex.org/W3046115489
+- https://openalex.org/W3081861280
+- https://openalex.org/W3083055113
+- https://openalex.org/W3093383535
+- https://openalex.org/W3120922379
+- https://openalex.org/W3122472315
+- https://openalex.org/W3128646645
+- https://openalex.org/W3164002264
+- https://openalex.org/W3168693194
+- https://openalex.org/W3197265554
+- https://openalex.org/W3197559541
+- https://openalex.org/W4211253487
+- https://openalex.org/W4225380763
+- https://openalex.org/W4225883667
+- https://openalex.org/W4233651632
+- https://openalex.org/W4239330499
+- https://openalex.org/W4280529341
+- https://openalex.org/W4315754639
+- https://openalex.org/W4384925646
+primary_topic: Immunotherapy and Immune Responses
+open_access: true

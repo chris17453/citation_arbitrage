@@ -1,0 +1,1594 @@
+id: https://openalex.org/W3203103016
+doi: https://doi.org/10.1097/ccm.0000000000005337
+title: 'Surviving Sepsis Campaign: International Guidelines for Management of Sepsis
+  and Septic Shock 2021'
+publication_date: '2021-10-04'
+publication_year: 2021
+cited_by_count: 2046
+citation_percentile: 0.999973
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5101900346
+  display_name: Laura Evans
+  orcid: https://orcid.org/0000-0002-3176-6493
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Pulmonary, Critical Care and Sleep Medicine, University of Washington,
+    Seattle, Washington, USA.
+- author_id: https://openalex.org/A5083275742
+  display_name: Andrew Rhodes
+  orcid: https://orcid.org/0000-0002-8737-574X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801196673
+    display_name: "St George\u2019s University Hospitals NHS Foundation Trust"
+    ror: https://ror.org/039zedc16
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I165862685
+    display_name: St George's, University of London
+    ror: https://ror.org/040f08y74
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Adult Critical Care, St. George\u2019s University Hospitals NHS Foundation Trust\
+    \ & St. George\u2019s University of London, London, UK."
+- author_id: https://openalex.org/A5020157030
+  display_name: Waleed Alhazzani
+  orcid: https://orcid.org/0000-0001-8076-9626
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, McMaster University, Canada & Department of Medicine,
+    McMaster University, Hamilton, Ontario, Canada.
+- author_id: https://openalex.org/A5030961669
+  display_name: Massimo Antonelli
+  orcid: https://orcid.org/0000-0003-3007-1670
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153126
+    display_name: Istituti di Ricovero e Cura a Carattere Scientifico
+    ror: https://ror.org/04tfzc498
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I2802557943
+    display_name: Agostino Gemelli University Polyclinic
+    ror: https://ror.org/00rg70c39
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Dipartimento di Scienze dell\u2019 Emergenza Anestesiologiche e della Rianimazione,\
+    \ Policlinico Universitario A. Gemelli IRCCS Rome, Italy."
+- author_id: https://openalex.org/A5012550644
+  display_name: Craig M. Coopersmith
+  orcid: https://orcid.org/0000-0003-2400-3217
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Emory University School of Medicine, Atlanta, Georgia, USA
+- author_id: https://openalex.org/A5032363710
+  display_name: Craig French
+  orcid: https://orcid.org/0000-0003-1363-9711
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210116486
+    display_name: Western Health
+    ror: https://ror.org/02p4mwa83
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Western Health, Melbourne, Australia.
+- author_id: https://openalex.org/A5083885224
+  display_name: "Fl\xE1via Ribeiro Machado"
+  orcid: https://orcid.org/0000-0002-2356-4867
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I88273585
+    display_name: "Universidade Federal de S\xE3o Paulo"
+    ror: https://ror.org/02k5swt12
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Anesthesiology, Pain and Intensive Care Department, Federal University of S\xE3\
+    o Paolo, S\xE3o Paulo, Brazil."
+- author_id: https://openalex.org/A5084706902
+  display_name: Lauralyn McIntyre
+  orcid: https://orcid.org/0000-0001-7421-1407
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800722420
+    display_name: Ottawa Hospital
+    ror: https://ror.org/03c62dg59
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ottawa Hospital, Ottawa, Ontario, Canada.
+- author_id: https://openalex.org/A5070798527
+  display_name: Marlies Ostermann
+  orcid: https://orcid.org/0000-0001-9500-9080
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1324925910
+    display_name: St Thomas' Hospital
+    ror: https://ror.org/054gk2851
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Guy\u2019s & St Thomas\u2019 Hospital, London, England, UK."
+- author_id: https://openalex.org/A5028770634
+  display_name: Hallie C. Prescott
+  orcid: https://orcid.org/0000-0002-8442-6724
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114783
+    display_name: VA Center for Clinical Management Research
+    ror: https://ror.org/02arm0y30
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Michigan and VA Center for Clinical Management Research, Ann Arbor,
+    Michigan, USA.
+- author_id: https://openalex.org/A5027206752
+  display_name: Christa Schorr
+  orcid: https://orcid.org/0000-0001-7777-4280
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210157085
+    display_name: Cooper University Health Care
+    ror: https://ror.org/056nm0533
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cooper Health System, Camden, New Jersey, USA.
+- author_id: https://openalex.org/A5015680155
+  display_name: Steven Q. Simpson
+  orcid: https://orcid.org/0000-0002-9166-2717
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210128618
+    display_name: University of Kansas Medical Center
+    ror: https://ror.org/036c9yv20
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Kansas Medical Center, Kansas City, Kansas, USA.
+- author_id: https://openalex.org/A5030071794
+  display_name: W. Joost Wiersinga
+  orcid: https://orcid.org/0000-0003-2277-1343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ESCMID Study Group for Bloodstream Infections, Endocarditis and Sepsis, Division
+    of Infectious Diseases, Amsterdam UMC, University of Amsterdam, Amsterdam, The
+    Netherlands.
+- author_id: https://openalex.org/A5018275896
+  display_name: Fayez Alshamsi
+  orcid: https://orcid.org/0000-0002-9121-4279
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201726411
+    display_name: United Arab Emirates University
+    ror: https://ror.org/01km6p862
+    country_code: AE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, College of Medicine and Health Sciences, United
+    Arab Emirates University, Al Ain, United Arab Emirates.
+- author_id: https://openalex.org/A5001670387
+  display_name: Derek C. Angus
+  orcid: https://orcid.org/0000-0002-7026-5181
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Pittsburgh Critical Care Medicine CRISMA Laboratory, Pittsburgh,
+    Pennsylvania, USA.
+- author_id: https://openalex.org/A5021200051
+  display_name: Yaseen M. Arabi
+  orcid: https://orcid.org/0000-0001-5735-6241
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095597
+    display_name: King Abdullah International Medical Research Center
+    ror: https://ror.org/009p8zv69
+    country_code: SA
+    type: funder
+  - id: https://openalex.org/I185203018
+    display_name: King Saud bin Abdulaziz University for Health Sciences
+    ror: https://ror.org/0149jvn88
+    country_code: SA
+    type: funder
+  - id: https://openalex.org/I4517696
+    display_name: National Guard Health Affairs
+    ror: https://ror.org/02pecpe58
+    country_code: SA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Intensive Care Department, Ministry of National Guard Health Affairs, King Saud
+    Bin Abdulaziz University for Health Sciences, King Abdullah International Medical
+    Research Center, Riyadh, Kingdom of Saudi Arabia.
+- author_id: https://openalex.org/A5052875900
+  display_name: "Luciano C\xE9sar Pontes Azevedo"
+  orcid: https://orcid.org/0000-0001-6759-3910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I17974374
+    display_name: "Universidade de S\xE3o Paulo"
+    ror: https://ror.org/036rp1748
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "University of S\xE3o Paulo, School of Medicine, S\xE3o Paolo, Brazil."
+- author_id: https://openalex.org/A5104022340
+  display_name: Richard Beale
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1324925910
+    display_name: St Thomas' Hospital
+    ror: https://ror.org/054gk2851
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Guy\u2019s & St Thomas\u2019 Hospital, London, UK."
+- author_id: https://openalex.org/A5054197966
+  display_name: Gregory J. Beilman
+  orcid: https://orcid.org/0000-0001-5036-3027
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Minnesota, Minneapolis, Minnesota, USA.
+- author_id: https://openalex.org/A5019000744
+  display_name: "Emilie P. Belley\u2010C\xF4t\xE9"
+  orcid: https://orcid.org/0000-0002-5071-076X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802834092
+    display_name: Population Health Research Institute
+    ror: https://ror.org/03kwaeq96
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Health Research Institute, Hamilton, Ontario, Canada.
+- author_id: https://openalex.org/A5059751298
+  display_name: Lisa Burry
+  orcid: https://orcid.org/0000-0002-6545-3890
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291836623
+    display_name: Mount Sinai Hospital
+    ror: https://ror.org/05deks119
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mount Sinai Hospital & University of Toronto (Leslie Dan Faculty of Pharmacy),Toronto,
+    Ontario, Canada.
+- author_id: https://openalex.org/A5086871368
+  display_name: Maurizio Cecconi
+  orcid: https://orcid.org/0000-0002-4376-6538
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210163047
+    display_name: IRCCS Humanitas Research Hospital
+    ror: https://ror.org/05d538656
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I1339471597
+    display_name: Humanitas University
+    ror: https://ror.org/020dggs04
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Sciences, Humanitas University Pieve Emanuele, Milan,
+    Italy
+  - Department of Biomedical Sciences, Humanitas University Pieve Emanuele, Milan,
+    Italy; Department of Anaesthesia and Intensive Care, IRCCS Humanitas Research
+    Hospital, Rozzano, Milan, Italy.
+- author_id: https://openalex.org/A5004221938
+  display_name: John Centofanti
+  orcid: https://orcid.org/0000-0001-5324-2220
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesia, McMaster University, Hamilton, Ontario, Canada.
+- author_id: https://openalex.org/A5013484699
+  display_name: Angel Coz Yataco
+  orcid: https://orcid.org/0000-0002-8613-6974
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I143302722
+    display_name: University of Kentucky
+    ror: https://ror.org/02k3smh20
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lexington Veterans Affairs Medical Center/University of Kentucky College of Medicine,
+    Lexington, Kentucky, USA.
+- author_id: https://openalex.org/A5002789362
+  display_name: Jan J. De Waele
+  orcid: https://orcid.org/0000-0003-1017-9748
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801227569
+    display_name: Ghent University Hospital
+    ror: https://ror.org/00xmkp704
+    country_code: BE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ghent University Hospital, Ghent, Belgium.
+- author_id: https://openalex.org/A5108633486
+  display_name: R. Phillip Dellinger
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210157085
+    display_name: Cooper University Health Care
+    ror: https://ror.org/056nm0533
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cooper Health System, Camden, New Jersey, USA.
+- author_id: https://openalex.org/A5024738150
+  display_name: Kent Doi
+  orcid: https://orcid.org/0000-0002-0115-1439
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The University of Tokyo, Tokyo, Japan.
+- author_id: https://openalex.org/A5012294390
+  display_name: Bin Du
+  orcid: https://orcid.org/0000-0001-6237-2895
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801228662
+    display_name: Peking Union Medical College Hospital
+    ror: https://ror.org/04jztag35
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical ICU, Peking Union Medical College Hospital, Beijing, China.
+- author_id: https://openalex.org/A5111606310
+  display_name: Elisa Estenssoro
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210118619
+    display_name: Hospital Italiano La Plata
+    ror: https://ror.org/027nnzv91
+    country_code: AR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hospital Interzonal de Agudos San Martin de La Plata, Buenos Aires, Argentina.
+- author_id: https://openalex.org/A5033820862
+  display_name: Ricard Ferrer
+  orcid: https://orcid.org/0000-0002-4859-4747
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102407
+    display_name: Vall d'Hebron Institut de Recerca
+    ror: https://ror.org/01d5vx451
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Intensive Care Department, Vall d\u2019Hebron University Hospital, Vall d\u2019\
+    Hebron Institut de Recerca, Barcelona, Spain."
+- author_id: https://openalex.org/A5107244019
+  display_name: Charles D. Gomersall
+  orcid: https://orcid.org/0000-0002-8494-8063
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114914
+    display_name: Prince of Wales Hospital
+    ror: https://ror.org/02827ca86
+    country_code: HK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Prince of Wales Hospital, Hong Kong, China.
+- author_id: https://openalex.org/A5039423041
+  display_name: Carol Hodgson
+  orcid: https://orcid.org/0000-0001-9002-2075
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088696
+    display_name: Australian and New Zealand Intensive Care Society
+    ror: https://ror.org/007847151
+    country_code: AU
+    type: education
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Australian and New Zealand Intensive Care Research Centre, Monash University,
+    Melbourne, Victoria, Australia.
+- author_id: https://openalex.org/A5045762489
+  display_name: "Morten Hylander M\xF8ller"
+  orcid: https://orcid.org/0000-0002-6378-9673
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802567020
+    display_name: Copenhagen University Hospital
+    ror: https://ror.org/05bpbnx46
+    country_code: DK
+    type: healthcare
+  - id: https://openalex.org/I2802709434
+    display_name: Rigshospitalet
+    ror: https://ror.org/03mchdq19
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Copenhagen University Hospital Rigshospitalet, Department of Intensive Care, Copenhagen,
+    Denmark.
+- author_id: https://openalex.org/A5030337104
+  display_name: Theodore J. Iwashyna
+  orcid: https://orcid.org/0000-0002-4226-9310
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114445
+    display_name: Michigan Medicine
+    ror: https://ror.org/01zcpa714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Michigan Health System, Ann Arbor, Michigan, USA.
+- author_id: https://openalex.org/A5021450976
+  display_name: Shevin T. Jacob
+  orcid: https://orcid.org/0000-0003-2425-9394
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I194839184
+    display_name: Liverpool School of Tropical Medicine
+    ror: https://ror.org/03svjbs84
+    country_code: GB
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Liverpool School of Tropical Medicine, Liverpool, UK.
+- author_id: https://openalex.org/A5057939198
+  display_name: Ruth Kleinpell
+  orcid: https://orcid.org/0000-0003-0142-7527
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200719446
+    display_name: Vanderbilt University
+    ror: https://ror.org/02vm5rt34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vanderbilt University, Nashville, Tennessee, USA.
+- author_id: https://openalex.org/A5021020684
+  display_name: Michael Klompas
+  orcid: https://orcid.org/0000-0001-8641-4498
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111543
+    display_name: Harvard Pilgrim Health Care
+    ror: https://ror.org/01zxdeg39
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1283280774
+    display_name: Brigham and Women's Hospital
+    ror: https://ror.org/04b6nzv94
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Medicine, Brigham and Women\u2019s Hospital, Boston MA; Department\
+    \ of Population Medicine, Harvard Medical School, and Harvard Pilgrim Health Care\
+    \ Institute, Boston, Massachusetts, USA."
+- author_id: https://openalex.org/A5029655014
+  display_name: Younsuck Koh
+  orcid: https://orcid.org/0000-0001-5066-2027
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40542001
+    display_name: University of Ulsan
+    ror: https://ror.org/02c2f8975
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I116631150
+    display_name: Ulsan College
+    ror: https://ror.org/02tec3785
+    country_code: KR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ASAN Medical Center, University of Ulsan College of Medicine, Seoul, South Korea.
+- author_id: https://openalex.org/A5100666631
+  display_name: Anand Kumar
+  orcid: https://orcid.org/0000-0002-5034-4341
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I46247651
+    display_name: University of Manitoba
+    ror: https://ror.org/02gfys938
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Manitoba, Winnipeg, MB, Canada.
+- author_id: https://openalex.org/A5031137260
+  display_name: Arthur Kwizera
+  orcid: https://orcid.org/0000-0002-7025-0465
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I72227227
+    display_name: Makerere University
+    ror: https://ror.org/03dmz0111
+    country_code: UG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Makerere University College of Health Sciences, Kampala, Uganda.
+- author_id: https://openalex.org/A5059898318
+  display_name: Suzana Margareth Lobo
+  orcid: https://orcid.org/0000-0003-2726-2441
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1340031499
+    display_name: "Faculdade de Medicina de S\xE3o Jos\xE9 do Rio Preto"
+    ror: https://ror.org/052e6h087
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Intensive Care Division. Faculdade de Medicina de S\xE3o Jos\xE9 do Rio Preto,\
+    \ S\xE3o Paulo, Brazil."
+- author_id: https://openalex.org/A5044817385
+  display_name: Henry Masur
+  orcid: https://orcid.org/0000-0002-3688-021X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155647
+    display_name: National Institutes of Health Clinical Center
+    ror: https://ror.org/04vfsmv21
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Critical Care Medicine Department, NIH Clinical Center, Bethesda, Maryland, USA.
+- author_id: https://openalex.org/A5112543886
+  display_name: Steven McGloughlin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210163178
+    display_name: Alfred Health
+    ror: https://ror.org/04scfb908
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Alfred Health, Melbourne, Australia.
+- author_id: https://openalex.org/A5113966899
+  display_name: Sangeeta Mehta
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291836623
+    display_name: Mount Sinai Hospital
+    ror: https://ror.org/05deks119
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mount Sinai Hospital, Toronto, Ontario, Canada.
+- author_id: https://openalex.org/A5021198421
+  display_name: Yatin Mehta
+  orcid: https://orcid.org/0000-0002-0888-4774
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115207
+    display_name: Medanta The Medicity
+    ror: https://ror.org/023vqza20
+    country_code: IN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medanta The Medicity, Gurugram, Haryana, India.
+- author_id: https://openalex.org/A5048152610
+  display_name: Mervyn Mer
+  orcid: https://orcid.org/0000-0003-3338-8251
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I192619145
+    display_name: University of the Witwatersrand
+    ror: https://ror.org/03rp50x72
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I2799742747
+    display_name: Johannesburg Hospital
+    ror: https://ror.org/047x96110
+    country_code: ZA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Charlotte Maxeke Johannesburg Academic Hospital and Faculty of Health Sciences,
+    University of the Witwatersrand, Johannesburg, South Africa.
+- author_id: https://openalex.org/A5015575648
+  display_name: Mark Nunnally
+  orcid: https://orcid.org/0000-0003-2129-4733
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - New York University School of Medicine, New York, New York, USA.
+- author_id: https://openalex.org/A5088664027
+  display_name: Simon Oczkowski
+  orcid: https://orcid.org/0000-0002-2874-8948
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+- author_id: https://openalex.org/A5007271096
+  display_name: Tiffany M. Osborn
+  orcid: https://orcid.org/0000-0001-9531-6486
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Washington University School of Medicine, St. Louis, Missouri, USA.
+- author_id: https://openalex.org/A5080533274
+  display_name: Elizabeth Papathanassoglou
+  orcid: https://orcid.org/0000-0002-7439-1492
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Nursing, University of Alberta, Edmonton, Alberta, Canada.
+- author_id: https://openalex.org/A5020727172
+  display_name: Anders Perner
+  orcid: https://orcid.org/0000-0002-4668-0123
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802709434
+    display_name: Rigshospitalet
+    ror: https://ror.org/03mchdq19
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rigshospitalet, Copenhagen, Denmark.
+- author_id: https://openalex.org/A5047523143
+  display_name: Michael A. Puskarich
+  orcid: https://orcid.org/0000-0001-6358-4670
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802288015
+    display_name: Hennepin County Medical Center
+    ror: https://ror.org/01k7a6660
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Minnesota/Hennepin County Medical Center, Minneapolis, Minnesota,
+    USA.
+- author_id: https://openalex.org/A5037468542
+  display_name: Jason A. Roberts
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19894307
+    display_name: "Universit\xE9 de Montpellier"
+    ror: https://ror.org/051escj72
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I165143802
+    display_name: The University of Queensland
+    ror: https://ror.org/00rqy9422
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I2799393793
+    display_name: Royal Brisbane and Women's Hospital
+    ror: https://ror.org/05p52kj31
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "University of Queensland Centre for Clinical Research, Faculty of Medicine, The\
+    \ University of Queensland, Brisbane, Australia, Departments of Pharmacy and Intensive\
+    \ Care Medicine, Royal Brisbane and Women\u2019s Hospital, Brisbane, Australia,\
+    \ Division of Anaesthesiology Critical Care Emergency and Pain Medicine, N\xEE\
+    mes University Hospital, University of Montpellier, N\xEEmes, France."
+- author_id: https://openalex.org/A5040177732
+  display_name: William D. Schweickert
+  orcid: https://orcid.org/0000-0002-2890-471X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+- author_id: https://openalex.org/A5015283162
+  display_name: Maureen A. Seckel
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1281704429
+    display_name: Christiana Care Health System
+    ror: https://ror.org/02h905004
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ChristianaCare, Newark, Delaware, USA.
+- author_id: https://openalex.org/A5112894063
+  display_name: Jonathan Sevransky
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Emory University School of Medicine, Atlanta, Georgia, USA.
+- author_id: https://openalex.org/A5014523966
+  display_name: Charles L. Sprung
+  orcid: https://orcid.org/0000-0002-2268-906X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I197251160
+    display_name: Hebrew University of Jerusalem
+    ror: https://ror.org/03qxff017
+    country_code: IL
+    type: funder
+  - id: https://openalex.org/I2799899409
+    display_name: Hadassah Medical Center
+    ror: https://ror.org/01cqmqj90
+    country_code: IL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel
+  - Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel; Department
+    of Anesthesiology, Critical Care and Pain Medicine, Hadassah Medical Center, Jerusalem,
+    Israel.
+- author_id: https://openalex.org/A5059857876
+  display_name: Tobias Welte
+  orcid: https://orcid.org/0000-0002-9947-7356
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34809795
+    display_name: Medizinische Hochschule Hannover
+    ror: https://ror.org/00f2yqf98
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medizinische Hochschule Hannover and German Center of Lung Research (DZL), Hannover,
+    Germany.
+- author_id: https://openalex.org/A5107875083
+  display_name: Janice L. Zimmerman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109438
+    display_name: European Society of Intensive Care Medicine
+    ror: https://ror.org/0222qrf24
+    country_code: BE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - World Federation of Intensive and Critical Care, Brussels, Belgium.
+- author_id: https://openalex.org/A5000157972
+  display_name: Mitchell M. Levy
+  orcid: https://orcid.org/0000-0001-8556-2405
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2800446032
+    display_name: Rhode Island Hospital
+    ror: https://ror.org/01aw9fv09
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I196272386
+    display_name: Providence College
+    ror: https://ror.org/00rxpqe74
+    country_code: US
+    type: education
+  - id: https://openalex.org/I27804330
+    display_name: Brown University
+    ror: https://ror.org/05gq02987
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Warren Alpert School of Medicine at Brown University, Providence, Rhode Island
+    & Rhode Island Hospital, Providence, Rhode Island, USA.
+referenced_works:
+- https://openalex.org/W1186068743
+- https://openalex.org/W1230640476
+- https://openalex.org/W127034668
+- https://openalex.org/W130558002
+- https://openalex.org/W1498847688
+- https://openalex.org/W1524218673
+- https://openalex.org/W1535960055
+- https://openalex.org/W1536584715
+- https://openalex.org/W1583831774
+- https://openalex.org/W1630391490
+- https://openalex.org/W1667825434
+- https://openalex.org/W171294632
+- https://openalex.org/W17276721
+- https://openalex.org/W1741992729
+- https://openalex.org/W1803784511
+- https://openalex.org/W1819136571
+- https://openalex.org/W1839481804
+- https://openalex.org/W1846663651
+- https://openalex.org/W1888492503
+- https://openalex.org/W1924744055
+- https://openalex.org/W1928918188
+- https://openalex.org/W1938806933
+- https://openalex.org/W1940579175
+- https://openalex.org/W1954287249
+- https://openalex.org/W1962642315
+- https://openalex.org/W1963899622
+- https://openalex.org/W1964655784
+- https://openalex.org/W1967504109
+- https://openalex.org/W1968250575
+- https://openalex.org/W1969994160
+- https://openalex.org/W1974048862
+- https://openalex.org/W1974404062
+- https://openalex.org/W1974410778
+- https://openalex.org/W1974957474
+- https://openalex.org/W1977436843
+- https://openalex.org/W1978575887
+- https://openalex.org/W1978616397
+- https://openalex.org/W1978974268
+- https://openalex.org/W1979497376
+- https://openalex.org/W1979733176
+- https://openalex.org/W1979960341
+- https://openalex.org/W1980711567
+- https://openalex.org/W1980717583
+- https://openalex.org/W1981770733
+- https://openalex.org/W1982910325
+- https://openalex.org/W1983790944
+- https://openalex.org/W1985341044
+- https://openalex.org/W1985812045
+- https://openalex.org/W1985847099
+- https://openalex.org/W1986036750
+- https://openalex.org/W1990708972
+- https://openalex.org/W1992122264
+- https://openalex.org/W1992348377
+- https://openalex.org/W1993397663
+- https://openalex.org/W1994256263
+- https://openalex.org/W1995046939
+- https://openalex.org/W1995139142
+- https://openalex.org/W1995887867
+- https://openalex.org/W1996396973
+- https://openalex.org/W1999370216
+- https://openalex.org/W1999897534
+- https://openalex.org/W2000724121
+- https://openalex.org/W2003136021
+- https://openalex.org/W2003812647
+- https://openalex.org/W2005524978
+- https://openalex.org/W2006709923
+- https://openalex.org/W2008190687
+- https://openalex.org/W2009713463
+- https://openalex.org/W2010149513
+- https://openalex.org/W2010751662
+- https://openalex.org/W2012202434
+- https://openalex.org/W2014473349
+- https://openalex.org/W2014698393
+- https://openalex.org/W2015076149
+- https://openalex.org/W2016219181
+- https://openalex.org/W2017487363
+- https://openalex.org/W2019032950
+- https://openalex.org/W2019847904
+- https://openalex.org/W2021668188
+- https://openalex.org/W2022518136
+- https://openalex.org/W2024647297
+- https://openalex.org/W2026082339
+- https://openalex.org/W2026400738
+- https://openalex.org/W2026574962
+- https://openalex.org/W2027548739
+- https://openalex.org/W2029383736
+- https://openalex.org/W2029598996
+- https://openalex.org/W2030080135
+- https://openalex.org/W2031608109
+- https://openalex.org/W2031890657
+- https://openalex.org/W2031987490
+- https://openalex.org/W2032669171
+- https://openalex.org/W2033738855
+- https://openalex.org/W2033749710
+- https://openalex.org/W2036619852
+- https://openalex.org/W2037844461
+- https://openalex.org/W2041124978
+- https://openalex.org/W2042741618
+- https://openalex.org/W2042764875
+- https://openalex.org/W2044241529
+- https://openalex.org/W2044502735
+- https://openalex.org/W2045215663
+- https://openalex.org/W2045732796
+- https://openalex.org/W2046612706
+- https://openalex.org/W2047390521
+- https://openalex.org/W2047586716
+- https://openalex.org/W2047833061
+- https://openalex.org/W2049007714
+- https://openalex.org/W2052409878
+- https://openalex.org/W2052809746
+- https://openalex.org/W2053430308
+- https://openalex.org/W2053634710
+- https://openalex.org/W2054120947
+- https://openalex.org/W2054723603
+- https://openalex.org/W2057226149
+- https://openalex.org/W2057350807
+- https://openalex.org/W2058576569
+- https://openalex.org/W2058787796
+- https://openalex.org/W2058808979
+- https://openalex.org/W2062054105
+- https://openalex.org/W2065719993
+- https://openalex.org/W2065812583
+- https://openalex.org/W2066040271
+- https://openalex.org/W2066473574
+- https://openalex.org/W2067245892
+- https://openalex.org/W2067722815
+- https://openalex.org/W2070242840
+- https://openalex.org/W2070244277
+- https://openalex.org/W2070786764
+- https://openalex.org/W2071172254
+- https://openalex.org/W2072044260
+- https://openalex.org/W2072669160
+- https://openalex.org/W2073591148
+- https://openalex.org/W2074024779
+- https://openalex.org/W2074225649
+- https://openalex.org/W2075443305
+- https://openalex.org/W2077115476
+- https://openalex.org/W2077606378
+- https://openalex.org/W2079018559
+- https://openalex.org/W2080125558
+- https://openalex.org/W2080363965
+- https://openalex.org/W2081795627
+- https://openalex.org/W2082012484
+- https://openalex.org/W2082839305
+- https://openalex.org/W2082857916
+- https://openalex.org/W2083815143
+- https://openalex.org/W2084371397
+- https://openalex.org/W2084588737
+- https://openalex.org/W2085823939
+- https://openalex.org/W2086167278
+- https://openalex.org/W2087203965
+- https://openalex.org/W2089094816
+- https://openalex.org/W2089146960
+- https://openalex.org/W2091601305
+- https://openalex.org/W2092043017
+- https://openalex.org/W2092585256
+- https://openalex.org/W2093598389
+- https://openalex.org/W2094857325
+- https://openalex.org/W2094915224
+- https://openalex.org/W2096074908
+- https://openalex.org/W2096350581
+- https://openalex.org/W2096896616
+- https://openalex.org/W2097294873
+- https://openalex.org/W2097476575
+- https://openalex.org/W2097612565
+- https://openalex.org/W2097786723
+- https://openalex.org/W2098019283
+- https://openalex.org/W2098311877
+- https://openalex.org/W2098572294
+- https://openalex.org/W2100090718
+- https://openalex.org/W2100154890
+- https://openalex.org/W2101077702
+- https://openalex.org/W2101416655
+- https://openalex.org/W2102187963
+- https://openalex.org/W2102255401
+- https://openalex.org/W2102263282
+- https://openalex.org/W2102463930
+- https://openalex.org/W2104415072
+- https://openalex.org/W2104808759
+- https://openalex.org/W2105860549
+- https://openalex.org/W2105999224
+- https://openalex.org/W2106721231
+- https://openalex.org/W2106923828
+- https://openalex.org/W2107284057
+- https://openalex.org/W2107328434
+- https://openalex.org/W2107341991
+- https://openalex.org/W2107348015
+- https://openalex.org/W2107704185
+- https://openalex.org/W2108153775
+- https://openalex.org/W2109704422
+- https://openalex.org/W2109728419
+- https://openalex.org/W2109814431
+- https://openalex.org/W2109928541
+- https://openalex.org/W2110538662
+- https://openalex.org/W2110623683
+- https://openalex.org/W2110992040
+- https://openalex.org/W2111015920
+- https://openalex.org/W2111597613
+- https://openalex.org/W2112191002
+- https://openalex.org/W2112490859
+- https://openalex.org/W2112887276
+- https://openalex.org/W2114604259
+- https://openalex.org/W2115186092
+- https://openalex.org/W2115815683
+- https://openalex.org/W2116685432
+- https://openalex.org/W2117005662
+- https://openalex.org/W2117029993
+- https://openalex.org/W2117166221
+- https://openalex.org/W2117396295
+- https://openalex.org/W2118318411
+- https://openalex.org/W2120076396
+- https://openalex.org/W2120127772
+- https://openalex.org/W2120267076
+- https://openalex.org/W2122715588
+- https://openalex.org/W2122789293
+- https://openalex.org/W2123370987
+- https://openalex.org/W2123461911
+- https://openalex.org/W2123859227
+- https://openalex.org/W2124999118
+- https://openalex.org/W2125867795
+- https://openalex.org/W2127473167
+- https://openalex.org/W2128165683
+- https://openalex.org/W2128695389
+- https://openalex.org/W2129289400
+- https://openalex.org/W2129688861
+- https://openalex.org/W2130300971
+- https://openalex.org/W2132202017
+- https://openalex.org/W2133120422
+- https://openalex.org/W2134186143
+- https://openalex.org/W2134689623
+- https://openalex.org/W2134827411
+- https://openalex.org/W2134978365
+- https://openalex.org/W2135400982
+- https://openalex.org/W2136343733
+- https://openalex.org/W2136670671
+- https://openalex.org/W2137249080
+- https://openalex.org/W2137325517
+- https://openalex.org/W2137575148
+- https://openalex.org/W2137815358
+- https://openalex.org/W2137837217
+- https://openalex.org/W2139382481
+- https://openalex.org/W2139564790
+- https://openalex.org/W2139706988
+- https://openalex.org/W2139865372
+- https://openalex.org/W2140410010
+- https://openalex.org/W2140505203
+- https://openalex.org/W2143748013
+- https://openalex.org/W2144589352
+- https://openalex.org/W2144677985
+- https://openalex.org/W2145053281
+- https://openalex.org/W2145427653
+- https://openalex.org/W2146352833
+- https://openalex.org/W2146470820
+- https://openalex.org/W2147279870
+- https://openalex.org/W2147473688
+- https://openalex.org/W2147570947
+- https://openalex.org/W2148077193
+- https://openalex.org/W2148218430
+- https://openalex.org/W2148706741
+- https://openalex.org/W2148718994
+- https://openalex.org/W2149073353
+- https://openalex.org/W2149186506
+- https://openalex.org/W2149288225
+- https://openalex.org/W2149566104
+- https://openalex.org/W2150428940
+- https://openalex.org/W2150866864
+- https://openalex.org/W2153339769
+- https://openalex.org/W2153575596
+- https://openalex.org/W2153641174
+- https://openalex.org/W2154581887
+- https://openalex.org/W2155800098
+- https://openalex.org/W2155869685
+- https://openalex.org/W2156856199
+- https://openalex.org/W2157720105
+- https://openalex.org/W2157744708
+- https://openalex.org/W2157775267
+- https://openalex.org/W2157832096
+- https://openalex.org/W2158096939
+- https://openalex.org/W2158448358
+- https://openalex.org/W2158485463
+- https://openalex.org/W2160691650
+- https://openalex.org/W2160739269
+- https://openalex.org/W2161328469
+- https://openalex.org/W2161342563
+- https://openalex.org/W2161872635
+- https://openalex.org/W2161916295
+- https://openalex.org/W2162001089
+- https://openalex.org/W2162031798
+- https://openalex.org/W2162272618
+- https://openalex.org/W2162373825
+- https://openalex.org/W2164001967
+- https://openalex.org/W2165010366
+- https://openalex.org/W2165094816
+- https://openalex.org/W2165293485
+- https://openalex.org/W2165760729
+- https://openalex.org/W2165852759
+- https://openalex.org/W2165995565
+- https://openalex.org/W2166328186
+- https://openalex.org/W2166356134
+- https://openalex.org/W2167478242
+- https://openalex.org/W2167904375
+- https://openalex.org/W2168374896
+- https://openalex.org/W2168829312
+- https://openalex.org/W2168878700
+- https://openalex.org/W2169283873
+- https://openalex.org/W2169453316
+- https://openalex.org/W2169558208
+- https://openalex.org/W2169944402
+- https://openalex.org/W2171814874
+- https://openalex.org/W2202539871
+- https://openalex.org/W221004403
+- https://openalex.org/W2216117396
+- https://openalex.org/W2218625772
+- https://openalex.org/W2227283568
+- https://openalex.org/W2229990733
+- https://openalex.org/W2231155641
+- https://openalex.org/W2245120212
+- https://openalex.org/W2253853790
+- https://openalex.org/W2260374424
+- https://openalex.org/W2268723652
+- https://openalex.org/W2274951248
+- https://openalex.org/W2278600110
+- https://openalex.org/W2280404143
+- https://openalex.org/W2282181907
+- https://openalex.org/W2287296216
+- https://openalex.org/W2289242065
+- https://openalex.org/W2298261704
+- https://openalex.org/W2302077120
+- https://openalex.org/W2312555710
+- https://openalex.org/W2312765923
+- https://openalex.org/W2318418978
+- https://openalex.org/W2319207481
+- https://openalex.org/W2321905524
+- https://openalex.org/W2328992505
+- https://openalex.org/W2331306740
+- https://openalex.org/W2333411966
+- https://openalex.org/W2333831866
+- https://openalex.org/W2337871364
+- https://openalex.org/W2338983078
+- https://openalex.org/W2340486059
+- https://openalex.org/W2342666693
+- https://openalex.org/W2346248306
+- https://openalex.org/W2380810418
+- https://openalex.org/W2395170996
+- https://openalex.org/W2395969030
+- https://openalex.org/W2398600557
+- https://openalex.org/W2399741148
+- https://openalex.org/W2413886051
+- https://openalex.org/W2442246762
+- https://openalex.org/W2460179184
+- https://openalex.org/W2460956422
+- https://openalex.org/W2462215746
+- https://openalex.org/W2462432627
+- https://openalex.org/W2465673526
+- https://openalex.org/W2472420050
+- https://openalex.org/W2472830515
+- https://openalex.org/W2473016454
+- https://openalex.org/W2473370595
+- https://openalex.org/W2474176305
+- https://openalex.org/W2479308360
+- https://openalex.org/W2481470067
+- https://openalex.org/W2489536306
+- https://openalex.org/W2495364363
+- https://openalex.org/W2498689197
+- https://openalex.org/W2503671849
+- https://openalex.org/W2508264804
+- https://openalex.org/W2514842683
+- https://openalex.org/W2518614997
+- https://openalex.org/W2519482734
+- https://openalex.org/W2523582881
+- https://openalex.org/W2525551153
+- https://openalex.org/W2525881129
+- https://openalex.org/W2527121601
+- https://openalex.org/W2527881422
+- https://openalex.org/W2528556615
+- https://openalex.org/W2528915441
+- https://openalex.org/W2529283167
+- https://openalex.org/W2529736552
+- https://openalex.org/W2536303762
+- https://openalex.org/W2536543478
+- https://openalex.org/W2536799499
+- https://openalex.org/W2539440081
+- https://openalex.org/W2541494160
+- https://openalex.org/W2545717629
+- https://openalex.org/W2546794853
+- https://openalex.org/W2548173065
+- https://openalex.org/W2548578047
+- https://openalex.org/W2555449802
+- https://openalex.org/W2556581150
+- https://openalex.org/W2557228503
+- https://openalex.org/W2558089332
+- https://openalex.org/W2560240742
+- https://openalex.org/W2562857078
+- https://openalex.org/W2566638444
+- https://openalex.org/W2568058100
+- https://openalex.org/W2569853813
+- https://openalex.org/W2576939111
+- https://openalex.org/W2578701053
+- https://openalex.org/W2580351979
+- https://openalex.org/W2580396496
+- https://openalex.org/W2582807481
+- https://openalex.org/W2582995183
+- https://openalex.org/W2586935625
+- https://openalex.org/W2590545768
+- https://openalex.org/W2590886410
+- https://openalex.org/W2592807021
+- https://openalex.org/W2592904605
+- https://openalex.org/W2593110938
+- https://openalex.org/W2594782125
+- https://openalex.org/W2597070792
+- https://openalex.org/W2599245417
+- https://openalex.org/W2600530733
+- https://openalex.org/W2603977195
+- https://openalex.org/W2604209262
+- https://openalex.org/W2607400732
+- https://openalex.org/W2610730883
+- https://openalex.org/W2612477971
+- https://openalex.org/W2612834622
+- https://openalex.org/W2614578436
+- https://openalex.org/W2614741637
+- https://openalex.org/W2620340731
+- https://openalex.org/W2625233900
+- https://openalex.org/W2626432801
+- https://openalex.org/W2627012798
+- https://openalex.org/W2708075489
+- https://openalex.org/W2737318586
+- https://openalex.org/W2737554657
+- https://openalex.org/W2739506637
+- https://openalex.org/W2743550140
+- https://openalex.org/W2745432684
+- https://openalex.org/W2745549949
+- https://openalex.org/W2749901817
+- https://openalex.org/W2750887674
+- https://openalex.org/W2752935398
+- https://openalex.org/W2755626276
+- https://openalex.org/W2757089737
+- https://openalex.org/W2758688195
+- https://openalex.org/W2761507431
+- https://openalex.org/W2762390962
+- https://openalex.org/W2762508106
+- https://openalex.org/W2763575346
+- https://openalex.org/W2766327047
+- https://openalex.org/W2766636752
+- https://openalex.org/W2767390227
+- https://openalex.org/W2768083064
+- https://openalex.org/W2768303064
+- https://openalex.org/W2768522850
+- https://openalex.org/W2769196701
+- https://openalex.org/W2770186315
+- https://openalex.org/W2770291148
+- https://openalex.org/W2770750122
+- https://openalex.org/W2776272440
+- https://openalex.org/W2777682558
+- https://openalex.org/W2779350486
+- https://openalex.org/W2781996768
+- https://openalex.org/W2782135811
+- https://openalex.org/W2782849077
+- https://openalex.org/W2783656375
+- https://openalex.org/W2784412824
+- https://openalex.org/W2788691011
+- https://openalex.org/W2788736459
+- https://openalex.org/W2788905391
+- https://openalex.org/W2789325406
+- https://openalex.org/W2789385839
+- https://openalex.org/W2789522295
+- https://openalex.org/W2789667526
+- https://openalex.org/W2789810619
+- https://openalex.org/W2790020787
+- https://openalex.org/W2790158735
+- https://openalex.org/W2792745806
+- https://openalex.org/W2793086396
+- https://openalex.org/W2793098843
+- https://openalex.org/W2793814333
+- https://openalex.org/W2794125559
+- https://openalex.org/W2794305278
+- https://openalex.org/W2794861765
+- https://openalex.org/W2795315585
+- https://openalex.org/W2796780719
+- https://openalex.org/W2799482615
+- https://openalex.org/W2800682399
+- https://openalex.org/W2800765792
+- https://openalex.org/W2800968683
+- https://openalex.org/W2801360758
+- https://openalex.org/W2801508025
+- https://openalex.org/W2802255180
+- https://openalex.org/W2802319261
+- https://openalex.org/W2803603947
+- https://openalex.org/W2804721740
+- https://openalex.org/W2804920713
+- https://openalex.org/W2807966166
+- https://openalex.org/W2808990987
+- https://openalex.org/W2809736248
+- https://openalex.org/W2810109598
+- https://openalex.org/W2810210401
+- https://openalex.org/W2810689350
+- https://openalex.org/W2811130423
+- https://openalex.org/W2884603128
+- https://openalex.org/W2884629397
+- https://openalex.org/W2886952166
+- https://openalex.org/W2887835365
+- https://openalex.org/W2887873765
+- https://openalex.org/W2889630471
+- https://openalex.org/W2890642667
+- https://openalex.org/W2892013439
+- https://openalex.org/W2892286444
+- https://openalex.org/W2894422883
+- https://openalex.org/W2896124705
+- https://openalex.org/W2896517461
+- https://openalex.org/W2896897272
+- https://openalex.org/W2897161307
+- https://openalex.org/W2897735762
+- https://openalex.org/W2898138633
+- https://openalex.org/W2898389841
+- https://openalex.org/W2898455373
+- https://openalex.org/W2898967013
+- https://openalex.org/W2901165032
+- https://openalex.org/W2901707209
+- https://openalex.org/W2902532896
+- https://openalex.org/W2903142011
+- https://openalex.org/W2904354111
+- https://openalex.org/W2904708694
+- https://openalex.org/W2905077461
+- https://openalex.org/W2905983446
+- https://openalex.org/W2906056511
+- https://openalex.org/W2907919519
+- https://openalex.org/W2908580023
+- https://openalex.org/W2909383354
+- https://openalex.org/W2909812503
+- https://openalex.org/W2911047707
+- https://openalex.org/W2912354430
+- https://openalex.org/W2912774204
+- https://openalex.org/W2912904466
+- https://openalex.org/W2913184667
+- https://openalex.org/W2913544880
+- https://openalex.org/W2916145574
+- https://openalex.org/W2916599423
+- https://openalex.org/W2917384272
+- https://openalex.org/W2918922525
+- https://openalex.org/W2920427701
+- https://openalex.org/W2920636554
+- https://openalex.org/W2921622535
+- https://openalex.org/W2921640653
+- https://openalex.org/W2922767990
+- https://openalex.org/W2929478224
+- https://openalex.org/W2938858755
+- https://openalex.org/W2939690307
+- https://openalex.org/W2941945808
+- https://openalex.org/W2942184614
+- https://openalex.org/W2944740795
+- https://openalex.org/W2944755457
+- https://openalex.org/W2944971107
+- https://openalex.org/W2945605269
+- https://openalex.org/W2947429152
+- https://openalex.org/W2947660050
+- https://openalex.org/W2948089944
+- https://openalex.org/W2949083889
+- https://openalex.org/W2949691256
+- https://openalex.org/W2949912390
+- https://openalex.org/W2950013815
+- https://openalex.org/W2952178284
+- https://openalex.org/W2953390211
+- https://openalex.org/W2954089999
+- https://openalex.org/W2956114633
+- https://openalex.org/W2956360324
+- https://openalex.org/W2956950695
+- https://openalex.org/W2960683087
+- https://openalex.org/W2962884354
+- https://openalex.org/W2964842207
+- https://openalex.org/W2965088939
+- https://openalex.org/W2966723797
+- https://openalex.org/W2967525737
+- https://openalex.org/W2967527181
+- https://openalex.org/W2968127224
+- https://openalex.org/W2970682829
+- https://openalex.org/W2971511686
+- https://openalex.org/W2972918012
+- https://openalex.org/W2974728555
+- https://openalex.org/W2977115725
+- https://openalex.org/W2977322360
+- https://openalex.org/W2977803759
+- https://openalex.org/W2977924451
+- https://openalex.org/W2978101814
+- https://openalex.org/W2978445573
+- https://openalex.org/W2979548524
+- https://openalex.org/W2979776779
+- https://openalex.org/W2980403271
+- https://openalex.org/W2980544752
+- https://openalex.org/W2981808978
+- https://openalex.org/W2981936307
+- https://openalex.org/W2982416482
+- https://openalex.org/W2983935547
+- https://openalex.org/W2987307066
+- https://openalex.org/W2987589351
+- https://openalex.org/W2989881306
+- https://openalex.org/W2990292797
+- https://openalex.org/W2990609506
+- https://openalex.org/W2990625389
+- https://openalex.org/W2991626071
+- https://openalex.org/W2994827526
+- https://openalex.org/W3000652395
+- https://openalex.org/W3004103291
+- https://openalex.org/W3004427938
+- https://openalex.org/W3005429114
+- https://openalex.org/W3005570206
+- https://openalex.org/W3005615873
+- https://openalex.org/W3006115571
+- https://openalex.org/W3007553040
+- https://openalex.org/W3009610703
+- https://openalex.org/W3011047309
+- https://openalex.org/W3012161191
+- https://openalex.org/W3012371481
+- https://openalex.org/W3012868903
+- https://openalex.org/W3013671288
+- https://openalex.org/W3014508302
+- https://openalex.org/W3016555942
+- https://openalex.org/W3017087303
+- https://openalex.org/W3017100980
+- https://openalex.org/W3020183443
+- https://openalex.org/W3022959476
+- https://openalex.org/W3023757607
+- https://openalex.org/W3027532749
+- https://openalex.org/W3033886595
+- https://openalex.org/W3034038345
+- https://openalex.org/W3036684707
+- https://openalex.org/W3037002958
+- https://openalex.org/W3041319886
+- https://openalex.org/W3042687084
+- https://openalex.org/W3043305555
+- https://openalex.org/W3044681161
+- https://openalex.org/W3045454797
+- https://openalex.org/W3069087306
+- https://openalex.org/W3093203931
+- https://openalex.org/W3094365806
+- https://openalex.org/W3094508294
+- https://openalex.org/W3120567015
+- https://openalex.org/W3124696907
+- https://openalex.org/W3132250091
+- https://openalex.org/W3145153385
+- https://openalex.org/W3160025491
+- https://openalex.org/W3180842358
+- https://openalex.org/W3216465316
+- https://openalex.org/W38869006
+- https://openalex.org/W4206406760
+- https://openalex.org/W4210985946
+- https://openalex.org/W4232249681
+- https://openalex.org/W4236317939
+- https://openalex.org/W4238081971
+- https://openalex.org/W4241014756
+- https://openalex.org/W4244337444
+- https://openalex.org/W4245525675
+- https://openalex.org/W4245690870
+- https://openalex.org/W4248127706
+- https://openalex.org/W4251355922
+- https://openalex.org/W4253534765
+- https://openalex.org/W4254978707
+- https://openalex.org/W4296139292
+- https://openalex.org/W4296766430
+- https://openalex.org/W4387760500
+- https://openalex.org/W65143530
+- https://openalex.org/W771907615
+- https://openalex.org/W813753395
+primary_topic: Sepsis Diagnosis and Treatment
+open_access: true

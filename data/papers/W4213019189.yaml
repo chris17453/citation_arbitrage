@@ -1,0 +1,424 @@
+id: https://openalex.org/W4213019189
+doi: https://doi.org/10.1109/tpami.2022.3152247
+title: A Survey on Vision Transformer
+publication_date: '2022-02-18'
+publication_year: 2022
+cited_by_count: 2527
+citation_percentile: 0.999945
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5101784732
+  display_name: Kai Han
+  orcid: https://orcid.org/0000-0002-9761-2702
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+- author_id: https://openalex.org/A5100727358
+  display_name: Yunhe Wang
+  orcid: https://orcid.org/0000-0002-2709-4946
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+- author_id: https://openalex.org/A5081216284
+  display_name: Hanting Chen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+  - School of EECS, Peking University, Beijing, China
+- author_id: https://openalex.org/A5006817088
+  display_name: Xinghao Chen
+  orcid: https://orcid.org/0000-0002-2102-8235
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+- author_id: https://openalex.org/A5016185815
+  display_name: Jianyuan Guo
+  orcid: https://orcid.org/0000-0002-2981-1953
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+- author_id: https://openalex.org/A5100420212
+  display_name: Zhenhua Liu
+  orcid: https://orcid.org/0000-0002-2159-8262
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+  - School of EECS, Peking University, Beijing, China
+- author_id: https://openalex.org/A5038232518
+  display_name: Yehui Tang
+  orcid: https://orcid.org/0000-0002-0322-4283
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+  - School of EECS, Peking University, Beijing, China
+- author_id: https://openalex.org/A5017898444
+  display_name: An Xiao
+  orcid: https://orcid.org/0000-0003-0909-3234
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+- author_id: https://openalex.org/A5101082712
+  display_name: Chunjing Xu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+- author_id: https://openalex.org/A5015585920
+  display_name: Yixing Xu
+  orcid: https://orcid.org/0000-0002-9704-4194
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+- author_id: https://openalex.org/A5000095574
+  display_name: Zhaohui Yang
+  orcid: https://orcid.org/0000-0003-1105-8841
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+  - School of EECS, Peking University, Beijing, China
+- author_id: https://openalex.org/A5101682727
+  display_name: Yiman Zhang
+  orcid: https://orcid.org/0000-0003-4494-4196
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250955327
+    display_name: Huawei Technologies (China)
+    ror: https://ror.org/00cmhce21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei Noah&#x0027;s Ark Lab, Beijing, China
+- author_id: https://openalex.org/A5101409300
+  display_name: Dacheng Tao
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I129604602
+    display_name: The University of Sydney
+    ror: https://ror.org/0384j8v12
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computer Science, Faculty of Engineering, University of Sydney, Darlington,
+    NSW, Australia
+referenced_works:
+- https://openalex.org/W1598730426
+- https://openalex.org/W1783366411
+- https://openalex.org/W1821462560
+- https://openalex.org/W1836465849
+- https://openalex.org/W1903029394
+- https://openalex.org/W2011815965
+- https://openalex.org/W2025768430
+- https://openalex.org/W2027377866
+- https://openalex.org/W2053619738
+- https://openalex.org/W2064296540
+- https://openalex.org/W2064675550
+- https://openalex.org/W2102409316
+- https://openalex.org/W2112796928
+- https://openalex.org/W2129575457
+- https://openalex.org/W2133564696
+- https://openalex.org/W2134797427
+- https://openalex.org/W2152839228
+- https://openalex.org/W2163605009
+- https://openalex.org/W2194775991
+- https://openalex.org/W2413794162
+- https://openalex.org/W2423557781
+- https://openalex.org/W2560609797
+- https://openalex.org/W2613904329
+- https://openalex.org/W2740103755
+- https://openalex.org/W2805003733
+- https://openalex.org/W2807299122
+- https://openalex.org/W2886970679
+- https://openalex.org/W2892684141
+- https://openalex.org/W2896457183
+- https://openalex.org/W2899663614
+- https://openalex.org/W2948703571
+- https://openalex.org/W2950768109
+- https://openalex.org/W2955425717
+- https://openalex.org/W2962851801
+- https://openalex.org/W2963121255
+- https://openalex.org/W2963351113
+- https://openalex.org/W2963351448
+- https://openalex.org/W2963420272
+- https://openalex.org/W2963542740
+- https://openalex.org/W2963563276
+- https://openalex.org/W2963631907
+- https://openalex.org/W2963759574
+- https://openalex.org/W2963799213
+- https://openalex.org/W2963823140
+- https://openalex.org/W2963925437
+- https://openalex.org/W2964241181
+- https://openalex.org/W2968124245
+- https://openalex.org/W2969601108
+- https://openalex.org/W2969876226
+- https://openalex.org/W2970157301
+- https://openalex.org/W2970454332
+- https://openalex.org/W2970726176
+- https://openalex.org/W2975381464
+- https://openalex.org/W2979691890
+- https://openalex.org/W2981458636
+- https://openalex.org/W2981851019
+- https://openalex.org/W2982219368
+- https://openalex.org/W2982770724
+- https://openalex.org/W2996428491
+- https://openalex.org/W2997006708
+- https://openalex.org/W2998183051
+- https://openalex.org/W3006683367
+- https://openalex.org/W3008526508
+- https://openalex.org/W3010768098
+- https://openalex.org/W3012126539
+- https://openalex.org/W3015001695
+- https://openalex.org/W3033210410
+- https://openalex.org/W3034221510
+- https://openalex.org/W3034445277
+- https://openalex.org/W3034457371
+- https://openalex.org/W3034467781
+- https://openalex.org/W3034687522
+- https://openalex.org/W3035022492
+- https://openalex.org/W3035029089
+- https://openalex.org/W3035317797
+- https://openalex.org/W3035524453
+- https://openalex.org/W3035750285
+- https://openalex.org/W3037798801
+- https://openalex.org/W3037899338
+- https://openalex.org/W3043840704
+- https://openalex.org/W3088409176
+- https://openalex.org/W3092462694
+- https://openalex.org/W3092878394
+- https://openalex.org/W3094349784
+- https://openalex.org/W3094502228
+- https://openalex.org/W3095422700
+- https://openalex.org/W3095851346
+- https://openalex.org/W3096609285
+- https://openalex.org/W3098272992
+- https://openalex.org/W3098873988
+- https://openalex.org/W3101248447
+- https://openalex.org/W3101415077
+- https://openalex.org/W3101590291
+- https://openalex.org/W3102985954
+- https://openalex.org/W3103754749
+- https://openalex.org/W3105966348
+- https://openalex.org/W3106655949
+- https://openalex.org/W3106728613
+- https://openalex.org/W3107331169
+- https://openalex.org/W3108516375
+- https://openalex.org/W3109635183
+- https://openalex.org/W3109771530
+- https://openalex.org/W3112462324
+- https://openalex.org/W3114896399
+- https://openalex.org/W3115390238
+- https://openalex.org/W3118608800
+- https://openalex.org/W3119259789
+- https://openalex.org/W3119586106
+- https://openalex.org/W3121523901
+- https://openalex.org/W3122818000
+- https://openalex.org/W3126589408
+- https://openalex.org/W3128090102
+- https://openalex.org/W3129576130
+- https://openalex.org/W3131500599
+- https://openalex.org/W3132890542
+- https://openalex.org/W3133696297
+- https://openalex.org/W3136416617
+- https://openalex.org/W3137963805
+- https://openalex.org/W3138516171
+- https://openalex.org/W3138796575
+- https://openalex.org/W3139049060
+- https://openalex.org/W3139445856
+- https://openalex.org/W3141972123
+- https://openalex.org/W3143320354
+- https://openalex.org/W3143373604
+- https://openalex.org/W3145450063
+- https://openalex.org/W3146455718
+- https://openalex.org/W3150226983
+- https://openalex.org/W3151130473
+- https://openalex.org/W3153465022
+- https://openalex.org/W3156811085
+- https://openalex.org/W3157173860
+- https://openalex.org/W3157506437
+- https://openalex.org/W3157528469
+- https://openalex.org/W3158284840
+- https://openalex.org/W3158846111
+- https://openalex.org/W3159833358
+- https://openalex.org/W3160284783
+- https://openalex.org/W3160566314
+- https://openalex.org/W3162457465
+- https://openalex.org/W3164543136
+- https://openalex.org/W3165924482
+- https://openalex.org/W3166396011
+- https://openalex.org/W3166470370
+- https://openalex.org/W3167536469
+- https://openalex.org/W3168101492
+- https://openalex.org/W3168649818
+- https://openalex.org/W3168825659
+- https://openalex.org/W3169064633
+- https://openalex.org/W3169575272
+- https://openalex.org/W3170642968
+- https://openalex.org/W3170778815
+- https://openalex.org/W3170841864
+- https://openalex.org/W3170863103
+- https://openalex.org/W3170874841
+- https://openalex.org/W3171125843
+- https://openalex.org/W3171516518
+- https://openalex.org/W3172509117
+- https://openalex.org/W3172661913
+- https://openalex.org/W3172942063
+- https://openalex.org/W3174981785
+- https://openalex.org/W3175199633
+- https://openalex.org/W3175466730
+- https://openalex.org/W3175544090
+- https://openalex.org/W3176196997
+- https://openalex.org/W3177183540
+- https://openalex.org/W3177462300
+- https://openalex.org/W3178340970
+- https://openalex.org/W3178702014
+- https://openalex.org/W3180355996
+- https://openalex.org/W3180897515
+- https://openalex.org/W3181047098
+- https://openalex.org/W3190965961
+- https://openalex.org/W3193694068
+- https://openalex.org/W3194959296
+- https://openalex.org/W3202742610
+- https://openalex.org/W3203480968
+- https://openalex.org/W3203701986
+- https://openalex.org/W3203848864
+- https://openalex.org/W3203925315
+- https://openalex.org/W3203974803
+- https://openalex.org/W3204801262
+- https://openalex.org/W3205586691
+- https://openalex.org/W3211490618
+- https://openalex.org/W3211787299
+- https://openalex.org/W3211993051
+- https://openalex.org/W3212161087
+- https://openalex.org/W3214586131
+- https://openalex.org/W4200498145
+- https://openalex.org/W4205481600
+- https://openalex.org/W4214493665
+- https://openalex.org/W4214508443
+- https://openalex.org/W4214588794
+- https://openalex.org/W4214614183
+- https://openalex.org/W4214634256
+- https://openalex.org/W4214636423
+- https://openalex.org/W4214669216
+- https://openalex.org/W4214736485
+- https://openalex.org/W4214755140
+- https://openalex.org/W4241541897
+- https://openalex.org/W4283809036
+- https://openalex.org/W4287704453
+- https://openalex.org/W4288089799
+- https://openalex.org/W4288337707
+- https://openalex.org/W4288347855
+- https://openalex.org/W4292779060
+- https://openalex.org/W4295308583
+- https://openalex.org/W4300402905
+- https://openalex.org/W4302275239
+- https://openalex.org/W4312340826
+- https://openalex.org/W4312599212
+- https://openalex.org/W4312812783
+- https://openalex.org/W4312957757
+- https://openalex.org/W4313007769
+- https://openalex.org/W4313166619
+- https://openalex.org/W4385245566
+- https://openalex.org/W587794757
+- https://openalex.org/W639708223
+primary_topic: Advanced Neural Network Applications
+open_access: true

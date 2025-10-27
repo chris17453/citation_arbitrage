@@ -1,0 +1,170 @@
+id: https://openalex.org/W4386047745
+doi: https://doi.org/10.1109/cvpr52729.2023.01157
+title: 'Run, Don''t Walk: Chasing Higher FLOPS for Faster Neural Networks'
+publication_date: '2023-06-01'
+publication_year: 2023
+cited_by_count: 1243
+citation_percentile: 0.999957
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5026633118
+  display_name: Jierun Chen
+  orcid: https://orcid.org/0000-0002-8665-3365
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HKUST
+- author_id: https://openalex.org/A5008579963
+  display_name: Shiu-hong Kao
+  orcid: https://orcid.org/0000-0002-8367-8487
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HKUST
+- author_id: https://openalex.org/A5100382845
+  display_name: Hao He
+  orcid: https://orcid.org/0000-0001-8074-746X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HKUST
+- author_id: https://openalex.org/A5075676776
+  display_name: Weipeng Zhuo
+  orcid: https://orcid.org/0000-0002-1810-7071
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HKUST
+- author_id: https://openalex.org/A5104307325
+  display_name: Wen Song
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210096112
+    display_name: Rutgers Sexual and Reproductive Health and Rights
+    ror: https://ror.org/00rcvgx40
+    country_code: NL
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rutgers University
+- author_id: https://openalex.org/A5100622996
+  display_name: "Chul\u2010Ho Lee"
+  orcid: https://orcid.org/0000-0003-1570-8688
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Texas State University
+- author_id: https://openalex.org/A5003418485
+  display_name: S.-H. Gary Chan
+  orcid: https://orcid.org/0000-0003-4207-764X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HKUST
+referenced_works:
+- https://openalex.org/W1549358575
+- https://openalex.org/W1665214252
+- https://openalex.org/W1821462560
+- https://openalex.org/W1836465849
+- https://openalex.org/W1861492603
+- https://openalex.org/W2117539524
+- https://openalex.org/W2144513243
+- https://openalex.org/W2163605009
+- https://openalex.org/W2183341477
+- https://openalex.org/W2194775991
+- https://openalex.org/W2331143823
+- https://openalex.org/W2531409750
+- https://openalex.org/W2549139847
+- https://openalex.org/W2553303224
+- https://openalex.org/W2765407302
+- https://openalex.org/W2778955544
+- https://openalex.org/W2883780447
+- https://openalex.org/W2899663614
+- https://openalex.org/W2908510526
+- https://openalex.org/W2955425717
+- https://openalex.org/W2963125010
+- https://openalex.org/W2963163009
+- https://openalex.org/W2963263347
+- https://openalex.org/W2963918968
+- https://openalex.org/W2963993763
+- https://openalex.org/W2967733054
+- https://openalex.org/W2982536526
+- https://openalex.org/W2983446232
+- https://openalex.org/W2988396473
+- https://openalex.org/W2992308087
+- https://openalex.org/W3034403122
+- https://openalex.org/W3035414587
+- https://openalex.org/W3035682985
+- https://openalex.org/W3094502228
+- https://openalex.org/W3095851346
+- https://openalex.org/W3131500599
+- https://openalex.org/W3138516171
+- https://openalex.org/W3145444543
+- https://openalex.org/W3157506437
+- https://openalex.org/W3170874841
+- https://openalex.org/W3171087525
+- https://openalex.org/W3171206729
+- https://openalex.org/W3172509117
+- https://openalex.org/W3175773336
+- https://openalex.org/W3179869055
+- https://openalex.org/W3183804933
+- https://openalex.org/W3186979696
+- https://openalex.org/W3190492058
+- https://openalex.org/W3204445636
+- https://openalex.org/W3210646981
+- https://openalex.org/W3212972574
+- https://openalex.org/W4214588794
+- https://openalex.org/W4225764943
+- https://openalex.org/W4226028923
+- https://openalex.org/W4226244084
+- https://openalex.org/W4281756776
+- https://openalex.org/W4285428168
+- https://openalex.org/W4286910290
+- https://openalex.org/W4287116734
+- https://openalex.org/W4297775537
+- https://openalex.org/W4300978573
+- https://openalex.org/W4304015090
+- https://openalex.org/W4312349930
+- https://openalex.org/W4312443924
+- https://openalex.org/W4312549509
+- https://openalex.org/W4312638118
+- https://openalex.org/W4312820606
+- https://openalex.org/W4313170858
+- https://openalex.org/W4320036918
+- https://openalex.org/W4320459518
+- https://openalex.org/W4385245566
+- https://openalex.org/W4385282113
+primary_topic: Advanced Neural Network Applications
+open_access: true

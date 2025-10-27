@@ -1,0 +1,371 @@
+id: https://openalex.org/W3212903603
+doi: https://doi.org/10.1038/s41571-021-00573-2
+title: Immunotherapies for hepatocellular carcinoma
+publication_date: '2021-11-11'
+publication_year: 2021
+cited_by_count: 1349
+citation_percentile: 0.465357
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5052975894
+  display_name: Josep M. Llovet
+  orcid: https://orcid.org/0000-0003-0547-2667
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Mount Sinai Liver Cancer Program, Division of Liver Diseases, Tisch Cancer Institute,
+    Icahn School of Medicine at Mount Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5037592914
+  display_name: Florian Castet
+  orcid: https://orcid.org/0000-0002-5416-5383
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I71999127
+    display_name: Universitat de Barcelona
+    ror: https://ror.org/021018s57
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210160192
+    display_name: Consorci Institut D'Investigacions Biomediques August Pi I Sunyer
+    ror: https://ror.org/054vayn55
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Translational Research in Hepatic Oncology, Liver Unit, IDIBAPS, Hospital Clinic,
+    University of Barcelona, Barcelona, Spain
+- author_id: https://openalex.org/A5022155277
+  display_name: "Mathias Heikenw\xE4lder"
+  orcid: https://orcid.org/0000-0002-3135-2274
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I17937529
+    display_name: German Cancer Research Center
+    ror: https://ror.org/04cdgtt98
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Chronic Inflammation and Cancer, German Cancer Research Centre Heidelberg
+    (DKFZ), Heidelberg, Germany
+- author_id: https://openalex.org/A5085632483
+  display_name: Mala K. Maini
+  orcid: https://orcid.org/0000-0001-6384-1462
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection & Immunity, Institute of Immunity & Transplantation, University
+    College London, London, UK
+- author_id: https://openalex.org/A5064470324
+  display_name: Vincenzo Mazzaferro
+  orcid: https://orcid.org/0000-0002-4013-8085
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I189158943
+    display_name: University of Milan
+    ror: https://ror.org/00wjc7c48
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy
+- author_id: https://openalex.org/A5001343667
+  display_name: David J. Pinato
+  orcid: https://orcid.org/0000-0002-3529-0103
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801748203
+    display_name: Hammersmith Hospital
+    ror: https://ror.org/05jg8yp15
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery & Cancer, Imperial College London, Hammersmith Hospital,
+    London, UK
+- author_id: https://openalex.org/A5007125099
+  display_name: Eli Pikarsky
+  orcid: https://orcid.org/0000-0003-4186-7105
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I197251160
+    display_name: Hebrew University of Jerusalem
+    ror: https://ror.org/03qxff017
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Lautenberg Center for Immunology and Cancer Research, IMRIC, The Hebrew University
+    of Jerusalem, Jerusalem, Israel
+- author_id: https://openalex.org/A5088566246
+  display_name: Andrew X. Zhu
+  orcid: https://orcid.org/0000-0003-4873-5033
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts General Hospital Cancer Center, Boston, MA, USA
+- author_id: https://openalex.org/A5073989429
+  display_name: Richard S. Finn
+  orcid: https://orcid.org/0000-0003-2494-2126
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2801272649
+    display_name: Ronald Reagan UCLA Medical Center
+    ror: https://ror.org/04k3jt835
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ronald Reagan University of California, Los Angeles (UCLA) Medical Center, Los
+    Angeles, CA, USA
+referenced_works:
+- https://openalex.org/W1536480181
+- https://openalex.org/W1582793430
+- https://openalex.org/W1957522192
+- https://openalex.org/W1964429944
+- https://openalex.org/W1966525043
+- https://openalex.org/W1977547491
+- https://openalex.org/W1978041599
+- https://openalex.org/W1988684186
+- https://openalex.org/W1990459651
+- https://openalex.org/W1996424780
+- https://openalex.org/W2007122139
+- https://openalex.org/W2013043293
+- https://openalex.org/W2015898002
+- https://openalex.org/W2017851289
+- https://openalex.org/W2026208522
+- https://openalex.org/W2031472841
+- https://openalex.org/W2036238930
+- https://openalex.org/W2036922484
+- https://openalex.org/W2042122379
+- https://openalex.org/W2042144858
+- https://openalex.org/W2042669918
+- https://openalex.org/W2052730188
+- https://openalex.org/W2059688175
+- https://openalex.org/W2060637877
+- https://openalex.org/W2064630742
+- https://openalex.org/W2065996123
+- https://openalex.org/W2071394435
+- https://openalex.org/W2083309365
+- https://openalex.org/W2084112669
+- https://openalex.org/W2085153086
+- https://openalex.org/W2099657378
+- https://openalex.org/W2107556275
+- https://openalex.org/W2111070218
+- https://openalex.org/W2112244490
+- https://openalex.org/W2132406938
+- https://openalex.org/W2140430530
+- https://openalex.org/W2153267053
+- https://openalex.org/W2154384452
+- https://openalex.org/W2164986069
+- https://openalex.org/W2185780593
+- https://openalex.org/W2260533007
+- https://openalex.org/W2277004004
+- https://openalex.org/W2289068089
+- https://openalex.org/W2311921992
+- https://openalex.org/W2345506247
+- https://openalex.org/W2461097392
+- https://openalex.org/W2494120090
+- https://openalex.org/W2499029168
+- https://openalex.org/W2514873437
+- https://openalex.org/W2521503673
+- https://openalex.org/W2529308344
+- https://openalex.org/W2544730731
+- https://openalex.org/W2546700240
+- https://openalex.org/W2574604975
+- https://openalex.org/W2582878252
+- https://openalex.org/W2605630275
+- https://openalex.org/W2606367731
+- https://openalex.org/W2610783335
+- https://openalex.org/W2618506127
+- https://openalex.org/W2624831627
+- https://openalex.org/W2625559053
+- https://openalex.org/W2626033245
+- https://openalex.org/W2626773261
+- https://openalex.org/W2730190317
+- https://openalex.org/W2753127471
+- https://openalex.org/W2753890414
+- https://openalex.org/W2758825393
+- https://openalex.org/W2767554904
+- https://openalex.org/W2768429453
+- https://openalex.org/W2783708539
+- https://openalex.org/W2786264829
+- https://openalex.org/W2786816161
+- https://openalex.org/W2787039411
+- https://openalex.org/W2791328450
+- https://openalex.org/W2791483720
+- https://openalex.org/W2792006020
+- https://openalex.org/W2792376809
+- https://openalex.org/W2792414950
+- https://openalex.org/W2796207838
+- https://openalex.org/W2796227807
+- https://openalex.org/W2797410539
+- https://openalex.org/W2800992604
+- https://openalex.org/W2802645166
+- https://openalex.org/W2804242740
+- https://openalex.org/W2804448077
+- https://openalex.org/W2805592007
+- https://openalex.org/W2810928105
+- https://openalex.org/W2883204623
+- https://openalex.org/W2886498561
+- https://openalex.org/W2887577080
+- https://openalex.org/W2889801069
+- https://openalex.org/W2895128760
+- https://openalex.org/W2899174828
+- https://openalex.org/W2899537750
+- https://openalex.org/W2905815518
+- https://openalex.org/W2908902954
+- https://openalex.org/W2909679049
+- https://openalex.org/W2911009727
+- https://openalex.org/W2911646196
+- https://openalex.org/W2914335731
+- https://openalex.org/W2914462041
+- https://openalex.org/W2914486061
+- https://openalex.org/W2918023653
+- https://openalex.org/W2920270836
+- https://openalex.org/W2924359886
+- https://openalex.org/W2933348020
+- https://openalex.org/W2934212324
+- https://openalex.org/W2941033601
+- https://openalex.org/W2943041940
+- https://openalex.org/W2945590213
+- https://openalex.org/W2952311394
+- https://openalex.org/W2954306577
+- https://openalex.org/W2957195898
+- https://openalex.org/W2957852424
+- https://openalex.org/W2963038563
+- https://openalex.org/W2963245811
+- https://openalex.org/W2963686803
+- https://openalex.org/W2969583426
+- https://openalex.org/W2975736787
+- https://openalex.org/W2976180253
+- https://openalex.org/W2977722669
+- https://openalex.org/W2978520933
+- https://openalex.org/W2978708928
+- https://openalex.org/W2979739587
+- https://openalex.org/W2981320816
+- https://openalex.org/W2982638381
+- https://openalex.org/W2985817460
+- https://openalex.org/W2989956813
+- https://openalex.org/W2990602950
+- https://openalex.org/W2991341799
+- https://openalex.org/W2996882089
+- https://openalex.org/W2996942268
+- https://openalex.org/W2997215171
+- https://openalex.org/W2998269674
+- https://openalex.org/W2998330412
+- https://openalex.org/W2998900184
+- https://openalex.org/W2999153903
+- https://openalex.org/W3000373442
+- https://openalex.org/W3003310139
+- https://openalex.org/W3003378907
+- https://openalex.org/W3004964052
+- https://openalex.org/W3005182134
+- https://openalex.org/W3005537740
+- https://openalex.org/W3008514541
+- https://openalex.org/W3010993117
+- https://openalex.org/W3011609327
+- https://openalex.org/W3016806376
+- https://openalex.org/W3017140882
+- https://openalex.org/W3017681812
+- https://openalex.org/W3021994584
+- https://openalex.org/W3023954831
+- https://openalex.org/W3025022288
+- https://openalex.org/W3026099517
+- https://openalex.org/W3033218405
+- https://openalex.org/W3038091633
+- https://openalex.org/W3039622640
+- https://openalex.org/W3041197920
+- https://openalex.org/W3041768625
+- https://openalex.org/W3044786201
+- https://openalex.org/W3045387409
+- https://openalex.org/W3047106569
+- https://openalex.org/W3049075450
+- https://openalex.org/W3066929737
+- https://openalex.org/W3081621032
+- https://openalex.org/W3082827286
+- https://openalex.org/W3088005314
+- https://openalex.org/W3090413519
+- https://openalex.org/W3091779617
+- https://openalex.org/W3093530736
+- https://openalex.org/W3093785879
+- https://openalex.org/W3093964219
+- https://openalex.org/W3099108820
+- https://openalex.org/W3100629716
+- https://openalex.org/W3109234650
+- https://openalex.org/W3110414417
+- https://openalex.org/W3110528877
+- https://openalex.org/W3112241151
+- https://openalex.org/W3112940491
+- https://openalex.org/W3114582868
+- https://openalex.org/W3118017075
+- https://openalex.org/W3119086885
+- https://openalex.org/W3121807241
+- https://openalex.org/W3122021891
+- https://openalex.org/W3123846806
+- https://openalex.org/W3124749091
+- https://openalex.org/W3127015740
+- https://openalex.org/W3128646645
+- https://openalex.org/W3129833353
+- https://openalex.org/W3133992342
+- https://openalex.org/W3134443156
+- https://openalex.org/W3136958029
+- https://openalex.org/W3138484572
+- https://openalex.org/W3139423362
+- https://openalex.org/W3150836655
+- https://openalex.org/W3152534107
+- https://openalex.org/W3161832711
+- https://openalex.org/W3165752903
+- https://openalex.org/W3165801093
+- https://openalex.org/W3166753505
+- https://openalex.org/W3167434284
+- https://openalex.org/W3168604477
+- https://openalex.org/W3169705253
+- https://openalex.org/W3169873235
+- https://openalex.org/W3174644994
+- https://openalex.org/W3175451049
+- https://openalex.org/W3175577386
+- https://openalex.org/W3180715103
+- https://openalex.org/W3180754516
+- https://openalex.org/W3183686564
+- https://openalex.org/W3186127018
+- https://openalex.org/W3189941719
+- https://openalex.org/W3196593048
+- https://openalex.org/W4210774372
+- https://openalex.org/W4232620598
+- https://openalex.org/W4241113510
+primary_topic: Hepatocellular Carcinoma Treatment and Prognosis
+open_access: false

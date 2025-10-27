@@ -1,0 +1,858 @@
+id: https://openalex.org/W3136933888
+doi: https://doi.org/10.1038/s42256-021-00307-0
+title: Common pitfalls and recommendations for using machine learning to detect and
+  prognosticate for COVID-19 using chest radiographs and CT scans
+publication_date: '2021-03-15'
+publication_year: 2021
+cited_by_count: 930
+citation_percentile: 0.999952
+pagerank: 2.5399943305786194e-06
+authorships:
+- author_id: https://openalex.org/A5018385899
+  display_name: Michael Roberts
+  orcid: https://orcid.org/0000-0002-3484-5031
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I105036370
+    display_name: AstraZeneca (United Kingdom)
+    ror: https://ror.org/04r9x1a08
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+  - Oncology R&D, AstraZeneca, Cambridge, UK
+- author_id: https://openalex.org/A5036951521
+  display_name: Derek Driggs
+  orcid: https://orcid.org/0000-0003-1582-5884
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5021002385
+  display_name: Matthew Thorpe
+  orcid: https://orcid.org/0000-0003-2480-5404
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, University of Manchester, Manchester, UK
+- author_id: https://openalex.org/A5064314929
+  display_name: Julian Gilbey
+  orcid: https://orcid.org/0000-0002-5987-5261
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5062142185
+  display_name: Michael Yeung
+  orcid: https://orcid.org/0000-0001-8700-9144
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5000097546
+  display_name: Stephan Ursprung
+  orcid: https://orcid.org/0000-0003-2476-178X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5013015879
+  display_name: "Angelica I. Avil\xE9s-Rivero"
+  orcid: https://orcid.org/0000-0002-8878-0325
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5085313426
+  display_name: Christian Etmann
+  orcid: https://orcid.org/0000-0003-0239-4835
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5052394542
+  display_name: Cathal McCague
+  orcid: https://orcid.org/0000-0002-9588-267X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089382
+    display_name: Cancer Research UK Cambridge Center
+    ror: https://ror.org/0068m0j38
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Research UK Cambridge Centre, University of Cambridge, Cambridge, UK
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5015345650
+  display_name: Lucian Beer
+  orcid: https://orcid.org/0000-0003-4388-7580
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5058411125
+  display_name: "Jonathan Weir\u2010McCall"
+  orcid: https://orcid.org/0000-0001-5842-842X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5100372526
+  display_name: Zhongzhao Teng
+  orcid: https://orcid.org/0000-0003-3973-6157
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5053949429
+  display_name: "Effrossyni Gkrania\u2010Klotsas"
+  orcid: https://orcid.org/0000-0002-0930-8330
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infectious Diseases, Cambridge University Hospitals NHS Trust, Cambridge,
+    UK
+- author_id: https://openalex.org/A5061434108
+  display_name: Alessandro Ruggiero
+  orcid: https://orcid.org/0000-0002-8319-9662
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104974
+    display_name: Papworth Hospital NHS Foundation Trust
+    ror: https://ror.org/01qbebb31
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Royal Papworth Hospital, Cambridge, Royal Papworth Hospital NHS Foundation Trust,
+    Cambridge, UK
+- author_id: https://openalex.org/A5081393566
+  display_name: Anna Korhonen
+  orcid: https://orcid.org/0000-0002-3692-3144
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Language Technology Laboratory, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5075111618
+  display_name: Emily Jefferson
+  orcid: https://orcid.org/0000-0003-2992-7582
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177639307
+    display_name: University of Dundee
+    ror: https://ror.org/03h2bxq36
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Health and Genomics, School of Medicine, University of Dundee, Dundee,
+    UK
+- author_id: https://openalex.org/A5000828418
+  display_name: Emmanuel Ako
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799869770
+    display_name: Chelsea and Westminster Hospital NHS Foundation Trust
+    ror: https://ror.org/02gd18467
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chelsea and Westminster NHS Trust and Royal Brompton NHS Hospital, London, UK
+- author_id: https://openalex.org/A5060814361
+  display_name: Georg Langs
+  orcid: https://orcid.org/0000-0002-5536-6873
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Imaging and Image-guided Therapy, Computational Imaging
+    Research Lab Medical University of Vienna, Vienna, Austria
+- author_id: https://openalex.org/A5020769111
+  display_name: G. Gozaliasl
+  orcid: https://orcid.org/0000-0002-0236-919X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, University of Helsinki, Helsinki, Finland
+- author_id: https://openalex.org/A5032001329
+  display_name: Guang Yang
+  orcid: https://orcid.org/0000-0001-8942-427X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Heart and Lung Institute, Imperial College London, London, UK
+- author_id: https://openalex.org/A5014530467
+  display_name: Helmut Prosch
+  orcid: https://orcid.org/0000-0002-6119-6364
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Imaging and Image-guided Therapy, Computational Imaging
+    Research Lab Medical University of Vienna, Vienna, Austria
+- author_id: https://openalex.org/A5045520926
+  display_name: Jacobus Preller
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Addenbrooke's Hospital, Cambridge University Hospitals NHS Trust, Cambridge, UK
+- author_id: https://openalex.org/A5041838383
+  display_name: Jan Stanczuk
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5083397767
+  display_name: Jing Tang
+  orcid: https://orcid.org/0000-0001-7480-7710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Program in System Oncology, Faculty of Medicine, University of Helsinki,
+    Helsinki, Finland
+- author_id: https://openalex.org/A5089836011
+  display_name: Johannes Hofmanninger
+  orcid: https://orcid.org/0000-0002-8636-9778
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Imaging and Image-guided Therapy, Computational Imaging
+    Research Lab Medical University of Vienna, Vienna, Austria
+- author_id: https://openalex.org/A5016276999
+  display_name: Judith Babar
+  orcid: https://orcid.org/0000-0002-8146-3845
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Addenbrooke's Hospital, Cambridge University Hospitals NHS Trust, Cambridge, UK
+- author_id: https://openalex.org/A5111586306
+  display_name: "Lorena Escudero S\xE1nchez"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089382
+    display_name: Cancer Research UK Cambridge Center
+    ror: https://ror.org/0068m0j38
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Research UK Cambridge Centre, University of Cambridge, Cambridge, UK
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5012455872
+  display_name: Muhunthan Thillai
+  orcid: https://orcid.org/0000-0003-0430-2017
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135313
+    display_name: Eight19 (United Kingdom)
+    ror: https://ror.org/03n0ge846
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Qureight Ltd, Cambridge, UK
+- author_id: https://openalex.org/A5112618236
+  display_name: Paula Martin Gonzalez
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089382
+    display_name: Cancer Research UK Cambridge Center
+    ror: https://ror.org/0068m0j38
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Research UK Cambridge Centre, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5067992725
+  display_name: Philip Teare
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I105036370
+    display_name: AstraZeneca (United Kingdom)
+    ror: https://ror.org/04r9x1a08
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biopharmaceuticals R&D, AstraZeneca, Cambridge, UK
+- author_id: https://openalex.org/A5101894146
+  display_name: Xiaoxiang Zhu
+  orcid: https://orcid.org/0000-0003-2228-1942
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Signal Processing in Earth Observation, Technical University of Munich, Munich,
+    Germany
+- author_id: https://openalex.org/A5109452093
+  display_name: Mishal Patel
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I105036370
+    display_name: AstraZeneca (United Kingdom)
+    ror: https://ror.org/04r9x1a08
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biopharmaceuticals R&D, AstraZeneca, Cambridge, UK
+- author_id: https://openalex.org/A5050374533
+  display_name: Conor Cafolla
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5035467288
+  display_name: Hojjat Azadbakht
+  orcid: https://orcid.org/0000-0002-6582-1163
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - AINOSTICS Ltd, Manchester, UK
+- author_id: https://openalex.org/A5009829456
+  display_name: Joseph Jacob
+  orcid: https://orcid.org/0000-0002-8054-2293
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Image Computing, University College London, London, UK
+- author_id: https://openalex.org/A5088898230
+  display_name: Josh Lowe
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SparkBeyond UK Ltd, London, UK
+- author_id: https://openalex.org/A5100432232
+  display_name: Kang Zhang
+  orcid: https://orcid.org/0000-0002-4549-1697
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Biomedicine and Innovations at Faculty of Medicine, Macau University
+    of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5043505055
+  display_name: Kyle J Bradley
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SparkBeyond UK Ltd, London, UK
+- author_id: https://openalex.org/A5084318853
+  display_name: Marcel Wassin
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - contextflow GmbH, Vienna, Austria
+- author_id: https://openalex.org/A5016664760
+  display_name: Markus Holzer
+  orcid: https://orcid.org/0000-0003-4224-4014
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - contextflow GmbH, Vienna, Austria
+- author_id: https://openalex.org/A5065318062
+  display_name: Kangyu Ji
+  orcid: https://orcid.org/0000-0002-1278-3212
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cavendish Laboratory, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5011534294
+  display_name: Maria Delgado Ortet
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5068203700
+  display_name: Tao Ai
+  orcid: https://orcid.org/0000-0002-3735-7500
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160344
+    display_name: Tongji Hospital
+    ror: https://ror.org/04xy45965
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology,
+    Wuhan, China
+- author_id: https://openalex.org/A5090759016
+  display_name: Nicholas Walton
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Astronomy, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5056748708
+  display_name: "P\xEDetro Li\xF3"
+  orcid: https://orcid.org/0000-0002-0540-5053
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, University of Cambridge, Cambridge,
+    UK
+- author_id: https://openalex.org/A5077878068
+  display_name: Samuel D. Stranks
+  orcid: https://orcid.org/0000-0002-8303-7292
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemical Engineering and Biotechnology, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5083182478
+  display_name: Tolou Shadbahr
+  orcid: https://orcid.org/0000-0001-5715-5933
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Program in System Oncology, Faculty of Medicine, University of Helsinki,
+    Helsinki, Finland
+- author_id: https://openalex.org/A5051401703
+  display_name: Weizhe Lin
+  orcid: https://orcid.org/0000-0002-0754-4524
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Engineering, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5006317619
+  display_name: Yunfei Zha
+  orcid: https://orcid.org/0000-0002-8714-7472
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210140357
+    display_name: Renmin Hospital of Wuhan University
+    ror: https://ror.org/03ekhbz91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Renmin Hospital of Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5023829396
+  display_name: Zhangming Niu
+  orcid: https://orcid.org/0000-0002-7009-946X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Aladdin Healthcare Technologies Ltd, London, UK
+- author_id: https://openalex.org/A5073596524
+  display_name: James H.F. Rudd
+  orcid: https://orcid.org/0000-0003-2243-3117
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5028460960
+  display_name: Evis Sala
+  orcid: https://orcid.org/0000-0002-5518-9360
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210089382
+    display_name: Cancer Research UK Cambridge Center
+    ror: https://ror.org/0068m0j38
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Research UK Cambridge Centre, University of Cambridge, Cambridge, UK
+  - Department of Radiology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5033880300
+  display_name: "Carola\u2010Bibiane Sch\xF6nlieb"
+  orcid: https://orcid.org/0000-0003-0099-6306
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+referenced_works:
+- https://openalex.org/W2012932483
+- https://openalex.org/W2045030989
+- https://openalex.org/W2078271269
+- https://openalex.org/W2099471712
+- https://openalex.org/W2107638293
+- https://openalex.org/W2108598243
+- https://openalex.org/W2134833483
+- https://openalex.org/W2183341477
+- https://openalex.org/W2763355946
+- https://openalex.org/W2788633781
+- https://openalex.org/W2907554860
+- https://openalex.org/W2946948417
+- https://openalex.org/W2955425717
+- https://openalex.org/W2963466845
+- https://openalex.org/W2980626014
+- https://openalex.org/W3005079553
+- https://openalex.org/W3005879071
+- https://openalex.org/W3007497549
+- https://openalex.org/W3008985036
+- https://openalex.org/W3009557552
+- https://openalex.org/W3009976289
+- https://openalex.org/W3012602559
+- https://openalex.org/W3012751338
+- https://openalex.org/W3012774668
+- https://openalex.org/W3013042142
+- https://openalex.org/W3013130152
+- https://openalex.org/W3013294478
+- https://openalex.org/W3013564598
+- https://openalex.org/W3014322576
+- https://openalex.org/W3014337038
+- https://openalex.org/W3014524604
+- https://openalex.org/W3015463961
+- https://openalex.org/W3015538848
+- https://openalex.org/W3015543750
+- https://openalex.org/W3015984951
+- https://openalex.org/W3016544281
+- https://openalex.org/W3016912206
+- https://openalex.org/W3017451406
+- https://openalex.org/W3017644243
+- https://openalex.org/W3017744567
+- https://openalex.org/W3019010868
+- https://openalex.org/W3019963528
+- https://openalex.org/W3020911337
+- https://openalex.org/W3023251276
+- https://openalex.org/W3024575832
+- https://openalex.org/W3025948831
+- https://openalex.org/W3026741590
+- https://openalex.org/W3026931681
+- https://openalex.org/W3027764902
+- https://openalex.org/W3028119058
+- https://openalex.org/W3029941450
+- https://openalex.org/W3032155710
+- https://openalex.org/W3032754356
+- https://openalex.org/W3034414590
+- https://openalex.org/W3034988614
+- https://openalex.org/W3035116518
+- https://openalex.org/W3035986928
+- https://openalex.org/W3036908895
+- https://openalex.org/W3037424146
+- https://openalex.org/W3037601209
+- https://openalex.org/W3037914312
+- https://openalex.org/W3037974458
+- https://openalex.org/W3038003980
+- https://openalex.org/W3038146752
+- https://openalex.org/W3039182478
+- https://openalex.org/W3040868419
+- https://openalex.org/W3041041945
+- https://openalex.org/W3042092008
+- https://openalex.org/W3042227572
+- https://openalex.org/W3043861578
+- https://openalex.org/W3045219103
+- https://openalex.org/W3045464882
+- https://openalex.org/W3045948273
+- https://openalex.org/W3045975320
+- https://openalex.org/W3047125043
+- https://openalex.org/W3047677357
+- https://openalex.org/W3048886990
+- https://openalex.org/W3048949642
+- https://openalex.org/W3080237299
+- https://openalex.org/W3080561638
+- https://openalex.org/W3082209921
+- https://openalex.org/W3083244927
+- https://openalex.org/W3083873013
+- https://openalex.org/W3084067637
+- https://openalex.org/W3086247911
+- https://openalex.org/W3086849853
+- https://openalex.org/W3087114777
+- https://openalex.org/W3087508367
+- https://openalex.org/W3087524292
+- https://openalex.org/W3088020307
+- https://openalex.org/W3089766775
+- https://openalex.org/W3091271860
+- https://openalex.org/W3092624683
+- https://openalex.org/W3093272769
+- https://openalex.org/W3104810384
+- https://openalex.org/W3116032642
+- https://openalex.org/W3120532774
+- https://openalex.org/W3121339497
+- https://openalex.org/W3129576291
+- https://openalex.org/W3137695714
+- https://openalex.org/W3139111558
+- https://openalex.org/W3140022118
+- https://openalex.org/W3144061366
+- https://openalex.org/W3154884208
+- https://openalex.org/W3158317643
+- https://openalex.org/W3159880465
+- https://openalex.org/W3165656738
+- https://openalex.org/W3194346160
+- https://openalex.org/W4233026002
+- https://openalex.org/W4287711716
+- https://openalex.org/W4287760668
+- https://openalex.org/W4320013936
+primary_topic: COVID-19 diagnosis using AI
+open_access: true

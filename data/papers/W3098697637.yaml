@@ -1,0 +1,1137 @@
+id: https://openalex.org/W3098697637
+doi: https://doi.org/10.1016/j.cell.2020.11.020
+title: Evaluating the Effects of SARS-CoV-2 Spike Mutation D614G on Transmissibility
+  and Pathogenicity
+publication_date: '2020-11-19'
+publication_year: 2020
+cited_by_count: 1028
+citation_percentile: 0.999954
+pagerank: 2.749073208490633e-06
+authorships:
+- author_id: https://openalex.org/A5058253520
+  display_name: Erik Volz
+  orcid: https://orcid.org/0000-0001-6268-8937
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial
+    College London, London, UK
+- author_id: https://openalex.org/A5014526689
+  display_name: Verity Hill
+  orcid: https://orcid.org/0000-0002-3509-8146
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5015297229
+  display_name: John T. McCrone
+  orcid: https://orcid.org/0000-0002-9846-8917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5041502388
+  display_name: Anna Price
+  orcid: https://orcid.org/0000-0002-0769-0417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Biosciences, Cardiff University, Cardiff, UK
+- author_id: https://openalex.org/A5060070273
+  display_name: David Jorgensen
+  orcid: https://orcid.org/0000-0003-4982-3764
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial
+    College London, London, UK
+- author_id: https://openalex.org/A5064124046
+  display_name: "\xC1ine O\u2019Toole"
+  orcid: https://orcid.org/0000-0001-8083-474X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5029474999
+  display_name: Joel Southgate
+  orcid: https://orcid.org/0000-0003-3042-7761
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210087753
+    display_name: Public Health Wales
+    ror: https://ror.org/00265c946
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK
+  - School of Biosciences, Cardiff University, Cardiff, UK
+- author_id: https://openalex.org/A5113672367
+  display_name: Robert A. Johnson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial
+    College London, London, UK
+- author_id: https://openalex.org/A5087801737
+  display_name: Ben Jackson
+  orcid: https://orcid.org/0000-0002-9981-0649
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5109460270
+  display_name: "Fabr\xEDcia F. Nascimento"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial
+    College London, London, UK
+- author_id: https://openalex.org/A5102013229
+  display_name: Sara Rey
+  orcid: https://orcid.org/0000-0002-6196-022X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087753
+    display_name: Public Health Wales
+    ror: https://ror.org/00265c946
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK
+- author_id: https://openalex.org/A5010432368
+  display_name: Samuel M. Nicholls
+  orcid: https://orcid.org/0000-0003-4081-065X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79619799
+    display_name: University of Birmingham
+    ror: https://ror.org/03angcq70
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Microbiology and Infection, University of Birmingham, Birmingham,
+    UK
+- author_id: https://openalex.org/A5068941113
+  display_name: Rachel Colquhoun
+  orcid: https://orcid.org/0000-0002-5577-9897
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5060555512
+  display_name: Ana da Silva Filipe
+  orcid: https://orcid.org/0000-0002-9442-2903
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5056851126
+  display_name: James G. Shepherd
+  orcid: https://orcid.org/0000-0003-3915-048X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5056553918
+  display_name: David J. Pascall
+  orcid: https://orcid.org/0000-0002-7543-0860
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155983
+    display_name: Glasgow Centre for Population Health
+    ror: https://ror.org/04j2yny21
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I7882870
+    display_name: University of Glasgow
+    ror: https://ror.org/00vtgdb53
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Biodiversity, Animal Health and Comparative Medicine, Boyd Orr Centre
+    for Population and Ecosystem Health, University of Glasgow, Glasgow, UK
+- author_id: https://openalex.org/A5088272050
+  display_name: Rajiv Shah
+  orcid: https://orcid.org/0000-0002-2827-5108
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5004532925
+  display_name: Natasha Jesudason
+  orcid: https://orcid.org/0000-0002-7313-6078
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5068811604
+  display_name: Kathy Li
+  orcid: https://orcid.org/0000-0001-5843-1653
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5015265852
+  display_name: Ruth F. Jarrett
+  orcid: https://orcid.org/0000-0003-0390-3478
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5048137935
+  display_name: Nicole Pacchiarini
+  orcid: https://orcid.org/0000-0001-5383-6053
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087753
+    display_name: Public Health Wales
+    ror: https://ror.org/00265c946
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK
+- author_id: https://openalex.org/A5084609233
+  display_name: Matthew Bull
+  orcid: https://orcid.org/0000-0002-8701-0417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210087753
+    display_name: Public Health Wales
+    ror: https://ror.org/00265c946
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK
+- author_id: https://openalex.org/A5080788176
+  display_name: Lily Geidelberg
+  orcid: https://orcid.org/0000-0002-8057-1844
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial
+    College London, London, UK
+- author_id: https://openalex.org/A5015957442
+  display_name: Igor Siveroni
+  orcid: https://orcid.org/0000-0003-2595-3062
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial
+    College London, London, UK
+- author_id: https://openalex.org/A5011132357
+  display_name: Ian Goodfellow
+  orcid: https://orcid.org/0000-0002-9483-510X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5017196239
+  display_name: Nicholas J. Loman
+  orcid: https://orcid.org/0000-0002-9843-8988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79619799
+    display_name: University of Birmingham
+    ror: https://ror.org/03angcq70
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Microbiology and Infection, University of Birmingham, Birmingham,
+    UK
+- author_id: https://openalex.org/A5061658598
+  display_name: Oliver G. Pybus
+  orcid: https://orcid.org/0000-0002-8797-2667
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133836048
+    display_name: Royal Veterinary College
+    ror: https://ror.org/01wka8n18
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathobiology and Population Sciences, The Royal Veterinary College,
+    London, UK
+  - Department of Zoology, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5082064376
+  display_name: David L. Robertson
+  orcid: https://orcid.org/0000-0001-6338-0221
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5001065613
+  display_name: Emma C. Thomson
+  orcid: https://orcid.org/0000-0003-1482-0889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5083534383
+  display_name: Andrew Rambaut
+  orcid: https://orcid.org/0000-0003-4337-3707
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5028687331
+  display_name: Thomas R. Connor
+  orcid: https://orcid.org/0000-0003-2394-6504
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018370718
+    display_name: Quadram Institute
+    ror: https://ror.org/04td3ys19
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210087753
+    display_name: Public Health Wales
+    ror: https://ror.org/00265c946
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK
+  - Quadram Institute Bioscience, Norwich, UK
+  - School of Biosciences, Cardiff University, Cardiff, UK
+- author_id: https://openalex.org/A5023168464
+  display_name: Cherian Koshy
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5012557007
+  display_name: Emma L. Wise
+  orcid: https://orcid.org/0000-0002-0279-3900
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5087624702
+  display_name: Nick Cortes
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5023676631
+  display_name: Jessica Lynch
+  orcid: https://orcid.org/0000-0003-2015-9986
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103006958
+  display_name: Stephen P. Kidd
+  orcid: https://orcid.org/0000-0002-4504-4600
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5004452437
+  display_name: Matilde Mori
+  orcid: https://orcid.org/0000-0001-9012-1911
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5087398782
+  display_name: Derek Fairley
+  orcid: https://orcid.org/0000-0002-6065-7931
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5076392115
+  display_name: Tanya Curran
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5071678055
+  display_name: James McKenna
+  orcid: https://orcid.org/0000-0003-4691-6711
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5048641306
+  display_name: Helen Adams
+  orcid: https://orcid.org/0000-0003-1732-9833
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5027792801
+  display_name: Christophe Fraser
+  orcid: https://orcid.org/0000-0003-2399-9657
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5055232452
+  display_name: Tanya Golubchik
+  orcid: https://orcid.org/0000-0003-2765-9828
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5017470287
+  display_name: David Bonsall
+  orcid: https://orcid.org/0000-0003-2187-0550
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5029126318
+  display_name: Catrin E. Moore
+  orcid: https://orcid.org/0000-0002-8639-9846
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5047985559
+  display_name: Sarah Caddy
+  orcid: https://orcid.org/0000-0002-9790-7420
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5061861721
+  display_name: Fahad Khokhar
+  orcid: https://orcid.org/0000-0001-5959-0680
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5056767704
+  display_name: Michelle Wantoch
+  orcid: https://orcid.org/0000-0001-5313-158X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5104039441
+  display_name: Nicola Reynolds
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5018097878
+  display_name: Ben Warne
+  orcid: https://orcid.org/0000-0003-1326-0373
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5013146260
+  display_name: Joshua Maksimovic
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5065641366
+  display_name: Karla Spellman
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5076508389
+  display_name: Kathryn McCluggage
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5033818559
+  display_name: John P.T. Mo
+  orcid: https://orcid.org/0000-0002-0697-7504
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial
+    College London, London, UK
+- author_id: https://openalex.org/A5091111279
+  display_name: Robert Beer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5059706421
+  display_name: Safiah Afifi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5023357527
+  display_name: "Si\xE2n Morgan"
+  orcid: https://orcid.org/0000-0003-4488-2810
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5086520602
+  display_name: Angela Marchbank
+  orcid: https://orcid.org/0000-0002-6145-2436
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5041502388
+  display_name: Anna Price
+  orcid: https://orcid.org/0000-0002-0769-0417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Biosciences, Cardiff University, Cardiff, UK
+- author_id: https://openalex.org/A5112272074
+  display_name: Christine Kitchen
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5042712163
+  display_name: Huw Gulliver
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5059335340
+  display_name: Ian Merrick
+  orcid: https://orcid.org/0000-0003-2029-7959
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5029474999
+  display_name: Joel Southgate
+  orcid: https://orcid.org/0000-0003-3042-7761
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210087753
+    display_name: Public Health Wales
+    ror: https://ror.org/00265c946
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK
+  - School of Biosciences, Cardiff University, Cardiff, UK
+- author_id: https://openalex.org/A5112855194
+  display_name: Martyn F. Guest
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5113701158
+  display_name: Robert J. Munn
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, Glasgow, UK
+- author_id: https://openalex.org/A5110814072
+  display_name: Trudy Workman
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5028687331
+  display_name: Thomas R. Connor
+  orcid: https://orcid.org/0000-0003-2394-6504
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087753
+    display_name: Public Health Wales
+    ror: https://ror.org/00265c946
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I3018370718
+    display_name: Quadram Institute
+    ror: https://ror.org/04td3ys19
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK
+  - Quadram Institute Bioscience, Norwich, UK
+  - School of Biosciences, Cardiff University, Cardiff, UK
+- author_id: https://openalex.org/A5081589365
+  display_name: William Fuller
+  orcid: https://orcid.org/0000-0002-5883-4433
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5069748944
+  display_name: Catherine Bresner
+  orcid: https://orcid.org/0000-0003-2673-9762
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5011256041
+  display_name: Luke B. Snell
+  orcid: https://orcid.org/0000-0002-6263-9497
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5080687536
+  display_name: Themoula Charalampous
+  orcid: https://orcid.org/0000-0002-8914-5868
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5019701406
+  display_name: Gaia Nebbia
+  orcid: https://orcid.org/0000-0002-7524-1947
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5082183759
+  display_name: Rahul Batra
+  orcid: https://orcid.org/0000-0003-0866-6571
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5104084342
+  display_name: Jonathan Edgeworth
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5041406127
+  display_name: Samuel C. Robson
+  orcid: https://orcid.org/0000-0001-5702-9160
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5017850689
+  display_name: Angela H. Beckett
+  orcid: https://orcid.org/0000-0003-4948-1004
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5112683373
+  display_name: Katie F. Loveson
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5068117269
+  display_name: David M. Aanensen
+  orcid: https://orcid.org/0000-0001-6688-0854
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103957164
+  display_name: Anthony P. Underwood
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5070093541
+  display_name: Corin Yeats
+  orcid: https://orcid.org/0000-0003-0080-6242
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5028032976
+  display_name: Khalil Abudahab
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5027440474
+  display_name: Ben Taylor
+  orcid: https://orcid.org/0000-0002-9105-7760
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5019032220
+  display_name: Mirko Menegazzo
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5017239804
+  display_name: Gemma Clark
+  orcid: https://orcid.org/0000-0002-4471-4641
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5044415887
+  display_name: Darren Smith
+  orcid: https://orcid.org/0000-0003-4925-467X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5038395097
+  display_name: Manjinder Khakh
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5111191688
+  display_name: Vicki M. Fleming
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5065354157
+  display_name: Michelle M. Lister
+  orcid: https://orcid.org/0000-0002-5221-4102
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5032334819
+  display_name: "Hannah C. Howson\u2010Wells"
+  orcid: https://orcid.org/0000-0003-1086-5692
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5028780922
+  display_name: Louise Berry
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5113614463
+  display_name: Tim Boswell
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103110991
+  display_name: Amelia Joseph
+  orcid: https://orcid.org/0000-0003-0707-6481
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5108009384
+  display_name: Iona Willingham
+  orcid: https://orcid.org/0000-0003-3469-2351
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5081284214
+  display_name: Paul W. Bird
+  orcid: https://orcid.org/0000-0002-5890-5262
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5002739392
+  display_name: Thomas Helmer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018370718
+    display_name: Quadram Institute
+    ror: https://ror.org/04td3ys19
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210151791
+    display_name: Genomics (United Kingdom)
+    ror: https://ror.org/053a6xa29
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210087753
+    display_name: Public Health Wales
+    ror: https://ror.org/00265c946
+    country_code: GB
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK
+  - Quadram Institute Bioscience, Norwich, UK
+  - School of Biosciences, Cardiff University, Cardiff, UK
+- author_id: https://openalex.org/A5066930459
+  display_name: Karlie Fallon
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5075466305
+  display_name: Christopher W. Holmes
+  orcid: https://orcid.org/0000-0002-4765-9107
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5047834623
+  display_name: Julian W. Tang
+  orcid: https://orcid.org/0000-0002-4963-1028
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5088174760
+  display_name: Veena Raviprakash
+  orcid: https://orcid.org/0000-0001-6301-8871
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5010513682
+  display_name: Stephen Campbell
+  orcid: https://orcid.org/0000-0002-2328-4136
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+referenced_works:
+- https://openalex.org/W1865208146
+- https://openalex.org/W1965531501
+- https://openalex.org/W1982533785
+- https://openalex.org/W1993210385
+- https://openalex.org/W2009596137
+- https://openalex.org/W2026229430
+- https://openalex.org/W2042296034
+- https://openalex.org/W2073868508
+- https://openalex.org/W2085887280
+- https://openalex.org/W2104595316
+- https://openalex.org/W2119494556
+- https://openalex.org/W2151409320
+- https://openalex.org/W2163966557
+- https://openalex.org/W2171338658
+- https://openalex.org/W2495692517
+- https://openalex.org/W2605343262
+- https://openalex.org/W2752084418
+- https://openalex.org/W2801159594
+- https://openalex.org/W2807308836
+- https://openalex.org/W2883251903
+- https://openalex.org/W2901954177
+- https://openalex.org/W2925925868
+- https://openalex.org/W2950234705
+- https://openalex.org/W2951062206
+- https://openalex.org/W2952663165
+- https://openalex.org/W2962758893
+- https://openalex.org/W3003217347
+- https://openalex.org/W3004239190
+- https://openalex.org/W3005235420
+- https://openalex.org/W3012925204
+- https://openalex.org/W3013893137
+- https://openalex.org/W3015538318
+- https://openalex.org/W3026289251
+- https://openalex.org/W3027808497
+- https://openalex.org/W3028674382
+- https://openalex.org/W3032208373
+- https://openalex.org/W3032445823
+- https://openalex.org/W3032971139
+- https://openalex.org/W3033301286
+- https://openalex.org/W3034304416
+- https://openalex.org/W3034673010
+- https://openalex.org/W3035706118
+- https://openalex.org/W3036974400
+- https://openalex.org/W3038621492
+- https://openalex.org/W3039352801
+- https://openalex.org/W3039901154
+- https://openalex.org/W3043124965
+- https://openalex.org/W3044294607
+- https://openalex.org/W3065795114
+- https://openalex.org/W3082360167
+- https://openalex.org/W3082387069
+- https://openalex.org/W3093768302
+- https://openalex.org/W3093784112
+- https://openalex.org/W3096084589
+- https://openalex.org/W3098794734
+- https://openalex.org/W3099115663
+- https://openalex.org/W3101992496
+- https://openalex.org/W3103187010
+- https://openalex.org/W3103384301
+- https://openalex.org/W3106674057
+- https://openalex.org/W4236624053
+- https://openalex.org/W4239942645
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

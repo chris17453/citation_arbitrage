@@ -1,0 +1,831 @@
+id: https://openalex.org/W3041960835
+doi: https://doi.org/10.1126/science.abc6027
+title: Impaired type I interferon activity and inflammatory responses in severe COVID-19
+  patients
+publication_date: '2020-07-13'
+publication_year: 2020
+cited_by_count: 2959
+citation_percentile: 0.999954
+pagerank: 2.88753822279625e-06
+authorships:
+- author_id: https://openalex.org/A5027268725
+  display_name: "J\xE9r\xF4me Hadjadj"
+  orcid: https://orcid.org/0000-0002-2520-3272
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210165077
+    display_name: "Institut des Maladies G\xE9n\xE9tiques Imagine"
+    ror: https://ror.org/05rq3rb55
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Department of Internal Medicine, National Reference Center for Rare Systemic\
+    \ Autoimmune Diseases, AP-HP,\_APHP-CUP, H\xF4pital Cochin, F-75014 Paris, France."
+  - "Universit\xE9 de Paris, Imagine Institute Laboratory of Immunogenetics of Pediatric\
+    \ Autoimmune Diseases, INSERM UMR 1163, F-75015 Paris, France."
+- author_id: https://openalex.org/A5062648346
+  display_name: Nader Yatim
+  orcid: https://orcid.org/0000-0001-5326-1624
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Department of Internal Medicine, National Reference Center for Rare Systemic\
+    \ Autoimmune Diseases, AP-HP,\_APHP-CUP, H\xF4pital Cochin, F-75014 Paris, France."
+  - Institut Pasteur, Laboratory of Dendritic Cell Immunobiology, INSERM U1223, Department
+    of Immunology, F-75015 Paris, France.
+- author_id: https://openalex.org/A5013066546
+  display_name: Laura Barnabei
+  orcid: https://orcid.org/0000-0001-9358-2633
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210165077
+    display_name: "Institut des Maladies G\xE9n\xE9tiques Imagine"
+    ror: https://ror.org/05rq3rb55
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Paris, Imagine Institute Laboratory of Immunogenetics of Pediatric\
+    \ Autoimmune Diseases, INSERM UMR 1163, F-75015 Paris, France."
+- author_id: https://openalex.org/A5087186359
+  display_name: "Aur\xE9lien Corneau"
+  orcid: https://orcid.org/0000-0003-1272-6872
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sorbonne Universit\xE9, UMS037, PASS, Plateforme de cytom\xE9trie de la Piti\xE9\
+    -Salp\xEAtri\xE8re CyPS, F-75013 Paris, France."
+- author_id: https://openalex.org/A5090069205
+  display_name: "J\xE9r\xE9my Boussier"
+  orcid: https://orcid.org/0000-0002-2249-377X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institut Pasteur, Laboratory of Dendritic Cell Immunobiology, INSERM U1223, Department
+    of Immunology, F-75015 Paris, France.
+- author_id: https://openalex.org/A5079484759
+  display_name: "Nika\xEFa Smith"
+  orcid: https://orcid.org/0000-0002-0202-612X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institut Pasteur, Laboratory of Dendritic Cell Immunobiology, INSERM U1223, Department
+    of Immunology, F-75015 Paris, France.
+- author_id: https://openalex.org/A5070919544
+  display_name: "H\xE9l\xE8ne P\xE9r\xE9"
+  orcid: https://orcid.org/0000-0002-3225-4238
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109141
+    display_name: "H\xF4pital Europ\xE9en"
+    ror: https://ror.org/01tfhsg94
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210102325
+    display_name: "H\xF4pital Europ\xE9en Georges-Pompidou"
+    ror: https://ror.org/016vx5156
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210131199
+    display_name: Paris Cardiovascular Research Center
+    ror: https://ror.org/03gvnh520
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de Microbiologie, AP-HP, APHP-CUP, H\xF4pital Europ\xE9en Georges Pompidou,\
+    \ F-75015 Paris, France."
+  - "Universit\xE9 de Paris, INSERM, U970, PARCC, F-75015 Paris, France."
+- author_id: https://openalex.org/A5067491091
+  display_name: Bruno Charbit
+  orcid: https://orcid.org/0000-0002-5478-482X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institut Pasteur, Cytometry and Biomarkers UTechS, CRT, F-75015 Paris, France.
+- author_id: https://openalex.org/A5069703797
+  display_name: Vincent Bondet
+  orcid: https://orcid.org/0000-0002-6534-0984
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institut Pasteur, Laboratory of Dendritic Cell Immunobiology, INSERM U1223, Department
+    of Immunology, F-75015 Paris, France.
+- author_id: https://openalex.org/A5066774133
+  display_name: "Camille Chenevier\u2010Gobeaux"
+  orcid: https://orcid.org/0000-0002-5237-8182
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Automated Diagnostic Biology, H\xF4pital Cochin, APHP, APHP-CUP,\
+    \ F-75014 Paris, France."
+- author_id: https://openalex.org/A5009886074
+  display_name: Paul Breillat
+  orcid: https://orcid.org/0000-0003-0475-1218
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Internal Medicine, National Reference Center for Rare Systemic\
+    \ Autoimmune Diseases, AP-HP,\_APHP-CUP, H\xF4pital Cochin, F-75014 Paris, France."
+- author_id: https://openalex.org/A5067854644
+  display_name: Nicolas Carlier
+  orcid: https://orcid.org/0000-0002-6828-608X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pulmonology, H\xF4pital Cochin, AP-HP, APHP-CUP, F-75014 Paris,\
+    \ France."
+- author_id: https://openalex.org/A5011591762
+  display_name: R. Gauzit
+  orcid: https://orcid.org/0000-0001-6946-5541
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Equipe Mobile d\u2019Infectiologie, H\xF4pital Cochin, AP-HP, APHP-CUP, F-75014\
+    \ Paris, France."
+- author_id: https://openalex.org/A5032754634
+  display_name: Caroline Morbieu
+  orcid: https://orcid.org/0000-0002-8425-3667
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Internal Medicine, National Reference Center for Rare Systemic\
+    \ Autoimmune Diseases, AP-HP,\_APHP-CUP, H\xF4pital Cochin, F-75014 Paris, France."
+- author_id: https://openalex.org/A5049019312
+  display_name: "Fr\xE9d\xE9ric P\xE8ne"
+  orcid: https://orcid.org/0000-0003-3639-3849
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210141964
+    display_name: Institut Cochin
+    ror: https://ror.org/051sk4035
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de M\xE9decine Intensive et R\xE9animation, H\xF4pital Cochin, AP-HP,\
+    \ APHP-CUP, F-75014 Paris, France."
+  - "Universit\xE9 de Paris, Institut Cochin, INSERM U1016, CNRS UMR8104, F-75006\
+    \ Paris, France."
+- author_id: https://openalex.org/A5111908187
+  display_name: Nathalie Marin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de M\xE9decine Intensive et R\xE9animation, H\xF4pital Cochin, AP-HP,\
+    \ APHP-CUP, F-75014 Paris, France."
+- author_id: https://openalex.org/A5001192345
+  display_name: "Nicol\xE1s Roche"
+  orcid: https://orcid.org/0000-0002-3162-5033
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210141964
+    display_name: Institut Cochin
+    ror: https://ror.org/051sk4035
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pulmonology, H\xF4pital Cochin, AP-HP, APHP-CUP, F-75014 Paris,\
+    \ France."
+  - "Universit\xE9 de Paris, Institut Cochin, INSERM U1016, CNRS UMR8104, F-75006\
+    \ Paris, France."
+- author_id: https://openalex.org/A5010262698
+  display_name: Tali-Anne Szwebel
+  orcid: https://orcid.org/0000-0002-1124-9245
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Internal Medicine, National Reference Center for Rare Systemic\
+    \ Autoimmune Diseases, AP-HP,\_APHP-CUP, H\xF4pital Cochin, F-75014 Paris, France."
+- author_id: https://openalex.org/A5058716522
+  display_name: Sarah H. Merkling
+  orcid: https://orcid.org/0000-0002-6823-4474
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institut Pasteur, Insect-Virus Interactions Unit, UMR 2000, CNRS, Paris, France.
+- author_id: https://openalex.org/A5089989719
+  display_name: "Jean\u2010Marc Tr\xE9luyer"
+  orcid: https://orcid.org/0000-0002-2045-4742
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Recherche Clinique et Pharmacologie, AP-HP, APHP-CUP, H\xF4pitaux Cochin Necker,\
+    \ F-75014 Paris, France."
+  - "Universit\xE9 de Paris, Pharmacologie et Evaluation des Th\xE9rapeutiques Chez\
+    \ l\u2019Enfant et la Femme Enceinte\_EA7323, F-75006 Paris, France."
+- author_id: https://openalex.org/A5000936651
+  display_name: David Veyer
+  orcid: https://orcid.org/0000-0002-2911-0444
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109141
+    display_name: "H\xF4pital Europ\xE9en"
+    ror: https://ror.org/01tfhsg94
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210102325
+    display_name: "H\xF4pital Europ\xE9en Georges-Pompidou"
+    ror: https://ror.org/016vx5156
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210092322
+    display_name: Centre de Recherche des Cordeliers
+    ror: https://ror.org/00dmms154
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de Microbiologie, AP-HP, APHP-CUP, H\xF4pital Europ\xE9en Georges Pompidou,\
+    \ F-75015 Paris, France."
+  - "Universit\xE9 de Paris and Sorbonne Universit\xE9, INSERM, Centre de Recherche\
+    \ des Cordeliers, Functional Genomics of Solid Tumors (FunGeST), F-75006 Paris,\
+    \ France."
+- author_id: https://openalex.org/A5102750836
+  display_name: Luc Mouthon
+  orcid: https://orcid.org/0000-0002-7021-9492
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210141964
+    display_name: Institut Cochin
+    ror: https://ror.org/051sk4035
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Internal Medicine, National Reference Center for Rare Systemic\
+    \ Autoimmune Diseases, AP-HP,\_APHP-CUP, H\xF4pital Cochin, F-75014 Paris, France."
+  - "Universit\xE9 de Paris, Institut Cochin, INSERM U1016, CNRS UMR8104, F-75006\
+    \ Paris, France."
+- author_id: https://openalex.org/A5101443447
+  display_name: Catherine Blanc
+  orcid: https://orcid.org/0000-0003-2665-7417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sorbonne Universit\xE9, UMS037, PASS, Plateforme de cytom\xE9trie de la Piti\xE9\
+    -Salp\xEAtri\xE8re CyPS, F-75013 Paris, France."
+- author_id: https://openalex.org/A5085115846
+  display_name: "Pierre\u2010Louis Tharaux"
+  orcid: https://orcid.org/0000-0002-6062-5905
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210131199
+    display_name: Paris Cardiovascular Research Center
+    ror: https://ror.org/03gvnh520
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Paris, INSERM, U970, PARCC, F-75015 Paris, France."
+- author_id: https://openalex.org/A5066604847
+  display_name: Flore Rozenberg
+  orcid: https://orcid.org/0000-0001-7212-2021
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210141964
+    display_name: Institut Cochin
+    ror: https://ror.org/051sk4035
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Service de Virologie, H\xF4pital Cochin,\_AP-HP, APHP-CUP, F-75014 Paris, France."
+  - "Universit\xE9 de Paris, Institut Cochin, INSERM U1016, CNRS UMR8104, F-75006\
+    \ Paris, France."
+- author_id: https://openalex.org/A5029004287
+  display_name: Alain Fischer
+  orcid: https://orcid.org/0000-0003-4025-5983
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210165077
+    display_name: "Institut des Maladies G\xE9n\xE9tiques Imagine"
+    ror: https://ror.org/05rq3rb55
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1288880153
+    display_name: "H\xF4pital Necker-Enfants Malades"
+    ror: https://ror.org/05tr67282
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I187986737
+    display_name: "Coll\xE8ge de France"
+    ror: https://ror.org/04ex24z53
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Coll\xE8ge de France, Paris, France."
+  - "Department of Paediatric Immuno-Haematology and Rheumatology, AP-HP, APHP.CUP,\
+    \ H\xF4pital Necker, F-75015 Paris, France."
+  - "Universit\xE9 de Paris, Imagine Institute Laboratory of Immunogenetics of Pediatric\
+    \ Autoimmune Diseases, INSERM UMR 1163, F-75015 Paris, France."
+- author_id: https://openalex.org/A5025962485
+  display_name: Darragh Duffy
+  orcid: https://orcid.org/0000-0002-8875-2308
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Institut Pasteur, Cytometry and Biomarkers UTechS, CRT, F-75015 Paris, France.
+  - Institut Pasteur, Laboratory of Dendritic Cell Immunobiology, INSERM U1223, Department
+    of Immunology, F-75015 Paris, France.
+- author_id: https://openalex.org/A5083186666
+  display_name: "Fr\xE9d\xE9ric Rieux\u2010Laucat"
+  orcid: https://orcid.org/0000-0001-7858-7866
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210165077
+    display_name: "Institut des Maladies G\xE9n\xE9tiques Imagine"
+    ror: https://ror.org/05rq3rb55
+    country_code: FR
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Universit\xE9 de Paris, Imagine Institute Laboratory of Immunogenetics of Pediatric\
+    \ Autoimmune Diseases, INSERM UMR 1163, F-75015 Paris, France."
+- author_id: https://openalex.org/A5014403667
+  display_name: "Solen Kern\xE9is"
+  orcid: https://orcid.org/0000-0001-8064-7987
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Institut Pasteur, Epidemiology and Modelling of Antibiotic Evasion (EMAE), F-75015
+    Paris, France.
+  - "Universit\xE9 de Paris, INSERM, IAME, F-75006 Paris, France."
+- author_id: https://openalex.org/A5102772804
+  display_name: Benjamin Terrier
+  orcid: https://orcid.org/0000-0001-6612-7336
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210131199
+    display_name: Paris Cardiovascular Research Center
+    ror: https://ror.org/03gvnh520
+    country_code: FR
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Department of Internal Medicine, National Reference Center for Rare Systemic\
+    \ Autoimmune Diseases, AP-HP,\_APHP-CUP, H\xF4pital Cochin, F-75014 Paris, France."
+  - "Universit\xE9 de Paris, INSERM, U970, PARCC, F-75015 Paris, France."
+referenced_works:
+- https://openalex.org/W1577577364
+- https://openalex.org/W1966408457
+- https://openalex.org/W1977853360
+- https://openalex.org/W1982729887
+- https://openalex.org/W1985522588
+- https://openalex.org/W2004829503
+- https://openalex.org/W2096626379
+- https://openalex.org/W2103387430
+- https://openalex.org/W2144206275
+- https://openalex.org/W2466820605
+- https://openalex.org/W2528532287
+- https://openalex.org/W2606492431
+- https://openalex.org/W2908943028
+- https://openalex.org/W2952463011
+- https://openalex.org/W2972295266
+- https://openalex.org/W3001118548
+- https://openalex.org/W3003668884
+- https://openalex.org/W3008090866
+- https://openalex.org/W3008827533
+- https://openalex.org/W3011498764
+- https://openalex.org/W3011610993
+- https://openalex.org/W3012421327
+- https://openalex.org/W3013512511
+- https://openalex.org/W3014001472
+- https://openalex.org/W3014003872
+- https://openalex.org/W3014294089
+- https://openalex.org/W3015348407
+- https://openalex.org/W3015861468
+- https://openalex.org/W3016489853
+- https://openalex.org/W3018997567
+- https://openalex.org/W3020519915
+- https://openalex.org/W3022248657
+- https://openalex.org/W3025090814
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

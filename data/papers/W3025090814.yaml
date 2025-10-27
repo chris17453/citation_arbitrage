@@ -1,0 +1,384 @@
+id: https://openalex.org/W3025090814
+doi: https://doi.org/10.1126/science.abc3517
+title: Estimating the burden of SARS-CoV-2 in France
+publication_date: '2020-05-13'
+publication_year: 2020
+cited_by_count: 1118
+citation_percentile: 0.999831
+pagerank: 3.0880303122539097e-06
+authorships:
+- author_id: https://openalex.org/A5086547092
+  display_name: Henrik Salje
+  orcid: https://orcid.org/0000-0003-3626-4254
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore,
+    MD, USA.
+  - Department of Genetics, University of Cambridge, Cambridge, UK.
+  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000,
+    CNRS, Paris, France.
+- author_id: https://openalex.org/A5086979832
+  display_name: "C\xE9cile Tran Kiem"
+  orcid: https://orcid.org/0000-0003-0563-8428
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I182627622
+    display_name: "Universit\xE9 Sorbonne Nouvelle"
+    ror: https://ror.org/03z6jp965
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Coll\xE8ge Doctoral, Sorbonne Universit\xE9, Paris, France."
+  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000,
+    CNRS, Paris, France.
+- author_id: https://openalex.org/A5070246006
+  display_name: "No\xE9mie Lefrancq"
+  orcid: https://orcid.org/0000-0001-5991-6169
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000,
+    CNRS, Paris, France.
+- author_id: https://openalex.org/A5044267945
+  display_name: "No\xE9mie Courtejoie"
+  orcid: https://orcid.org/0000-0001-9703-7851
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109794
+    display_name: "Minist\xE8re des Solidarit\xE9s et de la Sant\xE9"
+    ror: https://ror.org/01wp0c315
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "DREES, Minist\xE8re des Solidarit\xE9s et de la Sant\xE9, Paris, France."
+- author_id: https://openalex.org/A5091768984
+  display_name: Paolo Bosetti
+  orcid: https://orcid.org/0000-0001-7078-7118
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000,
+    CNRS, Paris, France.
+- author_id: https://openalex.org/A5089452031
+  display_name: Juliette Paireau
+  orcid: https://orcid.org/0000-0002-5143-6256
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210092716
+    display_name: "Sant\xE9 Publique France"
+    ror: https://ror.org/00dfw9p58
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000,
+    CNRS, Paris, France.
+  - "Sant\xE9 Publique France, French National Public Health Agency, Saint-Maurice,\
+    \ France."
+- author_id: https://openalex.org/A5023274933
+  display_name: Alessio Andronico
+  orcid: https://orcid.org/0000-0002-3542-7245
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000,
+    CNRS, Paris, France.
+- author_id: https://openalex.org/A5005620957
+  display_name: "Nathana\xEBl Hoz\xE9"
+  orcid: https://orcid.org/0000-0002-3977-8966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000,
+    CNRS, Paris, France.
+- author_id: https://openalex.org/A5042779202
+  display_name: Jehanne Richet
+  orcid: https://orcid.org/0000-0002-5242-4281
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109794
+    display_name: "Minist\xE8re des Solidarit\xE9s et de la Sant\xE9"
+    ror: https://ror.org/01wp0c315
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "DREES, Minist\xE8re des Solidarit\xE9s et de la Sant\xE9, Paris, France."
+- author_id: https://openalex.org/A5040787502
+  display_name: Claire-Lise Dubost
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109794
+    display_name: "Minist\xE8re des Solidarit\xE9s et de la Sant\xE9"
+    ror: https://ror.org/01wp0c315
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "DREES, Minist\xE8re des Solidarit\xE9s et de la Sant\xE9, Paris, France."
+- author_id: https://openalex.org/A5076987411
+  display_name: Yann Le Strat
+  orcid: https://orcid.org/0000-0002-6180-4200
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092716
+    display_name: "Sant\xE9 Publique France"
+    ror: https://ror.org/00dfw9p58
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sant\xE9 Publique France, French National Public Health Agency, Saint-Maurice,\
+    \ France."
+- author_id: https://openalex.org/A5039648333
+  display_name: Justin Lessler
+  orcid: https://orcid.org/0000-0002-9741-8109
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore,
+    MD, USA.
+- author_id: https://openalex.org/A5035165297
+  display_name: "D L\xE9vy-Br\xFChl"
+  orcid: https://orcid.org/0000-0002-4246-0932
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092716
+    display_name: "Sant\xE9 Publique France"
+    ror: https://ror.org/00dfw9p58
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sant\xE9 Publique France, French National Public Health Agency, Saint-Maurice,\
+    \ France."
+- author_id: https://openalex.org/A5055055641
+  display_name: Arnaud Fontanet
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I124158823
+    display_name: "Conservatoire National des Arts et M\xE9tiers"
+    ror: https://ror.org/0175hh227
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Emerging Diseases Epidemiology Unit, Institut Pasteur, Paris, France.
+  - "PACRI Unit, Conservatoire National des Arts et M\xE9tiers, Paris, France."
+- author_id: https://openalex.org/A5061270982
+  display_name: Lulla Opatowski
+  orcid: https://orcid.org/0000-0001-8348-700X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I195731000
+    display_name: "Universit\xE9 de Versailles Saint-Quentin-en-Yvelines"
+    ror: https://ror.org/03mkjjy25
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210103698
+    display_name: "Centre de recherche en Epid\xE9miologie et Sant\xE9 des Populations"
+    ror: https://ror.org/01ed4t417
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Anti-infective Evasion and Pharmacoepidemiology Team, CESP, Universit\xE9 Paris-Saclay,\
+    \ UVSQ, INSERM U1018, Montigny-le-Bretonneux, France."
+  - Epidemiology and Modelling of Antibiotic Evasion Unit, Institut Pasteur, Paris,
+    France.
+- author_id: https://openalex.org/A5000035181
+  display_name: "Pierre\u2010Yves Bo\xEBlle"
+  orcid: https://orcid.org/0000-0002-5367-8232
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133907
+    display_name: "Institut Pierre Louis d\u2018\xC9pid\xE9miologie et de Sant\xE9\
+      \ Publique"
+    ror: https://ror.org/02qqh1125
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pierre Louis d\u2019Epid\xE9miologie et de Sant\xE9 Publique, Sorbonne\
+    \ Universit\xE9, INSERM, Paris, France."
+- author_id: https://openalex.org/A5008514010
+  display_name: Simon Cauchemez
+  orcid: https://orcid.org/0000-0001-9186-4549
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000,
+    CNRS, Paris, France.
+referenced_works:
+- https://openalex.org/W1632204375
+- https://openalex.org/W1990990266
+- https://openalex.org/W1995367098
+- https://openalex.org/W2041572706
+- https://openalex.org/W2101311852
+- https://openalex.org/W2117002055
+- https://openalex.org/W2261722432
+- https://openalex.org/W3006083188
+- https://openalex.org/W3009410758
+- https://openalex.org/W3010781325
+- https://openalex.org/W3011826122
+- https://openalex.org/W3011945457
+- https://openalex.org/W3012883349
+- https://openalex.org/W3013160031
+- https://openalex.org/W3013188135
+- https://openalex.org/W3013594674
+- https://openalex.org/W3013967887
+- https://openalex.org/W3014022531
+- https://openalex.org/W3020184843
+- https://openalex.org/W3020382074
+- https://openalex.org/W3023787531
+- https://openalex.org/W3025090814
+- https://openalex.org/W3041444132
+- https://openalex.org/W3083735248
+- https://openalex.org/W3100347672
+- https://openalex.org/W3124205144
+- https://openalex.org/W4232383088
+- https://openalex.org/W4255456390
+primary_topic: COVID-19 epidemiological studies
+open_access: true

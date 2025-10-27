@@ -1,0 +1,454 @@
+id: https://openalex.org/W3126902084
+doi: https://doi.org/10.1016/j.cell.2021.01.010
+title: A pan-cancer single-cell transcriptional atlas of tumor infiltrating myeloid
+  cells
+publication_date: '2021-02-01'
+publication_year: 2021
+cited_by_count: 1114
+citation_percentile: 0.999982
+pagerank: 2.539429417311811e-06
+authorships:
+- author_id: https://openalex.org/A5027643420
+  display_name: Sijin Cheng
+  orcid: https://orcid.org/0000-0002-2565-7127
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5100389141
+  display_name: Ziyi Li
+  orcid: https://orcid.org/0000-0003-0947-9137
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5101966895
+  display_name: Ranran Gao
+  orcid: https://orcid.org/0000-0001-5500-0380
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5028640312
+  display_name: Baocai Xing
+  orcid: https://orcid.org/0000-0002-7527-4650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210093964
+    display_name: Peking University Cancer Hospital
+    ror: https://ror.org/00nyxxr91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Hepatopancreatobiliary Surgery I, Key Laboratory of Carcinogenesis
+    and Translational Research (Ministry of Education), Peking University Cancer Hospital
+    and Institute, Beijing 100142, China
+- author_id: https://openalex.org/A5088829354
+  display_name: Yunong Gao
+  orcid: https://orcid.org/0000-0001-9926-0360
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210093964
+    display_name: Peking University Cancer Hospital
+    ror: https://ror.org/00nyxxr91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Gynecologic Oncology, Key Laboratory of Carcinogenesis and Translational
+    Research (Ministry of Education), Peking University Cancer Hospital and Institute,
+    Beijing 100142, China
+- author_id: https://openalex.org/A5100662762
+  display_name: Yu Yang
+  orcid: https://orcid.org/0000-0002-5611-8951
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5101414386
+  display_name: Shishang Qin
+  orcid: https://orcid.org/0000-0003-0324-5073
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5100434056
+  display_name: Lei Zhang
+  orcid: https://orcid.org/0000-0003-4498-8236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5012881028
+  display_name: Hanqiang Ouyang
+  orcid: https://orcid.org/0000-0001-8397-6567
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210141942
+    display_name: Peking University Third Hospital
+    ror: https://ror.org/04wwqze12
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Orthopaedics, Peking University Third Hospital, Beijing Key Laboratory
+    of Spinal Disease Research, Beijing 100191, China
+- author_id: https://openalex.org/A5101979070
+  display_name: Peng Du
+  orcid: https://orcid.org/0000-0001-5843-4491
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210093964
+    display_name: Peking University Cancer Hospital
+    ror: https://ror.org/00nyxxr91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Urology, Key Laboratory of Carcinogenesis and Translational Research
+    (Ministry of Education), Peking University Cancer Hospital and Institute, Beijing
+    100142, China
+- author_id: https://openalex.org/A5115588752
+  display_name: Liang Jiang
+  orcid: https://orcid.org/0000-0001-6555-3237
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210141942
+    display_name: Peking University Third Hospital
+    ror: https://ror.org/04wwqze12
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Orthopaedics, Peking University Third Hospital, Beijing Key Laboratory
+    of Spinal Disease Research, Beijing 100191, China
+- author_id: https://openalex.org/A5100392792
+  display_name: Bin Zhang
+  orcid: https://orcid.org/0000-0001-8835-8370
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210093964
+    display_name: Peking University Cancer Hospital
+    ror: https://ror.org/00nyxxr91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Head and Neck Surgery, Key Laboratory of Carcinogenesis and Translational
+    Research (Ministry of Education), Peking University Cancer Hospital and Institute,
+    Beijing 100142, China
+- author_id: https://openalex.org/A5115593943
+  display_name: Yue Yang
+  orcid: https://orcid.org/0000-0002-8270-9464
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093964
+    display_name: Peking University Cancer Hospital
+    ror: https://ror.org/00nyxxr91
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Thoracic Surgery II, Key Laboratory of Carcinogenesis and Translational
+    Research (Ministry of Education), Peking University Cancer Hospital and Institute,
+    Beijing 100142, China
+- author_id: https://openalex.org/A5101508572
+  display_name: Xiliang Wang
+  orcid: https://orcid.org/0000-0003-3843-6582
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5057252937
+  display_name: Xianwen Ren
+  orcid: https://orcid.org/0000-0002-8558-5401
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5062854999
+  display_name: "Jin\u2010Xin Bei"
+  orcid: https://orcid.org/0000-0003-1333-407X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146711
+    display_name: Sun Yat-sen University Cancer Center
+    ror: https://ror.org/0400g8r85
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4391768007
+    display_name: State Key Laboratory of Oncology in South China
+    ror: https://ror.org/04dn2ax39
+    country_code: null
+    type: funder
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sun Yat-sen University Cancer Centre, State Key Laboratory of Oncology in South
+    China, Collaborative Innovation Centre for Cancer Medicine, Guangdong Key Laboratory
+    of Nasopharyngeal Carcinoma Diagnosis and Therapy, Guangzhou 510060, China
+- author_id: https://openalex.org/A5101966652
+  display_name: Xueda Hu
+  orcid: https://orcid.org/0000-0002-8705-1518
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+- author_id: https://openalex.org/A5089759774
+  display_name: Zhaode Bu
+  orcid: https://orcid.org/0000-0001-8728-9676
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210093964
+    display_name: Peking University Cancer Hospital
+    ror: https://ror.org/00nyxxr91
+    country_code: CN
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Gastrointestinal Surgery, Key Laboratory of Carcinogenesis and Translational
+    Research (Ministry of Education), Peking University Cancer Hospital and Institute,
+    Beijing 100142, China
+- author_id: https://openalex.org/A5079618096
+  display_name: Jiafu Ji
+  orcid: https://orcid.org/0000-0001-6878-5543
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210093964
+    display_name: Peking University Cancer Hospital
+    ror: https://ror.org/00nyxxr91
+    country_code: CN
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biobank, Key Laboratory of Carcinogenesis and Translational Research
+    (Ministry of Education), Peking University Cancer Hospital and Institute, Beijing
+    100142, China
+  - Department of Gastrointestinal Surgery, Key Laboratory of Carcinogenesis and Translational
+    Research (Ministry of Education), Peking University Cancer Hospital and Institute,
+    Beijing 100142, China
+- author_id: https://openalex.org/A5060146570
+  display_name: Zemin Zhang
+  orcid: https://orcid.org/0000-0002-3182-7153
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210133846
+    display_name: Peking University International Hospital
+    ror: https://ror.org/03jxhcr96
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210102541
+    display_name: Shenzhen Bay Laboratory
+    ror: https://ror.org/00sdcjz77
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - BIOPIC, Beijing Advanced Innovation Center for Genomics, School of Life Sciences,
+    Peking University, Beijing 100871, China
+  - Institute of Cancer Research, Shenzhen Bay Laboratory, Shenzhen 518132, China
+  - Peking University International Cancer Institute, Beijing 100191, China
+referenced_works:
+- https://openalex.org/W1491815146
+- https://openalex.org/W1894168038
+- https://openalex.org/W1963578712
+- https://openalex.org/W1984068087
+- https://openalex.org/W1999574084
+- https://openalex.org/W2008639514
+- https://openalex.org/W2009219530
+- https://openalex.org/W2019388333
+- https://openalex.org/W2034434052
+- https://openalex.org/W2038689279
+- https://openalex.org/W2044946329
+- https://openalex.org/W2053601970
+- https://openalex.org/W2053822709
+- https://openalex.org/W2057445229
+- https://openalex.org/W2058593952
+- https://openalex.org/W2064046777
+- https://openalex.org/W2103441770
+- https://openalex.org/W2104337528
+- https://openalex.org/W2107558681
+- https://openalex.org/W2117075839
+- https://openalex.org/W2117692326
+- https://openalex.org/W2124392720
+- https://openalex.org/W2126811287
+- https://openalex.org/W2145369044
+- https://openalex.org/W2146290346
+- https://openalex.org/W2158599081
+- https://openalex.org/W2163774748
+- https://openalex.org/W2168133698
+- https://openalex.org/W2211754517
+- https://openalex.org/W2214074259
+- https://openalex.org/W2263732114
+- https://openalex.org/W2301130603
+- https://openalex.org/W2341604280
+- https://openalex.org/W2465158514
+- https://openalex.org/W2549442450
+- https://openalex.org/W2553508825
+- https://openalex.org/W2582033455
+- https://openalex.org/W2605810679
+- https://openalex.org/W2607211817
+- https://openalex.org/W2616922646
+- https://openalex.org/W2625185605
+- https://openalex.org/W2736312236
+- https://openalex.org/W2745732448
+- https://openalex.org/W2749553776
+- https://openalex.org/W2770893462
+- https://openalex.org/W2789522113
+- https://openalex.org/W2795989238
+- https://openalex.org/W2800392236
+- https://openalex.org/W2808837841
+- https://openalex.org/W2810097927
+- https://openalex.org/W2817838603
+- https://openalex.org/W2887326710
+- https://openalex.org/W2891401984
+- https://openalex.org/W2894573839
+- https://openalex.org/W2898120081
+- https://openalex.org/W2899145148
+- https://openalex.org/W2902059429
+- https://openalex.org/W2907514116
+- https://openalex.org/W2914311347
+- https://openalex.org/W2921168633
+- https://openalex.org/W2928494788
+- https://openalex.org/W2932352133
+- https://openalex.org/W2936414047
+- https://openalex.org/W2942880491
+- https://openalex.org/W2946348245
+- https://openalex.org/W2950372712
+- https://openalex.org/W2954610188
+- https://openalex.org/W2970751796
+- https://openalex.org/W2979721021
+- https://openalex.org/W2981900400
+- https://openalex.org/W2982638381
+- https://openalex.org/W2992151131
+- https://openalex.org/W3002770500
+- https://openalex.org/W3007935255
+- https://openalex.org/W3013151148
+- https://openalex.org/W3013413712
+- https://openalex.org/W3016020856
+- https://openalex.org/W3016360824
+- https://openalex.org/W3024398531
+- https://openalex.org/W3036429887
+- https://openalex.org/W3078555423
+- https://openalex.org/W3087952073
+- https://openalex.org/W4247053599
+primary_topic: Single-cell and spatial transcriptomics
+open_access: true

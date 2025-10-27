@@ -1,0 +1,752 @@
+id: https://openalex.org/W3018023298
+doi: https://doi.org/10.1016/s0140-6736(20)31022-9
+title: 'Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled,
+  multicentre trial'
+publication_date: '2020-04-29'
+publication_year: 2020
+cited_by_count: 3533
+citation_percentile: 0.999954
+pagerank: 3.484844054363121e-06
+authorships:
+- author_id: https://openalex.org/A5101454711
+  display_name: Yeming Wang
+  orcid: https://orcid.org/0000-0003-4343-9606
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I183519381
+    display_name: Capital Medical University
+    ror: https://ror.org/013xs5b60
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine,
+    National Clinical Research Center for Respiratory Diseases, China-Japan Friendship
+    Hospital, Beijing, China
+  - Department of Respiratory Medicine, Capital Medical University, Beijing, China
+- author_id: https://openalex.org/A5043631759
+  display_name: Dingyu Zhang
+  orcid: https://orcid.org/0000-0002-9277-5705
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Jin Yin-tan Hospital, Wuhan, Hubei, China
+- author_id: https://openalex.org/A5033681865
+  display_name: Guanhua Du
+  orcid: https://orcid.org/0000-0002-6896-0847
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union
+    Medical College, Beijing, China
+- author_id: https://openalex.org/A5102865683
+  display_name: Ronghui Du
+  orcid: https://orcid.org/0000-0001-6416-5531
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109004
+    display_name: Wuhan Pulmonary Hospital
+    ror: https://ror.org/01kqcdh89
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan Lung Hospital, Wuhan, China
+- author_id: https://openalex.org/A5052152159
+  display_name: Jianping Zhao
+  orcid: https://orcid.org/0000-0003-3057-5617
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160344
+    display_name: Tongji Hospital
+    ror: https://ror.org/04xy45965
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tongji Hospital, Tongji Medical College of Huazhong University of Science and
+    Technology, Wuhan, China
+- author_id: https://openalex.org/A5061606852
+  display_name: Yang Jin
+  orcid: https://orcid.org/0000-0003-2409-7073
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210129222
+    display_name: Wuhan Union Hospital
+    ror: https://ror.org/0371fqr87
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Union Hospital, Tongji Medical College of Huazhong University of Science and Technology,
+    Wuhan, China
+- author_id: https://openalex.org/A5050576962
+  display_name: Shouzhi Fu
+  orcid: https://orcid.org/0000-0002-3787-7231
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138122
+    display_name: Wuhan Third Hospital
+    ror: https://ror.org/04743aj70
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan Third Hospital, Wuhan, China
+- author_id: https://openalex.org/A5082645537
+  display_name: Ling Gao
+  orcid: https://orcid.org/0000-0003-0714-7200
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210140357
+    display_name: Renmin Hospital of Wuhan University
+    ror: https://ror.org/03ekhbz91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Renmin Hospital of Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5101711490
+  display_name: Zhenshun Cheng
+  orcid: https://orcid.org/0000-0002-7387-496X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zhongnan Hospital of Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5114041249
+  display_name: Qiaofa Lu
+  orcid: https://orcid.org/0009-0003-9364-5093
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093544
+    display_name: Wuhan Puai Hospital
+    ror: https://ror.org/00qavst65
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan Fourth Hospital, Wuhan, China
+- author_id: https://openalex.org/A5031491320
+  display_name: Yi Hu
+  orcid: https://orcid.org/0000-0002-2882-5210
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143568
+    display_name: Central Hospital of Wuhan
+    ror: https://ror.org/04qs2sz84
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Central Hospital of Wuhan, Wuhan, China
+- author_id: https://openalex.org/A5015488433
+  display_name: Guangwei Luo
+  orcid: https://orcid.org/0000-0002-7328-8725
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138122
+    display_name: Wuhan Third Hospital
+    ror: https://ror.org/04743aj70
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan First Hospital, Wuhan, China
+- author_id: https://openalex.org/A5064315255
+  display_name: Ke Wang
+  orcid: https://orcid.org/0000-0002-7447-2356
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union
+    Medical College, Beijing, China
+- author_id: https://openalex.org/A5063615774
+  display_name: "Yang L\xFC"
+  orcid: https://orcid.org/0000-0002-2274-5703
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union
+    Medical College, Beijing, China
+- author_id: https://openalex.org/A5023611045
+  display_name: Huadong Li
+  orcid: https://orcid.org/0000-0001-7085-9775
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Jin Yin-tan Hospital, Wuhan, Hubei, China
+- author_id: https://openalex.org/A5074494657
+  display_name: Shuzhen Wang
+  orcid: https://orcid.org/0000-0003-3869-2463
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Jin Yin-tan Hospital, Wuhan, Hubei, China
+- author_id: https://openalex.org/A5025014070
+  display_name: Shunan Ruan
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Jin Yin-tan Hospital, Wuhan, Hubei, China
+- author_id: https://openalex.org/A5070513881
+  display_name: Haijun Yang
+  orcid: https://orcid.org/0000-0002-8488-2025
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109004
+    display_name: Wuhan Pulmonary Hospital
+    ror: https://ror.org/01kqcdh89
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan Lung Hospital, Wuhan, China
+- author_id: https://openalex.org/A5015215279
+  display_name: Chunlin Mei
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109004
+    display_name: Wuhan Pulmonary Hospital
+    ror: https://ror.org/01kqcdh89
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan Lung Hospital, Wuhan, China
+- author_id: https://openalex.org/A5100364887
+  display_name: Yi Wang
+  orcid: https://orcid.org/0000-0001-6965-9696
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160344
+    display_name: Tongji Hospital
+    ror: https://ror.org/04xy45965
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tongji Hospital, Tongji Medical College of Huazhong University of Science and
+    Technology, Wuhan, China
+- author_id: https://openalex.org/A5063552401
+  display_name: Dan Ding
+  orcid: https://orcid.org/0000-0003-1873-6510
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160344
+    display_name: Tongji Hospital
+    ror: https://ror.org/04xy45965
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tongji Hospital, Tongji Medical College of Huazhong University of Science and
+    Technology, Wuhan, China
+- author_id: https://openalex.org/A5058711753
+  display_name: Feng Wu
+  orcid: https://orcid.org/0000-0002-4459-5486
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210129222
+    display_name: Wuhan Union Hospital
+    ror: https://ror.org/0371fqr87
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Union Hospital, Tongji Medical College of Huazhong University of Science and Technology,
+    Wuhan, China
+- author_id: https://openalex.org/A5054355498
+  display_name: Xin Tang
+  orcid: https://orcid.org/0000-0002-6860-6530
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210129222
+    display_name: Wuhan Union Hospital
+    ror: https://ror.org/0371fqr87
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Union Hospital, Tongji Medical College of Huazhong University of Science and Technology,
+    Wuhan, China
+- author_id: https://openalex.org/A5015989513
+  display_name: Xianzhi Ye
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138122
+    display_name: Wuhan Third Hospital
+    ror: https://ror.org/04743aj70
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan Third Hospital, Wuhan, China
+- author_id: https://openalex.org/A5090307804
+  display_name: Yingchun Ye
+  orcid: https://orcid.org/0000-0001-5408-6741
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210140357
+    display_name: Renmin Hospital of Wuhan University
+    ror: https://ror.org/03ekhbz91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Renmin Hospital of Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5100339935
+  display_name: Bing Liu
+  orcid: https://orcid.org/0000-0002-6624-1128
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120234
+    display_name: Zhongnan Hospital of Wuhan University
+    ror: https://ror.org/01v5mqw79
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zhongnan Hospital of Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5004919726
+  display_name: Jie Yang
+  orcid: https://orcid.org/0000-0003-4399-2532
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093544
+    display_name: Wuhan Puai Hospital
+    ror: https://ror.org/00qavst65
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan Fourth Hospital, Wuhan, China
+- author_id: https://openalex.org/A5014572115
+  display_name: Wen Yin
+  orcid: https://orcid.org/0000-0002-1393-7682
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210143568
+    display_name: Central Hospital of Wuhan
+    ror: https://ror.org/04qs2sz84
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Central Hospital of Wuhan, Wuhan, China
+- author_id: https://openalex.org/A5100693070
+  display_name: Aili Wang
+  orcid: https://orcid.org/0000-0002-9118-230X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138122
+    display_name: Wuhan Third Hospital
+    ror: https://ror.org/04743aj70
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wuhan First Hospital, Wuhan, China
+- author_id: https://openalex.org/A5082759663
+  display_name: Guohui Fan
+  orcid: https://orcid.org/0000-0003-2299-3560
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Medical Sciences, China-Japan Friendship Hospital, Beijing,
+    China
+- author_id: https://openalex.org/A5012294253
+  display_name: Fei Zhou
+  orcid: https://orcid.org/0000-0002-9871-4882
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine,
+    National Clinical Research Center for Respiratory Diseases, China-Japan Friendship
+    Hospital, Beijing, China
+- author_id: https://openalex.org/A5100748270
+  display_name: Zhibo Liu
+  orcid: https://orcid.org/0000-0002-5587-4165
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine,
+    National Clinical Research Center for Respiratory Diseases, China-Japan Friendship
+    Hospital, Beijing, China
+- author_id: https://openalex.org/A5101081875
+  display_name: Xiaoying Gu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Medical Sciences, China-Japan Friendship Hospital, Beijing,
+    China
+- author_id: https://openalex.org/A5062226704
+  display_name: Jiuyang Xu
+  orcid: https://orcid.org/0000-0002-1906-5918
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tsinghua University School of Medicine, Beijing, China
+- author_id: https://openalex.org/A5113918045
+  display_name: Lianhan Shang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I17747738
+    display_name: Beijing University of Chinese Medicine
+    ror: https://ror.org/05damtm70
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Beijing University of Chinese Medicine, Beijing, China
+  - Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine,
+    National Clinical Research Center for Respiratory Diseases, China-Japan Friendship
+    Hospital, Beijing, China
+- author_id: https://openalex.org/A5100388089
+  display_name: Yi Zhang
+  orcid: https://orcid.org/0000-0001-9861-4681
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine,
+    National Clinical Research Center for Respiratory Diseases, China-Japan Friendship
+    Hospital, Beijing, China
+- author_id: https://openalex.org/A5058308679
+  display_name: Lianjun Cao
+  orcid: https://orcid.org/0000-0001-8784-9549
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123185
+    display_name: Zhejiang Lab
+    ror: https://ror.org/02m2h7991
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tigermed Consulting, Hangzhou, China
+- author_id: https://openalex.org/A5101959467
+  display_name: Tingting Guo
+  orcid: https://orcid.org/0000-0002-4838-1450
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123185
+    display_name: Zhejiang Lab
+    ror: https://ror.org/02m2h7991
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tigermed Consulting, Hangzhou, China
+- author_id: https://openalex.org/A5100454860
+  display_name: Yan Wan
+  orcid: https://orcid.org/0000-0003-3867-1005
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123185
+    display_name: Zhejiang Lab
+    ror: https://ror.org/02m2h7991
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tigermed Consulting, Hangzhou, China
+- author_id: https://openalex.org/A5101942704
+  display_name: Hong Qin
+  orcid: https://orcid.org/0000-0003-0693-6865
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210157781
+    display_name: Shanghai Clinical Research Center
+    ror: https://ror.org/057tkkm33
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Teddy Clinical Research Laboratory, Shanghai, China
+- author_id: https://openalex.org/A5048622892
+  display_name: Yushen Jiang
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hangzhou DI'AN Medical Laboratory, Hangzhou, China
+- author_id: https://openalex.org/A5053252382
+  display_name: Thomas Jaki
+  orcid: https://orcid.org/0000-0002-1096-188X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I67415387
+    display_name: Lancaster University
+    ror: https://ror.org/04f2nsd36
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lancaster University, Lancaster, UK
+  - University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5052964435
+  display_name: Frederick G. Hayden
+  orcid: https://orcid.org/0000-0001-8707-0375
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I51556381
+    display_name: University of Virginia
+    ror: https://ror.org/0153tk833
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Virginia School of Medicine, Charlottesville, VA, USA
+- author_id: https://openalex.org/A5055026576
+  display_name: Peter Horby
+  orcid: https://orcid.org/0000-0002-9822-1586
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - International Severe Acute Respiratory and Emerging Infection Consortium, University
+    of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5100613209
+  display_name: Bin Cao
+  orcid: https://orcid.org/0000-0001-6991-0350
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210160507
+    display_name: Center for Life Sciences
+    ror: https://ror.org/05kje8j93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I183519381
+    display_name: Capital Medical University
+    ror: https://ror.org/013xs5b60
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine,
+    National Clinical Research Center for Respiratory Diseases, China-Japan Friendship
+    Hospital, Beijing, China
+  - Department of Respiratory Medicine, Capital Medical University, Beijing, China
+  - Institute of Respiratory Medicine, Chinese Academy of Medical Science, Beijing,
+    China
+  - "Tsinghua University\u2013Peking University Joint Center for Life Sciences, Beijiing,\
+    \ China"
+- author_id: https://openalex.org/A5100337500
+  display_name: Chen Wang
+  orcid: https://orcid.org/0000-0001-7857-5435
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2801051648
+    display_name: China-Japan Friendship Hospital
+    ror: https://ror.org/037cjxp13
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I2801228662
+    display_name: Peking Union Medical College Hospital
+    ror: https://ror.org/04jztag35
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210160507
+    display_name: Center for Life Sciences
+    ror: https://ror.org/05kje8j93
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine,
+    National Clinical Research Center for Respiratory Diseases, China-Japan Friendship
+    Hospital, Beijing, China
+  - Institute of Respiratory Medicine, Chinese Academy of Medical Science, Beijing,
+    China
+  - Peking Union Medical College, Beijing, China
+  - "Tsinghua University\u2013Peking University Joint Center for Life Sciences, Beijiing,\
+    \ China"
+referenced_works:
+- https://openalex.org/W1995121548
+- https://openalex.org/W2292021561
+- https://openalex.org/W2323038324
+- https://openalex.org/W2399907638
+- https://openalex.org/W2593309919
+- https://openalex.org/W2725497285
+- https://openalex.org/W2769689735
+- https://openalex.org/W2793022939
+- https://openalex.org/W2953224333
+- https://openalex.org/W2991491848
+- https://openalex.org/W3000413850
+- https://openalex.org/W3002108456
+- https://openalex.org/W3003465021
+- https://openalex.org/W3005212621
+- https://openalex.org/W3006564542
+- https://openalex.org/W3008028633
+- https://openalex.org/W3009885589
+- https://openalex.org/W3010673910
+- https://openalex.org/W3011779988
+- https://openalex.org/W3012379316
+- https://openalex.org/W3013742505
+- https://openalex.org/W3013816672
+- https://openalex.org/W3015490759
+- https://openalex.org/W3016626516
+- https://openalex.org/W3016784797
+- https://openalex.org/W3032915827
+- https://openalex.org/W3044711307
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

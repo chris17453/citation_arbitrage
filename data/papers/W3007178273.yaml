@@ -1,0 +1,863 @@
+id: https://openalex.org/W3007178273
+doi: https://doi.org/10.1063/5.0006074
+title: Recent developments in the P<scp>y</scp>SCF program package
+publication_date: '2020-07-09'
+publication_year: 2020
+cited_by_count: 890
+citation_percentile: 0.999974
+pagerank: 2.5285954107218265e-06
+authorships:
+- author_id: https://openalex.org/A5037766138
+  display_name: Qiming Sun
+  orcid: https://orcid.org/0000-0003-0528-6186
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210127778
+    display_name: Axiom (China)
+    ror: https://ror.org/03890pj38
+    country_code: HK
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - AxiomQuant Investment Management LLC 1 , Shanghai 200120, China
+- author_id: https://openalex.org/A5100399112
+  display_name: Xing Zhang
+  orcid: https://orcid.org/0000-0002-1892-1380
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Chemistry and Chemical Engineering, California Institute of Technology
+    2 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5082276958
+  display_name: Samragni Banerjee
+  orcid: https://orcid.org/0000-0002-6160-4241
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52357470
+    display_name: The Ohio State University
+    ror: https://ror.org/00rs6vg23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, The Ohio State University 3 , Columbus,
+    Ohio 43210, USA
+- author_id: https://openalex.org/A5033608239
+  display_name: Peng Bao
+  orcid: https://orcid.org/0000-0002-8070-0589
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210116048
+    display_name: Beijing National Laboratory for Molecular Sciences
+    ror: https://ror.org/02601yx74
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210155088
+    display_name: Institute of Chemistry
+    ror: https://ror.org/048y1rc66
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Beijing National Laboratory for Molecular Sciences, State Key Laboratory for Structural
+    Chemistry of Unstable and Stable Species, Institute of Chemistry, Chinese Academy
+    of Sciences 4 , Beijing 100190, China
+- author_id: https://openalex.org/A5066631055
+  display_name: Marc Barbry
+  orcid: https://orcid.org/0000-0001-5197-7944
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Simbeyond B.V. 5 , P.O. Box 513, NL-5600 MB, Eindhoven, The Netherlands
+- author_id: https://openalex.org/A5014444076
+  display_name: Nick S. Blunt
+  orcid: https://orcid.org/0000-0002-2284-6969
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry 6 , Lensfield Road, Cambridge CB2 1EW, United Kingdom
+- author_id: https://openalex.org/A5021562579
+  display_name: Nikolay A. Bogdanov
+  orcid: https://orcid.org/0000-0002-5437-4919
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088365
+    display_name: Max Planck Institute for Solid State Research
+    ror: https://ror.org/005bk2339
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Max Planck Institute for Solid State Research 7 , Heisenbergstra\xDFe 1, 70569\
+    \ Stuttgart, Germany"
+- author_id: https://openalex.org/A5067933395
+  display_name: George H. Booth
+  orcid: https://orcid.org/0000-0003-2503-4904
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Physics, King\u2019s College London 8 , Strand, London WC2R 2LS,\
+    \ United Kingdom"
+- author_id: https://openalex.org/A5100416028
+  display_name: Jia Chen
+  orcid: https://orcid.org/0000-0002-7310-3196
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I33213144
+    display_name: University of Florida
+    ror: https://ror.org/02y3ad647
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, University of Florida 9 , Gainesville, Florida 32611, USA
+  - Quantum Theory Project, University of Florida 10 , Gainesville, Florida 32611,
+    USA
+- author_id: https://openalex.org/A5069397423
+  display_name: "Zhi\u2010Hao Cui"
+  orcid: https://orcid.org/0000-0002-7389-4063
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Chemistry and Chemical Engineering, California Institute of Technology
+    2 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5043750168
+  display_name: Janus J. Eriksen
+  orcid: https://orcid.org/0000-0001-8583-3842
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "School of Chemistry, University of Bristol 11 , Cantock\u2019s Close, Bristol\
+    \ BS8 1TS, United Kingdom"
+- author_id: https://openalex.org/A5101859092
+  display_name: Yang Gao
+  orcid: https://orcid.org/0000-0003-2320-2839
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Engineering and Applied Science, California Institute of Technology
+    12 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5059193953
+  display_name: Sheng Guo
+  orcid: https://orcid.org/0000-0002-1083-1882
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Inc. 13 , Mountain View, California 94043, USA
+- author_id: https://openalex.org/A5046513205
+  display_name: Jan Hermann
+  orcid: https://orcid.org/0000-0002-2779-0749
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4577782
+    display_name: "Technische Universit\xE4t Berlin"
+    ror: https://ror.org/03v4gjf40
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FU Berlin, Department of Mathematics and Computer Science 14 , Arnimallee 6, 14195
+    Berlin, Germany
+  - TU Berlin, Machine Learning Group 15 , Marchstr. 23, 10587 Berlin, Germany
+- author_id: https://openalex.org/A5080291736
+  display_name: Matthew R. Hermes
+  orcid: https://orcid.org/0000-0001-7807-2950
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Chemical Theory Center, and Supercomputing Institute,
+    University of Minnesota 16 , 207 Pleasant Street SE, Minneapolis, Minnesota 55455,
+    USA
+- author_id: https://openalex.org/A5014023512
+  display_name: Kevin J. Koh
+  orcid: https://orcid.org/0000-0002-0412-4516
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107639228
+    display_name: University of Notre Dame
+    ror: https://ror.org/00mkhxb43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, The University of Notre Dame du Lac
+    17 , 251 Nieuwland Science Hall, Notre Dame, Indiana 46556, USA
+- author_id: https://openalex.org/A5076040281
+  display_name: Peter Koval
+  orcid: https://orcid.org/0000-0002-5461-2278
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Simune Atomistics S.L. 18 , Avenida Tolosa 76, Donostia-San Sebastian, Spain
+- author_id: https://openalex.org/A5078240465
+  display_name: Susi Lehtola
+  orcid: https://orcid.org/0000-0001-6296-8103
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Helsinki 19 , P.O. Box 55 (A. I. Virtasen
+    aukio 1), FI-00014 Helsinki, Finland
+- author_id: https://openalex.org/A5100693967
+  display_name: Zhendong Li
+  orcid: https://orcid.org/0000-0002-0683-6293
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I25254941
+    display_name: Beijing Normal University
+    ror: https://ror.org/022k4wk35
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Theoretical and Computational Photochemistry, Ministry of Education,
+    College of Chemistry, Beijing Normal University 20 , Beijing 100875, China
+- author_id: https://openalex.org/A5063201505
+  display_name: Junzi Liu
+  orcid: https://orcid.org/0000-0001-8658-258X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, The Johns Hopkins University 21 , Baltimore, Maryland
+    21218, USA
+- author_id: https://openalex.org/A5091242410
+  display_name: Narbe Mardirossian
+  orcid: https://orcid.org/0000-0002-1387-0158
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1320553840
+    display_name: Amgen (United States)
+    ror: https://ror.org/03g03ge92
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - AMGEN Research, One Amgen Center Drive 22 , Thousand Oaks, California 91320, USA
+- author_id: https://openalex.org/A5043452051
+  display_name: James McClain
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DRW Holdings LLC 23 , Chicago, Illinois 60661, USA
+- author_id: https://openalex.org/A5017327903
+  display_name: "M\xE1rio Motta"
+  orcid: https://orcid.org/0000-0003-1647-9864
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210085935
+    display_name: IBM Research - Almaden
+    ror: https://ror.org/005w8dd04
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IBM Almaden Research Center 24 , San Jose, California 95120, USA
+- author_id: https://openalex.org/A5101985222
+  display_name: Bastien Mussard
+  orcid: https://orcid.org/0000-0002-0826-4719
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I188538660
+    display_name: University of Colorado Boulder
+    ror: https://ror.org/02ttsq026
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Colorado 25 , Boulder, Colorado 80302,
+    USA
+- author_id: https://openalex.org/A5068239619
+  display_name: Hung Q. Pham
+  orcid: https://orcid.org/0000-0003-3608-1298
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Chemical Theory Center, and Supercomputing Institute,
+    University of Minnesota 16 , 207 Pleasant Street SE, Minneapolis, Minnesota 55455,
+    USA
+- author_id: https://openalex.org/A5052263385
+  display_name: Artem Pulkin
+  orcid: https://orcid.org/0000-0002-9364-1653
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98358874
+    display_name: Delft University of Technology
+    ror: https://ror.org/02e2c7k09
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210145640
+    display_name: QuTech
+    ror: https://ror.org/04wf30j82
+    country_code: NL
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QuTech and Kavli Institute of Nanoscience, Delft University of Technology 26 ,
+    The Netherlands
+- author_id: https://openalex.org/A5089031018
+  display_name: Wirawan Purwanto
+  orcid: https://orcid.org/0000-0002-2124-4552
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I81365321
+    display_name: Old Dominion University
+    ror: https://ror.org/04zjtrb98
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Information Technology Services, Old Dominion University 27 , Norfolk, Virginia
+    23529, USA
+- author_id: https://openalex.org/A5102836296
+  display_name: Paul J. Robinson
+  orcid: https://orcid.org/0000-0003-0465-4979
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78577930
+    display_name: Columbia University
+    ror: https://ror.org/00hj8s172
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Columbia University 28 , New York, New York 10027, USA
+- author_id: https://openalex.org/A5075398206
+  display_name: Enrico Ronca
+  orcid: https://orcid.org/0000-0003-0494-5506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210154694
+    display_name: Institute for Chemical and Physical Processes
+    ror: https://ror.org/05patmk97
+    country_code: IT
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Istituto per i Processi Chimico Fisici del CNR (IPCF-CNR) 29 , Via G. Moruzzi,
+    1, 56124 Pisa, Italy
+- author_id: https://openalex.org/A5064263858
+  display_name: Elvira R. Sayfutyarova
+  orcid: https://orcid.org/0000-0001-8403-5013
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Yale University 30 , 225 Prospect Street, New Haven,
+    Connecticut 06520, USA
+- author_id: https://openalex.org/A5017202349
+  display_name: Maximilian Scheurer
+  orcid: https://orcid.org/0000-0003-0592-3464
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Interdisciplinary Center for Scientific Computing, Ruprecht-Karls University of
+    Heidelberg 31 , 205 Im Neuenheimer Feld, 69120 Heidelberg, Germany
+- author_id: https://openalex.org/A5051203133
+  display_name: Henry F. Schurkus
+  orcid: https://orcid.org/0000-0002-3210-5929
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Chemistry and Chemical Engineering, California Institute of Technology
+    2 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5071026642
+  display_name: James E. T. Smith
+  orcid: https://orcid.org/0000-0002-5130-8633
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I188538660
+    display_name: University of Colorado Boulder
+    ror: https://ror.org/02ttsq026
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Colorado 25 , Boulder, Colorado 80302,
+    USA
+- author_id: https://openalex.org/A5101713677
+  display_name: Chong Sun
+  orcid: https://orcid.org/0000-0002-8299-9094
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Chemistry and Chemical Engineering, California Institute of Technology
+    2 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5069965464
+  display_name: Shi-Ning Sun
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Engineering and Applied Science, California Institute of Technology
+    12 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5052728181
+  display_name: Shiv Upadhyay
+  orcid: https://orcid.org/0000-0002-8501-0501
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Pittsburgh 32 , Pittsburgh, Pennsylvania
+    15260, USA
+- author_id: https://openalex.org/A5083579335
+  display_name: Lucas K. Wagner
+  orcid: https://orcid.org/0000-0002-3755-044X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Institute for Condensed Matter Theory, University of
+    Illinois at Urbana-Champaign 33 , Illinois 61801, USA
+- author_id: https://openalex.org/A5100411507
+  display_name: Xiao Wang
+  orcid: https://orcid.org/0000-0003-1402-7522
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153546
+    display_name: Flatiron Health (United States)
+    ror: https://ror.org/0508h6p74
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Computational Quantum Physics, Flatiron Institute 34 , New York, New
+    York 10010, USA
+- author_id: https://openalex.org/A5066135038
+  display_name: Alec F. White
+  orcid: https://orcid.org/0000-0002-9743-1469
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Chemistry and Chemical Engineering, California Institute of Technology
+    2 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5016390620
+  display_name: James Whitfield
+  orcid: https://orcid.org/0000-0003-2873-0622
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107672454
+    display_name: Dartmouth College
+    ror: https://ror.org/049s0rh22
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Astronomy, Dartmouth College 35 , Hanover, New Hampshire
+    03755, USA
+- author_id: https://openalex.org/A5073259642
+  display_name: Mark J. Williamson
+  orcid: https://orcid.org/0000-0002-5295-7811
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Cambridge 36 , Lensfield Road, Cambridge
+    CB2 1EW, United Kingdom
+- author_id: https://openalex.org/A5067430527
+  display_name: Sebastian Wouters
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108985
+    display_name: Bellevue Hospital Center
+    ror: https://ror.org/01ky34z31
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bricsys NV 37 , Bellevue 5/201, 9050 Gent, Belgium
+- author_id: https://openalex.org/A5051796976
+  display_name: Jun Yang
+  orcid: https://orcid.org/0000-0001-8701-9297
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, The University of Hong Kong 38 , Pokfulam Road, Hong
+    Kong SAR, China
+- author_id: https://openalex.org/A5023469360
+  display_name: Jason M. Yu
+  orcid: https://orcid.org/0000-0002-2270-6798
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California 39 , Irvine, 1102 Natural Sciences
+    II, Irvine, California 92697-2025, USA
+- author_id: https://openalex.org/A5038038703
+  display_name: Tianyu Zhu
+  orcid: https://orcid.org/0000-0003-2061-3237
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Chemistry and Chemical Engineering, California Institute of Technology
+    2 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5017031564
+  display_name: Timothy C. Berkelbach
+  orcid: https://orcid.org/0000-0002-7445-2136
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78577930
+    display_name: Columbia University
+    ror: https://ror.org/00hj8s172
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210153546
+    display_name: Flatiron Health (United States)
+    ror: https://ror.org/0508h6p74
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Computational Quantum Physics, Flatiron Institute 34 , New York, New
+    York 10010, USA
+  - Department of Chemistry, Columbia University 28 , New York, New York 10027, USA
+- author_id: https://openalex.org/A5053213854
+  display_name: Sandeep Sharma
+  orcid: https://orcid.org/0000-0002-6598-8887
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I188538660
+    display_name: University of Colorado Boulder
+    ror: https://ror.org/02ttsq026
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of Colorado 25 , Boulder, Colorado 80302,
+    USA
+- author_id: https://openalex.org/A5065587671
+  display_name: Alexander Yu. Sokolov
+  orcid: https://orcid.org/0000-0003-2637-4134
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52357470
+    display_name: The Ohio State University
+    ror: https://ror.org/00rs6vg23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, The Ohio State University 3 , Columbus,
+    Ohio 43210, USA
+- author_id: https://openalex.org/A5082397890
+  display_name: "Garnet Kin\u2010Lic Chan"
+  orcid: https://orcid.org/0000-0001-8009-6038
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Division of Chemistry and Chemical Engineering, California Institute of Technology
+    2 , Pasadena, California 91125, USA
+referenced_works:
+- https://openalex.org/W1810694562
+- https://openalex.org/W1964664464
+- https://openalex.org/W1965092590
+- https://openalex.org/W1966159471
+- https://openalex.org/W1967853451
+- https://openalex.org/W1970623278
+- https://openalex.org/W1976404643
+- https://openalex.org/W1979544533
+- https://openalex.org/W1981368803
+- https://openalex.org/W1983819731
+- https://openalex.org/W1986055213
+- https://openalex.org/W1986664986
+- https://openalex.org/W1989060947
+- https://openalex.org/W1989589317
+- https://openalex.org/W1990345925
+- https://openalex.org/W1993383767
+- https://openalex.org/W1994280733
+- https://openalex.org/W1995087794
+- https://openalex.org/W1995497075
+- https://openalex.org/W1998611317
+- https://openalex.org/W1999363310
+- https://openalex.org/W2003592326
+- https://openalex.org/W2004575088
+- https://openalex.org/W2005387079
+- https://openalex.org/W2011327487
+- https://openalex.org/W2012249460
+- https://openalex.org/W2012718328
+- https://openalex.org/W2013226985
+- https://openalex.org/W2013823662
+- https://openalex.org/W2014166972
+- https://openalex.org/W2015115007
+- https://openalex.org/W2015953519
+- https://openalex.org/W2016581123
+- https://openalex.org/W2017402182
+- https://openalex.org/W2018571396
+- https://openalex.org/W2021933156
+- https://openalex.org/W2024078542
+- https://openalex.org/W2024891511
+- https://openalex.org/W2026172453
+- https://openalex.org/W2028302592
+- https://openalex.org/W2028355475
+- https://openalex.org/W2028974637
+- https://openalex.org/W2029393235
+- https://openalex.org/W2029437009
+- https://openalex.org/W2031401372
+- https://openalex.org/W2031992366
+- https://openalex.org/W2037035785
+- https://openalex.org/W2037845606
+- https://openalex.org/W2038083805
+- https://openalex.org/W2038451362
+- https://openalex.org/W2038533471
+- https://openalex.org/W2038922877
+- https://openalex.org/W2039293281
+- https://openalex.org/W2040134477
+- https://openalex.org/W2041450540
+- https://openalex.org/W2042129035
+- https://openalex.org/W2045214161
+- https://openalex.org/W2048285495
+- https://openalex.org/W2050155889
+- https://openalex.org/W2050453167
+- https://openalex.org/W2054912986
+- https://openalex.org/W2055327257
+- https://openalex.org/W2055514758
+- https://openalex.org/W2055563809
+- https://openalex.org/W2056376833
+- https://openalex.org/W2062745494
+- https://openalex.org/W2067365434
+- https://openalex.org/W2068811556
+- https://openalex.org/W2069322345
+- https://openalex.org/W2069545642
+- https://openalex.org/W2072108342
+- https://openalex.org/W2073027046
+- https://openalex.org/W2073793780
+- https://openalex.org/W2076316855
+- https://openalex.org/W2081595527
+- https://openalex.org/W2083222334
+- https://openalex.org/W2083347277
+- https://openalex.org/W2083715576
+- https://openalex.org/W2084542938
+- https://openalex.org/W2086445382
+- https://openalex.org/W2086550782
+- https://openalex.org/W2087252627
+- https://openalex.org/W2092157292
+- https://openalex.org/W2092930273
+- https://openalex.org/W2102701527
+- https://openalex.org/W2127058321
+- https://openalex.org/W2143534614
+- https://openalex.org/W2144079565
+- https://openalex.org/W2156115804
+- https://openalex.org/W2156871275
+- https://openalex.org/W2166678013
+- https://openalex.org/W2168299072
+- https://openalex.org/W2168311872
+- https://openalex.org/W2268089129
+- https://openalex.org/W2279035142
+- https://openalex.org/W2313816364
+- https://openalex.org/W2336920314
+- https://openalex.org/W2396666011
+- https://openalex.org/W2396676410
+- https://openalex.org/W2412387777
+- https://openalex.org/W2464791347
+- https://openalex.org/W2469865476
+- https://openalex.org/W2542369789
+- https://openalex.org/W2561527643
+- https://openalex.org/W2582560477
+- https://openalex.org/W2592711357
+- https://openalex.org/W2592893046
+- https://openalex.org/W2613386458
+- https://openalex.org/W2739307606
+- https://openalex.org/W2743883341
+- https://openalex.org/W2746979517
+- https://openalex.org/W2756519801
+- https://openalex.org/W2757803490
+- https://openalex.org/W2763134169
+- https://openalex.org/W2767450659
+- https://openalex.org/W2769331892
+- https://openalex.org/W2809408212
+- https://openalex.org/W2811037463
+- https://openalex.org/W2889414485
+- https://openalex.org/W2903095015
+- https://openalex.org/W2906190043
+- https://openalex.org/W2910212630
+- https://openalex.org/W2962949158
+- https://openalex.org/W2963212486
+- https://openalex.org/W2963593183
+- https://openalex.org/W2964477085
+- https://openalex.org/W2970264241
+- https://openalex.org/W2974176966
+- https://openalex.org/W2975004187
+- https://openalex.org/W2979044579
+- https://openalex.org/W2980131015
+- https://openalex.org/W2981590019
+- https://openalex.org/W2982683571
+- https://openalex.org/W2995020353
+- https://openalex.org/W2996225725
+- https://openalex.org/W2996355737
+- https://openalex.org/W2996498098
+- https://openalex.org/W2996574652
+- https://openalex.org/W2999892388
+- https://openalex.org/W3100706335
+- https://openalex.org/W3101095095
+- https://openalex.org/W3101411896
+- https://openalex.org/W3101447818
+- https://openalex.org/W3102157866
+- https://openalex.org/W3102432727
+- https://openalex.org/W3102701515
+- https://openalex.org/W3102927675
+- https://openalex.org/W3104013937
+- https://openalex.org/W3104543849
+- https://openalex.org/W3105229478
+- https://openalex.org/W3105485801
+- https://openalex.org/W3187163767
+- https://openalex.org/W3209612530
+- https://openalex.org/W4230020727
+primary_topic: Machine Learning in Materials Science
+open_access: true

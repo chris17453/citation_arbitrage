@@ -1,0 +1,304 @@
+id: https://openalex.org/W3042609801
+doi: https://doi.org/10.1109/tnnls.2022.3152527
+title: 'Learning From Noisy Labels With Deep Neural Networks: A Survey'
+publication_date: '2022-03-07'
+publication_year: 2022
+cited_by_count: 829
+citation_percentile: 0.999971
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5033909285
+  display_name: Hwanjun Song
+  orcid: https://orcid.org/0000-0002-1105-0818
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I60922564
+    display_name: Naver (South Korea)
+    ror: https://ror.org/04nzrnx83
+    country_code: KR
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NAVER AI Laboratory, Seongnam, South Korea
+- author_id: https://openalex.org/A5100332507
+  display_name: Minseok Kim
+  orcid: https://orcid.org/0000-0001-5064-905X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157485424
+    display_name: Korea Advanced Institute of Science and Technology
+    ror: https://ror.org/05apxxy63
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate School of Knowledge Service Engineering, Korea Advanced Institute of
+    Science and Technology, Daejeon, South Korea
+- author_id: https://openalex.org/A5038816661
+  display_name: Dongmin Park
+  orcid: https://orcid.org/0000-0001-8430-0294
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157485424
+    display_name: Korea Advanced Institute of Science and Technology
+    ror: https://ror.org/05apxxy63
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate School of Knowledge Service Engineering, Korea Advanced Institute of
+    Science and Technology, Daejeon, South Korea
+- author_id: https://openalex.org/A5054292873
+  display_name: Yooju Shin
+  orcid: https://orcid.org/0000-0002-1395-9136
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157485424
+    display_name: Korea Advanced Institute of Science and Technology
+    ror: https://ror.org/05apxxy63
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate School of Knowledge Service Engineering, Korea Advanced Institute of
+    Science and Technology, Daejeon, South Korea
+- author_id: https://openalex.org/A5101805827
+  display_name: Jae-Gil Lee
+  orcid: https://orcid.org/0000-0002-8711-7732
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I157485424
+    display_name: Korea Advanced Institute of Science and Technology
+    ror: https://ror.org/05apxxy63
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate School of Knowledge Service Engineering, Korea Advanced Institute of
+    Science and Technology, Daejeon, South Korea
+referenced_works:
+- https://openalex.org/W12634471
+- https://openalex.org/W1506037854
+- https://openalex.org/W1514928307
+- https://openalex.org/W1532027897
+- https://openalex.org/W16069721
+- https://openalex.org/W1663973292
+- https://openalex.org/W1666146316
+- https://openalex.org/W1759994076
+- https://openalex.org/W1836465849
+- https://openalex.org/W1866072925
+- https://openalex.org/W1921293667
+- https://openalex.org/W1945616565
+- https://openalex.org/W1975128126
+- https://openalex.org/W2008463764
+- https://openalex.org/W2023443033
+- https://openalex.org/W2034822495
+- https://openalex.org/W2034841618
+- https://openalex.org/W2049434052
+- https://openalex.org/W2071865391
+- https://openalex.org/W2090842981
+- https://openalex.org/W2095705004
+- https://openalex.org/W2096203351
+- https://openalex.org/W2099471712
+- https://openalex.org/W2100358124
+- https://openalex.org/W2102348129
+- https://openalex.org/W2106568252
+- https://openalex.org/W2113290770
+- https://openalex.org/W2121056381
+- https://openalex.org/W2124219775
+- https://openalex.org/W2132241724
+- https://openalex.org/W2136504847
+- https://openalex.org/W2144182447
+- https://openalex.org/W2144513243
+- https://openalex.org/W2146241755
+- https://openalex.org/W2153233077
+- https://openalex.org/W2156935079
+- https://openalex.org/W2163605009
+- https://openalex.org/W2163921091
+- https://openalex.org/W2167460663
+- https://openalex.org/W2187013920
+- https://openalex.org/W2252268321
+- https://openalex.org/W2287418003
+- https://openalex.org/W2335728318
+- https://openalex.org/W2399587145
+- https://openalex.org/W2403681572
+- https://openalex.org/W2443960221
+- https://openalex.org/W2472819217
+- https://openalex.org/W2475282416
+- https://openalex.org/W2508156266
+- https://openalex.org/W2518002381
+- https://openalex.org/W2530395818
+- https://openalex.org/W2530816535
+- https://openalex.org/W2560546465
+- https://openalex.org/W2581377246
+- https://openalex.org/W2592335154
+- https://openalex.org/W2592691248
+- https://openalex.org/W2604763608
+- https://openalex.org/W2609701267
+- https://openalex.org/W2616630373
+- https://openalex.org/W2729229022
+- https://openalex.org/W2743200750
+- https://openalex.org/W2750384547
+- https://openalex.org/W2752971446
+- https://openalex.org/W2758659144
+- https://openalex.org/W2759996146
+- https://openalex.org/W2765407302
+- https://openalex.org/W2765482949
+- https://openalex.org/W2774514250
+- https://openalex.org/W2774991067
+- https://openalex.org/W2786234984
+- https://openalex.org/W2795282075
+- https://openalex.org/W2803187616
+- https://openalex.org/W2803403013
+- https://openalex.org/W2804077623
+- https://openalex.org/W2804378530
+- https://openalex.org/W2804975550
+- https://openalex.org/W2885593519
+- https://openalex.org/W2889505375
+- https://openalex.org/W2891244534
+- https://openalex.org/W2896457183
+- https://openalex.org/W2897652134
+- https://openalex.org/W2900457592
+- https://openalex.org/W2906186365
+- https://openalex.org/W2909334458
+- https://openalex.org/W2910096450
+- https://openalex.org/W2911279176
+- https://openalex.org/W2912237282
+- https://openalex.org/W2914448714
+- https://openalex.org/W2922064308
+- https://openalex.org/W2925181975
+- https://openalex.org/W2935128472
+- https://openalex.org/W2936503027
+- https://openalex.org/W2941387380
+- https://openalex.org/W2943997064
+- https://openalex.org/W2945007002
+- https://openalex.org/W2945007112
+- https://openalex.org/W2945634539
+- https://openalex.org/W2947049994
+- https://openalex.org/W2947188859
+- https://openalex.org/W2947380870
+- https://openalex.org/W2949769151
+- https://openalex.org/W2951863938
+- https://openalex.org/W2952133801
+- https://openalex.org/W2952361104
+- https://openalex.org/W2953070460
+- https://openalex.org/W2954996726
+- https://openalex.org/W2962700793
+- https://openalex.org/W2962762068
+- https://openalex.org/W2962762541
+- https://openalex.org/W2963026768
+- https://openalex.org/W2963031075
+- https://openalex.org/W2963037989
+- https://openalex.org/W2963081269
+- https://openalex.org/W2963096987
+- https://openalex.org/W2963113424
+- https://openalex.org/W2963160702
+- https://openalex.org/W2963207607
+- https://openalex.org/W2963258546
+- https://openalex.org/W2963262394
+- https://openalex.org/W2963314381
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963353335
+- https://openalex.org/W2963371670
+- https://openalex.org/W2963399829
+- https://openalex.org/W2963467071
+- https://openalex.org/W2963476860
+- https://openalex.org/W2963509340
+- https://openalex.org/W2963644303
+- https://openalex.org/W2963697299
+- https://openalex.org/W2963735582
+- https://openalex.org/W2963759070
+- https://openalex.org/W2963789034
+- https://openalex.org/W2964155802
+- https://openalex.org/W2964234160
+- https://openalex.org/W2964273174
+- https://openalex.org/W2964292098
+- https://openalex.org/W2964309657
+- https://openalex.org/W2970308742
+- https://openalex.org/W2970711760
+- https://openalex.org/W2971193222
+- https://openalex.org/W2971316968
+- https://openalex.org/W2973562770
+- https://openalex.org/W2975183019
+- https://openalex.org/W2978426779
+- https://openalex.org/W2978625989
+- https://openalex.org/W2979302305
+- https://openalex.org/W2979501189
+- https://openalex.org/W2981873476
+- https://openalex.org/W2988966271
+- https://openalex.org/W2993906597
+- https://openalex.org/W2995097486
+- https://openalex.org/W2995315671
+- https://openalex.org/W2995624272
+- https://openalex.org/W2996108195
+- https://openalex.org/W2996359975
+- https://openalex.org/W2996594819
+- https://openalex.org/W2996626261
+- https://openalex.org/W2996821517
+- https://openalex.org/W2998239226
+- https://openalex.org/W2998775148
+- https://openalex.org/W3005731330
+- https://openalex.org/W3006752788
+- https://openalex.org/W3008907338
+- https://openalex.org/W3009419078
+- https://openalex.org/W303151045
+- https://openalex.org/W3034185248
+- https://openalex.org/W3034266240
+- https://openalex.org/W3034711955
+- https://openalex.org/W3035314656
+- https://openalex.org/W3035325670
+- https://openalex.org/W3035343530
+- https://openalex.org/W3035429562
+- https://openalex.org/W3035546924
+- https://openalex.org/W3035716296
+- https://openalex.org/W3035753488
+- https://openalex.org/W3037062548
+- https://openalex.org/W3037144731
+- https://openalex.org/W3037521768
+- https://openalex.org/W3039366696
+- https://openalex.org/W3040157805
+- https://openalex.org/W3090501525
+- https://openalex.org/W3098851962
+- https://openalex.org/W3100593864
+- https://openalex.org/W3102571367
+- https://openalex.org/W3102643535
+- https://openalex.org/W3102825217
+- https://openalex.org/W3103846556
+- https://openalex.org/W3109042576
+- https://openalex.org/W3110483780
+- https://openalex.org/W3110687497
+- https://openalex.org/W3110801076
+- https://openalex.org/W3112936121
+- https://openalex.org/W3122078363
+- https://openalex.org/W3123795136
+- https://openalex.org/W3123895079
+- https://openalex.org/W3125164229
+- https://openalex.org/W3127699700
+- https://openalex.org/W3130880347
+- https://openalex.org/W3130912157
+- https://openalex.org/W3134631405
+- https://openalex.org/W3136789319
+- https://openalex.org/W3137695714
+- https://openalex.org/W3165676168
+- https://openalex.org/W3169057758
+- https://openalex.org/W3169785106
+- https://openalex.org/W3175157109
+- https://openalex.org/W3175272368
+- https://openalex.org/W3176401212
+- https://openalex.org/W3204785235
+- https://openalex.org/W3209948030
+- https://openalex.org/W3213376958
+- https://openalex.org/W369786348
+- https://openalex.org/W4247692122
+- https://openalex.org/W4254182148
+- https://openalex.org/W4285719527
+- https://openalex.org/W4287828713
+- https://openalex.org/W4288095202
+- https://openalex.org/W4288618201
+- https://openalex.org/W4295253428
+- https://openalex.org/W4297801285
+- https://openalex.org/W4309937634
+- https://openalex.org/W4320013936
+- https://openalex.org/W821095363
+primary_topic: Machine Learning and Data Classification
+open_access: true

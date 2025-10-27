@@ -1,0 +1,498 @@
+id: https://openalex.org/W3148042916
+doi: https://doi.org/10.1038/s41592-021-01098-3
+title: 'Martini 3: a general purpose force field for coarse-grained molecular dynamics'
+publication_date: '2021-03-29'
+publication_year: 2021
+cited_by_count: 1160
+citation_percentile: 0.999982
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5017675228
+  display_name: Paulo C. T. Souza
+  orcid: https://orcid.org/0000-0003-0660-1301
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I100532134
+    display_name: "Universit\xE9 Claude Bernard Lyon 1"
+    ror: https://ror.org/029brtt94
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+  - Molecular Microbiology and Structural Biochemistry, UMR 5086 CNRS and University
+    of Lyon, Lyon, France
+- author_id: https://openalex.org/A5042541501
+  display_name: Riccardo Alessandri
+  orcid: https://orcid.org/0000-0003-1948-5311
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5010416659
+  display_name: Jonathan Barnoud
+  orcid: https://orcid.org/0000-0003-0343-7796
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5020643127
+  display_name: Sebastian Thallmair
+  orcid: https://orcid.org/0000-0002-3396-5840
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5040654307
+  display_name: Ignacio Faustino
+  orcid: https://orcid.org/0000-0002-7732-1692
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5033385286
+  display_name: "Fabian Gr\xFCnewald"
+  orcid: https://orcid.org/0000-0001-6979-1363
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5062486271
+  display_name: Ilias Patmanidis
+  orcid: https://orcid.org/0000-0002-5245-5897
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5051783915
+  display_name: Haleh Abdizadeh
+  orcid: https://orcid.org/0000-0001-7017-2981
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5027924801
+  display_name: Bart M. H. Bruininks
+  orcid: https://orcid.org/0000-0001-5136-0864
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5013571494
+  display_name: Tsjerk A. Wassenaar
+  orcid: https://orcid.org/0000-0002-6345-0266
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5056176969
+  display_name: P. Kroon
+  orcid: https://orcid.org/0000-0001-9273-4850
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5017465726
+  display_name: Josef Melcr
+  orcid: https://orcid.org/0000-0003-4729-3990
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5041079029
+  display_name: Vincent Nieto
+  orcid: https://orcid.org/0000-0002-5633-2114
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I100532134
+    display_name: "Universit\xE9 Claude Bernard Lyon 1"
+    ror: https://ror.org/029brtt94
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Microbiology and Structural Biochemistry, UMR 5086 CNRS and University
+    of Lyon, Lyon, France
+- author_id: https://openalex.org/A5044009212
+  display_name: Valentina Corradi
+  orcid: https://orcid.org/0000-0001-6546-9780
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I168635309
+    display_name: University of Calgary
+    ror: https://ror.org/03yjb2x39
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Molecular Simulation and Department of Biological Sciences, University
+    of Calgary, Calgary, Alberta, Canada
+- author_id: https://openalex.org/A5083553143
+  display_name: Hanif M. Khan
+  orcid: https://orcid.org/0000-0001-5301-7234
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I168635309
+    display_name: University of Calgary
+    ror: https://ror.org/03yjb2x39
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Molecular Simulation and Department of Biological Sciences, University
+    of Calgary, Calgary, Alberta, Canada
+- author_id: https://openalex.org/A5064872574
+  display_name: "Jan Doma\u0144ski"
+  orcid: https://orcid.org/0000-0003-0693-5408
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5043852758
+  display_name: Matti Javanainen
+  orcid: https://orcid.org/0000-0003-4858-364X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210145889
+    display_name: Czech Academy of Sciences, Institute of Organic Chemistry and Biochemistry
+    ror: https://ror.org/04nfjn472
+    country_code: CZ
+    type: funder
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Physics Laboratory, Tampere University, Tampere, Finland
+  - Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, Prague,
+    Czech Republic
+- author_id: https://openalex.org/A5075124865
+  display_name: "Hector Martinez\u2010Seara"
+  orcid: https://orcid.org/0000-0001-9716-1713
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210145889
+    display_name: Czech Academy of Sciences, Institute of Organic Chemistry and Biochemistry
+    ror: https://ror.org/04nfjn472
+    country_code: CZ
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, Prague,
+    Czech Republic
+- author_id: https://openalex.org/A5090274388
+  display_name: Nathalie Reuter
+  orcid: https://orcid.org/0000-0002-3649-7675
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4432739
+    display_name: University of Bergen
+    ror: https://ror.org/03zga2b32
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Computational Biology Unit, University of Bergen,
+    Bergen, Norway
+- author_id: https://openalex.org/A5059620610
+  display_name: Robert B. Best
+  orcid: https://orcid.org/0000-0002-7893-3543
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090567
+    display_name: National Institute of Diabetes and Digestive and Kidney Diseases
+    ror: https://ror.org/00adh9b73
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Chemical Physics, National Institute of Diabetes and Digestive and
+    Kidney Diseases, National Institutes of Health, Bethesda, MD, USA
+- author_id: https://openalex.org/A5082983574
+  display_name: Ilpo Vattulainen
+  orcid: https://orcid.org/0000-0001-7408-3214
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166825849
+    display_name: Tampere University
+    ror: https://ror.org/033003e23
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Physics Laboratory, Tampere University, Tampere, Finland
+- author_id: https://openalex.org/A5083958570
+  display_name: Luca Monticelli
+  orcid: https://orcid.org/0000-0002-6352-4595
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I100532134
+    display_name: "Universit\xE9 Claude Bernard Lyon 1"
+    ror: https://ror.org/029brtt94
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Microbiology and Structural Biochemistry, UMR 5086 CNRS and University
+    of Lyon, Lyon, France
+- author_id: https://openalex.org/A5085114391
+  display_name: "Xavier P\xE9riole"
+  orcid: https://orcid.org/0000-0002-2087-5061
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204337017
+    display_name: Aarhus University
+    ror: https://ror.org/01aj84f44
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Aarhus University, Aarhus C, Denmark
+- author_id: https://openalex.org/A5017696854
+  display_name: D. Peter Tieleman
+  orcid: https://orcid.org/0000-0001-5507-0688
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I168635309
+    display_name: University of Calgary
+    ror: https://ror.org/03yjb2x39
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Molecular Simulation and Department of Biological Sciences, University
+    of Calgary, Calgary, Alberta, Canada
+- author_id: https://openalex.org/A5009629488
+  display_name: Alex H. de Vries
+  orcid: https://orcid.org/0000-0002-4055-0950
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+- author_id: https://openalex.org/A5062095380
+  display_name: "\u202ASiewert J. Marrink"
+  orcid: https://orcid.org/0000-0001-8423-5277
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I169381384
+    display_name: University of Groningen
+    ror: https://ror.org/012p63287
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Groningen Biomolecular Sciences and Biotechnology Institute and Zernike Institute
+    for Advanced Material, University of Groningen, Groningen, the Netherlands
+referenced_works:
+- https://openalex.org/W1031578623
+- https://openalex.org/W1506147667
+- https://openalex.org/W1519815927
+- https://openalex.org/W1806547840
+- https://openalex.org/W1837560931
+- https://openalex.org/W1966304410
+- https://openalex.org/W1966679473
+- https://openalex.org/W1986099885
+- https://openalex.org/W1991442277
+- https://openalex.org/W1997073285
+- https://openalex.org/W2022796341
+- https://openalex.org/W2026195880
+- https://openalex.org/W2027154929
+- https://openalex.org/W2028016674
+- https://openalex.org/W2029667189
+- https://openalex.org/W2031644342
+- https://openalex.org/W2033692265
+- https://openalex.org/W2035687084
+- https://openalex.org/W2036479410
+- https://openalex.org/W2039399096
+- https://openalex.org/W2047474238
+- https://openalex.org/W2049286183
+- https://openalex.org/W2050216237
+- https://openalex.org/W2051864856
+- https://openalex.org/W2054127621
+- https://openalex.org/W2057477511
+- https://openalex.org/W2058909483
+- https://openalex.org/W2064388657
+- https://openalex.org/W2065947633
+- https://openalex.org/W2068613460
+- https://openalex.org/W2069551910
+- https://openalex.org/W2070732379
+- https://openalex.org/W2073765675
+- https://openalex.org/W2075101183
+- https://openalex.org/W2081030911
+- https://openalex.org/W2081693079
+- https://openalex.org/W2081724315
+- https://openalex.org/W2087277033
+- https://openalex.org/W2113973083
+- https://openalex.org/W2119267663
+- https://openalex.org/W2119806687
+- https://openalex.org/W213219864
+- https://openalex.org/W2142532813
+- https://openalex.org/W2148724380
+- https://openalex.org/W2149761516
+- https://openalex.org/W2171268876
+- https://openalex.org/W2178132894
+- https://openalex.org/W2221824803
+- https://openalex.org/W2307321068
+- https://openalex.org/W2314292783
+- https://openalex.org/W2316981852
+- https://openalex.org/W2317986418
+- https://openalex.org/W2321463817
+- https://openalex.org/W2323178299
+- https://openalex.org/W2327174080
+- https://openalex.org/W2337438199
+- https://openalex.org/W2401568999
+- https://openalex.org/W2437718925
+- https://openalex.org/W2493802071
+- https://openalex.org/W2510475640
+- https://openalex.org/W2573724744
+- https://openalex.org/W2583256450
+- https://openalex.org/W2588131784
+- https://openalex.org/W2588157903
+- https://openalex.org/W2598856845
+- https://openalex.org/W2613860781
+- https://openalex.org/W2619181032
+- https://openalex.org/W2739397185
+- https://openalex.org/W2742728333
+- https://openalex.org/W2762193974
+- https://openalex.org/W2762845104
+- https://openalex.org/W2766363993
+- https://openalex.org/W2767133007
+- https://openalex.org/W2768114066
+- https://openalex.org/W2782882221
+- https://openalex.org/W2789132965
+- https://openalex.org/W2790442679
+- https://openalex.org/W2811001803
+- https://openalex.org/W2883596424
+- https://openalex.org/W2886486692
+- https://openalex.org/W2893305701
+- https://openalex.org/W2951797025
+- https://openalex.org/W2967742602
+- https://openalex.org/W2990099050
+- https://openalex.org/W2990622354
+- https://openalex.org/W2998476146
+- https://openalex.org/W3007504236
+- https://openalex.org/W3044938537
+- https://openalex.org/W3080116027
+- https://openalex.org/W3087938969
+- https://openalex.org/W3169781269
+- https://openalex.org/W4388401130
+primary_topic: Protein Structure and Dynamics
+open_access: true

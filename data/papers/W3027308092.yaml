@@ -1,0 +1,1015 @@
+id: https://openalex.org/W3027308092
+doi: https://doi.org/10.1063/5.0007045
+title: 'CP2K: An electronic structure and molecular dynamics software package - Quickstep:
+  Efficient and accurate electronic structure calculations'
+publication_date: '2020-05-19'
+publication_year: 2020
+cited_by_count: 3092
+citation_percentile: 0.999941
+pagerank: 2.706976610350318e-06
+authorships:
+- author_id: https://openalex.org/A5079206771
+  display_name: "Thomas D. K\xFChne"
+  orcid: https://orcid.org/0000-0001-5471-2407
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I206945453
+    display_name: Paderborn University
+    ror: https://ror.org/058kzsd48
+    country_code: DE
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Dynamics of Condensed Matter and Center for Sustainable Systems Design, Chair
+    of Theoretical Chemistry, Paderborn University 1 , Warburger Str. 100, D-33098
+    Paderborn, Germany
+- author_id: https://openalex.org/A5037289525
+  display_name: Marcella Iannuzzi
+  orcid: https://orcid.org/0000-0001-9717-2527
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5022982818
+  display_name: Mauro Del Ben
+  orcid: https://orcid.org/0000-0003-0755-4797
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Research Division, Lawrence Berkeley National Laboratory 3 , Berkeley,
+    California 94720, USA
+- author_id: https://openalex.org/A5085919092
+  display_name: Vladimir V. Rybkin
+  orcid: https://orcid.org/0000-0001-5136-6035
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5061305921
+  display_name: Patrick Seewald
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5055096264
+  display_name: Frederick Stein
+  orcid: https://orcid.org/0000-0003-3689-4926
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5080069398
+  display_name: Teodoro Laino
+  orcid: https://orcid.org/0000-0001-8717-0456
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126328
+    display_name: IBM Research - Zurich
+    ror: https://ror.org/02js37d36
+    country_code: CH
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "IBM Research Europe 4 , CH-8803 R\xFCschlikon, Switzerland"
+- author_id: https://openalex.org/A5041593378
+  display_name: Rustam Z. Khaliullin
+  orcid: https://orcid.org/0000-0002-9073-6753
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I5023651
+    display_name: McGill University
+    ror: https://ror.org/01pxwe438
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, McGill University 5 , CH-801 Sherbrooke St. West, Montreal,
+    Quebec H3A 0B8, Canada
+- author_id: https://openalex.org/A5018822775
+  display_name: "Ole Sch\xFCtt"
+  orcid: https://orcid.org/0009-0005-8661-3418
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Materials, ETH Z\xFCrich 6 , CH-8092 Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5053820074
+  display_name: Florian Schiffmann
+  orcid: https://orcid.org/0000-0002-1355-8084
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I71270174
+    display_name: Victoria University
+    ror: https://ror.org/04j757h98
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre of Policy Studies, Victoria University 7 , Melbourne, Australia
+- author_id: https://openalex.org/A5018513278
+  display_name: Dorothea Golze
+  orcid: https://orcid.org/0000-0002-2196-9350
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I9927081
+    display_name: Aalto University
+    ror: https://ror.org/020hwjq30
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Physics, Aalto University 8 , Otakaari 1, FI-02150 Espoo,
+    Finland
+- author_id: https://openalex.org/A5021366831
+  display_name: Jan Wilhelm
+  orcid: https://orcid.org/0000-0001-8678-8246
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I60668342
+    display_name: University of Regensburg
+    ror: https://ror.org/01eezs655
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Theoretical Physics, University of Regensburg 9 , Universit\xE4\
+    tsstra\xDFe 31, D-93053 Regensburg, Germany"
+- author_id: https://openalex.org/A5054026713
+  display_name: Sergey K. Chulkov
+  orcid: https://orcid.org/0000-0001-8000-5490
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I51532219
+    display_name: University of Lincoln
+    ror: https://ror.org/03yeq9x20
+    country_code: GB
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Mathematics and Physics, University of Lincoln 10 , Brayford Pool, Lincoln,
+    United Kingdom
+- author_id: https://openalex.org/A5065085203
+  display_name: Mohammad Hossein Bani-Hashemian
+  orcid: https://orcid.org/0000-0002-9436-2760
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Integrated Systems Laboratory, ETH Z\xFCrich 11 , CH-8092 Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5037624425
+  display_name: "Val\xE9ry Weber"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126328
+    display_name: IBM Research - Zurich
+    ror: https://ror.org/02js37d36
+    country_code: CH
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "IBM Research Europe 4 , CH-8803 R\xFCschlikon, Switzerland"
+- author_id: https://openalex.org/A5090213539
+  display_name: "Urban Bor\u0161tnik"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Scientific IT Services, ETH Z\xFCrich 12 , Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5009480253
+  display_name: Mathieu Taillefumier
+  orcid: https://orcid.org/0000-0002-3983-5625
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I4391767926
+    display_name: CSCS - Swiss National Supercomputing Centre
+    ror: https://ror.org/04rzmms09
+    country_code: null
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Swiss National Supercomputing Centre (CSCS), ETH Z\xFCrich 13 , Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5095861994
+  display_name: Alice Shoshana Jakobovits
+  orcid: https://orcid.org/0000-0002-0876-238X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4391767926
+    display_name: CSCS - Swiss National Supercomputing Centre
+    ror: https://ror.org/04rzmms09
+    country_code: null
+    type: funder
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Swiss National Supercomputing Centre (CSCS), ETH Z\xFCrich 13 , Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5101815936
+  display_name: Alfio Lazzaro
+  orcid: https://orcid.org/0000-0003-4256-8270
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HPE Switzerland GmbH 14 , Basel, Switzerland
+- author_id: https://openalex.org/A5072681045
+  display_name: Hans Pabst
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Intel Extreme Computing, Software and Systems 15 , Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5015028124
+  display_name: "Tiziano M\xFCller"
+  orcid: https://orcid.org/0000-0002-1387-5717
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5024640183
+  display_name: Robert R. Schade
+  orcid: https://orcid.org/0000-0002-6268-5397
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I206945453
+    display_name: Paderborn University
+    ror: https://ror.org/058kzsd48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Paderborn Center for Parallel Computing, Paderborn
+    University 16 , Warburger Str. 100, D-33098 Paderborn, Germany
+- author_id: https://openalex.org/A5056897250
+  display_name: Manuel Guidon
+  orcid: https://orcid.org/0000-0003-3543-6683
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5043203491
+  display_name: Samuel Andermatt
+  orcid: https://orcid.org/0000-0002-3822-9607
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Integrated Systems Laboratory, ETH Z\xFCrich 11 , CH-8092 Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5066119896
+  display_name: Nico Holmberg
+  orcid: https://orcid.org/0000-0001-5575-7332
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I9927081
+    display_name: Aalto University
+    ror: https://ror.org/020hwjq30
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Materials Science, Aalto University 17 , P.O. Box
+    16100, 00076 Aalto, Finland
+- author_id: https://openalex.org/A5063895265
+  display_name: Gregory K. Schenter
+  orcid: https://orcid.org/0000-0001-5444-5484
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142606810
+    display_name: Pacific Northwest National Laboratory
+    ror: https://ror.org/05h992307
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Physical Science Division, Pacific Northwest National Laboratory 18 , P.O. Box
+    999, Richland, Washington 99352, USA
+- author_id: https://openalex.org/A5110685955
+  display_name: Anna Hehn
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5003457484
+  display_name: Augustin Bussy
+  orcid: https://orcid.org/0000-0001-7393-0274
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5080376495
+  display_name: Fabian Belleflamme
+  orcid: https://orcid.org/0000-0001-7808-1830
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5016832022
+  display_name: Gloria Tabacchi
+  orcid: https://orcid.org/0000-0002-1988-6775
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I115752224
+    display_name: University of Insubria
+    ror: https://ror.org/00s409261
+    country_code: IT
+    type: funder
+  - id: https://openalex.org/I4210155898
+    display_name: National Interuniversity Consortium of Materials Science and Technology
+    ror: https://ror.org/04k80k910
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Science and High Technology, University of Insubria and INSTM 19
+    , via Valleggio 9, I-22100 Como, Italy
+- author_id: https://openalex.org/A5051171407
+  display_name: "Andreas Gl\xF6\xDF"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107087
+    display_name: BASF (Germany)
+    ror: https://ror.org/01q8f6705
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "BASF SE 20 , Carl-Bosch-Stra\xDFe 38, D-67056 Ludwigshafen am Rhein, Germany"
+- author_id: https://openalex.org/A5043948385
+  display_name: Michael Lass
+  orcid: https://orcid.org/0000-0002-5708-7632
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I206945453
+    display_name: Paderborn University
+    ror: https://ror.org/058kzsd48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Paderborn Center for Parallel Computing, Paderborn
+    University 16 , Warburger Str. 100, D-33098 Paderborn, Germany
+- author_id: https://openalex.org/A5028832623
+  display_name: Iain Bethune
+  orcid: https://orcid.org/0000-0003-0713-2084
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I162524378
+    display_name: Science and Technology Facilities Council
+    ror: https://ror.org/057g20z61
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I4210102012
+    display_name: Sci-Tech Daresbury
+    ror: https://ror.org/015ff4823
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hartree Centre, Science and Technology Facilities Council 21 , Sci-Tech Daresbury,
+    Warrington WA4 4AD, United Kingdom
+- author_id: https://openalex.org/A5046917773
+  display_name: Christopher J. Mundy
+  orcid: https://orcid.org/0000-0003-1378-5241
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142606810
+    display_name: Pacific Northwest National Laboratory
+    ror: https://ror.org/05h992307
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Physical Science Division, Pacific Northwest National Laboratory 18 , P.O. Box
+    999, Richland, Washington 99352, USA
+- author_id: https://openalex.org/A5039484700
+  display_name: Christian Plessl
+  orcid: https://orcid.org/0000-0001-5728-9982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I206945453
+    display_name: Paderborn University
+    ror: https://ror.org/058kzsd48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Paderborn Center for Parallel Computing, Paderborn
+    University 16 , Warburger Str. 100, D-33098 Paderborn, Germany
+- author_id: https://openalex.org/A5006409298
+  display_name: Matthew B. Watkins
+  orcid: https://orcid.org/0000-0003-4215-684X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I51532219
+    display_name: University of Lincoln
+    ror: https://ror.org/03yeq9x20
+    country_code: GB
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Mathematics and Physics, University of Lincoln 10 , Brayford Pool, Lincoln,
+    United Kingdom
+- author_id: https://openalex.org/A5046896923
+  display_name: Joost VandeVondele
+  orcid: https://orcid.org/0000-0002-0902-5111
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I4391767926
+    display_name: CSCS - Swiss National Supercomputing Centre
+    ror: https://ror.org/04rzmms09
+    country_code: null
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Swiss National Supercomputing Centre (CSCS), ETH Z\xFCrich 13 , Z\xFCrich, Switzerland"
+- author_id: https://openalex.org/A5019108427
+  display_name: Matthias Krack
+  orcid: https://orcid.org/0000-0002-2082-7027
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802229908
+    display_name: Paul Scherrer Institute
+    ror: https://ror.org/03eh3y714
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory for Scientific Computing and Modelling, Paul Scherrer Institute 22
+    , CH-5232 Villigen PSI, Switzerland
+- author_id: https://openalex.org/A5045830246
+  display_name: "J\xFCrg Hutter"
+  orcid: https://orcid.org/0000-0002-6887-8229
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Chemistry, University of Zurich 2 , Winterthurerstrasse 190, CH-8057\
+    \ Z\xFCrich, Switzerland"
+referenced_works:
+- https://openalex.org/W1162178593
+- https://openalex.org/W1483804921
+- https://openalex.org/W1485797974
+- https://openalex.org/W1512566704
+- https://openalex.org/W1550186202
+- https://openalex.org/W1564686568
+- https://openalex.org/W1598577682
+- https://openalex.org/W1598993252
+- https://openalex.org/W1614843501
+- https://openalex.org/W1615960000
+- https://openalex.org/W1708984004
+- https://openalex.org/W1758520278
+- https://openalex.org/W1779548284
+- https://openalex.org/W1787337504
+- https://openalex.org/W1826072219
+- https://openalex.org/W1873538003
+- https://openalex.org/W1878748420
+- https://openalex.org/W1887172372
+- https://openalex.org/W1926270372
+- https://openalex.org/W1952152691
+- https://openalex.org/W1963737263
+- https://openalex.org/W1964441167
+- https://openalex.org/W1964941362
+- https://openalex.org/W1965903245
+- https://openalex.org/W1966156734
+- https://openalex.org/W1966323145
+- https://openalex.org/W1966406013
+- https://openalex.org/W1966633283
+- https://openalex.org/W1967731527
+- https://openalex.org/W1968755006
+- https://openalex.org/W1968906863
+- https://openalex.org/W1970127494
+- https://openalex.org/W1970149124
+- https://openalex.org/W1970538531
+- https://openalex.org/W1971224846
+- https://openalex.org/W1973336827
+- https://openalex.org/W1973383114
+- https://openalex.org/W1975425836
+- https://openalex.org/W1976008838
+- https://openalex.org/W1976132728
+- https://openalex.org/W1976161355
+- https://openalex.org/W1976568877
+- https://openalex.org/W1976741239
+- https://openalex.org/W1977303271
+- https://openalex.org/W1977398096
+- https://openalex.org/W1978005976
+- https://openalex.org/W1978209339
+- https://openalex.org/W1979129451
+- https://openalex.org/W1979206729
+- https://openalex.org/W1979871787
+- https://openalex.org/W1979972061
+- https://openalex.org/W1980161966
+- https://openalex.org/W1980685942
+- https://openalex.org/W1981045787
+- https://openalex.org/W1981078764
+- https://openalex.org/W1981122819
+- https://openalex.org/W1981607938
+- https://openalex.org/W1982111552
+- https://openalex.org/W1982537704
+- https://openalex.org/W1982952953
+- https://openalex.org/W1983595729
+- https://openalex.org/W1983972427
+- https://openalex.org/W1984998783
+- https://openalex.org/W1985252301
+- https://openalex.org/W1985386636
+- https://openalex.org/W1986751761
+- https://openalex.org/W1986986500
+- https://openalex.org/W1987483432
+- https://openalex.org/W1987641674
+- https://openalex.org/W1987892543
+- https://openalex.org/W1988047940
+- https://openalex.org/W1988681083
+- https://openalex.org/W1989034096
+- https://openalex.org/W1989060947
+- https://openalex.org/W1991794210
+- https://openalex.org/W1992028354
+- https://openalex.org/W1993195597
+- https://openalex.org/W1993999000
+- https://openalex.org/W1994599264
+- https://openalex.org/W1996384061
+- https://openalex.org/W1997151511
+- https://openalex.org/W1997504567
+- https://openalex.org/W1998074642
+- https://openalex.org/W1998524463
+- https://openalex.org/W2000272038
+- https://openalex.org/W2000565843
+- https://openalex.org/W2000770615
+- https://openalex.org/W2001070187
+- https://openalex.org/W2001177502
+- https://openalex.org/W2001676859
+- https://openalex.org/W2002382166
+- https://openalex.org/W2002761831
+- https://openalex.org/W2002795495
+- https://openalex.org/W2003193361
+- https://openalex.org/W2003679741
+- https://openalex.org/W2004677278
+- https://openalex.org/W2007233074
+- https://openalex.org/W2007515676
+- https://openalex.org/W2009370985
+- https://openalex.org/W2009723552
+- https://openalex.org/W2010785223
+- https://openalex.org/W2011327487
+- https://openalex.org/W2011427181
+- https://openalex.org/W2011446797
+- https://openalex.org/W2012523318
+- https://openalex.org/W2013183108
+- https://openalex.org/W2013192405
+- https://openalex.org/W2014094922
+- https://openalex.org/W2014127669
+- https://openalex.org/W2014166972
+- https://openalex.org/W2015001720
+- https://openalex.org/W2015214995
+- https://openalex.org/W2016154166
+- https://openalex.org/W2016389622
+- https://openalex.org/W2016805737
+- https://openalex.org/W2016813638
+- https://openalex.org/W2016819638
+- https://openalex.org/W2017160834
+- https://openalex.org/W2017196167
+- https://openalex.org/W2017535115
+- https://openalex.org/W2017692613
+- https://openalex.org/W2017777133
+- https://openalex.org/W2017835622
+- https://openalex.org/W2018451854
+- https://openalex.org/W2019321155
+- https://openalex.org/W2019438068
+- https://openalex.org/W2019542484
+- https://openalex.org/W2020056288
+- https://openalex.org/W2021293666
+- https://openalex.org/W2021933156
+- https://openalex.org/W2022112942
+- https://openalex.org/W2022614861
+- https://openalex.org/W2023166289
+- https://openalex.org/W2023271753
+- https://openalex.org/W2025833310
+- https://openalex.org/W2026444402
+- https://openalex.org/W2026895407
+- https://openalex.org/W2027400570
+- https://openalex.org/W2027815611
+- https://openalex.org/W2029414390
+- https://openalex.org/W2030332716
+- https://openalex.org/W2030601089
+- https://openalex.org/W2031249581
+- https://openalex.org/W2031881616
+- https://openalex.org/W2032588197
+- https://openalex.org/W2033429577
+- https://openalex.org/W2033492817
+- https://openalex.org/W2034331582
+- https://openalex.org/W2034668150
+- https://openalex.org/W2034715514
+- https://openalex.org/W2035687084
+- https://openalex.org/W2037717678
+- https://openalex.org/W2037785958
+- https://openalex.org/W2038261361
+- https://openalex.org/W2039420601
+- https://openalex.org/W2039716886
+- https://openalex.org/W2040053236
+- https://openalex.org/W2040134477
+- https://openalex.org/W2040742696
+- https://openalex.org/W2041048247
+- https://openalex.org/W2041053376
+- https://openalex.org/W2042438021
+- https://openalex.org/W2042938036
+- https://openalex.org/W2043386556
+- https://openalex.org/W2043399112
+- https://openalex.org/W2044898874
+- https://openalex.org/W2044940178
+- https://openalex.org/W2045467689
+- https://openalex.org/W2045986522
+- https://openalex.org/W2046001409
+- https://openalex.org/W2046027452
+- https://openalex.org/W2046604198
+- https://openalex.org/W2047700605
+- https://openalex.org/W2050272478
+- https://openalex.org/W2052766668
+- https://openalex.org/W2052910633
+- https://openalex.org/W2053030648
+- https://openalex.org/W2053715956
+- https://openalex.org/W2054225720
+- https://openalex.org/W2054926021
+- https://openalex.org/W2055014004
+- https://openalex.org/W2055230539
+- https://openalex.org/W2055563809
+- https://openalex.org/W2055578689
+- https://openalex.org/W2057042294
+- https://openalex.org/W2058939370
+- https://openalex.org/W2059021650
+- https://openalex.org/W2059676477
+- https://openalex.org/W2060235409
+- https://openalex.org/W2062006108
+- https://openalex.org/W2062820224
+- https://openalex.org/W2062848151
+- https://openalex.org/W2063201144
+- https://openalex.org/W2063236971
+- https://openalex.org/W2064244992
+- https://openalex.org/W2064998809
+- https://openalex.org/W2065470397
+- https://openalex.org/W2065498545
+- https://openalex.org/W2066535961
+- https://openalex.org/W2066966625
+- https://openalex.org/W2067174909
+- https://openalex.org/W2067804932
+- https://openalex.org/W2068453639
+- https://openalex.org/W2069796488
+- https://openalex.org/W2070623500
+- https://openalex.org/W2070719372
+- https://openalex.org/W2071056016
+- https://openalex.org/W2072048381
+- https://openalex.org/W2072302926
+- https://openalex.org/W2072950754
+- https://openalex.org/W2072996664
+- https://openalex.org/W2073773252
+- https://openalex.org/W2073923505
+- https://openalex.org/W2074919599
+- https://openalex.org/W2074950413
+- https://openalex.org/W2074956121
+- https://openalex.org/W2075393245
+- https://openalex.org/W2075851551
+- https://openalex.org/W2076216515
+- https://openalex.org/W2076462975
+- https://openalex.org/W2078085994
+- https://openalex.org/W2078321088
+- https://openalex.org/W2079755350
+- https://openalex.org/W2080116234
+- https://openalex.org/W2080353445
+- https://openalex.org/W2080385432
+- https://openalex.org/W2082050320
+- https://openalex.org/W2082347469
+- https://openalex.org/W2082691688
+- https://openalex.org/W2083618300
+- https://openalex.org/W2084333246
+- https://openalex.org/W2084429590
+- https://openalex.org/W2084741448
+- https://openalex.org/W2085093563
+- https://openalex.org/W2085111837
+- https://openalex.org/W2086170974
+- https://openalex.org/W2086957099
+- https://openalex.org/W2087812727
+- https://openalex.org/W2088380112
+- https://openalex.org/W2089137280
+- https://openalex.org/W2089397721
+- https://openalex.org/W2089799306
+- https://openalex.org/W2089811178
+- https://openalex.org/W2090585376
+- https://openalex.org/W2090880670
+- https://openalex.org/W2092344142
+- https://openalex.org/W2092504514
+- https://openalex.org/W2093414441
+- https://openalex.org/W2094124751
+- https://openalex.org/W2094279870
+- https://openalex.org/W2095100262
+- https://openalex.org/W2098432400
+- https://openalex.org/W2100514507
+- https://openalex.org/W2105564187
+- https://openalex.org/W2106566162
+- https://openalex.org/W2108508060
+- https://openalex.org/W2111225593
+- https://openalex.org/W2111533539
+- https://openalex.org/W2112581573
+- https://openalex.org/W2112793915
+- https://openalex.org/W2114218587
+- https://openalex.org/W2115878464
+- https://openalex.org/W2116732229
+- https://openalex.org/W2117563175
+- https://openalex.org/W2118233996
+- https://openalex.org/W2120145199
+- https://openalex.org/W2121431463
+- https://openalex.org/W2121715881
+- https://openalex.org/W2123306226
+- https://openalex.org/W2133968076
+- https://openalex.org/W2134048650
+- https://openalex.org/W2135643868
+- https://openalex.org/W2138305674
+- https://openalex.org/W2138449482
+- https://openalex.org/W2143534614
+- https://openalex.org/W2144843195
+- https://openalex.org/W2145065557
+- https://openalex.org/W2147068386
+- https://openalex.org/W2148678374
+- https://openalex.org/W2151895170
+- https://openalex.org/W2152949843
+- https://openalex.org/W2153220050
+- https://openalex.org/W2154181301
+- https://openalex.org/W2154330901
+- https://openalex.org/W2155259106
+- https://openalex.org/W2155858732
+- https://openalex.org/W2157058142
+- https://openalex.org/W2157186248
+- https://openalex.org/W2158785361
+- https://openalex.org/W2159164459
+- https://openalex.org/W2160622452
+- https://openalex.org/W2161077193
+- https://openalex.org/W2162166182
+- https://openalex.org/W2164805481
+- https://openalex.org/W2165787742
+- https://openalex.org/W2168478499
+- https://openalex.org/W2172026094
+- https://openalex.org/W2172937099
+- https://openalex.org/W2199626230
+- https://openalex.org/W2208133905
+- https://openalex.org/W2230728100
+- https://openalex.org/W2233449847
+- https://openalex.org/W2242403798
+- https://openalex.org/W2253003940
+- https://openalex.org/W2258497300
+- https://openalex.org/W2269755655
+- https://openalex.org/W2270331523
+- https://openalex.org/W2286402374
+- https://openalex.org/W2288361686
+- https://openalex.org/W2292646695
+- https://openalex.org/W2294635189
+- https://openalex.org/W2296043586
+- https://openalex.org/W2310703973
+- https://openalex.org/W2313037047
+- https://openalex.org/W2316268750
+- https://openalex.org/W2317498826
+- https://openalex.org/W2318690610
+- https://openalex.org/W2318948631
+- https://openalex.org/W2320287746
+- https://openalex.org/W2320541589
+- https://openalex.org/W2320797651
+- https://openalex.org/W2323314593
+- https://openalex.org/W2325975598
+- https://openalex.org/W2326203395
+- https://openalex.org/W2328183527
+- https://openalex.org/W2329374954
+- https://openalex.org/W2329717581
+- https://openalex.org/W2331860815
+- https://openalex.org/W2332437841
+- https://openalex.org/W2334972670
+- https://openalex.org/W2335018742
+- https://openalex.org/W2338636028
+- https://openalex.org/W2340623554
+- https://openalex.org/W2341951168
+- https://openalex.org/W2400808756
+- https://openalex.org/W2401453645
+- https://openalex.org/W2409185211
+- https://openalex.org/W2413145513
+- https://openalex.org/W2469512782
+- https://openalex.org/W2469865476
+- https://openalex.org/W2474258807
+- https://openalex.org/W2479443192
+- https://openalex.org/W2487124707
+- https://openalex.org/W2499071604
+- https://openalex.org/W2501886121
+- https://openalex.org/W2547867457
+- https://openalex.org/W2561992170
+- https://openalex.org/W2565209933
+- https://openalex.org/W2572478950
+- https://openalex.org/W2573056321
+- https://openalex.org/W2599278685
+- https://openalex.org/W2601081289
+- https://openalex.org/W2602479554
+- https://openalex.org/W2602599853
+- https://openalex.org/W2604852519
+- https://openalex.org/W2605147851
+- https://openalex.org/W2609529261
+- https://openalex.org/W2619677969
+- https://openalex.org/W2747101061
+- https://openalex.org/W2755524755
+- https://openalex.org/W2757803490
+- https://openalex.org/W2768663328
+- https://openalex.org/W2768977767
+- https://openalex.org/W2769331892
+- https://openalex.org/W2773701578
+- https://openalex.org/W2773876768
+- https://openalex.org/W2774886565
+- https://openalex.org/W2779573492
+- https://openalex.org/W2792674491
+- https://openalex.org/W2797734788
+- https://openalex.org/W2801925368
+- https://openalex.org/W2810330383
+- https://openalex.org/W2810729069
+- https://openalex.org/W2860018398
+- https://openalex.org/W2885668813
+- https://openalex.org/W2886120629
+- https://openalex.org/W2889316985
+- https://openalex.org/W2889923963
+- https://openalex.org/W2890088637
+- https://openalex.org/W2892968111
+- https://openalex.org/W2894998426
+- https://openalex.org/W2896337308
+- https://openalex.org/W2898892276
+- https://openalex.org/W2899763243
+- https://openalex.org/W2900592582
+- https://openalex.org/W2911997094
+- https://openalex.org/W2912753922
+- https://openalex.org/W2912883800
+- https://openalex.org/W2917120252
+- https://openalex.org/W2918143353
+- https://openalex.org/W2918481020
+- https://openalex.org/W2920820721
+- https://openalex.org/W2929131116
+- https://openalex.org/W2938992183
+- https://openalex.org/W2943650915
+- https://openalex.org/W2952025468
+- https://openalex.org/W2955417293
+- https://openalex.org/W2959863977
+- https://openalex.org/W2962009064
+- https://openalex.org/W2962735411
+- https://openalex.org/W2962953876
+- https://openalex.org/W2963645207
+- https://openalex.org/W2967796591
+- https://openalex.org/W2967995960
+- https://openalex.org/W2970026780
+- https://openalex.org/W2980630897
+- https://openalex.org/W2982683571
+- https://openalex.org/W2990815339
+- https://openalex.org/W2997872173
+- https://openalex.org/W2999023061
+- https://openalex.org/W3005717253
+- https://openalex.org/W3005892601
+- https://openalex.org/W3013423309
+- https://openalex.org/W3014652118
+- https://openalex.org/W3014709246
+- https://openalex.org/W3016664822
+- https://openalex.org/W3019027810
+- https://openalex.org/W3098817022
+- https://openalex.org/W3098964018
+- https://openalex.org/W3098985359
+- https://openalex.org/W3099169275
+- https://openalex.org/W3099340841
+- https://openalex.org/W3099389005
+- https://openalex.org/W3101002283
+- https://openalex.org/W3101095095
+- https://openalex.org/W3101264187
+- https://openalex.org/W3101391468
+- https://openalex.org/W3102103203
+- https://openalex.org/W3102157866
+- https://openalex.org/W3102270655
+- https://openalex.org/W3102272607
+- https://openalex.org/W3102306075
+- https://openalex.org/W3102881286
+- https://openalex.org/W3103438000
+- https://openalex.org/W3103566548
+- https://openalex.org/W3104543849
+- https://openalex.org/W3106205499
+- https://openalex.org/W3106307005
+- https://openalex.org/W3123778788
+- https://openalex.org/W3125691257
+- https://openalex.org/W3133554413
+- https://openalex.org/W3147650139
+- https://openalex.org/W3192930822
+- https://openalex.org/W3200486492
+- https://openalex.org/W3202144441
+- https://openalex.org/W4230608236
+- https://openalex.org/W4239025233
+- https://openalex.org/W4239132388
+- https://openalex.org/W4250282165
+- https://openalex.org/W4251723943
+- https://openalex.org/W4285719527
+- https://openalex.org/W644688143
+- https://openalex.org/W8905202
+primary_topic: Spectroscopy and Quantum Chemical Studies
+open_access: true

@@ -1,0 +1,276 @@
+id: https://openalex.org/W3036206386
+doi: https://doi.org/10.1038/s41596-020-0336-2
+title: A scalable SCENIC workflow for single-cell gene regulatory network analysis
+publication_date: '2020-06-19'
+publication_year: 2020
+cited_by_count: 1056
+citation_percentile: 0.999983
+pagerank: 2.5373567945909866e-06
+authorships:
+- author_id: https://openalex.org/A5030277753
+  display_name: Bram Van de Sande
+  orcid: https://orcid.org/0000-0001-5122-4061
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210153928
+    display_name: VIB-KU Leuven Center for Brain & Disease Research
+    ror: https://ror.org/045c7t348
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - VIB Center for Brain & Disease Research, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5038924040
+  display_name: Christopher Flerin
+  orcid: https://orcid.org/0000-0003-1883-871X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153928
+    display_name: VIB-KU Leuven Center for Brain & Disease Research
+    ror: https://ror.org/045c7t348
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - VIB Center for Brain & Disease Research, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5012454695
+  display_name: Kristofer Davie
+  orcid: https://orcid.org/0000-0003-2182-1249
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153928
+    display_name: VIB-KU Leuven Center for Brain & Disease Research
+    ror: https://ror.org/045c7t348
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - VIB Center for Brain & Disease Research, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5063484598
+  display_name: Maxime De Waegeneer
+  orcid: https://orcid.org/0000-0002-4535-3737
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153928
+    display_name: VIB-KU Leuven Center for Brain & Disease Research
+    ror: https://ror.org/045c7t348
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - VIB Center for Brain & Disease Research, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5001053440
+  display_name: Gert Hulselmans
+  orcid: https://orcid.org/0000-0003-2205-1899
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153928
+    display_name: VIB-KU Leuven Center for Brain & Disease Research
+    ror: https://ror.org/045c7t348
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - VIB Center for Brain & Disease Research, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5023274297
+  display_name: Sara Aibar
+  orcid: https://orcid.org/0000-0001-6104-7134
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Human Genetics, KU Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5089381028
+  display_name: Ruth Seurinck
+  orcid: https://orcid.org/0000-0002-6636-7572
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139803
+    display_name: VIB-UGent Center for Inflammation Research
+    ror: https://ror.org/04q4ydz28
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Mining and Modelling for Biomedicine, VIB Center for Inflammation Research,
+    Ghent, Belgium
+- author_id: https://openalex.org/A5031014178
+  display_name: Wouter Saelens
+  orcid: https://orcid.org/0000-0002-7114-6248
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139803
+    display_name: VIB-UGent Center for Inflammation Research
+    ror: https://ror.org/04q4ydz28
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Mining and Modelling for Biomedicine, VIB Center for Inflammation Research,
+    Ghent, Belgium
+- author_id: https://openalex.org/A5008243505
+  display_name: Robrecht Cannoodt
+  orcid: https://orcid.org/0000-0003-3641-729X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139803
+    display_name: VIB-UGent Center for Inflammation Research
+    ror: https://ror.org/04q4ydz28
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Mining and Modelling for Biomedicine, VIB Center for Inflammation Research,
+    Ghent, Belgium
+- author_id: https://openalex.org/A5017007499
+  display_name: Quentin Rouchon
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139803
+    display_name: VIB-UGent Center for Inflammation Research
+    ror: https://ror.org/04q4ydz28
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Mining and Modelling for Biomedicine, VIB Center for Inflammation Research,
+    Ghent, Belgium
+- author_id: https://openalex.org/A5047205108
+  display_name: Toni Verbeiren
+  orcid: https://orcid.org/0000-0002-7007-6866
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I137982388
+    display_name: Janssen (Belgium)
+    ror: https://ror.org/04yzcpd71
+    country_code: BE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janssen Pharmaceutica, Beerse, Belgium
+- author_id: https://openalex.org/A5042384209
+  display_name: Dries De Maeyer
+  orcid: https://orcid.org/0000-0002-1314-3348
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I137982388
+    display_name: Janssen (Belgium)
+    ror: https://ror.org/04yzcpd71
+    country_code: BE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janssen Pharmaceutica, Beerse, Belgium
+- author_id: https://openalex.org/A5068993139
+  display_name: Joke Reumers
+  orcid: https://orcid.org/0000-0001-5434-6515
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I137982388
+    display_name: Janssen (Belgium)
+    ror: https://ror.org/04yzcpd71
+    country_code: BE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janssen Pharmaceutica, Beerse, Belgium
+- author_id: https://openalex.org/A5001585713
+  display_name: Yvan Saeys
+  orcid: https://orcid.org/0000-0002-0415-1506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139803
+    display_name: VIB-UGent Center for Inflammation Research
+    ror: https://ror.org/04q4ydz28
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Mining and Modelling for Biomedicine, VIB Center for Inflammation Research,
+    Ghent, Belgium
+- author_id: https://openalex.org/A5002137087
+  display_name: Stein Aerts
+  orcid: https://orcid.org/0000-0002-8006-0315
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Human Genetics, KU Leuven, Leuven, Belgium
+referenced_works:
+- https://openalex.org/W1560089133
+- https://openalex.org/W1823837540
+- https://openalex.org/W1977896930
+- https://openalex.org/W1979283544
+- https://openalex.org/W1999785461
+- https://openalex.org/W2035073808
+- https://openalex.org/W2052664817
+- https://openalex.org/W2060705109
+- https://openalex.org/W2069089843
+- https://openalex.org/W2076513103
+- https://openalex.org/W2078663836
+- https://openalex.org/W2103777723
+- https://openalex.org/W2103882919
+- https://openalex.org/W2105129830
+- https://openalex.org/W2106886924
+- https://openalex.org/W2107281049
+- https://openalex.org/W2107568278
+- https://openalex.org/W2109555487
+- https://openalex.org/W2113308846
+- https://openalex.org/W2130410032
+- https://openalex.org/W2131681506
+- https://openalex.org/W2132023322
+- https://openalex.org/W2133357122
+- https://openalex.org/W2150612336
+- https://openalex.org/W2159675211
+- https://openalex.org/W2166535431
+- https://openalex.org/W2166773843
+- https://openalex.org/W2169456326
+- https://openalex.org/W2187089797
+- https://openalex.org/W2193667971
+- https://openalex.org/W2259938310
+- https://openalex.org/W2286142055
+- https://openalex.org/W2309398802
+- https://openalex.org/W2323326409
+- https://openalex.org/W2406027241
+- https://openalex.org/W2605897695
+- https://openalex.org/W2613409207
+- https://openalex.org/W2616922646
+- https://openalex.org/W2753908609
+- https://openalex.org/W2770212144
+- https://openalex.org/W2771542157
+- https://openalex.org/W2783975438
+- https://openalex.org/W2785792383
+- https://openalex.org/W2800392236
+- https://openalex.org/W2801401400
+- https://openalex.org/W2803942859
+- https://openalex.org/W2805619986
+- https://openalex.org/W2807884764
+- https://openalex.org/W2811460634
+- https://openalex.org/W2865352686
+- https://openalex.org/W2890725238
+- https://openalex.org/W2898830231
+- https://openalex.org/W2901292166
+- https://openalex.org/W2901838752
+- https://openalex.org/W2902652978
+- https://openalex.org/W2913354234
+- https://openalex.org/W2914215997
+- https://openalex.org/W2944073176
+- https://openalex.org/W2949237386
+- https://openalex.org/W2952520709
+- https://openalex.org/W2953170162
+- https://openalex.org/W2971398276
+- https://openalex.org/W2997831639
+- https://openalex.org/W3099768174
+primary_topic: Single-cell and spatial transcriptomics
+open_access: false

@@ -1,0 +1,215 @@
+id: https://openalex.org/W3094502228
+doi: https://doi.org/10.48550/arxiv.2010.11929
+title: 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'
+publication_date: '2020-01-01'
+publication_year: 2020
+cited_by_count: 15640
+citation_percentile: 0.999855
+pagerank: 3.810541628792528e-06
+authorships:
+- author_id: https://openalex.org/A5090113830
+  display_name: Alexey Dosovitskiy
+  orcid: https://orcid.org/0000-0003-1851-0976
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google,,,,,
+- author_id: https://openalex.org/A5055629014
+  display_name: Lucas Beyer
+  orcid: https://orcid.org/0000-0002-0460-0607
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - '[Google Brain]'
+- author_id: https://openalex.org/A5000026575
+  display_name: Alexander Kolesnikov
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google,,,,,
+- author_id: https://openalex.org/A5038019602
+  display_name: Dirk Weissenborn
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I33256026
+    display_name: German Research Centre for Artificial Intelligence
+    ror: https://ror.org/01ayc5b57
+    country_code: DE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - German Research Center for Artificial Intelligence,
+- author_id: https://openalex.org/A5071668416
+  display_name: Xiaohua Zhai
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google,,,,,
+- author_id: https://openalex.org/A5083016682
+  display_name: Thomas Unterthiner
+  orcid: https://orcid.org/0000-0001-5361-3087
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google,,,,,
+- author_id: https://openalex.org/A5102906366
+  display_name: Mostafa Dehghani
+  orcid: https://orcid.org/0000-0002-9772-1095
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - '[Google Brain]'
+- author_id: https://openalex.org/A5088239541
+  display_name: Matthias Minderer
+  orcid: https://orcid.org/0000-0002-6428-8256
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google,,,,,
+- author_id: https://openalex.org/A5071956319
+  display_name: Georg Heigold
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5041958651
+  display_name: Sylvain Gelly
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - '[Google Brain]'
+- author_id: https://openalex.org/A5022416424
+  display_name: Jakob Uszkoreit
+  orcid: https://orcid.org/0000-0001-5066-7530
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google,,,,,
+- author_id: https://openalex.org/A5068878643
+  display_name: Neil Houlsby
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google,,,,,
+referenced_works:
+- https://openalex.org/W1977295328
+- https://openalex.org/W2086161653
+- https://openalex.org/W2108598243
+- https://openalex.org/W2147800946
+- https://openalex.org/W2163605009
+- https://openalex.org/W2194775991
+- https://openalex.org/W2284050935
+- https://openalex.org/W2533598788
+- https://openalex.org/W2626778328
+- https://openalex.org/W2799269579
+- https://openalex.org/W2931316642
+- https://openalex.org/W2937843571
+- https://openalex.org/W2940744433
+- https://openalex.org/W2948798935
+- https://openalex.org/W2949117887
+- https://openalex.org/W2950739196
+- https://openalex.org/W2962843773
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963631907
+- https://openalex.org/W2964080601
+- https://openalex.org/W2964121744
+- https://openalex.org/W2968124245
+- https://openalex.org/W2970389371
+- https://openalex.org/W2970608575
+- https://openalex.org/W2971315489
+- https://openalex.org/W2981413347
+- https://openalex.org/W2981689412
+- https://openalex.org/W2983446232
+- https://openalex.org/W2994759459
+- https://openalex.org/W2994760783
+- https://openalex.org/W2998108143
+- https://openalex.org/W3008526508
+- https://openalex.org/W3012324658
+- https://openalex.org/W3030163527
+- https://openalex.org/W3033210410
+- https://openalex.org/W3034445277
+- https://openalex.org/W3034885317
+- https://openalex.org/W3034978746
+- https://openalex.org/W3035058308
+- https://openalex.org/W3035160371
+- https://openalex.org/W3035282577
+- https://openalex.org/W3035422918
+- https://openalex.org/W3035524453
+- https://openalex.org/W3040304705
+- https://openalex.org/W3040573126
+- https://openalex.org/W3042608254
+- https://openalex.org/W3090449556
+- https://openalex.org/W3096609285
+- https://openalex.org/W3097065222
+- https://openalex.org/W3097217077
+- https://openalex.org/W3102696055
+- https://openalex.org/W3118608800
+primary_topic: Advanced Neural Network Applications
+open_access: true

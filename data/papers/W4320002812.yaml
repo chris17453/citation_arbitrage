@@ -1,0 +1,328 @@
+id: https://openalex.org/W4320002812
+doi: https://doi.org/10.1109/jproc.2023.3238524
+title: 'Object Detection in 20 Years: A Survey'
+publication_date: '2023-01-27'
+publication_year: 2023
+cited_by_count: 1907
+citation_percentile: 0.999957
+pagerank: 2.5358169572317337e-06
+authorships:
+- author_id: https://openalex.org/A5088611151
+  display_name: Zhengxia Zou
+  orcid: https://orcid.org/0000-0003-1774-552X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4391012619
+    display_name: Shanghai Artificial Intelligence Laboratory
+    ror: https://ror.org/03wkvpx79
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I82880672
+    display_name: Beihang University
+    ror: https://ror.org/00wk2mp56
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210100255
+    display_name: Beijing Academy of Artificial Intelligence
+    ror: https://ror.org/016a74861
+    country_code: CN
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Guidance, Navigation and Control, School of Astronautics, Beihang
+    University, Beijing, China
+  - Shanghai Artificial Intelligence Laboratory, Shanghai, China
+- author_id: https://openalex.org/A5101518544
+  display_name: Keyan Chen
+  orcid: https://orcid.org/0000-0003-0483-1306
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I82880672
+    display_name: Beihang University
+    ror: https://ror.org/00wk2mp56
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4391012619
+    display_name: Shanghai Artificial Intelligence Laboratory
+    ror: https://ror.org/03wkvpx79
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I4210100255
+    display_name: Beijing Academy of Artificial Intelligence
+    ror: https://ror.org/016a74861
+    country_code: CN
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Image Processing Center, School of Astronautics, Beijing Key Laboratory of Digital
+    MediaState Key Laboratory of Virtual Reality Technology and Systems, Beihang University,
+    Beijing, China
+  - Shanghai Artificial Intelligence Laboratory, Shanghai, China
+- author_id: https://openalex.org/A5058849690
+  display_name: Zhenwei Shi
+  orcid: https://orcid.org/0000-0002-4772-3172
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I82880672
+    display_name: Beihang University
+    ror: https://ror.org/00wk2mp56
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4391012619
+    display_name: Shanghai Artificial Intelligence Laboratory
+    ror: https://ror.org/03wkvpx79
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I4210100255
+    display_name: Beijing Academy of Artificial Intelligence
+    ror: https://ror.org/016a74861
+    country_code: CN
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Image Processing Center, School of Astronautics, Beijing Key Laboratory of Digital
+    MediaState Key Laboratory of Virtual Reality Technology and Systems, Beihang University,
+    Beijing, China
+  - Shanghai Artificial Intelligence Laboratory, Shanghai, China
+- author_id: https://openalex.org/A5043824291
+  display_name: Yuhong Guo
+  orcid: https://orcid.org/0000-0002-7621-342X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I67031392
+    display_name: Carleton University
+    ror: https://ror.org/02qtvee93
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computer Science, Carleton University, Ottawa, ON, Canada
+- author_id: https://openalex.org/A5010419481
+  display_name: Jieping Ye
+  orcid: https://orcid.org/0000-0001-8662-5818
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I45928872
+    display_name: Alibaba Group (China)
+    ror: https://ror.org/00k642b80
+    country_code: CN
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Alibaba Group, Hangzhou, China
+referenced_works:
+- https://openalex.org/W124653583
+- https://openalex.org/W1475617732
+- https://openalex.org/W148775107
+- https://openalex.org/W1507506748
+- https://openalex.org/W1536680647
+- https://openalex.org/W1586079445
+- https://openalex.org/W1601741105
+- https://openalex.org/W1608462934
+- https://openalex.org/W1789336918
+- https://openalex.org/W1849277567
+- https://openalex.org/W1861492603
+- https://openalex.org/W1902041153
+- https://openalex.org/W1905882502
+- https://openalex.org/W1931778309
+- https://openalex.org/W1932624639
+- https://openalex.org/W1932847118
+- https://openalex.org/W1934410531
+- https://openalex.org/W1948751323
+- https://openalex.org/W1958328135
+- https://openalex.org/W1989684337
+- https://openalex.org/W2005368619
+- https://openalex.org/W2010181071
+- https://openalex.org/W2031454541
+- https://openalex.org/W2031489346
+- https://openalex.org/W2036989445
+- https://openalex.org/W2037227137
+- https://openalex.org/W2048335335
+- https://openalex.org/W2056695679
+- https://openalex.org/W2057175746
+- https://openalex.org/W2066624635
+- https://openalex.org/W2068730032
+- https://openalex.org/W2088049833
+- https://openalex.org/W2099355420
+- https://openalex.org/W2102605133
+- https://openalex.org/W2104446196
+- https://openalex.org/W2104636679
+- https://openalex.org/W2107775979
+- https://openalex.org/W2108598243
+- https://openalex.org/W2110119381
+- https://openalex.org/W2115763357
+- https://openalex.org/W2117539524
+- https://openalex.org/W2119144962
+- https://openalex.org/W2120419212
+- https://openalex.org/W2124386111
+- https://openalex.org/W2126096326
+- https://openalex.org/W2133324800
+- https://openalex.org/W2141364309
+- https://openalex.org/W2149077040
+- https://openalex.org/W2151103935
+- https://openalex.org/W2159386181
+- https://openalex.org/W2161969291
+- https://openalex.org/W2164598857
+- https://openalex.org/W2168356304
+- https://openalex.org/W2174643736
+- https://openalex.org/W2183182206
+- https://openalex.org/W2183341477
+- https://openalex.org/W2194775991
+- https://openalex.org/W2200178803
+- https://openalex.org/W2216125271
+- https://openalex.org/W2272000905
+- https://openalex.org/W2288122362
+- https://openalex.org/W2292423453
+- https://openalex.org/W2295107390
+- https://openalex.org/W2296151615
+- https://openalex.org/W2307770531
+- https://openalex.org/W2336589871
+- https://openalex.org/W2461725797
+- https://openalex.org/W2490270993
+- https://openalex.org/W2494236530
+- https://openalex.org/W2495387757
+- https://openalex.org/W2497039038
+- https://openalex.org/W2504335775
+- https://openalex.org/W2512351403
+- https://openalex.org/W2514087538
+- https://openalex.org/W2519205375
+- https://openalex.org/W2520951797
+- https://openalex.org/W2530966705
+- https://openalex.org/W2531409750
+- https://openalex.org/W2532752915
+- https://openalex.org/W2548197316
+- https://openalex.org/W2557728737
+- https://openalex.org/W2559348937
+- https://openalex.org/W2560920409
+- https://openalex.org/W2564290333
+- https://openalex.org/W2565639579
+- https://openalex.org/W2570343428
+- https://openalex.org/W2591949924
+- https://openalex.org/W2594258618
+- https://openalex.org/W2606609115
+- https://openalex.org/W2607037079
+- https://openalex.org/W2612624696
+- https://openalex.org/W2618530766
+- https://openalex.org/W2625219738
+- https://openalex.org/W2738562458
+- https://openalex.org/W2768489488
+- https://openalex.org/W2769291631
+- https://openalex.org/W2777685882
+- https://openalex.org/W2789006728
+- https://openalex.org/W2799177530
+- https://openalex.org/W2799215407
+- https://openalex.org/W2802002811
+- https://openalex.org/W2813911573
+- https://openalex.org/W2883208628
+- https://openalex.org/W2884367402
+- https://openalex.org/W2884561390
+- https://openalex.org/W2886904239
+- https://openalex.org/W2888527098
+- https://openalex.org/W2889081631
+- https://openalex.org/W2896155169
+- https://openalex.org/W2919115771
+- https://openalex.org/W2936404177
+- https://openalex.org/W2937970997
+- https://openalex.org/W2948818729
+- https://openalex.org/W2955889502
+- https://openalex.org/W2962677013
+- https://openalex.org/W2962766617
+- https://openalex.org/W2962793481
+- https://openalex.org/W2962823940
+- https://openalex.org/W2962933856
+- https://openalex.org/W2962949934
+- https://openalex.org/W2962967409
+- https://openalex.org/W2962970995
+- https://openalex.org/W2962992847
+- https://openalex.org/W2963037989
+- https://openalex.org/W2963068995
+- https://openalex.org/W2963087201
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963093690
+- https://openalex.org/W2963125010
+- https://openalex.org/W2963150697
+- https://openalex.org/W2963163009
+- https://openalex.org/W2963296245
+- https://openalex.org/W2963340555
+- https://openalex.org/W2963381188
+- https://openalex.org/W2963402592
+- https://openalex.org/W2963470893
+- https://openalex.org/W2963516811
+- https://openalex.org/W2963542991
+- https://openalex.org/W2963603913
+- https://openalex.org/W2963604034
+- https://openalex.org/W2963624663
+- https://openalex.org/W2963684088
+- https://openalex.org/W2963769056
+- https://openalex.org/W2963770578
+- https://openalex.org/W2963786238
+- https://openalex.org/W2963790522
+- https://openalex.org/W2963795442
+- https://openalex.org/W2963849369
+- https://openalex.org/W2963897760
+- https://openalex.org/W2963927307
+- https://openalex.org/W2963993763
+- https://openalex.org/W2964073328
+- https://openalex.org/W2964080601
+- https://openalex.org/W2964115968
+- https://openalex.org/W2964121718
+- https://openalex.org/W2964241181
+- https://openalex.org/W2964297960
+- https://openalex.org/W2964444661
+- https://openalex.org/W2964979676
+- https://openalex.org/W2968634921
+- https://openalex.org/W2969583814
+- https://openalex.org/W2982770724
+- https://openalex.org/W2983943451
+- https://openalex.org/W2984816230
+- https://openalex.org/W2985228975
+- https://openalex.org/W2986357608
+- https://openalex.org/W2988452521
+- https://openalex.org/W2989604896
+- https://openalex.org/W2990763144
+- https://openalex.org/W2990792015
+- https://openalex.org/W2998349856
+- https://openalex.org/W3010381534
+- https://openalex.org/W3012573144
+- https://openalex.org/W3018757597
+- https://openalex.org/W3034268345
+- https://openalex.org/W3034528588
+- https://openalex.org/W3034779842
+- https://openalex.org/W3034959114
+- https://openalex.org/W3035658156
+- https://openalex.org/W3042011474
+- https://openalex.org/W3096609285
+- https://openalex.org/W3097096317
+- https://openalex.org/W3098722327
+- https://openalex.org/W3101998545
+- https://openalex.org/W3117854388
+- https://openalex.org/W3122239467
+- https://openalex.org/W3127743092
+- https://openalex.org/W3133873791
+- https://openalex.org/W3136957409
+- https://openalex.org/W3138516171
+- https://openalex.org/W3152635971
+- https://openalex.org/W3171162369
+- https://openalex.org/W3174551531
+- https://openalex.org/W3176920308
+- https://openalex.org/W3194790201
+- https://openalex.org/W3209766476
+- https://openalex.org/W4221151441
+- https://openalex.org/W4221166276
+- https://openalex.org/W4237530645
+- https://openalex.org/W4288083516
+- https://openalex.org/W4293584584
+- https://openalex.org/W4297775537
+- https://openalex.org/W4304092633
+- https://openalex.org/W4307771365
+- https://openalex.org/W4312559104
+- https://openalex.org/W4312563428
+- https://openalex.org/W4312709167
+- https://openalex.org/W4312823573
+- https://openalex.org/W4320002812
+- https://openalex.org/W4382568144
+- https://openalex.org/W4386076325
+- https://openalex.org/W4394670654
+- https://openalex.org/W639708223
+primary_topic: Advanced Neural Network Applications
+open_access: true

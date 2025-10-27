@@ -1,0 +1,594 @@
+id: https://openalex.org/W4206447491
+doi: https://doi.org/10.1093/nar/gkab1062
+title: 'HMDB 5.0: the Human Metabolome Database for 2022'
+publication_date: '2021-10-21'
+publication_year: 2021
+cited_by_count: 1771
+citation_percentile: 0.999982
+pagerank: 2.5880331332297275e-06
+authorships:
+- author_id: https://openalex.org/A5003573061
+  display_name: David S. Wishart
+  orcid: https://orcid.org/0000-0002-3207-2434
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+  - Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8,
+    Canada
+  - Department of Laboratory Medicine and Pathology, University of Alberta, Edmonton,
+    AB T6G 2B7, Canada
+  - Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta, Edmonton,
+    AB T6G 2H7, Canada
+- author_id: https://openalex.org/A5112537837
+  display_name: AnChi Guo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5017496139
+  display_name: Eponine Oler
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5100455723
+  display_name: Fei Wang
+  orcid: https://orcid.org/0000-0001-6712-3468
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8,
+    Canada
+- author_id: https://openalex.org/A5090820737
+  display_name: Afia Anjum
+  orcid: https://orcid.org/0000-0002-8349-7811
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8,
+    Canada
+- author_id: https://openalex.org/A5073740364
+  display_name: Harrison Peters
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5090728405
+  display_name: Raynard Dizon
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5021061936
+  display_name: Zinat Sayeeda
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8,
+    Canada
+- author_id: https://openalex.org/A5061514282
+  display_name: Siyang Tian
+  orcid: https://orcid.org/0000-0002-7298-2520
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5087194666
+  display_name: Brian L. Lee
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5020947661
+  display_name: Mark Berjanskii
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5021685550
+  display_name: Robert Mah
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5101674742
+  display_name: Mai Yamamoto
+  orcid: https://orcid.org/0000-0003-0344-2747
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5113594794
+  display_name: Juan Jovel
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5064223503
+  display_name: Claudia Torres-Calzada
+  orcid: https://orcid.org/0000-0001-9372-7230
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5088659328
+  display_name: Mickel Hiebert-Giesbrecht
+  orcid: https://orcid.org/0000-0003-2947-187X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5000221300
+  display_name: Vicki W Lui
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5043503339
+  display_name: Dorna Varshavi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5082246155
+  display_name: Dorsa Varshavi
+  orcid: https://orcid.org/0000-0002-1425-8171
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5034063793
+  display_name: Dana G. Allen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5057343389
+  display_name: David Arndt
+  orcid: https://orcid.org/0000-0003-0703-8469
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5003975481
+  display_name: Nitya Khetarpal
+  orcid: https://orcid.org/0000-0002-0881-4020
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5029393993
+  display_name: Aadhavya Sivakumaran
+  orcid: https://orcid.org/0000-0002-3975-1077
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5002455092
+  display_name: Karxena Harford
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5064742182
+  display_name: Selena Sanford
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5074139686
+  display_name: Kristen S. Yee
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5003198921
+  display_name: Xuan Cao
+  orcid: https://orcid.org/0000-0001-9713-4192
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5064227322
+  display_name: Zachary Budinski
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5061492446
+  display_name: Jaanus Liigand
+  orcid: https://orcid.org/0000-0002-8814-9111
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5100661412
+  display_name: Lun Zhang
+  orcid: https://orcid.org/0000-0002-0928-7568
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5101410626
+  display_name: Jiamin Zheng
+  orcid: https://orcid.org/0000-0002-6120-7035
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5103606498
+  display_name: Rupasri Mandal
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+- author_id: https://openalex.org/A5018038329
+  display_name: Naama Karu
+  orcid: https://orcid.org/0000-0001-8005-0726
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133171
+    display_name: Centre for Human Drug Research
+    ror: https://ror.org/044hshx49
+    country_code: NL
+    type: facility
+  - id: https://openalex.org/I121797337
+    display_name: Leiden University
+    ror: https://ror.org/027bh9e22
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Leiden Academic Centre for Drug Research LACDR/Analytical Biosciences, Leiden
+    University, Leiden, Netherlands
+- author_id: https://openalex.org/A5076172949
+  display_name: Maija Dambrova
+  orcid: https://orcid.org/0000-0002-1739-0928
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102248
+    display_name: "Latvijas Organisk\u0101s Sint\u0113zes Instit\u016Bts"
+    ror: https://ror.org/01a92vw29
+    country_code: LV
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Pharmaceutical Pharmacology, Latvian Institute of Organic Synthesis,
+    Riga, Latvia
+- author_id: https://openalex.org/A5085396890
+  display_name: "Helgi B. Schi\xF6th"
+  orcid: https://orcid.org/0000-0001-7112-0921
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123387679
+    display_name: Uppsala University
+    ror: https://ror.org/048a87296
+    country_code: SE
+    type: funder
+  - id: https://openalex.org/I17877952
+    display_name: Sechenov University
+    ror: https://ror.org/02yqqv993
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Translational Medicine and Biotechnology, Sechenov First Moscow
+    State Medical University, Moscow, Russia
+  - Section of Functional Pharmacology, Department of Neuroscience, Uppsala University,
+    Uppsala, Sweden
+- author_id: https://openalex.org/A5027200864
+  display_name: Russell Greiner
+  orcid: https://orcid.org/0000-0001-8327-934X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8,
+    Canada
+- author_id: https://openalex.org/A5085093503
+  display_name: Vasuk Gautam
+  orcid: https://orcid.org/0000-0002-9204-1963
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E9,
+    Canada
+referenced_works:
+- https://openalex.org/W1989277387
+- https://openalex.org/W2011703027
+- https://openalex.org/W2032355003
+- https://openalex.org/W2053385401
+- https://openalex.org/W2063028213
+- https://openalex.org/W2063783366
+- https://openalex.org/W2074054277
+- https://openalex.org/W2083942870
+- https://openalex.org/W2117300383
+- https://openalex.org/W2125069590
+- https://openalex.org/W2164960065
+- https://openalex.org/W2165681080
+- https://openalex.org/W2302501749
+- https://openalex.org/W2462785116
+- https://openalex.org/W2548357532
+- https://openalex.org/W2554354547
+- https://openalex.org/W2559588208
+- https://openalex.org/W2587129898
+- https://openalex.org/W2766055724
+- https://openalex.org/W2767683865
+- https://openalex.org/W2767891136
+- https://openalex.org/W2801540395
+- https://openalex.org/W2906067026
+- https://openalex.org/W2907470641
+- https://openalex.org/W2925495008
+- https://openalex.org/W2950595506
+- https://openalex.org/W2974361058
+- https://openalex.org/W2975219453
+- https://openalex.org/W2977870980
+- https://openalex.org/W2979585142
+- https://openalex.org/W2982596783
+- https://openalex.org/W3000355611
+- https://openalex.org/W3007415664
+- https://openalex.org/W3014133149
+- https://openalex.org/W3019465949
+- https://openalex.org/W3037644708
+- https://openalex.org/W3082061703
+- https://openalex.org/W3086762271
+- https://openalex.org/W3110553705
+- https://openalex.org/W3120660515
+- https://openalex.org/W3139088315
+- https://openalex.org/W3194841450
+- https://openalex.org/W4206224891
+- https://openalex.org/W4229743141
+- https://openalex.org/W4231254854
+- https://openalex.org/W4282963565
+primary_topic: Metabolomics and Mass Spectrometry Studies
+open_access: true

@@ -1,0 +1,439 @@
+id: https://openalex.org/W3109735703
+doi: https://doi.org/10.1093/nar/gkaa1105
+title: 'RefSeq: expanding the Prokaryotic Genome Annotation Pipeline reach with protein
+  family model curation'
+publication_date: '2020-11-03'
+publication_year: 2020
+cited_by_count: 894
+citation_percentile: 0.727881
+pagerank: 2.793208942423842e-06
+authorships:
+- author_id: https://openalex.org/A5100446278
+  display_name: Wenjun Li
+  orcid: https://orcid.org/0000-0003-3460-6695
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5113683944
+  display_name: "Kathleen O\u2019Neill"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5027242690
+  display_name: Daniel H. Haft
+  orcid: https://orcid.org/0000-0001-8101-4938
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5075295949
+  display_name: Michael DiCuccio
+  orcid: https://orcid.org/0000-0003-0585-2862
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5000089880
+  display_name: Vyacheslav Chetvernin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5035982392
+  display_name: Azat Badretdin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5022867589
+  display_name: George Coulouris
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5024642441
+  display_name: Farideh Chitsaz
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5076926646
+  display_name: Myra K. Derbyshire
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5110218709
+  display_name: A. Scott Durkin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5049089682
+  display_name: Noreen R. Gonzales
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5091592612
+  display_name: Marc Gwadz
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5061900671
+  display_name: Christopher J. Lanczycki
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5103492399
+  display_name: James S. Song
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5009507390
+  display_name: Narmada Thanki
+  orcid: https://orcid.org/0000-0003-1181-2509
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5101717546
+  display_name: Jiyao Wang
+  orcid: https://orcid.org/0000-0002-0743-0121
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5041025050
+  display_name: Roxanne A. Yamashita
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5044549572
+  display_name: Mingzhang Yang
+  orcid: https://orcid.org/0000-0002-7038-5677
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5100901090
+  display_name: Chanjuan Zheng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5026383671
+  display_name: "Aron Marchler\u2010Bauer"
+  orcid: https://orcid.org/0000-0003-1516-0712
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+- author_id: https://openalex.org/A5039928314
+  display_name: "Fran\xE7oise Thibaud\u2010Nissen"
+  orcid: https://orcid.org/0000-0003-4957-7807
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, 45 Center Drive, Bethesda, MD 20892-6511, USA
+referenced_works:
+- https://openalex.org/W1846851238
+- https://openalex.org/W1976325156
+- https://openalex.org/W2017608260
+- https://openalex.org/W2108230379
+- https://openalex.org/W2114347076
+- https://openalex.org/W2133312664
+- https://openalex.org/W2138122982
+- https://openalex.org/W2142428670
+- https://openalex.org/W2162800127
+- https://openalex.org/W2180334400
+- https://openalex.org/W2225557190
+- https://openalex.org/W2470052926
+- https://openalex.org/W2766648240
+- https://openalex.org/W2804476733
+- https://openalex.org/W2804906140
+- https://openalex.org/W2884980520
+- https://openalex.org/W2897603717
+- https://openalex.org/W2898402099
+- https://openalex.org/W2898548494
+- https://openalex.org/W2900102202
+- https://openalex.org/W2941342985
+- https://openalex.org/W2953175777
+- https://openalex.org/W2991012415
+- https://openalex.org/W2996737396
+- https://openalex.org/W3024553150
+- https://openalex.org/W3043424179
+- https://openalex.org/W4211166049
+primary_topic: Genomics and Phylogenetic Studies
+open_access: true

@@ -1,0 +1,760 @@
+id: https://openalex.org/W3142226569
+doi: https://doi.org/10.1126/science.abf4588
+title: 'Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain
+  recordings'
+publication_date: '2021-04-15'
+publication_year: 2021
+cited_by_count: 893
+citation_percentile: 0.999933
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5006437096
+  display_name: Nicholas A. Steinmetz
+  orcid: https://orcid.org/0000-0001-7029-2908
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biological Structure, University of Washington, Seattle, WA, USA.
+  - UCL Institute of Ophthalmology, University College London, London, UK.
+- author_id: https://openalex.org/A5020093760
+  display_name: "\xC7a\u011Fatay Ayd\u0131n"
+  orcid: https://orcid.org/0000-0002-7216-1079
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142472
+    display_name: Neuroelectronics Research Flanders
+    ror: https://ror.org/04sc67422
+    country_code: BE
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Neuroelectronics Research Flanders, Leuven, Belgium.
+- author_id: https://openalex.org/A5102912055
+  display_name: Anna Lebedeva
+  orcid: https://orcid.org/0000-0003-2454-411X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800011936
+    display_name: Sainsbury Laboratory
+    ror: https://ror.org/02tdtzx53
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Sainsbury Wellcome Centre, University College London, London, UK.
+- author_id: https://openalex.org/A5020780001
+  display_name: Michael Okun
+  orcid: https://orcid.org/0000-0002-7795-5513
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I153648349
+    display_name: University of Leicester
+    ror: https://ror.org/04h699437
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210151618
+    display_name: National Hospital for Neurology and Neurosurgery
+    ror: https://ror.org/048b34d51
+    country_code: GB
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Centre for Systems Neuroscience and Department of Neuroscience, Psychology and
+    Behaviour, University of Leicester, Leicester, UK.
+  - UCL Queen Square Institute of Neurology, University College London, London, UK.
+- author_id: https://openalex.org/A5084844011
+  display_name: Marius Pachitariu
+  orcid: https://orcid.org/0000-0001-7106-814X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5008593461
+  display_name: "Marius Bau\u017Ea"
+  orcid: https://orcid.org/0000-0003-3514-8382
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800011936
+    display_name: Sainsbury Laboratory
+    ror: https://ror.org/02tdtzx53
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sainsbury Wellcome Centre, University College London, London, UK.
+- author_id: https://openalex.org/A5035976896
+  display_name: Maxime Beau
+  orcid: https://orcid.org/0000-0002-8907-6612
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801075885
+    display_name: Wolfson Foundation
+    ror: https://ror.org/0333xzh65
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wolfson Institute for Biomedical Research, University College London, London,
+    UK.
+- author_id: https://openalex.org/A5038428420
+  display_name: Jai Bhagat
+  orcid: https://orcid.org/0000-0003-2571-3712
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210151618
+    display_name: National Hospital for Neurology and Neurosurgery
+    ror: https://ror.org/048b34d51
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UCL Queen Square Institute of Neurology, University College London, London, UK.
+- author_id: https://openalex.org/A5001886402
+  display_name: "Claudia B\xF6hm"
+  orcid: https://orcid.org/0000-0002-9802-1162
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5023884062
+  display_name: Martijn Broux
+  orcid: https://orcid.org/0000-0001-6543-3403
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142472
+    display_name: Neuroelectronics Research Flanders
+    ror: https://ror.org/04sc67422
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Neuroelectronics Research Flanders, Leuven, Belgium.
+- author_id: https://openalex.org/A5054991039
+  display_name: Susu Chen
+  orcid: https://orcid.org/0000-0002-5065-1157
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5087201085
+  display_name: Jennifer Colonell
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5065773803
+  display_name: Richard J. Gardner
+  orcid: https://orcid.org/0000-0002-3242-8840
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204778367
+    display_name: Norwegian University of Science and Technology
+    ror: https://ror.org/05xg72x27
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kavli Institute for Systems Neuroscience, Norwegian University of Science and
+    Technology, Trondheim, Norway.
+- author_id: https://openalex.org/A5009557877
+  display_name: Bill Karsh
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5055249346
+  display_name: Fabian Kloosterman
+  orcid: https://orcid.org/0000-0001-6680-9660
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142472
+    display_name: Neuroelectronics Research Flanders
+    ror: https://ror.org/04sc67422
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I4210114974
+    display_name: IMEC
+    ror: https://ror.org/02kcbn207
+    country_code: BE
+    type: nonprofit
+  - id: https://openalex.org/I2802017950
+    display_name: Vlaams Instituut voor Biotechnologie
+    ror: https://ror.org/03xrhmk39
+    country_code: BE
+    type: funder
+  - id: https://openalex.org/I4210153928
+    display_name: VIB-KU Leuven Center for Brain & Disease Research
+    ror: https://ror.org/045c7t348
+    country_code: BE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Brain and Cognition, KU Leuven, Leuven, Belgium.
+  - IMEC, Leuven, Belgium.
+  - Neuroelectronics Research Flanders, Leuven, Belgium.
+  - Vlaams Instituut voor Biotechnologie (VIB), Leuven, Belgium.
+- author_id: https://openalex.org/A5032550493
+  display_name: Dimitar Kostadinov
+  orcid: https://orcid.org/0000-0001-7548-2209
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801075885
+    display_name: Wolfson Foundation
+    ror: https://ror.org/0333xzh65
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wolfson Institute for Biomedical Research, University College London, London,
+    UK.
+- author_id: https://openalex.org/A5010416674
+  display_name: "Carolina Mora L\xF3pez"
+  orcid: https://orcid.org/0000-0003-4200-0001
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114974
+    display_name: IMEC
+    ror: https://ror.org/02kcbn207
+    country_code: BE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IMEC, Leuven, Belgium.
+- author_id: https://openalex.org/A5046435490
+  display_name: "John O\u2019Callaghan"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114974
+    display_name: IMEC
+    ror: https://ror.org/02kcbn207
+    country_code: BE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IMEC, Leuven, Belgium.
+- author_id: https://openalex.org/A5008698220
+  display_name: Junchol Park
+  orcid: https://orcid.org/0000-0002-4739-0793
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5002021083
+  display_name: Jan Putzeys
+  orcid: https://orcid.org/0000-0001-8834-5852
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114974
+    display_name: IMEC
+    ror: https://ror.org/02kcbn207
+    country_code: BE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IMEC, Leuven, Belgium.
+- author_id: https://openalex.org/A5048804210
+  display_name: Britton Sauerbrei
+  orcid: https://orcid.org/0000-0003-3386-3243
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5079404139
+  display_name: Rik van Daal
+  orcid: https://orcid.org/0000-0001-5230-6165
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142472
+    display_name: Neuroelectronics Research Flanders
+    ror: https://ror.org/04sc67422
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I4210135951
+    display_name: ATLAS Neuroengineering (Belgium)
+    ror: https://ror.org/0458xbt64
+    country_code: BE
+    type: company
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ATLAS Neuroengineering, Leuven, Belgium.
+  - Micro- and Nanosystems, KU Leuven, Leuven, Belgium.
+  - Neuroelectronics Research Flanders, Leuven, Belgium.
+- author_id: https://openalex.org/A5089690291
+  display_name: Abraham Z. Vollan
+  orcid: https://orcid.org/0000-0003-3376-6689
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204778367
+    display_name: Norwegian University of Science and Technology
+    ror: https://ror.org/05xg72x27
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kavli Institute for Systems Neuroscience, Norwegian University of Science and
+    Technology, Trondheim, Norway.
+- author_id: https://openalex.org/A5100340285
+  display_name: Shiwei Wang
+  orcid: https://orcid.org/0000-0002-5450-2108
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114974
+    display_name: IMEC
+    ror: https://ror.org/02kcbn207
+    country_code: BE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IMEC, Leuven, Belgium.
+- author_id: https://openalex.org/A5024084003
+  display_name: Marleen Welkenhuysen
+  orcid: https://orcid.org/0000-0001-6729-9391
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114974
+    display_name: IMEC
+    ror: https://ror.org/02kcbn207
+    country_code: BE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IMEC, Leuven, Belgium.
+- author_id: https://openalex.org/A5030348474
+  display_name: Zhiwen Ye
+  orcid: https://orcid.org/0000-0003-4311-1037
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Structure, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5018585616
+  display_name: Joshua T. Dudman
+  orcid: https://orcid.org/0000-0002-4436-1057
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5091005332
+  display_name: B. Dutta
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114974
+    display_name: IMEC
+    ror: https://ror.org/02kcbn207
+    country_code: BE
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IMEC, Leuven, Belgium.
+- author_id: https://openalex.org/A5045731954
+  display_name: Adam W. Hantman
+  orcid: https://orcid.org/0000-0002-6563-1423
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5064176073
+  display_name: Kenneth D. Harris
+  orcid: https://orcid.org/0000-0002-5930-6456
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210151618
+    display_name: National Hospital for Neurology and Neurosurgery
+    ror: https://ror.org/048b34d51
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UCL Queen Square Institute of Neurology, University College London, London, UK.
+- author_id: https://openalex.org/A5002258073
+  display_name: Albert K. Lee
+  orcid: https://orcid.org/0000-0003-4332-8332
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5086289649
+  display_name: Edvard I Moser
+  orcid: https://orcid.org/0000-0003-0226-5566
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204778367
+    display_name: Norwegian University of Science and Technology
+    ror: https://ror.org/05xg72x27
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kavli Institute for Systems Neuroscience, Norwegian University of Science and
+    Technology, Trondheim, Norway.
+- author_id: https://openalex.org/A5053583655
+  display_name: "John O\u2019Keefe"
+  orcid: https://orcid.org/0000-0001-5697-4881
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800011936
+    display_name: Sainsbury Laboratory
+    ror: https://ror.org/02tdtzx53
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sainsbury Wellcome Centre, University College London, London, UK.
+- author_id: https://openalex.org/A5057372129
+  display_name: Alfonso Renart
+  orcid: https://orcid.org/0000-0001-7916-9930
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I113358080
+    display_name: Champalimaud Foundation
+    ror: https://ror.org/03g001n57
+    country_code: PT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Champalimaud Centre for the Unknown, Lisbon, Portugal.
+- author_id: https://openalex.org/A5088944052
+  display_name: Karel Svoboda
+  orcid: https://orcid.org/0000-0002-6670-7362
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+- author_id: https://openalex.org/A5088723671
+  display_name: "Michael H\xE4usser"
+  orcid: https://orcid.org/0000-0002-2673-8957
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801075885
+    display_name: Wolfson Foundation
+    ror: https://ror.org/0333xzh65
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wolfson Institute for Biomedical Research, University College London, London,
+    UK.
+- author_id: https://openalex.org/A5014995737
+  display_name: Sebastian Haesler
+  orcid: https://orcid.org/0000-0003-4924-7381
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142472
+    display_name: Neuroelectronics Research Flanders
+    ror: https://ror.org/04sc67422
+    country_code: BE
+    type: facility
+  - id: https://openalex.org/I2802017950
+    display_name: Vlaams Instituut voor Biotechnologie
+    ror: https://ror.org/03xrhmk39
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Neuroelectronics Research Flanders, Leuven, Belgium.
+  - Vlaams Instituut voor Biotechnologie (VIB), Leuven, Belgium.
+- author_id: https://openalex.org/A5026654708
+  display_name: Matteo Carandini
+  orcid: https://orcid.org/0000-0003-4880-7682
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - UCL Institute of Ophthalmology, University College London, London, UK.
+- author_id: https://openalex.org/A5101535208
+  display_name: T.D. Harris
+  orcid: https://orcid.org/0000-0002-6289-4439
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I195573530
+    display_name: Janelia Research Campus
+    ror: https://ror.org/013sk6x84
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+referenced_works:
+- https://openalex.org/W1933363359
+- https://openalex.org/W1974867806
+- https://openalex.org/W1982985054
+- https://openalex.org/W1983634702
+- https://openalex.org/W1984390450
+- https://openalex.org/W2002165944
+- https://openalex.org/W2012425079
+- https://openalex.org/W2017020768
+- https://openalex.org/W2020769260
+- https://openalex.org/W2026928404
+- https://openalex.org/W2028429148
+- https://openalex.org/W2029234416
+- https://openalex.org/W2071004250
+- https://openalex.org/W2104137141
+- https://openalex.org/W2106480861
+- https://openalex.org/W2106728226
+- https://openalex.org/W2112002552
+- https://openalex.org/W2117940227
+- https://openalex.org/W2122002641
+- https://openalex.org/W2139481898
+- https://openalex.org/W2144976153
+- https://openalex.org/W2158453800
+- https://openalex.org/W2186584449
+- https://openalex.org/W2259663018
+- https://openalex.org/W2467288641
+- https://openalex.org/W2469581795
+- https://openalex.org/W2536676348
+- https://openalex.org/W2561661981
+- https://openalex.org/W2571457106
+- https://openalex.org/W2588766868
+- https://openalex.org/W2766440771
+- https://openalex.org/W2767493192
+- https://openalex.org/W2767808758
+- https://openalex.org/W2789919621
+- https://openalex.org/W2792582506
+- https://openalex.org/W2793357436
+- https://openalex.org/W2794689995
+- https://openalex.org/W2888220382
+- https://openalex.org/W2890351024
+- https://openalex.org/W2920339115
+- https://openalex.org/W2929712475
+- https://openalex.org/W2937274403
+- https://openalex.org/W2942648114
+- https://openalex.org/W2949218890
+- https://openalex.org/W2950141843
+- https://openalex.org/W2951255200
+- https://openalex.org/W2951572643
+- https://openalex.org/W2952257365
+- https://openalex.org/W2953085940
+- https://openalex.org/W2954124637
+- https://openalex.org/W2955735903
+- https://openalex.org/W2972042010
+- https://openalex.org/W2973877937
+- https://openalex.org/W2974893371
+- https://openalex.org/W2975591598
+- https://openalex.org/W2976024218
+- https://openalex.org/W2980609230
+- https://openalex.org/W2989785130
+- https://openalex.org/W2990109393
+- https://openalex.org/W2994906659
+- https://openalex.org/W2997409530
+- https://openalex.org/W3006797969
+- https://openalex.org/W3011035326
+- https://openalex.org/W3013508168
+- https://openalex.org/W3028468154
+- https://openalex.org/W3035009308
+- https://openalex.org/W3048126661
+- https://openalex.org/W3088135563
+- https://openalex.org/W3088505575
+- https://openalex.org/W3090427581
+- https://openalex.org/W3093933681
+- https://openalex.org/W3111393591
+- https://openalex.org/W3113043584
+- https://openalex.org/W3117420542
+- https://openalex.org/W3119120480
+- https://openalex.org/W3124792448
+- https://openalex.org/W3167407162
+- https://openalex.org/W3195929527
+- https://openalex.org/W3196303439
+- https://openalex.org/W3210323664
+primary_topic: Neural dynamics and brain function
+open_access: true

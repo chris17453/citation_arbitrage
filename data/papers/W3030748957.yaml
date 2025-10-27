@@ -1,0 +1,833 @@
+id: https://openalex.org/W3030748957
+doi: https://doi.org/10.1016/j.cell.2020.05.042
+title: SARS-CoV-2 Reverse Genetics Reveals a Variable Infection Gradient in the Respiratory
+  Tract
+publication_date: '2020-05-26'
+publication_year: 2020
+cited_by_count: 1567
+citation_percentile: 0.999974
+pagerank: 3.142601437414847e-06
+authorships:
+- author_id: https://openalex.org/A5053359418
+  display_name: Yixuan J. Hou
+  orcid: https://orcid.org/0000-0002-8323-7243
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5000784991
+  display_name: Kenichi Okuda
+  orcid: https://orcid.org/0000-0001-9341-2730
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5062334007
+  display_name: Caitlin E. Edwards
+  orcid: https://orcid.org/0000-0003-4228-2192
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5014451298
+  display_name: David R. Martinez
+  orcid: https://orcid.org/0000-0002-2940-8961
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5059389959
+  display_name: Takanori Asakura
+  orcid: https://orcid.org/0000-0003-3122-6937
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5068803211
+  display_name: Kenneth H. Dinnon
+  orcid: https://orcid.org/0000-0002-8942-1551
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Immunology, University of North Carolina at Chapel
+    Hill, Chapel Hill, NC, USA
+- author_id: https://openalex.org/A5054224267
+  display_name: Takafumi Kato
+  orcid: https://orcid.org/0000-0003-2248-3376
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5047132664
+  display_name: Rhianna E. Lee
+  orcid: https://orcid.org/0000-0003-2039-1304
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5052355885
+  display_name: Boyd L. Yount
+  orcid: https://orcid.org/0000-0002-6099-8429
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5023559219
+  display_name: Teresa Mascenik
+  orcid: https://orcid.org/0000-0002-9694-756X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5100389288
+  display_name: Gang Chen
+  orcid: https://orcid.org/0000-0002-8320-6594
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5113147167
+  display_name: Kenneth N. Olivier
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106489
+    display_name: National Heart Lung and Blood Institute
+    ror: https://ror.org/012pb6c26
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Chronic Airway Infection, Pulmonary Branch, National Heart, Lung,
+    and Blood Institute, National Institutes of Health, Bethesda, MD, USA
+- author_id: https://openalex.org/A5017261720
+  display_name: Andrew J. Ghio
+  orcid: https://orcid.org/0000-0003-0502-6448
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1302368450
+    display_name: Environmental Protection Agency
+    ror: https://ror.org/03tns0030
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Health and Environmental Effects Research Laboratory, Environmental Protection
+    Agency, Chapel Hill, NC, USA
+- author_id: https://openalex.org/A5012365482
+  display_name: Longping V. Tse
+  orcid: https://orcid.org/0000-0001-7582-8396
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5052239466
+  display_name: Sarah R. Leist
+  orcid: https://orcid.org/0000-0002-4989-5381
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5041059730
+  display_name: Lisa E. Gralinski
+  orcid: https://orcid.org/0000-0003-1374-8002
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5113264782
+  display_name: "Alexandra Sch\xE4fer"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5043349619
+  display_name: Hong Dang
+  orcid: https://orcid.org/0000-0002-7305-4208
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5055523744
+  display_name: Rodney C. Gilmore
+  orcid: https://orcid.org/0000-0002-3821-8422
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5002659461
+  display_name: Satoko Nakano
+  orcid: https://orcid.org/0000-0003-1708-3642
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5101917535
+  display_name: Ling Sun
+  orcid: https://orcid.org/0000-0001-9040-4188
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5078499329
+  display_name: M. Leslie Fulcher
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5080853824
+  display_name: Alessandra Livraghi-Butrico
+  orcid: https://orcid.org/0000-0001-8751-3631
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5067541140
+  display_name: Nathan I. Nicely
+  orcid: https://orcid.org/0000-0002-0025-2377
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210099679
+    display_name: Protein Express (United States)
+    ror: https://ror.org/013vgsx18
+    country_code: US
+    type: company
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Protein Expression and Purification Core, University of North Carolina at Chapel
+    Hill, Chapel Hill, NC, USA
+- author_id: https://openalex.org/A5066809761
+  display_name: Mark J. Cameron
+  orcid: https://orcid.org/0000-0003-4768-4094
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58956616
+    display_name: Case Western Reserve University
+    ror: https://ror.org/051fd9666
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Population and Quantitative Health Science, Case Western Reserve
+    University, Cleveland, OH, USA
+- author_id: https://openalex.org/A5043554351
+  display_name: Cheryl Cameron
+  orcid: https://orcid.org/0000-0002-0574-3781
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58956616
+    display_name: Case Western Reserve University
+    ror: https://ror.org/051fd9666
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Nutrition, Case Western Reserve University, Cleveland, OH, USA
+- author_id: https://openalex.org/A5059808129
+  display_name: David J. Kelvin
+  orcid: https://orcid.org/0000-0002-3702-954X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120522
+    display_name: Shantou University Medical College
+    ror: https://ror.org/02gxych78
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I129902397
+    display_name: Dalhousie University
+    ror: https://ror.org/01e6qks80
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I32574673
+    display_name: Shantou University
+    ror: https://ror.org/01a099706
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Immunology, Canadian Center for Vaccinology, Dalhousie
+    University, Halifax, NS, Canada
+  - Laboratory of Immunology, Shantou University Medical College, Shantou, Guangdong,
+    China
+- author_id: https://openalex.org/A5110995867
+  display_name: Aravinda de Silva
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Immunology, University of North Carolina at Chapel
+    Hill, Chapel Hill, NC, USA
+- author_id: https://openalex.org/A5008716404
+  display_name: David M. Margolis
+  orcid: https://orcid.org/0000-0001-5714-0002
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+  - Department of Microbiology and Immunology, University of North Carolina at Chapel
+    Hill, Chapel Hill, NC, USA
+  - HIV Cure Center, University of North Carolina at Chapel Hill, Chapel Hill, NC,
+    USA
+- author_id: https://openalex.org/A5045705438
+  display_name: Alena J. Markmann
+  orcid: https://orcid.org/0000-0003-3656-9322
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5072028054
+  display_name: Luther A. Bartelt
+  orcid: https://orcid.org/0000-0002-7596-4272
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5109279171
+  display_name: Ross E. Zumwalt
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169521973
+    display_name: University of New Mexico
+    ror: https://ror.org/05fs6jp91
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, University of New Mexico, Albuquerque, NM, USA
+- author_id: https://openalex.org/A5100767595
+  display_name: "Fernando J. Mart\xEDnez"
+  orcid: https://orcid.org/0000-0002-2412-3182
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Pulmonary and Critical Care Medicine, Joan & Sanford I. Weill Medical
+    College of Cornell University, New York, NY, USA
+- author_id: https://openalex.org/A5073289319
+  display_name: Steven Salvatore
+  orcid: https://orcid.org/0000-0001-7237-2696
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Joan & Sanford I. Weill Medical College of Cornell University,
+    New York, NY, USA
+- author_id: https://openalex.org/A5002110784
+  display_name: Alain Borczuk
+  orcid: https://orcid.org/0000-0001-6807-8064
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Joan & Sanford I. Weill Medical College of Cornell University,
+    New York, NY, USA
+- author_id: https://openalex.org/A5090976824
+  display_name: Purushothama Rao Tata
+  orcid: https://orcid.org/0000-0003-4837-0337
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126298
+    display_name: Duke Medical Center
+    ror: https://ror.org/03njmea73
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Regeneration Next Initiative, Duke University Medical
+    Center, Durham, NC, USA
+- author_id: https://openalex.org/A5008699685
+  display_name: Vishwaraj Sontake
+  orcid: https://orcid.org/0000-0002-8532-7680
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126298
+    display_name: Duke Medical Center
+    ror: https://ror.org/03njmea73
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Regeneration Next Initiative, Duke University Medical
+    Center, Durham, NC, USA
+- author_id: https://openalex.org/A5042997375
+  display_name: Adam J. Kimple
+  orcid: https://orcid.org/0000-0003-1670-8401
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Otolaryngology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5044617284
+  display_name: Ilona Jaspers
+  orcid: https://orcid.org/0000-0001-8728-0305
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pediatrics, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+- author_id: https://openalex.org/A5055201103
+  display_name: "Wanda K. O\u2019Neal"
+  orcid: https://orcid.org/0000-0003-2412-5943
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5049641668
+  display_name: Scott H. Randell
+  orcid: https://orcid.org/0000-0001-5351-2841
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5001166056
+  display_name: Richard C. Boucher
+  orcid: https://orcid.org/0000-0002-5745-3989
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210101049
+    display_name: Lung Institute
+    ror: https://ror.org/016978714
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Marsico Lung Institute, University of North Carolina at Chapel Hill, Chapel Hill,
+    NC, USA
+- author_id: https://openalex.org/A5017501496
+  display_name: Ralph S. Baric
+  orcid: https://orcid.org/0000-0001-6827-8701
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel
+    Hill, NC, USA
+  - Department of Microbiology and Immunology, University of North Carolina at Chapel
+    Hill, Chapel Hill, NC, USA
+referenced_works:
+- https://openalex.org/W1151637089
+- https://openalex.org/W115423185
+- https://openalex.org/W1951724000
+- https://openalex.org/W1964982019
+- https://openalex.org/W1970860163
+- https://openalex.org/W1972975385
+- https://openalex.org/W1984494056
+- https://openalex.org/W1986326072
+- https://openalex.org/W1994955540
+- https://openalex.org/W2001752182
+- https://openalex.org/W2007393426
+- https://openalex.org/W2009631807
+- https://openalex.org/W2016469998
+- https://openalex.org/W2022972451
+- https://openalex.org/W2043191762
+- https://openalex.org/W2046119237
+- https://openalex.org/W2047279125
+- https://openalex.org/W2056636829
+- https://openalex.org/W2062392874
+- https://openalex.org/W2071338523
+- https://openalex.org/W2085887280
+- https://openalex.org/W2091671824
+- https://openalex.org/W2101506295
+- https://openalex.org/W2103208261
+- https://openalex.org/W2116177415
+- https://openalex.org/W2137888434
+- https://openalex.org/W2140790746
+- https://openalex.org/W2145720531
+- https://openalex.org/W2146091325
+- https://openalex.org/W2146374988
+- https://openalex.org/W2154026160
+- https://openalex.org/W2154577666
+- https://openalex.org/W2154638029
+- https://openalex.org/W2154988647
+- https://openalex.org/W2167279371
+- https://openalex.org/W2195009776
+- https://openalex.org/W2228737399
+- https://openalex.org/W2256708510
+- https://openalex.org/W2341923562
+- https://openalex.org/W2419504264
+- https://openalex.org/W2470285990
+- https://openalex.org/W2518937126
+- https://openalex.org/W2574405809
+- https://openalex.org/W2774486220
+- https://openalex.org/W2792867777
+- https://openalex.org/W2800934608
+- https://openalex.org/W2830624938
+- https://openalex.org/W2884834217
+- https://openalex.org/W2888230220
+- https://openalex.org/W2891453115
+- https://openalex.org/W2896532574
+- https://openalex.org/W2932017142
+- https://openalex.org/W2945205984
+- https://openalex.org/W2954538018
+- https://openalex.org/W2963040997
+- https://openalex.org/W2971662549
+- https://openalex.org/W2971866739
+- https://openalex.org/W2972788513
+- https://openalex.org/W2975856930
+- https://openalex.org/W2981959799
+- https://openalex.org/W2994156659
+- https://openalex.org/W2995666881
+- https://openalex.org/W2996523648
+- https://openalex.org/W3001118548
+- https://openalex.org/W3001897055
+- https://openalex.org/W3004896487
+- https://openalex.org/W3005033296
+- https://openalex.org/W3005409321
+- https://openalex.org/W3006474680
+- https://openalex.org/W3006703916
+- https://openalex.org/W3006961006
+- https://openalex.org/W3007643904
+- https://openalex.org/W3007739060
+- https://openalex.org/W3007869605
+- https://openalex.org/W3008028633
+- https://openalex.org/W3008207212
+- https://openalex.org/W3008452791
+- https://openalex.org/W3009335299
+- https://openalex.org/W3009906937
+- https://openalex.org/W3009912996
+- https://openalex.org/W3010441732
+- https://openalex.org/W3010851934
+- https://openalex.org/W3011127849
+- https://openalex.org/W3011483298
+- https://openalex.org/W3012994303
+- https://openalex.org/W3013125498
+- https://openalex.org/W3013415926
+- https://openalex.org/W3013800395
+- https://openalex.org/W3013893137
+- https://openalex.org/W3014448531
+- https://openalex.org/W3014493418
+- https://openalex.org/W3015370197
+- https://openalex.org/W3015660580
+- https://openalex.org/W3015686348
+- https://openalex.org/W3015751519
+- https://openalex.org/W3016112702
+- https://openalex.org/W3016123694
+- https://openalex.org/W3016207602
+- https://openalex.org/W3016404513
+- https://openalex.org/W3016641765
+- https://openalex.org/W3017129059
+- https://openalex.org/W3018334611
+- https://openalex.org/W3020482683
+- https://openalex.org/W3021391231
+- https://openalex.org/W3030948568
+- https://openalex.org/W3033997257
+- https://openalex.org/W3043649968
+- https://openalex.org/W3044382958
+- https://openalex.org/W3045953207
+- https://openalex.org/W3091902939
+- https://openalex.org/W3095961138
+- https://openalex.org/W3106262010
+- https://openalex.org/W3125942575
+- https://openalex.org/W3166112924
+- https://openalex.org/W4235932971
+- https://openalex.org/W4298221373
+- https://openalex.org/W4299687266
+primary_topic: Respiratory viral infections research
+open_access: true

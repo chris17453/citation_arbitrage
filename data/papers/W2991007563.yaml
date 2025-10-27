@@ -1,0 +1,332 @@
+id: https://openalex.org/W2991007563
+doi: https://doi.org/10.12688/wellcomeopenres.15555.2
+title: Guidelines for performing Mendelian randomization investigations
+publication_date: '2020-04-28'
+publication_year: 2020
+cited_by_count: 1241
+citation_percentile: 0.999588
+pagerank: 2.5507532486779385e-06
+authorships:
+- author_id: https://openalex.org/A5087932701
+  display_name: Stephen Burgess
+  orcid: https://orcid.org/0000-0001-5365-8760
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I40347166
+    display_name: University of Chicago
+    ror: https://ror.org/024mw5h28
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134973
+    display_name: MRC Biostatistics Unit
+    ror: https://ror.org/046vje122
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - . Department of Epidemiology, Erasmus University Medical Center, Rotterdam, The
+    Netherlands
+  - Cardiovascular Epidemiology Unit, University of Cambridge, Cambridge, UK
+  - Department of Epidemiology, Erasmus University Medical Center, Rotterdam, The
+    Netherlands
+  - Department of Human Genetics, University of Chicago, Chicago, IL, USA
+  - MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5013184354
+  display_name: George Davey Smith
+  orcid: https://orcid.org/0000-0002-1407-8314
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210158597
+    display_name: MRC Epidemiology Unit
+    ror: https://ror.org/052578691
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5061002857
+  display_name: Neil M Davies
+  orcid: https://orcid.org/0000-0002-2460-0508
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210158597
+    display_name: MRC Epidemiology Unit
+    ror: https://ror.org/052578691
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5026743197
+  display_name: Frank Dudbridge
+  orcid: https://orcid.org/0000-0002-8817-8908
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I153648349
+    display_name: University of Leicester
+    ror: https://ror.org/04h699437
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Health Sciences, University of Leicester, Leicester, UK
+- author_id: https://openalex.org/A5054061856
+  display_name: Dipender Gill
+  orcid: https://orcid.org/0000-0001-7312-7078
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Biostatistics, School of Public Health, Imperial
+    College London, London, UK
+- author_id: https://openalex.org/A5004781553
+  display_name: M. Maria Glymour
+  orcid: https://orcid.org/0000-0001-9644-3081
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Biostatistics, University of California, San Francisco,
+    San Francisco, CA, USA
+- author_id: https://openalex.org/A5087114182
+  display_name: Fernando Pires Hartwig
+  orcid: https://orcid.org/0000-0003-3729-0710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169248161
+    display_name: Universidade Federal de Pelotas
+    ror: https://ror.org/05msy9z54
+    country_code: BR
+    type: funder
+  - id: https://openalex.org/I4210158597
+    display_name: MRC Epidemiology Unit
+    ror: https://ror.org/052578691
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK
+  - Postgraduate Program in Epidemiology, Federal University of Pelotas, Pelotas,
+    Brazil
+- author_id: https://openalex.org/A5055374455
+  display_name: Michael V. Holmes
+  orcid: https://orcid.org/0000-0001-6617-0879
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Trial Service Unit and Epidemiological Studies Unit, Nuffield Department
+    of Population Health, University of Oxford, Oxford, UK
+  - MRC Population Health Research Unit at the University of Oxford, Nuffield Department
+    of Population Health, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5056512785
+  display_name: Cosetta Minelli
+  orcid: https://orcid.org/0000-0001-9166-3958
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Heart and Lung Institute, Imperial College London, London, UK
+- author_id: https://openalex.org/A5042511675
+  display_name: Caroline L. Relton
+  orcid: https://orcid.org/0000-0003-2052-4840
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210158597
+    display_name: MRC Epidemiology Unit
+    ror: https://ror.org/052578691
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5051387435
+  display_name: "Evropi \u03A4heodoratou"
+  orcid: https://orcid.org/0000-0001-5887-9132
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2802581871
+    display_name: Edinburgh Cancer Research
+    ror: https://ror.org/05a7t9b67
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Global Health, Usher Institute, University of Edinburgh, Edinburgh,
+    UK
+  - Edinburgh Cancer Research Centre, Institute of Genetics and Molecular Medicine,
+    University of Edinburgh, Edinburgh, UK
+referenced_works:
+- https://openalex.org/W1902575419
+- https://openalex.org/W1905058580
+- https://openalex.org/W1972696558
+- https://openalex.org/W1981041672
+- https://openalex.org/W1991587639
+- https://openalex.org/W1996299724
+- https://openalex.org/W2015979373
+- https://openalex.org/W2020104306
+- https://openalex.org/W2047607348
+- https://openalex.org/W2050672146
+- https://openalex.org/W2073836327
+- https://openalex.org/W2097040757
+- https://openalex.org/W2103783427
+- https://openalex.org/W2104278634
+- https://openalex.org/W2106036991
+- https://openalex.org/W2107263285
+- https://openalex.org/W2111735528
+- https://openalex.org/W2113699335
+- https://openalex.org/W2118008714
+- https://openalex.org/W2118743532
+- https://openalex.org/W2127065386
+- https://openalex.org/W2127768736
+- https://openalex.org/W2129465958
+- https://openalex.org/W2137796179
+- https://openalex.org/W2143727405
+- https://openalex.org/W2146050890
+- https://openalex.org/W2149723077
+- https://openalex.org/W2151355802
+- https://openalex.org/W2151872224
+- https://openalex.org/W2151980237
+- https://openalex.org/W2152795085
+- https://openalex.org/W2153117775
+- https://openalex.org/W2153860431
+- https://openalex.org/W2166082348
+- https://openalex.org/W2169283889
+- https://openalex.org/W2198755677
+- https://openalex.org/W2266722857
+- https://openalex.org/W2292311686
+- https://openalex.org/W2295447825
+- https://openalex.org/W2324862792
+- https://openalex.org/W2325761966
+- https://openalex.org/W2338399764
+- https://openalex.org/W2398690791
+- https://openalex.org/W2462634178
+- https://openalex.org/W2475125285
+- https://openalex.org/W2508534964
+- https://openalex.org/W2520048741
+- https://openalex.org/W2528302205
+- https://openalex.org/W2528374605
+- https://openalex.org/W2579779633
+- https://openalex.org/W2581245397
+- https://openalex.org/W2597850678
+- https://openalex.org/W2607529696
+- https://openalex.org/W2613603864
+- https://openalex.org/W2614566443
+- https://openalex.org/W2620908531
+- https://openalex.org/W2622187097
+- https://openalex.org/W2735339162
+- https://openalex.org/W2742117056
+- https://openalex.org/W2753720004
+- https://openalex.org/W2761141539
+- https://openalex.org/W2770598799
+- https://openalex.org/W2774720490
+- https://openalex.org/W2785956627
+- https://openalex.org/W2786371198
+- https://openalex.org/W2786427134
+- https://openalex.org/W2789128591
+- https://openalex.org/W2801923360
+- https://openalex.org/W2803072880
+- https://openalex.org/W2805801533
+- https://openalex.org/W2805983714
+- https://openalex.org/W2809135070
+- https://openalex.org/W2810852503
+- https://openalex.org/W2818417770
+- https://openalex.org/W2884028796
+- https://openalex.org/W2886280059
+- https://openalex.org/W2891812515
+- https://openalex.org/W2897633068
+- https://openalex.org/W2897719756
+- https://openalex.org/W2908849404
+- https://openalex.org/W2920385266
+- https://openalex.org/W2928401928
+- https://openalex.org/W2941271956
+- https://openalex.org/W2942735510
+- https://openalex.org/W2949275660
+- https://openalex.org/W2949540592
+- https://openalex.org/W2949626096
+- https://openalex.org/W2950769483
+- https://openalex.org/W2950958620
+- https://openalex.org/W2951276136
+- https://openalex.org/W2951651423
+- https://openalex.org/W2952562325
+- https://openalex.org/W2952904845
+- https://openalex.org/W2953121869
+- https://openalex.org/W2955850137
+- https://openalex.org/W2956730167
+- https://openalex.org/W2957560754
+- https://openalex.org/W2963192358
+- https://openalex.org/W2963404097
+- https://openalex.org/W2963887614
+- https://openalex.org/W2977182596
+- https://openalex.org/W2980184546
+- https://openalex.org/W2996249643
+- https://openalex.org/W3004061717
+- https://openalex.org/W3007536163
+- https://openalex.org/W3014191903
+- https://openalex.org/W3098867908
+- https://openalex.org/W3105776280
+- https://openalex.org/W4210703904
+- https://openalex.org/W4256343743
+primary_topic: Genetic Associations and Epidemiology
+open_access: true

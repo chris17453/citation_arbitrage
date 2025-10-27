@@ -1,0 +1,739 @@
+id: https://openalex.org/W3048932873
+doi: https://doi.org/10.1029/2019ms002015
+title: "The GFDL Earth System Model Version 4.1 (GFDL\u2010ESM 4.1): Overall Coupled\
+  \ Model Description and Simulation Characteristics"
+publication_date: '2020-08-13'
+publication_year: 2020
+cited_by_count: 839
+citation_percentile: 0.999946
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5056337476
+  display_name: John P. Dunne
+  orcid: https://orcid.org/0000-0002-8794-0489
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5070763110
+  display_name: Larry W. Horowitz
+  orcid: https://orcid.org/0000-0002-5886-3314
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5007347487
+  display_name: Alistair Adcroft
+  orcid: https://orcid.org/0000-0001-9413-1017
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton,
+    NJ, USA
+- author_id: https://openalex.org/A5084549469
+  display_name: Paul Ginoux
+  orcid: https://orcid.org/0000-0003-3642-2988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5008203511
+  display_name: Isaac M. Held
+  orcid: https://orcid.org/0000-0002-6744-439X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton,
+    NJ, USA
+- author_id: https://openalex.org/A5086150586
+  display_name: Jasmin G. John
+  orcid: https://orcid.org/0000-0003-2696-277X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5060135276
+  display_name: John P. Krasting
+  orcid: https://orcid.org/0000-0002-4650-9844
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5040738558
+  display_name: Sergey Malyshev
+  orcid: https://orcid.org/0000-0001-6259-1043
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5014738904
+  display_name: "Vaishali Na\xEFk"
+  orcid: https://orcid.org/0000-0002-2254-1700
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5059443648
+  display_name: Fabien Paulot
+  orcid: https://orcid.org/0000-0001-7534-4922
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5079262021
+  display_name: Elena Shevliakova
+  orcid: https://orcid.org/0000-0003-4910-2166
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5078801706
+  display_name: Charles A. Stock
+  orcid: https://orcid.org/0000-0001-9549-8013
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5057994273
+  display_name: Niki Zadeh
+  orcid: https://orcid.org/0000-0002-0025-0769
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SAIC/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5017803933
+  display_name: V. Balaji
+  orcid: https://orcid.org/0000-0001-7561-5438
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton,
+    NJ, USA
+- author_id: https://openalex.org/A5067223914
+  display_name: Chris Blanton
+  orcid: https://orcid.org/0000-0002-0785-3538
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SAIC/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5028455080
+  display_name: K. A. Dunne
+  orcid: https://orcid.org/0000-0002-1220-6140
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1286329397
+    display_name: United States Geological Survey
+    ror: https://ror.org/035a68863
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - U. S. Geological Survey/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5114109110
+  display_name: C. Dupuis
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SAIC/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5012349803
+  display_name: J. Durachta
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5082674462
+  display_name: "Rapha\xEBl Dussin"
+  orcid: https://orcid.org/0000-0003-4004-4553
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UCAR/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5020588170
+  display_name: Paul P. G. Gauthier
+  orcid: https://orcid.org/0000-0002-2893-7861
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Princeton Environmental Institute, Princeton University, Princeton, NJ, USA
+- author_id: https://openalex.org/A5085415209
+  display_name: Stephen M. Griffies
+  orcid: https://orcid.org/0000-0002-3711-236X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+  - Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton,
+    NJ, USA
+- author_id: https://openalex.org/A5051140369
+  display_name: Huan Guo
+  orcid: https://orcid.org/0000-0002-8312-9963
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+  - UCAR/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5005512048
+  display_name: Robert Hallberg
+  orcid: https://orcid.org/0000-0001-5752-9034
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5069260288
+  display_name: Matthew Harrison
+  orcid: https://orcid.org/0000-0001-7991-454X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5030998368
+  display_name: Jian He
+  orcid: https://orcid.org/0000-0002-1627-6859
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton,
+    NJ, USA
+- author_id: https://openalex.org/A5062753094
+  display_name: William J. Hurlin
+  orcid: https://orcid.org/0000-0002-7390-6669
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5023383674
+  display_name: Colleen McHugh
+  orcid: https://orcid.org/0000-0003-0560-3225
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SAIC/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5088619796
+  display_name: Raymond Menzel
+  orcid: https://orcid.org/0000-0002-2459-0119
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UCAR/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5045892082
+  display_name: P. C. D. Milly
+  orcid: https://orcid.org/0000-0003-4389-3139
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1286329397
+    display_name: United States Geological Survey
+    ror: https://ror.org/035a68863
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - U. S. Geological Survey/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5083504397
+  display_name: S. Nikonov
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton,
+    NJ, USA
+- author_id: https://openalex.org/A5052866810
+  display_name: David Paynter
+  orcid: https://orcid.org/0000-0002-7092-241X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5065313085
+  display_name: Jeffrey J. Ploshay
+  orcid: https://orcid.org/0000-0001-8650-2965
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5054082843
+  display_name: Aparna Radhakrishnan
+  orcid: https://orcid.org/0000-0002-2843-931X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton,
+    NJ, USA
+- author_id: https://openalex.org/A5027575271
+  display_name: Kimberly M. Rand
+  orcid: https://orcid.org/0000-0001-8837-1401
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SAIC/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5000246226
+  display_name: Brandon G. Reichl
+  orcid: https://orcid.org/0000-0001-9047-0767
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5030906007
+  display_name: Thomas Robinson
+  orcid: https://orcid.org/0000-0001-5553-0226
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SAIC/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5102868166
+  display_name: M. D. Schwarzkopf
+  orcid: https://orcid.org/0000-0003-1381-1219
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5068801753
+  display_name: Lori T. Sentman
+  orcid: https://orcid.org/0000-0003-1954-5564
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5016664292
+  display_name: Seth Underwood
+  orcid: https://orcid.org/0000-0002-8395-9609
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5023129572
+  display_name: H. Vahlenkamp
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UCAR/GFDL, Princeton, NJ, USA
+- author_id: https://openalex.org/A5089711778
+  display_name: Michael Winton
+  orcid: https://orcid.org/0000-0001-7982-0260
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5018629692
+  display_name: Andrew T. Wittenberg
+  orcid: https://orcid.org/0000-0003-1680-8963
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5036070506
+  display_name: Bruce Wyman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+- author_id: https://openalex.org/A5039209983
+  display_name: Yujin Zeng
+  orcid: https://orcid.org/0000-0001-9513-7648
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cooperative Institute for Modeling the Earth System, Princeton University, Princeton,
+    NJ, USA
+- author_id: https://openalex.org/A5043587183
+  display_name: Ming Zhao
+  orcid: https://orcid.org/0000-0003-4996-7821
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I191217947
+    display_name: NOAA Geophysical Fluid Dynamics Laboratory
+    ror: https://ror.org/03vmn1898
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOAA/OAR Geophysical Fluid Dynamics Laboratory, Princeton, NJ, USA
+referenced_works:
+- https://openalex.org/W1487432824
+- https://openalex.org/W1565770889
+- https://openalex.org/W1598281294
+- https://openalex.org/W1829451924
+- https://openalex.org/W1880089522
+- https://openalex.org/W1883063942
+- https://openalex.org/W1885778149
+- https://openalex.org/W1909125228
+- https://openalex.org/W1911898630
+- https://openalex.org/W1916820450
+- https://openalex.org/W1930393311
+- https://openalex.org/W1940710089
+- https://openalex.org/W1968340782
+- https://openalex.org/W1970231993
+- https://openalex.org/W1971814912
+- https://openalex.org/W1973233492
+- https://openalex.org/W1974010481
+- https://openalex.org/W1975363872
+- https://openalex.org/W1977048588
+- https://openalex.org/W1978169584
+- https://openalex.org/W1979615854
+- https://openalex.org/W1983605905
+- https://openalex.org/W1987398183
+- https://openalex.org/W1991467573
+- https://openalex.org/W1991556246
+- https://openalex.org/W1992561914
+- https://openalex.org/W1992587586
+- https://openalex.org/W1993606324
+- https://openalex.org/W1998294265
+- https://openalex.org/W2002570697
+- https://openalex.org/W2003164867
+- https://openalex.org/W2006165291
+- https://openalex.org/W2007815323
+- https://openalex.org/W2008056674
+- https://openalex.org/W2008598734
+- https://openalex.org/W2010690624
+- https://openalex.org/W2012119251
+- https://openalex.org/W2015071544
+- https://openalex.org/W2015921985
+- https://openalex.org/W2022548072
+- https://openalex.org/W2024080960
+- https://openalex.org/W2024966118
+- https://openalex.org/W2025241947
+- https://openalex.org/W2031027346
+- https://openalex.org/W2033691251
+- https://openalex.org/W2033767602
+- https://openalex.org/W2042714283
+- https://openalex.org/W2043196564
+- https://openalex.org/W2047502570
+- https://openalex.org/W2051416171
+- https://openalex.org/W2053132433
+- https://openalex.org/W2054838530
+- https://openalex.org/W2056511781
+- https://openalex.org/W2057037894
+- https://openalex.org/W2057110560
+- https://openalex.org/W2061877716
+- https://openalex.org/W2070398649
+- https://openalex.org/W2078592413
+- https://openalex.org/W2080384852
+- https://openalex.org/W2081006552
+- https://openalex.org/W2086925429
+- https://openalex.org/W2090249381
+- https://openalex.org/W2092296407
+- https://openalex.org/W2095015585
+- https://openalex.org/W2097052086
+- https://openalex.org/W2098405759
+- https://openalex.org/W2098531686
+- https://openalex.org/W2102950893
+- https://openalex.org/W2109356213
+- https://openalex.org/W2110669521
+- https://openalex.org/W2111369201
+- https://openalex.org/W2113439208
+- https://openalex.org/W2116488107
+- https://openalex.org/W2117213541
+- https://openalex.org/W2117794152
+- https://openalex.org/W2121745948
+- https://openalex.org/W2122618121
+- https://openalex.org/W2123495234
+- https://openalex.org/W2125336339
+- https://openalex.org/W2126860661
+- https://openalex.org/W2129479849
+- https://openalex.org/W2131102510
+- https://openalex.org/W2136402371
+- https://openalex.org/W2137235251
+- https://openalex.org/W2138414010
+- https://openalex.org/W2139791975
+- https://openalex.org/W2141707502
+- https://openalex.org/W2151135366
+- https://openalex.org/W2152235511
+- https://openalex.org/W2152243413
+- https://openalex.org/W2153815449
+- https://openalex.org/W2156964657
+- https://openalex.org/W2160861752
+- https://openalex.org/W2161074445
+- https://openalex.org/W2162200850
+- https://openalex.org/W2164990341
+- https://openalex.org/W2165242200
+- https://openalex.org/W2165258746
+- https://openalex.org/W2167018289
+- https://openalex.org/W2173742355
+- https://openalex.org/W2176659079
+- https://openalex.org/W2176990229
+- https://openalex.org/W2177083907
+- https://openalex.org/W2177724817
+- https://openalex.org/W2179545855
+- https://openalex.org/W2193503481
+- https://openalex.org/W2205022211
+- https://openalex.org/W2230007037
+- https://openalex.org/W2254857365
+- https://openalex.org/W2337225114
+- https://openalex.org/W2400836904
+- https://openalex.org/W2460445755
+- https://openalex.org/W2464910670
+- https://openalex.org/W2494159654
+- https://openalex.org/W2494665175
+- https://openalex.org/W2496312014
+- https://openalex.org/W2509342481
+- https://openalex.org/W2516442054
+- https://openalex.org/W2521694760
+- https://openalex.org/W2532641604
+- https://openalex.org/W2538117061
+- https://openalex.org/W2540203417
+- https://openalex.org/W2546856247
+- https://openalex.org/W2554462833
+- https://openalex.org/W2556412688
+- https://openalex.org/W2566791737
+- https://openalex.org/W2582025998
+- https://openalex.org/W2591396142
+- https://openalex.org/W2616382558
+- https://openalex.org/W2624219599
+- https://openalex.org/W2738516213
+- https://openalex.org/W2739294330
+- https://openalex.org/W2769152577
+- https://openalex.org/W2769271313
+- https://openalex.org/W2773050709
+- https://openalex.org/W2787462104
+- https://openalex.org/W2791484400
+- https://openalex.org/W2792692517
+- https://openalex.org/W2794921839
+- https://openalex.org/W2795363219
+- https://openalex.org/W2795581443
+- https://openalex.org/W2804192394
+- https://openalex.org/W2806034182
+- https://openalex.org/W2890509245
+- https://openalex.org/W2891245003
+- https://openalex.org/W2896915413
+- https://openalex.org/W2899998283
+- https://openalex.org/W2901326637
+- https://openalex.org/W2901990016
+- https://openalex.org/W2903362916
+- https://openalex.org/W2938746795
+- https://openalex.org/W2939389803
+- https://openalex.org/W2944750746
+- https://openalex.org/W2950138429
+- https://openalex.org/W2951316903
+- https://openalex.org/W2953029132
+- https://openalex.org/W2955601895
+- https://openalex.org/W2966184765
+- https://openalex.org/W2971199049
+- https://openalex.org/W2982625375
+- https://openalex.org/W2993089090
+- https://openalex.org/W2998500935
+- https://openalex.org/W2998624531
+- https://openalex.org/W2999414590
+- https://openalex.org/W3004342312
+- https://openalex.org/W3047499892
+- https://openalex.org/W3080366116
+- https://openalex.org/W3080952804
+- https://openalex.org/W4241840196
+- https://openalex.org/W644846331
+- https://openalex.org/W818924176
+primary_topic: Atmospheric and Environmental Gas Dynamics
+open_access: true

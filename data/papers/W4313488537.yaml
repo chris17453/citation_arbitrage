@@ -1,0 +1,905 @@
+id: https://openalex.org/W4313488537
+doi: https://doi.org/10.1038/s41580-022-00566-8
+title: 'Long non-coding RNAs: definitions, functions, challenges and recommendations'
+publication_date: '2023-01-03'
+publication_year: 2023
+cited_by_count: 1529
+citation_percentile: 0.998642
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5023828670
+  display_name: John S. Mattick
+  orcid: https://orcid.org/0000-0002-7680-7527
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Biotechnology and Biomolecular Sciences, UNSW, Sydney, NSW, Australia
+- author_id: https://openalex.org/A5069762549
+  display_name: Paulo Amaral
+  orcid: https://orcid.org/0000-0002-6696-5142
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52977244
+    display_name: Insper
+    ror: https://ror.org/02nmavx05
+    country_code: BR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "INSPER Institute of Education and Research, S\xE3o Paulo, Brazil"
+- author_id: https://openalex.org/A5072131150
+  display_name: Piero Carninci
+  orcid: https://orcid.org/0000-0001-7202-7243
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - RIKEN Center for Integrative Medical Sciences, Yokohama, Japan
+- author_id: https://openalex.org/A5023523625
+  display_name: Susan Carpenter
+  orcid: https://orcid.org/0000-0002-5600-5404
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185103710
+    display_name: University of California, Santa Cruz
+    ror: https://ror.org/03s65by71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular, Cell and Developmental Biology, University of California,
+    Santa Cruz, Santa Cruz, CA, USA
+- author_id: https://openalex.org/A5040230088
+  display_name: Howard Y. Chang
+  orcid: https://orcid.org/0000-0002-9459-4393
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Personal Dynamics Regulomes, Stanford University School of Medicine,
+    Stanford, CA, USA
+- author_id: https://openalex.org/A5100745206
+  display_name: "Ling\u2010Ling Chen"
+  orcid: https://orcid.org/0000-0001-9501-0305
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121447
+    display_name: Center for Excellence in Molecular Cell Science
+    ror: https://ror.org/02rrdvm96
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Center for Excellence in Molecular Cell Science, Shanghai Institute of Biochemistry
+    and Cell Biology, Chinese Academy of Sciences, Shanghai, China
+- author_id: https://openalex.org/A5029900952
+  display_name: Runsheng Chen
+  orcid: https://orcid.org/0000-0001-6049-8347
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210112540
+    display_name: Institute of Biophysics
+    ror: https://ror.org/01tyv8576
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of RNA Biology, Center for Big Data Research in Health, Institute
+    of Biophysics, Chinese Academy of Sciences, Beijing, China
+- author_id: https://openalex.org/A5074175217
+  display_name: Caroline Dean
+  orcid: https://orcid.org/0000-0002-6555-3525
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799300731
+    display_name: Norwich Research Park
+    ror: https://ror.org/0062dz060
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I100288624
+    display_name: John Innes Centre
+    ror: https://ror.org/055zmrh94
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - John Innes Centre, Norwich Research Park, Norwich, UK
+- author_id: https://openalex.org/A5049900685
+  display_name: Marcel E. Dinger
+  orcid: https://orcid.org/0000-0003-4423-934X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31746571
+    display_name: UNSW Sydney
+    ror: https://ror.org/03r8z3t63
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UNSW RNA Institute, UNSW, Sydney, NSW, Australia
+- author_id: https://openalex.org/A5046186975
+  display_name: Katherine A. Fitzgerald
+  orcid: https://orcid.org/0000-0003-3175-609X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166722992
+    display_name: University of Massachusetts Chan Medical School
+    ror: https://ror.org/0464eyp60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Innate Immunity, Department of Medicine, University of Massachusetts
+    Chan Medical School, Worcester, MA, USA
+- author_id: https://openalex.org/A5067538373
+  display_name: T Gingeras
+  orcid: https://orcid.org/0000-0001-9106-3573
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2750212522
+    display_name: Cold Spring Harbor Laboratory
+    ror: https://ror.org/02qz8b764
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cold Spring Harbour Laboratory, Cold Spring Harbour, NY, USA
+- author_id: https://openalex.org/A5052599603
+  display_name: Mitchell Guttman
+  orcid: https://orcid.org/0000-0003-4748-9352
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Biology and Biological Engineering, California Institute of Technology,
+    Pasadena, CA, USA
+- author_id: https://openalex.org/A5038000673
+  display_name: Tetsuro Hirose
+  orcid: https://orcid.org/0000-0003-1068-5464
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98285908
+    display_name: The University of Osaka
+    ror: https://ror.org/035t8zc32
+    country_code: JP
+    type: funder
+  - id: https://openalex.org/I3133035077
+    display_name: Ube Frontier University
+    ror: https://ror.org/03sgcr744
+    country_code: JP
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate School of Frontier Biosciences, Osaka University, Osaka, Japan
+- author_id: https://openalex.org/A5047252413
+  display_name: Maite Huarte
+  orcid: https://orcid.org/0000-0003-3753-6493
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I88155538
+    display_name: Universidad de Navarra
+    ror: https://ror.org/02rxc7m23
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Gene Therapy and Regulation of Gene Expression, Center for Applied
+    Medical Research, University of Navarra, Pamplona, Spain
+- author_id: https://openalex.org/A5056810241
+  display_name: Rory Johnson
+  orcid: https://orcid.org/0000-0003-4607-2782
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I100930933
+    display_name: University College Dublin
+    ror: https://ror.org/05m7pjf47
+    country_code: IE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Biology and Environmental Science, University College Dublin, Dublin,
+    Ireland
+- author_id: https://openalex.org/A5049283637
+  display_name: Chandrasekhar Kanduri
+  orcid: https://orcid.org/0000-0001-6271-9078
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I881427289
+    display_name: University of Gothenburg
+    ror: https://ror.org/01tm6cn81
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine,
+    Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden
+- author_id: https://openalex.org/A5008738173
+  display_name: Philipp Kapranov
+  orcid: https://orcid.org/0000-0003-2647-4856
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I119045251
+    display_name: Huaqiao University
+    ror: https://ror.org/03frdh605
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Genomics, School of Medicine, Huaqiao University, Xiamen, China
+- author_id: https://openalex.org/A5080170366
+  display_name: Jeanne B. Lawrence
+  orcid: https://orcid.org/0000-0001-6572-3128
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166722992
+    display_name: University of Massachusetts Chan Medical School
+    ror: https://ror.org/0464eyp60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, University of Massachusetts Chan Medical School, Worcester,
+    MA, USA
+- author_id: https://openalex.org/A5007941136
+  display_name: Jeannie T. Lee
+  orcid: https://orcid.org/0000-0001-7786-8850
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Biology, Massachusetts General Hospital, Harvard Medical
+    School, Boston, MA, USA
+- author_id: https://openalex.org/A5024582577
+  display_name: Joshua T. Mendell
+  orcid: https://orcid.org/0000-0001-8479-2284
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I867280407
+    display_name: The University of Texas Southwestern Medical Center
+    ror: https://ror.org/05byvp690
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Howard Hughes Medical Institute, UT Southwestern Medical Center, Dallas, TX, USA
+- author_id: https://openalex.org/A5089375087
+  display_name: Tim R. Mercer
+  orcid: https://orcid.org/0000-0001-8780-894X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165143802
+    display_name: The University of Queensland
+    ror: https://ror.org/00rqy9422
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Australian Institute for Bioengineering and Nanotechnology, University of Queensland,
+    Brisbane, QLD, Australia
+- author_id: https://openalex.org/A5035258831
+  display_name: Kathryn J. Moore
+  orcid: https://orcid.org/0000-0003-2505-2547
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, New York University Grossman School of Medicine, New York,
+    NY, USA
+- author_id: https://openalex.org/A5086803746
+  display_name: Shinichi Nakagawa
+  orcid: https://orcid.org/0000-0002-6806-7493
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205349734
+    display_name: Hokkaido University
+    ror: https://ror.org/02e16g702
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - RNA Biology Laboratory, Faculty of Pharmaceutical Sciences, Hokkaido University,
+    Sapporo, Japan
+- author_id: https://openalex.org/A5017194914
+  display_name: John L. Rinn
+  orcid: https://orcid.org/0000-0002-7231-7539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I188538660
+    display_name: University of Colorado Boulder
+    ror: https://ror.org/02ttsq026
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Colorado Boulder, Boulder, CO, USA
+- author_id: https://openalex.org/A5079751903
+  display_name: David L. Spector
+  orcid: https://orcid.org/0000-0003-3614-4965
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2750212522
+    display_name: Cold Spring Harbor Laboratory
+    ror: https://ror.org/02qz8b764
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cold Spring Harbour Laboratory, Cold Spring Harbour, NY, USA
+- author_id: https://openalex.org/A5088681851
+  display_name: Igor Ulitsky
+  orcid: https://orcid.org/0000-0003-0555-6561
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I53964585
+    display_name: Weizmann Institute of Science
+    ror: https://ror.org/0316ej306
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel
+- author_id: https://openalex.org/A5023164791
+  display_name: Yue Wan
+  orcid: https://orcid.org/0000-0002-2433-9637
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I66068411
+    display_name: Genome Institute of Singapore
+    ror: https://ror.org/05k8wg936
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I115228651
+    display_name: Agency for Science, Technology and Research
+    ror: https://ror.org/036wvzt09
+    country_code: SG
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of RNA Genomics and Structure, Genome Institute of Singapore, A*STAR,
+    Singapore, Singapore
+- author_id: https://openalex.org/A5055919781
+  display_name: Jeremy E. Wilusz
+  orcid: https://orcid.org/0000-0001-6929-8755
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181547552
+    display_name: Baylor College of Medicine
+    ror: https://ror.org/02pttbw34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Verna and Marrs McLean Department of Biochemistry and Molecular Biology, Therapeutic
+    Innovation Center, Baylor College of Medicine, Houston, TX, USA
+- author_id: https://openalex.org/A5042724906
+  display_name: Mian Wu
+  orcid: https://orcid.org/0000-0002-2714-0500
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210133534
+    display_name: Henan Provincial People's Hospital
+    ror: https://ror.org/03f72zw41
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I38877650
+    display_name: Zhengzhou University
+    ror: https://ror.org/04ypx8c21
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Translational Research Institute, Henan Provincial People's Hospital, Academy
+    of Medical Science, Zhengzhou University, Zhengzhou, China
+referenced_works:
+- https://openalex.org/W1156445109
+- https://openalex.org/W1483760785
+- https://openalex.org/W1514569936
+- https://openalex.org/W1576192069
+- https://openalex.org/W1577250214
+- https://openalex.org/W1625754937
+- https://openalex.org/W1714310121
+- https://openalex.org/W1793796070
+- https://openalex.org/W1879996757
+- https://openalex.org/W1954748167
+- https://openalex.org/W1959319781
+- https://openalex.org/W1963807858
+- https://openalex.org/W1964268598
+- https://openalex.org/W1964789204
+- https://openalex.org/W1964963969
+- https://openalex.org/W1970397315
+- https://openalex.org/W1973526125
+- https://openalex.org/W1974108684
+- https://openalex.org/W1974454061
+- https://openalex.org/W1975073052
+- https://openalex.org/W1975309524
+- https://openalex.org/W1975636276
+- https://openalex.org/W1975847255
+- https://openalex.org/W1976459963
+- https://openalex.org/W1977943782
+- https://openalex.org/W1979768717
+- https://openalex.org/W1980147942
+- https://openalex.org/W1984023556
+- https://openalex.org/W1984084985
+- https://openalex.org/W1986234964
+- https://openalex.org/W1987476111
+- https://openalex.org/W1987754123
+- https://openalex.org/W1988791583
+- https://openalex.org/W1992605446
+- https://openalex.org/W1995724539
+- https://openalex.org/W1995852794
+- https://openalex.org/W1999746344
+- https://openalex.org/W2001206796
+- https://openalex.org/W2002057935
+- https://openalex.org/W2003553455
+- https://openalex.org/W2003983029
+- https://openalex.org/W2004361937
+- https://openalex.org/W2004966039
+- https://openalex.org/W2005636452
+- https://openalex.org/W2007006753
+- https://openalex.org/W2007870233
+- https://openalex.org/W2009882651
+- https://openalex.org/W2010231497
+- https://openalex.org/W2010679556
+- https://openalex.org/W2011598785
+- https://openalex.org/W2012206989
+- https://openalex.org/W2013094037
+- https://openalex.org/W2014359105
+- https://openalex.org/W2014787267
+- https://openalex.org/W2015115860
+- https://openalex.org/W2015845481
+- https://openalex.org/W2016236490
+- https://openalex.org/W2016927884
+- https://openalex.org/W2021168471
+- https://openalex.org/W2022863488
+- https://openalex.org/W2025797510
+- https://openalex.org/W2026995323
+- https://openalex.org/W2027347575
+- https://openalex.org/W2029868997
+- https://openalex.org/W2030030642
+- https://openalex.org/W2030047242
+- https://openalex.org/W2030658020
+- https://openalex.org/W2030782101
+- https://openalex.org/W2032640007
+- https://openalex.org/W2033586326
+- https://openalex.org/W2033777731
+- https://openalex.org/W2034355012
+- https://openalex.org/W2037363723
+- https://openalex.org/W2037686178
+- https://openalex.org/W2039244365
+- https://openalex.org/W2041770101
+- https://openalex.org/W2042930277
+- https://openalex.org/W2046498307
+- https://openalex.org/W2047285578
+- https://openalex.org/W2047333953
+- https://openalex.org/W2050982262
+- https://openalex.org/W2051282896
+- https://openalex.org/W2051911149
+- https://openalex.org/W2052308608
+- https://openalex.org/W2052741109
+- https://openalex.org/W2052918843
+- https://openalex.org/W2053005479
+- https://openalex.org/W2053620236
+- https://openalex.org/W2053758959
+- https://openalex.org/W2053833990
+- https://openalex.org/W2054191153
+- https://openalex.org/W2054352933
+- https://openalex.org/W2054677853
+- https://openalex.org/W2055226297
+- https://openalex.org/W2055493067
+- https://openalex.org/W2055505035
+- https://openalex.org/W2057764922
+- https://openalex.org/W2058970225
+- https://openalex.org/W2059478037
+- https://openalex.org/W2059542572
+- https://openalex.org/W2059592231
+- https://openalex.org/W2059968749
+- https://openalex.org/W2060424507
+- https://openalex.org/W2060857762
+- https://openalex.org/W2061085499
+- https://openalex.org/W2062641959
+- https://openalex.org/W2066310505
+- https://openalex.org/W2069631912
+- https://openalex.org/W2073014932
+- https://openalex.org/W2079983771
+- https://openalex.org/W2080251115
+- https://openalex.org/W2080561378
+- https://openalex.org/W2084223479
+- https://openalex.org/W2084990854
+- https://openalex.org/W2087377443
+- https://openalex.org/W2087936477
+- https://openalex.org/W2091151146
+- https://openalex.org/W2091533196
+- https://openalex.org/W2092467693
+- https://openalex.org/W2093956979
+- https://openalex.org/W2094468530
+- https://openalex.org/W2095857561
+- https://openalex.org/W2096237610
+- https://openalex.org/W2099468911
+- https://openalex.org/W2100582928
+- https://openalex.org/W2101177674
+- https://openalex.org/W2102362153
+- https://openalex.org/W2104135642
+- https://openalex.org/W2104224685
+- https://openalex.org/W2105292164
+- https://openalex.org/W2105314648
+- https://openalex.org/W2105952005
+- https://openalex.org/W2106862436
+- https://openalex.org/W2107454957
+- https://openalex.org/W2107894470
+- https://openalex.org/W2108012214
+- https://openalex.org/W2109001721
+- https://openalex.org/W2109225342
+- https://openalex.org/W2111020386
+- https://openalex.org/W2111619522
+- https://openalex.org/W2112001233
+- https://openalex.org/W2114532236
+- https://openalex.org/W2115819912
+- https://openalex.org/W2116236561
+- https://openalex.org/W2116881442
+- https://openalex.org/W2118008449
+- https://openalex.org/W2120585932
+- https://openalex.org/W2121196786
+- https://openalex.org/W2121828161
+- https://openalex.org/W2122497938
+- https://openalex.org/W2123973342
+- https://openalex.org/W2127746941
+- https://openalex.org/W2128151873
+- https://openalex.org/W2132257972
+- https://openalex.org/W2134625814
+- https://openalex.org/W2135246959
+- https://openalex.org/W2136440665
+- https://openalex.org/W2136550485
+- https://openalex.org/W2136725005
+- https://openalex.org/W2137081741
+- https://openalex.org/W2137840425
+- https://openalex.org/W2138884188
+- https://openalex.org/W2140288082
+- https://openalex.org/W2141172277
+- https://openalex.org/W2141454371
+- https://openalex.org/W2141831115
+- https://openalex.org/W2142088985
+- https://openalex.org/W2142735201
+- https://openalex.org/W2143285671
+- https://openalex.org/W2144137532
+- https://openalex.org/W2145543755
+- https://openalex.org/W2148966210
+- https://openalex.org/W2149363913
+- https://openalex.org/W2151537605
+- https://openalex.org/W2155131966
+- https://openalex.org/W2155972324
+- https://openalex.org/W2156392314
+- https://openalex.org/W2156880688
+- https://openalex.org/W2157512257
+- https://openalex.org/W2159738351
+- https://openalex.org/W2161149887
+- https://openalex.org/W2162547088
+- https://openalex.org/W2163141464
+- https://openalex.org/W2163409370
+- https://openalex.org/W2166473581
+- https://openalex.org/W2167491742
+- https://openalex.org/W2169601480
+- https://openalex.org/W2170154747
+- https://openalex.org/W2171096629
+- https://openalex.org/W2171282651
+- https://openalex.org/W2172062863
+- https://openalex.org/W2175884649
+- https://openalex.org/W2194390873
+- https://openalex.org/W2204436556
+- https://openalex.org/W2210080033
+- https://openalex.org/W2239568675
+- https://openalex.org/W2259938310
+- https://openalex.org/W2276045700
+- https://openalex.org/W2280989837
+- https://openalex.org/W2282529067
+- https://openalex.org/W2295037017
+- https://openalex.org/W2319972745
+- https://openalex.org/W2335029242
+- https://openalex.org/W2339414115
+- https://openalex.org/W2340949438
+- https://openalex.org/W2345850272
+- https://openalex.org/W2388201280
+- https://openalex.org/W2412468460
+- https://openalex.org/W2423205648
+- https://openalex.org/W2428128364
+- https://openalex.org/W2464391643
+- https://openalex.org/W2515189672
+- https://openalex.org/W2517195794
+- https://openalex.org/W2521147660
+- https://openalex.org/W2522982067
+- https://openalex.org/W2525587647
+- https://openalex.org/W2530369024
+- https://openalex.org/W2538571252
+- https://openalex.org/W2540143287
+- https://openalex.org/W2560534389
+- https://openalex.org/W2561535772
+- https://openalex.org/W2573974976
+- https://openalex.org/W2577194681
+- https://openalex.org/W2578822114
+- https://openalex.org/W2588036404
+- https://openalex.org/W2588434028
+- https://openalex.org/W2591074529
+- https://openalex.org/W2593488635
+- https://openalex.org/W2596157468
+- https://openalex.org/W2603000633
+- https://openalex.org/W2608167073
+- https://openalex.org/W2611987876
+- https://openalex.org/W2612636081
+- https://openalex.org/W2612916063
+- https://openalex.org/W2614855056
+- https://openalex.org/W2615891385
+- https://openalex.org/W2615953964
+- https://openalex.org/W2694038906
+- https://openalex.org/W2735792968
+- https://openalex.org/W2745848337
+- https://openalex.org/W2746147763
+- https://openalex.org/W2747089052
+- https://openalex.org/W2754312617
+- https://openalex.org/W2756821926
+- https://openalex.org/W2759593262
+- https://openalex.org/W2759693465
+- https://openalex.org/W2765629127
+- https://openalex.org/W2766105426
+- https://openalex.org/W2767918570
+- https://openalex.org/W2768097332
+- https://openalex.org/W2769039165
+- https://openalex.org/W2774477523
+- https://openalex.org/W2776962746
+- https://openalex.org/W2778790902
+- https://openalex.org/W2778957968
+- https://openalex.org/W2780663388
+- https://openalex.org/W2781409644
+- https://openalex.org/W2783479913
+- https://openalex.org/W2784570320
+- https://openalex.org/W2792104241
+- https://openalex.org/W2793070095
+- https://openalex.org/W2793630394
+- https://openalex.org/W2799413964
+- https://openalex.org/W2800145591
+- https://openalex.org/W2803944601
+- https://openalex.org/W2808086198
+- https://openalex.org/W2808847099
+- https://openalex.org/W2808919170
+- https://openalex.org/W2809057270
+- https://openalex.org/W2809265915
+- https://openalex.org/W2809594440
+- https://openalex.org/W2884608803
+- https://openalex.org/W2884789657
+- https://openalex.org/W2887741043
+- https://openalex.org/W2888282391
+- https://openalex.org/W2889410686
+- https://openalex.org/W2890017579
+- https://openalex.org/W2890872797
+- https://openalex.org/W2892669206
+- https://openalex.org/W2895322450
+- https://openalex.org/W2895733302
+- https://openalex.org/W2896285686
+- https://openalex.org/W2896974797
+- https://openalex.org/W2897732063
+- https://openalex.org/W2898735504
+- https://openalex.org/W2899028887
+- https://openalex.org/W2900189433
+- https://openalex.org/W2900569779
+- https://openalex.org/W2901209536
+- https://openalex.org/W2903023353
+- https://openalex.org/W2903926301
+- https://openalex.org/W2904362005
+- https://openalex.org/W2905406133
+- https://openalex.org/W2909477895
+- https://openalex.org/W2912031480
+- https://openalex.org/W2912227266
+- https://openalex.org/W2913184540
+- https://openalex.org/W2917888310
+- https://openalex.org/W2918502945
+- https://openalex.org/W2919654796
+- https://openalex.org/W2920174847
+- https://openalex.org/W2921390341
+- https://openalex.org/W2921414238
+- https://openalex.org/W2921876744
+- https://openalex.org/W2934347712
+- https://openalex.org/W2936333801
+- https://openalex.org/W2943495088
+- https://openalex.org/W2945767124
+- https://openalex.org/W2945799645
+- https://openalex.org/W2947402658
+- https://openalex.org/W2948991667
+- https://openalex.org/W2949109168
+- https://openalex.org/W2949484837
+- https://openalex.org/W2949674037
+- https://openalex.org/W2949907488
+- https://openalex.org/W2949983105
+- https://openalex.org/W2950833407
+- https://openalex.org/W2952564192
+- https://openalex.org/W2952698326
+- https://openalex.org/W2953018530
+- https://openalex.org/W2953034136
+- https://openalex.org/W2953132931
+- https://openalex.org/W2953148259
+- https://openalex.org/W2953177586
+- https://openalex.org/W2953483328
+- https://openalex.org/W2953728710
+- https://openalex.org/W2955282002
+- https://openalex.org/W2955786353
+- https://openalex.org/W2964154812
+- https://openalex.org/W2964331590
+- https://openalex.org/W2964484898
+- https://openalex.org/W2967490731
+- https://openalex.org/W2968547836
+- https://openalex.org/W2968775930
+- https://openalex.org/W2969823493
+- https://openalex.org/W2974807176
+- https://openalex.org/W2984476817
+- https://openalex.org/W2985271584
+- https://openalex.org/W2989281952
+- https://openalex.org/W2994157673
+- https://openalex.org/W2996171578
+- https://openalex.org/W2996638575
+- https://openalex.org/W2997395731
+- https://openalex.org/W2998399076
+- https://openalex.org/W2999589659
+- https://openalex.org/W3000068022
+- https://openalex.org/W3004029085
+- https://openalex.org/W3004042481
+- https://openalex.org/W3004543867
+- https://openalex.org/W3004897498
+- https://openalex.org/W3005487997
+- https://openalex.org/W3005521030
+- https://openalex.org/W3006194842
+- https://openalex.org/W3007395363
+- https://openalex.org/W3007760383
+- https://openalex.org/W3008598131
+- https://openalex.org/W3008948271
+- https://openalex.org/W3011102471
+- https://openalex.org/W3011183964
+- https://openalex.org/W3012152076
+- https://openalex.org/W3014756290
+- https://openalex.org/W3014773636
+- https://openalex.org/W3015995144
+- https://openalex.org/W3016077210
+- https://openalex.org/W3022604539
+- https://openalex.org/W3023915844
+- https://openalex.org/W3025081396
+- https://openalex.org/W3033791775
+- https://openalex.org/W3033842668
+- https://openalex.org/W3035674936
+- https://openalex.org/W3036354173
+- https://openalex.org/W3038184119
+- https://openalex.org/W3038942960
+- https://openalex.org/W3039785430
+- https://openalex.org/W3045704485
+- https://openalex.org/W3047789163
+- https://openalex.org/W3048941542
+- https://openalex.org/W3069949010
+- https://openalex.org/W3084058862
+- https://openalex.org/W3084175789
+- https://openalex.org/W3087253861
+- https://openalex.org/W3088385305
+- https://openalex.org/W3091019271
+- https://openalex.org/W3091095515
+- https://openalex.org/W3091824109
+- https://openalex.org/W3091968241
+- https://openalex.org/W3092207169
+- https://openalex.org/W3092398815
+- https://openalex.org/W3092475374
+- https://openalex.org/W3092655372
+- https://openalex.org/W3092892128
+- https://openalex.org/W3093580068
+- https://openalex.org/W3093870883
+- https://openalex.org/W3095756502
+- https://openalex.org/W3095979265
+- https://openalex.org/W3098082315
+- https://openalex.org/W3101637138
+- https://openalex.org/W3109941885
+- https://openalex.org/W3111040207
+- https://openalex.org/W3111061871
+- https://openalex.org/W3111998353
+- https://openalex.org/W3113870191
+- https://openalex.org/W3115880421
+- https://openalex.org/W3119469884
+- https://openalex.org/W3119828688
+- https://openalex.org/W3120325003
+- https://openalex.org/W3121637965
+- https://openalex.org/W3125686427
+- https://openalex.org/W3125962248
+- https://openalex.org/W3127297057
+- https://openalex.org/W3127752093
+- https://openalex.org/W3128829971
+- https://openalex.org/W3130247302
+- https://openalex.org/W3134317695
+- https://openalex.org/W3134512236
+- https://openalex.org/W3135786788
+- https://openalex.org/W3136001083
+- https://openalex.org/W3136866291
+- https://openalex.org/W3137099831
+- https://openalex.org/W3137947769
+- https://openalex.org/W3139254702
+- https://openalex.org/W3139393421
+- https://openalex.org/W3151678771
+- https://openalex.org/W3154334021
+- https://openalex.org/W3155911001
+- https://openalex.org/W3156071777
+- https://openalex.org/W3157318597
+- https://openalex.org/W3157630266
+- https://openalex.org/W3160763211
+- https://openalex.org/W3161900768
+- https://openalex.org/W3164191036
+- https://openalex.org/W3165502800
+- https://openalex.org/W3165715864
+- https://openalex.org/W3172035218
+- https://openalex.org/W3175727154
+- https://openalex.org/W3176932752
+- https://openalex.org/W3183478123
+- https://openalex.org/W3183674739
+- https://openalex.org/W3183907471
+- https://openalex.org/W3184353108
+- https://openalex.org/W3191119400
+- https://openalex.org/W3191892998
+- https://openalex.org/W3199356278
+- https://openalex.org/W3199889345
+- https://openalex.org/W3205700338
+- https://openalex.org/W3207571434
+- https://openalex.org/W3209371735
+- https://openalex.org/W3212381356
+- https://openalex.org/W3215208697
+- https://openalex.org/W3216312149
+- https://openalex.org/W3216727837
+- https://openalex.org/W4214672693
+- https://openalex.org/W4220804340
+- https://openalex.org/W4221089965
+- https://openalex.org/W4221137449
+- https://openalex.org/W4221137519
+- https://openalex.org/W4226324070
+- https://openalex.org/W4245100863
+- https://openalex.org/W4246488417
+primary_topic: Cancer-related molecular mechanisms research
+open_access: true

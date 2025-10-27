@@ -1,0 +1,1032 @@
+id: https://openalex.org/W3014294089
+doi: https://doi.org/10.1001/jama.2020.5394
+title: Baseline Characteristics and Outcomes of 1591 Patients Infected With SARS-CoV-2
+  Admitted to ICUs of the Lombardy Region, Italy
+publication_date: '2020-04-06'
+publication_year: 2020
+cited_by_count: 5507
+citation_percentile: 0.999954
+pagerank: 5.299183799915475e-06
+authorships:
+- author_id: https://openalex.org/A5071689481
+  display_name: Giacomo Grasselli
+  orcid: https://orcid.org/0000-0002-1735-1400
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2803066834
+    display_name: Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico
+    ror: https://ror.org/016zn0y21
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I189158943
+    display_name: University of Milan
+    ror: https://ror.org/00wjc7c48
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathophysiology and Transplantation, University of Milan, Milan,
+    Italy
+  - Dipartimento di Anestesia, Rianimazione ed Emergenza-Urgenza, Fondazione IRCCS
+    Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy
+- author_id: https://openalex.org/A5072968608
+  display_name: Alberto Zangrillo
+  orcid: https://orcid.org/0000-0002-7687-7648
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154387261
+    display_name: Vita-Salute San Raffaele University
+    ror: https://ror.org/01gmqr298
+    country_code: IT
+    type: education
+  - id: https://openalex.org/I4210153126
+    display_name: Istituti di Ricovero e Cura a Carattere Scientifico
+    ror: https://ror.org/04tfzc498
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I4387155925
+    display_name: Istituto di Ricovero e Cura a Carattere Scientifico San Raffaele
+    ror: https://ror.org/006x48140
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesia and Intensive Care, IRCCS San Raffaele Scientific Institute,
+    Milan, Italy
+  - Vita-Salute San Raffaele University Milan, Italy
+- author_id: https://openalex.org/A5025253171
+  display_name: Alberto Zanella
+  orcid: https://orcid.org/0000-0002-2967-2527
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2803066834
+    display_name: Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico
+    ror: https://ror.org/016zn0y21
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I189158943
+    display_name: University of Milan
+    ror: https://ror.org/00wjc7c48
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathophysiology and Transplantation, University of Milan, Milan,
+    Italy
+  - Dipartimento di Anestesia, Rianimazione ed Emergenza-Urgenza, Fondazione IRCCS
+    Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy
+- author_id: https://openalex.org/A5030961669
+  display_name: Massimo Antonelli
+  orcid: https://orcid.org/0000-0003-3007-1670
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802557943
+    display_name: Agostino Gemelli University Polyclinic
+    ror: https://ror.org/00rg70c39
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I103320735
+    display_name: "Universit\xE0 Cattolica del Sacro Cuore"
+    ror: https://ror.org/03h7r5v07
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesiology, Intensive Care and Emergency Medicine, Fondazione
+    Policlinico Universitario A. Gemelli IRCCS, Rome, Italy
+  - "Universit\xE0 Cattolica del Sacro Cuore, Rome, Italy"
+- author_id: https://openalex.org/A5109339573
+  display_name: Luca Cabrini
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801668426
+    display_name: Ospedale di Circolo e Fondazione Macchi
+    ror: https://ror.org/02s6h0431
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I115752224
+    display_name: University of Insubria
+    ror: https://ror.org/00s409261
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE0 degli Studi dell'Insubria and Azienda Ospedaliera Ospedale di Circolo\
+    \ e Fondazione Macchi, Varese, Italy"
+- author_id: https://openalex.org/A5108125159
+  display_name: Antonio Castelli
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156709
+    display_name: ASST Fatebenefratelli Sacco
+    ror: https://ror.org/05dy5ab02
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I189158943
+    display_name: University of Milan
+    ror: https://ror.org/00wjc7c48
+    country_code: IT
+    type: funder
+  - id: https://openalex.org/I4210087773
+    display_name: Luigi Sacco Hospital
+    ror: https://ror.org/0025g8755
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesiology and Intensive Care, ASST Fatebenefratelli Sacco,
+    Luigi Sacco Hospital, Polo Universitario, University of Milan, Milan, Italy
+- author_id: https://openalex.org/A5020775499
+  display_name: Danilo Cereda
+  orcid: https://orcid.org/0000-0001-5945-5710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154780
+    display_name: Regione Lombardia
+    ror: https://ror.org/020dw9k11
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DG Welfare, Lombardy Region, Milan, Italy
+- author_id: https://openalex.org/A5077530540
+  display_name: Antonio Coluccello
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165579
+    display_name: Istituti Ospitalieri di Cremona
+    ror: https://ror.org/05w07vs91
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I4396570609
+    display_name: Azienda Socio Sanitaria Territoriale di Cremona
+    ror: https://ror.org/02h6t3w06
+    country_code: null
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesiology and Intensive Care, ASST Cremona - Ospedale di Cremona,
+    Cremona, Italy
+- author_id: https://openalex.org/A5108042923
+  display_name: Giuseppe Foti
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125663
+    display_name: ASST Melegnano e della Martesana
+    ror: https://ror.org/03mgygf96
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I66752286
+    display_name: University of Milano-Bicocca
+    ror: https://ror.org/01ynf4891
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesia and Intensive Care Medicine, ASST Monza, Monza, Italy
+  - School of Medicine and Surgery, University of Milano-Bicocca, Monza, Italy
+- author_id: https://openalex.org/A5049643248
+  display_name: Roberto Fumagalli
+  orcid: https://orcid.org/0000-0003-0398-1329
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I66752286
+    display_name: University of Milano-Bicocca
+    ror: https://ror.org/01ynf4891
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Medicine and Surgery, University of Milano-Bicocca, Monza, Italy
+- author_id: https://openalex.org/A5011909300
+  display_name: Giorgio Antonio Iotti
+  orcid: https://orcid.org/0000-0003-0305-8921
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I25217355
+    display_name: University of Pavia
+    ror: https://ror.org/00s6t1f81
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anaesthesia and Intensive Care Unit, IRCCS San Matteo Hospital and
+    University of Pavia, Pavia, Italy
+- author_id: https://openalex.org/A5017639441
+  display_name: Nicola Latronico
+  orcid: https://orcid.org/0000-0002-2521-5871
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210103289
+    display_name: Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia
+    ror: https://ror.org/015rhss58
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I79940851
+    display_name: University of Brescia
+    ror: https://ror.org/02q2d2610
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anaesthesiology, Intensive Care and Perioperative Medicine, Spedali
+    Civili University Hospital, Brescia, Italy
+  - Department of Medical and Surgical Specialties, Radiological Sciences, and Public
+    Health, University of Brescia, Brescia, Italy
+- author_id: https://openalex.org/A5046599768
+  display_name: Ferdinando Luca Lorini
+  orcid: https://orcid.org/0000-0002-2711-3377
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106645
+    display_name: Ospedale Papa Giovanni XXIII
+    ror: https://ror.org/01savtv33
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anaesthesia and Intensive Care, ASST Papa Giovanni XXIII, Bergamo,
+    Italy
+- author_id: https://openalex.org/A5090606361
+  display_name: Stefano Merler
+  orcid: https://orcid.org/0000-0002-5117-0611
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2277624104
+    display_name: Fondazione Bruno Kessler
+    ror: https://ror.org/01j33xk10
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bruno Kessler Foundation, Trento, Italy
+- author_id: https://openalex.org/A5001632921
+  display_name: Giuseppe Natalini
+  orcid: https://orcid.org/0000-0002-0408-1966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210148231
+    display_name: Fondazione Poliambulanza Istituto Ospedaliero
+    ror: https://ror.org/03kt3v622
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesia and Intensive Care, Fondazione Poliambulanza Hospital,
+    Brescia, Italy
+- author_id: https://openalex.org/A5067138947
+  display_name: Alessandra Piatti
+  orcid: https://orcid.org/0000-0003-0788-2600
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801668426
+    display_name: Ospedale di Circolo e Fondazione Macchi
+    ror: https://ror.org/02s6h0431
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I115752224
+    display_name: University of Insubria
+    ror: https://ror.org/00s409261
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE0 degli Studi dell'Insubria and Azienda Ospedaliera Ospedale di Circolo\
+    \ e Fondazione Macchi, Varese, Italy"
+- author_id: https://openalex.org/A5103897215
+  display_name: Marco Vito Ranieri
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I9360294
+    display_name: University of Bologna
+    ror: https://ror.org/01111rn36
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Anesthesia and Intensive Care Medicine, Policlinico di Sant'Orsola, Alma Mater
+    Studiorum University of Bologna, Bologna, Italy
+- author_id: https://openalex.org/A5016891339
+  display_name: Anna Mara Scandroglio
+  orcid: https://orcid.org/0000-0003-0639-8227
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154387261
+    display_name: Vita-Salute San Raffaele University
+    ror: https://ror.org/01gmqr298
+    country_code: IT
+    type: education
+  - id: https://openalex.org/I4210153126
+    display_name: Istituti di Ricovero e Cura a Carattere Scientifico
+    ror: https://ror.org/04tfzc498
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I4387155925
+    display_name: Istituto di Ricovero e Cura a Carattere Scientifico San Raffaele
+    ror: https://ror.org/006x48140
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesia and Intensive Care, IRCCS San Raffaele Scientific Institute,
+    Milan, Italy
+- author_id: https://openalex.org/A5025079145
+  display_name: Enrico Storti
+  orcid: https://orcid.org/0000-0001-7525-162X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Dipartimento Emergenza Urgenza, UOC Anestesia e Rianimazione, ASST, Lodi, Italy
+- author_id: https://openalex.org/A5086871368
+  display_name: Maurizio Cecconi
+  orcid: https://orcid.org/0000-0002-4376-6538
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1339471597
+    display_name: Humanitas University
+    ror: https://ror.org/020dggs04
+    country_code: IT
+    type: funder
+  - id: https://openalex.org/I4210153126
+    display_name: Istituti di Ricovero e Cura a Carattere Scientifico
+    ror: https://ror.org/04tfzc498
+    country_code: IT
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Anaesthesia and Intensive Care Medicine, Humanitas Clinical and
+    Research Centre-IRCCS, Rozzano, Milan, Italy
+  - Humanitas University, Milan, Italy
+- author_id: https://openalex.org/A5029089981
+  display_name: Antonio Artigas
+  orcid: https://orcid.org/0000-0002-8029-1017
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2803066834
+    display_name: Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico
+    ror: https://ror.org/016zn0y21
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I189158943
+    display_name: University of Milan
+    ror: https://ror.org/00wjc7c48
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathophysiology and Transplantation, University of Milan, Milan,
+    Italy
+  - Dipartimento di Anestesia, Rianimazione ed Emergenza-Urgenza, Fondazione IRCCS
+    Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy
+- author_id: https://openalex.org/A5066371560
+  display_name: Emiliano Agosteo
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5054463616
+  display_name: Valentina Alaimo
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5060971342
+  display_name: Giovanni Albano
+  orcid: https://orcid.org/0009-0001-0062-5057
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5111863142
+  display_name: A. Albertin
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5045582100
+  display_name: Armando Alborghetti
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5008524507
+  display_name: Giorgio Aldegheri
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5049541386
+  display_name: Benvenuto Antonini
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5036049693
+  display_name: Enrico Barbara
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5060027701
+  display_name: Nicolangela Belgiorno
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5081578680
+  display_name: Mirko Belliato
+  orcid: https://orcid.org/0000-0002-3411-6293
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5012794482
+  display_name: Annalisa Benini
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5077016068
+  display_name: Enrico Beretta
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5028130138
+  display_name: Leonardo Bianciardi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5065171279
+  display_name: Stefano Bonazzi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5091178799
+  display_name: Massimo Borelli
+  orcid: https://orcid.org/0000-0002-6461-6563
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5020259789
+  display_name: Enrico Boselli
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5075452512
+  display_name: Nicola Bronzini
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5018628025
+  display_name: Carlo Capra
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5109479430
+  display_name: Livio Carnevale
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5106134186
+  display_name: Giampaolo Casella
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5021987683
+  display_name: Gianpaolo Castelli
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5000717557
+  display_name: E Catena
+  orcid: https://orcid.org/0000-0002-6948-8089
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5060101925
+  display_name: Sergio Cattaneo
+  orcid: https://orcid.org/0000-0001-8313-508X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5068843581
+  display_name: Davide Chiumello
+  orcid: https://orcid.org/0000-0001-9260-3930
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5021135117
+  display_name: Silvia Cirri
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5088222616
+  display_name: Giuseppe Citerio
+  orcid: https://orcid.org/0000-0002-5374-3161
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5108127292
+  display_name: Sergio Colombo
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5076700436
+  display_name: Davide Coppini
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5003946443
+  display_name: Alberto Corona
+  orcid: https://orcid.org/0000-0003-2594-3278
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5112828453
+  display_name: Paolo Cortellazzi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5003410133
+  display_name: Elena Costantini
+  orcid: https://orcid.org/0000-0002-5452-7647
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5018207523
+  display_name: Remo Daniel Covello
+  orcid: https://orcid.org/0000-0002-6696-5361
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5000476605
+  display_name: Gianluca De Filippi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5053181827
+  display_name: Marco Poli
+  orcid: https://orcid.org/0000-0003-0824-378X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5069704154
+  display_name: Federica Mura
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5053835374
+  display_name: Giulia Evasi
+  orcid: https://orcid.org/0000-0002-5750-3384
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5089638738
+  display_name: Raquel Fernandez-Olmos
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5030557470
+  display_name: Andrea Forastieri Molinari
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5085187282
+  display_name: Marco Galletti
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5076417491
+  display_name: G Gallioli
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5044265851
+  display_name: Marco Gemma
+  orcid: https://orcid.org/0000-0002-9543-3831
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5060886377
+  display_name: Paolo Gnesin
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5088277199
+  display_name: Lorenzo Grazioli
+  orcid: https://orcid.org/0000-0001-9167-8551
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5081872852
+  display_name: Massimiliano Greco
+  orcid: https://orcid.org/0000-0003-1003-4637
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5038505861
+  display_name: Paolo Gritti
+  orcid: https://orcid.org/0000-0001-9870-1507
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5052666975
+  display_name: Paolo Grosso
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5026597862
+  display_name: Luca Guatteri
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5083476958
+  display_name: Davide Guzzon
+  orcid: https://orcid.org/0000-0002-2185-3593
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5063701275
+  display_name: Fabiola Harizay
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5012693371
+  display_name: Roberto Keim
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5028927302
+  display_name: Giovanni Landoni
+  orcid: https://orcid.org/0000-0002-8594-5980
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5045215148
+  display_name: "Thomas L\xE4nger"
+  orcid: https://orcid.org/0000-0002-9725-8520
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5102922660
+  display_name: Andrea Lombardo
+  orcid: https://orcid.org/0000-0002-9478-3231
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5058855967
+  display_name: Annalisa Malara
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5022455548
+  display_name: Elena Malpetti
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5033914691
+  display_name: Francesco Marino
+  orcid: https://orcid.org/0000-0002-7522-1911
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5107837687
+  display_name: Giovanni Marino
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5003688538
+  display_name: Maurizio Mazzoni
+  orcid: https://orcid.org/0000-0002-7384-5990
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5042038322
+  display_name: Guido Merli
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5043118167
+  display_name: Antonio Micucci
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5112897901
+  display_name: Francesco Mojoli
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5036448418
+  display_name: Stefano Muttini
+  orcid: https://orcid.org/0000-0003-1224-147X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5044994333
+  display_name: Adriana Nailescu
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5012262301
+  display_name: Mauro Panigada
+  orcid: https://orcid.org/0000-0003-4841-9794
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5047695329
+  display_name: Paolo Perazzo
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5026917715
+  display_name: Giovanni Battista Perego
+  orcid: https://orcid.org/0000-0001-8735-7851
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5064487545
+  display_name: Nicola Petrucci
+  orcid: https://orcid.org/0000-0002-0344-3478
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5102866766
+  display_name: Angelo Pezzi
+  orcid: https://orcid.org/0009-0003-9130-5554
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5014018414
+  display_name: Alessandro Protti
+  orcid: https://orcid.org/0000-0002-0172-6079
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5085991930
+  display_name: Danilo Radrizzani
+  orcid: https://orcid.org/0000-0001-5370-6929
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5023548974
+  display_name: Maurizio Raimondi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5007850230
+  display_name: Marco Ranucci
+  orcid: https://orcid.org/0000-0002-4915-3572
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5015773942
+  display_name: Frank Rasulo
+  orcid: https://orcid.org/0000-0002-7187-5168
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5047023598
+  display_name: Mario Riccio
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5064820645
+  display_name: Roberto J. Rona
+  orcid: https://orcid.org/0000-0003-3739-5571
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5004532883
+  display_name: Claudio Roscitano
+  orcid: https://orcid.org/0000-0002-2349-2947
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5068163933
+  display_name: Patrizia Ruggeri
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5039406216
+  display_name: Antonello Sala
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+- author_id: https://openalex.org/A5103960353
+  display_name: Giuseppe Sala
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - for the COVID-19 Lombardy ICU Network
+referenced_works:
+- https://openalex.org/W2158525457
+- https://openalex.org/W3001118548
+- https://openalex.org/W3005079553
+- https://openalex.org/W3008090866
+- https://openalex.org/W3008827533
+- https://openalex.org/W3009885589
+- https://openalex.org/W3011508296
+- https://openalex.org/W3011559677
+- https://openalex.org/W3014538785
+- https://openalex.org/W3033285830
+- https://openalex.org/W3165656738
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

@@ -1,0 +1,1176 @@
+id: https://openalex.org/W3022285953
+doi: https://doi.org/10.1038/s41586-020-2286-9
+title: A SARS-CoV-2 protein interaction map reveals targets for drug repurposing
+publication_date: '2020-04-30'
+publication_year: 2020
+cited_by_count: 4579
+citation_percentile: 0.999891
+pagerank: 3.0584012173554776e-06
+authorships:
+- author_id: https://openalex.org/A5053113013
+  display_name: David E. Gordon
+  orcid: https://orcid.org/0000-0001-7954-0306
+  author_position: first
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5043261925
+  display_name: "Gwendolyn \u039C. Jang"
+  orcid: https://orcid.org/0000-0001-7806-9874
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5051653899
+  display_name: Mehdi Bouhaddou
+  orcid: https://orcid.org/0000-0002-9526-1427
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5072655041
+  display_name: Jiewei Xu
+  orcid: https://orcid.org/0000-0002-8647-4172
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5016281633
+  display_name: Kirsten Obernier
+  orcid: https://orcid.org/0000-0002-4025-1299
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5041400773
+  display_name: Kris M. White
+  orcid: https://orcid.org/0000-0003-0889-0506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5002654936
+  display_name: "Matthew J. O\u2019Meara"
+  orcid: https://orcid.org/0000-0002-3128-5331
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computational Medicine and Bioinformatics, University of Michigan,
+    Ann Arbor, MI, USA
+- author_id: https://openalex.org/A5035783463
+  display_name: Veronica V. Rezelj
+  orcid: https://orcid.org/0000-0003-1571-8325
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5086055110
+  display_name: Jeffrey Guo
+  orcid: https://orcid.org/0000-0003-2857-9870
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5087550248
+  display_name: Danielle L. Swaney
+  orcid: https://orcid.org/0000-0001-6119-6084
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5006908002
+  display_name: Tia A. Tummino
+  orcid: https://orcid.org/0000-0001-9155-820X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5085235302
+  display_name: "Ruth H\xFCttenhain"
+  orcid: https://orcid.org/0000-0002-0896-5910
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5033570629
+  display_name: Robyn M. Kaake
+  orcid: https://orcid.org/0000-0002-8341-3067
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5080546161
+  display_name: Alicia Richards
+  orcid: https://orcid.org/0000-0002-4869-2945
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5005930950
+  display_name: Beril Tutuncuoglu
+  orcid: https://orcid.org/0000-0002-5458-2988
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5071840380
+  display_name: Helene Foussard
+  orcid: https://orcid.org/0000-0002-5063-113X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5041960960
+  display_name: Jyoti Batra
+  orcid: https://orcid.org/0000-0002-2335-0607
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5057340945
+  display_name: Kelsey M. Haas
+  orcid: https://orcid.org/0000-0002-1463-6726
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5047079775
+  display_name: Maya Modak
+  orcid: https://orcid.org/0000-0002-0670-6683
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5082312806
+  display_name: Minkyu Kim
+  orcid: https://orcid.org/0000-0001-9317-1658
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5072729152
+  display_name: Paige Haas
+  orcid: https://orcid.org/0000-0001-8303-457X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5077747543
+  display_name: Benjamin J. Polacco
+  orcid: https://orcid.org/0000-0003-1570-9234
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5053933707
+  display_name: Hannes Braberg
+  orcid: https://orcid.org/0000-0002-7070-2257
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5114074484
+  display_name: Jacqueline M. Fabius
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5032437409
+  display_name: Manon Eckhardt
+  orcid: https://orcid.org/0000-0001-8143-6129
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5025723984
+  display_name: Margaret Soucheray
+  orcid: https://orcid.org/0000-0002-0370-6653
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5034709520
+  display_name: Melanie J. Bennett
+  orcid: https://orcid.org/0000-0002-6293-8008
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5083826024
+  display_name: "Merve \xC7ak\u0131r"
+  orcid: https://orcid.org/0000-0003-1803-5693
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5043155983
+  display_name: Michael McGregor
+  orcid: https://orcid.org/0000-0001-5281-5736
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5011611587
+  display_name: Qiongyu Li
+  orcid: https://orcid.org/0000-0003-3654-0378
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5088389725
+  display_name: Bjoern Meyer
+  orcid: https://orcid.org/0000-0002-7903-5710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5054402382
+  display_name: Ferdinand Roesch
+  orcid: https://orcid.org/0000-0003-0702-7778
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5058370828
+  display_name: Thomas Vallet
+  orcid: https://orcid.org/0000-0001-7775-7448
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5056920600
+  display_name: Alice Mac Kain
+  orcid: https://orcid.org/0000-0002-5218-6690
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5071789149
+  display_name: Lisa Miorin
+  orcid: https://orcid.org/0000-0003-0989-3178
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5034393162
+  display_name: Elena Moreno
+  orcid: https://orcid.org/0000-0002-2301-4558
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5011083562
+  display_name: Zun Zar Chi Naing
+  orcid: https://orcid.org/0000-0002-6320-5084
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5071256143
+  display_name: Yuan Zhou
+  orcid: https://orcid.org/0000-0002-1393-5476
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5101858441
+  display_name: Shiming Peng
+  orcid: https://orcid.org/0000-0001-5830-243X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5101772235
+  display_name: Ying Shi
+  orcid: https://orcid.org/0000-0002-9263-4320
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5100357838
+  display_name: Ziyang Zhang
+  orcid: https://orcid.org/0000-0003-0541-7211
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5030981319
+  display_name: Wenqi Shen
+  orcid: https://orcid.org/0000-0002-8657-4931
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5033678312
+  display_name: Ilsa T. Kirby
+  orcid: https://orcid.org/0000-0001-6120-7011
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5046273752
+  display_name: James E. Melnyk
+  orcid: https://orcid.org/0000-0003-1915-8089
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5048732014
+  display_name: John S. Chorba
+  orcid: https://orcid.org/0000-0002-6397-6348
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5045027460
+  display_name: Kevin Lou
+  orcid: https://orcid.org/0000-0003-4939-4381
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5036687007
+  display_name: Shizhong Dai
+  orcid: https://orcid.org/0000-0001-9679-2353
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5042635343
+  display_name: "Inigo Barrio\u2010Hernandez"
+  orcid: https://orcid.org/0000-0002-5686-0451
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Cambridge, UK
+- author_id: https://openalex.org/A5018028692
+  display_name: Danish Memon
+  orcid: https://orcid.org/0000-0002-1365-0710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Cambridge, UK
+- author_id: https://openalex.org/A5055117156
+  display_name: "Claudia Hern\xE1ndez-Armenta"
+  orcid: https://orcid.org/0000-0003-1510-1253
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Molecular Biology Laboratory (EMBL), European Bioinformatics Institute,
+    Wellcome Genome Campus, Cambridge, UK
+- author_id: https://openalex.org/A5005823028
+  display_name: Jiankun Lyu
+  orcid: https://orcid.org/0000-0002-0461-5454
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5040648502
+  display_name: Christopher J.P. Mathy
+  orcid: https://orcid.org/0000-0002-5546-9733
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5048337860
+  display_name: Tina Perica
+  orcid: https://orcid.org/0000-0003-3152-8425
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5070380170
+  display_name: Kala Bharath Pilla
+  orcid: https://orcid.org/0000-0002-8327-1687
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5079823221
+  display_name: Sai J. Ganesan
+  orcid: https://orcid.org/0000-0002-8335-2866
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5009099884
+  display_name: Daniel J. Saltzberg
+  orcid: https://orcid.org/0000-0001-8641-6194
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5045998326
+  display_name: Ramachandran Rakesh
+  orcid: https://orcid.org/0000-0001-7196-5078
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5100632342
+  display_name: Liu Xi
+  orcid: https://orcid.org/0000-0002-2604-3194
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5065675756
+  display_name: Sara Brin Rosenthal
+  orcid: https://orcid.org/0000-0002-6548-9658
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Computational Biology and Bioinformatics, Department of Medicine, University
+    of California San Diego, San Diego, CA, USA
+- author_id: https://openalex.org/A5062544718
+  display_name: Lorenzo Calviello
+  orcid: https://orcid.org/0000-0002-5600-0988
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5088235616
+  display_name: Srivats Venkataramanan
+  orcid: https://orcid.org/0000-0002-2507-401X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5067497600
+  display_name: "Jos\xE9 Liboy-Lugo"
+  orcid: https://orcid.org/0000-0002-9997-2285
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5058623063
+  display_name: Yizhu Lin
+  orcid: https://orcid.org/0000-0002-6369-8077
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5089436626
+  display_name: "Xi\u2010Ping Huang"
+  orcid: https://orcid.org/0000-0002-2585-653X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pharmacology, University of North Carolina at Chapel Hill School
+    of Medicine, Chapel Hill, NC, USA
+- author_id: https://openalex.org/A5100630231
+  display_name: Yongfeng Liu
+  orcid: https://orcid.org/0000-0002-8649-7892
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pharmacology, University of North Carolina at Chapel Hill School
+    of Medicine, Chapel Hill, NC, USA
+- author_id: https://openalex.org/A5046728827
+  display_name: Stephanie A. Wankowicz
+  orcid: https://orcid.org/0000-0002-4225-7459
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantitative Biosciences Institute (QBI), University of California San Francisco,
+    San Francisco, CA, USA
+- author_id: https://openalex.org/A5077404683
+  display_name: "Markus\u2010Frederik Bohn"
+  orcid: https://orcid.org/0000-0002-0369-1922
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5065609905
+  display_name: Maliheh Safari
+  orcid: https://orcid.org/0000-0002-9511-6481
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5085396918
+  display_name: Fatima S. Ugur
+  orcid: https://orcid.org/0000-0002-0711-9042
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5061467634
+  display_name: Cassandra Koh
+  orcid: https://orcid.org/0000-0003-2466-6731
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5056466713
+  display_name: Nastaran Sadat Savar
+  orcid: https://orcid.org/0000-0003-2509-2127
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5021784087
+  display_name: Quang Tran
+  orcid: https://orcid.org/0000-0002-9263-0733
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5019871396
+  display_name: Djoshkun Shengjuler
+  orcid: https://orcid.org/0000-0002-6286-9727
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5016010348
+  display_name: Sabrina Johanna Fletcher
+  orcid: https://orcid.org/0000-0002-1371-9669
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Viral Populations and Pathogenesis Unit, CNRS UMR 3569, Institut Pasteur, Paris,
+    France
+- author_id: https://openalex.org/A5050972732
+  display_name: "Michael C. O\u2019Neal"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA, USA
+- author_id: https://openalex.org/A5057938987
+  display_name: Yiming Cai
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA, USA
+- author_id: https://openalex.org/A5056154892
+  display_name: Jason C. Chang
+  orcid: https://orcid.org/0000-0002-1705-1870
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA, USA
+- author_id: https://openalex.org/A5089438567
+  display_name: David Broadhurst
+  orcid: https://orcid.org/0000-0001-9816-115X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA, USA
+- author_id: https://openalex.org/A5008567873
+  display_name: Saker Klippsten
+  orcid: https://orcid.org/0000-0002-9749-6756
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Zoic Labs, Culver City, CA, USA
+- author_id: https://openalex.org/A5028002571
+  display_name: Phillip P. Sharp
+  orcid: https://orcid.org/0000-0003-4416-2303
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Pharmacology, University of California San
+    Francisco, San Francisco, CA, USA
+- author_id: https://openalex.org/A5077901651
+  display_name: Nicole A. Wenzell
+  orcid: https://orcid.org/0000-0002-8209-2249
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantitative Biosciences Institute (QBI), University of California San Francisco,
+    San Francisco, CA, USA
+- author_id: https://openalex.org/A5034512246
+  display_name: "Duygu Kuzuo\u011Flu\u2010\xD6zt\xFCrk"
+  orcid: https://orcid.org/0000-0003-1737-5020
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5011853599
+  display_name: "Hao\u2010Yuan Wang"
+  orcid: https://orcid.org/0000-0001-8490-8793
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantitative Biosciences Institute (QBI), University of California San Francisco,
+    San Francisco, CA, USA
+- author_id: https://openalex.org/A5003054273
+  display_name: Raphael Trenker
+  orcid: https://orcid.org/0000-0003-1748-0517
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5058847171
+  display_name: Janet M. Young
+  orcid: https://orcid.org/0000-0001-8220-8427
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle, WA,
+    USA
+- author_id: https://openalex.org/A5014996676
+  display_name: Devin A. Cavero
+  orcid: https://orcid.org/0000-0002-3830-6625
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5102959431
+  display_name: Joseph Hiatt
+  orcid: https://orcid.org/0000-0002-8015-9614
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5067971060
+  display_name: Theodore L. Roth
+  orcid: https://orcid.org/0000-0002-3970-9573
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5087874969
+  display_name: Ujjwal Rathore
+  orcid: https://orcid.org/0000-0002-0329-7431
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5077675438
+  display_name: Advait Subramanian
+  orcid: https://orcid.org/0000-0003-0557-9771
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantitative Biosciences Institute (QBI), University of California San Francisco,
+    San Francisco, CA, USA
+- author_id: https://openalex.org/A5055600834
+  display_name: Julia Noack
+  orcid: https://orcid.org/0000-0002-9113-8181
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5090374054
+  display_name: Mathieu Hubert
+  orcid: https://orcid.org/0000-0002-2190-0177
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Virus and Immunity Unit, Institut Pasteur, Paris, France
+- author_id: https://openalex.org/A5011428136
+  display_name: Robert M. Stroud
+  orcid: https://orcid.org/0000-0003-2083-5665
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantitative Biosciences Institute (QBI), University of California San Francisco,
+    San Francisco, CA, USA
+- author_id: https://openalex.org/A5011890947
+  display_name: Alan D. Frankel
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5048039251
+  display_name: Oren S. Rosenberg
+  orcid: https://orcid.org/0000-0002-5736-4388
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantitative Biosciences Institute (QBI), University of California San Francisco,
+    San Francisco, CA, USA
+- author_id: https://openalex.org/A5052608216
+  display_name: Kliment A. Verba
+  orcid: https://orcid.org/0000-0002-2238-8590
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantitative Biosciences Institute (QBI), University of California San Francisco,
+    San Francisco, CA, USA
+- author_id: https://openalex.org/A5081416783
+  display_name: David A. Agard
+  orcid: https://orcid.org/0000-0003-3512-695X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5068579765
+  display_name: "M\xE9lanie Ott"
+  orcid: https://orcid.org/0000-0002-5697-1274
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QBI COVID-19 Research Group (QCRG), San Francisco, CA, USA
+- author_id: https://openalex.org/A5051442994
+  display_name: Michael Emerman
+  orcid: https://orcid.org/0000-0002-4181-6335
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA,
+    USA
+- author_id: https://openalex.org/A5026237036
+  display_name: Natalia Jura
+  orcid: https://orcid.org/0000-0001-5129-641X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210098931
+    display_name: Quantitative BioSciences
+    ror: https://ror.org/010brsj79
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantitative Biosciences Institute (QBI), University of California San Francisco,
+    San Francisco, CA, USA
+referenced_works:
+- https://openalex.org/W1611787727
+- https://openalex.org/W1715451660
+- https://openalex.org/W1757990252
+- https://openalex.org/W1964015794
+- https://openalex.org/W1971214320
+- https://openalex.org/W1979404155
+- https://openalex.org/W1982352150
+- https://openalex.org/W1982559408
+- https://openalex.org/W1984620273
+- https://openalex.org/W1986533523
+- https://openalex.org/W1996076856
+- https://openalex.org/W2011766905
+- https://openalex.org/W2023010129
+- https://openalex.org/W2023124677
+- https://openalex.org/W2029476353
+- https://openalex.org/W2034475831
+- https://openalex.org/W2038062029
+- https://openalex.org/W2058835307
+- https://openalex.org/W2060295594
+- https://openalex.org/W2076194625
+- https://openalex.org/W2080752012
+- https://openalex.org/W2083897424
+- https://openalex.org/W2123647733
+- https://openalex.org/W2125525438
+- https://openalex.org/W2127322768
+- https://openalex.org/W2131417105
+- https://openalex.org/W2133416744
+- https://openalex.org/W2133422078
+- https://openalex.org/W2148043260
+- https://openalex.org/W2151581834
+- https://openalex.org/W2152770371
+- https://openalex.org/W2153593258
+- https://openalex.org/W2156948997
+- https://openalex.org/W2158812536
+- https://openalex.org/W2159675211
+- https://openalex.org/W2160678789
+- https://openalex.org/W2170776626
+- https://openalex.org/W2171167766
+- https://openalex.org/W2171291163
+- https://openalex.org/W2196232857
+- https://openalex.org/W2242410361
+- https://openalex.org/W2256756668
+- https://openalex.org/W2306794997
+- https://openalex.org/W2431193407
+- https://openalex.org/W2518706921
+- https://openalex.org/W2537132940
+- https://openalex.org/W2558999090
+- https://openalex.org/W2559991600
+- https://openalex.org/W2742420066
+- https://openalex.org/W2758094822
+- https://openalex.org/W2771361969
+- https://openalex.org/W2784155653
+- https://openalex.org/W2885573416
+- https://openalex.org/W2886432125
+- https://openalex.org/W2886931860
+- https://openalex.org/W2896681387
+- https://openalex.org/W2898402099
+- https://openalex.org/W2904824676
+- https://openalex.org/W2912990441
+- https://openalex.org/W2919573452
+- https://openalex.org/W2949926789
+- https://openalex.org/W2950512597
+- https://openalex.org/W2953394889
+- https://openalex.org/W2953886398
+- https://openalex.org/W2954467291
+- https://openalex.org/W2986115017
+- https://openalex.org/W2992289201
+- https://openalex.org/W3000413850
+- https://openalex.org/W3001038414
+- https://openalex.org/W3001465255
+- https://openalex.org/W3001897055
+- https://openalex.org/W3003217347
+- https://openalex.org/W3003464757
+- https://openalex.org/W3003637715
+- https://openalex.org/W3006476224
+- https://openalex.org/W3008491765
+- https://openalex.org/W3009584253
+- https://openalex.org/W3009912996
+- https://openalex.org/W3014708904
+- https://openalex.org/W3026002191
+- https://openalex.org/W311927316
+- https://openalex.org/W3217730596
+- https://openalex.org/W4243979784
+primary_topic: Computational Drug Discovery Methods
+open_access: true

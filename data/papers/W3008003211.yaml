@@ -1,0 +1,468 @@
+id: https://openalex.org/W3008003211
+doi: https://doi.org/10.1038/s41592-020-0772-5
+title: 'Author Correction: SciPy 1.0: fundamental algorithms for scientific computing
+  in Python'
+publication_date: '2020-02-24'
+publication_year: 2020
+cited_by_count: 1303
+citation_percentile: 0.988024
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5064221962
+  display_name: Pauli Virtanen
+  orcid: https://orcid.org/0000-0001-9957-1257
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I94722563
+    display_name: "University of Jyv\xE4skyl\xE4"
+    ror: https://ror.org/05n3dz165
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "University of Jyv\xE4skyl\xE4, Jyv\xE4skyl\xE4, Finland"
+- author_id: https://openalex.org/A5047155247
+  display_name: Ralf Gommers
+  orcid: https://orcid.org/0000-0002-0300-3333
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098317
+    display_name: Quansight (United States)
+    ror: https://ror.org/00zeq0353
+    country_code: US
+    type: company
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Quansight LLC, Austin, TX, USA
+- author_id: https://openalex.org/A5019360202
+  display_name: Travis E. Oliphant
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210121859
+    display_name: Enthought (United States)
+    ror: https://ror.org/02xfc1977
+    country_code: US
+    type: company
+  - id: https://openalex.org/I100005738
+    display_name: Brigham Young University
+    ror: https://ror.org/047rhhm47
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Electrical Engineering, Brigham Young University, Provo, UT, USA
+  - Enthought, Inc., Austin, TX, USA
+  - Ultrasound Imaging, Mayo Clinic, Rochester, MN, USA
+- author_id: https://openalex.org/A5047018985
+  display_name: Matt Haberland
+  orcid: https://orcid.org/0000-0003-4806-3601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I149919469
+    display_name: California Polytechnic State University
+    ror: https://ror.org/001gpfp45
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - BioResource and Agricultural Engineering Department, California Polytechnic State
+    University, San Luis Obispo, CA, USA
+  - Department of Mathematics, University of California Los Angeles, Los Angeles,
+    CA, USA
+- author_id: https://openalex.org/A5061717074
+  display_name: Tyler Reddy
+  orcid: https://orcid.org/0000-0003-2364-6157
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343871089
+    display_name: Los Alamos National Laboratory
+    ror: https://ror.org/01e41cf67
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Los Alamos National Laboratory, Los Alamos, NM, USA
+- author_id: https://openalex.org/A5023051838
+  display_name: David Cournapeau
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent researcher, Tokyo, Japan
+- author_id: https://openalex.org/A5030454460
+  display_name: Evgeni Burovski
+  orcid: https://orcid.org/0000-0001-8149-0483
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I118501908
+    display_name: National Research University Higher School of Economics
+    ror: https://ror.org/055f7t516
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Higher School of Economics, Moscow, Russia
+- author_id: https://openalex.org/A5051733624
+  display_name: Pearu Peterson
+  orcid: https://orcid.org/0000-0001-7328-4305
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111112146
+    display_name: Tallinn University of Technology
+    ror: https://ror.org/0443cwa12
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mechanics and Applied Mathematics, Institute of Cybernetics at Tallinn
+    Technical University, Tallinn, Estonia
+  - Independent researcher, Saue, Estonia
+- author_id: https://openalex.org/A5050562889
+  display_name: Warren Weckesser
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Berkeley Institute for Data Science, University of California Berkeley, Berkeley,
+    CA, USA
+- author_id: https://openalex.org/A5012506346
+  display_name: Jonathan Bright
+  orcid: https://orcid.org/0000-0001-5348-3374
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent researcher, New York, NY, USA
+- author_id: https://openalex.org/A5070493940
+  display_name: "St\xE9fan van der Walt"
+  orcid: https://orcid.org/0000-0001-9276-1891
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Berkeley Institute for Data Science, University of California Berkeley, Berkeley,
+    CA, USA
+- author_id: https://openalex.org/A5047540997
+  display_name: Matthew Brett
+  orcid: https://orcid.org/0000-0003-3715-7143
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79619799
+    display_name: University of Birmingham
+    ror: https://ror.org/03angcq70
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Psychology, University of Birmingham, Edgbaston, Birmingham, UK
+- author_id: https://openalex.org/A5065781964
+  display_name: Joshua Wilson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121988
+    display_name: Film Independent
+    ror: https://ror.org/036cy3843
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent researcher, San Francisco, CA, USA
+- author_id: https://openalex.org/A5086174915
+  display_name: K. Jarrod Millman
+  orcid: https://orcid.org/0000-0002-5263-5070
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Berkeley Institute for Data Science, University of California Berkeley, Berkeley,
+    CA, USA
+- author_id: https://openalex.org/A5075392500
+  display_name: Nikolay Mayorov
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165827
+    display_name: Skolkovo Foundation
+    ror: https://ror.org/05qj99v29
+    country_code: RU
+    type: nonprofit
+  - id: https://openalex.org/I4210128657
+    display_name: WayRay (Russia)
+    ror: https://ror.org/03nrpad60
+    country_code: RU
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - WayRay LLC, Skolkovo Innovation Center, Moscow, Russia
+- author_id: https://openalex.org/A5091153242
+  display_name: Andrew Nelson
+  orcid: https://orcid.org/0000-0002-4548-3558
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334950195
+    display_name: Australian Nuclear Science and Technology Organisation
+    ror: https://ror.org/05j7fep28
+    country_code: AU
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Australian Nuclear Science and Technology Organisation, Lucas Heights, NSW, Australia
+- author_id: https://openalex.org/A5077773401
+  display_name: Eric D. Jones
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121859
+    display_name: Enthought (United States)
+    ror: https://ror.org/02xfc1977
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Enthought, Inc., Austin, TX, USA
+- author_id: https://openalex.org/A5085464473
+  display_name: Robert Kern
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121859
+    display_name: Enthought (United States)
+    ror: https://ror.org/02xfc1977
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Enthought, Inc., Austin, TX, USA
+- author_id: https://openalex.org/A5082046729
+  display_name: Eric R. Larson
+  orcid: https://orcid.org/0000-0002-9232-5907
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Learning and Brain Sciences, University of Washington, Seattle,
+    WA, USA
+- author_id: https://openalex.org/A5061906525
+  display_name: CJ Carey
+  orcid: https://orcid.org/0009-0009-9812-0177
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177605424
+    display_name: Amherst College
+    ror: https://ror.org/028vqfs63
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I24603500
+    display_name: University of Massachusetts Amherst
+    ror: https://ror.org/0072zz521
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Information and Computing Sciences, University of Massachusetts Amherst,
+    Amherst, MA, USA
+- author_id: https://openalex.org/A5080794898
+  display_name: "\u0130lhan Polat"
+  orcid: https://orcid.org/0000-0003-0096-7409
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent researcher, Amsterdam, the Netherlands
+- author_id: https://openalex.org/A5071856444
+  display_name: Yu Feng
+  orcid: https://orcid.org/0000-0001-9068-3746
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Berkeley Center for Cosmological Physics, University of California Berkeley, Berkeley,
+    CA, USA
+- author_id: https://openalex.org/A5075055543
+  display_name: Eric Moore
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193170854
+    display_name: Bruker (United States)
+    ror: https://ror.org/04r739x86
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bruker Biospin Corp., Billerica, MA, USA
+- author_id: https://openalex.org/A5038304150
+  display_name: Jake Vanderplas
+  orcid: https://orcid.org/0000-0002-9623-3401
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, WA, USA
+- author_id: https://openalex.org/A5042747703
+  display_name: Denis Laxalde
+  orcid: https://orcid.org/0000-0002-5540-4825
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent researcher, Toulouse, France
+- author_id: https://openalex.org/A5041158660
+  display_name: Josef Perktold
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent researcher, Montreal, Quebec, Canada
+- author_id: https://openalex.org/A5062280718
+  display_name: Robert Cimrman
+  orcid: https://orcid.org/0000-0002-2660-545X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92715842
+    display_name: University of West Bohemia
+    ror: https://ror.org/040t43x18
+    country_code: CZ
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "New Technologies Research Centre, University of West Bohemia, Plze\u0148, Czech\
+    \ Republic"
+- author_id: https://openalex.org/A5056877945
+  display_name: Ian Henriksen
+  orcid: https://orcid.org/0000-0002-2053-7265
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I86519309
+    display_name: The University of Texas at Austin
+    ror: https://ror.org/00hj54h04
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I100005738
+    display_name: Brigham Young University
+    ror: https://ror.org/047rhhm47
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, Brigham Young University, Provo, UT, USA
+  - Oden Institute for Computational Engineering and Sciences, The University of Texas
+    at Austin, Austin, TX, USA
+- author_id: https://openalex.org/A5035978609
+  display_name: E. A. Quintero
+  orcid: https://orcid.org/0000-0002-4269-3445
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent researcher, Belmont, Massachusetts, USA
+- author_id: https://openalex.org/A5111383725
+  display_name: C. R. Harris
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4388482684
+    display_name: Utah State University Space Dynamics Laboratory
+    ror: https://ror.org/02w403h65
+    country_code: null
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent researcher, Logan, Utah, USA
+  - Space Dynamics Laboratory, North Logan, UT, USA
+- author_id: https://openalex.org/A5030889135
+  display_name: Anne M. Archibald
+  orcid: https://orcid.org/0000-0003-0638-3340
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Anton Pannekoek Institute, Amsterdam, The Netherlands
+- author_id: https://openalex.org/A5000836300
+  display_name: "Ant\xF4nio H. Ribeiro"
+  orcid: https://orcid.org/0000-0003-3632-8529
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I110200422
+    display_name: Universidade Federal de Minas Gerais
+    ror: https://ror.org/0176yjw32
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate Program in Electrical Engineering, Universidade Federal de Minas Gerais,
+    Belo Horizonte, Brazil
+- author_id: https://openalex.org/A5108143968
+  display_name: Fabian Pedregosa
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210148186
+    display_name: Google (Canada)
+    ror: https://ror.org/04d06q394
+    country_code: CA
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google LLC, Montreal, Quebec, Canada
+- author_id: https://openalex.org/A5020300027
+  display_name: Paul van Mulbregt
+  orcid: https://orcid.org/0000-0002-2382-8308
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google LLC, Cambridge, MA, USA
+referenced_works: []
+primary_topic: Computational Physics and Python Applications
+open_access: true

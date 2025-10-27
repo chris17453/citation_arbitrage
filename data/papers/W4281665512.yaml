@@ -1,0 +1,347 @@
+id: https://openalex.org/W4281665512
+doi: https://doi.org/10.1038/s41592-022-01507-1
+title: 'TrackMate 7: integrating state-of-the-art segmentation algorithms into tracking
+  pipelines'
+publication_date: '2022-06-02'
+publication_year: 2022
+cited_by_count: 817
+citation_percentile: 0.999493
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5077283962
+  display_name: Dmitry Ershov
+  orcid: https://orcid.org/0000-0002-1254-3307
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pasteur, Universit\xE9 de Paris Cit\xE9, Image Analysis Hub, Paris,\
+    \ France"
+- author_id: https://openalex.org/A5040928183
+  display_name: Minh-Son Phan
+  orcid: https://orcid.org/0000-0002-9916-1351
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pasteur, Universit\xE9 de Paris Cit\xE9, Image Analysis Hub, Paris,\
+    \ France"
+- author_id: https://openalex.org/A5016286615
+  display_name: "Joanna W. Pylv\xE4n\xE4inen"
+  orcid: https://orcid.org/0000-0002-3540-5150
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I155660961
+    display_name: University of Turku
+    ror: https://ror.org/05vghhr25
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I130217899
+    display_name: "\xC5bo Akademi University"
+    ror: https://ror.org/029pk6x14
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I183173800
+    display_name: Turku Centre for Computer Science
+    ror: https://ror.org/00vy7ed73
+    country_code: FI
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Turku Bioscience Centre, University of Turku and \xC5bo Akademi University, Turku,\
+    \ Finland"
+- author_id: https://openalex.org/A5003204174
+  display_name: "St\xE9phane Rigaud"
+  orcid: https://orcid.org/0000-0003-2161-0927
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pasteur, Universit\xE9 de Paris Cit\xE9, Image Analysis Hub, Paris,\
+    \ France"
+- author_id: https://openalex.org/A5001940740
+  display_name: Laure Le Blanc
+  orcid: https://orcid.org/0000-0003-3725-5480
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154534
+    display_name: "Pathogen\xE8se des infections vasculaires"
+    ror: https://ror.org/00gjnk018
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pasteur, Universit\xE9 Paris Cit\xE9, INSERM UMR1225, Pathogenesis of\
+    \ Vascular Infections unit, Paris, France"
+- author_id: https://openalex.org/A5074051973
+  display_name: "Arthur Charles\u2010Orszag"
+  orcid: https://orcid.org/0000-0002-5185-4124
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154534
+    display_name: "Pathogen\xE8se des infections vasculaires"
+    ror: https://ror.org/00gjnk018
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pasteur, Universit\xE9 Paris Cit\xE9, INSERM UMR1225, Pathogenesis of\
+    \ Vascular Infections unit, Paris, France"
+- author_id: https://openalex.org/A5035661681
+  display_name: James R. W. Conway
+  orcid: https://orcid.org/0000-0003-3787-277X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183173800
+    display_name: Turku Centre for Computer Science
+    ror: https://ror.org/00vy7ed73
+    country_code: FI
+    type: facility
+  - id: https://openalex.org/I155660961
+    display_name: University of Turku
+    ror: https://ror.org/05vghhr25
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I130217899
+    display_name: "\xC5bo Akademi University"
+    ror: https://ror.org/029pk6x14
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Turku Bioscience Centre, University of Turku and \xC5bo Akademi University, Turku,\
+    \ Finland"
+- author_id: https://openalex.org/A5064880624
+  display_name: Romain F. Laine
+  orcid: https://orcid.org/0000-0002-2151-4487
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093127
+    display_name: MRC Laboratory for Molecular Cell Biology
+    ror: https://ror.org/00fv61j67
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Laboratory for Molecular Cell Biology, University College London, London,
+    UK
+- author_id: https://openalex.org/A5083622842
+  display_name: Nathan H. Roy
+  orcid: https://orcid.org/0000-0003-1229-2808
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20388574
+    display_name: SUNY Upstate Medical University
+    ror: https://ror.org/040kfrw16
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Immunology, SUNY Upstate Medical University, Syracuse,
+    NY, USA
+- author_id: https://openalex.org/A5058829065
+  display_name: Daria Bonazzi
+  orcid: https://orcid.org/0000-0003-2046-7188
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154534
+    display_name: "Pathogen\xE8se des infections vasculaires"
+    ror: https://ror.org/00gjnk018
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pasteur, Universit\xE9 Paris Cit\xE9, INSERM UMR1225, Pathogenesis of\
+    \ Vascular Infections unit, Paris, France"
+- author_id: https://openalex.org/A5010198377
+  display_name: "Guillaume Dum\xE9nil"
+  orcid: https://orcid.org/0000-0001-9174-9110
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387154534
+    display_name: "Pathogen\xE8se des infections vasculaires"
+    ror: https://ror.org/00gjnk018
+    country_code: null
+    type: facility
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pasteur, Universit\xE9 Paris Cit\xE9, INSERM UMR1225, Pathogenesis of\
+    \ Vascular Infections unit, Paris, France"
+- author_id: https://openalex.org/A5004861283
+  display_name: Guillaume Jacquemet
+  orcid: https://orcid.org/0000-0002-9286-920X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130217899
+    display_name: "\xC5bo Akademi University"
+    ror: https://ror.org/029pk6x14
+    country_code: FI
+    type: funder
+  - id: https://openalex.org/I155660961
+    display_name: University of Turku
+    ror: https://ror.org/05vghhr25
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Turku Bioimaging, University of Turku and \xC5bo Akademi University, Turku, Finland"
+- author_id: https://openalex.org/A5068316606
+  display_name: "Jean\u2010Yves Tinevez"
+  orcid: https://orcid.org/0000-0002-0998-4718
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I157536573
+    display_name: Institut Pasteur
+    ror: https://ror.org/0495fxg12
+    country_code: FR
+    type: nonprofit
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut Pasteur, Universit\xE9 de Paris Cit\xE9, Image Analysis Hub, Paris,\
+    \ France"
+referenced_works:
+- https://openalex.org/W1484961445
+- https://openalex.org/W1515837216
+- https://openalex.org/W1973421894
+- https://openalex.org/W1980321600
+- https://openalex.org/W1997058721
+- https://openalex.org/W2016814816
+- https://openalex.org/W2103706175
+- https://openalex.org/W2114942154
+- https://openalex.org/W2129140439
+- https://openalex.org/W2141273399
+- https://openalex.org/W2143623375
+- https://openalex.org/W2167279371
+- https://openalex.org/W2168979150
+- https://openalex.org/W2181155873
+- https://openalex.org/W2467628122
+- https://openalex.org/W2529052661
+- https://openalex.org/W2583143604
+- https://openalex.org/W2601810315
+- https://openalex.org/W2740709913
+- https://openalex.org/W2758694956
+- https://openalex.org/W2777392833
+- https://openalex.org/W2806530968
+- https://openalex.org/W2810667939
+- https://openalex.org/W2811106513
+- https://openalex.org/W2937343562
+- https://openalex.org/W2946901414
+- https://openalex.org/W2975634117
+- https://openalex.org/W2980998394
+- https://openalex.org/W2984014186
+- https://openalex.org/W3000278514
+- https://openalex.org/W3097472992
+- https://openalex.org/W3111521801
+- https://openalex.org/W3156859314
+- https://openalex.org/W3209255611
+- https://openalex.org/W3210083421
+- https://openalex.org/W3211840438
+- https://openalex.org/W4393452187
+- https://openalex.org/W4393696785
+- https://openalex.org/W4393720443
+- https://openalex.org/W4393792787
+- https://openalex.org/W4393798433
+- https://openalex.org/W4393832452
+- https://openalex.org/W4394028630
+primary_topic: Cell Image Analysis Techniques
+open_access: true

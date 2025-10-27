@@ -1,0 +1,1478 @@
+id: https://openalex.org/W3004480399
+doi: https://doi.org/10.1038/s41586-020-1943-3
+title: The repertoire of mutational signatures in human cancer
+publication_date: '2020-02-05'
+publication_year: 2020
+cited_by_count: 3069
+citation_percentile: 0.999906
+pagerank: 2.6810183131053324e-06
+authorships:
+- author_id: https://openalex.org/A5080997789
+  display_name: Ludmil B. Alexandrov
+  orcid: https://orcid.org/0000-0003-3596-4515
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, Department of Bioengineering, Moores
+    Cancer Center, University of California, San Diego, CA, USA
+- author_id: https://openalex.org/A5103208897
+  display_name: Jaegil Kim
+  orcid: https://orcid.org/0000-0001-8091-095X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA, USA
+- author_id: https://openalex.org/A5064519985
+  display_name: Nicholas J. Haradhvala
+  orcid: https://orcid.org/0000-0003-1113-3135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA, USA
+- author_id: https://openalex.org/A5101627563
+  display_name: Mi Ni Huang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Programme in Cancer & Stem Cell Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5059272387
+  display_name: Alvin Wei Tian Ng
+  orcid: https://orcid.org/0000-0003-4672-0815
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Programme in Cancer & Stem Cell Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5066935160
+  display_name: Yang Wu
+  orcid: https://orcid.org/0000-0002-1837-8330
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Programme in Cancer & Stem Cell Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5047273273
+  display_name: Arnoud Boot
+  orcid: https://orcid.org/0000-0002-7717-7416
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Programme in Cancer & Stem Cell Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5055790071
+  display_name: Kyle R. Covington
+  orcid: https://orcid.org/0000-0003-4307-1135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181547552
+    display_name: Baylor College of Medicine
+    ror: https://ror.org/02pttbw34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA
+- author_id: https://openalex.org/A5070358742
+  display_name: Dmitry A. Gordenin
+  orcid: https://orcid.org/0000-0002-8399-1836
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095140
+    display_name: National Institute of Environmental Health Sciences
+    ror: https://ror.org/00j4k1h63
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Integrity and Structural Biology Laboratory, National Institute of Environmental
+    Health Sciences (NIEHS), Durham, NC, USA
+- author_id: https://openalex.org/A5035014875
+  display_name: Erik N. Bergstrom
+  orcid: https://orcid.org/0000-0001-7740-022X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, Department of Bioengineering, Moores
+    Cancer Center, University of California, San Diego, CA, USA
+- author_id: https://openalex.org/A5045381779
+  display_name: S. M. Ashiqul Islam
+  orcid: https://orcid.org/0000-0002-5686-6474
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, Department of Bioengineering, Moores
+    Cancer Center, University of California, San Diego, CA, USA
+- author_id: https://openalex.org/A5057300983
+  display_name: "N\xFAria L\xF3pez-Bigas"
+  orcid: https://orcid.org/0000-0003-4925-8988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122345
+    display_name: Institute for Research in Biomedicine
+    ror: https://ror.org/01z1gye03
+    country_code: ES
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Research in Biomedicine (IRB Barcelona), The Barcelona Institute
+    of Science and Technology, Barcelona, Spain
+- author_id: https://openalex.org/A5058377816
+  display_name: Leszek J. Klimczak
+  orcid: https://orcid.org/0000-0003-3048-2576
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095140
+    display_name: National Institute of Environmental Health Sciences
+    ror: https://ror.org/00j4k1h63
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Integrative Bioinformatics Support Group, National Institute of Environmental
+    Health Sciences (NIEHS), Durham, NC, USA
+- author_id: https://openalex.org/A5110746303
+  display_name: John R. McPherson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Programme in Cancer & Stem Cell Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5087559200
+  display_name: Sandro Morganella
+  orcid: https://orcid.org/0000-0003-4050-0985
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Hinxton, UK
+- author_id: https://openalex.org/A5024231765
+  display_name: Radhakrishnan Sabarinathan
+  orcid: https://orcid.org/0000-0001-8916-3954
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170486558
+    display_name: Universitat Pompeu Fabra
+    ror: https://ror.org/04n0g0b29
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Program on Biomedical Informatics, Universitat Pompeu Fabra, Barcelona,
+    Spain
+- author_id: https://openalex.org/A5003575856
+  display_name: David A. Wheeler
+  orcid: https://orcid.org/0000-0002-9056-6299
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181547552
+    display_name: Baylor College of Medicine
+    ror: https://ror.org/02pttbw34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA
+- author_id: https://openalex.org/A5061483267
+  display_name: Ville Mustonen
+  orcid: https://orcid.org/0000-0002-7270-1792
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Helsinki, Helsinki, Finland
+- author_id: https://openalex.org/A5080997789
+  display_name: Ludmil B. Alexandrov
+  orcid: https://orcid.org/0000-0003-3596-4515
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, Department of Bioengineering, Moores
+    Cancer Center, University of California, San Diego, CA, USA
+- author_id: https://openalex.org/A5035014875
+  display_name: Erik N. Bergstrom
+  orcid: https://orcid.org/0000-0001-7740-022X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, Department of Bioengineering, Moores
+    Cancer Center, University of California, San Diego, CA, USA
+- author_id: https://openalex.org/A5047273273
+  display_name: Arnoud Boot
+  orcid: https://orcid.org/0000-0002-7717-7416
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Programme in Cancer & Stem Cell Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5007657275
+  display_name: Paul C. Boutros
+  orcid: https://orcid.org/0000-0003-0553-7520
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Biophysics, University of Toronto, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5073597133
+  display_name: Kin Chan
+  orcid: https://orcid.org/0000-0002-5827-3154
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I153718931
+    display_name: University of Ottawa
+    ror: https://ror.org/03c4mmv16
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, Microbiology and Immunology, Faculty of Medicine,
+    University of Ottawa, Ottawa, Ontario, Canada
+- author_id: https://openalex.org/A5055790071
+  display_name: Kyle R. Covington
+  orcid: https://orcid.org/0000-0003-4307-1135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181547552
+    display_name: Baylor College of Medicine
+    ror: https://ror.org/02pttbw34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA
+- author_id: https://openalex.org/A5108123844
+  display_name: Akihiro Fujimoto
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - RIKEN Center for Integrative Medical Sciences, Yokohama, Japan
+- author_id: https://openalex.org/A5001392592
+  display_name: Gad Getz
+  orcid: https://orcid.org/0000-0002-0936-0753
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149717
+    display_name: Center for Cancer Research
+    ror: https://ror.org/05bjen692
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Cancer Research, Massachusetts General Hospital, Boston, MA, USA
+- author_id: https://openalex.org/A5070358742
+  display_name: Dmitry A. Gordenin
+  orcid: https://orcid.org/0000-0002-8399-1836
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095140
+    display_name: National Institute of Environmental Health Sciences
+    ror: https://ror.org/00j4k1h63
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Integrity and Structural Biology Laboratory, National Institute of Environmental
+    Health Sciences (NIEHS), Durham, NC, USA
+- author_id: https://openalex.org/A5064519985
+  display_name: Nicholas J. Haradhvala
+  orcid: https://orcid.org/0000-0003-1113-3135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149717
+    display_name: Center for Cancer Research
+    ror: https://ror.org/05bjen692
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Cancer Research, Massachusetts General Hospital, Boston, MA, USA
+- author_id: https://openalex.org/A5101627563
+  display_name: Mi Ni Huang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Computational Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5045381779
+  display_name: S. M. Ashiqul Islam
+  orcid: https://orcid.org/0000-0002-5686-6474
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, Department of Bioengineering, Moores
+    Cancer Center, University of California, San Diego, CA, USA
+- author_id: https://openalex.org/A5070956718
+  display_name: Marat D. Kazanov
+  orcid: https://orcid.org/0000-0002-2314-5507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107660
+    display_name: Institute for Information Transmission Problems
+    ror: https://ror.org/013w2d378
+    country_code: RU
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - A. A. Kharkevich Institute of Information Transmission Problems, Moscow, Russia
+- author_id: https://openalex.org/A5103208897
+  display_name: Jaegil Kim
+  orcid: https://orcid.org/0000-0001-8091-095X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA, USA
+- author_id: https://openalex.org/A5058377816
+  display_name: Leszek J. Klimczak
+  orcid: https://orcid.org/0000-0003-3048-2576
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095140
+    display_name: National Institute of Environmental Health Sciences
+    ror: https://ror.org/00j4k1h63
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Integrative Bioinformatics Support Group, National Institute of Environmental
+    Health Sciences (NIEHS), Durham, NC, USA
+- author_id: https://openalex.org/A5057300983
+  display_name: "N\xFAria L\xF3pez-Bigas"
+  orcid: https://orcid.org/0000-0003-4925-8988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122345
+    display_name: Institute for Research in Biomedicine
+    ror: https://ror.org/01z1gye03
+    country_code: ES
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Research in Biomedicine (IRB Barcelona), The Barcelona Institute
+    of Science and Technology, Barcelona, Spain
+- author_id: https://openalex.org/A5070808897
+  display_name: Michael S. Lawrence
+  orcid: https://orcid.org/0000-0002-1307-459X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA, USA
+- author_id: https://openalex.org/A5020879914
+  display_name: "I\xF1igo Martincorena"
+  orcid: https://orcid.org/0000-0003-1122-4416
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Hinxton, UK
+- author_id: https://openalex.org/A5110746303
+  display_name: John R. McPherson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Computational Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5087559200
+  display_name: Sandro Morganella
+  orcid: https://orcid.org/0000-0003-4050-0985
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Hinxton, UK
+- author_id: https://openalex.org/A5061483267
+  display_name: Ville Mustonen
+  orcid: https://orcid.org/0000-0002-7270-1792
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Helsinki, Helsinki, Finland
+- author_id: https://openalex.org/A5081957766
+  display_name: Hidewaki Nakagawa
+  orcid: https://orcid.org/0000-0003-1807-772X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210150921
+    display_name: RIKEN Center for Integrative Medical Sciences
+    ror: https://ror.org/04mb6s476
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - RIKEN Center for Integrative Medical Sciences, Yokohama, Japan
+- author_id: https://openalex.org/A5059272387
+  display_name: Alvin Wei Tian Ng
+  orcid: https://orcid.org/0000-0003-4672-0815
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Computational Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5025870661
+  display_name: Paz Polak
+  orcid: https://orcid.org/0000-0002-2153-4488
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149717
+    display_name: Center for Cancer Research
+    ror: https://ror.org/05bjen692
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Cancer Research, Massachusetts General Hospital, Boston, MA, USA
+- author_id: https://openalex.org/A5077305666
+  display_name: Stephenie D. Prokopec
+  orcid: https://orcid.org/0000-0001-7936-8577
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Biology Program, Ontario Institute for Cancer Research, Toronto,
+    Ontario, Canada
+- author_id: https://openalex.org/A5045510214
+  display_name: Steven A. Roberts
+  orcid: https://orcid.org/0000-0002-3628-5808
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Molecular Biosciences, Washington State University, Pullman, WA, USA
+- author_id: https://openalex.org/A5078961996
+  display_name: Steve Rozen
+  orcid: https://orcid.org/0000-0002-4288-0056
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Computational Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5024231765
+  display_name: Radhakrishnan Sabarinathan
+  orcid: https://orcid.org/0000-0001-8916-3954
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170486558
+    display_name: Universitat Pompeu Fabra
+    ror: https://ror.org/04n0g0b29
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Program on Biomedical Informatics, Universitat Pompeu Fabra, Barcelona,
+    Spain
+- author_id: https://openalex.org/A5063124326
+  display_name: Natalie Saini
+  orcid: https://orcid.org/0000-0002-1668-5417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095140
+    display_name: National Institute of Environmental Health Sciences
+    ror: https://ror.org/00j4k1h63
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Integrity and Structural Biology Laboratory, National Institute of Environmental
+    Health Sciences (NIEHS), Durham, NC, USA
+- author_id: https://openalex.org/A5110664951
+  display_name: Tatsuhiro Shibata
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Molecular Medicine, Human Genome Center, The Institute of Medical
+    Science, The University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5030942209
+  display_name: Yuichi Shiraishi
+  orcid: https://orcid.org/0000-0001-6144-5845
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Institute of Medical Science, The University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5058103562
+  display_name: Michael R. Stratton
+  orcid: https://orcid.org/0000-0001-6035-153X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Hinxton, UK
+- author_id: https://openalex.org/A5039053890
+  display_name: Bin Tean Teh
+  orcid: https://orcid.org/0000-0003-1514-1124
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157582758
+    display_name: SingHealth
+    ror: https://ror.org/04me94w47
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I4210147238
+    display_name: National Heart Centre Singapore
+    ror: https://ror.org/04f8k9513
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SingHealth, Duke-NUS Institute of Precision Medicine, National Heart Centre Singapore,
+    Singapore, Singapore
+- author_id: https://openalex.org/A5046081802
+  display_name: "Ignacio V\xE1zquez-Gar\u0107\u0131a"
+  orcid: https://orcid.org/0000-0003-0427-2639
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Hinxton, UK
+- author_id: https://openalex.org/A5003575856
+  display_name: David A. Wheeler
+  orcid: https://orcid.org/0000-0002-9056-6299
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181547552
+    display_name: Baylor College of Medicine
+    ror: https://ror.org/02pttbw34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Human Genetics, Baylor College of Medicine, Houston,
+    TX, USA
+- author_id: https://openalex.org/A5066935160
+  display_name: Yang Wu
+  orcid: https://orcid.org/0000-0002-1837-8330
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Computational Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5108490710
+  display_name: Fouad Yousif
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA, USA
+- author_id: https://openalex.org/A5086881402
+  display_name: Willie Yu
+  orcid: https://orcid.org/0000-0002-1230-3426
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Computational Biology, Duke-NUS Medical School, Singapore, Singapore
+- author_id: https://openalex.org/A5001392592
+  display_name: Gad Getz
+  orcid: https://orcid.org/0000-0002-0936-0753
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, Massachusetts General Hospital, Boston, MA, USA
+- author_id: https://openalex.org/A5078961996
+  display_name: Steve Rozen
+  orcid: https://orcid.org/0000-0002-4288-0056
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157582758
+    display_name: SingHealth
+    ror: https://ror.org/04me94w47
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I4210147238
+    display_name: National Heart Centre Singapore
+    ror: https://ror.org/04f8k9513
+    country_code: SG
+    type: healthcare
+  - id: https://openalex.org/I4210126319
+    display_name: Duke-NUS Medical School
+    ror: https://ror.org/02j1m6098
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SingHealth, Duke-NUS Institute of Precision Medicine, National Heart Centre Singapore,
+    Singapore, Singapore
+- author_id: https://openalex.org/A5058103562
+  display_name: Michael R. Stratton
+  orcid: https://orcid.org/0000-0001-6035-153X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Hinxton, UK
+- author_id: https://openalex.org/A5028725974
+  display_name: Lauri A. Aaltonen
+  orcid: https://orcid.org/0000-0001-6839-4286
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133731052
+    display_name: University of Helsinki
+    ror: https://ror.org/040af2s02
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Applied Tumor Genomics Research Program, Research Programs Unit, University of
+    Helsinki, Helsinki, Finland
+- author_id: https://openalex.org/A5110664952
+  display_name: Federico Abascal
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK
+- author_id: https://openalex.org/A5051804789
+  display_name: Adam Abeshouse
+  orcid: https://orcid.org/0000-0001-5619-237X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Memorial Sloan Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5111948748
+  display_name: Hiroyuki Aburatani
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Science Division, Research Center for Advanced Science and Technology,
+    University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5102865320
+  display_name: David J. Adams
+  orcid: https://orcid.org/0000-0001-9490-0306
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK
+- author_id: https://openalex.org/A5053487762
+  display_name: Nishant Agrawal
+  orcid: https://orcid.org/0000-0002-1361-3231
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40347166
+    display_name: University of Chicago
+    ror: https://ror.org/024mw5h28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, University of Chicago, Chicago, IL, USA
+- author_id: https://openalex.org/A5077671009
+  display_name: Keun Soo Ahn
+  orcid: https://orcid.org/0000-0001-8738-8009
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I52010207
+    display_name: Keimyung University
+    ror: https://ror.org/00tjv0s33
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I4210128080
+    display_name: Keimyung University Dongsan Medical Center
+    ror: https://ror.org/035r7hb75
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Division of Hepatobiliary and Pancreatic Surgery, School
+    of Medicine, Keimyung University Dongsan Medical Center, Daegu, South Korea
+- author_id: https://openalex.org/A5050433869
+  display_name: "Sung\u2010Min Ahn"
+  orcid: https://orcid.org/0000-0002-5031-1929
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088426
+    display_name: Gachon University Gil Medical Center
+    ror: https://ror.org/005nteb15
+    country_code: KR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Oncology, Gil Medical Center, Gachon University, Incheon, South
+    Korea
+- author_id: https://openalex.org/A5102349897
+  display_name: Hiroshi Aikata
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I113306721
+    display_name: Hiroshima University
+    ror: https://ror.org/03t78wx29
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hiroshima University, Hiroshima, Japan
+- author_id: https://openalex.org/A5111495221
+  display_name: Rehan Akbani
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioinformatics and Computational Biology, The University of Texas
+    MD Anderson Cancer Center, Houston, TX, USA
+- author_id: https://openalex.org/A5033776881
+  display_name: Kadir C. Akdemir
+  orcid: https://orcid.org/0000-0003-2299-2373
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Texas MD Anderson Cancer Center, Houston, TX, USA
+- author_id: https://openalex.org/A5022477189
+  display_name: "Hikmat Al\u2010Ahmadie"
+  orcid: https://orcid.org/0000-0002-2938-6627
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Memorial Sloan Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5044251095
+  display_name: "Sultan T. Al\u2010Sedairy"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800965796
+    display_name: King Faisal Specialist Hospital & Research Centre
+    ror: https://ror.org/05n0wgt02
+    country_code: SA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - King Faisal Specialist Hospital and Research Centre, Al Maather, Riyadh, Saudi
+    Arabia
+- author_id: https://openalex.org/A5027004121
+  display_name: "F\xE1tima Al\u2010Shahrour"
+  orcid: https://orcid.org/0000-0003-2373-769X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089594
+    display_name: Spanish National Cancer Research Centre
+    ror: https://ror.org/00bvhmc43
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics Unit, Spanish National Cancer Research Centre (CNIO), Madrid, Spain
+- author_id: https://openalex.org/A5089296981
+  display_name: Malik Alawi
+  orcid: https://orcid.org/0000-0002-5993-7709
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108711
+    display_name: University Medical Center Hamburg-Eppendorf
+    ror: https://ror.org/01zgy1s35
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I159176309
+    display_name: "Universit\xE4t Hamburg"
+    ror: https://ror.org/00g30e956
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics Core Facility, University Medical Center Hamburg, Hamburg, Germany
+- author_id: https://openalex.org/A5077019444
+  display_name: Monique Albert
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ontario Tumour Bank, Ontario Institute for Cancer Research, Toronto, ON, Canada
+- author_id: https://openalex.org/A5063290790
+  display_name: Kenneth Aldape
+  orcid: https://orcid.org/0000-0001-5119-7550
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston,
+    TX, USA
+- author_id: https://openalex.org/A5080997789
+  display_name: Ludmil B. Alexandrov
+  orcid: https://orcid.org/0000-0003-3596-4515
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK
+- author_id: https://openalex.org/A5060694592
+  display_name: Adrian Ally
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133112
+    display_name: Canada's Michael Smith Genome Sciences Centre
+    ror: https://ror.org/0333j0897
+    country_code: CA
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Canada's Michael Smith Genome Sciences Centre, BC Cancer, Vancouver, BC, Canada
+- author_id: https://openalex.org/A5030304907
+  display_name: Kathryn Alsop
+  orcid: https://orcid.org/0000-0002-4107-3041
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800555584
+    display_name: Peter MacCallum Cancer Centre
+    ror: https://ror.org/02a8bt934
+    country_code: AU
+    type: healthcare
+  - id: https://openalex.org/I165779595
+    display_name: The University of Melbourne
+    ror: https://ror.org/01ej9dk98
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sir Peter MacCallum Department of Oncology, Peter MacCallum Cancer Centre, University
+    of Melbourne, Melbourne, VIC, Australia
+- author_id: https://openalex.org/A5026404705
+  display_name: "Eva G. \xC1lvarez"
+  orcid: https://orcid.org/0000-0002-3522-5088
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111807
+    display_name: Center for Research in Molecular Medicine and Chronic Diseases
+    ror: https://ror.org/0280bnq76
+    country_code: ES
+    type: facility
+  - id: https://openalex.org/I200284239
+    display_name: Universidade de Santiago de Compostela
+    ror: https://ror.org/030eybx10
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Research in Molecular Medicine and Chronic Diseases (CiMUS), Universidade
+    de Santiago de Compostela, Santiago de Compostela, Spain
+- author_id: https://openalex.org/A5036182035
+  display_name: Fernanda Amary
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2802751111
+    display_name: Royal National Orthopaedic Hospital
+    ror: https://ror.org/043j9bc42
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Royal National Orthopaedic Hospital - Bolsover, London, UK
+- author_id: https://openalex.org/A5057939952
+  display_name: Samirkumar B. Amin
+  orcid: https://orcid.org/0000-0002-3207-9505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center,
+    Houston, TX, USA
+- author_id: https://openalex.org/A5041467146
+  display_name: Brice Aminou
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Informatics Program, Ontario Institute for Cancer Research, Toronto, ON,
+    Canada
+- author_id: https://openalex.org/A5021366050
+  display_name: Ole Ammerpohl
+  orcid: https://orcid.org/0000-0003-3539-2326
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32021983
+    display_name: "Christian-Albrechts-Universit\xE4t zu Kiel"
+    ror: https://ror.org/04v76ef78
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Human Genetics, Christian-Albrechts-University, Kiel, Germany
+- author_id: https://openalex.org/A5024556195
+  display_name: Matthew J. Anderson
+  orcid: https://orcid.org/0000-0003-0548-6559
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165143802
+    display_name: The University of Queensland
+    ror: https://ror.org/00rqy9422
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Queensland Centre for Medical Genomics, Institute for Molecular Bioscience, University
+    of Queensland, St. Lucia, Brisbane, QLD, Australia
+- author_id: https://openalex.org/A5026378420
+  display_name: Yeng Ang
+  orcid: https://orcid.org/0000-0003-0496-6710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801120809
+    display_name: Salford Royal NHS Foundation Trust
+    ror: https://ror.org/019j78370
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Salford Royal NHS Foundation Trust, Salford, UK
+- author_id: https://openalex.org/A5056660858
+  display_name: Davide Antonello
+  orcid: https://orcid.org/0000-0003-1257-6421
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Pancreas Institute, University and Hospital Trust of Verona,
+    Verona, Italy
+- author_id: https://openalex.org/A5045027466
+  display_name: Pavana Anur
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular and Medical Genetics, OHSU Knight Cancer Institute, Oregon Health and
+    Science University, Portland, OR, USA
+- author_id: https://openalex.org/A5074271128
+  display_name: "Samuel Apar\xEDcio"
+  orcid: https://orcid.org/0000-0002-0487-9599
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Oncology, BC Cancer Research Centre, Vancouver, BC, Canada
+- author_id: https://openalex.org/A5039112516
+  display_name: Elizabeth L. Appelbaum
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114277686
+    display_name: James S. McDonnell Foundation
+    ror: https://ror.org/03dy4aq19
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The McDonnell Genome Institute at Washington University, St. Louis, MO, USA
+- author_id: https://openalex.org/A5019988905
+  display_name: Yasuhito Arai
+  orcid: https://orcid.org/0000-0001-6306-9409
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Cancer Genomics, National Cancer Center Research Institute, National
+    Cancer Center, Tokyo, Japan
+- author_id: https://openalex.org/A5015815640
+  display_name: Axel Aretz
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DLR Project Management Agency, Bonn, Germany
+- author_id: https://openalex.org/A5000960910
+  display_name: Koji Arihiro
+  orcid: https://orcid.org/0000-0001-9544-4832
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I113306721
+    display_name: Hiroshima University
+    ror: https://ror.org/03t78wx29
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hiroshima University, Hiroshima, Japan
+- author_id: https://openalex.org/A5002609630
+  display_name: "Shun\u2010ichi Ariizumi"
+  orcid: https://orcid.org/0000-0002-3462-2110
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136522
+    display_name: Tokyo Women's Medical University
+    ror: https://ror.org/03kjjhe36
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tokyo Women's Medical University, Tokyo, Japan
+- author_id: https://openalex.org/A5021762206
+  display_name: Joshua Armenia
+  orcid: https://orcid.org/0000-0002-9005-7769
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210150208
+    display_name: Molecular Oncology (United States)
+    ror: https://ror.org/04rtkc841
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Molecular Oncology, Memorial Sloan Kettering Cancer Center, New York,
+    NY, USA
+- author_id: https://openalex.org/A5071480204
+  display_name: Laurent Arnould
+  orcid: https://orcid.org/0000-0001-6133-1362
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343871089
+    display_name: Los Alamos National Laboratory
+    ror: https://ror.org/01e41cf67
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Los Alamos National Laboratory, Los Alamos, NM, USA
+- author_id: https://openalex.org/A5090794174
+  display_name: L. Sylvia
+  orcid: https://orcid.org/0000-0001-8418-5054
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1325899441
+    display_name: University Health Network
+    ror: https://ror.org/042xt5161
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I2801845744
+    display_name: Toronto General Hospital
+    ror: https://ror.org/026pg9j08
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, University Health Network, Toronto General Hospital,
+    Toronto, ON, Canada
+- author_id: https://openalex.org/A5112503937
+  display_name: Yassen Assenov
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I87890613
+    display_name: Epigenomics (Germany)
+    ror: https://ror.org/0490dah44
+    country_code: DE
+    type: company
+  - id: https://openalex.org/I17937529
+    display_name: German Cancer Research Center
+    ror: https://ror.org/04cdgtt98
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Epigenomics and Cancer Risk Factors, German Cancer Research Center (DKFZ), Heidelberg,
+    Germany
+- author_id: https://openalex.org/A5079014077
+  display_name: Gurnit Atwal
+  orcid: https://orcid.org/0000-0003-2817-3117
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I112260969
+    display_name: Ontario Institute for Cancer Research
+    ror: https://ror.org/043q8yx54
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Biology Program, Ontario Institute for Cancer Research, Toronto,
+    ON, Canada
+- author_id: https://openalex.org/A5052025523
+  display_name: Sietse Aukema
+  orcid: https://orcid.org/0000-0001-5824-0320
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I196349391
+    display_name: "Universit\xE4t Ulm"
+    ror: https://ror.org/032000t02
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Human Genetics, Ulm University and Ulm University Medical Center,
+    Ulm, Germany
+referenced_works:
+- https://openalex.org/W1246381107
+- https://openalex.org/W1841331176
+- https://openalex.org/W1971536112
+- https://openalex.org/W1973702005
+- https://openalex.org/W1974305374
+- https://openalex.org/W1979044015
+- https://openalex.org/W2001932471
+- https://openalex.org/W2008255210
+- https://openalex.org/W2008507595
+- https://openalex.org/W2009720434
+- https://openalex.org/W2015094428
+- https://openalex.org/W2018851752
+- https://openalex.org/W2032320097
+- https://openalex.org/W2032409312
+- https://openalex.org/W2059300459
+- https://openalex.org/W2064855999
+- https://openalex.org/W2109948920
+- https://openalex.org/W2116542188
+- https://openalex.org/W2117785761
+- https://openalex.org/W2124977765
+- https://openalex.org/W2129136620
+- https://openalex.org/W2147963772
+- https://openalex.org/W2149551151
+- https://openalex.org/W2152061559
+- https://openalex.org/W2158065648
+- https://openalex.org/W2158251052
+- https://openalex.org/W2166673658
+- https://openalex.org/W2168698826
+- https://openalex.org/W2173818354
+- https://openalex.org/W2204392137
+- https://openalex.org/W2266041843
+- https://openalex.org/W2291640500
+- https://openalex.org/W2294814189
+- https://openalex.org/W2340219588
+- https://openalex.org/W2342628598
+- https://openalex.org/W2343368549
+- https://openalex.org/W2344657883
+- https://openalex.org/W2345503748
+- https://openalex.org/W2347107809
+- https://openalex.org/W2404400936
+- https://openalex.org/W2413309626
+- https://openalex.org/W2472440090
+- https://openalex.org/W2487072962
+- https://openalex.org/W2512945549
+- https://openalex.org/W2524881570
+- https://openalex.org/W2542991120
+- https://openalex.org/W2581568937
+- https://openalex.org/W2606616407
+- https://openalex.org/W2611187032
+- https://openalex.org/W2739980119
+- https://openalex.org/W2749641460
+- https://openalex.org/W2755775794
+- https://openalex.org/W2781490247
+- https://openalex.org/W2799563655
+- https://openalex.org/W2800002600
+- https://openalex.org/W2800414575
+- https://openalex.org/W2915160617
+- https://openalex.org/W2922482538
+- https://openalex.org/W2938255062
+- https://openalex.org/W2952050708
+- https://openalex.org/W2952948100
+- https://openalex.org/W2953163445
+- https://openalex.org/W3004584205
+- https://openalex.org/W3004647847
+- https://openalex.org/W3006500278
+primary_topic: Cancer Genomics and Diagnostics
+open_access: true

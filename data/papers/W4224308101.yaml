@@ -1,0 +1,481 @@
+id: https://openalex.org/W4224308101
+doi: https://doi.org/10.48550/arxiv.2204.02311
+title: 'PaLM: Scaling Language Modeling with Pathways'
+publication_date: '2022-01-01'
+publication_year: 2022
+cited_by_count: 2009
+citation_percentile: 0.99994
+pagerank: 2.561831305368651e-06
+authorships:
+- author_id: https://openalex.org/A5055969617
+  display_name: Aakanksha Chowdhery
+  orcid: https://orcid.org/0000-0002-0628-5225
+  author_position: first
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5079540764
+  display_name: Sharan Narang
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5057457287
+  display_name: Jacob Devlin
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5074322007
+  display_name: Maarten Bosma
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5085443636
+  display_name: Gaurav Mishra
+  orcid: https://orcid.org/0000-0002-3254-8797
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5052454696
+  display_name: Adam Roberts
+  orcid: https://orcid.org/0000-0003-1621-1964
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5110193634
+  display_name: Paul Barham
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051828575
+  display_name: Hyung Won Chung
+  orcid: https://orcid.org/0000-0002-1280-9953
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5028501178
+  display_name: Charles Sutton
+  orcid: https://orcid.org/0000-0002-0041-3820
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5026789962
+  display_name: Sebastian Gehrmann
+  orcid: https://orcid.org/0000-0002-8257-9516
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5005308581
+  display_name: Parker Schuh
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5057834767
+  display_name: Kensen Shi
+  orcid: https://orcid.org/0000-0001-7140-7869
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5027632940
+  display_name: Sasha Tsvyashchenko
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5021334672
+  display_name: Joshua Maynez
+  orcid: https://orcid.org/0000-0003-4948-2875
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5048025708
+  display_name: Abhishek S. Rao
+  orcid: https://orcid.org/0000-0002-3574-3571
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5001087250
+  display_name: Parker Barnes
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103069680
+  display_name: Yi Tay
+  orcid: https://orcid.org/0000-0001-6896-4496
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5021878400
+  display_name: Noam Shazeer
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5019297976
+  display_name: Vinodkumar Prabhakaran
+  orcid: https://orcid.org/0000-0003-3329-2305
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5019880413
+  display_name: Emily Reif
+  orcid: https://orcid.org/0000-0003-3572-6234
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5100721790
+  display_name: Nan Du
+  orcid: https://orcid.org/0000-0003-2855-7452
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5071599724
+  display_name: Ben Hutchinson
+  orcid: https://orcid.org/0000-0003-2253-6204
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5090477236
+  display_name: Reiner Pope
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5052263308
+  display_name: James T. Bradbury
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5014400463
+  display_name: Jacob Austin
+  orcid: https://orcid.org/0009-0001-2589-2805
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5089543053
+  display_name: Michael Isard
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5018113047
+  display_name: Guy Gur-Ari
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5078519761
+  display_name: Pengcheng Yin
+  orcid: https://orcid.org/0000-0003-2739-1032
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5009110297
+  display_name: Toju Duke
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5069544528
+  display_name: Anselm Levskaya
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5012998255
+  display_name: Sanjay Ghemawat
+  orcid: https://orcid.org/0009-0005-6843-3093
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5090145147
+  display_name: Sunipa Dev
+  orcid: https://orcid.org/0000-0002-6647-9662
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5016302450
+  display_name: Henryk Michalewski
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5082383881
+  display_name: "Xavier Garc\xEDa"
+  orcid: https://orcid.org/0000-0002-8500-4224
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5030875603
+  display_name: Vedant Misra
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5039609347
+  display_name: Kevin Robinson
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5029678131
+  display_name: Liam Fedus
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5061512999
+  display_name: Denny Zhou
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5022994077
+  display_name: Daphne Ippolito
+  orcid: https://orcid.org/0000-0001-9328-8995
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5069649243
+  display_name: David Luan
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5050218314
+  display_name: Hyeontaek Lim
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5026064427
+  display_name: Barret Zoph
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5107896946
+  display_name: Alexander Spiridonov
+  orcid: https://orcid.org/0000-0002-0935-3764
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5065754485
+  display_name: Ryan Sepassi
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5015793563
+  display_name: D. Dohan
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5033596864
+  display_name: Shivani Agrawal
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5070268107
+  display_name: Mark Omernick
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5101597225
+  display_name: Andrew M. Dai
+  orcid: https://orcid.org/0009-0007-9200-8577
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5023470556
+  display_name: Thanumalayan Sankaranarayana Pillai
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5059267294
+  display_name: Marie Pellat
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5019210292
+  display_name: Aitor Lewkowycz
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5014681596
+  display_name: "\xC9rica Rodrigues Moreira"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5084512458
+  display_name: Rewon Child
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5066539391
+  display_name: Oleksandr Polozov
+  orcid: https://orcid.org/0000-0003-3669-4262
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5101561897
+  display_name: Katherine Lee
+  orcid: https://orcid.org/0000-0002-9537-6195
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5084104975
+  display_name: Zongwei Zhou
+  orcid: https://orcid.org/0000-0002-3154-9851
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5024842018
+  display_name: Xuezhi Wang
+  orcid: https://orcid.org/0000-0001-7592-2358
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5067187716
+  display_name: Brennan Saeta
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5012652561
+  display_name: "Mark D\xEDaz"
+  orcid: https://orcid.org/0000-0003-0167-9839
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5035914396
+  display_name: "Orhan F\u0131rat"
+  orcid: https://orcid.org/0000-0001-5775-2420
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5035174955
+  display_name: Michele Catasta
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5100657725
+  display_name: Jason Lee
+  orcid: https://orcid.org/0000-0003-4042-795X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5010819457
+  display_name: Kathy Meier-Hellstern
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5055592482
+  display_name: Douglas Eck
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5011889606
+  display_name: Jeff Dean
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5062886906
+  display_name: Slav Petrov
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5087591662
+  display_name: Noah Fiedel
+  orcid: null
+  author_position: last
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+referenced_works: []
+primary_topic: Topic Modeling
+open_access: true

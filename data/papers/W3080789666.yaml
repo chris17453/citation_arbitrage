@@ -1,0 +1,985 @@
+id: https://openalex.org/W3080789666
+doi: https://doi.org/10.1038/s41592-020-0933-6
+title: Feature-based molecular networking in the GNPS analysis environment
+publication_date: '2020-08-24'
+publication_year: 2020
+cited_by_count: 1218
+citation_percentile: 0.999983
+pagerank: 2.5482164288243806e-06
+authorships:
+- author_id: https://openalex.org/A5081815233
+  display_name: "Louis\u2010F\xE9lix Nothias"
+  orcid: https://orcid.org/0000-0001-6711-6719
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+    San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5012059205
+  display_name: Daniel Petras
+  orcid: https://orcid.org/0000-0002-6561-3022
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+    San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5103141344
+  display_name: Robin Schmid
+  orcid: https://orcid.org/0000-0003-2959-2815
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I22465464
+    display_name: "University of M\xFCnster"
+    ror: https://ror.org/00pd74e08
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Inorganic and Analytical Chemistry, University of M\xFCnster, M\xFC\
+    nster, Germany"
+- author_id: https://openalex.org/A5074854279
+  display_name: "Kai D\xFChrkop"
+  orcid: https://orcid.org/0000-0002-9056-0540
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76198965
+    display_name: Friedrich Schiller University Jena
+    ror: https://ror.org/05qpz1x62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chair for Bioinformatics, Friedrich-Schiller University, Jena, Germany
+- author_id: https://openalex.org/A5102735387
+  display_name: Johannes Rainer
+  orcid: https://orcid.org/0000-0002-6977-7147
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1319360392
+    display_name: Eurac Research
+    ror: https://ror.org/01xt1w755
+    country_code: IT
+    type: nonprofit
+  - id: https://openalex.org/I4210118299
+    display_name: Institute for Biomedicine
+    ror: https://ror.org/02hsggv49
+    country_code: IT
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute for Biomedicine, Eurac Research, Affiliated Institute of the University\
+    \ of L\xFCbeck, Bolzano, Italy"
+- author_id: https://openalex.org/A5067699016
+  display_name: Abinesh Sarvepalli
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+    San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5065069772
+  display_name: Ivan Protsyuk
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153543
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/050589e39
+    country_code: DE
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Structural and Computational Biology Unit, European Molecular Biology Laboratory,
+    Heidelberg, Germany
+- author_id: https://openalex.org/A5010086188
+  display_name: Madeleine Ernst
+  orcid: https://orcid.org/0000-0001-9530-3837
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+    San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5044693559
+  display_name: Hiroshi Tsugawa
+  orcid: https://orcid.org/0000-0002-2015-3958
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210100240
+    display_name: RIKEN Center for Sustainable Resource Science
+    ror: https://ror.org/010rf2m76
+    country_code: JP
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - RIKEN Center for Sustainable Resource Science, Yokohama, Japan
+- author_id: https://openalex.org/A5088307823
+  display_name: Markus Fleischauer
+  orcid: https://orcid.org/0000-0001-7557-0831
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76198965
+    display_name: Friedrich Schiller University Jena
+    ror: https://ror.org/05qpz1x62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chair for Bioinformatics, Friedrich-Schiller University, Jena, Germany
+- author_id: https://openalex.org/A5059411032
+  display_name: Fabian Aicheler
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Applied Bioinformatics, Department of Computer Science, University of T\xFCbingen,\
+    \ T\xFCbingen, Germany"
+- author_id: https://openalex.org/A5017209910
+  display_name: Alexander A. Aksenov
+  orcid: https://orcid.org/0000-0002-9445-2248
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+    San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5038480914
+  display_name: Oliver Alka
+  orcid: https://orcid.org/0000-0001-5046-4565
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Applied Bioinformatics, Department of Computer Science, University of T\xFCbingen,\
+    \ T\xFCbingen, Germany"
+- author_id: https://openalex.org/A5027312343
+  display_name: "Pierre\u2010Marie Allard"
+  orcid: https://orcid.org/0000-0003-3389-2191
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114457229
+    display_name: University of Geneva
+    ror: https://ror.org/01swzsf04
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Phytochemistry and Bioactive Natural Products, University of Geneva,
+    Geneva, Switzerland
+- author_id: https://openalex.org/A5043930044
+  display_name: Aiko Barsch
+  orcid: https://orcid.org/0000-0002-7208-4528
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138933
+    display_name: Bruker (Germany)
+    ror: https://ror.org/04excst21
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bruker Daltonics, Bremen, Germany
+- author_id: https://openalex.org/A5090888719
+  display_name: Xavier Cachet
+  orcid: https://orcid.org/0000-0001-9150-1932
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I110736937
+    display_name: "D\xE9l\xE9gation Paris 5"
+    ror: https://ror.org/02e0y6e06
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I204730241
+    display_name: "Universit\xE9 Paris Cit\xE9"
+    ror: https://ror.org/05f82e368
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4403386520
+    display_name: "Cibles Th\xE9rapeutiques et conception de m\xE9dicaments"
+    ror: https://ror.org/05cbrk226
+    country_code: null
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Equipe PNAS, UMR 8038 CiTCoM CNRS, Facult\xE9 de Pharmacie de Paris, Universit\xE9\
+    \ Paris Descartes, Paris, France"
+- author_id: https://openalex.org/A5012057261
+  display_name: "Andr\xE9s Mauricio Caraballo\u2010Rodr\xEDguez"
+  orcid: https://orcid.org/0000-0001-5499-2728
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+    San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5063348766
+  display_name: Ricardo Silva
+  orcid: https://orcid.org/0000-0001-6378-0479
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5018599572
+  display_name: Tam Dang
+  orcid: https://orcid.org/0000-0002-3602-1917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5028170003
+  display_name: Neha Garg
+  orcid: https://orcid.org/0000-0002-2760-7123
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130701444
+    display_name: Georgia Institute of Technology
+    ror: https://ror.org/01zkghx44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Chemistry and Biochemistry, Center for Microbial Dynamics and Infection,
+    Georgia Institute of Technology, Atlanta, GA, USA
+- author_id: https://openalex.org/A5032648643
+  display_name: Julia M. Gauglitz
+  orcid: https://orcid.org/0000-0003-3146-2489
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5030895995
+  display_name: Alexey Gurevich
+  orcid: https://orcid.org/0000-0002-5855-3519
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172901346
+    display_name: St Petersburg University
+    ror: https://ror.org/023znxa73
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Algorithmic Biotechnology, Institute of Translational Biomedicine,
+    St. Petersburg State University, St. Petersburg, Russia
+- author_id: https://openalex.org/A5033255398
+  display_name: Giorgis Isaac
+  orcid: https://orcid.org/0000-0003-2440-2461
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180980256
+    display_name: Waters (United States)
+    ror: https://ror.org/01h8xv021
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Waters Corporation, Milford, MA, USA
+- author_id: https://openalex.org/A5084397587
+  display_name: Alan K. Jarmusch
+  orcid: https://orcid.org/0000-0002-2228-6308
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California
+    San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5025713626
+  display_name: "Zden\u011Bk Kamen\xEDk"
+  orcid: https://orcid.org/0000-0002-5363-0597
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122847
+    display_name: Czech Academy of Sciences, Institute of Microbiology
+    ror: https://ror.org/02p1jz666
+    country_code: CZ
+    type: funder
+  - id: https://openalex.org/I202391551
+    display_name: Czech Academy of Sciences
+    ror: https://ror.org/053avzc18
+    country_code: CZ
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Microbiology of the Czech Academy of Sciences, Prague, Czech Republic
+- author_id: https://openalex.org/A5024849145
+  display_name: Kyo Bin Kang
+  orcid: https://orcid.org/0000-0003-3290-1017
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5075354947
+  display_name: Nikolas Kessler
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138933
+    display_name: Bruker (Germany)
+    ror: https://ror.org/04excst21
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bruker Daltonics, Bremen, Germany
+- author_id: https://openalex.org/A5046633037
+  display_name: Irina Koester
+  orcid: https://orcid.org/0000-0002-1571-882X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5051030261
+  display_name: Ansgar Korf
+  orcid: https://orcid.org/0000-0002-2769-2460
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I22465464
+    display_name: "University of M\xFCnster"
+    ror: https://ror.org/00pd74e08
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Inorganic and Analytical Chemistry, University of M\xFCnster, M\xFC\
+    nster, Germany"
+- author_id: https://openalex.org/A5085728524
+  display_name: "Audrey Le Gou\xEBllec"
+  orcid: https://orcid.org/0000-0002-4905-3854
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I106785703
+    display_name: Institut polytechnique de Grenoble
+    ror: https://ror.org/05sbt2524
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I4210136308
+    display_name: Translational Innovation in Medicine and Complexity
+    ror: https://ror.org/03985kf35
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I899635006
+    display_name: "Universit\xE9 Grenoble Alpes"
+    ror: https://ror.org/02rx3b187
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I2800555055
+    display_name: Centre Hospitalier Universitaire de Grenoble
+    ror: https://ror.org/041rhpw39
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Univ. Grenoble Alpes, CNRS, Grenoble INP, CHU Grenoble Alpes, TIMC-IMAG, Grenoble,
+    France
+- author_id: https://openalex.org/A5086323965
+  display_name: Marcus Ludwig
+  orcid: https://orcid.org/0000-0001-9981-2153
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76198965
+    display_name: Friedrich Schiller University Jena
+    ror: https://ror.org/05qpz1x62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chair for Bioinformatics, Friedrich-Schiller University, Jena, Germany
+- author_id: https://openalex.org/A5024949628
+  display_name: Christian Martin
+  orcid: https://orcid.org/0000-0002-9604-6737
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210148852
+    display_name: "Instituto de Investigaciones Cient\xEDficas y Servicios de Alta\
+      \ Tecnolog\xEDa"
+    ror: https://ror.org/04ngphv84
+    country_code: PA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de Investigaciones\
+    \ Cient\xEDficas y Servicios de Alta Tecnolog\xEDa (INDICASAT AIP), Panama, Republic\
+    \ of Panama"
+- author_id: https://openalex.org/A5065905534
+  display_name: "Laura\u2010Isobel McCall"
+  orcid: https://orcid.org/0000-0002-1243-8953
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8692664
+    display_name: University of Oklahoma
+    ror: https://ror.org/02aqsxs83
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, Department of Microbiology and Plant
+    Biology and Laboratories of Molecular Anthropology and Microbiome Research, University
+    of Oklahoma, Norman, OK, USA
+- author_id: https://openalex.org/A5034690263
+  display_name: Jonathan McSayles
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nonlinear Dynamics, Milford, MA, USA
+- author_id: https://openalex.org/A5103777606
+  display_name: Sven Meyer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138933
+    display_name: Bruker (Germany)
+    ror: https://ror.org/04excst21
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bruker Daltonics, Bremen, Germany
+- author_id: https://openalex.org/A5033781263
+  display_name: Hosein Mohimani
+  orcid: https://orcid.org/0000-0003-3980-2505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Biology Department, School of Computer Sciences, Carnegie Mellon
+    University, Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5005249807
+  display_name: Mustafa Morsy
+  orcid: https://orcid.org/0000-0003-1803-4893
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68631920
+    display_name: University of West Alabama
+    ror: https://ror.org/010acrp16
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological and Environmental Sciences, University of West Alabama,
+    Livingston, AL, USA
+- author_id: https://openalex.org/A5039056477
+  display_name: Oriane Moyne
+  orcid: https://orcid.org/0000-0002-0475-6177
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I106785703
+    display_name: Institut polytechnique de Grenoble
+    ror: https://ror.org/05sbt2524
+    country_code: FR
+    type: education
+  - id: https://openalex.org/I899635006
+    display_name: "Universit\xE9 Grenoble Alpes"
+    ror: https://ror.org/02rx3b187
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I2800555055
+    display_name: Centre Hospitalier Universitaire de Grenoble
+    ror: https://ror.org/041rhpw39
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210136308
+    display_name: Translational Innovation in Medicine and Complexity
+    ror: https://ror.org/03985kf35
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Univ. Grenoble Alpes, CNRS, Grenoble INP, CHU Grenoble Alpes, TIMC-IMAG, Grenoble,
+    France
+- author_id: https://openalex.org/A5038786156
+  display_name: Steffen Neumann
+  orcid: https://orcid.org/0000-0002-7899-7192
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210110463
+    display_name: Leibniz Institute of Plant Biochemistry
+    ror: https://ror.org/01mzk5576
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics and Scientific Data, Leibniz Institute of Plant Biochemistry, Halle,
+    Germany
+- author_id: https://openalex.org/A5055733947
+  display_name: Heiko Neuweger
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138933
+    display_name: Bruker (Germany)
+    ror: https://ror.org/04excst21
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bruker Daltonics, Bremen, Germany
+- author_id: https://openalex.org/A5103921023
+  display_name: Ngoc Hung Nguyen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5081805337
+  display_name: "M\xE9lissa Nothias-Esposito"
+  orcid: https://orcid.org/0000-0002-7221-6033
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5046939099
+  display_name: Julien Paolini
+  orcid: https://orcid.org/0000-0002-3109-1430
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I138816502
+    display_name: "Universit\xE9 de Corse Pascal Paoli"
+    ror: https://ror.org/050ra0n32
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Laboratoire de Chimie des Produits Naturels, UMR CNRS SPE, Universit\xE9 de Corse\
+    \ Pascal Paoli, Corte, France"
+- author_id: https://openalex.org/A5040391927
+  display_name: Vanessa V. Phelan
+  orcid: https://orcid.org/0000-0001-7156-9294
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I6750721
+    display_name: University of Montana
+    ror: https://ror.org/0078xmk34
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I921990950
+    display_name: University of Colorado Denver
+    ror: https://ror.org/02hh7en24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado,
+    Denver, Aurora, CO, USA
+- author_id: https://openalex.org/A5088461185
+  display_name: "Tom\xE1\u0161 Pluskal"
+  orcid: https://orcid.org/0000-0002-6940-3006
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210157710
+    display_name: Whitehead Institute for Biomedical Research
+    ror: https://ror.org/04vqm6w82
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Whitehead Institute for Biomedical Research, Cambridge, MA, USA
+- author_id: https://openalex.org/A5017611530
+  display_name: Robert A. Quinn
+  orcid: https://orcid.org/0000-0002-9829-3256
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I87216513
+    display_name: Michigan State University
+    ror: https://ror.org/05hs6h993
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Molecular Biology, Michigan State University, East
+    Lansing, MI, USA
+- author_id: https://openalex.org/A5060432668
+  display_name: Simon Rogers
+  orcid: https://orcid.org/0000-0003-3578-4477
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7882870
+    display_name: University of Glasgow
+    ror: https://ror.org/00vtgdb53
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computing Science, University of Glasgow, Glasgow, UK
+- author_id: https://openalex.org/A5066290980
+  display_name: Bindesh Shrestha
+  orcid: https://orcid.org/0000-0002-7595-3506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180980256
+    display_name: Waters (United States)
+    ror: https://ror.org/01h8xv021
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Waters Corporation, Milford, MA, USA
+- author_id: https://openalex.org/A5060283036
+  display_name: Anupriya Tripathi
+  orcid: https://orcid.org/0000-0001-8912-9684
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pediatrics, University of California San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5075156076
+  display_name: Justin J. J. van der Hooft
+  orcid: https://orcid.org/0000-0002-9340-5511
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5086305028
+  display_name: Fernando Vargas
+  orcid: https://orcid.org/0000-0001-5847-2439
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5027323292
+  display_name: Kelly C. Weldon
+  orcid: https://orcid.org/0000-0003-1064-8153
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5022997517
+  display_name: Michael Witting
+  orcid: https://orcid.org/0000-0002-1462-4426
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018134672
+    display_name: "Helmholtz Zentrum M\xFCnchen"
+    ror: https://ror.org/00cfam450
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Research Unit Analytical BioGeoChemistry, Helmholtz Zentrum M\xFCnchen, M\xFC\
+    nchen, Germany"
+- author_id: https://openalex.org/A5057571621
+  display_name: Heejung Yang
+  orcid: https://orcid.org/0000-0001-5986-9024
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165507594
+    display_name: Kangwon National University
+    ror: https://ror.org/01mh5ph17
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Pharmacy, Kangwon National University, Chuncheon-si, Republic of Korea
+- author_id: https://openalex.org/A5100459168
+  display_name: Zheng Zhang
+  orcid: https://orcid.org/0000-0003-1470-6998
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5026999327
+  display_name: Florian Zubeil
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138933
+    display_name: Bruker (Germany)
+    ror: https://ror.org/04excst21
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bruker Daltonics, Bremen, Germany
+- author_id: https://openalex.org/A5053621010
+  display_name: Oliver Kohlbacher
+  orcid: https://orcid.org/0000-0003-1739-4598
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Applied Bioinformatics, Department of Computer Science, University of T\xFCbingen,\
+    \ T\xFCbingen, Germany"
+- author_id: https://openalex.org/A5033025664
+  display_name: "Sebastian B\xF6cker"
+  orcid: https://orcid.org/0000-0002-9304-8091
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76198965
+    display_name: Friedrich Schiller University Jena
+    ror: https://ror.org/05qpz1x62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chair for Bioinformatics, Friedrich-Schiller University, Jena, Germany
+- author_id: https://openalex.org/A5023802736
+  display_name: Theodore Alexandrov
+  orcid: https://orcid.org/0000-0001-9464-6125
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153543
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/050589e39
+    country_code: DE
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Structural and Computational Biology Unit, European Molecular Biology Laboratory,
+    Heidelberg, Germany
+- author_id: https://openalex.org/A5087034314
+  display_name: Nuno Bandeira
+  orcid: https://orcid.org/0000-0001-8385-3655
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5058074901
+  display_name: Mingxun Wang
+  orcid: https://orcid.org/0000-0001-7647-6097
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Collaborative Mass Spectrometry Innovation Center, University of California San
+    Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5082720301
+  display_name: Pieter C. Dorrestein
+  orcid: https://orcid.org/0000-0002-3003-1030
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pediatrics, University of California San Diego, La Jolla, CA, USA
+referenced_works:
+- https://openalex.org/W143096088
+- https://openalex.org/W1543068333
+- https://openalex.org/W1598925596
+- https://openalex.org/W1976327004
+- https://openalex.org/W1984566266
+- https://openalex.org/W1989299822
+- https://openalex.org/W1989505831
+- https://openalex.org/W2026216948
+- https://openalex.org/W2037833102
+- https://openalex.org/W2049765837
+- https://openalex.org/W2073939393
+- https://openalex.org/W2081465448
+- https://openalex.org/W2086689797
+- https://openalex.org/W2105269791
+- https://openalex.org/W2115993694
+- https://openalex.org/W2126176053
+- https://openalex.org/W2144803530
+- https://openalex.org/W2159675211
+- https://openalex.org/W2168590651
+- https://openalex.org/W2179948434
+- https://openalex.org/W2285468881
+- https://openalex.org/W2334728720
+- https://openalex.org/W2504691963
+- https://openalex.org/W2510334816
+- https://openalex.org/W2546443756
+- https://openalex.org/W2548357532
+- https://openalex.org/W2551876238
+- https://openalex.org/W2555163954
+- https://openalex.org/W2582977745
+- https://openalex.org/W2707623555
+- https://openalex.org/W2753100975
+- https://openalex.org/W2755922403
+- https://openalex.org/W2776498066
+- https://openalex.org/W2790225116
+- https://openalex.org/W2793924581
+- https://openalex.org/W2794407684
+- https://openalex.org/W2800712778
+- https://openalex.org/W2895176645
+- https://openalex.org/W2913028692
+- https://openalex.org/W2922522932
+- https://openalex.org/W2952907530
+- https://openalex.org/W2956419562
+- https://openalex.org/W2963276645
+- https://openalex.org/W2988251078
+- https://openalex.org/W2997345427
+- https://openalex.org/W3013230070
+- https://openalex.org/W3017143772
+- https://openalex.org/W3022392503
+- https://openalex.org/W3034300141
+- https://openalex.org/W3099485282
+- https://openalex.org/W3105963012
+primary_topic: Metabolomics and Mass Spectrometry Studies
+open_access: true

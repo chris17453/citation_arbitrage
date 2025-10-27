@@ -1,0 +1,186 @@
+id: https://openalex.org/W3153325943
+doi: https://doi.org/10.1145/3404835.3462862
+title: Self-supervised Graph Learning for Recommendation
+publication_date: '2021-07-11'
+publication_year: 2021
+cited_by_count: 1077
+citation_percentile: 0.99979
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5075695432
+  display_name: Jiancan Wu
+  orcid: https://orcid.org/0000-0002-6941-5218
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I126520041
+    display_name: University of Science and Technology of China
+    ror: https://ror.org/04c4dkn09
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Science and Technology of China, Hefei, China
+- author_id: https://openalex.org/A5100389037
+  display_name: Xiang Wang
+  orcid: https://orcid.org/0000-0002-6148-6329
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore, Singapore, Singapore
+- author_id: https://openalex.org/A5051925942
+  display_name: Fuli Feng
+  orcid: https://orcid.org/0000-0002-5828-9842
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore, Singapore, Singapore
+- author_id: https://openalex.org/A5038668215
+  display_name: Xiangnan He
+  orcid: https://orcid.org/0000-0001-8472-7992
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I126520041
+    display_name: University of Science and Technology of China
+    ror: https://ror.org/04c4dkn09
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Science and Technology of China, Hefei, China
+- author_id: https://openalex.org/A5015551207
+  display_name: Liang Chen
+  orcid: https://orcid.org/0000-0003-3750-1071
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sun Yat-sen University, Guangzhou, China
+- author_id: https://openalex.org/A5087106517
+  display_name: Jianxun Lian
+  orcid: https://orcid.org/0000-0003-3108-5601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+- author_id: https://openalex.org/A5044651577
+  display_name: Xing Xie
+  orcid: https://orcid.org/0000-0002-8608-8482
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia, Beijing, China
+referenced_works:
+- https://openalex.org/W1533861849
+- https://openalex.org/W1976999215
+- https://openalex.org/W1994389483
+- https://openalex.org/W2005311637
+- https://openalex.org/W2056021151
+- https://openalex.org/W2101409192
+- https://openalex.org/W2102035799
+- https://openalex.org/W2140310134
+- https://openalex.org/W2152790380
+- https://openalex.org/W2294501066
+- https://openalex.org/W2423557781
+- https://openalex.org/W2488426624
+- https://openalex.org/W2565948352
+- https://openalex.org/W2583875861
+- https://openalex.org/W2605350416
+- https://openalex.org/W2606780347
+- https://openalex.org/W2624407581
+- https://openalex.org/W2624431344
+- https://openalex.org/W2753686090
+- https://openalex.org/W2785325870
+- https://openalex.org/W2798991696
+- https://openalex.org/W2802187397
+- https://openalex.org/W2842511635
+- https://openalex.org/W2887997457
+- https://openalex.org/W2896457183
+- https://openalex.org/W2911778742
+- https://openalex.org/W2945623882
+- https://openalex.org/W2946617802
+- https://openalex.org/W2949465136
+- https://openalex.org/W2949517790
+- https://openalex.org/W2950064337
+- https://openalex.org/W2950133940
+- https://openalex.org/W2951873722
+- https://openalex.org/W2952254971
+- https://openalex.org/W2962711740
+- https://openalex.org/W2962767366
+- https://openalex.org/W2963085847
+- https://openalex.org/W2963782635
+- https://openalex.org/W2963858333
+- https://openalex.org/W2964965220
+- https://openalex.org/W2979450518
+- https://openalex.org/W2994710732
+- https://openalex.org/W2996428491
+- https://openalex.org/W2996604169
+- https://openalex.org/W3004578093
+- https://openalex.org/W3005552578
+- https://openalex.org/W3005680577
+- https://openalex.org/W3033630125
+- https://openalex.org/W3034693603
+- https://openalex.org/W3034896171
+- https://openalex.org/W3035065454
+- https://openalex.org/W3035524453
+- https://openalex.org/W3036446966
+- https://openalex.org/W3044638916
+- https://openalex.org/W3045200674
+- https://openalex.org/W3048692209
+- https://openalex.org/W3081175302
+- https://openalex.org/W3081963674
+- https://openalex.org/W3092103025
+- https://openalex.org/W3095602948
+- https://openalex.org/W3095746859
+- https://openalex.org/W3098649723
+- https://openalex.org/W3099152386
+- https://openalex.org/W3100260481
+- https://openalex.org/W3100278010
+- https://openalex.org/W3100345210
+- https://openalex.org/W3100848837
+- https://openalex.org/W3102419180
+- https://openalex.org/W3103362336
+- https://openalex.org/W3103409210
+- https://openalex.org/W3104353018
+- https://openalex.org/W3104439459
+- https://openalex.org/W3106439716
+- https://openalex.org/W3108655343
+- https://openalex.org/W3116172555
+- https://openalex.org/W3195978668
+- https://openalex.org/W4287812705
+- https://openalex.org/W4288275971
+- https://openalex.org/W4294170691
+- https://openalex.org/W4294558607
+- https://openalex.org/W4297733535
+- https://openalex.org/W4297808394
+- https://openalex.org/W4310228395
+primary_topic: Recommender Systems and Techniques
+open_access: true

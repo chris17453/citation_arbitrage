@@ -1,0 +1,603 @@
+id: https://openalex.org/W3186179742
+doi: https://doi.org/10.1126/science.abj8754
+title: Accurate prediction of protein structures and interactions using a three-track
+  neural network
+publication_date: '2021-07-15'
+publication_year: 2021
+cited_by_count: 4586
+citation_percentile: 0.999982
+pagerank: 3.2771836105843555e-06
+authorships:
+- author_id: https://openalex.org/A5044961635
+  display_name: Minkyung Baek
+  orcid: https://orcid.org/0000-0003-3414-9404
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+- author_id: https://openalex.org/A5105925656
+  display_name: Frank DiMaio
+  orcid: https://orcid.org/0000-0002-7524-8938
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+- author_id: https://openalex.org/A5075173135
+  display_name: Ivan Anishchenko
+  orcid: https://orcid.org/0000-0003-3645-2044
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+- author_id: https://openalex.org/A5020769173
+  display_name: Justas Dauparas
+  orcid: https://orcid.org/0000-0002-0030-144X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+- author_id: https://openalex.org/A5084204507
+  display_name: Sergey Ovchinnikov
+  orcid: https://orcid.org/0000-0003-2774-2744
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801851002
+    display_name: Harvard University Press
+    ror: https://ror.org/006v7bf86
+    country_code: US
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Arts and Sciences, Division of Science, Harvard University, Cambridge,
+    MA 02138, USA.
+  - John Harvard Distinguished Science Fellowship Program, Harvard University, Cambridge,
+    MA 02138, USA.
+- author_id: https://openalex.org/A5081678768
+  display_name: Gyu Rie Lee
+  orcid: https://orcid.org/0000-0002-9119-5303
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+- author_id: https://openalex.org/A5100440597
+  display_name: Jue Wang
+  orcid: https://orcid.org/0000-0002-1139-6640
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+- author_id: https://openalex.org/A5039591575
+  display_name: Qian Cong
+  orcid: https://orcid.org/0000-0002-8909-0414
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I867280407
+    display_name: The University of Texas Southwestern Medical Center
+    ror: https://ror.org/05byvp690
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biophysics, University of Texas Southwestern Medical Center, Dallas,
+    TX, USA.
+  - Eugene McDermott Center for Human Growth and Development, University of Texas
+    Southwestern Medical Center, Dallas, TX, USA.
+- author_id: https://openalex.org/A5048271521
+  display_name: Lisa N. Kinch
+  orcid: https://orcid.org/0000-0003-3041-2615
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I867280407
+    display_name: The University of Texas Southwestern Medical Center
+    ror: https://ror.org/05byvp690
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Howard Hughes Medical Institute, University of Texas Southwestern Medical Center,
+    Dallas, TX, USA.
+- author_id: https://openalex.org/A5025471816
+  display_name: R. Dustin Schaeffer
+  orcid: https://orcid.org/0000-0001-6502-1425
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I867280407
+    display_name: The University of Texas Southwestern Medical Center
+    ror: https://ror.org/05byvp690
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biophysics, University of Texas Southwestern Medical Center, Dallas,
+    TX, USA.
+- author_id: https://openalex.org/A5058128927
+  display_name: "Claudia Mill\xE1n"
+  orcid: https://orcid.org/0000-0002-9283-2220
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Haematology, Cambridge Institute for Medical Research, University
+    of Cambridge, Cambridge, UK.
+- author_id: https://openalex.org/A5011280743
+  display_name: Hahnbeom Park
+  orcid: https://orcid.org/0000-0002-7129-1912
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+- author_id: https://openalex.org/A5059080611
+  display_name: Carson Adams
+  orcid: https://orcid.org/0000-0002-0000-711X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+- author_id: https://openalex.org/A5022647923
+  display_name: Caleb R. Glassman
+  orcid: https://orcid.org/0000-0002-3342-7989
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Cellular Physiology, Stanford University School of
+    Medicine, Stanford, CA 94305, USA.
+  - Department of Structural Biology, Stanford University School of Medicine, Stanford,
+    CA 94305, USA.
+  - Program in Immunology, Stanford University School of Medicine, Stanford, CA 94305,
+    USA.
+- author_id: https://openalex.org/A5103824843
+  display_name: Andy DeGiovanni
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Biophysics &amp; Integrated Bioimaging Division, Lawrence Berkeley National
+    Laboratory, Berkeley, CA, USA.
+- author_id: https://openalex.org/A5061653192
+  display_name: J.H. Pereira
+  orcid: https://orcid.org/0000-0002-8456-1774
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Biophysics &amp; Integrated Bioimaging Division, Lawrence Berkeley National
+    Laboratory, Berkeley, CA, USA.
+- author_id: https://openalex.org/A5029498102
+  display_name: Andria V. Rodrigues
+  orcid: https://orcid.org/0009-0004-2277-8013
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Biophysics &amp; Integrated Bioimaging Division, Lawrence Berkeley National
+    Laboratory, Berkeley, CA, USA.
+- author_id: https://openalex.org/A5081589040
+  display_name: Alberdina A. van Dijk
+  orcid: https://orcid.org/0009-0003-0591-9884
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27765905
+    display_name: North-West University
+    ror: https://ror.org/010f1sq29
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, Focus Area Human Metabolomics, North-West University,
+    2531 Potchefstroom, South Africa.
+- author_id: https://openalex.org/A5058758434
+  display_name: Ana C. Ebrecht
+  orcid: https://orcid.org/0000-0002-6471-4964
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27765905
+    display_name: North-West University
+    ror: https://ror.org/010f1sq29
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, Focus Area Human Metabolomics, North-West University,
+    2531 Potchefstroom, South Africa.
+- author_id: https://openalex.org/A5055261840
+  display_name: Diederik J. Opperman
+  orcid: https://orcid.org/0000-0002-2737-8797
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I26999989
+    display_name: University of the Free State
+    ror: https://ror.org/009xwd568
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biotechnology, University of the Free State, 205 Nelson Mandela
+    Drive, Bloemfontein 9300, South Africa.
+- author_id: https://openalex.org/A5083275750
+  display_name: Theo Sagmeister
+  orcid: https://orcid.org/0000-0002-6703-5510
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I15766117
+    display_name: University of Graz
+    ror: https://ror.org/01faaaf77
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Molecular Biosciences, University of Graz, Humboldtstrasse 50, 8010
+    Graz, Austria.
+- author_id: https://openalex.org/A5046448007
+  display_name: Christoph Buhlheller
+  orcid: https://orcid.org/0000-0001-9358-5316
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I15766117
+    display_name: University of Graz
+    ror: https://ror.org/01faaaf77
+    country_code: AT
+    type: funder
+  - id: https://openalex.org/I202276237
+    display_name: Medical University of Graz
+    ror: https://ror.org/02n0bts35
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Molecular Biosciences, University of Graz, Humboldtstrasse 50, 8010
+    Graz, Austria.
+  - Medical University of Graz, Graz, Austria.
+- author_id: https://openalex.org/A5062499817
+  display_name: "Tea Pavkov\u2010Keller"
+  orcid: https://orcid.org/0000-0001-7871-6680
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I15766117
+    display_name: University of Graz
+    ror: https://ror.org/01faaaf77
+    country_code: AT
+    type: funder
+  - id: https://openalex.org/I4210117258
+    display_name: BioTechMed-Graz
+    ror: https://ror.org/02jfbm483
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioTechMed-Graz, Graz, Austria.
+  - Institute of Molecular Biosciences, University of Graz, Humboldtstrasse 50, 8010
+    Graz, Austria.
+- author_id: https://openalex.org/A5002436828
+  display_name: Manoj Kumar Rathinaswamy
+  orcid: https://orcid.org/0000-0001-5584-4313
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Microbiology, University of Victoria, Victoria,
+    BC, Canada.
+- author_id: https://openalex.org/A5013894081
+  display_name: Udit Dalwadi
+  orcid: https://orcid.org/0000-0001-7887-7070
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141945490
+    display_name: University of British Columbia
+    ror: https://ror.org/03rmrcq20
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Life Sciences Institute, Department of Biochemistry and Molecular Biology, The
+    University of British Columbia, Vancouver, BC, Canada.
+- author_id: https://openalex.org/A5045887748
+  display_name: Calvin K. Yip
+  orcid: https://orcid.org/0000-0003-1779-9501
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141945490
+    display_name: University of British Columbia
+    ror: https://ror.org/03rmrcq20
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Life Sciences Institute, Department of Biochemistry and Molecular Biology, The
+    University of British Columbia, Vancouver, BC, Canada.
+- author_id: https://openalex.org/A5086921160
+  display_name: John E. Burke
+  orcid: https://orcid.org/0000-0001-7904-9859
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I212119943
+    display_name: University of Victoria
+    ror: https://ror.org/04s5mat29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Microbiology, University of Victoria, Victoria,
+    BC, Canada.
+- author_id: https://openalex.org/A5017426114
+  display_name: "K. Christopher Garc\xEDa"
+  orcid: https://orcid.org/0000-0001-9273-0278
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Cellular Physiology, Stanford University School of
+    Medicine, Stanford, CA 94305, USA.
+  - Department of Structural Biology, Stanford University School of Medicine, Stanford,
+    CA 94305, USA.
+  - Howard Hughes Medical Institute, Stanford University School of Medicine, Stanford,
+    CA 94305, USA.
+  - Program in Immunology, Stanford University School of Medicine, Stanford, CA 94305,
+    USA.
+- author_id: https://openalex.org/A5106497440
+  display_name: Nick V. Grishin
+  orcid: https://orcid.org/0000-0003-4108-1153
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I867280407
+    display_name: The University of Texas Southwestern Medical Center
+    ror: https://ror.org/05byvp690
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Texas Southwestern Medical Center, Dallas,
+    TX, USA.
+  - Department of Biophysics, University of Texas Southwestern Medical Center, Dallas,
+    TX, USA.
+  - Howard Hughes Medical Institute, University of Texas Southwestern Medical Center,
+    Dallas, TX, USA.
+- author_id: https://openalex.org/A5027915011
+  display_name: Paul D. Adams
+  orcid: https://orcid.org/0000-0001-9333-8219
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA
+    94720, USA.
+  - Molecular Biophysics &amp; Integrated Bioimaging Division, Lawrence Berkeley National
+    Laboratory, Berkeley, CA, USA.
+- author_id: https://openalex.org/A5068323278
+  display_name: Randy J. Read
+  orcid: https://orcid.org/0000-0001-8273-0047
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Haematology, Cambridge Institute for Medical Research, University
+    of Cambridge, Cambridge, UK.
+- author_id: https://openalex.org/A5053192926
+  display_name: David Baker
+  orcid: https://orcid.org/0000-0001-7896-6217
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+  - Howard Hughes Medical Institute, University of Washington, Seattle, WA 98195,
+    USA.
+  - Institute for Protein Design, University of Washington, Seattle, WA 98195, USA.
+referenced_works:
+- https://openalex.org/W1724277458
+- https://openalex.org/W1965827393
+- https://openalex.org/W1989228411
+- https://openalex.org/W1989832969
+- https://openalex.org/W2000001290
+- https://openalex.org/W2016874659
+- https://openalex.org/W2038438679
+- https://openalex.org/W2060791849
+- https://openalex.org/W2061912672
+- https://openalex.org/W2062250309
+- https://openalex.org/W2069458148
+- https://openalex.org/W2094458603
+- https://openalex.org/W2094646744
+- https://openalex.org/W2115301251
+- https://openalex.org/W2124026197
+- https://openalex.org/W2127130852
+- https://openalex.org/W2130571894
+- https://openalex.org/W2137015675
+- https://openalex.org/W2140673705
+- https://openalex.org/W2143694829
+- https://openalex.org/W2151581834
+- https://openalex.org/W2154139219
+- https://openalex.org/W2154197653
+- https://openalex.org/W2154467573
+- https://openalex.org/W2157771392
+- https://openalex.org/W2159614853
+- https://openalex.org/W2160378127
+- https://openalex.org/W2161151688
+- https://openalex.org/W2163341755
+- https://openalex.org/W2167597940
+- https://openalex.org/W2167709602
+- https://openalex.org/W2171419407
+- https://openalex.org/W2251814725
+- https://openalex.org/W2278091985
+- https://openalex.org/W2485983537
+- https://openalex.org/W2557595285
+- https://openalex.org/W2558795906
+- https://openalex.org/W2598675397
+- https://openalex.org/W2610727414
+- https://openalex.org/W2765322245
+- https://openalex.org/W2766157941
+- https://openalex.org/W2770647690
+- https://openalex.org/W2774178591
+- https://openalex.org/W2804822363
+- https://openalex.org/W2806884808
+- https://openalex.org/W2898402099
+- https://openalex.org/W2923430092
+- https://openalex.org/W2942686433
+- https://openalex.org/W2949342052
+- https://openalex.org/W2949476196
+- https://openalex.org/W2957157683
+- https://openalex.org/W2972411752
+- https://openalex.org/W2973457155
+- https://openalex.org/W2978928757
+- https://openalex.org/W2997234557
+- https://openalex.org/W2999044305
+- https://openalex.org/W3003287532
+- https://openalex.org/W3011698511
+- https://openalex.org/W3044773187
+- https://openalex.org/W3083406432
+- https://openalex.org/W3085561812
+- https://openalex.org/W3097936550
+- https://openalex.org/W3105512395
+- https://openalex.org/W3110608978
+- https://openalex.org/W3113163651
+- https://openalex.org/W3130499490
+- https://openalex.org/W3132153121
+- https://openalex.org/W3133025128
+- https://openalex.org/W3133458480
+- https://openalex.org/W3135564304
+- https://openalex.org/W3157271872
+- https://openalex.org/W3163965514
+- https://openalex.org/W3187966659
+- https://openalex.org/W3208879160
+- https://openalex.org/W3216341763
+- https://openalex.org/W4210586598
+- https://openalex.org/W4210702584
+- https://openalex.org/W4234714728
+primary_topic: Protein Structure and Dynamics
+open_access: true

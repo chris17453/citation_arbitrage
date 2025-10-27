@@ -1,0 +1,449 @@
+id: https://openalex.org/W3023745224
+doi: https://doi.org/10.1038/s41572-020-0160-6
+title: Immune-related adverse events of checkpoint inhibitors
+publication_date: '2020-05-07'
+publication_year: 2020
+cited_by_count: 1141
+citation_percentile: 0.999611
+pagerank: 2.539899914139434e-06
+authorships:
+- author_id: https://openalex.org/A5044287819
+  display_name: "Manuel Ramos\u2010Casals"
+  orcid: https://orcid.org/0000-0001-5709-6734
+  author_position: first
+  institutions: []
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Autoimmune Diseases, ICMiD, Barcelona, Spain
+- author_id: https://openalex.org/A5018401879
+  display_name: Julie R. Brahmer
+  orcid: https://orcid.org/0000-0002-2443-8395
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210164401
+    display_name: Sidney Kimmel Comprehensive Cancer Center
+    ror: https://ror.org/05m5b8x20
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Oncology, Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins,
+    Baltimore, MD, USA
+- author_id: https://openalex.org/A5011114578
+  display_name: Margaret K. Callahan
+  orcid: https://orcid.org/0000-0002-9087-0012
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Melanoma and Immunotherapeutics Service, Department of Medicine, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5014677068
+  display_name: "Alejandra Flores-Ch\xE1vez"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160192
+    display_name: Consorci Institut D'Investigacions Biomediques August Pi I Sunyer
+    ror: https://ror.org/054vayn55
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Autoimmune Diseases Josep Font, IDIBAPS-CELLEX, Barcelona, Spain
+- author_id: https://openalex.org/A5032373949
+  display_name: Niamh M. Keegan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Melanoma and Immunotherapeutics Service, Department of Medicine, Memorial Sloan
+    Kettering Cancer Center, New York, NY, USA
+- author_id: https://openalex.org/A5043181396
+  display_name: Munther A. Khamashta
+  orcid: https://orcid.org/0000-0002-8927-6024
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802257478
+    display_name: Dubai Hospital
+    ror: https://ror.org/04czxss33
+    country_code: AE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lupus Clinic, Rheumatology Department, Dubai Hospital, Dubai, UAE
+- author_id: https://openalex.org/A5085234192
+  display_name: Olivier Lambotte
+  orcid: https://orcid.org/0000-0003-4425-8516
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162942
+    display_name: "Bic\xEAtre Hospital"
+    ror: https://ror.org/05c9p1x46
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "APHP M\xE9decine Interne/Immunologie Clinique, H\xF4pital Bic\xEAtre, Paris,\
+    \ France"
+- author_id: https://openalex.org/A5051196993
+  display_name: Xavier Mariette
+  orcid: https://orcid.org/0000-0002-4244-5417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162942
+    display_name: "Bic\xEAtre Hospital"
+    ror: https://ror.org/05c9p1x46
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210128915
+    display_name: Centre d'Immunologie et des Maladies Infectieuses
+    ror: https://ror.org/0375b8f90
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210128565
+    display_name: CEA Paris-Saclay
+    ror: https://ror.org/03n15ch10
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I2738703131
+    display_name: "Commissariat \xE0 l'\xC9nergie Atomique et aux \xC9nergies Alternatives"
+    ror: https://ror.org/00jjx8s55
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "AP-HP. Universit\xE9 Paris-Saclay, H\xF4pital Bic\xEAtre, Rheumatology Department,\
+    \ Le Kremlin Bic\xEAtre, Paris, France"
+  - "Universit\xE9 Paris-Saclay, INSERM, CEA, Centre de recherche en Immunologie des\
+    \ infections virales et des maladies auto-immunes"
+- author_id: https://openalex.org/A5089513581
+  display_name: Aleix Prat
+  orcid: https://orcid.org/0000-0003-2377-540X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210160192
+    display_name: Consorci Institut D'Investigacions Biomediques August Pi I Sunyer
+    ror: https://ror.org/054vayn55
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Translational Genomic and Targeted Therapeutics in Solid Tumors, Institut d'Investigacions\
+    \ Biom\xE8diques August Pi i Sunyer (IDIBAPS), Barcelona, Spain"
+- author_id: https://openalex.org/A5065216794
+  display_name: "Mar\xEDa E. Suarez\u2010Almazor"
+  orcid: https://orcid.org/0000-0001-5381-5797
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1343551460
+    display_name: The University of Texas MD Anderson Cancer Center
+    ror: https://ror.org/04twxam07
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Section of Rheumatology/Clinical Immunology, The University of Texas MD Anderson
+    Cancer Center, Houston, TX, USA
+referenced_works:
+- https://openalex.org/W1605630196
+- https://openalex.org/W1631854902
+- https://openalex.org/W1692094227
+- https://openalex.org/W1824402493
+- https://openalex.org/W1893566975
+- https://openalex.org/W1898345095
+- https://openalex.org/W1916602633
+- https://openalex.org/W1947599571
+- https://openalex.org/W1971989824
+- https://openalex.org/W1979811833
+- https://openalex.org/W1984592499
+- https://openalex.org/W1985110807
+- https://openalex.org/W1986954791
+- https://openalex.org/W1987246352
+- https://openalex.org/W2002673340
+- https://openalex.org/W2008497077
+- https://openalex.org/W2022073464
+- https://openalex.org/W2036195858
+- https://openalex.org/W2053366731
+- https://openalex.org/W2056085563
+- https://openalex.org/W2056535502
+- https://openalex.org/W2060523664
+- https://openalex.org/W2061071534
+- https://openalex.org/W2070825440
+- https://openalex.org/W2074557796
+- https://openalex.org/W2078610240
+- https://openalex.org/W2085247907
+- https://openalex.org/W2094655231
+- https://openalex.org/W2097995306
+- https://openalex.org/W2101581360
+- https://openalex.org/W2105057287
+- https://openalex.org/W2107150019
+- https://openalex.org/W2108933323
+- https://openalex.org/W2109653150
+- https://openalex.org/W2112121482
+- https://openalex.org/W2119198740
+- https://openalex.org/W2127446775
+- https://openalex.org/W2132916434
+- https://openalex.org/W2137349687
+- https://openalex.org/W2137712039
+- https://openalex.org/W2138578705
+- https://openalex.org/W2140419562
+- https://openalex.org/W2151677678
+- https://openalex.org/W2152897456
+- https://openalex.org/W2156353875
+- https://openalex.org/W2164880863
+- https://openalex.org/W2166107256
+- https://openalex.org/W2166662937
+- https://openalex.org/W2170839475
+- https://openalex.org/W2179179825
+- https://openalex.org/W2193769500
+- https://openalex.org/W2227062383
+- https://openalex.org/W2254907138
+- https://openalex.org/W2265285917
+- https://openalex.org/W2270117727
+- https://openalex.org/W2296047035
+- https://openalex.org/W2301706587
+- https://openalex.org/W2317575649
+- https://openalex.org/W2329871425
+- https://openalex.org/W2338022605
+- https://openalex.org/W2338423971
+- https://openalex.org/W2338484013
+- https://openalex.org/W2338994579
+- https://openalex.org/W2342436929
+- https://openalex.org/W2345522085
+- https://openalex.org/W2398077428
+- https://openalex.org/W2411407183
+- https://openalex.org/W2413514895
+- https://openalex.org/W2441690768
+- https://openalex.org/W2461116874
+- https://openalex.org/W2470583568
+- https://openalex.org/W2471841098
+- https://openalex.org/W2478478625
+- https://openalex.org/W2484958770
+- https://openalex.org/W2508205285
+- https://openalex.org/W2508623887
+- https://openalex.org/W2509486054
+- https://openalex.org/W2513360745
+- https://openalex.org/W2517194758
+- https://openalex.org/W2522337762
+- https://openalex.org/W2525217971
+- https://openalex.org/W2529484692
+- https://openalex.org/W2529904548
+- https://openalex.org/W2530516001
+- https://openalex.org/W2547133566
+- https://openalex.org/W2549481046
+- https://openalex.org/W2557486166
+- https://openalex.org/W2565782504
+- https://openalex.org/W2569887568
+- https://openalex.org/W2572174216
+- https://openalex.org/W2577007969
+- https://openalex.org/W2586811241
+- https://openalex.org/W2588366403
+- https://openalex.org/W2589016133
+- https://openalex.org/W2592187743
+- https://openalex.org/W2594042408
+- https://openalex.org/W2600863041
+- https://openalex.org/W2606367731
+- https://openalex.org/W2613745448
+- https://openalex.org/W2614467908
+- https://openalex.org/W2619461121
+- https://openalex.org/W2635292439
+- https://openalex.org/W2636042323
+- https://openalex.org/W2673218446
+- https://openalex.org/W2676820279
+- https://openalex.org/W2731921472
+- https://openalex.org/W2736166064
+- https://openalex.org/W2740426744
+- https://openalex.org/W2743419024
+- https://openalex.org/W2745126191
+- https://openalex.org/W2745624257
+- https://openalex.org/W2747028021
+- https://openalex.org/W2747440871
+- https://openalex.org/W2751374590
+- https://openalex.org/W2752227448
+- https://openalex.org/W2753065806
+- https://openalex.org/W2753432434
+- https://openalex.org/W2754562068
+- https://openalex.org/W2756666776
+- https://openalex.org/W2760410509
+- https://openalex.org/W2760893760
+- https://openalex.org/W2762010572
+- https://openalex.org/W2762554941
+- https://openalex.org/W2766189863
+- https://openalex.org/W2768429453
+- https://openalex.org/W2770072955
+- https://openalex.org/W2771433910
+- https://openalex.org/W2775518969
+- https://openalex.org/W2776592021
+- https://openalex.org/W2780393431
+- https://openalex.org/W2781484625
+- https://openalex.org/W2781601010
+- https://openalex.org/W2782898385
+- https://openalex.org/W2783137027
+- https://openalex.org/W2783621911
+- https://openalex.org/W2784120148
+- https://openalex.org/W2786403629
+- https://openalex.org/W2786639886
+- https://openalex.org/W2786816161
+- https://openalex.org/W2788644810
+- https://openalex.org/W2789315292
+- https://openalex.org/W2790404437
+- https://openalex.org/W2790572913
+- https://openalex.org/W2792937256
+- https://openalex.org/W2793167197
+- https://openalex.org/W2793633504
+- https://openalex.org/W2793679501
+- https://openalex.org/W2794031826
+- https://openalex.org/W2794612508
+- https://openalex.org/W2795152269
+- https://openalex.org/W2797309423
+- https://openalex.org/W2797675588
+- https://openalex.org/W2799401120
+- https://openalex.org/W2799996199
+- https://openalex.org/W2800428965
+- https://openalex.org/W2800772239
+- https://openalex.org/W2802180500
+- https://openalex.org/W2808896902
+- https://openalex.org/W2809144995
+- https://openalex.org/W2831487285
+- https://openalex.org/W2883803370
+- https://openalex.org/W2883858361
+- https://openalex.org/W2883863660
+- https://openalex.org/W2886247697
+- https://openalex.org/W2887202180
+- https://openalex.org/W2888599070
+- https://openalex.org/W2888955146
+- https://openalex.org/W2889311601
+- https://openalex.org/W2889741031
+- https://openalex.org/W2891486030
+- https://openalex.org/W2891525212
+- https://openalex.org/W2891536507
+- https://openalex.org/W2892225166
+- https://openalex.org/W2893960509
+- https://openalex.org/W2894375781
+- https://openalex.org/W2894717949
+- https://openalex.org/W2894982998
+- https://openalex.org/W2895392798
+- https://openalex.org/W2896600825
+- https://openalex.org/W2896676995
+- https://openalex.org/W2896842273
+- https://openalex.org/W2897422388
+- https://openalex.org/W2897435840
+- https://openalex.org/W2897516580
+- https://openalex.org/W2897882405
+- https://openalex.org/W2898213203
+- https://openalex.org/W2898631010
+- https://openalex.org/W2899030278
+- https://openalex.org/W2900174742
+- https://openalex.org/W2901191795
+- https://openalex.org/W2901290947
+- https://openalex.org/W2901974641
+- https://openalex.org/W2902268061
+- https://openalex.org/W2902545218
+- https://openalex.org/W2902822641
+- https://openalex.org/W2903072327
+- https://openalex.org/W2903585288
+- https://openalex.org/W2904424259
+- https://openalex.org/W2904956707
+- https://openalex.org/W2907056240
+- https://openalex.org/W2909301717
+- https://openalex.org/W2909795893
+- https://openalex.org/W2911264428
+- https://openalex.org/W2911491594
+- https://openalex.org/W2911812451
+- https://openalex.org/W2913006918
+- https://openalex.org/W2913561945
+- https://openalex.org/W2913745075
+- https://openalex.org/W2914107769
+- https://openalex.org/W2915708315
+- https://openalex.org/W2917423789
+- https://openalex.org/W2919487601
+- https://openalex.org/W2920825919
+- https://openalex.org/W2924070172
+- https://openalex.org/W2924964306
+- https://openalex.org/W2925280975
+- https://openalex.org/W2926293214
+- https://openalex.org/W2932070870
+- https://openalex.org/W2937283039
+- https://openalex.org/W2939131851
+- https://openalex.org/W2941779578
+- https://openalex.org/W2943218134
+- https://openalex.org/W2943668434
+- https://openalex.org/W2945674342
+- https://openalex.org/W2946421443
+- https://openalex.org/W2948397884
+- https://openalex.org/W2948598909
+- https://openalex.org/W2949056079
+- https://openalex.org/W2949277199
+- https://openalex.org/W2949901067
+- https://openalex.org/W2950056455
+- https://openalex.org/W2950986625
+- https://openalex.org/W2952412877
+- https://openalex.org/W2952818363
+- https://openalex.org/W2953380780
+- https://openalex.org/W2954313053
+- https://openalex.org/W2954986885
+- https://openalex.org/W2958582726
+- https://openalex.org/W2959224028
+- https://openalex.org/W2964582701
+- https://openalex.org/W2965378827
+- https://openalex.org/W2967069830
+- https://openalex.org/W2968807276
+- https://openalex.org/W2969426509
+- https://openalex.org/W2969665548
+- https://openalex.org/W2970138558
+- https://openalex.org/W2970743640
+- https://openalex.org/W2974280214
+- https://openalex.org/W2977484833
+- https://openalex.org/W2979133982
+- https://openalex.org/W2980012328
+- https://openalex.org/W2980234639
+- https://openalex.org/W2980505578
+- https://openalex.org/W2983779449
+- https://openalex.org/W2988124258
+- https://openalex.org/W2989956813
+- https://openalex.org/W2997651933
+- https://openalex.org/W2999042597
+- https://openalex.org/W2999958881
+- https://openalex.org/W3146004114
+- https://openalex.org/W3158326626
+- https://openalex.org/W4253193856
+- https://openalex.org/W4288360614
+primary_topic: Cancer Immunotherapy and Biomarkers
+open_access: true

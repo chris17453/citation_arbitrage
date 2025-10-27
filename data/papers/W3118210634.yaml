@@ -1,0 +1,244 @@
+id: https://openalex.org/W3118210634
+doi: https://doi.org/10.1038/s41586-020-03051-4
+title: Mastering Atari, Go, chess and shogi by planning with a learned model
+publication_date: '2020-12-23'
+publication_year: 2020
+cited_by_count: 1400
+citation_percentile: 0.999973
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5080518618
+  display_name: Julian Schrittwieser
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5021217383
+  display_name: Ioannis Antonoglou
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5083969139
+  display_name: Thomas Hubert
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5004625775
+  display_name: Karen Simonyan
+  orcid: https://orcid.org/0000-0003-0787-5507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5053301405
+  display_name: Laurent Sifre
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5059285443
+  display_name: Simon Schmitt
+  orcid: https://orcid.org/0000-0001-6219-2130
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5009305837
+  display_name: Arthur Guez
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5081026564
+  display_name: Edward Lockhart
+  orcid: https://orcid.org/0000-0001-8753-0765
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5005349213
+  display_name: Demis Hassabis
+  orcid: https://orcid.org/0000-0003-2812-9917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5051619646
+  display_name: Thore Graepel
+  orcid: https://orcid.org/0000-0003-3957-0310
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5066294254
+  display_name: Timothy Lillicrap
+  orcid: https://orcid.org/0000-0001-8918-486X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DeepMind, London, UK
+- author_id: https://openalex.org/A5091771290
+  display_name: David Silver
+  orcid: https://orcid.org/0000-0002-5197-2892
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University College London, London, UK
+referenced_works:
+- https://openalex.org/W1504466744
+- https://openalex.org/W1587022413
+- https://openalex.org/W1625390266
+- https://openalex.org/W1658008008
+- https://openalex.org/W1714211023
+- https://openalex.org/W1769562380
+- https://openalex.org/W1906772730
+- https://openalex.org/W1957496711
+- https://openalex.org/W1977989560
+- https://openalex.org/W2109910161
+- https://openalex.org/W2110630796
+- https://openalex.org/W2119567691
+- https://openalex.org/W2121103318
+- https://openalex.org/W2121863487
+- https://openalex.org/W2140135625
+- https://openalex.org/W2145339207
+- https://openalex.org/W2150468603
+- https://openalex.org/W2163605009
+- https://openalex.org/W2201581102
+- https://openalex.org/W2257979135
+- https://openalex.org/W2258731934
+- https://openalex.org/W2302255633
+- https://openalex.org/W2334782222
+- https://openalex.org/W2394835031
+- https://openalex.org/W2567374473
+- https://openalex.org/W2574978968
+- https://openalex.org/W2626747984
+- https://openalex.org/W2747592475
+- https://openalex.org/W2761873684
+- https://openalex.org/W2766447205
+- https://openalex.org/W2773381986
+- https://openalex.org/W2786019934
+- https://openalex.org/W2786036274
+- https://openalex.org/W2786928559
+- https://openalex.org/W2805560727
+- https://openalex.org/W2890208753
+- https://openalex.org/W2890960027
+- https://openalex.org/W2891076394
+- https://openalex.org/W2902907165
+- https://openalex.org/W2903552445
+- https://openalex.org/W2908064123
+- https://openalex.org/W2911296969
+- https://openalex.org/W2920362155
+- https://openalex.org/W2948210913
+- https://openalex.org/W2950004691
+- https://openalex.org/W2950872548
+- https://openalex.org/W2952867909
+- https://openalex.org/W2953072278
+- https://openalex.org/W2962986780
+- https://openalex.org/W2963296584
+- https://openalex.org/W2963403143
+- https://openalex.org/W2963430173
+- https://openalex.org/W2963477884
+- https://openalex.org/W2963521487
+- https://openalex.org/W2963604043
+- https://openalex.org/W2963985863
+- https://openalex.org/W2964006217
+- https://openalex.org/W2964077562
+- https://openalex.org/W2964220198
+- https://openalex.org/W2964291307
+- https://openalex.org/W2970202659
+- https://openalex.org/W2976603810
+- https://openalex.org/W2982316857
+- https://openalex.org/W3021208093
+- https://openalex.org/W3035157451
+- https://openalex.org/W3103780890
+- https://openalex.org/W3136620014
+- https://openalex.org/W41554520
+- https://openalex.org/W4288102809
+- https://openalex.org/W4288335419
+- https://openalex.org/W4289294484
+- https://openalex.org/W4294560979
+- https://openalex.org/W4297789121
+- https://openalex.org/W4297797010
+- https://openalex.org/W4298023569
+- https://openalex.org/W834081922
+primary_topic: Artificial Intelligence in Games
+open_access: false

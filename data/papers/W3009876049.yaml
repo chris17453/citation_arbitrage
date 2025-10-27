@@ -1,0 +1,562 @@
+id: https://openalex.org/W3009876049
+doi: https://doi.org/10.21037/jtd.2020.02.64
+title: Modified SEIR and AI prediction of the epidemics trend of COVID-19 in China
+  under public health interventions
+publication_date: '2020-03-01'
+publication_year: 2020
+cited_by_count: 1447
+citation_percentile: 0.999831
+pagerank: 2.7423476430415628e-06
+authorships:
+- author_id: https://openalex.org/A5017306169
+  display_name: Zifeng Yang
+  orcid: https://orcid.org/0000-0002-2681-4171
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Macau Institute for Applied Research in Medicine and Health, State Key Laboratory
+    of Quality Research in Chinese Medicine, Macau University of Science and Technology,
+    Macau, China
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5085343816
+  display_name: Zhiqi Zeng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5100360110
+  display_name: Ke Wang
+  orcid: https://orcid.org/0000-0002-2554-9628
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hengqin WhaleMed Technology Co., Ltd., Zhuhai 519000, China
+- author_id: https://openalex.org/A5090890793
+  display_name: "Sook\u2010San Wong"
+  orcid: https://orcid.org/0000-0002-1290-191X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+  - School of Public Health, The University of Hong Kong, Hong Kong, China
+- author_id: https://openalex.org/A5031255136
+  display_name: Wenhua Liang
+  orcid: https://orcid.org/0000-0002-1391-8238
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5049167312
+  display_name: Mark Zanin
+  orcid: https://orcid.org/0000-0003-3158-1744
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+  - School of Public Health, The University of Hong Kong, Hong Kong, China
+- author_id: https://openalex.org/A5100346761
+  display_name: Peng Liu
+  orcid: https://orcid.org/0000-0001-7838-4436
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210166603
+    display_name: Jinling Institute of Technology
+    ror: https://ror.org/05em1gq62
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Jinling Institute of Technology, Nanjing Innovative Data Technologies, Inc., Nanjing
+    210014, China
+- author_id: https://openalex.org/A5021688960
+  display_name: Xudong Cao
+  orcid: https://orcid.org/0000-0003-2690-1360
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210166603
+    display_name: Jinling Institute of Technology
+    ror: https://ror.org/05em1gq62
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Jinling Institute of Technology, Nanjing Innovative Data Technologies, Inc., Nanjing
+    210014, China
+- author_id: https://openalex.org/A5000141032
+  display_name: Zhongqiang Gao
+  orcid: https://orcid.org/0000-0003-4198-8601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210166603
+    display_name: Jinling Institute of Technology
+    ror: https://ror.org/05em1gq62
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Jinling Institute of Technology, Nanjing Innovative Data Technologies, Inc., Nanjing
+    210014, China
+- author_id: https://openalex.org/A5049896047
+  display_name: Zhitong Mai
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5055049177
+  display_name: Jingyi Liang
+  orcid: https://orcid.org/0000-0002-0450-552X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5100320551
+  display_name: Xiaoqing Liu
+  orcid: https://orcid.org/0000-0003-3059-7293
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5048339590
+  display_name: Shiyue Li
+  orcid: https://orcid.org/0000-0001-5805-4229
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5100742794
+  display_name: Yimin Li
+  orcid: https://orcid.org/0000-0003-0810-5256
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5100558550
+  display_name: Feng Ye
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5101633572
+  display_name: "Wei\u2010jie Guan"
+  orcid: https://orcid.org/0000-0001-5463-391X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5032964730
+  display_name: Yifan Yang
+  orcid: https://orcid.org/0000-0001-9127-168X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Transwarp Technologies (Shanghai) Co., Ltd., Shanghai 200030, China
+- author_id: https://openalex.org/A5100325849
+  display_name: Fei Li
+  orcid: https://orcid.org/0000-0002-7930-5485
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Transwarp Technologies (Shanghai) Co., Ltd., Shanghai 200030, China
+- author_id: https://openalex.org/A5113085388
+  display_name: Shengmei Luo
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Transwarp Technologies (Shanghai) Co., Ltd., Shanghai 200030, China
+- author_id: https://openalex.org/A5002985398
+  display_name: Yuqi Xie
+  orcid: https://orcid.org/0000-0002-5520-4006
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5100395509
+  display_name: Bin Liu
+  orcid: https://orcid.org/0000-0002-5852-7599
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I10660446
+    display_name: Kunming University of Science and Technology
+    ror: https://ror.org/00xyeez13
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kunming University of Science and Technology, Kunming 650504, China
+- author_id: https://openalex.org/A5033639920
+  display_name: Zhoulang Wang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5100657575
+  display_name: Shaobo Zhang
+  orcid: https://orcid.org/0000-0001-7980-9651
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hengqin WhaleMed Technology Co., Ltd., Zhuhai 519000, China
+- author_id: https://openalex.org/A5025640070
+  display_name: Yaonan Wang
+  orcid: https://orcid.org/0000-0002-0519-6458
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hengqin WhaleMed Technology Co., Ltd., Zhuhai 519000, China
+- author_id: https://openalex.org/A5101475024
+  display_name: Nanshan Zhong
+  orcid: https://orcid.org/0000-0003-2274-1427
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+- author_id: https://openalex.org/A5100751322
+  display_name: Jianxing He
+  orcid: https://orcid.org/0000-0003-1737-8192
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I4210154954
+    display_name: State Key Laboratory of Respiratory Disease
+    ror: https://ror.org/04hja5e04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - National Clinical Research left for Respiratory Disease, Guangzhou Institute of
+    Respiratory Health, First Affiliated Hospital of Guangzhou Medical University,
+    State Key Laboratory of Respiratory Disease (Guangzhou Medical University), Guangzhou
+    510230, China
+referenced_works:
+- https://openalex.org/W2150553459
+- https://openalex.org/W3002764620
+- https://openalex.org/W3003573988
+- https://openalex.org/W3003668884
+- https://openalex.org/W3003790823
+- https://openalex.org/W3004280078
+- https://openalex.org/W3004912618
+- https://openalex.org/W3005477624
+- https://openalex.org/W3009876049
+- https://openalex.org/W3165423827
+primary_topic: COVID-19 epidemiological studies
+open_access: true

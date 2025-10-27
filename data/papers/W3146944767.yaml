@@ -1,0 +1,256 @@
+id: https://openalex.org/W3146944767
+doi: https://doi.org/10.1073/pnas.2016239118
+title: Biological structure and function emerge from scaling unsupervised learning
+  to 250 million protein sequences
+publication_date: '2021-04-05'
+publication_year: 2021
+cited_by_count: 2287
+citation_percentile: 0.999982
+pagerank: 2.8834504292204997e-06
+authorships:
+- author_id: https://openalex.org/A5029063409
+  display_name: Alexander Rives
+  orcid: https://orcid.org/0000-0003-2208-0796
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Computer Science, New York University, New York, NY 10012;
+  - Facebook AI Research, New York, NY 10003;
+- author_id: https://openalex.org/A5013933539
+  display_name: Joshua Meier
+  orcid: https://orcid.org/0000-0001-5934-2097
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research, New York, NY 10003;
+- author_id: https://openalex.org/A5006044037
+  display_name: Tom Sercu
+  orcid: https://orcid.org/0000-0003-2947-6064
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research, New York, NY 10003;
+- author_id: https://openalex.org/A5109633499
+  display_name: Siddharth Goyal
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research, New York, NY 10003;
+- author_id: https://openalex.org/A5101484037
+  display_name: Zeming Lin
+  orcid: https://orcid.org/0000-0002-0883-1373
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, New York University, New York, NY 10012;
+- author_id: https://openalex.org/A5101968034
+  display_name: Jason Liu
+  orcid: https://orcid.org/0000-0001-7197-7319
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research, New York, NY 10003;
+- author_id: https://openalex.org/A5049260750
+  display_name: Demi Guo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801851002
+    display_name: Harvard University Press
+    ror: https://ror.org/006v7bf86
+    country_code: US
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard University, Cambridge, MA 02138;
+- author_id: https://openalex.org/A5076248976
+  display_name: Myle Ott
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research, New York, NY 10003;
+- author_id: https://openalex.org/A5058450549
+  display_name: C. Lawrence Zitnick
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114444
+    display_name: Meta (United States)
+    ror: https://ror.org/01zbnvs85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research, New York, NY 10003;
+- author_id: https://openalex.org/A5101481224
+  display_name: Jerry Ma
+  orcid: https://orcid.org/0000-0003-4853-0724
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40347166
+    display_name: University of Chicago
+    ror: https://ror.org/024mw5h28
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Booth School of Business, University of Chicago, Chicago, IL 60637;
+  - Yale Law School, New Haven, CT 06511
+- author_id: https://openalex.org/A5089960673
+  display_name: Rob Fergus
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, New York University, New York, NY 10012;
+referenced_works:
+- https://openalex.org/W1514077080
+- https://openalex.org/W1861406683
+- https://openalex.org/W1936034247
+- https://openalex.org/W1936662467
+- https://openalex.org/W1971896762
+- https://openalex.org/W1976666280
+- https://openalex.org/W1979762151
+- https://openalex.org/W1985471077
+- https://openalex.org/W2008545402
+- https://openalex.org/W2021312899
+- https://openalex.org/W2051210555
+- https://openalex.org/W2055043387
+- https://openalex.org/W2059117301
+- https://openalex.org/W2060300932
+- https://openalex.org/W2060588922
+- https://openalex.org/W2061042699
+- https://openalex.org/W2076048958
+- https://openalex.org/W2102461176
+- https://openalex.org/W2104972430
+- https://openalex.org/W2106694138
+- https://openalex.org/W2112837356
+- https://openalex.org/W2114340287
+- https://openalex.org/W2117130368
+- https://openalex.org/W2118756701
+- https://openalex.org/W2124343374
+- https://openalex.org/W2137566700
+- https://openalex.org/W2147526198
+- https://openalex.org/W2150853465
+- https://openalex.org/W2151831732
+- https://openalex.org/W2161062388
+- https://openalex.org/W2161072217
+- https://openalex.org/W2166701319
+- https://openalex.org/W2169478909
+- https://openalex.org/W2170973209
+- https://openalex.org/W2171641243
+- https://openalex.org/W2187089797
+- https://openalex.org/W2245592118
+- https://openalex.org/W2385735394
+- https://openalex.org/W2546302380
+- https://openalex.org/W2557595285
+- https://openalex.org/W2559655401
+- https://openalex.org/W2593864460
+- https://openalex.org/W2612690371
+- https://openalex.org/W2742834898
+- https://openalex.org/W2774216375
+- https://openalex.org/W2791796577
+- https://openalex.org/W2801109052
+- https://openalex.org/W2882319491
+- https://openalex.org/W2890223884
+- https://openalex.org/W2900065283
+- https://openalex.org/W2900092738
+- https://openalex.org/W2900629010
+- https://openalex.org/W2909727437
+- https://openalex.org/W2943495267
+- https://openalex.org/W2949867299
+- https://openalex.org/W2950374603
+- https://openalex.org/W2950577311
+- https://openalex.org/W2951433247
+- https://openalex.org/W2956569764
+- https://openalex.org/W2962739339
+- https://openalex.org/W2963341956
+- https://openalex.org/W2967606876
+- https://openalex.org/W2970119519
+- https://openalex.org/W2971227267
+- https://openalex.org/W2971803505
+- https://openalex.org/W2977684889
+- https://openalex.org/W2980789587
+- https://openalex.org/W2993794083
+- https://openalex.org/W2995514860
+- https://openalex.org/W2996378307
+- https://openalex.org/W2998704965
+- https://openalex.org/W2998737920
+- https://openalex.org/W2999044305
+- https://openalex.org/W2999481648
+- https://openalex.org/W3010387158
+- https://openalex.org/W3015572436
+- https://openalex.org/W3015700791
+- https://openalex.org/W3037888463
+- https://openalex.org/W3088059392
+- https://openalex.org/W3102341076
+- https://openalex.org/W3132323068
+- https://openalex.org/W3146944767
+- https://openalex.org/W3163435021
+- https://openalex.org/W3198971594
+- https://openalex.org/W3199799076
+- https://openalex.org/W4211054902
+- https://openalex.org/W4249478743
+- https://openalex.org/W4285719527
+primary_topic: Machine Learning in Bioinformatics
+open_access: true

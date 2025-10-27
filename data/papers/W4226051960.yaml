@@ -1,0 +1,885 @@
+id: https://openalex.org/W4226051960
+doi: https://doi.org/10.1093/nar/gkac247
+title: 'The Galaxy platform for accessible, reproducible and collaborative biomedical
+  analyses: 2022 update'
+publication_date: '2022-04-14'
+publication_year: 2022
+cited_by_count: 1171
+citation_percentile: 0.999842
+pagerank: 2.6003687598289966e-06
+authorships:
+- author_id: https://openalex.org/A5006951727
+  display_name: Enis Afgan
+  orcid: https://orcid.org/0000-0003-0922-6711
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - JHU - Johns Hopkins University (Baltimore, Maryland 410-516-8000 - United States)
+- author_id: https://openalex.org/A5065292926
+  display_name: Anton Nekrutenko
+  orcid: https://orcid.org/0000-0002-5987-8032
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130769515
+    display_name: Pennsylvania State University
+    ror: https://ror.org/04p491231
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Penn State - Pennsylvania State University (201 Old Main, University Park, Pennsylvania
+    16802 - United States)
+- author_id: https://openalex.org/A5006559585
+  display_name: "Bj\xF6rn Gr\xFCning"
+  orcid: https://orcid.org/0000-0002-3079-6586
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161046081
+    display_name: University of Freiburg
+    ror: https://ror.org/0245cg223
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Albert-Ludwigs-Universit\xE4t Freiburg = University of Freiburg (Georges-K\xF6\
+    hler Allee 51 79110 Freiburg im Breisgau (Germany) - Germany)"
+- author_id: https://openalex.org/A5075101770
+  display_name: Daniel Blankenberg
+  orcid: https://orcid.org/0000-0002-6833-9049
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316902750
+    display_name: Cleveland Clinic
+    ror: https://ror.org/03xjacd83
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cleveland Clinic (9500 Euclid Avenue, Cleveland, Ohio 44195 - United States)
+- author_id: https://openalex.org/A5031069551
+  display_name: Jeremy Goecks
+  orcid: https://orcid.org/0000-0002-4583-5226
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3019308854
+    display_name: Moffitt Cancer Center
+    ror: https://ror.org/01xf75524
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - H. Lee Moffitt Cancer Center and Research Institute (Tampa, Florida, USA - United
+    States)
+- author_id: https://openalex.org/A5058192453
+  display_name: Michael C. Schatz
+  orcid: https://orcid.org/0000-0002-4118-4446
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343052199
+    display_name: Kaiser Permanente
+    ror: https://ror.org/00t60zh31
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Kaiser Permanente (Oakland, Californie, \xC9tats-Unis - United States)"
+- author_id: https://openalex.org/A5065723356
+  display_name: Alexander Ostrovsky
+  orcid: https://orcid.org/0000-0002-7901-7109
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - JHU - Johns Hopkins University (Baltimore, Maryland 410-516-8000 - United States)
+- author_id: https://openalex.org/A5090394262
+  display_name: Alexandru Mahmoud
+  orcid: https://orcid.org/0000-0002-3779-492X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HMS - Harvard Medical School [Boston] (25 Shattuck Street Boston, MA 02115 - United
+    States)
+- author_id: https://openalex.org/A5021677313
+  display_name: Andrew Lonie
+  orcid: https://orcid.org/0000-0002-2006-3856
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165779595
+    display_name: The University of Melbourne
+    ror: https://ror.org/01ej9dk98
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CCSE - Department of Computer Science and Software Engineering (The University
+    of Melbourne, Victoria 3010 - Australia)
+- author_id: https://openalex.org/A5067115833
+  display_name: Anna Syme
+  orcid: https://orcid.org/0000-0002-9906-0673
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165779595
+    display_name: The University of Melbourne
+    ror: https://ror.org/01ej9dk98
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Melbourne (Parkville VIC 3010 - Australia)
+- author_id: https://openalex.org/A5062293799
+  display_name: Anne Fouilloux
+  orcid: https://orcid.org/0000-0002-1784-2920
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799829267
+    display_name: Simula Research Laboratory
+    ror: https://ror.org/00vn06n10
+    country_code: 'NO'
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Simula Research Laboratory [OSLO] (Kristian Augusts gate 23\r\n0164 Oslo - Norway)"
+- author_id: https://openalex.org/A5003706908
+  display_name: Anthony Bretaudeau
+  orcid: https://orcid.org/0000-0003-0914-2470
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210141755
+    display_name: "Institut de G\xE9n\xE9tique, Environnement et Protection des Plantes"
+    ror: https://ror.org/038kxsm48
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "IGEPP - Institut de G\xE9n\xE9tique, Environnement et Protection des Plantes\
+    \ (Domaine de la Motte au Vicomte BP 35327\r\n35653 Le Rheu - France)"
+- author_id: https://openalex.org/A5065292926
+  display_name: Anton Nekrutenko
+  orcid: https://orcid.org/0000-0002-5987-8032
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130769515
+    display_name: Pennsylvania State University
+    ror: https://ror.org/04p491231
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Penn State - Pennsylvania State University (201 Old Main, University Park, Pennsylvania
+    16802 - United States)
+- author_id: https://openalex.org/A5080170772
+  display_name: Anup Kumar
+  orcid: https://orcid.org/0000-0002-2068-4695
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150870154
+    display_name: Indian Institute of Management Ahmedabad
+    ror: https://ror.org/02egcpy68
+    country_code: IN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IIM Nagpur - Indian Institute of Management Nagpur (India)
+- author_id: https://openalex.org/A5027307091
+  display_name: Arthur C. Eschenlauer
+  orcid: https://orcid.org/0000-0002-2882-0508
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5096322332
+  display_name: Assunta D DeSanto
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130769515
+    display_name: Pennsylvania State University
+    ror: https://ror.org/04p491231
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Penn State - Pennsylvania State University (201 Old Main, University Park, Pennsylvania
+    16802 - United States)
+- author_id: https://openalex.org/A5032668613
+  display_name: Aysam Guerler
+  orcid: https://orcid.org/0000-0001-6513-2539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - JHU - Johns Hopkins University (Baltimore, Maryland 410-516-8000 - United States)
+- author_id: https://openalex.org/A5040875640
+  display_name: "Beatriz Serrano\u2010Solano"
+  orcid: https://orcid.org/0000-0002-5862-6132
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153543
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/050589e39
+    country_code: DE
+    type: government
+  - id: https://openalex.org/I130769515
+    display_name: Pennsylvania State University
+    ror: https://ror.org/04p491231
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "EMBL - European Molecular Biology Laboratory [Heidelberg] (Meyerhofstra\xDFe\
+    \ 1, 69117 Heidelberg, Germany - Germany)"
+  - Penn State - Pennsylvania State University (201 Old Main, University Park, Pennsylvania
+    16802 - United States)
+- author_id: https://openalex.org/A5015993889
+  display_name: "B\xE9r\xE9nice Batut"
+  orcid: https://orcid.org/0000-0001-9852-1987
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I198244214
+    display_name: "Universit\xE9 Clermont Auvergne"
+    ror: https://ror.org/01a8ajp46
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "AuBi - Plateforme Auvergne Bioinformatique (Universit\xE9 Clermont Auvergne,\
+    \ B\xE2t. Turing, M\xE9socentre Clermont Auvergne, 7, avenue Blaise Pascal, TSA\
+    \ 60026, 63178 Aubi\xE8re cedex - France)"
+- author_id: https://openalex.org/A5006559585
+  display_name: "Bj\xF6rn Gr\xFCning"
+  orcid: https://orcid.org/0000-0002-3079-6586
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161046081
+    display_name: University of Freiburg
+    ror: https://ror.org/0245cg223
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Albert-Ludwigs-Universit\xE4t Freiburg = University of Freiburg (Georges-K\xF6\
+    hler Allee 51 79110 Freiburg im Breisgau (Germany) - Germany)"
+- author_id: https://openalex.org/A5018311228
+  display_name: Bradley W. Langhorst
+  orcid: https://orcid.org/0000-0001-7390-1094
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5045352497
+  display_name: Bridget Carr
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5019018593
+  display_name: Bryan Raubenolt
+  orcid: https://orcid.org/0000-0002-6454-2680
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5026299525
+  display_name: Cameron Hyde
+  orcid: https://orcid.org/0000-0002-5913-9766
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5108237249
+  display_name: Catherine J. Bromhead
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5087764384
+  display_name: Christopher B. Barnett
+  orcid: https://orcid.org/0000-0002-1467-5741
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5075483312
+  display_name: Coline Royaux
+  orcid: https://orcid.org/0000-0003-4308-5617
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5032899433
+  display_name: "Crist\xF3bal Gallardo"
+  orcid: https://orcid.org/0009-0000-6988-1051
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5075101770
+  display_name: Daniel Blankenberg
+  orcid: https://orcid.org/0000-0002-6833-9049
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5010611898
+  display_name: Daniel Fornika
+  orcid: https://orcid.org/0000-0002-6178-3585
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5074340312
+  display_name: Dannon Baker
+  orcid: https://orcid.org/0000-0002-4882-5357
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5058980738
+  display_name: Dave Bouvier
+  orcid: https://orcid.org/0000-0001-8031-5069
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5019027500
+  display_name: Dave Clements
+  orcid: https://orcid.org/0000-0002-9970-6657
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5048901212
+  display_name: David Anderson de Lima Morais
+  orcid: https://orcid.org/0000-0002-1931-0696
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5096255201
+  display_name: "David L\xF3pez Tabernero"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5015170095
+  display_name: "Delphine Larivi\xE8re"
+  orcid: https://orcid.org/0000-0001-6421-3484
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5054086393
+  display_name: Engy Nasr
+  orcid: https://orcid.org/0000-0001-9047-4215
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5006951727
+  display_name: Enis Afgan
+  orcid: https://orcid.org/0000-0003-0922-6711
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5046629951
+  display_name: Federico Zambelli
+  orcid: https://orcid.org/0000-0003-3487-4331
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5029682281
+  display_name: Florian Heyl
+  orcid: https://orcid.org/0000-0002-3651-5685
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5078171708
+  display_name: Fotis Psomopoulos
+  orcid: https://orcid.org/0000-0002-0222-4273
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5034617878
+  display_name: Frederik Coppens
+  orcid: https://orcid.org/0000-0001-6565-5145
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5007948957
+  display_name: Gareth Price
+  orcid: https://orcid.org/0000-0003-2439-8650
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5086775972
+  display_name: Gianmauro Cuccuru
+  orcid: https://orcid.org/0000-0002-5335-545X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5075852017
+  display_name: "Gildas Le Corguill\xE9"
+  orcid: https://orcid.org/0000-0003-1742-9711
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5081605395
+  display_name: Greg Von Kuster
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5030882331
+  display_name: Gulsum Gudukbay Akbulut
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5040233488
+  display_name: Helena Rasche
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5088709542
+  display_name: Hans-Rudolf Hotz
+  orcid: https://orcid.org/0000-0002-2799-424X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5060114066
+  display_name: Ignacio Eguinoa
+  orcid: https://orcid.org/0000-0002-6190-122X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5057816946
+  display_name: Igor V. Makunin
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5006762468
+  display_name: Isuru Ranawaka
+  orcid: https://orcid.org/0000-0001-7019-0290
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5035916471
+  display_name: James Taylor
+  orcid: https://orcid.org/0000-0001-8246-7074
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5056084730
+  display_name: Jayadev Joshi
+  orcid: https://orcid.org/0000-0001-7589-5230
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5007050739
+  display_name: "Jennifer Hillman\u2010Jackson"
+  orcid: https://orcid.org/0000-0003-4012-8116
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5031069551
+  display_name: Jeremy Goecks
+  orcid: https://orcid.org/0000-0002-4583-5226
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051693563
+  display_name: John Chilton
+  orcid: https://orcid.org/0000-0002-6794-0756
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5086460627
+  display_name: Kaivan Kamali
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5012038702
+  display_name: Keith Suderman
+  orcid: https://orcid.org/0000-0003-0502-4557
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5066638928
+  display_name: Krzysztof Poterlowicz
+  orcid: https://orcid.org/0000-0001-6173-5674
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5114514866
+  display_name: Le Bras Yvan
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5056147236
+  display_name: "Lucille Lopez\u2010Delisle"
+  orcid: https://orcid.org/0000-0002-1964-4960
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5029947667
+  display_name: Luke Sargent
+  orcid: https://orcid.org/0000-0003-1327-6535
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5044499655
+  display_name: Madeline E. Bassetti
+  orcid: https://orcid.org/0000-0003-1926-0657
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5013315777
+  display_name: M. A. Tangaro
+  orcid: https://orcid.org/0000-0003-3923-2266
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5012506603
+  display_name: Marius van den Beek
+  orcid: https://orcid.org/0000-0002-9676-7032
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5004909274
+  display_name: "Martin \u010Cech"
+  orcid: https://orcid.org/0000-0002-9318-1781
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5039370686
+  display_name: Matthias Bernt
+  orcid: https://orcid.org/0000-0003-3763-0797
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5044658728
+  display_name: Matthias Fahrner
+  orcid: https://orcid.org/0000-0001-7955-2518
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5043795166
+  display_name: Mehmet Tekman
+  orcid: https://orcid.org/0000-0002-4181-2676
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5046946899
+  display_name: "Melanie Christine F\xF6ll"
+  orcid: https://orcid.org/0000-0002-1887-7543
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5058192453
+  display_name: Michael C. Schatz
+  orcid: https://orcid.org/0000-0002-4118-4446
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5020288899
+  display_name: Michael R. Crusoe
+  orcid: https://orcid.org/0000-0002-2961-9670
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5015806935
+  display_name: Miguel Roncoroni
+  orcid: https://orcid.org/0000-0001-7461-1427
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5040983164
+  display_name: Natalie Kucher
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5030446017
+  display_name: Nate Coraor
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5006502846
+  display_name: Nicholas Stoler
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5111740753
+  display_name: Nick Rhodes
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5034974535
+  display_name: Nicola Soranzo
+  orcid: https://orcid.org/0000-0003-3627-5340
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5017853825
+  display_name: Niko Pinter
+  orcid: https://orcid.org/0000-0002-8241-6821
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5001522124
+  display_name: Nuwan Goonasekera
+  orcid: https://orcid.org/0000-0002-3019-2934
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5101428806
+  display_name: Pablo Moreno
+  orcid: https://orcid.org/0000-0002-9856-1679
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5019620266
+  display_name: Pavankumar Videm
+  orcid: https://orcid.org/0000-0002-5192-126X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5069552188
+  display_name: "M\xE9lanie P\xE9t\xE9ra"
+  orcid: https://orcid.org/0000-0002-1779-6901
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5029498433
+  display_name: Pietro Mandreoli
+  orcid: https://orcid.org/0000-0002-7088-1283
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5067118759
+  display_name: Pratik Jagtap
+  orcid: https://orcid.org/0000-0003-0984-0973
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5014261059
+  display_name: Qiang Gu
+  orcid: https://orcid.org/0000-0002-2606-0461
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5013377183
+  display_name: Ralf J. M. Weber
+  orcid: https://orcid.org/0000-0002-8796-4771
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5006440422
+  display_name: Ross Lazarus
+  orcid: https://orcid.org/0000-0003-3939-1961
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5077343559
+  display_name: Ruben H.P. Vorderman
+  orcid: https://orcid.org/0000-0002-8813-1528
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5013915440
+  display_name: Saskia Hiltemann
+  orcid: https://orcid.org/0000-0003-3803-468X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5074898528
+  display_name: Sergey Golitsynskiy
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5060605357
+  display_name: Shilpa Garg
+  orcid: https://orcid.org/0000-0003-0200-4200
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5027704744
+  display_name: Simon Bray
+  orcid: https://orcid.org/0000-0002-0621-6705
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5011419869
+  display_name: Simon Gladman
+  orcid: https://orcid.org/0000-0002-6100-4385
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5041142252
+  display_name: Simone Leo
+  orcid: https://orcid.org/0000-0001-8271-5429
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5082971131
+  display_name: Subina Mehta
+  orcid: https://orcid.org/0000-0001-9818-0537
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5017175864
+  display_name: Timothy J. Griffin
+  orcid: https://orcid.org/0000-0001-6801-2559
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5087600054
+  display_name: Vahid Jalili
+  orcid: https://orcid.org/0000-0003-4986-2157
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5033323351
+  display_name: Yves Vandenbrouck
+  orcid: https://orcid.org/0000-0002-1292-373X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020098449
+    display_name: CEA Grenoble
+    ror: https://ror.org/02mg6n827
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I2738703131
+    display_name: "Commissariat \xE0 l'\xC9nergie Atomique et aux \xC9nergies Alternatives"
+    ror: https://ror.org/00jjx8s55
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210110641
+    display_name: CEA Cadarache
+    ror: https://ror.org/01rs1gy10
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "CEA - Commissariat \xE0 l'\xE9nergie atomique et aux \xE9nergies alternatives\
+    \ (Centre de Saclay\r\nCentre de Grenoble\r\nCentre de Cadarache\r\netc - France)"
+referenced_works:
+- https://openalex.org/W2001938458
+- https://openalex.org/W2087507717
+- https://openalex.org/W2159675211
+- https://openalex.org/W2161645441
+- https://openalex.org/W2302501749
+- https://openalex.org/W2576576365
+- https://openalex.org/W2806399642
+- https://openalex.org/W2952157594
+- https://openalex.org/W3023364312
+- https://openalex.org/W3029928583
+- https://openalex.org/W3034006655
+- https://openalex.org/W3081357404
+- https://openalex.org/W3127029381
+- https://openalex.org/W3142565858
+- https://openalex.org/W3159728495
+- https://openalex.org/W3164253094
+- https://openalex.org/W3198909684
+- https://openalex.org/W3200776886
+- https://openalex.org/W3204754419
+- https://openalex.org/W4206499307
+- https://openalex.org/W4285773620
+- https://openalex.org/W4382919136
+primary_topic: Scientific Computing and Data Management
+open_access: true

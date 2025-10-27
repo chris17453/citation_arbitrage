@@ -1,0 +1,255 @@
+id: https://openalex.org/W3045244624
+doi: https://doi.org/10.1186/s13059-020-02090-4
+title: Producing polished prokaryotic pangenomes with the Panaroo pipeline
+publication_date: '2020-07-22'
+publication_year: 2020
+cited_by_count: 859
+citation_percentile: 0.999983
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5016112946
+  display_name: "Gerry Tonkin\u2010Hill"
+  orcid: https://orcid.org/0000-0003-4397-2224
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Parasites and Microbes, Wellcome Sanger Institute, Cambridge, UK
+- author_id: https://openalex.org/A5071227006
+  display_name: Neil MacAlasdair
+  orcid: https://orcid.org/0000-0002-4033-6970
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Parasites and Microbes, Wellcome Sanger Institute, Cambridge, UK
+- author_id: https://openalex.org/A5047324606
+  display_name: Christopher Ruis
+  orcid: https://orcid.org/0000-0003-0977-5534
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Veterinary Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5056386516
+  display_name: Aaron Weimann
+  orcid: https://orcid.org/0000-0003-4597-2471
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Veterinary Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5014727371
+  display_name: Gal Horesh
+  orcid: https://orcid.org/0000-0003-0342-0185
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Parasites and Microbes, Wellcome Sanger Institute, Cambridge, UK
+- author_id: https://openalex.org/A5012148931
+  display_name: John A. Lees
+  orcid: https://orcid.org/0000-0001-5360-1254
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease
+    Epidemiology, Imperial College London, London, W2 1PG, UK
+- author_id: https://openalex.org/A5041913698
+  display_name: Rebecca A. Gladstone
+  orcid: https://orcid.org/0000-0002-7993-3051
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I184942183
+    display_name: University of Oslo
+    ror: https://ror.org/01xtthb56
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, University of Oslo, Blindern, 0317, Norway
+- author_id: https://openalex.org/A5022302563
+  display_name: Stephanie W. Lo
+  orcid: https://orcid.org/0000-0002-2182-0222
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Parasites and Microbes, Wellcome Sanger Institute, Cambridge, UK
+- author_id: https://openalex.org/A5070748938
+  display_name: Christopher A. Beaudoin
+  orcid: https://orcid.org/0000-0002-0232-0281
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5045749281
+  display_name: R. Andres Floto
+  orcid: https://orcid.org/0000-0002-2188-5659
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Immunity Unit, Department of Medicine, University of Cambridge, Cambridge,
+    UK
+- author_id: https://openalex.org/A5071190932
+  display_name: Simon D. W. Frost
+  orcid: https://orcid.org/0000-0002-5207-9879
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research, Redmond, 98052, WA, USA
+- author_id: https://openalex.org/A5013196979
+  display_name: Jukka Corander
+  orcid: https://orcid.org/0000-0002-7752-1942
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I184942183
+    display_name: University of Oslo
+    ror: https://ror.org/01xtthb56
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, University of Oslo, Blindern, 0317, Norway
+- author_id: https://openalex.org/A5077742706
+  display_name: Stephen D. Bentley
+  orcid: https://orcid.org/0000-0001-8094-3751
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Parasites and Microbes, Wellcome Sanger Institute, Cambridge, UK
+- author_id: https://openalex.org/A5084268602
+  display_name: Julian Parkhill
+  orcid: https://orcid.org/0000-0002-7069-5958
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Veterinary Medicine, University of Cambridge, Cambridge, UK
+referenced_works:
+- https://openalex.org/W104710838
+- https://openalex.org/W128985141
+- https://openalex.org/W1895017250
+- https://openalex.org/W1990453950
+- https://openalex.org/W2008856488
+- https://openalex.org/W2010361633
+- https://openalex.org/W2045204781
+- https://openalex.org/W2052426953
+- https://openalex.org/W2055615325
+- https://openalex.org/W2090725059
+- https://openalex.org/W2096093282
+- https://openalex.org/W2102257617
+- https://openalex.org/W2105199251
+- https://openalex.org/W2112364185
+- https://openalex.org/W2117207428
+- https://openalex.org/W2120902911
+- https://openalex.org/W2122673596
+- https://openalex.org/W2124166542
+- https://openalex.org/W2127322768
+- https://openalex.org/W2127774996
+- https://openalex.org/W2133253129
+- https://openalex.org/W2139736670
+- https://openalex.org/W2143485490
+- https://openalex.org/W2144377764
+- https://openalex.org/W2145369404
+- https://openalex.org/W2156125289
+- https://openalex.org/W2157539385
+- https://openalex.org/W2158023121
+- https://openalex.org/W2158714788
+- https://openalex.org/W2159675211
+- https://openalex.org/W2167142288
+- https://openalex.org/W2172179959
+- https://openalex.org/W2301572183
+- https://openalex.org/W2320826061
+- https://openalex.org/W2346435620
+- https://openalex.org/W2528928418
+- https://openalex.org/W2554414896
+- https://openalex.org/W26356079
+- https://openalex.org/W2763692854
+- https://openalex.org/W2780092490
+- https://openalex.org/W2803800822
+- https://openalex.org/W2884219632
+- https://openalex.org/W2925963954
+- https://openalex.org/W2937552023
+- https://openalex.org/W2937635380
+- https://openalex.org/W2947780575
+- https://openalex.org/W2949102320
+- https://openalex.org/W2949477823
+- https://openalex.org/W2950150251
+- https://openalex.org/W2950299756
+- https://openalex.org/W2951704474
+- https://openalex.org/W2953174564
+- https://openalex.org/W2962941748
+- https://openalex.org/W2966748324
+- https://openalex.org/W2979549191
+- https://openalex.org/W2987650093
+- https://openalex.org/W3012393121
+- https://openalex.org/W3023696095
+- https://openalex.org/W4393846023
+primary_topic: Genomics and Phylogenetic Studies
+open_access: true

@@ -1,0 +1,1541 @@
+id: https://openalex.org/W4210665241
+doi: https://doi.org/10.1038/s41586-022-04474-x
+title: Altered TMPRSS2 usage by SARS-CoV-2 Omicron impacts infectivity and fusogenicity
+publication_date: '2022-02-01'
+publication_year: 2022
+cited_by_count: 1031
+citation_percentile: 0.999952
+pagerank: 2.598926140824982e-06
+authorships:
+- author_id: https://openalex.org/A5101818024
+  display_name: Bo Meng
+  orcid: https://orcid.org/0000-0001-5668-2221
+  author_position: first
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), Cambridge,
+    UK
+- author_id: https://openalex.org/A5034804376
+  display_name: Adam Abdullahi
+  orcid: https://orcid.org/0000-0001-9703-8264
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), Cambridge,
+    UK
+- author_id: https://openalex.org/A5086247931
+  display_name: Isabella A.T.M. Ferreira
+  orcid: https://orcid.org/0000-0001-5232-4670
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), Cambridge,
+    UK
+- author_id: https://openalex.org/A5005757640
+  display_name: Niluka Goonawardane
+  orcid: https://orcid.org/0000-0003-2906-5513
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), Cambridge,
+    UK
+- author_id: https://openalex.org/A5027827712
+  display_name: Akatsuki Saito
+  orcid: https://orcid.org/0000-0002-2792-4399
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I118574687
+    display_name: University of Miyazaki
+    ror: https://ror.org/0447kww10
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Veterinary Science, Faculty of Agriculture, University of Miyazaki,
+    Miyazaki, Japan
+- author_id: https://openalex.org/A5001195670
+  display_name: Izumi Kimura
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210086300
+    display_name: National Institute of Infectious Diseases
+    ror: https://ror.org/001ggbx22
+    country_code: JP
+    type: government
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Systems Virology, Department of Infectious Disease Control, International
+    Research Center for Infectious Diseases, The Institute of Medical Science, The
+    University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5083128496
+  display_name: Daichi Yamasoba
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210086300
+    display_name: National Institute of Infectious Diseases
+    ror: https://ror.org/001ggbx22
+    country_code: JP
+    type: government
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Systems Virology, Department of Infectious Disease Control, International
+    Research Center for Infectious Diseases, The Institute of Medical Science, The
+    University of Tokyo, Tokyo, Japan
+- author_id: https://openalex.org/A5068533032
+  display_name: "Pehu\xE9n Pereyra Gerber"
+  orcid: https://orcid.org/0000-0003-4514-414X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), Cambridge,
+    UK
+- author_id: https://openalex.org/A5060289200
+  display_name: Saman Fatihi
+  orcid: https://orcid.org/0000-0002-9781-9009
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177828482
+    display_name: Institute of Genomics and Integrative Biology
+    ror: https://ror.org/05ef28661
+    country_code: IN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CSIR Institute of Genomics and Integrative Biology, Delhi, India
+- author_id: https://openalex.org/A5073827620
+  display_name: Surabhi Rathore
+  orcid: https://orcid.org/0000-0002-3137-6006
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177828482
+    display_name: Institute of Genomics and Integrative Biology
+    ror: https://ror.org/05ef28661
+    country_code: IN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CSIR Institute of Genomics and Integrative Biology, Delhi, India
+- author_id: https://openalex.org/A5067893519
+  display_name: Samantha K. Zepeda
+  orcid: https://orcid.org/0000-0003-0005-9793
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry, University of Washington, Seattle, WA, USA
+- author_id: https://openalex.org/A5057729877
+  display_name: Guido Papa
+  orcid: https://orcid.org/0000-0002-5215-0014
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170203145
+    display_name: MRC Laboratory of Molecular Biology
+    ror: https://ror.org/00tw3jy02
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "MRC\u2014Laboratory of Molecular Biology, Cambridge, UK"
+- author_id: https://openalex.org/A5071338183
+  display_name: Steven A. Kemp
+  orcid: https://orcid.org/0000-0001-7077-6793
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), Cambridge,
+    UK
+- author_id: https://openalex.org/A5003118804
+  display_name: Terumasa Ikeda
+  orcid: https://orcid.org/0000-0003-2869-9450
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I96036126
+    display_name: Kumamoto University
+    ror: https://ror.org/02cgss904
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Molecular Virology and Genetics, Joint Research Center for Human Retrovirus
+    Infection, Kumamoto University, Kumamoto, Japan
+- author_id: https://openalex.org/A5020428363
+  display_name: Mako Toyoda
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I96036126
+    display_name: Kumamoto University
+    ror: https://ror.org/02cgss904
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, Joint Research Center for Human Retrovirus
+    Infection, Kumamoto University, Kumamoto, Japan
+- author_id: https://openalex.org/A5062691788
+  display_name: Toong Seng Tan
+  orcid: https://orcid.org/0000-0002-6751-5987
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I96036126
+    display_name: Kumamoto University
+    ror: https://ror.org/02cgss904
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, Joint Research Center for Human Retrovirus
+    Infection, Kumamoto University, Kumamoto, Japan
+- author_id: https://openalex.org/A5022322867
+  display_name: Jin Kuramochi
+  orcid: https://orcid.org/0000-0002-9078-0527
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123464
+    display_name: Saiseikai Utsunomiya hospital
+    ror: https://ror.org/03a2szg51
+    country_code: JP
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kuramochi Clinic Interpark, Utsunomiya, Japan
+- author_id: https://openalex.org/A5109268422
+  display_name: Shigeki Mitsunaga
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I113198587
+    display_name: National Institute of Genetics
+    ror: https://ror.org/02xg1m795
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genetics Laboratory, National Institute of Genetics, Mishima, Japan
+- author_id: https://openalex.org/A5069707790
+  display_name: Takamasa Ueno
+  orcid: https://orcid.org/0000-0003-4852-4236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I96036126
+    display_name: Kumamoto University
+    ror: https://ror.org/02cgss904
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, Joint Research Center for Human Retrovirus
+    Infection, Kumamoto University, Kumamoto, Japan
+- author_id: https://openalex.org/A5067975379
+  display_name: Kotaro Shirakawa
+  orcid: https://orcid.org/0000-0002-7469-1276
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I22299242
+    display_name: Kyoto University
+    ror: https://ror.org/02kpeqv85
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Hematology and Oncology, Graduate School of Medicine, Kyoto University,
+    Kyoto, Japan
+- author_id: https://openalex.org/A5021783559
+  display_name: "Akifumi Takaori\u2010Kondo"
+  orcid: https://orcid.org/0000-0001-7678-4284
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I22299242
+    display_name: Kyoto University
+    ror: https://ror.org/02kpeqv85
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Hematology and Oncology, Graduate School of Medicine, Kyoto University,
+    Kyoto, Japan
+- author_id: https://openalex.org/A5010169247
+  display_name: Teresa Brevini
+  orcid: https://orcid.org/0000-0002-3581-5379
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5082523707
+  display_name: Donna L. Mallery
+  orcid: https://orcid.org/0000-0003-2713-5215
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170203145
+    display_name: MRC Laboratory of Molecular Biology
+    ror: https://ror.org/00tw3jy02
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "MRC\u2014Laboratory of Molecular Biology, Cambridge, UK"
+- author_id: https://openalex.org/A5011986799
+  display_name: Oscar Charles
+  orcid: https://orcid.org/0000-0003-2578-5193
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, UCL, London, UK
+- author_id: https://openalex.org/A5028534327
+  display_name: Stephen Baker
+  orcid: https://orcid.org/0000-0003-1308-5755
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Institute of Therapeutic Immunology & Infectious Disease (CITIID), Cambridge,
+    UK
+- author_id: https://openalex.org/A5115010691
+  display_name: Gordon Dougan
+  orcid: https://orcid.org/0000-0003-0022-965X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5012990096
+  display_name: Christoph Hess
+  orcid: https://orcid.org/0000-0003-0364-8825
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5028338107
+  display_name: Nathalie Kingston
+  orcid: https://orcid.org/0000-0002-9190-2231
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR BioResource, Cambridge University Hospitals NHS Foundation Trust, Cambridge
+    Biomedical Campus, Cambridge, UK
+- author_id: https://openalex.org/A5075336505
+  display_name: Paul J. Lehner
+  orcid: https://orcid.org/0000-0001-9383-1054
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5047269468
+  display_name: Paul Lyons
+  orcid: https://orcid.org/0000-0001-7035-8997
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5082673355
+  display_name: Nicholas J. Matheson
+  orcid: https://orcid.org/0000-0002-3318-1851
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5014699562
+  display_name: Willem H. Ouwehand
+  orcid: https://orcid.org/0000-0002-7744-1790
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5037473186
+  display_name: Caroline Saunders
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5034919407
+  display_name: Charlotte Summers
+  orcid: https://orcid.org/0000-0002-7269-2873
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5039509792
+  display_name: James Thaventhiran
+  orcid: https://orcid.org/0000-0001-8616-074X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Addenbrooke's Hospital, Cambridge University Hospitals NHS Foundation Trust, Cambridge
+    Biomedical Campus, Cambridge, UK
+- author_id: https://openalex.org/A5040443453
+  display_name: Mark Toshner
+  orcid: https://orcid.org/0000-0002-3969-6143
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5018600247
+  display_name: Michael P. Weekes
+  orcid: https://orcid.org/0000-0003-3196-5545
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5036848232
+  display_name: Patrick H. Maxwell
+  orcid: https://orcid.org/0000-0002-0338-2679
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Addenbrooke's Hospital, Cambridge University Hospitals NHS Foundation Trust, Cambridge
+    Biomedical Campus, Cambridge, UK
+- author_id: https://openalex.org/A5076249370
+  display_name: Ashley Shaw
+  orcid: https://orcid.org/0000-0001-7559-3224
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Addenbrooke's Hospital, Cambridge University Hospitals NHS Foundation Trust, Cambridge
+    Biomedical Campus, Cambridge, UK
+- author_id: https://openalex.org/A5066644595
+  display_name: Ashlea Bucke
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5007110028
+  display_name: Jo Calder
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5091553465
+  display_name: Laura Canna
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5069423234
+  display_name: Jason Domingo
+  orcid: https://orcid.org/0000-0002-3655-2849
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5108824540
+  display_name: Anne Elmer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5018850374
+  display_name: Stewart Fuller
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5104060463
+  display_name: Julie Harris
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5071428292
+  display_name: Sarah Hewitt
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5045740290
+  display_name: Jane Kennet
+  orcid: https://orcid.org/0000-0001-8615-0576
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5111457220
+  display_name: Sherly Jose
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5075188050
+  display_name: Jenny Kourampa
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5108199845
+  display_name: Anne Meadows
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5112852712
+  display_name: "Criona O\u2019Brien"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5006799255
+  display_name: Jane Price
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5026051538
+  display_name: Cherry Publico
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5077703521
+  display_name: Rebecca Rastall
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5053217167
+  display_name: Carla M. S. Ribeiro
+  orcid: https://orcid.org/0000-0002-5682-4143
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5012804771
+  display_name: Jane Rowlands
+  orcid: https://orcid.org/0009-0003-6523-4123
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5012722681
+  display_name: Valentina Ruffolo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5034276984
+  display_name: Hugo Tordesillas
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5051373159
+  display_name: Ben Bullman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5003381028
+  display_name: Benjamin J. Dunmore
+  orcid: https://orcid.org/0000-0002-2145-674X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5045027537
+  display_name: Stefan Ting Graf
+  orcid: https://orcid.org/0000-0002-0181-8846
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5103558945
+  display_name: Josh Hodgson
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5018416044
+  display_name: Christopher Huang
+  orcid: https://orcid.org/0000-0001-9553-6112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5025271048
+  display_name: Kelvin Hunter
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5103983385
+  display_name: Emma Jones
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I69094615
+    display_name: Universidad San Francisco de Quito
+    ror: https://ror.org/01r2c3v86
+    country_code: EC
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universidad San Francisco de Quito, COCIBA, Laboratorio de Biotecnolog\xEDa Vegetal,\
+    \ Cumbaya, Ecuador"
+- author_id: https://openalex.org/A5063050301
+  display_name: Ekaterina Legchenko
+  orcid: https://orcid.org/0000-0001-7949-2973
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5090738267
+  display_name: Cecilia Matara
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5102804580
+  display_name: Jennifer Martin
+  orcid: https://orcid.org/0000-0002-7899-4637
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5041454738
+  display_name: Federica Mescia
+  orcid: https://orcid.org/0000-0002-2759-4027
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5066891039
+  display_name: "Ciara O\u2019Donnell"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5047948770
+  display_name: Linda Pointon
+  orcid: https://orcid.org/0000-0003-2738-8589
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5088807922
+  display_name: Joy Shih
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5074044265
+  display_name: Rachel Sutcliffe
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5081415576
+  display_name: Tobias Tilly
+  orcid: https://orcid.org/0000-0002-6762-5342
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5066454872
+  display_name: Carmen Treacy
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5036473458
+  display_name: Zhen Tong
+  orcid: https://orcid.org/0000-0002-7314-8909
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5084200499
+  display_name: Jennifer Wood
+  orcid: https://orcid.org/0000-0001-8918-8510
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5064988353
+  display_name: Marta Wylot
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5109508075
+  display_name: Ariana Betancourt
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5002752929
+  display_name: Georgie Bower
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5033930940
+  display_name: Chiara Cossetti
+  orcid: https://orcid.org/0000-0003-2653-3705
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5036777465
+  display_name: Aloka De
+  orcid: https://orcid.org/0000-0002-7714-8906
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5090637984
+  display_name: Madeline Epping
+  orcid: https://orcid.org/0000-0002-9656-725X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5014434260
+  display_name: Stuart Fawke
+  orcid: https://orcid.org/0000-0001-9669-1245
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5112683860
+  display_name: Nick Gleadall
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5048794708
+  display_name: Richard Grenfell
+  orcid: https://orcid.org/0000-0001-5753-9515
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5029707332
+  display_name: Andrew Hinch
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5071156597
+  display_name: Sarah Jackson
+  orcid: https://orcid.org/0000-0002-4230-9220
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5002878131
+  display_name: Isobel Jarvis
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Addenbrooke's Hospital, Cambridge University Hospitals NHS Foundation Trust, Cambridge
+    Biomedical Campus, Cambridge, UK
+- author_id: https://openalex.org/A5047875504
+  display_name: Benjamin A. Krishna
+  orcid: https://orcid.org/0000-0003-0919-2961
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5015413554
+  display_name: Francesca Nice
+  orcid: https://orcid.org/0000-0003-0844-8769
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802466933
+    display_name: Cambridge University Hospitals NHS Foundation Trust
+    ror: https://ror.org/04v54gj93
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cambridge Clinical Research Centre, NIHR Clinical Research Facility, Cambridge
+    University Hospitals NHS Foundation Trust, Addenbrooke's Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5079948324
+  display_name: Ommar Omarjee
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5054901372
+  display_name: Marianne Perera
+  orcid: https://orcid.org/0000-0001-9175-0568
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5076766006
+  display_name: Martin Potts
+  orcid: https://orcid.org/0000-0002-6738-0066
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5017642260
+  display_name: Nathan Richoz
+  orcid: https://orcid.org/0000-0002-7422-3237
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5044691409
+  display_name: Veronika Romashova
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5035653422
+  display_name: Luca Stefanucci
+  orcid: https://orcid.org/0000-0002-4352-1151
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5047035972
+  display_name: Mateusz Strezlecki
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5035116877
+  display_name: Lori Turner
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Cambridge, UK
+referenced_works:
+- https://openalex.org/W1966238900
+- https://openalex.org/W1998964868
+- https://openalex.org/W2009761723
+- https://openalex.org/W2016021454
+- https://openalex.org/W2041914510
+- https://openalex.org/W2059165814
+- https://openalex.org/W2102059779
+- https://openalex.org/W2117131162
+- https://openalex.org/W2131271579
+- https://openalex.org/W2160378127
+- https://openalex.org/W2170551349
+- https://openalex.org/W2531018947
+- https://openalex.org/W2734356283
+- https://openalex.org/W2799736418
+- https://openalex.org/W2998672854
+- https://openalex.org/W3009335299
+- https://openalex.org/W3009912996
+- https://openalex.org/W3010955108
+- https://openalex.org/W3048714202
+- https://openalex.org/W3081800406
+- https://openalex.org/W3087192622
+- https://openalex.org/W3091977890
+- https://openalex.org/W3092403777
+- https://openalex.org/W3094609450
+- https://openalex.org/W3095588278
+- https://openalex.org/W3096967708
+- https://openalex.org/W3110287817
+- https://openalex.org/W3122083218
+- https://openalex.org/W3124805424
+- https://openalex.org/W3134446480
+- https://openalex.org/W3135758766
+- https://openalex.org/W3152312420
+- https://openalex.org/W3159140204
+- https://openalex.org/W3167632857
+- https://openalex.org/W3170097501
+- https://openalex.org/W3171000284
+- https://openalex.org/W3177828909
+- https://openalex.org/W3180925673
+- https://openalex.org/W3193102476
+- https://openalex.org/W3196420897
+- https://openalex.org/W3198233589
+- https://openalex.org/W3214683033
+- https://openalex.org/W3216478751
+- https://openalex.org/W3216586749
+- https://openalex.org/W4200047841
+- https://openalex.org/W4200212523
+- https://openalex.org/W4200426541
+- https://openalex.org/W4206153788
+- https://openalex.org/W4206997616
+- https://openalex.org/W4207057792
+- https://openalex.org/W4220673385
+- https://openalex.org/W4220861013
+- https://openalex.org/W4221057312
+- https://openalex.org/W4221116249
+- https://openalex.org/W4225691034
+- https://openalex.org/W4226192094
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

@@ -1,0 +1,897 @@
+id: https://openalex.org/W4231972505
+doi: https://doi.org/10.1136/annrheumdis-2019-216655
+title: 'EULAR recommendations for the management of rheumatoid arthritis with synthetic
+  and biological disease-modifying antirheumatic drugs: 2019 update'
+publication_date: '2020-01-22'
+publication_year: 2020
+cited_by_count: 2430
+citation_percentile: 0.999917
+pagerank: 2.64579842083171e-06
+authorships:
+- author_id: https://openalex.org/A5090753435
+  display_name: Josef S Smolen
+  orcid: https://orcid.org/0000-0002-4302-8877
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Division of Rheumatology, Department of Medicine 3, Medical University of Vienna,
+    Vienna A-1090, Austria
+- author_id: https://openalex.org/A5000282057
+  display_name: "Robert Landew\xE9"
+  orcid: https://orcid.org/0000-0002-0577-6620
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I4210133559
+    display_name: Zuyderland Medisch Centrum
+    ror: https://ror.org/03bfc4534
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Amsterdam University Medical Center, Amsterdam, The Netherlands
+  - Zuyderland Medical Center, Heerlen, The Netherlands
+- author_id: https://openalex.org/A5063928355
+  display_name: J. W. J. Bijlsma
+  orcid: https://orcid.org/0000-0002-0128-8451
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Rheumatology and Clinical Immunology, University Medical Center
+    Utrecht, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5076851275
+  display_name: Gerd R Burmester
+  orcid: https://orcid.org/0000-0001-7518-1131
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Rheumatology and Clinical Immunology, Charit\xE9 - University Medicine\
+    \ Berlin, Free University and Humboldt University Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5104491150
+  display_name: Maxime Dougados
+  orcid: https://orcid.org/0000-0003-3009-6229
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092774
+    display_name: "H\xF4pital Cochin"
+    ror: https://ror.org/00ph8tk69
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rhumatologie B, Hopital Cochin, 27 rue du Fbg Saint-Jacques, Paris, France
+- author_id: https://openalex.org/A5076151386
+  display_name: Andreas Kerschbaumer
+  orcid: https://orcid.org/0000-0002-6685-8873
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Rheumatology, Department of Medicine 3, Medical University of Vienna,
+    Vienna, Austria
+- author_id: https://openalex.org/A5071482630
+  display_name: Iain B. McInnes
+  orcid: https://orcid.org/0000-0002-6462-4280
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7882870
+    display_name: University of Glasgow
+    ror: https://ror.org/00vtgdb53
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary
+    and Life Sciences, University of Glasgow, Glasgow, UK
+- author_id: https://openalex.org/A5085359664
+  display_name: Alexandre Sepriano
+  orcid: https://orcid.org/0000-0003-1954-0229
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I83558840
+    display_name: Universidade Nova de Lisboa
+    ror: https://ror.org/02xankh89
+    country_code: PT
+    type: funder
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NOVA Medical School, Universidade Nova de Lisboa, Lisbon, Portugal, and Department
+    of Rheumatology, Leiden University Medical Center, Leiden, The Netherlands
+- author_id: https://openalex.org/A5012009272
+  display_name: Ronald van Vollenhoven
+  orcid: https://orcid.org/0000-0001-6438-8663
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I911458345
+    display_name: Amsterdam UMC Location Vrije Universiteit Amsterdam
+    ror: https://ror.org/00q6h8f30
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Rheumatology, VU University Medical Center, Amsterdam, The Netherlands
+- author_id: https://openalex.org/A5045047976
+  display_name: Maarten de Wit
+  orcid: https://orcid.org/0000-0002-8428-6354
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I4210147365
+    display_name: European League Against Rheumatism
+    ror: https://ror.org/03f7j3221
+    country_code: CH
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department Medical Humanities, Amsterdam University Medical Center, Amsterdam,
+    The Netherlands
+  - EULAR Patient Research Partner
+- author_id: https://openalex.org/A5061411814
+  display_name: Daniel Aletaha
+  orcid: https://orcid.org/0000-0003-2108-0030
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76134821
+    display_name: Medical University of Vienna
+    ror: https://ror.org/05n3x4p02
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Rheumatology, Department of Medicine 3, Medical University of Vienna,
+    Vienna, Austria
+- author_id: https://openalex.org/A5091190600
+  display_name: Martin Aringer
+  orcid: https://orcid.org/0000-0003-4471-8375
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162051
+    display_name: University Hospital Carl Gustav Carus
+    ror: https://ror.org/04za5zm41
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Rheumatology, Department of Medicine III, University Medical Center
+    and Faculty of Medicine Carl Gustav Carus, Dresden, Germany
+- author_id: https://openalex.org/A5031834210
+  display_name: Johan Askling
+  orcid: https://orcid.org/0000-0003-0433-0616
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335113835
+    display_name: Karolinska University Hospital
+    ror: https://ror.org/00m8d6786
+    country_code: SE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Rheumatology, Karolinska University Hospital, Stockholm, Sweden
+- author_id: https://openalex.org/A5054608926
+  display_name: Alejandro Balsa
+  orcid: https://orcid.org/0000-0001-8070-7062
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800562746
+    display_name: Hospital Universitario La Paz
+    ror: https://ror.org/01s1q0w69
+    country_code: ES
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Servicio de Reumatologia Hospital Universitario La Paz, Instituto de Investigacion
+    IdiPAZ, Madrid, Spain
+- author_id: https://openalex.org/A5044831604
+  display_name: Maarten Boers
+  orcid: https://orcid.org/0000-0002-6969-283X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I865915315
+    display_name: Vrije Universiteit Amsterdam
+    ror: https://ror.org/008xxew50
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology and Biostatistics and Amsterdam Rheumatology and Immunology
+    Center, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands
+- author_id: https://openalex.org/A5030365370
+  display_name: Alfons A den Broeder
+  orcid: https://orcid.org/0000-0002-9012-4079
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134551
+    display_name: Sint Maartenskliniek
+    ror: https://ror.org/0454gfp30
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Rheumatology, Sint Maartenskliniek, Nijmegen, The Netherlands
+- author_id: https://openalex.org/A5042417820
+  display_name: Maya H Buch
+  orcid: https://orcid.org/0000-0002-8962-5642
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210159460
+    display_name: NIHR Manchester Biomedical Research Centre
+    ror: https://ror.org/05njkjr15
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Musculoskeletal and Dermatological Sciences, University of Manchester
+  - NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation
+    Trust, Manchester, UK
+- author_id: https://openalex.org/A5058094909
+  display_name: Frank Buttgereit
+  orcid: https://orcid.org/0000-0003-2534-550X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Rheumatology and Clinical Immunology, Charit\xE9 - University Medicine\
+    \ Berlin, Free University and Humboldt University Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5053288231
+  display_name: Roberto Caporali
+  orcid: https://orcid.org/0000-0001-9300-6169
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I25217355
+    display_name: University of Pavia
+    ror: https://ror.org/00s6t1f81
+    country_code: IT
+    type: funder
+  - id: https://openalex.org/I189158943
+    display_name: University of Milan
+    ror: https://ror.org/00wjc7c48
+    country_code: IT
+    type: funder
+  - id: https://openalex.org/I4210153126
+    display_name: Istituti di Ricovero e Cura a Carattere Scientifico
+    ror: https://ror.org/04tfzc498
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Sciences and Community Health, University of Milan, and
+    IRCCS S Matteo Foundation, Pavia, Italy
+- author_id: https://openalex.org/A5017905088
+  display_name: Myrna Cardiel
+  orcid: https://orcid.org/0000-0002-4515-5036
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102553
+    display_name: Universidad de Morelia
+    ror: https://ror.org/00tnb2p82
+    country_code: MX
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centro de Investigaci\xF3n Cl\xEDnica de Morelia SC, Morelia, Michoac\xE1n, Mexico"
+- author_id: https://openalex.org/A5003304778
+  display_name: Diederik De Cock
+  orcid: https://orcid.org/0000-0002-5656-6236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Development and Regeneration, Skeletal Biology and Engineering Research
+    Center, KU Leuven
+  - Rheumatology, University Hospitals Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5111268352
+  display_name: "C\u0103t\u0103lin Codreanu"
+  orcid: https://orcid.org/0000-0001-6600-9946
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center of Rheumatic Diseases, University of Medicine and Pharmacy, Bucharest,
+    Romania
+- author_id: https://openalex.org/A5028547482
+  display_name: Maurizio Cutolo
+  orcid: https://orcid.org/0000-0002-5396-0932
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I83816512
+    display_name: University of Genoa
+    ror: https://ror.org/0107c5v14
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Laboratory and Division of Clinical Rheumatology, Department of Internal
+    Medicine - University of Genoa, Genoa, Italy
+- author_id: https://openalex.org/A5080267247
+  display_name: Christopher J Edwards
+  orcid: https://orcid.org/0000-0002-8233-6602
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210118229
+    display_name: NIHR Southampton Biomedical Research Centre
+    ror: https://ror.org/01qqpzg67
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Musculoskeletal Research Unit, NIHR Clinical Research Facility, University Hospital
+    Southampton, Southampton, UK
+- author_id: https://openalex.org/A5015843134
+  display_name: "Yvonne van Eijk\u2010Hustings"
+  orcid: https://orcid.org/0000-0002-2325-8114
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34352273
+    display_name: Maastricht University
+    ror: https://ror.org/02jz4aj89
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Patient & Care and Department of Rheumatology, University of Maastricht,
+    Maastricht, The Netherlands
+- author_id: https://openalex.org/A5018678002
+  display_name: Paul Emery
+  orcid: https://orcid.org/0000-0002-7429-8482
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114713
+    display_name: NIHR Leeds Musculoskeletal Biomedical Research Unit
+    ror: https://ror.org/035f5f914
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I130828816
+    display_name: University of Leeds
+    ror: https://ror.org/024mrxd33
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2799390153
+    display_name: Leeds Teaching Hospitals NHS Trust
+    ror: https://ror.org/00v4dac24
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Leeds Musculoskeletal Biomedical Research Unit, Leeds Teaching Hospitals
+    NHS Trust and Leeds Institute of Rheumatic and Musculoskeletal Medicine, University
+    of Leeds, Leeds, UK
+- author_id: https://openalex.org/A5009471725
+  display_name: Axel Finckh
+  orcid: https://orcid.org/0000-0002-1210-4347
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106256
+    display_name: University Hospital of Geneva
+    ror: https://ror.org/01m1pv723
+    country_code: CH
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Rheumatology, University Hospitals of Geneva, Geneva, Switzerland
+- author_id: https://openalex.org/A5091895459
+  display_name: Laure Gossec
+  orcid: https://orcid.org/0000-0002-4528-310X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I39804081
+    display_name: "Sorbonne Universit\xE9"
+    ror: https://ror.org/02en5vm52
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210133907
+    display_name: "Institut Pierre Louis d\u2018\xC9pid\xE9miologie et de Sant\xE9\
+      \ Publique"
+    ror: https://ror.org/02qqh1125
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Sorbonne Universit\xE9, INSERM, Institut Pierre Louis d'Epid\xE9miologie et de\
+    \ Sant\xE9 Publique, Paris and Piti\xE9 Salp\xEAtri\xE8re hospital, AP-HP, Rheumatology\
+    \ Department, Paris, France"
+- author_id: https://openalex.org/A5106382057
+  display_name: "Jacques\u2010Eric Gottenberg"
+  orcid: https://orcid.org/0000-0002-9469-946X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210137205
+    display_name: "Immunologie, Immunopathologie et Chimie Th\xE9rapeutique"
+    ror: https://ror.org/041v2hk34
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I4210158086
+    display_name: "Institut de Biologie Mol\xE9culaire et Cellulaire"
+    ror: https://ror.org/05qpmg879
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I68947357
+    display_name: "Universit\xE9 de Strasbourg"
+    ror: https://ror.org/00pg6eq24
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Strasbourg University Hospital and University of Strasbourg, CNRS, Institut de\
+    \ Biologie Mol\xE9culaire et Cellulaire, Immunopathologie, et Chimie Th\xE9rapeutique,\
+    \ Strasbourg, France"
+- author_id: https://openalex.org/A5063586848
+  display_name: Merete Lund Hetland
+  orcid: https://orcid.org/0000-0003-4229-6818
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I2802709434
+    display_name: Rigshospitalet
+    ror: https://ror.org/03mchdq19
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Copenhagen Center for Arthritis Research, Center for Rheumatology and Spine Diseases,
+    Rigshospitalet and Department of Clinical Medicine, Faculty of Health and Medical
+    Sciences, University of Copenhagen, Copenhagen, Denmark
+- author_id: https://openalex.org/A5052842332
+  display_name: T. Huizinga
+  orcid: https://orcid.org/0000-0001-7033-7520
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Rheumatology, Leiden University Medical Center, Leiden, The Netherlands
+- author_id: https://openalex.org/A5024117427
+  display_name: Marios Koloumas
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210147365
+    display_name: European League Against Rheumatism
+    ror: https://ror.org/03f7j3221
+    country_code: CH
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cyprus League against Rheumatism, Nikosia, Cyprus
+  - European League Against Rheumatism, Zurich, Switzerland
+- author_id: https://openalex.org/A5039342892
+  display_name: Zhanguo Li
+  orcid: https://orcid.org/0000-0002-2590-6242
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124809
+    display_name: Peking University People's Hospital
+    ror: https://ror.org/035adwg89
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Rheumatology and Immunology, Beijing University People's Hospital,
+    Beijing, China
+- author_id: https://openalex.org/A5051196993
+  display_name: Xavier Mariette
+  orcid: https://orcid.org/0000-0002-4244-5417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I277688954
+    display_name: "Universit\xE9 Paris-Saclay"
+    ror: https://ror.org/03xjwb503
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I102197404
+    display_name: "Universit\xE9 Paris-Sud"
+    ror: https://ror.org/028rypz17
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 Paris-Sud, AP-HP, Universit\xE9 Paris-Saclay, Le Kremlin Bic\xEA\
+    tre, France"
+- author_id: https://openalex.org/A5108536388
+  display_name: "Ulf M\xFCller\u2010Ladner"
+  orcid: https://orcid.org/0009-0000-8832-8112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200763008
+    display_name: "Justus-Liebig-Universit\xE4t Gie\xDFen"
+    ror: https://ror.org/033eqas34
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Rheumatology and Clinical Immunology, Campus Kerckhoff, Justus-Liebig
+    University Giessen, Bad Nauheim, Germany
+- author_id: https://openalex.org/A5000779664
+  display_name: Eduardo Mysler
+  orcid: https://orcid.org/0000-0002-8993-0313
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Organizaci\xF3n M\xE9dica de Investigaci\xF3n, Buenos Aires, Argentina"
+- author_id: https://openalex.org/A5100655869
+  display_name: "Jos\xE9 Ant\xF3nio Pereira da Silva"
+  orcid: https://orcid.org/0000-0002-2782-6780
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802025818
+    display_name: Hospitais da Universidade de Coimbra
+    ror: https://ror.org/04032fz76
+    country_code: PT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Servi\xE7o de Reumatologia, Centro Hospitalar e Universit\xE1rio de Coimbra Praceta\
+    \ Mota Pinto, and Coimbra Institute for Clinical and Biomedical Research (i-CRB),\
+    \ Faculty of Medicine of Coimbra, Coimbra, Portugal"
+- author_id: https://openalex.org/A5013051978
+  display_name: "Gyula Po\xF3r"
+  orcid: https://orcid.org/0000-0001-9235-3900
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I101202996
+    display_name: Semmelweis University
+    ror: https://ror.org/01g9ty582
+    country_code: HU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Institute of Rheumatology & Physiology, Semmelweis University, Budapest,
+    Hungary
+- author_id: https://openalex.org/A5023213876
+  display_name: Janet Pope
+  orcid: https://orcid.org/0000-0003-1479-5302
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I125749732
+    display_name: Western University
+    ror: https://ror.org/02grkyz14
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Western Ontario, Schulich School of Medicine & Dentistry, Department
+    of Medicine, London, Ontario, Canada
+- author_id: https://openalex.org/A5007351753
+  display_name: "Andrea Rubbert\u2010Roth"
+  orcid: https://orcid.org/0000-0002-9016-2833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799884508
+    display_name: Kantonsspital St. Gallen
+    ror: https://ror.org/00gpmb873
+    country_code: CH
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Klinik f\xFCr Rheumatologie, Kantonsspital St Gallen, St Gallen, Switzerland"
+- author_id: https://openalex.org/A5018478650
+  display_name: "Adeline Ruyssen\u2010Witrand"
+  orcid: https://orcid.org/0000-0002-9815-2138
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I134560555
+    display_name: "Universit\xE9 Toulouse III - Paul Sabatier"
+    ror: https://ror.org/02v6kpv12
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "UMR 1027, Inserm, Universit\xE9 Paul Sabatier Toulouse III, Toulouse, France"
+- author_id: https://openalex.org/A5046382845
+  display_name: Kenneth G. Saag
+  orcid: https://orcid.org/0000-0001-6189-8078
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32389192
+    display_name: University of Alabama at Birmingham
+    ror: https://ror.org/008s83205
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Division of Rheumatology, University of Alabama at Birmingham,
+    Brmingham, Alabama, USA
+- author_id: https://openalex.org/A5025815003
+  display_name: Anja Strangfeld
+  orcid: https://orcid.org/0000-0002-6233-022X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095248
+    display_name: German Rheumatism Research Centre
+    ror: https://ror.org/00shv0x82
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Programme Area Epidemiology, Deutsches Rheumaforschungszentrum Berlin, Berlin,
+    Germany
+- author_id: https://openalex.org/A5083314956
+  display_name: Tsutomu Takeuchi
+  orcid: https://orcid.org/0000-0003-1111-8218
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107168
+    display_name: Keio University Hospital
+    ror: https://ror.org/01k8ej563
+    country_code: JP
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Keio University School of Medicine, Keio University Hospital, Tokyo, Japan
+- author_id: https://openalex.org/A5070327307
+  display_name: Marieke Voshaar
+  orcid: https://orcid.org/0000-0002-4161-0126
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I94624287
+    display_name: University of Twente
+    ror: https://ror.org/006hf6230
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychology, Health and Technology, University of Twente, Enschede,
+    The Netherlands
+- author_id: https://openalex.org/A5006123817
+  display_name: "Ren\xE9 Westhovens"
+  orcid: https://orcid.org/0000-0002-3432-3073
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Development and Regeneration, Skeletal Biology and Engineering Research
+    Center, KU Leuven
+  - Rheumatology, University Hospitals Leuven, Leuven, Belgium
+- author_id: https://openalex.org/A5104506506
+  display_name: "D\xE9sir\xE9e van der Heijde"
+  orcid: https://orcid.org/0000-0002-5781-158X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2800006345
+    display_name: Leiden University Medical Center
+    ror: https://ror.org/05xvt9f17
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Rheumatology, Leiden University Medical Center, Leiden, The Netherlands
+referenced_works:
+- https://openalex.org/W1607571769
+- https://openalex.org/W1809886853
+- https://openalex.org/W1996472975
+- https://openalex.org/W1996543597
+- https://openalex.org/W2013144056
+- https://openalex.org/W2016950635
+- https://openalex.org/W2024006866
+- https://openalex.org/W2028646119
+- https://openalex.org/W2054789510
+- https://openalex.org/W2060499215
+- https://openalex.org/W2061900452
+- https://openalex.org/W2062694326
+- https://openalex.org/W2096290327
+- https://openalex.org/W2099866582
+- https://openalex.org/W2105648357
+- https://openalex.org/W2106914983
+- https://openalex.org/W2109971928
+- https://openalex.org/W2110345763
+- https://openalex.org/W2113476392
+- https://openalex.org/W2114386527
+- https://openalex.org/W2116314748
+- https://openalex.org/W2117549257
+- https://openalex.org/W2117847674
+- https://openalex.org/W2120393706
+- https://openalex.org/W2121311666
+- https://openalex.org/W2124725028
+- https://openalex.org/W2128952811
+- https://openalex.org/W2129688566
+- https://openalex.org/W2133866209
+- https://openalex.org/W2135522408
+- https://openalex.org/W2140965629
+- https://openalex.org/W2143212689
+- https://openalex.org/W2143218813
+- https://openalex.org/W2145390209
+- https://openalex.org/W2145881672
+- https://openalex.org/W2151444904
+- https://openalex.org/W2152553239
+- https://openalex.org/W2152973730
+- https://openalex.org/W2155007843
+- https://openalex.org/W2156712409
+- https://openalex.org/W2156899784
+- https://openalex.org/W2156996668
+- https://openalex.org/W2157944757
+- https://openalex.org/W2159341857
+- https://openalex.org/W2160367365
+- https://openalex.org/W2162192155
+- https://openalex.org/W2162217271
+- https://openalex.org/W2164521956
+- https://openalex.org/W2166493208
+- https://openalex.org/W2168200807
+- https://openalex.org/W2169772272
+- https://openalex.org/W2170108033
+- https://openalex.org/W2206432491
+- https://openalex.org/W2210646222
+- https://openalex.org/W2292748966
+- https://openalex.org/W2293590090
+- https://openalex.org/W2316306290
+- https://openalex.org/W2319070923
+- https://openalex.org/W2329371764
+- https://openalex.org/W2411832526
+- https://openalex.org/W2471841098
+- https://openalex.org/W2486141545
+- https://openalex.org/W2523119278
+- https://openalex.org/W2549510815
+- https://openalex.org/W2549844032
+- https://openalex.org/W2588044396
+- https://openalex.org/W2598044029
+- https://openalex.org/W2603931856
+- https://openalex.org/W2619420016
+- https://openalex.org/W2625784621
+- https://openalex.org/W2626892937
+- https://openalex.org/W2735120995
+- https://openalex.org/W2749194693
+- https://openalex.org/W2750911325
+- https://openalex.org/W2753002154
+- https://openalex.org/W2768575582
+- https://openalex.org/W2775284703
+- https://openalex.org/W2778484302
+- https://openalex.org/W2782272615
+- https://openalex.org/W2782968698
+- https://openalex.org/W2783131675
+- https://openalex.org/W2784089167
+- https://openalex.org/W2787443244
+- https://openalex.org/W2802373788
+- https://openalex.org/W2808333862
+- https://openalex.org/W2811002883
+- https://openalex.org/W2831879655
+- https://openalex.org/W2890663084
+- https://openalex.org/W2895590824
+- https://openalex.org/W2899201344
+- https://openalex.org/W2908576959
+- https://openalex.org/W2912182619
+- https://openalex.org/W2913615788
+- https://openalex.org/W2913977026
+- https://openalex.org/W2916114240
+- https://openalex.org/W2917800966
+- https://openalex.org/W2922147068
+- https://openalex.org/W2926455583
+- https://openalex.org/W2929918998
+- https://openalex.org/W2946233321
+- https://openalex.org/W2953564954
+- https://openalex.org/W2954249951
+- https://openalex.org/W2961111920
+- https://openalex.org/W2965006635
+- https://openalex.org/W2965035961
+- https://openalex.org/W2966824117
+- https://openalex.org/W2969697792
+- https://openalex.org/W2971217817
+- https://openalex.org/W3005067674
+- https://openalex.org/W3006080604
+- https://openalex.org/W3008638298
+- https://openalex.org/W3011172665
+- https://openalex.org/W3184689703
+- https://openalex.org/W4210768724
+- https://openalex.org/W4236700223
+- https://openalex.org/W4247135939
+- https://openalex.org/W4247851911
+- https://openalex.org/W4295125684
+primary_topic: Rheumatoid Arthritis Research and Therapies
+open_access: true

@@ -1,0 +1,164 @@
+id: https://openalex.org/W4312560592
+doi: https://doi.org/10.1109/cvpr52688.2022.00320
+title: Video Swin Transformer
+publication_date: '2022-06-01'
+publication_year: 2022
+cited_by_count: 1320
+citation_percentile: 0.99984
+pagerank: 2.5980589420042306e-06
+authorships:
+- author_id: https://openalex.org/A5100349451
+  display_name: Ze Liu
+  orcid: https://orcid.org/0000-0001-8512-5408
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I126520041
+    display_name: University of Science and Technology of China
+    ror: https://ror.org/04c4dkn09
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia
+  - University of Science and Technology of China
+- author_id: https://openalex.org/A5101709263
+  display_name: Ning Jia
+  orcid: https://orcid.org/0000-0002-2395-3432
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I47720641
+    display_name: Huazhong University of Science and Technology
+    ror: https://ror.org/00p991c53
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huazhong University of Science and Technology
+  - Microsoft Research Asia
+- author_id: https://openalex.org/A5101593662
+  display_name: Yue Cao
+  orcid: https://orcid.org/0000-0002-1679-0444
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia
+- author_id: https://openalex.org/A5009248953
+  display_name: Yixuan Wei
+  orcid: https://orcid.org/0000-0003-1775-7301
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia
+  - Tsinghua University
+- author_id: https://openalex.org/A5100459168
+  display_name: Zheng Zhang
+  orcid: https://orcid.org/0000-0003-1470-6998
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia
+- author_id: https://openalex.org/A5025114648
+  display_name: Stephen Lin
+  orcid: https://orcid.org/0000-0002-5616-558X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia
+- author_id: https://openalex.org/A5101976576
+  display_name: Han Hu
+  orcid: https://orcid.org/0000-0001-5104-6146
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Asia
+referenced_works:
+- https://openalex.org/W1522301498
+- https://openalex.org/W1522734439
+- https://openalex.org/W1686810756
+- https://openalex.org/W2097117768
+- https://openalex.org/W2112796928
+- https://openalex.org/W2163605009
+- https://openalex.org/W2194775991
+- https://openalex.org/W2331143823
+- https://openalex.org/W2619947201
+- https://openalex.org/W2625366777
+- https://openalex.org/W2883429621
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963155035
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963524571
+- https://openalex.org/W2963820951
+- https://openalex.org/W2964080601
+- https://openalex.org/W2982220924
+- https://openalex.org/W2983446232
+- https://openalex.org/W2984287396
+- https://openalex.org/W2989728968
+- https://openalex.org/W2990152177
+- https://openalex.org/W2990503944
+- https://openalex.org/W2998508940
+- https://openalex.org/W3007759824
+- https://openalex.org/W3034572008
+- https://openalex.org/W3035303837
+- https://openalex.org/W3035413240
+- https://openalex.org/W3035452548
+- https://openalex.org/W3035619757
+- https://openalex.org/W3035682985
+- https://openalex.org/W3094502228
+- https://openalex.org/W3096833468
+- https://openalex.org/W3107634219
+- https://openalex.org/W3126721948
+- https://openalex.org/W3138516171
+- https://openalex.org/W3170874841
+- https://openalex.org/W3210279979
+- https://openalex.org/W4214516465
+- https://openalex.org/W4214612132
+- https://openalex.org/W4214614183
+- https://openalex.org/W4288089799
+- https://openalex.org/W4385245566
+primary_topic: Human Pose and Action Recognition
+open_access: false

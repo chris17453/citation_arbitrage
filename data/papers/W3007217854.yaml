@@ -1,0 +1,285 @@
+id: https://openalex.org/W3007217854
+doi: https://doi.org/10.1038/s41586-020-1994-5
+title: Closed-loop optimization of fast-charging protocols for batteries with machine
+  learning
+publication_date: '2020-02-19'
+publication_year: 2020
+cited_by_count: 837
+citation_percentile: 0.999887
+pagerank: 2.5659994934885722e-06
+authorships:
+- author_id: https://openalex.org/A5005580336
+  display_name: Peter M. Attia
+  orcid: https://orcid.org/0000-0003-4745-5726
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Stanford University, Stanford,
+    CA, USA
+- author_id: https://openalex.org/A5014409944
+  display_name: Aditya Grover
+  orcid: https://orcid.org/0000-0002-4217-6624
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Stanford University, Stanford, CA, USA
+- author_id: https://openalex.org/A5067163428
+  display_name: Norman Jin
+  orcid: https://orcid.org/0000-0003-0624-1924
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Stanford University, Stanford,
+    CA, USA
+- author_id: https://openalex.org/A5087785636
+  display_name: Kristen Severson
+  orcid: https://orcid.org/0000-0002-0412-4217
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge,
+    MA, USA
+- author_id: https://openalex.org/A5081692949
+  display_name: Todor Markov
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Stanford University, Stanford, CA, USA
+- author_id: https://openalex.org/A5044951035
+  display_name: Yang-Hung Liao
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Stanford University, Stanford,
+    CA, USA
+- author_id: https://openalex.org/A5073634724
+  display_name: Michael H. Chen
+  orcid: https://orcid.org/0000-0003-4273-5817
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Stanford University, Stanford,
+    CA, USA
+- author_id: https://openalex.org/A5041142702
+  display_name: Bryan Cheong
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Stanford University, Stanford, CA, USA
+- author_id: https://openalex.org/A5053654015
+  display_name: Nicholas Perkins
+  orcid: https://orcid.org/0000-0002-0445-8436
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Stanford University, Stanford,
+    CA, USA
+- author_id: https://openalex.org/A5101704757
+  display_name: Zi Yang
+  orcid: https://orcid.org/0000-0003-3741-5720
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Stanford University, Stanford,
+    CA, USA
+- author_id: https://openalex.org/A5040404046
+  display_name: Patrick K. Herring
+  orcid: https://orcid.org/0000-0001-9922-1169
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4391768151
+    display_name: Toyota Research Institute
+    ror: https://ror.org/04fpkc108
+    country_code: null
+    type: funder
+  - id: https://openalex.org/I917207718
+    display_name: Toyota Industries (United States)
+    ror: https://ror.org/0132ebr60
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Toyota Research Institute, Los Altos, CA, USA
+- author_id: https://openalex.org/A5005433729
+  display_name: Muratahan Aykol
+  orcid: https://orcid.org/0000-0001-6433-7217
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4391768151
+    display_name: Toyota Research Institute
+    ror: https://ror.org/04fpkc108
+    country_code: null
+    type: funder
+  - id: https://openalex.org/I917207718
+    display_name: Toyota Industries (United States)
+    ror: https://ror.org/0132ebr60
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Toyota Research Institute, Los Altos, CA, USA
+- author_id: https://openalex.org/A5053459622
+  display_name: Stephen J. Harris
+  orcid: https://orcid.org/0000-0002-5211-3934
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Materials Science Division, Lawrence Berkeley National Laboratory, Berkeley, CA,
+    USA
+- author_id: https://openalex.org/A5083684552
+  display_name: Richard D. Braatz
+  orcid: https://orcid.org/0000-0003-4304-3484
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge,
+    MA, USA
+- author_id: https://openalex.org/A5091179481
+  display_name: Stefano Ermon
+  orcid: https://orcid.org/0000-0003-0039-2887
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Stanford University, Stanford, CA, USA
+- author_id: https://openalex.org/A5050039741
+  display_name: William C. Chueh
+  orcid: https://orcid.org/0000-0002-7066-3470
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2801935854
+    display_name: SLAC National Accelerator Laboratory
+    ror: https://ror.org/05gzmn429
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Applied Energy Division, SLAC National Accelerator Laboratory, Menlo Park, CA,
+    USA
+referenced_works:
+- https://openalex.org/W1208026423
+- https://openalex.org/W1487396100
+- https://openalex.org/W1524136712
+- https://openalex.org/W1553290137
+- https://openalex.org/W1832676204
+- https://openalex.org/W1999022283
+- https://openalex.org/W2037437049
+- https://openalex.org/W2049045141
+- https://openalex.org/W2052909548
+- https://openalex.org/W2093650949
+- https://openalex.org/W2114804859
+- https://openalex.org/W2122825543
+- https://openalex.org/W2127088635
+- https://openalex.org/W2134203632
+- https://openalex.org/W2155731083
+- https://openalex.org/W2166566250
+- https://openalex.org/W2170307371
+- https://openalex.org/W2192203593
+- https://openalex.org/W2266822037
+- https://openalex.org/W2306235211
+- https://openalex.org/W2329301706
+- https://openalex.org/W2464273419
+- https://openalex.org/W2558921396
+- https://openalex.org/W2568686267
+- https://openalex.org/W2751836095
+- https://openalex.org/W2766038344
+- https://openalex.org/W2775714759
+- https://openalex.org/W2785813126
+- https://openalex.org/W2794526504
+- https://openalex.org/W2799306742
+- https://openalex.org/W2799915630
+- https://openalex.org/W2806681928
+- https://openalex.org/W2830440988
+- https://openalex.org/W2884430236
+- https://openalex.org/W2889430391
+- https://openalex.org/W2891182990
+- https://openalex.org/W2924382816
+- https://openalex.org/W2948650589
+- https://openalex.org/W2963815651
+- https://openalex.org/W2963888630
+- https://openalex.org/W3102400420
+- https://openalex.org/W3103297471
+- https://openalex.org/W3124229194
+- https://openalex.org/W60686164
+primary_topic: Advanced Battery Technologies Research
+open_access: false

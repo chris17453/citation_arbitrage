@@ -1,0 +1,831 @@
+id: https://openalex.org/W4396721167
+doi: https://doi.org/10.1038/s41586-024-07487-w
+title: Accurate structure prediction of biomolecular interactions with AlphaFold 3
+publication_date: '2024-05-08'
+publication_year: 2024
+cited_by_count: 6045
+citation_percentile: 0.999981
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5033390440
+  display_name: Josh Abramson
+  orcid: https://orcid.org/0009-0000-3496-6952
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5088186812
+  display_name: Jonas Adler
+  orcid: https://orcid.org/0000-0001-9928-3407
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5096909573
+  display_name: Jack Dunger
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5017082774
+  display_name: K Taki
+  orcid: https://orcid.org/0000-0003-4675-8469
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5101569668
+  display_name: Tim Green
+  orcid: https://orcid.org/0000-0002-3227-1505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5062883663
+  display_name: Alexander Pritzel
+  orcid: https://orcid.org/0000-0002-4233-9040
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5045981348
+  display_name: Olaf Ronneberger
+  orcid: https://orcid.org/0000-0002-4266-1515
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5064562558
+  display_name: Lindsay Willmore
+  orcid: https://orcid.org/0000-0003-4314-0778
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5079907259
+  display_name: Andrew J. Ballard
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5096909571
+  display_name: Joshua Bambrick
+  orcid: https://orcid.org/0009-0003-3908-0722
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5063529978
+  display_name: Sebastian W. Bodenstein
+  orcid: https://orcid.org/0000-0002-0000-6627
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5025362921
+  display_name: David A. Evans
+  orcid: https://orcid.org/0000-0003-4059-4416
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5041961903
+  display_name: Chia-Chun Hung
+  orcid: https://orcid.org/0000-0002-5264-9165
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5001619292
+  display_name: "Michael O\u2019Neill"
+  orcid: https://orcid.org/0000-0001-8734-417X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5009240058
+  display_name: David Reiman
+  orcid: https://orcid.org/0000-0002-1605-7197
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5079389977
+  display_name: Kathryn Tunyasuvunakool
+  orcid: https://orcid.org/0000-0002-8594-1074
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5003064960
+  display_name: Zachary Wu
+  orcid: https://orcid.org/0000-0003-2429-9812
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5092898020
+  display_name: "Akvil\u0117 \u017Demgulyt\u0117"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5089725552
+  display_name: Eirini Arvaniti
+  orcid: https://orcid.org/0000-0003-3045-9309
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5018388854
+  display_name: Charles Beattie
+  orcid: https://orcid.org/0000-0003-1840-054X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5061083764
+  display_name: Ottavia Bertolli
+  orcid: https://orcid.org/0000-0001-8578-3216
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5027154958
+  display_name: Alex Bridgland
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5110146710
+  display_name: Alexey V. Cherepanov
+  orcid: https://orcid.org/0000-0002-5227-0622
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5081802485
+  display_name: Miles Congreve
+  orcid: https://orcid.org/0000-0003-1913-0318
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5062912204
+  display_name: Alexander I. Cowen-Rivers
+  orcid: https://orcid.org/0000-0002-2669-9513
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5085902321
+  display_name: Andrew Cowie
+  orcid: https://orcid.org/0000-0002-4491-1434
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5004531184
+  display_name: Michael Figurnov
+  orcid: https://orcid.org/0000-0003-1386-8741
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5105726990
+  display_name: Fabian B. Fuchs
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5096940192
+  display_name: Hannah Gladman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5019154965
+  display_name: Rishub Jain
+  orcid: https://orcid.org/0000-0002-8212-9427
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5035765666
+  display_name: Yousuf A. Khan
+  orcid: https://orcid.org/0000-0003-0201-2796
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5088695041
+  display_name: Caroline M. R. Low
+  orcid: https://orcid.org/0000-0003-0326-0986
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5096909574
+  display_name: Kuba Perlin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5030626083
+  display_name: Anna Potapenko
+  orcid: https://orcid.org/0000-0003-0962-0794
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5045833046
+  display_name: Pascal Savy
+  orcid: https://orcid.org/0009-0003-5132-6115
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5058719466
+  display_name: Sukhdeep Singh
+  orcid: https://orcid.org/0000-0001-6871-4294
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5051495639
+  display_name: "Adrian Stecu\u0142a"
+  orcid: https://orcid.org/0000-0001-6914-6743
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5097194705
+  display_name: Ashok Thillaisundaram
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5062859701
+  display_name: Catherine Tong
+  orcid: https://orcid.org/0000-0001-7570-4801
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5078766592
+  display_name: Sergei Yakneen
+  orcid: https://orcid.org/0000-0001-7827-9839
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5036218344
+  display_name: Ellen D. Zhong
+  orcid: https://orcid.org/0000-0001-6345-1907
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5029508763
+  display_name: "Micha\u0142 Zieli\u0144ski"
+  orcid: https://orcid.org/0000-0002-7239-2504
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5009567462
+  display_name: "Augustin \u017D\xEDdek"
+  orcid: https://orcid.org/0000-0002-0748-9684
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5096969453
+  display_name: Victor Bapst
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5013834379
+  display_name: Pushmeet Kohli
+  orcid: https://orcid.org/0000-0002-7466-7997
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+- author_id: https://openalex.org/A5004153109
+  display_name: Max Jaderberg
+  orcid: https://orcid.org/0000-0002-9033-2695
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5005349213
+  display_name: Demis Hassabis
+  orcid: https://orcid.org/0000-0003-2812-9917
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Isomorphic Labs, London, UK
+- author_id: https://openalex.org/A5059179935
+  display_name: John Jumper
+  orcid: https://orcid.org/0000-0001-6169-6580
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Core Contributor, Google DeepMind, London, UK
+referenced_works:
+- https://openalex.org/W1928213240
+- https://openalex.org/W2110483430
+- https://openalex.org/W2130479394
+- https://openalex.org/W2134967712
+- https://openalex.org/W2140673705
+- https://openalex.org/W2161151688
+- https://openalex.org/W2169133129
+- https://openalex.org/W2508425869
+- https://openalex.org/W2610903912
+- https://openalex.org/W2970594786
+- https://openalex.org/W3005428795
+- https://openalex.org/W3128920915
+- https://openalex.org/W3135719226
+- https://openalex.org/W3151633358
+- https://openalex.org/W3177828909
+- https://openalex.org/W3186179742
+- https://openalex.org/W3195820203
+- https://openalex.org/W3202105508
+- https://openalex.org/W4200139236
+- https://openalex.org/W4213047757
+- https://openalex.org/W4214847177
+- https://openalex.org/W4220803509
+- https://openalex.org/W4220824576
+- https://openalex.org/W4225638451
+- https://openalex.org/W4229000770
+- https://openalex.org/W4229000999
+- https://openalex.org/W4280536615
+- https://openalex.org/W4281486483
+- https://openalex.org/W4281702815
+- https://openalex.org/W4282835253
+- https://openalex.org/W4282933962
+- https://openalex.org/W4282936228
+- https://openalex.org/W4283259136
+- https://openalex.org/W4285088579
+- https://openalex.org/W4285389233
+- https://openalex.org/W4286669150
+- https://openalex.org/W4291535891
+- https://openalex.org/W4291803627
+- https://openalex.org/W4292809582
+- https://openalex.org/W4302307901
+- https://openalex.org/W4307045307
+- https://openalex.org/W4308439092
+- https://openalex.org/W4309674289
+- https://openalex.org/W4311742327
+- https://openalex.org/W4315641867
+- https://openalex.org/W4317663883
+- https://openalex.org/W4321769975
+- https://openalex.org/W4324143928
+- https://openalex.org/W4327550249
+- https://openalex.org/W4361302966
+- https://openalex.org/W4362601470
+- https://openalex.org/W4366824755
+- https://openalex.org/W4379113118
+- https://openalex.org/W4379386209
+- https://openalex.org/W4385925982
+- https://openalex.org/W4386152095
+- https://openalex.org/W4386208722
+- https://openalex.org/W4386793933
+- https://openalex.org/W4387931208
+- https://openalex.org/W4388627063
+- https://openalex.org/W4388946853
+- https://openalex.org/W4389260615
+- https://openalex.org/W4389696354
+- https://openalex.org/W4391747328
+- https://openalex.org/W4392544734
+primary_topic: Protein Structure and Dynamics
+open_access: true

@@ -1,0 +1,259 @@
+id: https://openalex.org/W3103802018
+doi: https://doi.org/10.1109/msp.2020.2975749
+title: 'Federated Learning: Challenges, Methods, and Future Directions'
+publication_date: '2020-05-01'
+publication_year: 2020
+cited_by_count: 1546
+citation_percentile: 0.999973
+pagerank: 2.749847313853729e-06
+authorships:
+- author_id: https://openalex.org/A5100345589
+  display_name: Tian Li
+  orcid: https://orcid.org/0000-0003-2993-0386
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computer Science Department, Carnegie Mellon University, Pittsburgh, Pennsylvania
+- author_id: https://openalex.org/A5019965945
+  display_name: Anit Kumar Sahu
+  orcid: https://orcid.org/0000-0002-4083-0418
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, Carnegie Mellon University
+- author_id: https://openalex.org/A5029768722
+  display_name: Ameet Talwalkar
+  orcid: https://orcid.org/0000-0001-6650-1893
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Machine Learning Department, Carnegie Mellon University, Pittsburgh, Pennsylvania
+- author_id: https://openalex.org/A5112800069
+  display_name: Virginia Smith
+  orcid: https://orcid.org/0000-0002-6404-2395
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Electrical and Computer Engineering Department, Carnegie Mellon University, Pittsburgh,
+    Pennsylvania
+referenced_works:
+- https://openalex.org/W134960717
+- https://openalex.org/W1508143344
+- https://openalex.org/W1528076390
+- https://openalex.org/W1528469369
+- https://openalex.org/W162901001
+- https://openalex.org/W1842705303
+- https://openalex.org/W1845160311
+- https://openalex.org/W1847890728
+- https://openalex.org/W1873763122
+- https://openalex.org/W1916951228
+- https://openalex.org/W1946315329
+- https://openalex.org/W1971991172
+- https://openalex.org/W1978933387
+- https://openalex.org/W1992926795
+- https://openalex.org/W2027595342
+- https://openalex.org/W2031738616
+- https://openalex.org/W2034978228
+- https://openalex.org/W2051267297
+- https://openalex.org/W2056959789
+- https://openalex.org/W2061860832
+- https://openalex.org/W2077217970
+- https://openalex.org/W2078831169
+- https://openalex.org/W2087811006
+- https://openalex.org/W2106709023
+- https://openalex.org/W2106728335
+- https://openalex.org/W2114623221
+- https://openalex.org/W2119874464
+- https://openalex.org/W2123154536
+- https://openalex.org/W2126087831
+- https://openalex.org/W2128906841
+- https://openalex.org/W2130062883
+- https://openalex.org/W2131496831
+- https://openalex.org/W2132737349
+- https://openalex.org/W2137351756
+- https://openalex.org/W2138243089
+- https://openalex.org/W2143021454
+- https://openalex.org/W2143104527
+- https://openalex.org/W2149243993
+- https://openalex.org/W2153771889
+- https://openalex.org/W2154721480
+- https://openalex.org/W2159002431
+- https://openalex.org/W2164278908
+- https://openalex.org/W2166706236
+- https://openalex.org/W2195435876
+- https://openalex.org/W2268702383
+- https://openalex.org/W2300242332
+- https://openalex.org/W2407022425
+- https://openalex.org/W2407369692
+- https://openalex.org/W2473418344
+- https://openalex.org/W2510078447
+- https://openalex.org/W2525846285
+- https://openalex.org/W2532781556
+- https://openalex.org/W2535838896
+- https://openalex.org/W2541884796
+- https://openalex.org/W2568821124
+- https://openalex.org/W2617960902
+- https://openalex.org/W2620512600
+- https://openalex.org/W2739542029
+- https://openalex.org/W2741269719
+- https://openalex.org/W2741736887
+- https://openalex.org/W2767079719
+- https://openalex.org/W2769892987
+- https://openalex.org/W2777914285
+- https://openalex.org/W2783522756
+- https://openalex.org/W2784621220
+- https://openalex.org/W2785361959
+- https://openalex.org/W2788502731
+- https://openalex.org/W2788629937
+- https://openalex.org/W2789911054
+- https://openalex.org/W2804268522
+- https://openalex.org/W2804978897
+- https://openalex.org/W2805997383
+- https://openalex.org/W2807006176
+- https://openalex.org/W2886404071
+- https://openalex.org/W2888206291
+- https://openalex.org/W2888561381
+- https://openalex.org/W2889676205
+- https://openalex.org/W2890721294
+- https://openalex.org/W2891735383
+- https://openalex.org/W2892209803
+- https://openalex.org/W2895865029
+- https://openalex.org/W2897021175
+- https://openalex.org/W2897230576
+- https://openalex.org/W2898046929
+- https://openalex.org/W2900120080
+- https://openalex.org/W2900182564
+- https://openalex.org/W2902094809
+- https://openalex.org/W2902113386
+- https://openalex.org/W2902114605
+- https://openalex.org/W2903471046
+- https://openalex.org/W2905444686
+- https://openalex.org/W2906936451
+- https://openalex.org/W2908477164
+- https://openalex.org/W2912213068
+- https://openalex.org/W2912592113
+- https://openalex.org/W2913340405
+- https://openalex.org/W2913777072
+- https://openalex.org/W2914328083
+- https://openalex.org/W2917462349
+- https://openalex.org/W2922342388
+- https://openalex.org/W2926101387
+- https://openalex.org/W2932329902
+- https://openalex.org/W2935717345
+- https://openalex.org/W2941142392
+- https://openalex.org/W2944525415
+- https://openalex.org/W2944542720
+- https://openalex.org/W2945326979
+- https://openalex.org/W2945471187
+- https://openalex.org/W2945996667
+- https://openalex.org/W2946193510
+- https://openalex.org/W2946573451
+- https://openalex.org/W2946930197
+- https://openalex.org/W2948563928
+- https://openalex.org/W2949140995
+- https://openalex.org/W2949364482
+- https://openalex.org/W2949377959
+- https://openalex.org/W2949522309
+- https://openalex.org/W2949934631
+- https://openalex.org/W2950012677
+- https://openalex.org/W2950539955
+- https://openalex.org/W2950881963
+- https://openalex.org/W2950943617
+- https://openalex.org/W2951114885
+- https://openalex.org/W2951213900
+- https://openalex.org/W2951475234
+- https://openalex.org/W2951663308
+- https://openalex.org/W2951996732
+- https://openalex.org/W2952087428
+- https://openalex.org/W2953611374
+- https://openalex.org/W2955213239
+- https://openalex.org/W2962688627
+- https://openalex.org/W2962741697
+- https://openalex.org/W2962885409
+- https://openalex.org/W2963106566
+- https://openalex.org/W2963179579
+- https://openalex.org/W2963183964
+- https://openalex.org/W2963189173
+- https://openalex.org/W2963228337
+- https://openalex.org/W2963290814
+- https://openalex.org/W2963300197
+- https://openalex.org/W2963306214
+- https://openalex.org/W2963318081
+- https://openalex.org/W2963333146
+- https://openalex.org/W2963335515
+- https://openalex.org/W2963363076
+- https://openalex.org/W2963374540
+- https://openalex.org/W2963456518
+- https://openalex.org/W2963804082
+- https://openalex.org/W2963822870
+- https://openalex.org/W2963834323
+- https://openalex.org/W2963861706
+- https://openalex.org/W2963992805
+- https://openalex.org/W2963999993
+- https://openalex.org/W2964062240
+- https://openalex.org/W2964267428
+- https://openalex.org/W2964279249
+- https://openalex.org/W2970814018
+- https://openalex.org/W2971208866
+- https://openalex.org/W2975043678
+- https://openalex.org/W2977072935
+- https://openalex.org/W2978422189
+- https://openalex.org/W2989289980
+- https://openalex.org/W2995653155
+- https://openalex.org/W2995735216
+- https://openalex.org/W2996366116
+- https://openalex.org/W3037047862
+- https://openalex.org/W3038022836
+- https://openalex.org/W3038028469
+- https://openalex.org/W3102816259
+- https://openalex.org/W3105122387
+- https://openalex.org/W3123972088
+- https://openalex.org/W3212066104
+- https://openalex.org/W4237972311
+- https://openalex.org/W4248358572
+- https://openalex.org/W4287759323
+- https://openalex.org/W4288333953
+- https://openalex.org/W4288335503
+- https://openalex.org/W4288358239
+- https://openalex.org/W4289107582
+- https://openalex.org/W4289147229
+- https://openalex.org/W4289147263
+- https://openalex.org/W4289382653
+- https://openalex.org/W4292363360
+- https://openalex.org/W4293449910
+- https://openalex.org/W4297684382
+- https://openalex.org/W4297687186
+- https://openalex.org/W4297799122
+- https://openalex.org/W4298110978
+- https://openalex.org/W4298221930
+- https://openalex.org/W4300427714
+- https://openalex.org/W4301599317
+- https://openalex.org/W4318619660
+- https://openalex.org/W77869065
+- https://openalex.org/W99485931
+primary_topic: Privacy-Preserving Technologies in Data
+open_access: true

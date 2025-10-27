@@ -1,0 +1,319 @@
+id: https://openalex.org/W3107527779
+doi: https://doi.org/10.1093/nar/gkaa1074
+title: "The STRING database in 2021: customizable protein\u2013protein networks, and\
+  \ functional characterization of user-uploaded gene/measurement sets"
+publication_date: '2020-11-23'
+publication_year: 2020
+cited_by_count: 6850
+citation_percentile: 0.999983
+pagerank: 2.555740894491713e-06
+authorships:
+- author_id: https://openalex.org/A5061581536
+  display_name: Damian Szklarczyk
+  orcid: https://orcid.org/0000-0002-4052-5069
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University
+    of Zurich, 8057 Zurich, Switzerland
+- author_id: https://openalex.org/A5010825633
+  display_name: Annika L Gable
+  orcid: https://orcid.org/0000-0002-8965-0848
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University
+    of Zurich, 8057 Zurich, Switzerland
+- author_id: https://openalex.org/A5026049213
+  display_name: Katerina Nastou
+  orcid: https://orcid.org/0000-0003-3611-5726
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+    2200 Copenhagen N, Denmark
+- author_id: https://openalex.org/A5064443056
+  display_name: David Lyon
+  orcid: https://orcid.org/0000-0001-5794-0456
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University
+    of Zurich, 8057 Zurich, Switzerland
+- author_id: https://openalex.org/A5027950078
+  display_name: Rebecca Kirsch
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+    2200 Copenhagen N, Denmark
+- author_id: https://openalex.org/A5066925770
+  display_name: Sampo Pyysalo
+  orcid: https://orcid.org/0000-0002-6279-5000
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I155660961
+    display_name: University of Turku
+    ror: https://ror.org/05vghhr25
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "TurkuNLP Group, Department of Future Technologies, University of Turku,\_20014\
+    \ Turun Yliopisto, Finland"
+- author_id: https://openalex.org/A5103353640
+  display_name: Nadezhda T. Doncheva
+  orcid: https://orcid.org/0000-0002-8806-6850
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+    2200 Copenhagen N, Denmark
+- author_id: https://openalex.org/A5036215808
+  display_name: Marc Legeay
+  orcid: https://orcid.org/0000-0001-7984-326X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+    2200 Copenhagen N, Denmark
+- author_id: https://openalex.org/A5009279307
+  display_name: Tao Fang
+  orcid: https://orcid.org/0000-0001-9659-7726
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University
+    of Zurich, 8057 Zurich, Switzerland
+- author_id: https://openalex.org/A5074309419
+  display_name: Peer Bork
+  orcid: https://orcid.org/0000-0002-2627-833X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I25974101
+    display_name: "University of W\xFCrzburg"
+    ror: https://ror.org/00fbnyb24
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210153543
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/050589e39
+    country_code: DE
+    type: government
+  - id: https://openalex.org/I4210138560
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/03mstc592
+    country_code: DE
+    type: government
+  - id: https://openalex.org/I205582932
+    display_name: "Max Delbr\xFCck Center"
+    ror: https://ror.org/04p5ggc03
+    country_code: DE
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Department of Bioinformatics, Biozentrum, University of W\xFCrzburg, 97074 W\xFC\
+    rzburg, Germany"
+  - "Max Delbr\xFCck Centre for Molecular Medicine, 13125 Berlin, Germany"
+  - Molecular Medicine Partnership Unit, University of Heidelberg and European Molecular
+    Biology Laboratory, 69117 Heidelberg, Germany
+  - Structural and Computational Biology Unit, European Molecular Biology Laboratory,
+    69117 Heidelberg, Germany
+- author_id: https://openalex.org/A5005772961
+  display_name: Lars Juhl Jensen
+  orcid: https://orcid.org/0000-0001-7885-715X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801134892
+    display_name: Novo Nordisk Foundation
+    ror: https://ror.org/04txyc737
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+    2200 Copenhagen N, Denmark
+- author_id: https://openalex.org/A5000334281
+  display_name: Christian von Mering
+  orcid: https://orcid.org/0000-0001-7734-9102
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, University
+    of Zurich, 8057 Zurich, Switzerland
+referenced_works:
+- https://openalex.org/W1518105100
+- https://openalex.org/W1533936090
+- https://openalex.org/W1964670939
+- https://openalex.org/W1981409633
+- https://openalex.org/W1983762150
+- https://openalex.org/W1985213868
+- https://openalex.org/W1989277387
+- https://openalex.org/W1995683190
+- https://openalex.org/W2031966872
+- https://openalex.org/W2052968292
+- https://openalex.org/W2064295826
+- https://openalex.org/W2088216962
+- https://openalex.org/W2096173332
+- https://openalex.org/W2102221598
+- https://openalex.org/W2105924489
+- https://openalex.org/W2107644337
+- https://openalex.org/W2107717979
+- https://openalex.org/W2108515766
+- https://openalex.org/W2110065044
+- https://openalex.org/W2110256992
+- https://openalex.org/W2123500593
+- https://openalex.org/W2134046693
+- https://openalex.org/W2149310258
+- https://openalex.org/W2150420891
+- https://openalex.org/W2152871646
+- https://openalex.org/W2155833028
+- https://openalex.org/W2163480486
+- https://openalex.org/W2172574008
+- https://openalex.org/W2493614923
+- https://openalex.org/W2513010979
+- https://openalex.org/W2624021832
+- https://openalex.org/W2761688050
+- https://openalex.org/W2762538579
+- https://openalex.org/W2768151985
+- https://openalex.org/W2794479004
+- https://openalex.org/W2805310212
+- https://openalex.org/W2807570578
+- https://openalex.org/W2892573831
+- https://openalex.org/W2896002881
+- https://openalex.org/W2898402099
+- https://openalex.org/W2898458979
+- https://openalex.org/W2899728356
+- https://openalex.org/W2899942534
+- https://openalex.org/W2900126265
+- https://openalex.org/W2900359059
+- https://openalex.org/W2911489562
+- https://openalex.org/W2917858269
+- https://openalex.org/W2950595506
+- https://openalex.org/W2950764390
+- https://openalex.org/W2951422523
+- https://openalex.org/W2962476296
+- https://openalex.org/W2964707913
+- https://openalex.org/W2970771711
+- https://openalex.org/W2977870980
+- https://openalex.org/W2982725072
+- https://openalex.org/W2999321803
+- https://openalex.org/W3006724414
+- https://openalex.org/W3036584715
+- https://openalex.org/W3099269015
+- https://openalex.org/W3136918052
+- https://openalex.org/W4231254854
+- https://openalex.org/W4239055561
+- https://openalex.org/W4319780061
+primary_topic: Bioinformatics and Genomic Networks
+open_access: true

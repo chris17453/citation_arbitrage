@@ -1,0 +1,147 @@
+id: https://openalex.org/W4312815172
+doi: https://doi.org/10.1109/cvpr52688.2022.00135
+title: Masked-attention Mask Transformer for Universal Image Segmentation
+publication_date: '2022-06-01'
+publication_year: 2022
+cited_by_count: 1666
+citation_percentile: 0.99984
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5101589005
+  display_name: Bowen Cheng
+  orcid: https://orcid.org/0000-0002-4348-3845
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2252078561
+    display_name: Meta (Israel)
+    ror: https://ror.org/02388em19
+    country_code: IL
+    type: company
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research (FAIR)
+  - University of Illinois at Urbana-Champaign (UIUC)
+- author_id: https://openalex.org/A5000623592
+  display_name: Ishan Misra
+  orcid: https://orcid.org/0000-0001-7708-7261
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2252078561
+    display_name: Meta (Israel)
+    ror: https://ror.org/02388em19
+    country_code: IL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research (FAIR)
+- author_id: https://openalex.org/A5049638480
+  display_name: Alexander G. Schwing
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Illinois at Urbana-Champaign (UIUC)
+- author_id: https://openalex.org/A5101930471
+  display_name: Alexander Kirillov
+  orcid: https://orcid.org/0000-0003-3169-3199
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2252078561
+    display_name: Meta (Israel)
+    ror: https://ror.org/02388em19
+    country_code: IL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research (FAIR)
+- author_id: https://openalex.org/A5006312307
+  display_name: Rohit Girdhar
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2252078561
+    display_name: Meta (Israel)
+    ror: https://ror.org/02388em19
+    country_code: IL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI Research (FAIR)
+referenced_works:
+- https://openalex.org/W1861492603
+- https://openalex.org/W1903029394
+- https://openalex.org/W1991367009
+- https://openalex.org/W2037227137
+- https://openalex.org/W2088049833
+- https://openalex.org/W2117539524
+- https://openalex.org/W2194775991
+- https://openalex.org/W2340897893
+- https://openalex.org/W2412782625
+- https://openalex.org/W2531409750
+- https://openalex.org/W2558156561
+- https://openalex.org/W2560023338
+- https://openalex.org/W2565639579
+- https://openalex.org/W2630837129
+- https://openalex.org/W2737258237
+- https://openalex.org/W2781228439
+- https://openalex.org/W2884822772
+- https://openalex.org/W2908510526
+- https://openalex.org/W2910628332
+- https://openalex.org/W2955058313
+- https://openalex.org/W2962914239
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963150697
+- https://openalex.org/W2963351448
+- https://openalex.org/W2963849369
+- https://openalex.org/W2964241181
+- https://openalex.org/W2964309882
+- https://openalex.org/W2965182628
+- https://openalex.org/W2981689412
+- https://openalex.org/W2999219213
+- https://openalex.org/W3014641072
+- https://openalex.org/W3028392891
+- https://openalex.org/W3034355852
+- https://openalex.org/W3034971973
+- https://openalex.org/W3035358681
+- https://openalex.org/W3047032303
+- https://openalex.org/W3092462694
+- https://openalex.org/W3093600664
+- https://openalex.org/W3094502228
+- https://openalex.org/W3096609285
+- https://openalex.org/W3106546328
+- https://openalex.org/W3107331169
+- https://openalex.org/W3107443479
+- https://openalex.org/W3138516171
+- https://openalex.org/W3165745140
+- https://openalex.org/W3168649818
+- https://openalex.org/W3170019900
+- https://openalex.org/W3170841864
+- https://openalex.org/W3170863103
+- https://openalex.org/W3175515048
+- https://openalex.org/W3176659256
+- https://openalex.org/W3177248696
+- https://openalex.org/W3177269789
+- https://openalex.org/W3194403109
+- https://openalex.org/W3196107618
+- https://openalex.org/W3203974803
+- https://openalex.org/W3211490618
+- https://openalex.org/W3213165621
+- https://openalex.org/W4214613769
+- https://openalex.org/W4214627427
+- https://openalex.org/W4214893857
+- https://openalex.org/W4312322023
+- https://openalex.org/W4385245566
+- https://openalex.org/W639708223
+primary_topic: Advanced Neural Network Applications
+open_access: true

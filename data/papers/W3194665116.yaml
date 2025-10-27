@@ -1,0 +1,623 @@
+id: https://openalex.org/W3194665116
+doi: https://doi.org/10.1016/j.gpb.2021.08.001
+title: 'The Genome Sequence Archive Family: Toward Explosive Data Growth and Diverse
+  Data Types'
+publication_date: '2021-08-01'
+publication_year: 2021
+cited_by_count: 1328
+citation_percentile: 0.999982
+pagerank: 2.6532125388042394e-06
+authorships:
+- author_id: https://openalex.org/A5100344114
+  display_name: Tingting Chen
+  orcid: https://orcid.org/0000-0003-1296-3093
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5100616550
+  display_name: Xu Chen
+  orcid: https://orcid.org/0000-0001-6102-1751
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5112748672
+  display_name: Sisi Zhang
+  orcid: https://orcid.org/0000-0002-3852-4796
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5031477931
+  display_name: Junwei Zhu
+  orcid: https://orcid.org/0000-0003-4689-3513
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5037875779
+  display_name: Bixia Tang
+  orcid: https://orcid.org/0000-0002-9357-4411
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5081376726
+  display_name: Anke Wang
+  orcid: https://orcid.org/0000-0002-2565-2334
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5112127529
+  display_name: Lili Dong
+  orcid: https://orcid.org/0000-0003-0953-6306
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5101549724
+  display_name: Zhewen Zhang
+  orcid: https://orcid.org/0000-0002-9422-822X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5101441619
+  display_name: Caixia Yu
+  orcid: https://orcid.org/0000-0002-3882-9979
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5015529287
+  display_name: Yanling Sun
+  orcid: https://orcid.org/0000-0002-3175-3625
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5045447470
+  display_name: Lianjiang Chi
+  orcid: https://orcid.org/0000-0003-4836-0577
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genomic and Precision Medicine, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5101770836
+  display_name: Huanxin Chen
+  orcid: https://orcid.org/0000-0003-1293-4495
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5059995177
+  display_name: Shuang Zhai
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5101897253
+  display_name: Yubin Sun
+  orcid: https://orcid.org/0000-0003-3810-7156
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5100373021
+  display_name: Lan Li
+  orcid: https://orcid.org/0000-0002-4761-2245
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5100327423
+  display_name: Xin Zhang
+  orcid: https://orcid.org/0000-0002-2300-1036
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5009289581
+  display_name: Jingfa Xiao
+  orcid: https://orcid.org/0000-0002-2835-4340
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+  - University of Chinese Academy of Sciences , Beijing 100049 , China
+- author_id: https://openalex.org/A5075882065
+  display_name: "Y\u012Bm\xEDng B\xE0o"
+  orcid: https://orcid.org/0000-0002-9922-9723
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+  - University of Chinese Academy of Sciences , Beijing 100049 , China
+- author_id: https://openalex.org/A5100667037
+  display_name: Yanqing Wang
+  orcid: https://orcid.org/0000-0002-7985-7941
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+- author_id: https://openalex.org/A5100599306
+  display_name: Zhang Zhang
+  orcid: https://orcid.org/0000-0001-6603-5060
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+  - University of Chinese Academy of Sciences , Beijing 100049 , China
+- author_id: https://openalex.org/A5090452340
+  display_name: Wenming Zhao
+  orcid: https://orcid.org/0000-0002-4396-8287
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2801577699
+    display_name: Beijing Institute of Genomics
+    ror: https://ror.org/049gn7z52
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210165038
+    display_name: University of Chinese Academy of Sciences
+    ror: https://ror.org/05qbk4x57
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210162648
+    display_name: Shanghai Center For Bioinformation Technology
+    ror: https://ror.org/04nyf1f54
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics,
+    Chinese Academy of Sciences , Beijing 100101 , China
+  - China National Center for Bioinformation , Beijing 100101 , China
+  - National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy
+    of Sciences , Beijing 100101 , China
+  - University of Chinese Academy of Sciences , Beijing 100049 , China
+referenced_works:
+- https://openalex.org/W1567333450
+- https://openalex.org/W1973234126
+- https://openalex.org/W2096525273
+- https://openalex.org/W2120141270
+- https://openalex.org/W2583735774
+- https://openalex.org/W2802282671
+- https://openalex.org/W2899154704
+- https://openalex.org/W2913914673
+- https://openalex.org/W2983817879
+- https://openalex.org/W3010373510
+- https://openalex.org/W3013598421
+- https://openalex.org/W3023206539
+- https://openalex.org/W3096117901
+- https://openalex.org/W3106120778
+- https://openalex.org/W3106818854
+- https://openalex.org/W3113418104
+- https://openalex.org/W4247001379
+- https://openalex.org/W4252553099
+- https://openalex.org/W4309908811
+primary_topic: Genomics and Phylogenetic Studies
+open_access: true

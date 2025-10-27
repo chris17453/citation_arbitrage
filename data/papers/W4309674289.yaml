@@ -1,0 +1,271 @@
+id: https://openalex.org/W4309674289
+doi: https://doi.org/10.1145/3571730
+title: Survey of Hallucination in Natural Language Generation
+publication_date: '2022-11-17'
+publication_year: 2022
+cited_by_count: 1932
+citation_percentile: 0.997917
+pagerank: 3.1517295433181587e-06
+authorships:
+- author_id: https://openalex.org/A5010444468
+  display_name: Ziwei Ji
+  orcid: https://orcid.org/0000-0002-0206-7861
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5101839369
+  display_name: Nayeon Lee
+  orcid: https://orcid.org/0000-0003-1144-1103
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5040690315
+  display_name: Rita Frieske
+  orcid: https://orcid.org/0000-0002-3921-3519
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5081246075
+  display_name: Tiezheng Yu
+  orcid: https://orcid.org/0000-0001-5396-950X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5075183307
+  display_name: Dan Su
+  orcid: https://orcid.org/0000-0001-5746-9545
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5100445668
+  display_name: Yan Xu
+  orcid: https://orcid.org/0000-0003-2205-2429
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5010121592
+  display_name: Etsuko Ishii
+  orcid: https://orcid.org/0000-0002-6423-539X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5038748527
+  display_name: Ye Jin Bang
+  orcid: https://orcid.org/0000-0002-2968-0033
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5061096363
+  display_name: Andrea Madotto
+  orcid: https://orcid.org/0000-0002-8672-715X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+- author_id: https://openalex.org/A5065856469
+  display_name: Pascale Fung
+  orcid: https://orcid.org/0000-0002-0628-7132
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hong Kong University of Science and Technology, Hong Kong
+referenced_works:
+- https://openalex.org/W1502957213
+- https://openalex.org/W1524281572
+- https://openalex.org/W1591706642
+- https://openalex.org/W1969944630
+- https://openalex.org/W2045614413
+- https://openalex.org/W2531563875
+- https://openalex.org/W2593831809
+- https://openalex.org/W2595551253
+- https://openalex.org/W2597601064
+- https://openalex.org/W2599674900
+- https://openalex.org/W2601748485
+- https://openalex.org/W2607303097
+- https://openalex.org/W2612690371
+- https://openalex.org/W2623012778
+- https://openalex.org/W2740887992
+- https://openalex.org/W2909737760
+- https://openalex.org/W2913443447
+- https://openalex.org/W2914982603
+- https://openalex.org/W2918008835
+- https://openalex.org/W2930957955
+- https://openalex.org/W2951211142
+- https://openalex.org/W2952523122
+- https://openalex.org/W2962989446
+- https://openalex.org/W2963281280
+- https://openalex.org/W2963506925
+- https://openalex.org/W2964029788
+- https://openalex.org/W2964077278
+- https://openalex.org/W2996176596
+- https://openalex.org/W2996285556
+- https://openalex.org/W2997306177
+- https://openalex.org/W2999905431
+- https://openalex.org/W3015322406
+- https://openalex.org/W3015468748
+- https://openalex.org/W3034625919
+- https://openalex.org/W3034863243
+- https://openalex.org/W3034999214
+- https://openalex.org/W3035252911
+- https://openalex.org/W3035725000
+- https://openalex.org/W3036846138
+- https://openalex.org/W3099474967
+- https://openalex.org/W3100258764
+- https://openalex.org/W3101118213
+- https://openalex.org/W3107647534
+- https://openalex.org/W3153046263
+- https://openalex.org/W3153947101
+- https://openalex.org/W3155737070
+- https://openalex.org/W3156829097
+- https://openalex.org/W3158244987
+- https://openalex.org/W3158419028
+- https://openalex.org/W3166398748
+- https://openalex.org/W3172669006
+- https://openalex.org/W3174073137
+- https://openalex.org/W3183859557
+- https://openalex.org/W3186804217
+- https://openalex.org/W3201174429
+- https://openalex.org/W3201915713
+- https://openalex.org/W3210221975
+- https://openalex.org/W3212618200
+- https://openalex.org/W4205179624
+- https://openalex.org/W4205528004
+- https://openalex.org/W4205807230
+- https://openalex.org/W4206249782
+- https://openalex.org/W4225323055
+- https://openalex.org/W4226101361
+- https://openalex.org/W4232331747
+- https://openalex.org/W4247857759
+- https://openalex.org/W4281679115
+- https://openalex.org/W4287077924
+- https://openalex.org/W4287258870
+- https://openalex.org/W4287887652
+- https://openalex.org/W4288089799
+- https://openalex.org/W4295009064
+- https://openalex.org/W4297581255
+- https://openalex.org/W4303443773
+- https://openalex.org/W4307106504
+- https://openalex.org/W4309088836
+- https://openalex.org/W4389011232
+- https://openalex.org/W601952952
+- https://openalex.org/W648786980
+primary_topic: Topic Modeling
+open_access: true

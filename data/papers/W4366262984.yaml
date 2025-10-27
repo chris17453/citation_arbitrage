@@ -1,0 +1,582 @@
+id: https://openalex.org/W4366262984
+doi: https://doi.org/10.1016/j.inffus.2023.101805
+title: 'Explainable Artificial Intelligence (XAI): What we know and what is left to
+  attain Trustworthy Artificial Intelligence'
+publication_date: '2023-04-18'
+publication_year: 2023
+cited_by_count: 883
+citation_percentile: 0.999977
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5046303624
+  display_name: Sajid Ali
+  orcid: https://orcid.org/0000-0002-1287-849X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Information Laboratory (InfoLab), Department of Electrical and Computer Engineering,
+    College of Information and Communication Engineering, Sungkyunkwan University,
+    Suwon 16419, South Korea
+- author_id: https://openalex.org/A5023828527
+  display_name: Tamer Abuhmed
+  orcid: https://orcid.org/0000-0001-9232-4843
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Information Laboratory (InfoLab), Department of Computer Science and Engineering,
+    College of Computing and Informatics, Sungkyunkwan University, Suwon 16419, South
+    Korea
+- author_id: https://openalex.org/A5052265483
+  display_name: "Shaker El\u2013Sappagh"
+  orcid: https://orcid.org/0000-0001-9705-1477
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130009713
+    display_name: Suez University
+    ror: https://ror.org/00ndhrx30
+    country_code: EG
+    type: funder
+  - id: https://openalex.org/I4400009028
+    display_name: Galala University
+    ror: https://ror.org/04x3ne739
+    country_code: null
+    type: education
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I207547235
+    display_name: Benha University
+    ror: https://ror.org/03tn5ee41
+    country_code: EG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Computer Science and Engineering, Galala University, Suez 435611, Egypt
+  - Information Laboratory (InfoLab), Department of Computer Science and Engineering,
+    College of Computing and Informatics, Sungkyunkwan University, Suwon 16419, South
+    Korea
+  - Information Systems Department, Faculty of Computers and Artificial Intelligence,
+    Benha University, Banha 13518, Egypt
+- author_id: https://openalex.org/A5101632716
+  display_name: Khan Muhammad
+  orcid: https://orcid.org/0000-0003-4055-7412
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Visual Analytics for Knowledge Laboratory (VIS2KNOW Lab), Department of Applied
+    Artificial Intelligence, College of Computing and Informatics, Sungkyunkwan University,
+    Seoul 03063, South Korea
+- author_id: https://openalex.org/A5056892202
+  display_name: "Jos\xE9 M. Alonso"
+  orcid: https://orcid.org/0000-0003-3673-421X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210111807
+    display_name: Center for Research in Molecular Medicine and Chronic Diseases
+    ror: https://ror.org/0280bnq76
+    country_code: ES
+    type: facility
+  - id: https://openalex.org/I200284239
+    display_name: Universidade de Santiago de Compostela
+    ror: https://ror.org/030eybx10
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centro Singular de Investigaci\xF3n en Tecnolox\xEDas Intelixentes (CiTIUS),\
+    \ Universidade de Santiago de Compostela, R\xFAa de Jenaro de la Fuente Dom\xED\
+    nguez, s/n, 15782 Santiago de Compostela, A Coru\xF1a, Spain"
+- author_id: https://openalex.org/A5070433751
+  display_name: Roberto Confalonieri
+  orcid: https://orcid.org/0000-0003-0936-2123
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138689650
+    display_name: University of Padua
+    ror: https://ror.org/00240q980
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics 'Tullio Levi-Civita', University of Padua, Padova 35121,
+    Italy
+- author_id: https://openalex.org/A5091251187
+  display_name: Riccardo Guidotti
+  orcid: https://orcid.org/0000-0002-2827-7613
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I108290504
+    display_name: University of Pisa
+    ror: https://ror.org/03ad39j10
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Pisa, Pisa 56127, Italy
+- author_id: https://openalex.org/A5017326471
+  display_name: Javier Del Ser
+  orcid: https://orcid.org/0000-0002-1260-9775
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169108374
+    display_name: University of the Basque Country
+    ror: https://ror.org/000xsnr85
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210124459
+    display_name: Association of Electronic and Information Technologies
+    ror: https://ror.org/02trgdk48
+    country_code: ES
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Communications Engineering, University of the Basque Country (UPV/EHU),
+    48013 Bilbao, Spain
+  - TECNALIA, Basque Research and Technology Alliance (BRTA), 48160 Derio, Spain
+- author_id: https://openalex.org/A5058176171
+  display_name: "Natalia D\xEDaz-Rodr\xEDguez"
+  orcid: https://orcid.org/0000-0003-3362-9326
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095677
+    display_name: Instituto Andaluz de Ciencias de la Tierra
+    ror: https://ror.org/00v0g9w49
+    country_code: ES
+    type: facility
+  - id: https://openalex.org/I173304897
+    display_name: Universidad de Granada
+    ror: https://ror.org/04njjy449
+    country_code: ES
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Artificial Intelligence, Andalusian Research
+    Institute in Data Science and Computational Intelligence (DaSCI), University of
+    Granada, Granada 18071, Spain
+- author_id: https://openalex.org/A5045016749
+  display_name: Francisco Herrera
+  orcid: https://orcid.org/0000-0002-7283-312X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I173304897
+    display_name: Universidad de Granada
+    ror: https://ror.org/04njjy449
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210095677
+    display_name: Instituto Andaluz de Ciencias de la Tierra
+    ror: https://ror.org/00v0g9w49
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Artificial Intelligence, Andalusian Research
+    Institute in Data Science and Computational Intelligence (DaSCI), University of
+    Granada, Granada 18071, Spain
+referenced_works:
+- https://openalex.org/W1034019924
+- https://openalex.org/W104847522
+- https://openalex.org/W141083031
+- https://openalex.org/W1497605902
+- https://openalex.org/W1501005121
+- https://openalex.org/W1502957213
+- https://openalex.org/W1546644035
+- https://openalex.org/W1559198035
+- https://openalex.org/W1660264423
+- https://openalex.org/W1727290854
+- https://openalex.org/W1751198022
+- https://openalex.org/W1772653913
+- https://openalex.org/W1787224781
+- https://openalex.org/W1789187189
+- https://openalex.org/W1821462560
+- https://openalex.org/W1851970720
+- https://openalex.org/W1901365844
+- https://openalex.org/W1927620212
+- https://openalex.org/W1966087765
+- https://openalex.org/W1967847904
+- https://openalex.org/W1968843430
+- https://openalex.org/W1971078475
+- https://openalex.org/W1971882425
+- https://openalex.org/W1975675278
+- https://openalex.org/W1981856831
+- https://openalex.org/W1988160630
+- https://openalex.org/W1989968174
+- https://openalex.org/W1990088911
+- https://openalex.org/W1993572674
+- https://openalex.org/W2000257498
+- https://openalex.org/W2001468398
+- https://openalex.org/W2013787102
+- https://openalex.org/W2021191744
+- https://openalex.org/W2026161499
+- https://openalex.org/W2026805626
+- https://openalex.org/W2029440072
+- https://openalex.org/W2034637247
+- https://openalex.org/W2036363240
+- https://openalex.org/W2036779186
+- https://openalex.org/W2041280856
+- https://openalex.org/W2044140042
+- https://openalex.org/W2046945713
+- https://openalex.org/W2053075547
+- https://openalex.org/W2054640944
+- https://openalex.org/W2058051343
+- https://openalex.org/W2058486605
+- https://openalex.org/W2060277733
+- https://openalex.org/W2063046703
+- https://openalex.org/W2063689928
+- https://openalex.org/W2069466022
+- https://openalex.org/W2070427365
+- https://openalex.org/W2083620785
+- https://openalex.org/W2083844448
+- https://openalex.org/W2084341220
+- https://openalex.org/W2088203270
+- https://openalex.org/W2090026354
+- https://openalex.org/W2092493343
+- https://openalex.org/W2096434649
+- https://openalex.org/W2096674496
+- https://openalex.org/W2100171245
+- https://openalex.org/W2110842818
+- https://openalex.org/W2111406701
+- https://openalex.org/W2112649152
+- https://openalex.org/W2118341388
+- https://openalex.org/W2119858020
+- https://openalex.org/W2123045220
+- https://openalex.org/W2125847307
+- https://openalex.org/W2129639577
+- https://openalex.org/W2131251708
+- https://openalex.org/W2133606111
+- https://openalex.org/W2134584261
+- https://openalex.org/W2134682899
+- https://openalex.org/W2135090752
+- https://openalex.org/W2140553307
+- https://openalex.org/W2142148616
+- https://openalex.org/W2145470394
+- https://openalex.org/W2150165932
+- https://openalex.org/W2150662287
+- https://openalex.org/W2154157725
+- https://openalex.org/W2158585626
+- https://openalex.org/W2158599326
+- https://openalex.org/W2159750251
+- https://openalex.org/W2163532598
+- https://openalex.org/W2166305015
+- https://openalex.org/W2170018669
+- https://openalex.org/W2186091528
+- https://openalex.org/W2187089797
+- https://openalex.org/W2191167248
+- https://openalex.org/W2195388612
+- https://openalex.org/W2240067561
+- https://openalex.org/W2251148681
+- https://openalex.org/W2255700062
+- https://openalex.org/W2259088801
+- https://openalex.org/W2264742718
+- https://openalex.org/W2282821441
+- https://openalex.org/W2295107390
+- https://openalex.org/W2295680652
+- https://openalex.org/W2309231107
+- https://openalex.org/W2318937711
+- https://openalex.org/W2327262288
+- https://openalex.org/W2343061342
+- https://openalex.org/W2367397349
+- https://openalex.org/W2394669110
+- https://openalex.org/W2398344594
+- https://openalex.org/W2420245003
+- https://openalex.org/W2475287302
+- https://openalex.org/W2479935243
+- https://openalex.org/W2481995907
+- https://openalex.org/W2493343568
+- https://openalex.org/W2504241250
+- https://openalex.org/W2536379393
+- https://openalex.org/W2536885573
+- https://openalex.org/W2542889218
+- https://openalex.org/W2551974706
+- https://openalex.org/W2553981914
+- https://openalex.org/W2559655401
+- https://openalex.org/W2576489192
+- https://openalex.org/W2587299461
+- https://openalex.org/W2588936615
+- https://openalex.org/W2592141406
+- https://openalex.org/W2594475271
+- https://openalex.org/W2599401705
+- https://openalex.org/W2601530120
+- https://openalex.org/W2606882704
+- https://openalex.org/W2607162077
+- https://openalex.org/W2607223307
+- https://openalex.org/W2608982575
+- https://openalex.org/W2610600445
+- https://openalex.org/W2657631929
+- https://openalex.org/W2725284386
+- https://openalex.org/W2740486019
+- https://openalex.org/W2742340224
+- https://openalex.org/W2751298778
+- https://openalex.org/W2752194699
+- https://openalex.org/W2752332392
+- https://openalex.org/W2753415590
+- https://openalex.org/W2754395205
+- https://openalex.org/W2762968537
+- https://openalex.org/W2764024122
+- https://openalex.org/W2768346313
+- https://openalex.org/W2769506033
+- https://openalex.org/W2783643842
+- https://openalex.org/W2786672974
+- https://openalex.org/W2787546749
+- https://openalex.org/W2787666871
+- https://openalex.org/W2788403449
+- https://openalex.org/W2792126732
+- https://openalex.org/W2792641098
+- https://openalex.org/W2793165286
+- https://openalex.org/W2793566095
+- https://openalex.org/W2795530988
+- https://openalex.org/W2795559220
+- https://openalex.org/W2802093198
+- https://openalex.org/W2810511505
+- https://openalex.org/W2810611310
+- https://openalex.org/W2869036160
+- https://openalex.org/W2891503716
+- https://openalex.org/W2892104346
+- https://openalex.org/W2902476877
+- https://openalex.org/W2910028250
+- https://openalex.org/W2910705748
+- https://openalex.org/W2911227954
+- https://openalex.org/W2913323966
+- https://openalex.org/W2913693384
+- https://openalex.org/W2914854991
+- https://openalex.org/W2916412776
+- https://openalex.org/W2916797267
+- https://openalex.org/W2916904544
+- https://openalex.org/W2917767525
+- https://openalex.org/W2918497321
+- https://openalex.org/W2921802966
+- https://openalex.org/W2939861854
+- https://openalex.org/W2942157335
+- https://openalex.org/W2942444880
+- https://openalex.org/W2943207870
+- https://openalex.org/W2945976633
+- https://openalex.org/W2951008357
+- https://openalex.org/W2951025380
+- https://openalex.org/W2952602496
+- https://openalex.org/W2954312269
+- https://openalex.org/W2956281901
+- https://openalex.org/W2958514452
+- https://openalex.org/W2959325723
+- https://openalex.org/W2960259221
+- https://openalex.org/W2962681511
+- https://openalex.org/W2962772482
+- https://openalex.org/W2962790223
+- https://openalex.org/W2962793481
+- https://openalex.org/W2962843949
+- https://openalex.org/W2962858109
+- https://openalex.org/W2962884579
+- https://openalex.org/W2963095307
+- https://openalex.org/W2963125461
+- https://openalex.org/W2963374347
+- https://openalex.org/W2963609017
+- https://openalex.org/W2963798744
+- https://openalex.org/W2963852406
+- https://openalex.org/W2963917042
+- https://openalex.org/W2964010828
+- https://openalex.org/W2964060211
+- https://openalex.org/W2964231383
+- https://openalex.org/W2964277809
+- https://openalex.org/W2964303497
+- https://openalex.org/W2966362896
+- https://openalex.org/W2968511602
+- https://openalex.org/W2969224142
+- https://openalex.org/W2969670093
+- https://openalex.org/W2970245929
+- https://openalex.org/W2971201880
+- https://openalex.org/W2972854536
+- https://openalex.org/W2973631113
+- https://openalex.org/W2981646383
+- https://openalex.org/W2981731882
+- https://openalex.org/W2984353433
+- https://openalex.org/W2984593886
+- https://openalex.org/W2991138092
+- https://openalex.org/W2994881943
+- https://openalex.org/W2995188596
+- https://openalex.org/W2995523160
+- https://openalex.org/W2995739402
+- https://openalex.org/W2996514457
+- https://openalex.org/W2997560917
+- https://openalex.org/W2999362542
+- https://openalex.org/W2999615587
+- https://openalex.org/W3000716014
+- https://openalex.org/W3000965188
+- https://openalex.org/W3005340895
+- https://openalex.org/W3006064320
+- https://openalex.org/W3013308250
+- https://openalex.org/W3015977534
+- https://openalex.org/W3023001449
+- https://openalex.org/W3026235644
+- https://openalex.org/W3027472889
+- https://openalex.org/W3035253074
+- https://openalex.org/W3035517615
+- https://openalex.org/W3036453007
+- https://openalex.org/W3045238219
+- https://openalex.org/W3048102985
+- https://openalex.org/W3048549109
+- https://openalex.org/W3083483195
+- https://openalex.org/W3087507349
+- https://openalex.org/W3088014761
+- https://openalex.org/W3088836971
+- https://openalex.org/W3088909400
+- https://openalex.org/W3093718041
+- https://openalex.org/W3093861859
+- https://openalex.org/W3096301653
+- https://openalex.org/W3096580368
+- https://openalex.org/W3100035092
+- https://openalex.org/W3101366597
+- https://openalex.org/W3102272852
+- https://openalex.org/W3103708104
+- https://openalex.org/W3111875263
+- https://openalex.org/W3112230406
+- https://openalex.org/W3116073702
+- https://openalex.org/W3116131084
+- https://openalex.org/W3116286104
+- https://openalex.org/W3119566555
+- https://openalex.org/W3121410165
+- https://openalex.org/W3123487819
+- https://openalex.org/W3124373176
+- https://openalex.org/W3124474911
+- https://openalex.org/W3125069671
+- https://openalex.org/W3125145238
+- https://openalex.org/W3125997628
+- https://openalex.org/W3128172745
+- https://openalex.org/W3128845074
+- https://openalex.org/W3130784583
+- https://openalex.org/W3131457744
+- https://openalex.org/W3132091045
+- https://openalex.org/W3134165704
+- https://openalex.org/W3135028703
+- https://openalex.org/W3136603773
+- https://openalex.org/W3137125108
+- https://openalex.org/W3138247573
+- https://openalex.org/W3140914962
+- https://openalex.org/W3144635834
+- https://openalex.org/W3150957536
+- https://openalex.org/W3157438020
+- https://openalex.org/W3159960173
+- https://openalex.org/W3160005967
+- https://openalex.org/W3164846705
+- https://openalex.org/W3165174133
+- https://openalex.org/W3165596704
+- https://openalex.org/W3168997536
+- https://openalex.org/W3173849000
+- https://openalex.org/W3173989598
+- https://openalex.org/W3176482836
+- https://openalex.org/W3176714582
+- https://openalex.org/W3177765094
+- https://openalex.org/W3181414820
+- https://openalex.org/W3182546273
+- https://openalex.org/W3183198896
+- https://openalex.org/W3186197713
+- https://openalex.org/W3186608063
+- https://openalex.org/W3188740654
+- https://openalex.org/W3189411510
+- https://openalex.org/W3190528386
+- https://openalex.org/W3195567601
+- https://openalex.org/W3195625625
+- https://openalex.org/W3196674861
+- https://openalex.org/W3197347140
+- https://openalex.org/W3199384803
+- https://openalex.org/W3199693875
+- https://openalex.org/W3200028717
+- https://openalex.org/W3206150780
+- https://openalex.org/W3209901185
+- https://openalex.org/W3210179814
+- https://openalex.org/W3211108032
+- https://openalex.org/W3212368439
+- https://openalex.org/W3214172001
+- https://openalex.org/W3214404698
+- https://openalex.org/W3214886350
+- https://openalex.org/W39725046
+- https://openalex.org/W4200545033
+- https://openalex.org/W4206210655
+- https://openalex.org/W4211007335
+- https://openalex.org/W4211254520
+- https://openalex.org/W4213069590
+- https://openalex.org/W4221159886
+- https://openalex.org/W4224035735
+- https://openalex.org/W4224984798
+- https://openalex.org/W4225150645
+- https://openalex.org/W4229585545
+- https://openalex.org/W4229658218
+- https://openalex.org/W4233311511
+- https://openalex.org/W4233635718
+- https://openalex.org/W4234836739
+- https://openalex.org/W4237501282
+- https://openalex.org/W4237711877
+- https://openalex.org/W4241307704
+- https://openalex.org/W4241536761
+- https://openalex.org/W4243742982
+- https://openalex.org/W4244296837
+- https://openalex.org/W4245152641
+- https://openalex.org/W4246855866
+- https://openalex.org/W4249103910
+- https://openalex.org/W4249616221
+- https://openalex.org/W4250852845
+- https://openalex.org/W4253050311
+- https://openalex.org/W4281651175
+- https://openalex.org/W4282045566
+- https://openalex.org/W4285138359
+- https://openalex.org/W4285292424
+- https://openalex.org/W4285605356
+- https://openalex.org/W4287071543
+- https://openalex.org/W4287101833
+- https://openalex.org/W4287120154
+- https://openalex.org/W4287552728
+- https://openalex.org/W4287690455
+- https://openalex.org/W4288109975
+- https://openalex.org/W4288281523
+- https://openalex.org/W4289123308
+- https://openalex.org/W4289258965
+- https://openalex.org/W4289699961
+- https://openalex.org/W4290091102
+- https://openalex.org/W4290716979
+- https://openalex.org/W4293187584
+- https://openalex.org/W4293583991
+- https://openalex.org/W4294152847
+- https://openalex.org/W4295808856
+- https://openalex.org/W4296437236
+- https://openalex.org/W4296978576
+- https://openalex.org/W4298084898
+- https://openalex.org/W4298135002
+- https://openalex.org/W4298325995
+- https://openalex.org/W4299700722
+- https://openalex.org/W4299960064
+- https://openalex.org/W4300071243
+- https://openalex.org/W4301329292
+- https://openalex.org/W4301886741
+- https://openalex.org/W4303520951
+- https://openalex.org/W4307212054
+- https://openalex.org/W4307715223
+- https://openalex.org/W4308211566
+- https://openalex.org/W4309730097
+- https://openalex.org/W4311007707
+- https://openalex.org/W4312078640
+- https://openalex.org/W4312933868
+- https://openalex.org/W4315652684
+- https://openalex.org/W4321786089
+- https://openalex.org/W4387045351
+- https://openalex.org/W4399542245
+- https://openalex.org/W4402843978
+primary_topic: Explainable Artificial Intelligence (XAI)
+open_access: true

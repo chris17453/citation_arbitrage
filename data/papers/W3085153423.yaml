@@ -1,0 +1,675 @@
+id: https://openalex.org/W3085153423
+doi: https://doi.org/10.1016/j.cell.2020.09.033
+title: SARS-CoV-2 Infection Depends on Cellular Heparan Sulfate and ACE2
+publication_date: '2020-09-14'
+publication_year: 2020
+cited_by_count: 1098
+citation_percentile: 0.999954
+pagerank: 2.5435525038239677e-06
+authorships:
+- author_id: https://openalex.org/A5102750465
+  display_name: Thomas Mandel Clausen
+  orcid: https://orcid.org/0000-0001-7543-9622
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2802567020
+    display_name: Copenhagen University Hospital
+    ror: https://ror.org/05bpbnx46
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department for Immunology and Microbiology, Faculty of Health and Medical Sciences,
+    University of Copenhagen, 2200 Copenhagen, Denmark
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+  - Department of Infectious Disease, Copenhagen University Hospital, 2200 Copenhagen,
+    Denmark
+- author_id: https://openalex.org/A5047148468
+  display_name: Daniel R. Sandoval
+  orcid: https://orcid.org/0000-0002-7938-315X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5024886861
+  display_name: Charlotte B. Spliid
+  orcid: https://orcid.org/0000-0002-6811-3891
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802567020
+    display_name: Copenhagen University Hospital
+    ror: https://ror.org/05bpbnx46
+    country_code: DK
+    type: healthcare
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department for Immunology and Microbiology, Faculty of Health and Medical Sciences,
+    University of Copenhagen, 2200 Copenhagen, Denmark
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+  - Department of Infectious Disease, Copenhagen University Hospital, 2200 Copenhagen,
+    Denmark
+- author_id: https://openalex.org/A5067627513
+  display_name: Jessica Pihl
+  orcid: https://orcid.org/0000-0002-7752-3518
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802567020
+    display_name: Copenhagen University Hospital
+    ror: https://ror.org/05bpbnx46
+    country_code: DK
+    type: healthcare
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department for Immunology and Microbiology, Faculty of Health and Medical Sciences,
+    University of Copenhagen, 2200 Copenhagen, Denmark
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+  - Department of Infectious Disease, Copenhagen University Hospital, 2200 Copenhagen,
+    Denmark
+- author_id: https://openalex.org/A5062774564
+  display_name: Hailee R. Perrett
+  orcid: https://orcid.org/0000-0002-1326-1731
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123431417
+    display_name: Scripps Research Institute
+    ror: https://ror.org/02dxx6824
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Integrative Structural and Computational Biology, The Scripps Research
+    Institute, La Jolla, CA 92037, USA
+- author_id: https://openalex.org/A5029360256
+  display_name: Chelsea D. Painter
+  orcid: https://orcid.org/0000-0002-1913-5584
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Sciences Graduate Program, University of California San Diego, La Jolla,
+    California, USA
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5012344219
+  display_name: Anoop Narayanan
+  orcid: https://orcid.org/0000-0002-6589-5285
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130769515
+    display_name: Pennsylvania State University
+    ror: https://ror.org/04p491231
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Molecular Biology, The Huck Institutes of the Life
+    Sciences, Pennsylvania State University, University Park, PA 16802, USA
+- author_id: https://openalex.org/A5060792540
+  display_name: Sydney A. Majowicz
+  orcid: https://orcid.org/0000-0002-6331-7780
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130769515
+    display_name: Pennsylvania State University
+    ror: https://ror.org/04p491231
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Molecular Biology, The Huck Institutes of the Life
+    Sciences, Pennsylvania State University, University Park, PA 16802, USA
+- author_id: https://openalex.org/A5067756538
+  display_name: Elizabeth M. Kwong
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799424032
+    display_name: Discovery Institute
+    ror: https://ror.org/05t8s3y29
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I188891513
+    display_name: Sanford Burnham Prebys Medical Discovery Institute
+    ror: https://ror.org/03m1g2s55
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA 92037, USA
+- author_id: https://openalex.org/A5028242295
+  display_name: Rachael N. McVicar
+  orcid: https://orcid.org/0000-0003-4384-4142
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799424032
+    display_name: Discovery Institute
+    ror: https://ror.org/05t8s3y29
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I188891513
+    display_name: Sanford Burnham Prebys Medical Discovery Institute
+    ror: https://ror.org/03m1g2s55
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA 92037, USA
+- author_id: https://openalex.org/A5050505738
+  display_name: Bryan E. Thacker
+  orcid: https://orcid.org/0000-0003-0517-0810
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63533367
+    display_name: General Atomics (United States)
+    ror: https://ror.org/03ngjpk76
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - TEGA Therapeutics, Inc., 3550 General Atomics Court, G02-102, San Diego, CA 92121,
+    USA
+- author_id: https://openalex.org/A5044474928
+  display_name: Charles A. Glass
+  orcid: https://orcid.org/0000-0001-5297-5975
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63533367
+    display_name: General Atomics (United States)
+    ror: https://ror.org/03ngjpk76
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - TEGA Therapeutics, Inc., 3550 General Atomics Court, G02-102, San Diego, CA 92121,
+    USA
+- author_id: https://openalex.org/A5038148203
+  display_name: Zhang Yang
+  orcid: https://orcid.org/0000-0002-4756-5813
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Copenhagen Center for Glycomics, Department of Molecular and Cellular Medicine,
+    University of Copenhagen, 2200 Copenhagen, Denmark
+- author_id: https://openalex.org/A5069474069
+  display_name: Jonathan L. Torres
+  orcid: https://orcid.org/0000-0003-0137-8497
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123431417
+    display_name: Scripps Research Institute
+    ror: https://ror.org/02dxx6824
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Integrative Structural and Computational Biology, The Scripps Research
+    Institute, La Jolla, CA 92037, USA
+- author_id: https://openalex.org/A5022567009
+  display_name: Gregory J. Golden
+  orcid: https://orcid.org/0000-0002-4063-7116
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Sciences Graduate Program, University of California San Diego, La Jolla,
+    California, USA
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5045133997
+  display_name: Phillip L. Bartels
+  orcid: https://orcid.org/0000-0002-9688-6592
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+  - Glycobiology Research and Training Center, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5081588004
+  display_name: Ryan N. Porell
+  orcid: https://orcid.org/0000-0003-3332-6819
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5091699013
+  display_name: Aaron F. Garretson
+  orcid: https://orcid.org/0000-0003-3855-4482
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Diego, La Jolla, CA 92037,
+    USA
+- author_id: https://openalex.org/A5020691836
+  display_name: Logan Laubach
+  orcid: https://orcid.org/0000-0002-8225-6485
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5044457308
+  display_name: Jared Feldman
+  orcid: https://orcid.org/0000-0002-4387-9954
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ragon Institute of MGH, MIT and Harvard, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5100661385
+  display_name: Xin Yin
+  orcid: https://orcid.org/0000-0003-2357-6718
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799424032
+    display_name: Discovery Institute
+    ror: https://ror.org/05t8s3y29
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I188891513
+    display_name: Sanford Burnham Prebys Medical Discovery Institute
+    ror: https://ror.org/03m1g2s55
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immunity and Pathogenesis Program, Infectious and Inflammatory Disease Center,
+    Sanford Burnham Prebys Medical Discovery Institute, 10901 North Torrey Pines Road,
+    La Jolla, CA 92037, USA
+- author_id: https://openalex.org/A5088547372
+  display_name: Yuan Pu
+  orcid: https://orcid.org/0000-0002-7049-8452
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799424032
+    display_name: Discovery Institute
+    ror: https://ror.org/05t8s3y29
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I188891513
+    display_name: Sanford Burnham Prebys Medical Discovery Institute
+    ror: https://ror.org/03m1g2s55
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immunity and Pathogenesis Program, Infectious and Inflammatory Disease Center,
+    Sanford Burnham Prebys Medical Discovery Institute, 10901 North Torrey Pines Road,
+    La Jolla, CA 92037, USA
+- author_id: https://openalex.org/A5047999668
+  display_name: Blake M. Hauser
+  orcid: https://orcid.org/0000-0002-0100-1684
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ragon Institute of MGH, MIT and Harvard, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5009269320
+  display_name: Timothy M. Caradonna
+  orcid: https://orcid.org/0000-0001-7138-4441
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ragon Institute of MGH, MIT and Harvard, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5053491329
+  display_name: Benjamin P. Kellman
+  orcid: https://orcid.org/0000-0002-0780-6096
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics and Systems Biology Program, University of California, San Diego,
+    La Jolla, CA 92093, USA
+  - Department of Bioengineering, University of California, San Diego, La Jolla, CA
+    92093, USA
+  - Department of Pediatrics, University of California San Diego School of Medicine,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5067810319
+  display_name: Cameron Martino
+  orcid: https://orcid.org/0000-0001-9334-1258
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, San Diego, La Jolla, CA
+    92093, USA
+  - Department of Pediatrics, University of California San Diego School of Medicine,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5038608536
+  display_name: Philip L.S.M. Gordts
+  orcid: https://orcid.org/0000-0001-7224-4328
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Diego, La Jolla, CA 92037,
+    USA
+  - Glycobiology Research and Training Center, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5077090198
+  display_name: Sumit K. Chanda
+  orcid: https://orcid.org/0000-0001-9399-7927
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799424032
+    display_name: Discovery Institute
+    ror: https://ror.org/05t8s3y29
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I188891513
+    display_name: Sanford Burnham Prebys Medical Discovery Institute
+    ror: https://ror.org/03m1g2s55
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immunity and Pathogenesis Program, Infectious and Inflammatory Disease Center,
+    Sanford Burnham Prebys Medical Discovery Institute, 10901 North Torrey Pines Road,
+    La Jolla, CA 92037, USA
+- author_id: https://openalex.org/A5041178880
+  display_name: Aaron G. Schmidt
+  orcid: https://orcid.org/0000-0003-3627-2553
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology, Harvard Medical School, Boston, MA 02115, USA
+  - Ragon Institute of MGH, MIT and Harvard, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5040902143
+  display_name: Kamil Godula
+  orcid: https://orcid.org/0000-0001-7953-4619
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, University of California, San Diego,
+    La Jolla, CA 92093, USA
+  - Glycobiology Research and Training Center, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5053007330
+  display_name: Sandra L. Leibel
+  orcid: https://orcid.org/0000-0001-6867-2477
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pediatrics, University of California San Diego School of Medicine,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5041207856
+  display_name: Joyce Jose
+  orcid: https://orcid.org/0000-0003-1261-6921
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130769515
+    display_name: Pennsylvania State University
+    ror: https://ror.org/04p491231
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Molecular Biology, The Huck Institutes of the Life
+    Sciences, Pennsylvania State University, University Park, PA 16802, USA
+- author_id: https://openalex.org/A5026504117
+  display_name: Kevin D. Corbett
+  orcid: https://orcid.org/0000-0001-5854-2388
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+- author_id: https://openalex.org/A5067790213
+  display_name: Andrew B. Ward
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123431417
+    display_name: Scripps Research Institute
+    ror: https://ror.org/02dxx6824
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Integrative Structural and Computational Biology, The Scripps Research
+    Institute, La Jolla, CA 92037, USA
+- author_id: https://openalex.org/A5040148111
+  display_name: Aaron F. Carlin
+  orcid: https://orcid.org/0000-0002-1669-8066
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Diego, La Jolla, CA 92037,
+    USA
+- author_id: https://openalex.org/A5067976238
+  display_name: Jeffrey D. Esko
+  orcid: https://orcid.org/0000-0001-8322-1834
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cellular and Molecular Medicine, University of California, San Diego,
+    La Jolla, CA 92093, USA
+  - Glycobiology Research and Training Center, University of California, San Diego,
+    La Jolla, CA 92093, USA
+referenced_works:
+- https://openalex.org/W1507884592
+- https://openalex.org/W1899503782
+- https://openalex.org/W1927596245
+- https://openalex.org/W1966238900
+- https://openalex.org/W1979211181
+- https://openalex.org/W1981440980
+- https://openalex.org/W1981644527
+- https://openalex.org/W1992344082
+- https://openalex.org/W2001371234
+- https://openalex.org/W2009162978
+- https://openalex.org/W2009345525
+- https://openalex.org/W2016753766
+- https://openalex.org/W2021709330
+- https://openalex.org/W2026457140
+- https://openalex.org/W2028470175
+- https://openalex.org/W2031211461
+- https://openalex.org/W2042587442
+- https://openalex.org/W2050205112
+- https://openalex.org/W2050598200
+- https://openalex.org/W2062891727
+- https://openalex.org/W2074987771
+- https://openalex.org/W2075332208
+- https://openalex.org/W2076449818
+- https://openalex.org/W2103443709
+- https://openalex.org/W2104234755
+- https://openalex.org/W2107325200
+- https://openalex.org/W2115808507
+- https://openalex.org/W2117672117
+- https://openalex.org/W2130363568
+- https://openalex.org/W2151503983
+- https://openalex.org/W2152821878
+- https://openalex.org/W2155647627
+- https://openalex.org/W2156014566
+- https://openalex.org/W2160895962
+- https://openalex.org/W2161661741
+- https://openalex.org/W2169693195
+- https://openalex.org/W2561826764
+- https://openalex.org/W2572080171
+- https://openalex.org/W2734356283
+- https://openalex.org/W276882634
+- https://openalex.org/W2770110160
+- https://openalex.org/W2896109093
+- https://openalex.org/W2912436263
+- https://openalex.org/W2920152185
+- https://openalex.org/W2946533222
+- https://openalex.org/W2948622157
+- https://openalex.org/W2953467281
+- https://openalex.org/W2963084573
+- https://openalex.org/W2981144538
+- https://openalex.org/W2995902735
+- https://openalex.org/W3007092620
+- https://openalex.org/W3007643904
+- https://openalex.org/W3009335299
+- https://openalex.org/W3010441732
+- https://openalex.org/W3013730242
+- https://openalex.org/W3016148207
+- https://openalex.org/W3017177031
+- https://openalex.org/W3021522052
+- https://openalex.org/W3022813053
+- https://openalex.org/W3023376619
+- https://openalex.org/W3024900029
+- https://openalex.org/W3027630905
+- https://openalex.org/W3033171357
+- https://openalex.org/W3034317988
+- https://openalex.org/W3040751560
+- https://openalex.org/W3049048202
+- https://openalex.org/W3104432614
+- https://openalex.org/W3115315281
+- https://openalex.org/W3119184445
+- https://openalex.org/W4229510242
+- https://openalex.org/W9820363
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

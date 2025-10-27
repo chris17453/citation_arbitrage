@@ -1,0 +1,1419 @@
+id: https://openalex.org/W3013924915
+doi: https://doi.org/10.1016/j.annonc.2020.02.011
+title: Sensitive and specific multi-cancer detection and localization using methylation
+  signatures in cell-free DNA
+publication_date: '2020-03-30'
+publication_year: 2020
+cited_by_count: 1176
+citation_percentile: 0.999906
+pagerank: 2.5488365770936662e-06
+authorships:
+- author_id: https://openalex.org/A5032654057
+  display_name: M.C. Liu
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1330342723
+    display_name: Mayo Clinic
+    ror: https://ror.org/02qp3tb03
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Medical Oncology, Department of Oncology, Mayo Clinic, Rochester,
+    USA
+- author_id: https://openalex.org/A5045665778
+  display_name: Geoffrey R. Oxnard
+  orcid: https://orcid.org/0000-0003-1054-8240
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I111088046
+    display_name: Boston University
+    ror: https://ror.org/05qwgg493
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lowe Center for Thoracic Oncology, Dana Farber Cancer Institute, Boston, USA
+- author_id: https://openalex.org/A5001069772
+  display_name: Eric A. Klein
+  orcid: https://orcid.org/0000-0002-1783-0698
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316902750
+    display_name: Cleveland Clinic
+    ror: https://ror.org/03xjacd83
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, USA
+- author_id: https://openalex.org/A5016475369
+  display_name: Charles Swanton
+  orcid: https://orcid.org/0000-0002-4299-3018
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210088881
+    display_name: London Cancer
+    ror: https://ror.org/005kpb876
+    country_code: GB
+    type: other
+  - id: https://openalex.org/I2801081054
+    display_name: The Francis Crick Institute
+    ror: https://ror.org/04tnbqb63
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Evolution and Genome Instability Laboratory, The Francis Crick Institute
+  - Cancer Evolution and Genome Instability Laboratory, University College London
+    Cancer Institute, London, UK
+- author_id: https://openalex.org/A5000311133
+  display_name: Michael V. Seiden
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151469
+    display_name: The US Oncology Network
+    ror: https://ror.org/05xc20j70
+    country_code: US
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - US Oncology Research, US Oncology, The Woodlands, USA
+- author_id: https://openalex.org/A5027858713
+  display_name: Minetta C. Liu
+  orcid: https://orcid.org/0000-0002-8206-5232
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1330342723
+    display_name: Mayo Clinic
+    ror: https://ror.org/02qp3tb03
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Medical Oncology, Department of Oncology, Mayo Clinic, Rochester,
+    USA
+- author_id: https://openalex.org/A5045665778
+  display_name: Geoffrey R. Oxnard
+  orcid: https://orcid.org/0000-0003-1054-8240
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111088046
+    display_name: Boston University
+    ror: https://ror.org/05qwgg493
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Lowe Center for Thoracic Oncology, Dana Farber Cancer Institute, Boston, USA
+- author_id: https://openalex.org/A5001069772
+  display_name: Eric A. Klein
+  orcid: https://orcid.org/0000-0002-1783-0698
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316902750
+    display_name: Cleveland Clinic
+    ror: https://ror.org/03xjacd83
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, USA
+- author_id: https://openalex.org/A5102727019
+  display_name: David A. Smith
+  orcid: https://orcid.org/0000-0001-7778-7137
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095874
+    display_name: Compass Oncology
+    ror: https://ror.org/00rq7v092
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Compass Oncology, Vancouver, USA
+- author_id: https://openalex.org/A5034094899
+  display_name: Donald Richards
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Texas Oncology, Tyler, USA
+- author_id: https://openalex.org/A5113849367
+  display_name: Timothy J. Yeatman
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133986
+    display_name: Spartanburg Regional Healthcare System
+    ror: https://ror.org/03v25yt44
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Gibbs Cancer Center and Research Institute, Spartanburg, USA
+- author_id: https://openalex.org/A5113717283
+  display_name: Allen Lee Cohn
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140702
+    display_name: Rocky Mountain Cancer Centers
+    ror: https://ror.org/03ynhs115
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rocky Mountain Cancer Center, Denver, USA
+- author_id: https://openalex.org/A5006819667
+  display_name: Rosanna L. Lapham
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133986
+    display_name: Spartanburg Regional Healthcare System
+    ror: https://ror.org/03v25yt44
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Spartanburg Regional Healthcare System, Spartanburg, USA
+- author_id: https://openalex.org/A5069993581
+  display_name: "Jessica Cl\xE9ment"
+  orcid: https://orcid.org/0000-0002-4034-3206
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1302163369
+    display_name: Hartford Hospital
+    ror: https://ror.org/00gt5xe03
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hartford HealthCare Cancer Institute, Hartford, USA
+- author_id: https://openalex.org/A5060694231
+  display_name: Alexander S. Parker
+  orcid: https://orcid.org/0000-0002-2474-2645
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801572250
+    display_name: Jacksonville College
+    ror: https://ror.org/03a9t7g49
+    country_code: US
+    type: education
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802423016
+    display_name: WinnMed
+    ror: https://ror.org/02s47w807
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mayo Clinic, Jacksonville, USA
+- author_id: https://openalex.org/A5113552562
+  display_name: Mohan K. Tummala
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123810
+    display_name: Mercy Clinic Cancer and Hematology
+    ror: https://ror.org/0260x4r86
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mercy Clinic Cancer Center, Springfield, USA
+- author_id: https://openalex.org/A5044957566
+  display_name: Kristi McIntyre
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800861319
+    display_name: Texas Health Dallas
+    ror: https://ror.org/05k07p323
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - TOPA Dallas Presbyterian, Dallas, USA
+- author_id: https://openalex.org/A5055740968
+  display_name: Mikkael A. Sekeres
+  orcid: https://orcid.org/0000-0003-2009-6524
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316902750
+    display_name: Cleveland Clinic
+    ror: https://ror.org/03xjacd83
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hematology and Medical Oncology, Cleveland Clinic, Cleveland, USA
+- author_id: https://openalex.org/A5030233600
+  display_name: Alan H. Bryce
+  orcid: https://orcid.org/0000-0002-0206-3895
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802423016
+    display_name: WinnMed
+    ror: https://ror.org/02s47w807
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomic Oncology Clinic, Mayo Clinic, Phoenix, USA
+- author_id: https://openalex.org/A5022987543
+  display_name: Robert D. Siegel
+  orcid: https://orcid.org/0000-0001-9837-9730
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802484588
+    display_name: OSF Saint Francis Medical Center
+    ror: https://ror.org/03qrwy954
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bon Secours St. Francis Cancer Center, Greenville, USA
+- author_id: https://openalex.org/A5102955777
+  display_name: Xuezhong Wang
+  orcid: https://orcid.org/0000-0002-3704-1813
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802484588
+    display_name: OSF Saint Francis Medical Center
+    ror: https://ror.org/03qrwy954
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bon Secours St. Francis Cancer Center, Greenville, USA
+- author_id: https://openalex.org/A5037784680
+  display_name: David Cosgrove
+  orcid: https://orcid.org/0000-0003-2700-5656
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095874
+    display_name: Compass Oncology
+    ror: https://ror.org/00rq7v092
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Compass Oncology, Vancouver Cancer Center, Vancouver, USA
+- author_id: https://openalex.org/A5002011120
+  display_name: "Nadeem R. Abu\u2010Rustum"
+  orcid: https://orcid.org/0000-0001-9689-1298
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334819555
+    display_name: Memorial Sloan Kettering Cancer Center
+    ror: https://ror.org/02yrq0923
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery, Memorial Sloan Kettering Cancer Center, USA
+- author_id: https://openalex.org/A5004418792
+  display_name: Jonathan C. Trent
+  orcid: https://orcid.org/0000-0001-6169-5238
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210101935
+    display_name: University of Miami Health System
+    ror: https://ror.org/00zw9nc64
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Hematology/Oncology, University of Miami Health System, Miami, USA
+- author_id: https://openalex.org/A5014037084
+  display_name: David D. Thiel
+  orcid: https://orcid.org/0000-0002-5926-3636
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802423016
+    display_name: WinnMed
+    ror: https://ror.org/02s47w807
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Urology, Mayo Clinic, Jacksonville, USA
+- author_id: https://openalex.org/A5110145965
+  display_name: Carlos Becerra
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Texas Oncology-Baylor Charles ASammons Cancer
+    Center, Irving, USA
+- author_id: https://openalex.org/A5101970308
+  display_name: Manish Agrawal
+  orcid: https://orcid.org/0000-0001-7961-634X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092295
+    display_name: Maryland Oncology Hematology
+    ror: https://ror.org/00npraj80
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Maryland Oncology Hematology, Rockville, USA
+- author_id: https://openalex.org/A5055972238
+  display_name: Lawrence Garbo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210119807
+    display_name: New York Oncology Hematology
+    ror: https://ror.org/01sr0yp41
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - New York Oncology Hematology, Albany, USA
+- author_id: https://openalex.org/A5069256182
+  display_name: Jeffrey K. Giguere
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1283654650
+    display_name: Prisma Health
+    ror: https://ror.org/03n7vd314
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Greenville Health System Cancer Institute, Seneca, USA
+- author_id: https://openalex.org/A5046853775
+  display_name: Ross M. Michels
+  orcid: https://orcid.org/0000-0002-9861-4056
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1283654650
+    display_name: Prisma Health
+    ror: https://ror.org/03n7vd314
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Greenville Health System Cancer Institute, Seneca, USA
+- author_id: https://openalex.org/A5112548156
+  display_name: Ronald P. Harris
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I884065104
+    display_name: SUNY Broome Community College
+    ror: https://ror.org/0001a2m26
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Broome Oncology, Binghamton, USA
+- author_id: https://openalex.org/A5072278925
+  display_name: Stephen Richey
+  orcid: https://orcid.org/0000-0003-0549-978X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Texas Oncology, Fort Worth, USA
+- author_id: https://openalex.org/A5018472259
+  display_name: Timothy A. McCarthy
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122908
+    display_name: Virginia Cancer Specialists
+    ror: https://ror.org/03tbabt10
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Virginia Cancer Specialists, Fairfax, USA
+- author_id: https://openalex.org/A5053359739
+  display_name: David Waterhouse
+  orcid: https://orcid.org/0000-0001-5589-9939
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153992
+    display_name: Oncology Hematology Care
+    ror: https://ror.org/04gqr8882
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncology Hematology Care, Cincinnati, USA
+- author_id: https://openalex.org/A5016908886
+  display_name: Fergus J. Couch
+  orcid: https://orcid.org/0000-0001-9417-9985
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1330342723
+    display_name: Mayo Clinic
+    ror: https://ror.org/02qp3tb03
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, USA
+- author_id: https://openalex.org/A5086433204
+  display_name: Sharon Wilks
+  orcid: https://orcid.org/0000-0003-2004-4273
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Texas Oncology, San Antonio, USA
+- author_id: https://openalex.org/A5030628939
+  display_name: Amy Krie
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799572201
+    display_name: Avera Health
+    ror: https://ror.org/05nter171
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Avera Medical Group Hematology and Oncology, Sioux Falls, USA
+- author_id: https://openalex.org/A5104124681
+  display_name: Rama Balaraman
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Florida Cancer Affiliates, Ocala, USA
+- author_id: https://openalex.org/A5110160194
+  display_name: Alvaro Restrepo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Texas Oncology, McAllen, USA
+- author_id: https://openalex.org/A5042717041
+  display_name: Michael W. Meshad
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Southern Cancer Center, Daphne, USA
+- author_id: https://openalex.org/A5083571909
+  display_name: "Kimberly Rieger\u2010Christ"
+  orcid: https://orcid.org/0000-0002-8425-132X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106397
+    display_name: Lahey Medical Center
+    ror: https://ror.org/01m178w43
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Translational Research, Lahey Hospital and Medical Center, Burlington, USA
+- author_id: https://openalex.org/A5064411059
+  display_name: Travis Sullivan
+  orcid: https://orcid.org/0000-0002-3395-0294
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106397
+    display_name: Lahey Medical Center
+    ror: https://ror.org/01m178w43
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Translational Research, Lahey Hospital and Medical Center, Burlington, USA
+- author_id: https://openalex.org/A5100604538
+  display_name: Christine Lee
+  orcid: https://orcid.org/0000-0001-9233-8962
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Texas Oncology, The Woodlands, USA
+- author_id: https://openalex.org/A5047502669
+  display_name: Daniel Greenwald
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801628713
+    display_name: Sansum Medical Clinic
+    ror: https://ror.org/04rx0dh54
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sansom Clinic, Ridley-Tree Cancer Center, Santa Barbara, USA
+- author_id: https://openalex.org/A5078027978
+  display_name: William Oh
+  orcid: https://orcid.org/0000-0001-5113-8147
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102044
+    display_name: Mount Sinai Hospital
+    ror: https://ror.org/01h9y0t02
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine, The Mount Sinai Hospital, New
+    York, USA
+- author_id: https://openalex.org/A5112083187
+  display_name: "Che\u2010Kai Tsao"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102044
+    display_name: Mount Sinai Hospital
+    ror: https://ror.org/01h9y0t02
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine, The Mount Sinai Hospital, New
+    York, USA
+- author_id: https://openalex.org/A5007710281
+  display_name: Neil Fleshner
+  orcid: https://orcid.org/0000-0001-7407-7463
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802654988
+    display_name: Princess Margaret Cancer Centre
+    ror: https://ror.org/03zayce58
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Princess Margaret Cancer Centre\u2019s McCain GU BioBank, in the Department of\
+    \ Surgical Oncology, University of Toronto, Princess Margaret Cancer Centre, Toronto,\
+    \ Canada"
+- author_id: https://openalex.org/A5053138163
+  display_name: Hagen F. Kennecke
+  orcid: https://orcid.org/0000-0002-3211-0656
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1317886745
+    display_name: Virginia Mason Medical Center
+    ror: https://ror.org/00cm2cb35
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Virginia Mason Benaroya Research Institute, USA
+- author_id: https://openalex.org/A5101074187
+  display_name: Maged Khalil
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1315778391
+    display_name: Lehigh Valley Hospital-Pocono
+    ror: https://ror.org/01w09ak35
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210094360
+    display_name: Lehigh Valley Health Network
+    ror: https://ror.org/00sf92s91
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hematology Oncology, Lehigh Valley Health Network, Allentown, USA
+- author_id: https://openalex.org/A5018054038
+  display_name: David R. Spigel
+  orcid: https://orcid.org/0000-0003-3215-9465
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135086
+    display_name: Tennessee Oncology
+    ror: https://ror.org/03754ky26
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210100810
+    display_name: Sarah Cannon
+    ror: https://ror.org/014t21j89
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sarah Cannon Research Institute/Tennessee Oncology, PLLC, Nashville, USA
+- author_id: https://openalex.org/A5011606139
+  display_name: Atisha Manhas
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Hematology/OncologyTexas Oncology-Methodist Dallas Cancer Center,
+    Dallas, USA
+- author_id: https://openalex.org/A5081968827
+  display_name: Brian Ulrich
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109973
+    display_name: Cancer Center of Kansas
+    ror: https://ror.org/0179s0197
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Texoma Cancer Center, Wichita Falls, USA
+- author_id: https://openalex.org/A5084063992
+  display_name: P. Kovoor
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Texas Oncology, Plano West, Plano, USA
+- author_id: https://openalex.org/A5032781493
+  display_name: Christopher Stokoe
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125682
+    display_name: Plano Cancer Institute
+    ror: https://ror.org/02xtw2e05
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Texas Oncology, Plano East, Plano, USA
+- author_id: https://openalex.org/A5009390327
+  display_name: Jay Courtright
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800474951
+    display_name: Medical City Dallas Hospital
+    ror: https://ror.org/059rc1n32
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Texas Oncology, Medical City Dallas, Dallas, USA
+- author_id: https://openalex.org/A5024431512
+  display_name: Habte Yimer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800124591
+    display_name: Texas Oncology
+    ror: https://ror.org/02ketev28
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Texas Oncology, Tyler, Tyler, USA
+- author_id: https://openalex.org/A5006506843
+  display_name: Timothy Larson
+  orcid: https://orcid.org/0009-0001-8921-6857
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165573
+    display_name: Minnesota Oncology
+    ror: https://ror.org/05vmsw483
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Oncology, Minnesota Oncology, Minneapolis, USA
+- author_id: https://openalex.org/A5016475369
+  display_name: Charles Swanton
+  orcid: https://orcid.org/0000-0002-4299-3018
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210088881
+    display_name: London Cancer
+    ror: https://ror.org/005kpb876
+    country_code: GB
+    type: other
+  - id: https://openalex.org/I2801081054
+    display_name: The Francis Crick Institute
+    ror: https://ror.org/04tnbqb63
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Evolution and Genome Instability Laboratory, The Francis Crick Institute,
+    London, UK
+  - Cancer Evolution and Genome Instability Laboratory, University College London
+    Cancer Institute, London, UK
+- author_id: https://openalex.org/A5000311133
+  display_name: Michael V. Seiden
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I117693200
+    display_name: Gynecologic Oncology Group
+    ror: https://ror.org/04x187e69
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Gynecologic Medical Oncology, US Oncology Research, The Woodlands, USA
+- author_id: https://openalex.org/A5044875947
+  display_name: Steven R. Cummings
+  orcid: https://orcid.org/0000-0001-8808-260X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114073160
+    display_name: Sutter Health
+    ror: https://ror.org/0060avh92
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - San Francisco Coordinating Center, Sutter Health Research, San Francisco, USA
+- author_id: https://openalex.org/A5110674604
+  display_name: Farnaz Absalan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5007294683
+  display_name: Gregory E. Alexander
+  orcid: https://orcid.org/0000-0002-2442-206X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5033958242
+  display_name: Brian C. Allen
+  orcid: https://orcid.org/0000-0003-2273-0162
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5080074995
+  display_name: Hamed Amini
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5061491054
+  display_name: Alexander M. Aravanis
+  orcid: https://orcid.org/0000-0001-7711-3124
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5016998406
+  display_name: Siddhartha Bagaria
+  orcid: https://orcid.org/0000-0003-2357-443X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5096993382
+  display_name: Leila Bazargan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5065112291
+  display_name: John F. Beausang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5090226553
+  display_name: Jennifer R. Berman
+  orcid: https://orcid.org/0000-0003-3314-0221
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5087524882
+  display_name: Craig Betts
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5034006426
+  display_name: Alexander W. Blocker
+  orcid: https://orcid.org/0000-0002-7486-9919
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5018623004
+  display_name: Joerg Bredno
+  orcid: https://orcid.org/0000-0002-2302-2339
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5052166428
+  display_name: Robert Calef
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5055209321
+  display_name: Gordon Cann
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5052444529
+  display_name: Jeremy G. Carter
+  orcid: https://orcid.org/0000-0001-6718-5909
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5087979786
+  display_name: Christopher Chang
+  orcid: https://orcid.org/0000-0002-3290-3306
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5067810274
+  display_name: Hemanshi Chawla
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5103100121
+  display_name: Xiaoji Chen
+  orcid: https://orcid.org/0000-0003-1645-7657
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5089329433
+  display_name: Tom C. Chien
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5020269311
+  display_name: Daniel Civello
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5060455309
+  display_name: Konstantin Davydov
+  orcid: https://orcid.org/0009-0008-2794-4411
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5034212443
+  display_name: Vasiliki Demas
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5076270105
+  display_name: Mohini Jangi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5020454516
+  display_name: Dong Zhao
+  orcid: https://orcid.org/0000-0002-2118-2910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5091189641
+  display_name: Saniya Fayzullina
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5061564124
+  display_name: Alexander P. Fields
+  orcid: https://orcid.org/0000-0002-1746-945X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5070327849
+  display_name: Darya Filippova
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5005384908
+  display_name: Peter Freese
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5103554378
+  display_name: Eric T. Fung
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5021065126
+  display_name: Sante Gnerre
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5113434743
+  display_name: Samuel Gross
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5042935008
+  display_name: "Meredith Halks\u2010Miller"
+  orcid: https://orcid.org/0000-0002-9847-1331
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5109232214
+  display_name: Megan P. Hall
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5073892003
+  display_name: "Anne-Ren\xE9e Hartman"
+  orcid: https://orcid.org/0000-0003-3506-6440
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5109483630
+  display_name: Chenlu Hou
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5044313889
+  display_name: Earl Hubbell
+  orcid: https://orcid.org/0000-0001-7301-3759
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5091013365
+  display_name: Nathan Hunkapiller
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5034446085
+  display_name: Karthik A. Jagadeesh
+  orcid: https://orcid.org/0000-0002-0957-812X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5111894592
+  display_name: Arash Jamshidi
+  orcid: https://orcid.org/0009-0008-0572-2981
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+- author_id: https://openalex.org/A5015296347
+  display_name: Roger Jiang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139067
+    display_name: Grail (United States)
+    ror: https://ror.org/03jwhs418
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Development, GRAIL, Inc., Menlo Park, USA
+referenced_works:
+- https://openalex.org/W2044433401
+- https://openalex.org/W2089470652
+- https://openalex.org/W2114836589
+- https://openalex.org/W2121203541
+- https://openalex.org/W2128016314
+- https://openalex.org/W2131256900
+- https://openalex.org/W2168909179
+- https://openalex.org/W2409110078
+- https://openalex.org/W2560617851
+- https://openalex.org/W2573152477
+- https://openalex.org/W2615955708
+- https://openalex.org/W2783674487
+- https://openalex.org/W2790122515
+- https://openalex.org/W2792694005
+- https://openalex.org/W2792705380
+- https://openalex.org/W2889768576
+- https://openalex.org/W2889848575
+- https://openalex.org/W2894703793
+- https://openalex.org/W2896711074
+- https://openalex.org/W2900771557
+- https://openalex.org/W2947336879
+- https://openalex.org/W2947368277
+- https://openalex.org/W2947989913
+- https://openalex.org/W2978007607
+- https://openalex.org/W2980754874
+- https://openalex.org/W2990870977
+- https://openalex.org/W3025640515
+- https://openalex.org/W4313371095
+primary_topic: Cancer Genomics and Diagnostics
+open_access: true

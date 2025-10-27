@@ -1,0 +1,709 @@
+id: https://openalex.org/W4220838968
+doi: https://doi.org/10.1038/s41586-022-04492-9
+title: Reproducible brain-wide association studies require thousands of individuals
+publication_date: '2022-03-16'
+publication_year: 2022
+cited_by_count: 1655
+citation_percentile: 0.999927
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5044771207
+  display_name: Scott Marek
+  orcid: https://orcid.org/0000-0003-0032-9052
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Psychiatry, Washington University School of Medicine, St Louis,
+    MO, USA
+- author_id: https://openalex.org/A5045493127
+  display_name: "Brenden Tervo\u2010Clemmens"
+  orcid: https://orcid.org/0000-0002-9557-1126
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Psychiatry, Massachusetts General Hospital, Harvard Medical School,
+    Boston, MA, USA
+- author_id: https://openalex.org/A5051949605
+  display_name: Finnegan J. Calabro
+  orcid: https://orcid.org/0000-0002-8092-3942
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5029680007
+  display_name: David F. Montez
+  orcid: https://orcid.org/0000-0003-1672-8218
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5012240294
+  display_name: Benjamin P. Kay
+  orcid: https://orcid.org/0000-0003-3628-8029
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5004574531
+  display_name: Alexander S. Hatoum
+  orcid: https://orcid.org/0000-0002-8002-7267
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Washington University School of Medicine, St Louis,
+    MO, USA
+- author_id: https://openalex.org/A5055001814
+  display_name: Meghan Rose Donohue
+  orcid: https://orcid.org/0000-0001-8223-2275
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Washington University School of Medicine, St Louis,
+    MO, USA
+- author_id: https://openalex.org/A5064196638
+  display_name: William Foran
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5076845671
+  display_name: Ryland L. Miller
+  orcid: https://orcid.org/0000-0002-9607-9491
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Washington University School of Medicine, St Louis,
+    MO, USA
+- author_id: https://openalex.org/A5004316045
+  display_name: Timothy Hendrickson
+  orcid: https://orcid.org/0000-0001-6862-6526
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Minnesota Informatics Institute, University of Minnesota, Minneapolis,
+    MN, USA
+- author_id: https://openalex.org/A5039999379
+  display_name: Stephen M. Malone
+  orcid: https://orcid.org/0000-0001-9201-7616
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychology, University of Minnesota, Minneapolis, MN, USA
+- author_id: https://openalex.org/A5051232039
+  display_name: Sridhar Kandala
+  orcid: https://orcid.org/0000-0002-6222-0872
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Washington University School of Medicine, St Louis,
+    MO, USA
+- author_id: https://openalex.org/A5025700415
+  display_name: Eric Feczko
+  orcid: https://orcid.org/0000-0003-1337-5517
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Masonic Institute for the Developing Brain, University of Minnesota Medical School,
+    Minneapolis, MN, USA
+- author_id: https://openalex.org/A5060381015
+  display_name: "\xD3scar Miranda-Dom\xEDnguez"
+  orcid: https://orcid.org/0000-0002-3622-0166
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Masonic Institute for the Developing Brain, University of Minnesota Medical School,
+    Minneapolis, MN, USA
+- author_id: https://openalex.org/A5102937449
+  display_name: Alice M. Graham
+  orcid: https://orcid.org/0000-0002-1416-1193
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Oregon Health and Science University, Portland, OR,
+    USA
+- author_id: https://openalex.org/A5063210720
+  display_name: Eric Earl
+  orcid: https://orcid.org/0000-0001-5512-0083
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Masonic Institute for the Developing Brain, University of Minnesota Medical School,
+    Minneapolis, MN, USA
+- author_id: https://openalex.org/A5078514915
+  display_name: Anders Perrone
+  orcid: https://orcid.org/0000-0003-4376-8047
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Masonic Institute for the Developing Brain, University of Minnesota Medical School,
+    Minneapolis, MN, USA
+- author_id: https://openalex.org/A5036622730
+  display_name: Michaela Cordova
+  orcid: https://orcid.org/0000-0002-6860-5159
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Oregon Health and Science University, Portland, OR,
+    USA
+- author_id: https://openalex.org/A5007795668
+  display_name: Olivia Doyle
+  orcid: https://orcid.org/0000-0003-3957-2949
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Oregon Health and Science University, Portland, OR,
+    USA
+- author_id: https://openalex.org/A5027993159
+  display_name: Lucille A. Moore
+  orcid: https://orcid.org/0000-0002-7665-2713
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Oregon Health and Science University, Portland, OR,
+    USA
+- author_id: https://openalex.org/A5058877442
+  display_name: Greg Conan
+  orcid: https://orcid.org/0000-0002-3758-5562
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Masonic Institute for the Developing Brain, University of Minnesota Medical School,
+    Minneapolis, MN, USA
+- author_id: https://openalex.org/A5064956550
+  display_name: Johnny Uriarte
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Oregon Health and Science University, Portland, OR,
+    USA
+- author_id: https://openalex.org/A5071499717
+  display_name: Kathy Snider
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Oregon Health and Science University, Portland, OR,
+    USA
+- author_id: https://openalex.org/A5063170581
+  display_name: Benjamin J. Lynch
+  orcid: https://orcid.org/0000-0001-7310-2022
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Masonic Institute for the Developing Brain, University of Minnesota Medical School,
+    Minneapolis, MN, USA
+- author_id: https://openalex.org/A5006647644
+  display_name: James C. Wilgenbusch
+  orcid: https://orcid.org/0000-0001-9464-1578
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Masonic Institute for the Developing Brain, University of Minnesota Medical School,
+    Minneapolis, MN, USA
+- author_id: https://openalex.org/A5082247691
+  display_name: Thomas Pengo
+  orcid: https://orcid.org/0000-0002-9632-918X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Minnesota Informatics Institute, University of Minnesota, Minneapolis,
+    MN, USA
+- author_id: https://openalex.org/A5069285700
+  display_name: Angela Tam
+  orcid: https://orcid.org/0000-0001-6752-5707
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, National University of Singapore,
+    Singapore, Singapore
+- author_id: https://openalex.org/A5100709937
+  display_name: Jianzhong Chen
+  orcid: https://orcid.org/0000-0003-2454-6967
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, National University of Singapore,
+    Singapore, Singapore
+- author_id: https://openalex.org/A5008924366
+  display_name: Dillan J. Newbold
+  orcid: https://orcid.org/0000-0002-5826-3546
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5007596839
+  display_name: Annie Zheng
+  orcid: https://orcid.org/0000-0002-8047-9458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5079133822
+  display_name: Nicole A. Seider
+  orcid: https://orcid.org/0000-0003-1511-1515
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5000038422
+  display_name: Andrew N. Van
+  orcid: https://orcid.org/0000-0002-8787-0943
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5082569958
+  display_name: Athanasia Metoki
+  orcid: https://orcid.org/0000-0002-8945-269X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5038294541
+  display_name: Roselyne J. Chauvin
+  orcid: https://orcid.org/0000-0001-5786-4705
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5077116460
+  display_name: Timothy O. Laumann
+  orcid: https://orcid.org/0000-0002-0428-427X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Washington University School of Medicine, St Louis,
+    MO, USA
+- author_id: https://openalex.org/A5044665869
+  display_name: Deanna J. Greene
+  orcid: https://orcid.org/0000-0002-0739-7771
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cognitive Science, University of California San Diego, La Jolla,
+    CA, USA
+- author_id: https://openalex.org/A5035206215
+  display_name: Steven E. Petersen
+  orcid: https://orcid.org/0000-0002-8911-3639
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, Washington University School of Medicine, St Louis, MO,
+    USA
+- author_id: https://openalex.org/A5001775538
+  display_name: Hugh Garavan
+  orcid: https://orcid.org/0000-0002-8939-1014
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111236770
+    display_name: University of Vermont
+    ror: https://ror.org/0155zta11
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, University of Vermont, Burlington, VT, USA
+- author_id: https://openalex.org/A5018258467
+  display_name: Wesley K. Thompson
+  orcid: https://orcid.org/0000-0002-1148-1976
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Biostatistics, University of California San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5056453682
+  display_name: Thomas E. Nichols
+  orcid: https://orcid.org/0000-0002-4516-5103
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oxford Big Data Institute, Li Ka Shing Centre for Health Information and Discovery,
+    Nuffield Department of Population Health, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5016198416
+  display_name: B.T. Thomas Yeo
+  orcid: https://orcid.org/0000-0002-0119-3276
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, National University of Singapore,
+    Singapore, Singapore
+- author_id: https://openalex.org/A5026517414
+  display_name: Deanna M. Barch
+  orcid: https://orcid.org/0000-0003-1693-8506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychological and Brain Sciences, Washington University in St Louis,
+    St Louis, MO, USA
+- author_id: https://openalex.org/A5039502579
+  display_name: "Beatr\xEDz Luna"
+  orcid: https://orcid.org/0000-0001-9509-6663
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5041631498
+  display_name: Damien A. Fair
+  orcid: https://orcid.org/0000-0001-8602-393X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135252
+    display_name: University of Minnesota Medical Center
+    ror: https://ror.org/03e1ayz78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pediatrics, University of Minnesota Medical School, Minneapolis,
+    MN, USA
+- author_id: https://openalex.org/A5024114285
+  display_name: Nico U.F. Dosenbach
+  orcid: https://orcid.org/0000-0002-6876-7078
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Washington University in St Louis, St Louis,
+    MO, USA
+referenced_works:
+- https://openalex.org/W1828334443
+- https://openalex.org/W1983208069
+- https://openalex.org/W1987777080
+- https://openalex.org/W1990134753
+- https://openalex.org/W2007226897
+- https://openalex.org/W2010663917
+- https://openalex.org/W2018742491
+- https://openalex.org/W2020519533
+- https://openalex.org/W2024729467
+- https://openalex.org/W2036231449
+- https://openalex.org/W2054626139
+- https://openalex.org/W2061054583
+- https://openalex.org/W2068375947
+- https://openalex.org/W2068782491
+- https://openalex.org/W2069863414
+- https://openalex.org/W2071608556
+- https://openalex.org/W2082704080
+- https://openalex.org/W2087160026
+- https://openalex.org/W2094312839
+- https://openalex.org/W2105824687
+- https://openalex.org/W2107499714
+- https://openalex.org/W2128246772
+- https://openalex.org/W2128607849
+- https://openalex.org/W2132551870
+- https://openalex.org/W2136145485
+- https://openalex.org/W2147543945
+- https://openalex.org/W2151721316
+- https://openalex.org/W2155002669
+- https://openalex.org/W2162010696
+- https://openalex.org/W2213612645
+- https://openalex.org/W2486097122
+- https://openalex.org/W2522628945
+- https://openalex.org/W2570760970
+- https://openalex.org/W2571093196
+- https://openalex.org/W2597348720
+- https://openalex.org/W2725988230
+- https://openalex.org/W2741941708
+- https://openalex.org/W2743362255
+- https://openalex.org/W2762078336
+- https://openalex.org/W2766290206
+- https://openalex.org/W2782556780
+- https://openalex.org/W2789530810
+- https://openalex.org/W2802442632
+- https://openalex.org/W2836420707
+- https://openalex.org/W2883573930
+- https://openalex.org/W2919957599
+- https://openalex.org/W2923495490
+- https://openalex.org/W2949262129
+- https://openalex.org/W2963389298
+- https://openalex.org/W2973570606
+- https://openalex.org/W2977883299
+- https://openalex.org/W2980526534
+- https://openalex.org/W2985923507
+- https://openalex.org/W2991634959
+- https://openalex.org/W3023454905
+- https://openalex.org/W3032464132
+- https://openalex.org/W3035149259
+- https://openalex.org/W3038831287
+- https://openalex.org/W3042526937
+- https://openalex.org/W3046789565
+- https://openalex.org/W3047747604
+- https://openalex.org/W3136926720
+- https://openalex.org/W3172189434
+- https://openalex.org/W3180060468
+- https://openalex.org/W3196656341
+- https://openalex.org/W4200099901
+- https://openalex.org/W4200568753
+- https://openalex.org/W4211125142
+primary_topic: Functional Brain Connectivity Studies
+open_access: true

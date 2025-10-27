@@ -1,0 +1,665 @@
+id: https://openalex.org/W3034425032
+doi: https://doi.org/10.1126/science.abc5902
+title: Potent neutralizing antibodies from COVID-19 patients define multiple targets
+  of vulnerability
+publication_date: '2020-06-15'
+publication_year: 2020
+cited_by_count: 1301
+citation_percentile: 0.999954
+pagerank: 3.320141251395228e-06
+authorships:
+- author_id: https://openalex.org/A5014663623
+  display_name: Philip J. M. Brouwer
+  orcid: https://orcid.org/0000-0002-2902-7739
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5070999270
+  display_name: Tom G. Caniels
+  orcid: https://orcid.org/0000-0001-9580-157X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5054708018
+  display_name: Karlijn van der Straten
+  orcid: https://orcid.org/0000-0001-6373-9302
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5080591517
+  display_name: Jonne L. Snitselaar
+  orcid: https://orcid.org/0000-0002-2425-8335
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5030424496
+  display_name: Yoann Aldon
+  orcid: https://orcid.org/0000-0001-9831-9391
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5028633650
+  display_name: Sandhya Bangaru
+  orcid: https://orcid.org/0000-0001-7994-4693
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123431417
+    display_name: Scripps Research Institute
+    ror: https://ror.org/02dxx6824
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Integrative Structural and Computational Biology, The Scripps Research
+    Institute, La Jolla, CA 92037, USA.
+- author_id: https://openalex.org/A5069474069
+  display_name: Jonathan L. Torres
+  orcid: https://orcid.org/0000-0003-0137-8497
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123431417
+    display_name: Scripps Research Institute
+    ror: https://ror.org/02dxx6824
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Integrative Structural and Computational Biology, The Scripps Research
+    Institute, La Jolla, CA 92037, USA.
+- author_id: https://openalex.org/A5070000278
+  display_name: Nisreen M.A. Okba
+  orcid: https://orcid.org/0000-0002-2394-1079
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Viroscience, Erasmus Medical Center, Rotterdam, 3015GD, Netherlands.
+- author_id: https://openalex.org/A5057596527
+  display_name: Mathieu Claireaux
+  orcid: https://orcid.org/0000-0003-1890-9493
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5064484917
+  display_name: Gius Kerster
+  orcid: https://orcid.org/0000-0001-6880-7351
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5064962683
+  display_name: Arthur E. H. Bentlage
+  orcid: https://orcid.org/0000-0002-7924-554X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020210244
+    display_name: Sanquin
+    ror: https://ror.org/01fm2fv39
+    country_code: NL
+    type: nonprofit
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sanquin Research, Department of Experimental Immunohematology, Amsterdam, Netherlands
+    and Landsteiner Laboratory, Amsterdam UMC, University of Amsterdam, 1006AD Amsterdam,
+    Netherlands.
+- author_id: https://openalex.org/A5061411150
+  display_name: Marlies M. van Haaren
+  orcid: https://orcid.org/0000-0003-3636-6410
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5012655217
+  display_name: Denise Guerra
+  orcid: https://orcid.org/0000-0003-4493-7885
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5038811871
+  display_name: Judith A. Burger
+  orcid: https://orcid.org/0000-0002-7311-9921
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5060468933
+  display_name: Edith E. Schermer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5057737072
+  display_name: Kirsten D. Verheul
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5058091759
+  display_name: Niels van der Velde
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IBIS Technologies BV, 7521PR Enschede, Netherlands.
+- author_id: https://openalex.org/A5066937237
+  display_name: Alex van der Kooi
+  orcid: https://orcid.org/0000-0002-6610-3307
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - IBIS Technologies BV, 7521PR Enschede, Netherlands.
+- author_id: https://openalex.org/A5080717638
+  display_name: Jelle van Schooten
+  orcid: https://orcid.org/0000-0002-5202-355X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5055319253
+  display_name: "Mari\xEBlle J. van Breemen"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5042550634
+  display_name: Tom P. L. Bijl
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5011080180
+  display_name: Kwinten Sliepen
+  orcid: https://orcid.org/0000-0003-1414-0648
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5085831667
+  display_name: Aafke Aartse
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802500869
+    display_name: Biomedical Primate Research Centre
+    ror: https://ror.org/02ahxbh87
+    country_code: NL
+    type: nonprofit
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+  - Department of Virology, Biomedical Primate Research Centre, 2288GJ Rijswijk, Netherlands.
+- author_id: https://openalex.org/A5052726330
+  display_name: Ronald Derking
+  orcid: https://orcid.org/0000-0002-2712-4316
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5076488615
+  display_name: Ilja Bontjer
+  orcid: https://orcid.org/0000-0002-8406-7733
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5066523822
+  display_name: Neeltje A. Kootstra
+  orcid: https://orcid.org/0000-0001-9429-7754
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Experimental Immunology, Amsterdam UMC, University of Amsterdam,
+    Amsterdam Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5030071794
+  display_name: W. Joost Wiersinga
+  orcid: https://orcid.org/0000-0003-2277-1343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5001994531
+  display_name: Gestur Vidarsson
+  orcid: https://orcid.org/0000-0001-5621-003X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020210244
+    display_name: Sanquin
+    ror: https://ror.org/01fm2fv39
+    country_code: NL
+    type: nonprofit
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sanquin Research, Department of Experimental Immunohematology, Amsterdam, Netherlands
+    and Landsteiner Laboratory, Amsterdam UMC, University of Amsterdam, 1006AD Amsterdam,
+    Netherlands.
+- author_id: https://openalex.org/A5004691327
+  display_name: Bart L. Haagmans
+  orcid: https://orcid.org/0000-0001-6221-2015
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Viroscience, Erasmus Medical Center, Rotterdam, 3015GD, Netherlands.
+- author_id: https://openalex.org/A5101862520
+  display_name: Andrew B. Ward
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123431417
+    display_name: Scripps Research Institute
+    ror: https://ror.org/02dxx6824
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Integrative Structural and Computational Biology, The Scripps Research
+    Institute, La Jolla, CA 92037, USA.
+- author_id: https://openalex.org/A5047029696
+  display_name: Godelieve J. de Bree
+  orcid: https://orcid.org/0000-0002-5852-5833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+- author_id: https://openalex.org/A5087473572
+  display_name: Rogier W. Sanders
+  orcid: https://orcid.org/0000-0002-2324-8573
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+  - Department of Microbiology and Immunology, Weill Medical College of Cornell University,
+    New York, NY 10021, USA.
+- author_id: https://openalex.org/A5017311188
+  display_name: Marit J. van Gils
+  orcid: https://orcid.org/0000-0003-3422-8161
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, Amsterdam
+    Institute for Infection and Immunity, 1105AZ Amsterdam, Netherlands.
+referenced_works:
+- https://openalex.org/W1971439989
+- https://openalex.org/W2011136801
+- https://openalex.org/W2028470175
+- https://openalex.org/W2044074387
+- https://openalex.org/W2058112515
+- https://openalex.org/W2066082644
+- https://openalex.org/W2072901265
+- https://openalex.org/W2083002978
+- https://openalex.org/W2104234755
+- https://openalex.org/W2108927023
+- https://openalex.org/W2132629607
+- https://openalex.org/W2148822770
+- https://openalex.org/W2151727763
+- https://openalex.org/W2161428851
+- https://openalex.org/W2161661741
+- https://openalex.org/W2170239105
+- https://openalex.org/W2210879955
+- https://openalex.org/W2225294925
+- https://openalex.org/W2376309928
+- https://openalex.org/W2513547424
+- https://openalex.org/W2554071243
+- https://openalex.org/W2615642132
+- https://openalex.org/W2750464792
+- https://openalex.org/W2755372190
+- https://openalex.org/W2784885284
+- https://openalex.org/W2793636839
+- https://openalex.org/W2806465206
+- https://openalex.org/W2808754971
+- https://openalex.org/W2909272390
+- https://openalex.org/W2910384850
+- https://openalex.org/W2922323100
+- https://openalex.org/W2968524273
+- https://openalex.org/W2975856930
+- https://openalex.org/W2991491848
+- https://openalex.org/W3002108456
+- https://openalex.org/W3006703916
+- https://openalex.org/W3007643904
+- https://openalex.org/W3007886991
+- https://openalex.org/W3008027313
+- https://openalex.org/W3008443627
+- https://openalex.org/W3009335299
+- https://openalex.org/W3009932851
+- https://openalex.org/W3013525829
+- https://openalex.org/W3013742505
+- https://openalex.org/W3013800395
+- https://openalex.org/W3013985547
+- https://openalex.org/W3014656992
+- https://openalex.org/W3014721277
+- https://openalex.org/W3015190630
+- https://openalex.org/W3016038607
+- https://openalex.org/W3017300461
+- https://openalex.org/W3022233874
+- https://openalex.org/W3023698680
+- https://openalex.org/W3026583466
+- https://openalex.org/W3029682964
+- https://openalex.org/W3035459690
+- https://openalex.org/W3036386821
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

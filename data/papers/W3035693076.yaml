@@ -1,0 +1,467 @@
+id: https://openalex.org/W3035693076
+doi: https://doi.org/10.1016/s1473-3099(20)30457-6
+title: 'Effectiveness of isolation, testing, contact tracing, and physical distancing
+  on reducing transmission of SARS-CoV-2 in different settings: a mathematical modelling
+  study'
+publication_date: '2020-06-16'
+publication_year: 2020
+cited_by_count: 919
+citation_percentile: 0.999831
+pagerank: 2.585612116628895e-06
+authorships:
+- author_id: https://openalex.org/A5063834923
+  display_name: Adam J. Kucharski
+  orcid: https://orcid.org/0000-0001-8814-9421
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210089966
+    display_name: London School of Hygiene & Tropical Medicine
+    ror: https://ror.org/00a0jsq62
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene
+    & Tropical Medicine, London, UK
+- author_id: https://openalex.org/A5003663678
+  display_name: Petra Klepac
+  orcid: https://orcid.org/0000-0003-4132-3933
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089966
+    display_name: London School of Hygiene & Tropical Medicine
+    ror: https://ror.org/00a0jsq62
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene
+    & Tropical Medicine, London, UK
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5023824393
+  display_name: Andrew J. K. Conlan
+  orcid: https://orcid.org/0000-0002-2593-6353
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Veterinary Medicine, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5006381131
+  display_name: Stephen M. Kissler
+  orcid: https://orcid.org/0000-0001-6000-8387
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunology and Infectious Diseases, Harvard T H Chan School of Public
+    Health, Boston, MA, USA
+- author_id: https://openalex.org/A5041641113
+  display_name: Maria Tang
+  orcid: https://orcid.org/0000-0002-9671-8302
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5007770449
+  display_name: Hannah Fry
+  orcid: https://orcid.org/0000-0003-0601-9100
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Advanced Spatial Analysis, University College London, London, UK
+- author_id: https://openalex.org/A5042123952
+  display_name: Julia R. Gog
+  orcid: https://orcid.org/0000-0003-1240-7214
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics and Theoretical Physics, University of Cambridge,
+    Cambridge, UK
+- author_id: https://openalex.org/A5001383313
+  display_name: W. John Edmunds
+  orcid: https://orcid.org/0000-0002-9179-2917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089966
+    display_name: London School of Hygiene & Tropical Medicine
+    ror: https://ror.org/00a0jsq62
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene
+    & Tropical Medicine, London, UK
+- author_id: https://openalex.org/A5047095049
+  display_name: Jon C. Emery
+  orcid: https://orcid.org/0000-0001-6644-7604
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5021493301
+  display_name: Graham F. Medley
+  orcid: https://orcid.org/0000-0002-0030-7278
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5091283473
+  display_name: James D Munday
+  orcid: https://orcid.org/0000-0002-6206-7134
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5007152164
+  display_name: Timothy Russell
+  orcid: https://orcid.org/0000-0001-5610-6080
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5001148118
+  display_name: Quentin J. Leclerc
+  orcid: https://orcid.org/0000-0003-4761-001X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5068128144
+  display_name: Charlie Diamond
+  orcid: https://orcid.org/0000-0002-3565-3648
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5018356939
+  display_name: Simon R. Procter
+  orcid: https://orcid.org/0000-0002-0380-1503
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5070972999
+  display_name: Amy Gimma
+  orcid: https://orcid.org/0000-0003-2645-7212
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103911075
+  display_name: Fiona Yueqian Sun
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5074268181
+  display_name: Hamish Gibbs
+  orcid: https://orcid.org/0000-0003-4413-453X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5062948461
+  display_name: "Alicia Rosell\xF3"
+  orcid: https://orcid.org/0000-0002-0737-5679
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5067911817
+  display_name: Kevin van Zandvoort
+  orcid: https://orcid.org/0000-0002-7770-0537
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5032461496
+  display_name: "St\xE9phane Hu\xE9"
+  orcid: https://orcid.org/0000-0002-8580-6905
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5026648556
+  display_name: Sophie Meakin
+  orcid: https://orcid.org/0000-0002-6385-2652
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5063219652
+  display_name: Arminder Deol
+  orcid: https://orcid.org/0000-0002-7154-5505
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5109410021
+  display_name: Gwen Knight
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5013810794
+  display_name: Thibaut Jombart
+  orcid: https://orcid.org/0000-0003-2226-8692
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5059296139
+  display_name: Anna M. Foss
+  orcid: https://orcid.org/0000-0002-7822-5942
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5052203594
+  display_name: Nikos I Bosse
+  orcid: https://orcid.org/0000-0002-7750-5280
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5058270622
+  display_name: Katherine E. Atkins
+  orcid: https://orcid.org/0000-0001-5250-0558
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5040417402
+  display_name: Billy J. Quilty
+  orcid: https://orcid.org/0000-0002-9094-3728
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5020097125
+  display_name: Rachel Lowe
+  orcid: https://orcid.org/0000-0003-3939-7343
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5002686155
+  display_name: Kiesha Prem
+  orcid: https://orcid.org/0000-0003-0528-798X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051314999
+  display_name: Stefan Flasche
+  orcid: https://orcid.org/0000-0002-5808-2606
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5024132855
+  display_name: Carl A. B. Pearson
+  orcid: https://orcid.org/0000-0003-0701-7860
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5077644295
+  display_name: Rein M G J Houben
+  orcid: https://orcid.org/0000-0003-4132-7467
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5020625734
+  display_name: Emily Nightingale
+  orcid: https://orcid.org/0000-0002-9265-1841
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5102892254
+  display_name: Akira Endo
+  orcid: https://orcid.org/0000-0001-6377-7296
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5018071732
+  display_name: Damien C. Tully
+  orcid: https://orcid.org/0000-0002-7620-9340
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5037025491
+  display_name: Yang Liu
+  orcid: https://orcid.org/0000-0002-9368-0425
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5020025547
+  display_name: Julian Villabona-Arenas
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5018439282
+  display_name: "Kathleen O\u2019Reilly"
+  orcid: https://orcid.org/0000-0002-4892-8022
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5058699536
+  display_name: Sebastian Funk
+  orcid: https://orcid.org/0000-0002-2842-3406
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5040703559
+  display_name: Rosalind M. Eggo
+  orcid: https://orcid.org/0000-0002-0362-6717
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5037935415
+  display_name: Mark Jit
+  orcid: https://orcid.org/0000-0001-6658-8255
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5001675193
+  display_name: Eleanor M. Rees
+  orcid: https://orcid.org/0000-0002-4993-2795
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5051364715
+  display_name: Joel Hellewell
+  orcid: https://orcid.org/0000-0003-2683-0849
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5012388145
+  display_name: Samuel Clifford
+  orcid: https://orcid.org/0000-0002-3774-3882
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5053987970
+  display_name: Christopher I Jarvis
+  orcid: https://orcid.org/0000-0002-0812-2446
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5083613572
+  display_name: Sam Abbott
+  orcid: https://orcid.org/0000-0001-8057-8037
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5071819016
+  display_name: Megan Auzenbergs
+  orcid: https://orcid.org/0000-0003-1724-4485
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5039433898
+  display_name: Nicholas G. Davies
+  orcid: https://orcid.org/0000-0002-1740-1412
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5034416195
+  display_name: David Simons
+  orcid: https://orcid.org/0000-0001-9655-1656
+  author_position: last
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+referenced_works:
+- https://openalex.org/W2140763962
+- https://openalex.org/W3007083252
+- https://openalex.org/W3007328128
+- https://openalex.org/W3008294222
+- https://openalex.org/W3009265184
+- https://openalex.org/W3010470836
+- https://openalex.org/W3010890049
+- https://openalex.org/W3012730706
+- https://openalex.org/W3012868172
+- https://openalex.org/W3013215798
+- https://openalex.org/W3013409887
+- https://openalex.org/W3013465889
+- https://openalex.org/W3013980594
+- https://openalex.org/W3014528545
+- https://openalex.org/W3015281372
+- https://openalex.org/W3015538318
+- https://openalex.org/W3015571324
+- https://openalex.org/W3017157467
+- https://openalex.org/W3017190864
+- https://openalex.org/W3020184843
+- https://openalex.org/W3021112975
+- https://openalex.org/W3021151406
+- https://openalex.org/W3021970994
+- https://openalex.org/W3021994662
+- https://openalex.org/W3025600770
+- https://openalex.org/W3026590265
+- https://openalex.org/W3031202235
+- https://openalex.org/W3032725243
+- https://openalex.org/W3033094519
+- https://openalex.org/W3034304416
+- https://openalex.org/W3036030877
+- https://openalex.org/W3036626989
+- https://openalex.org/W3164739321
+- https://openalex.org/W4236624053
+- https://openalex.org/W4250659605
+primary_topic: COVID-19 epidemiological studies
+open_access: true

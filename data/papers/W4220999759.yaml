@@ -1,0 +1,1725 @@
+id: https://openalex.org/W4220999759
+doi: https://doi.org/10.1126/science.abj6987
+title: The complete sequence of a human genome
+publication_date: '2022-03-31'
+publication_year: 2022
+cited_by_count: 2454
+citation_percentile: 0.999974
+pagerank: 2.711479835048133e-06
+authorships:
+- author_id: https://openalex.org/A5057619814
+  display_name: Sergey Nurk
+  orcid: https://orcid.org/0000-0003-1301-5749
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Genome Informatics Section, Computational and Statistical Genomics Branch, National
+    Human Genome Research Institute, National Institutes of Health, Bethesda, MD,
+    USA.
+- author_id: https://openalex.org/A5042603880
+  display_name: Sergey Koren
+  orcid: https://orcid.org/0000-0002-1472-8962
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Genome Informatics Section, Computational and Statistical Genomics Branch, National
+    Human Genome Research Institute, National Institutes of Health, Bethesda, MD,
+    USA.
+- author_id: https://openalex.org/A5077909607
+  display_name: Arang Rhie
+  orcid: https://orcid.org/0000-0002-9809-8127
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Genome Informatics Section, Computational and Statistical Genomics Branch, National
+    Human Genome Research Institute, National Institutes of Health, Bethesda, MD,
+    USA.
+- author_id: https://openalex.org/A5024410406
+  display_name: Mikko Rautiainen
+  orcid: https://orcid.org/0000-0003-2971-267X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Genome Informatics Section, Computational and Statistical Genomics Branch, National
+    Human Genome Research Institute, National Institutes of Health, Bethesda, MD,
+    USA.
+- author_id: https://openalex.org/A5078002589
+  display_name: Andrey V. Bzikadze
+  orcid: https://orcid.org/0000-0002-7928-7950
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Graduate Program in Bioinformatics and Systems Biology, University of California,
+    San Diego, La Jolla, CA, USA.
+- author_id: https://openalex.org/A5066700628
+  display_name: Alla Mikheenko
+  orcid: https://orcid.org/0000-0003-3400-9719
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172901346
+    display_name: St Petersburg University
+    ror: https://ror.org/023znxa73
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Algorithmic Biotechnology, Institute of Translational Biomedicine,
+    Saint Petersburg State University, Saint Petersburg, Russia.
+- author_id: https://openalex.org/A5012396646
+  display_name: Mitchell R. Vollger
+  orcid: https://orcid.org/0000-0002-8651-1615
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genome Sciences, University of Washington School of Medicine, Seattle,
+    WA, USA.
+- author_id: https://openalex.org/A5058769938
+  display_name: Nicolas Altemose
+  orcid: https://orcid.org/0000-0002-7231-6026
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA,
+    USA.
+- author_id: https://openalex.org/A5085217482
+  display_name: Lev Uralsky
+  orcid: https://orcid.org/0000-0002-5565-7961
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210093196
+    display_name: Sirius University of Science and Technology
+    ror: https://ror.org/00n51jg89
+    country_code: RU
+    type: education
+  - id: https://openalex.org/I4210148309
+    display_name: Vavilov Institute of General Genetics
+    ror: https://ror.org/05ermrg42
+    country_code: RU
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sirius University of Science and Technology, Sochi, Russia.
+  - Vavilov Institute of General Genetics, Moscow, Russia.
+- author_id: https://openalex.org/A5014076797
+  display_name: Ariel Gershman
+  orcid: https://orcid.org/0000-0001-8899-8781
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Biology and Genetics, Johns Hopkins University, Baltimore,
+    MD, USA.
+- author_id: https://openalex.org/A5073871292
+  display_name: Sergey Aganezov
+  orcid: https://orcid.org/0000-0003-2458-8323
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5027252269
+  display_name: Savannah J. Hoyt
+  orcid: https://orcid.org/0000-0001-7804-3236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I140172145
+    display_name: University of Connecticut
+    ror: https://ror.org/02der9h97
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Genomics and Department of Molecular and Cell Biology, University
+    of Connecticut, Storrs, CT, USA.
+- author_id: https://openalex.org/A5054009720
+  display_name: Mark Diekhans
+  orcid: https://orcid.org/0000-0002-0430-0989
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185103710
+    display_name: University of California, Santa Cruz
+    ror: https://ror.org/03s65by71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa
+    Cruz, CA, USA.
+- author_id: https://openalex.org/A5009521650
+  display_name: Glennis A. Logsdon
+  orcid: https://orcid.org/0000-0003-2396-0656
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genome Sciences, University of Washington School of Medicine, Seattle,
+    WA, USA.
+- author_id: https://openalex.org/A5073102682
+  display_name: Michael Alonge
+  orcid: https://orcid.org/0000-0002-3692-1819
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5085581810
+  display_name: Stylianos E. Antonarakis
+  orcid: https://orcid.org/0000-0001-8907-5823
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114457229
+    display_name: University of Geneva
+    ror: https://ror.org/01swzsf04
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Geneva Medical School, Geneva, Switzerland.
+- author_id: https://openalex.org/A5082437922
+  display_name: Matthew Borchers
+  orcid: https://orcid.org/0000-0001-5903-3489
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114131015
+    display_name: Stowers Institute for Medical Research
+    ror: https://ror.org/04bgfm609
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stowers Institute for Medical Research, Kansas City, MO, USA.
+- author_id: https://openalex.org/A5034914393
+  display_name: Gerard G. Bouffard
+  orcid: https://orcid.org/0000-0001-8744-6440
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIH Intramural Sequencing Center, National Human Genome Research Institute, National
+    Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5026625803
+  display_name: Shelise Brooks
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIH Intramural Sequencing Center, National Human Genome Research Institute, National
+    Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5073101534
+  display_name: Gina V. Caldas
+  orcid: https://orcid.org/0000-0003-0055-1024
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Cell Biology, University of California, Berkeley,
+    Berkeley, CA, USA.
+- author_id: https://openalex.org/A5053574168
+  display_name: Nae-Chyun Chen
+  orcid: https://orcid.org/0000-0002-4140-4568
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5044987443
+  display_name: Haoyu Cheng
+  orcid: https://orcid.org/0000-0002-9209-5793
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA.
+  - Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.
+- author_id: https://openalex.org/A5000764422
+  display_name: Chen-Shan Chin
+  orcid: https://orcid.org/0000-0003-4394-2455
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210130836
+    display_name: DNAnexus (United States)
+    ror: https://ror.org/043pjwk57
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DNAnexus, Mountain View, CA, USA.
+- author_id: https://openalex.org/A5057492348
+  display_name: William Chow
+  orcid: https://orcid.org/0000-0002-9056-201X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Cambridge, UK.
+- author_id: https://openalex.org/A5066935050
+  display_name: Leonardo Gomes de Lima
+  orcid: https://orcid.org/0000-0001-6340-6065
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114131015
+    display_name: Stowers Institute for Medical Research
+    ror: https://ror.org/04bgfm609
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stowers Institute for Medical Research, Kansas City, MO, USA.
+- author_id: https://openalex.org/A5067160339
+  display_name: Philip C. Dishuck
+  orcid: https://orcid.org/0000-0003-2223-9787
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genome Sciences, University of Washington School of Medicine, Seattle,
+    WA, USA.
+- author_id: https://openalex.org/A5082040351
+  display_name: Richard Durbin
+  orcid: https://orcid.org/0000-0002-9130-1006
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, University of Cambridge, Cambridge, UK.
+  - Wellcome Sanger Institute, Cambridge, UK.
+- author_id: https://openalex.org/A5022112085
+  display_name: Tatiana Dvorkina
+  orcid: https://orcid.org/0000-0003-2253-1702
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172901346
+    display_name: St Petersburg University
+    ror: https://ror.org/023znxa73
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Algorithmic Biotechnology, Institute of Translational Biomedicine,
+    Saint Petersburg State University, Saint Petersburg, Russia.
+- author_id: https://openalex.org/A5083807320
+  display_name: Ian T. Fiddes
+  orcid: https://orcid.org/0000-0002-1580-7443
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Inscripta, Boulder, CO, USA.
+- author_id: https://openalex.org/A5018079714
+  display_name: Giulio Formenti
+  orcid: https://orcid.org/0000-0002-7554-5991
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I83399316
+    display_name: Rockefeller University
+    ror: https://ror.org/0420db125
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA.
+  - Laboratory of Neurogenetics of Language and The Vertebrate Genome Lab, The Rockefeller
+    University, New York, NY, USA.
+- author_id: https://openalex.org/A5061026009
+  display_name: Robert S. Fulton
+  orcid: https://orcid.org/0009-0006-6820-3404
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, Washington University School of Medicine, St. Louis, MO,
+    USA.
+- author_id: https://openalex.org/A5052377950
+  display_name: Arkarachai Fungtammasan
+  orcid: https://orcid.org/0000-0003-2398-0358
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210130836
+    display_name: DNAnexus (United States)
+    ror: https://ror.org/043pjwk57
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DNAnexus, Mountain View, CA, USA.
+- author_id: https://openalex.org/A5008992371
+  display_name: Erik Garrison
+  orcid: https://orcid.org/0000-0003-3821-631X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I160606119
+    display_name: University of Tennessee Health Science Center
+    ror: https://ror.org/0011qv509
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I185103710
+    display_name: University of California, Santa Cruz
+    ror: https://ror.org/03s65by71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa
+    Cruz, CA, USA.
+  - University of Tennessee Health Science Center, Memphis, TN, USA.
+- author_id: https://openalex.org/A5088905168
+  display_name: Patrick G. S. Grady
+  orcid: https://orcid.org/0000-0003-0180-7810
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I140172145
+    display_name: University of Connecticut
+    ror: https://ror.org/02der9h97
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Genomics and Department of Molecular and Cell Biology, University
+    of Connecticut, Storrs, CT, USA.
+- author_id: https://openalex.org/A5089175808
+  display_name: Tina A. Graves-Lindsay
+  orcid: https://orcid.org/0000-0002-0409-891X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114277686
+    display_name: James S. McDonnell Foundation
+    ror: https://ror.org/03dy4aq19
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - McDonnell Genome Institute, Washington University in St. Louis, St. Louis, MO,
+    USA.
+- author_id: https://openalex.org/A5026920706
+  display_name: Ira M. Hall
+  orcid: https://orcid.org/0000-0003-4442-6655
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.
+- author_id: https://openalex.org/A5057230759
+  display_name: Nancy F. Hansen
+  orcid: https://orcid.org/0000-0002-0950-0699
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210145812
+    display_name: Cancer Genetics (United States)
+    ror: https://ror.org/05feyya22
+    country_code: US
+    type: company
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Comparative Genomics Analysis Unit, Cancer Genetics and Comparative Genomics Branch,
+    National Human Genome Research Institute, National Institutes of Health, Bethesda,
+    MD, USA.
+- author_id: https://openalex.org/A5048323991
+  display_name: Gabrielle A. Hartley
+  orcid: https://orcid.org/0000-0002-5672-2171
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I140172145
+    display_name: University of Connecticut
+    ror: https://ror.org/02der9h97
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Genomics and Department of Molecular and Cell Biology, University
+    of Connecticut, Storrs, CT, USA.
+- author_id: https://openalex.org/A5018252159
+  display_name: Marina Haukness
+  orcid: https://orcid.org/0000-0001-9991-8089
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185103710
+    display_name: University of California, Santa Cruz
+    ror: https://ror.org/03s65by71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa
+    Cruz, CA, USA.
+- author_id: https://openalex.org/A5049934769
+  display_name: Kerstin Howe
+  orcid: https://orcid.org/0000-0003-2237-513X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Cambridge, UK.
+- author_id: https://openalex.org/A5075684725
+  display_name: Michael W. Hunkapiller
+  orcid: https://orcid.org/0000-0001-7217-9933
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68554272
+    display_name: Pacific Biosciences (United States)
+    ror: https://ror.org/00fcszb13
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pacific Biosciences, Menlo Park, CA, USA.
+- author_id: https://openalex.org/A5037477391
+  display_name: Chirag Jain
+  orcid: https://orcid.org/0000-0002-4300-0794
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I59270414
+    display_name: Indian Institute of Science Bangalore
+    ror: https://ror.org/04dese585
+    country_code: IN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computational and Data Sciences, Indian Institute of Science, Bangalore
+    KA, India.
+  - Genome Informatics Section, Computational and Statistical Genomics Branch, National
+    Human Genome Research Institute, National Institutes of Health, Bethesda, MD,
+    USA.
+- author_id: https://openalex.org/A5018121239
+  display_name: Miten Jain
+  orcid: https://orcid.org/0000-0002-4571-3982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185103710
+    display_name: University of California, Santa Cruz
+    ror: https://ror.org/03s65by71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa
+    Cruz, CA, USA.
+- author_id: https://openalex.org/A5028548956
+  display_name: Erich D. Jarvis
+  orcid: https://orcid.org/0000-0001-8931-5049
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I83399316
+    display_name: Rockefeller University
+    ror: https://ror.org/0420db125
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA.
+  - Laboratory of Neurogenetics of Language and The Vertebrate Genome Lab, The Rockefeller
+    University, New York, NY, USA.
+- author_id: https://openalex.org/A5046982519
+  display_name: Peter Kerpedjiev
+  orcid: https://orcid.org/0000-0002-0454-1803
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Reservoir Genomics LLC, Oakland, CA, USA.
+- author_id: https://openalex.org/A5033718626
+  display_name: Melanie Kirsche
+  orcid: https://orcid.org/0000-0002-6631-4761
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5025147358
+  display_name: Mikhail Kolmogorov
+  orcid: https://orcid.org/0000-0002-5489-9045
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, University of California, San
+    Diego, La Jolla, CA, USA.
+- author_id: https://openalex.org/A5035425274
+  display_name: Jonas Korlach
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68554272
+    display_name: Pacific Biosciences (United States)
+    ror: https://ror.org/00fcszb13
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pacific Biosciences, Menlo Park, CA, USA.
+- author_id: https://openalex.org/A5057545798
+  display_name: Milinn Kremitzki
+  orcid: https://orcid.org/0000-0001-7980-3153
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114277686
+    display_name: James S. McDonnell Foundation
+    ror: https://ror.org/03dy4aq19
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - McDonnell Genome Institute, Washington University in St. Louis, St. Louis, MO,
+    USA.
+- author_id: https://openalex.org/A5100338825
+  display_name: Heng Li
+  orcid: https://orcid.org/0000-0003-4874-2874
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA.
+  - Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.
+- author_id: https://openalex.org/A5023644228
+  display_name: Valerie V. Maduro
+  orcid: https://orcid.org/0000-0001-8250-9844
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Undiagnosed Diseases Program, National Human Genome Research Institute, National
+    Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5067570776
+  display_name: Tobias Marschall
+  orcid: https://orcid.org/0000-0002-9376-1030
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I44260953
+    display_name: "Heinrich Heine University D\xFCsseldorf"
+    ror: https://ror.org/024z2rq82
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Heinrich Heine University D\xFCsseldorf, Medical Faculty, Institute for Medical\
+    \ Biometry and Bioinformatics, D\xFCsseldorf, Germany."
+- author_id: https://openalex.org/A5011875082
+  display_name: Ann M. Mc Cartney
+  orcid: https://orcid.org/0000-0003-3191-3200
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Informatics Section, Computational and Statistical Genomics Branch, National
+    Human Genome Research Institute, National Institutes of Health, Bethesda, MD,
+    USA.
+- author_id: https://openalex.org/A5045111364
+  display_name: Jennifer McDaniel
+  orcid: https://orcid.org/0000-0003-1987-0914
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321296531
+    display_name: National Institute of Standards and Technology
+    ror: https://ror.org/05xpvk416
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biosystems and Biomaterials Division, National Institute of Standards and Technology,
+    Gaithersburg, MD, USA.
+- author_id: https://openalex.org/A5063334784
+  display_name: Danny E. Miller
+  orcid: https://orcid.org/0000-0001-6096-8601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1295499534
+    display_name: Seattle Children's Hospital
+    ror: https://ror.org/01njes783
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genome Sciences, University of Washington School of Medicine, Seattle,
+    WA, USA.
+  - Department of Pediatrics, Division of Genetic Medicine, University of Washington
+    and Seattle Children's Hospital, Seattle, WA, USA.
+- author_id: https://openalex.org/A5072393754
+  display_name: James C. Mullikin
+  orcid: https://orcid.org/0000-0003-0825-3750
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210145812
+    display_name: Cancer Genetics (United States)
+    ror: https://ror.org/05feyya22
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Comparative Genomics Analysis Unit, Cancer Genetics and Comparative Genomics Branch,
+    National Human Genome Research Institute, National Institutes of Health, Bethesda,
+    MD, USA.
+  - NIH Intramural Sequencing Center, National Human Genome Research Institute, National
+    Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5068657716
+  display_name: Eugene W. Myers
+  orcid: https://orcid.org/0000-0002-6580-7839
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210159854
+    display_name: Max Planck Institute of Molecular Cell Biology and Genetics
+    ror: https://ror.org/05b8d3w18
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.
+- author_id: https://openalex.org/A5066572638
+  display_name: Nathan D. Olson
+  orcid: https://orcid.org/0000-0003-2585-3037
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321296531
+    display_name: National Institute of Standards and Technology
+    ror: https://ror.org/05xpvk416
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biosystems and Biomaterials Division, National Institute of Standards and Technology,
+    Gaithersburg, MD, USA.
+- author_id: https://openalex.org/A5061203088
+  display_name: Benedict Paten
+  orcid: https://orcid.org/0000-0001-8863-3539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185103710
+    display_name: University of California, Santa Cruz
+    ror: https://ror.org/03s65by71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa
+    Cruz, CA, USA.
+- author_id: https://openalex.org/A5009938495
+  display_name: Paul Peluso
+  orcid: https://orcid.org/0000-0002-9723-5185
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68554272
+    display_name: Pacific Biosciences (United States)
+    ror: https://ror.org/00fcszb13
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pacific Biosciences, Menlo Park, CA, USA.
+- author_id: https://openalex.org/A5027480961
+  display_name: Pavel A. Pevzner
+  orcid: https://orcid.org/0000-0002-0418-165X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, University of California, San
+    Diego, La Jolla, CA, USA.
+- author_id: https://openalex.org/A5087265421
+  display_name: "David Porubsk\xFD"
+  orcid: https://orcid.org/0000-0001-8414-8966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genome Sciences, University of Washington School of Medicine, Seattle,
+    WA, USA.
+- author_id: https://openalex.org/A5033459990
+  display_name: Tamara Potapova
+  orcid: https://orcid.org/0000-0003-2761-1795
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114131015
+    display_name: Stowers Institute for Medical Research
+    ror: https://ror.org/04bgfm609
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stowers Institute for Medical Research, Kansas City, MO, USA.
+- author_id: https://openalex.org/A5051730671
+  display_name: "\u0415. \u0418. \u0420\u043E\u0433\u0430\u0435\u0432"
+  orcid: https://orcid.org/0000-0002-0351-8783
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166722992
+    display_name: University of Massachusetts Chan Medical School
+    ror: https://ror.org/0464eyp60
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I19880235
+    display_name: Lomonosov Moscow State University
+    ror: https://ror.org/010pmpe69
+    country_code: RU
+    type: funder
+  - id: https://openalex.org/I4210093196
+    display_name: Sirius University of Science and Technology
+    ror: https://ror.org/00n51jg89
+    country_code: RU
+    type: education
+  - id: https://openalex.org/I4210148309
+    display_name: Vavilov Institute of General Genetics
+    ror: https://ror.org/05ermrg42
+    country_code: RU
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, University of Massachusetts Medical School, Worcester,
+    MA, USA.
+  - Faculty of Biology, Lomonosov Moscow State University, Moscow, Russia.
+  - Sirius University of Science and Technology, Sochi, Russia.
+  - Vavilov Institute of General Genetics, Moscow, Russia.
+- author_id: https://openalex.org/A5034922709
+  display_name: Jeffrey Rosenfeld
+  orcid: https://orcid.org/0000-0002-8750-2841
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210154732
+    display_name: Cancer Institute of Florida
+    ror: https://ror.org/04my1rt02
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4390039325
+    display_name: Rutgers Cancer Institute
+    ror: https://ror.org/0060x3y55
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cancer Institute of New Jersey, New Brunswick, NJ, USA.
+- author_id: https://openalex.org/A5010384159
+  display_name: Steven L. Salzberg
+  orcid: https://orcid.org/0000-0002-8859-7432
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD,
+    USA.
+  - Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5048156988
+  display_name: "Val\xE9rie Schneider"
+  orcid: https://orcid.org/0000-0002-3442-1888
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5037440162
+  display_name: Fritz J. Sedlazeck
+  orcid: https://orcid.org/0000-0001-6040-2691
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181547552
+    display_name: Baylor College of Medicine
+    ror: https://ror.org/02pttbw34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA.
+- author_id: https://openalex.org/A5079125341
+  display_name: Kishwar Shafin
+  orcid: https://orcid.org/0000-0001-5252-3434
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185103710
+    display_name: University of California, Santa Cruz
+    ror: https://ror.org/03s65by71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa
+    Cruz, CA, USA.
+- author_id: https://openalex.org/A5035520132
+  display_name: Colin J. Shew
+  orcid: https://orcid.org/0000-0001-6660-8818
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84218800
+    display_name: University of California, Davis
+    ror: https://ror.org/05rrcem69
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Center, MIND Institute, Department of Biochemistry and Molecular Medicine,
+    University of California, Davis, CA, USA.
+- author_id: https://openalex.org/A5063791362
+  display_name: Alaina Shumate
+  orcid: https://orcid.org/0000-0002-4450-1857
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD,
+    USA.
+- author_id: https://openalex.org/A5091615215
+  display_name: Ying Sims
+  orcid: https://orcid.org/0000-0003-4765-4872
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Cambridge, UK.
+- author_id: https://openalex.org/A5066827440
+  display_name: Arian F. A. Smit
+  orcid: https://orcid.org/0000-0003-2088-3165
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA, USA.
+- author_id: https://openalex.org/A5071604516
+  display_name: Daniela C. Soto
+  orcid: https://orcid.org/0000-0002-6292-655X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84218800
+    display_name: University of California, Davis
+    ror: https://ror.org/05rrcem69
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Center, MIND Institute, Department of Biochemistry and Molecular Medicine,
+    University of California, Davis, CA, USA.
+- author_id: https://openalex.org/A5001652460
+  display_name: "Ivan Sovi\u0107"
+  orcid: https://orcid.org/0000-0002-5900-4319
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68554272
+    display_name: Pacific Biosciences (United States)
+    ror: https://ror.org/00fcszb13
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Digital BioLogic d.o.o., Ivani\u0107-Grad, Croatia."
+  - Pacific Biosciences, Menlo Park, CA, USA.
+- author_id: https://openalex.org/A5073890436
+  display_name: Jessica M. Storer
+  orcid: https://orcid.org/0000-0002-9619-5265
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3148997608
+    display_name: Institute for Systems Biology
+    ror: https://ror.org/02tpgw303
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Biology, Seattle, WA, USA.
+- author_id: https://openalex.org/A5064329611
+  display_name: Aaron Streets
+  orcid: https://orcid.org/0000-0002-3909-8389
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chan Zuckerberg Biohub, San Francisco, CA, USA.
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA,
+    USA.
+- author_id: https://openalex.org/A5059283391
+  display_name: Beth A. Sullivan
+  orcid: https://orcid.org/0000-0001-5216-4603
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170897317
+    display_name: Duke University
+    ror: https://ror.org/00py81415
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Genetics and Microbiology, Duke University School of Medicine,
+    Durham, NC, USA.
+- author_id: https://openalex.org/A5039928314
+  display_name: "Fran\xE7oise Thibaud\u2010Nissen"
+  orcid: https://orcid.org/0000-0003-4957-7807
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5066372539
+  display_name: James Torrance
+  orcid: https://orcid.org/0000-0002-6117-8190
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Cambridge, UK.
+- author_id: https://openalex.org/A5082000812
+  display_name: Justin Wagner
+  orcid: https://orcid.org/0009-0003-8903-0504
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321296531
+    display_name: National Institute of Standards and Technology
+    ror: https://ror.org/05xpvk416
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biosystems and Biomaterials Division, National Institute of Standards and Technology,
+    Gaithersburg, MD, USA.
+- author_id: https://openalex.org/A5012925880
+  display_name: Brian P. Walenz
+  orcid: https://orcid.org/0000-0001-8431-1428
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Informatics Section, Computational and Statistical Genomics Branch, National
+    Human Genome Research Institute, National Institutes of Health, Bethesda, MD,
+    USA.
+- author_id: https://openalex.org/A5083782077
+  display_name: Aaron M. Wenger
+  orcid: https://orcid.org/0000-0003-1183-0432
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I68554272
+    display_name: Pacific Biosciences (United States)
+    ror: https://ror.org/00fcszb13
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pacific Biosciences, Menlo Park, CA, USA.
+- author_id: https://openalex.org/A5007342777
+  display_name: Jonathan Wood
+  orcid: https://orcid.org/0000-0002-7545-2162
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802476451
+    display_name: Wellcome Sanger Institute
+    ror: https://ror.org/05cy4wa09
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wellcome Sanger Institute, Cambridge, UK.
+- author_id: https://openalex.org/A5075843393
+  display_name: Chunlin Xiao
+  orcid: https://orcid.org/0000-0001-8702-4889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109390
+    display_name: National Center for Biotechnology Information
+    ror: https://ror.org/02meqm098
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Center for Biotechnology Information, National Library of Medicine, National
+    Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5032911304
+  display_name: Stephanie M. Yan
+  orcid: https://orcid.org/0000-0002-6880-465X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5066041347
+  display_name: Alice Young
+  orcid: https://orcid.org/0000-0003-0549-9261
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIH Intramural Sequencing Center, National Human Genome Research Institute, National
+    Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5067239243
+  display_name: Samantha Zarate
+  orcid: https://orcid.org/0000-0001-5570-2059
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5054573446
+  display_name: Urvashi Surti
+  orcid: https://orcid.org/0000-0003-4283-9018
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pathology, University of Pittsburgh, Pittsburgh, PA, USA.
+- author_id: https://openalex.org/A5077891969
+  display_name: Rajiv C. McCoy
+  orcid: https://orcid.org/0000-0003-0615-146X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5074379383
+  display_name: Megan Y. Dennis
+  orcid: https://orcid.org/0000-0002-8502-5420
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84218800
+    display_name: University of California, Davis
+    ror: https://ror.org/05rrcem69
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Center, MIND Institute, Department of Biochemistry and Molecular Medicine,
+    University of California, Davis, CA, USA.
+- author_id: https://openalex.org/A5014206172
+  display_name: Ivan A. Alexandrov
+  orcid: https://orcid.org/0000-0003-4342-2003
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172901346
+    display_name: St Petersburg University
+    ror: https://ror.org/023znxa73
+    country_code: RU
+    type: funder
+  - id: https://openalex.org/I4210148309
+    display_name: Vavilov Institute of General Genetics
+    ror: https://ror.org/05ermrg42
+    country_code: RU
+    type: facility
+  - id: https://openalex.org/I1313323035
+    display_name: Russian Academy of Sciences
+    ror: https://ror.org/05qrfxd25
+    country_code: RU
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Algorithmic Biotechnology, Institute of Translational Biomedicine,
+    Saint Petersburg State University, Saint Petersburg, Russia.
+  - Research Center of Biotechnology of the Russian Academy of Sciences, Moscow, Russia.
+  - Vavilov Institute of General Genetics, Moscow, Russia.
+- author_id: https://openalex.org/A5016119539
+  display_name: Jennifer L. Gerton
+  orcid: https://orcid.org/0000-0003-0743-3637
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114131015
+    display_name: Stowers Institute for Medical Research
+    ror: https://ror.org/04bgfm609
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I146416000
+    display_name: University of Kansas
+    ror: https://ror.org/001tmjg57
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Molecular Biology, University of Kansas Medical
+    School, Kansas City, MO, USA.
+  - Stowers Institute for Medical Research, Kansas City, MO, USA.
+- author_id: https://openalex.org/A5015873205
+  display_name: "Rachel J. O\u2019Neill"
+  orcid: https://orcid.org/0000-0002-1525-6821
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I140172145
+    display_name: University of Connecticut
+    ror: https://ror.org/02der9h97
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Genomics and Department of Molecular and Cell Biology, University
+    of Connecticut, Storrs, CT, USA.
+- author_id: https://openalex.org/A5081156860
+  display_name: Winston Timp
+  orcid: https://orcid.org/0000-0003-2083-6027
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD,
+    USA.
+  - Department of Molecular Biology and Genetics, Johns Hopkins University, Baltimore,
+    MD, USA.
+- author_id: https://openalex.org/A5058903767
+  display_name: Justin M. Zook
+  orcid: https://orcid.org/0000-0003-2309-8402
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321296531
+    display_name: National Institute of Standards and Technology
+    ror: https://ror.org/05xpvk416
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biosystems and Biomaterials Division, National Institute of Standards and Technology,
+    Gaithersburg, MD, USA.
+- author_id: https://openalex.org/A5058192453
+  display_name: Michael C. Schatz
+  orcid: https://orcid.org/0000-0002-4118-4446
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biology, Johns Hopkins University, Baltimore, MD, USA.
+  - Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5014870107
+  display_name: Evan E. Eichler
+  orcid: https://orcid.org/0000-0002-8246-4014
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Genome Sciences, University of Washington School of Medicine, Seattle,
+    WA, USA.
+  - Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.
+- author_id: https://openalex.org/A5061916596
+  display_name: Karen H. Miga
+  orcid: https://orcid.org/0000-0001-9709-4565
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I185103710
+    display_name: University of California, Santa Cruz
+    ror: https://ror.org/03s65by71
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biomolecular Engineering, University of California, Santa Cruz,
+    Santa Cruz, CA, USA.
+  - UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa
+    Cruz, CA, USA.
+- author_id: https://openalex.org/A5086869042
+  display_name: Adam M. Phillippy
+  orcid: https://orcid.org/0000-0003-2983-8934
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210090236
+    display_name: National Human Genome Research Institute
+    ror: https://ror.org/00baak391
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Genome Informatics Section, Computational and Statistical Genomics Branch, National
+    Human Genome Research Institute, National Institutes of Health, Bethesda, MD,
+    USA.
+referenced_works:
+- https://openalex.org/W1487781539
+- https://openalex.org/W1570437652
+- https://openalex.org/W1579534339
+- https://openalex.org/W1598134722
+- https://openalex.org/W1635391495
+- https://openalex.org/W2002438422
+- https://openalex.org/W2013992544
+- https://openalex.org/W2017163422
+- https://openalex.org/W2021341670
+- https://openalex.org/W2026556066
+- https://openalex.org/W2031028681
+- https://openalex.org/W2034519999
+- https://openalex.org/W2049610700
+- https://openalex.org/W2056554987
+- https://openalex.org/W2059003504
+- https://openalex.org/W2062981254
+- https://openalex.org/W2065461553
+- https://openalex.org/W2082127114
+- https://openalex.org/W2095685450
+- https://openalex.org/W2096634299
+- https://openalex.org/W2097706568
+- https://openalex.org/W2098937968
+- https://openalex.org/W2100480706
+- https://openalex.org/W2104549677
+- https://openalex.org/W2108234281
+- https://openalex.org/W2113229788
+- https://openalex.org/W2114765236
+- https://openalex.org/W2119279196
+- https://openalex.org/W2127169977
+- https://openalex.org/W2127230663
+- https://openalex.org/W2128016314
+- https://openalex.org/W2128371599
+- https://openalex.org/W2132341951
+- https://openalex.org/W2132510972
+- https://openalex.org/W2141052558
+- https://openalex.org/W2141287548
+- https://openalex.org/W2153325555
+- https://openalex.org/W2154775341
+- https://openalex.org/W2156104322
+- https://openalex.org/W2158441437
+- https://openalex.org/W2160378127
+- https://openalex.org/W2162440278
+- https://openalex.org/W2166088819
+- https://openalex.org/W2166825456
+- https://openalex.org/W2168909179
+- https://openalex.org/W2194172909
+- https://openalex.org/W2197124664
+- https://openalex.org/W2208231423
+- https://openalex.org/W2507240154
+- https://openalex.org/W2522993044
+- https://openalex.org/W2557610530
+- https://openalex.org/W2575750030
+- https://openalex.org/W2592811885
+- https://openalex.org/W2607669908
+- https://openalex.org/W2612812586
+- https://openalex.org/W2613925306
+- https://openalex.org/W2717753789
+- https://openalex.org/W2762876887
+- https://openalex.org/W2779975541
+- https://openalex.org/W2788228074
+- https://openalex.org/W2789689928
+- https://openalex.org/W2789843538
+- https://openalex.org/W2790220607
+- https://openalex.org/W2792200327
+- https://openalex.org/W2799524357
+- https://openalex.org/W2803553976
+- https://openalex.org/W2805146307
+- https://openalex.org/W2808547740
+- https://openalex.org/W2888425844
+- https://openalex.org/W2889664156
+- https://openalex.org/W2891647208
+- https://openalex.org/W2892689606
+- https://openalex.org/W2897774129
+- https://openalex.org/W2898598946
+- https://openalex.org/W2899614295
+- https://openalex.org/W2904350464
+- https://openalex.org/W2914411275
+- https://openalex.org/W2921895833
+- https://openalex.org/W2950121474
+- https://openalex.org/W2950354111
+- https://openalex.org/W2952306768
+- https://openalex.org/W2952527196
+- https://openalex.org/W2952626329
+- https://openalex.org/W2952870794
+- https://openalex.org/W2953263404
+- https://openalex.org/W2964558489
+- https://openalex.org/W2968499116
+- https://openalex.org/W2971034312
+- https://openalex.org/W2985175171
+- https://openalex.org/W2986109835
+- https://openalex.org/W2995527562
+- https://openalex.org/W3002095319
+- https://openalex.org/W3004208933
+- https://openalex.org/W3014502522
+- https://openalex.org/W3022783334
+- https://openalex.org/W3033870872
+- https://openalex.org/W3042374389
+- https://openalex.org/W3042377559
+- https://openalex.org/W3042933198
+- https://openalex.org/W3043322546
+- https://openalex.org/W3049406222
+- https://openalex.org/W3085758516
+- https://openalex.org/W3088400220
+- https://openalex.org/W3092652421
+- https://openalex.org/W3113006061
+- https://openalex.org/W3113162057
+- https://openalex.org/W3125399386
+- https://openalex.org/W3128153948
+- https://openalex.org/W3128198169
+- https://openalex.org/W3148425969
+- https://openalex.org/W3159082119
+- https://openalex.org/W3159728495
+- https://openalex.org/W3167438710
+- https://openalex.org/W3184406756
+- https://openalex.org/W3208186059
+- https://openalex.org/W4220850399
+- https://openalex.org/W4220886647
+- https://openalex.org/W4220937793
+- https://openalex.org/W4220968807
+- https://openalex.org/W4225293672
+- https://openalex.org/W4225379371
+- https://openalex.org/W4225399233
+- https://openalex.org/W4225409101
+- https://openalex.org/W4226118718
+- https://openalex.org/W4232909036
+- https://openalex.org/W4294012180
+- https://openalex.org/W4317502116
+primary_topic: Chromosomal and Genetic Variations
+open_access: true

@@ -1,0 +1,361 @@
+id: https://openalex.org/W3111564425
+doi: https://doi.org/10.1126/science.abd9338
+title: Inferring the effectiveness of government interventions against COVID-19
+publication_date: '2020-12-16'
+publication_year: 2020
+cited_by_count: 1023
+citation_percentile: 0.999831
+pagerank: 2.5570494972164666e-06
+authorships:
+- author_id: https://openalex.org/A5030437398
+  display_name: Jan Brauner
+  orcid: https://orcid.org/0000-0002-1588-5724
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Future of Humanity Institute, University of Oxford, Oxford, UK.
+  - Oxford Applied and Theoretical Machine Learning (OATML) Group, Department of Computer
+    Science, University of Oxford, Oxford, UK.
+- author_id: https://openalex.org/A5012960540
+  display_name: "S\xF6ren Mindermann"
+  orcid: https://orcid.org/0000-0002-0315-9821
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Oxford Applied and Theoretical Machine Learning (OATML) Group, Department of Computer
+    Science, University of Oxford, Oxford, UK.
+- author_id: https://openalex.org/A5003223014
+  display_name: Mrinank Sharma
+  orcid: https://orcid.org/0000-0002-4304-7963
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Engineering Science, University of Oxford, Oxford, UK.
+  - Department of Statistics, University of Oxford, Oxford, UK.
+  - Future of Humanity Institute, University of Oxford, Oxford, UK.
+- author_id: https://openalex.org/A5102924244
+  display_name: David Johnston
+  orcid: https://orcid.org/0000-0003-3122-9767
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I118347636
+    display_name: Australian National University
+    ror: https://ror.org/019wvm592
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I4210109979
+    display_name: Quantified Uncertainty Research Institute
+    ror: https://ror.org/017mdtk85
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Engineering and Computer Science, Australian National University, Canberra,
+    Australia.
+  - Quantified Uncertainty Research Institute, San Francisco, CA, USA.
+- author_id: https://openalex.org/A5009092465
+  display_name: John Salvatier
+  orcid: https://orcid.org/0000-0002-1784-5312
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109979
+    display_name: Quantified Uncertainty Research Institute
+    ror: https://ror.org/017mdtk85
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Quantified Uncertainty Research Institute, San Francisco, CA, USA.
+- author_id: https://openalex.org/A5033114427
+  display_name: "Tom\xE1\u0161 Gaven\u010Diak"
+  orcid: https://orcid.org/0000-0003-1119-2426
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent scholar, Prague, Czech Republic.
+- author_id: https://openalex.org/A5023968831
+  display_name: Anna B. Stephenson
+  orcid: https://orcid.org/0000-0001-8886-4804
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University,
+    Cambridge, MA, USA.
+- author_id: https://openalex.org/A5029915724
+  display_name: Gavin Leech
+  orcid: https://orcid.org/0000-0002-9298-1488
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computer Science, University of Bristol, Bristol, UK.
+- author_id: https://openalex.org/A5042614964
+  display_name: George Altman
+  orcid: https://orcid.org/0000-0002-4184-2963
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28407311
+    display_name: University of Manchester
+    ror: https://ror.org/027m9bs27
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Medical Sciences, University of Manchester, Manchester, UK.
+- author_id: https://openalex.org/A5005506115
+  display_name: Vladimir Mikulik
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Independent scholar, London, UK.
+- author_id: https://openalex.org/A5034839546
+  display_name: Alexander John Norman
+  orcid: https://orcid.org/0000-0002-0030-3461
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mathematical, Physical and Life Sciences (MPLS) Doctoral Training Centre, University
+    of Oxford, Oxford, UK.
+- author_id: https://openalex.org/A5080142325
+  display_name: Joshua Teperowski Monrad
+  orcid: https://orcid.org/0000-0002-7377-2074
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210120717
+    display_name: Faculty of Public Health
+    ror: https://ror.org/01zqv1s26
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I4210089966
+    display_name: London School of Hygiene & Tropical Medicine
+    ror: https://ror.org/00a0jsq62
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I909854389
+    display_name: London School of Economics and Political Science
+    ror: https://ror.org/0090zs177
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Health Policy, London School of Economics and Political Science,
+    London, UK.
+  - Faculty of Public Health and Policy, London School of Hygiene and Tropical Medicine,
+    London, UK.
+  - Future of Humanity Institute, University of Oxford, Oxford, UK.
+- author_id: https://openalex.org/A5009016780
+  display_name: Tamay Besiroglu
+  orcid: https://orcid.org/0000-0001-5808-3185
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Economics, University of Cambridge, Cambridge, UK.
+- author_id: https://openalex.org/A5100712413
+  display_name: Hong Ge
+  orcid: https://orcid.org/0000-0001-9421-2677
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Engineering Department, University of Cambridge, Cambridge, UK.
+- author_id: https://openalex.org/A5036233486
+  display_name: Meghan A. Hartwick
+  orcid: https://orcid.org/0000-0003-0915-4172
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I121934306
+    display_name: Tufts University
+    ror: https://ror.org/05wvpxv85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tufts Initiative for the Forecasting and Modeling of Infectious Diseases, Tufts
+    University, Boston, MA, USA.
+- author_id: https://openalex.org/A5064373793
+  display_name: Yee Whye Teh
+  orcid: https://orcid.org/0000-0001-5365-6933
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, University of Oxford, Oxford, UK.
+- author_id: https://openalex.org/A5065939739
+  display_name: Leonid Chindelevitch
+  orcid: https://orcid.org/0000-0002-6619-6013
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Abdul Latif Jameel Institute for Disease and Emergency Analytics (J-IDEA), School
+    of Public Health, Imperial College London, London, UK.
+  - Medical Research Council (MRC) Centre for Global Infectious Disease Analysis,
+    School of Public Health, Imperial College London, London, UK.
+- author_id: https://openalex.org/A5029186201
+  display_name: Yarin Gal
+  orcid: https://orcid.org/0000-0002-2733-2078
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Oxford Applied and Theoretical Machine Learning (OATML) Group, Department of Computer
+    Science, University of Oxford, Oxford, UK.
+- author_id: https://openalex.org/A5031843089
+  display_name: Jan Kulveit
+  orcid: https://orcid.org/0000-0002-3791-8355
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Future of Humanity Institute, University of Oxford, Oxford, UK.
+referenced_works:
+- https://openalex.org/W1502922572
+- https://openalex.org/W1655999712
+- https://openalex.org/W1998025025
+- https://openalex.org/W1999223777
+- https://openalex.org/W200863923
+- https://openalex.org/W2079779136
+- https://openalex.org/W2097446414
+- https://openalex.org/W2117002055
+- https://openalex.org/W2130902307
+- https://openalex.org/W2217402295
+- https://openalex.org/W2471078979
+- https://openalex.org/W2481078232
+- https://openalex.org/W2589868479
+- https://openalex.org/W2963977107
+- https://openalex.org/W3006065484
+- https://openalex.org/W3006642361
+- https://openalex.org/W3008443627
+- https://openalex.org/W3009468976
+- https://openalex.org/W3010233963
+- https://openalex.org/W3011307261
+- https://openalex.org/W3012789146
+- https://openalex.org/W3012798837
+- https://openalex.org/W3013215798
+- https://openalex.org/W3013594674
+- https://openalex.org/W3014866318
+- https://openalex.org/W3015633511
+- https://openalex.org/W3018829510
+- https://openalex.org/W3018868574
+- https://openalex.org/W3019240026
+- https://openalex.org/W3019643748
+- https://openalex.org/W3021151406
+- https://openalex.org/W3021590343
+- https://openalex.org/W3022210384
+- https://openalex.org/W3023190093
+- https://openalex.org/W3025278162
+- https://openalex.org/W3031202235
+- https://openalex.org/W3032725243
+- https://openalex.org/W3032971139
+- https://openalex.org/W3033094519
+- https://openalex.org/W3034776418
+- https://openalex.org/W3035125447
+- https://openalex.org/W3035706118
+- https://openalex.org/W3036188798
+- https://openalex.org/W3036384641
+- https://openalex.org/W3038036245
+- https://openalex.org/W3040490521
+- https://openalex.org/W3042348109
+- https://openalex.org/W3042402590
+- https://openalex.org/W3042443640
+- https://openalex.org/W3043661845
+- https://openalex.org/W3043662404
+- https://openalex.org/W3044129294
+- https://openalex.org/W3045248985
+- https://openalex.org/W3045890369
+- https://openalex.org/W3046071079
+- https://openalex.org/W3048844060
+- https://openalex.org/W3093931808
+- https://openalex.org/W3100111645
+- https://openalex.org/W3106386211
+- https://openalex.org/W3109998099
+- https://openalex.org/W3111564425
+- https://openalex.org/W3124205144
+- https://openalex.org/W3128528571
+- https://openalex.org/W3135257712
+- https://openalex.org/W3215821473
+- https://openalex.org/W4210927683
+- https://openalex.org/W4232383088
+- https://openalex.org/W4233751321
+- https://openalex.org/W4386373863
+primary_topic: COVID-19 epidemiological studies
+open_access: true

@@ -1,0 +1,1172 @@
+id: https://openalex.org/W4294106961
+doi: https://doi.org/10.1561/9781680837896
+title: Advances and Open Problems in Federated Learning
+publication_date: '2021-01-01'
+publication_year: 2021
+cited_by_count: 1272
+citation_percentile: 0.998305
+pagerank: 2.622674497410497e-06
+authorships:
+- author_id: https://openalex.org/A5064699160
+  display_name: Peter Kairouz
+  orcid: https://orcid.org/0000-0001-6897-5937
+  author_position: first
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5107938061
+  display_name: H. Brendan McMahan
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5035617528
+  display_name: Brendan Avent
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1174212
+    display_name: University of Southern California
+    ror: https://ror.org/03taz7m60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - USC - University of Southern California (Los Angeles, CA, 90089-0484, USA - United
+    States)
+- author_id: https://openalex.org/A5014504793
+  display_name: "Aur\xE9lien Bellet"
+  orcid: https://orcid.org/0000-0003-3440-1251
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MAGNET - Machine Learning in Information Networks (France)
+- author_id: https://openalex.org/A5061429095
+  display_name: Mehdi Bennis
+  orcid: https://orcid.org/0000-0003-0261-0171
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98381234
+    display_name: University of Oulu
+    ror: https://ror.org/03yj89h83
+    country_code: FI
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CWC - Centre for Wireless Communications [University of Oulu] (Centre for Wireless
+    Communications University of Oulu P.O. Box 4500 FI-90014 University of Oulu, Finland
+    - Finland)
+- author_id: https://openalex.org/A5003032696
+  display_name: Arjun Nitin Bhagoji
+  orcid: https://orcid.org/0000-0002-2803-5649
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Princeton University (Princeton, NJ 08544 USA - United States)
+- author_id: https://openalex.org/A5039153937
+  display_name: Kallista Bonawitz
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5034877995
+  display_name: Zachary Charles
+  orcid: https://orcid.org/0000-0001-8997-874X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5031896681
+  display_name: Graham Cormode
+  orcid: https://orcid.org/0000-0002-0698-0922
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39555362
+    display_name: University of Warwick
+    ror: https://ror.org/01a77tt86
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Warwick [Coventry] (Coventry CV4 7AL - United Kingdom)
+- author_id: https://openalex.org/A5077952586
+  display_name: Rachel Cummings
+  orcid: https://orcid.org/0000-0002-1196-1515
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130701444
+    display_name: Georgia Institute of Technology
+    ror: https://ror.org/01zkghx44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Georgia Institute of Technology [Atlanta] (North Avenue, Atlanta, GA 30332 - United
+    States)
+- author_id: https://openalex.org/A5017403407
+  display_name: "Rafael G. L. D\u2019Oliveira"
+  orcid: https://orcid.org/0000-0001-5053-5909
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102322142
+    display_name: Rutgers, The State University of New Jersey
+    ror: https://ror.org/05vt9qd57
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rutgers - Rutgers University System (Camden, Newark, New Brunswick, New Jersey
+    - United States)
+- author_id: https://openalex.org/A5085098992
+  display_name: Hubert Eichner
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1291425158
+    display_name: Google (United States)
+    ror: https://ror.org/00njsd438
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research
+- author_id: https://openalex.org/A5110217226
+  display_name: Salim El Rouayheb
+  orcid: https://orcid.org/0009-0005-4515-2213
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102322142
+    display_name: Rutgers, The State University of New Jersey
+    ror: https://ror.org/05vt9qd57
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rutgers - Rutgers University System (Camden, Newark, New Brunswick, New Jersey
+    - United States)
+- author_id: https://openalex.org/A5027001546
+  display_name: David Evans
+  orcid: https://orcid.org/0000-0001-7988-8943
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I51556381
+    display_name: University of Virginia
+    ror: https://ror.org/0153tk833
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Virginia (P.O. Box 400229, Charlottesville, VA 22904-4229 - United
+    States)
+- author_id: https://openalex.org/A5110941464
+  display_name: Josh Gardner
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington [Seattle] (Seattle, Washington 98105 - United States)
+- author_id: https://openalex.org/A5017433837
+  display_name: Zachary Garrett
+  orcid: https://orcid.org/0000-0001-8158-3997
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5015542293
+  display_name: "Adri\xE0 Gasc\xF3n"
+  orcid: https://orcid.org/0000-0002-1807-8311
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5016244525
+  display_name: Badih Ghazi
+  orcid: https://orcid.org/0000-0001-8254-3268
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5014824446
+  display_name: Phillip B. Gibbons
+  orcid: https://orcid.org/0000-0001-6967-2735
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CMU - Carnegie Mellon University [Pittsburgh] (5000 Forbes Ave,  Pittsburgh, PA
+    15213 - United States)
+- author_id: https://openalex.org/A5078160983
+  display_name: Marco Gruteser
+  orcid: https://orcid.org/0000-0002-7424-4951
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102322142
+    display_name: Rutgers, The State University of New Jersey
+    ror: https://ror.org/05vt9qd57
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+  - Rutgers - Rutgers University System (Camden, Newark, New Brunswick, New Jersey
+    - United States)
+- author_id: https://openalex.org/A5010613767
+  display_name: "Za\xEFd Harchaoui"
+  orcid: https://orcid.org/0000-0003-1186-1343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington [Seattle] (Seattle, Washington 98105 - United States)
+- author_id: https://openalex.org/A5003518978
+  display_name: Chaoyang He
+  orcid: https://orcid.org/0000-0003-2770-9661
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1174212
+    display_name: University of Southern California
+    ror: https://ror.org/03taz7m60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - USC - University of Southern California (Los Angeles, CA, 90089-0484, USA - United
+    States)
+- author_id: https://openalex.org/A5101028320
+  display_name: Lie He
+  orcid: https://orcid.org/0009-0003-1693-4078
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I5124864
+    display_name: "\xC9cole Polytechnique F\xE9d\xE9rale de Lausanne"
+    ror: https://ror.org/02s376052
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "EPFL - Ecole Polytechnique F\xE9d\xE9rale de Lausanne (CH-1015 Lausanne, Switzerland\
+    \ - Switzerland)"
+- author_id: https://openalex.org/A5069872293
+  display_name: Zhouyuan Huo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - PITT - University of Pittsburgh (4200 Fifth Avenue Pittsburgh, PA 15260 - United
+    States)
+- author_id: https://openalex.org/A5071599724
+  display_name: Ben Hutchinson
+  orcid: https://orcid.org/0000-0003-2253-6204
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5033286190
+  display_name: Justin Hsu
+  orcid: https://orcid.org/0000-0002-8953-7060
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I135310074
+    display_name: "University of Wisconsin\u2013Madison"
+    ror: https://ror.org/01y2jtd41
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Wisconsin-Madison (Madison, WI 53706 - United States)
+- author_id: https://openalex.org/A5073756389
+  display_name: Martin Jaggi
+  orcid: https://orcid.org/0000-0003-1579-5558
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I5124864
+    display_name: "\xC9cole Polytechnique F\xE9d\xE9rale de Lausanne"
+    ror: https://ror.org/02s376052
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "EPFL - Ecole Polytechnique F\xE9d\xE9rale de Lausanne (CH-1015 Lausanne, Switzerland\
+    \ - Switzerland)"
+- author_id: https://openalex.org/A5059310658
+  display_name: Tara Javidi
+  orcid: https://orcid.org/0000-0001-7112-1043
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC San Diego - University of California [San Diego] (UCSD, 9500 Gilman Dr., La
+    Jolla, CA 92093 USA - United States)
+- author_id: https://openalex.org/A5067441201
+  display_name: Gauri Joshi
+  orcid: https://orcid.org/0000-0002-6372-9697
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CMU - Carnegie Mellon University [Pittsburgh] (5000 Forbes Ave,  Pittsburgh, PA
+    15213 - United States)
+- author_id: https://openalex.org/A5005152458
+  display_name: Mikhail Khodak
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CMU - Carnegie Mellon University [Pittsburgh] (5000 Forbes Ave,  Pittsburgh, PA
+    15213 - United States)
+- author_id: https://openalex.org/A5048916516
+  display_name: "Jakub Kone\u010Dn\xFD"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5005219368
+  display_name: Aleksandra Korolova
+  orcid: https://orcid.org/0000-0001-8237-9058
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1174212
+    display_name: University of Southern California
+    ror: https://ror.org/03taz7m60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - USC - University of Southern California (Los Angeles, CA, 90089-0484, USA - United
+    States)
+- author_id: https://openalex.org/A5019931011
+  display_name: Farinaz Koushanfar
+  orcid: https://orcid.org/0000-0003-0798-3794
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC San Diego - University of California [San Diego] (UCSD, 9500 Gilman Dr., La
+    Jolla, CA 92093 USA - United States)
+- author_id: https://openalex.org/A5091266570
+  display_name: Sanmi Koyejo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+  - UIUC - University of Illinois at Urbana-Champaign [Urbana] (205 N. Mathews Ave.,
+    Urbana-Champaign, IL 61801 - United States)
+- author_id: https://openalex.org/A5037225703
+  display_name: "Tancr\xE8de Lepoint"
+  orcid: https://orcid.org/0000-0003-3796-042X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5100355692
+  display_name: Yang Liu
+  orcid: https://orcid.org/0000-0001-7300-9215
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NTU - Nanyang Technological University [Singapour] (50 Nanyang Ave, Singapour
+    639798 - Singapore)
+- author_id: https://openalex.org/A5015619835
+  display_name: Prateek Mittal
+  orcid: https://orcid.org/0000-0002-4057-0118
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Princeton University (Princeton, NJ 08544 USA - United States)
+- author_id: https://openalex.org/A5058849006
+  display_name: Mehryar Mohri
+  orcid: https://orcid.org/0000-0002-3987-9847
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5082414223
+  display_name: Richard Nock
+  orcid: https://orcid.org/0000-0001-8384-9621
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I118347636
+    display_name: Australian National University
+    ror: https://ror.org/019wvm592
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ANU - Australian National University (The Australian National University Canberra
+    ACT 0200 Australia - Australia)
+- author_id: https://openalex.org/A5003322209
+  display_name: "Ayfer \xD6zg\xFCr"
+  orcid: https://orcid.org/0000-0002-4455-4692
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stanford University (450 Serra Mall, Stanford, CA 94305-2004 - United States)
+- author_id: https://openalex.org/A5014293815
+  display_name: Rasmus Pagh
+  orcid: https://orcid.org/0000-0002-1516-9306
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I83467386
+    display_name: IT University of Copenhagen
+    ror: https://ror.org/02309jg23
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+  - "ITU - IT University of Copenhagen (Rued Langgaards Vej 7, 2300 K\xF8benhavn,\
+    \ Danemark - Denmark)"
+- author_id: https://openalex.org/A5100335427
+  display_name: H. Jerry Qi
+  orcid: https://orcid.org/0000-0002-3212-5284
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5071710055
+  display_name: Daniel Ramage
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5023495279
+  display_name: Ramesh Raskar
+  orcid: https://orcid.org/0000-0002-3254-3224
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MIT - Massachusetts Institute of Technology (77 Massachusetts Ave, Cambridge,
+    MA 02139 - United States)
+- author_id: https://openalex.org/A5089603958
+  display_name: Mariana Raykova
+  orcid: https://orcid.org/0000-0002-1744-4025
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5019426968
+  display_name: Dawn Song
+  orcid: https://orcid.org/0000-0001-9745-6802
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UC Berkeley - University of California [Berkeley] (Berkeley, CA - United States)
+- author_id: https://openalex.org/A5032224643
+  display_name: Weikang Song
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5045519627
+  display_name: Sebastian U. Stich
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I5124864
+    display_name: "\xC9cole Polytechnique F\xE9d\xE9rale de Lausanne"
+    ror: https://ror.org/02s376052
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "EPFL - Ecole Polytechnique F\xE9d\xE9rale de Lausanne (CH-1015 Lausanne, Switzerland\
+    \ - Switzerland)"
+- author_id: https://openalex.org/A5001128596
+  display_name: Ziteng Sun
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cornell University [New York] (Ithaca, New York 14853 - United States)
+- author_id: https://openalex.org/A5103890688
+  display_name: Ananda Theertha Suresh
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5006851333
+  display_name: "Florian Tram\xE8r"
+  orcid: https://orcid.org/0000-0001-8703-8762
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stanford University (450 Serra Mall, Stanford, CA 94305-2004 - United States)
+- author_id: https://openalex.org/A5022815450
+  display_name: Praneeth Vepakomma
+  orcid: https://orcid.org/0000-0003-2296-9296
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MIT - Massachusetts Institute of Technology (77 Massachusetts Ave, Cambridge,
+    MA 02139 - United States)
+- author_id: https://openalex.org/A5100398977
+  display_name: Jianyu Wang
+  orcid: https://orcid.org/0000-0002-7075-9333
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CMU - Carnegie Mellon University [Pittsburgh] (5000 Forbes Ave,  Pittsburgh, PA
+    15213 - United States)
+- author_id: https://openalex.org/A5078394535
+  display_name: Li Xiong
+  orcid: https://orcid.org/0000-0001-7354-0428
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Emory University [Atlanta, GA] (201 Dowman Dr, Atlanta, GA 30322 - United States)
+- author_id: https://openalex.org/A5100413782
+  display_name: Zheng Xu
+  orcid: https://orcid.org/0000-0003-0648-0327
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5100636286
+  display_name: Qiang Yang
+  orcid: https://orcid.org/0000-0001-5059-8360
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - HKUST - Hong Kong University of Science and Technology (Clear Water Bay Kowloon
+    Hong Kong - Hong Kong SAR China)
+- author_id: https://openalex.org/A5110132392
+  display_name: Felix X. Yu
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+- author_id: https://openalex.org/A5064069283
+  display_name: Han Yu
+  orcid: https://orcid.org/0000-0001-6893-8650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NTU - Nanyang Technological University [Singapour] (50 Nanyang Ave, Singapour
+    639798 - Singapore)
+- author_id: https://openalex.org/A5107746041
+  display_name: Sen Zhao
+  orcid: https://orcid.org/0009-0009-3463-7732
+  author_position: last
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google Research (France)
+referenced_works:
+- https://openalex.org/W116648389
+- https://openalex.org/W1493407996
+- https://openalex.org/W150223756
+- https://openalex.org/W1518461880
+- https://openalex.org/W1519947574
+- https://openalex.org/W1539741229
+- https://openalex.org/W1543039562
+- https://openalex.org/W1547612978
+- https://openalex.org/W1556911442
+- https://openalex.org/W1557386445
+- https://openalex.org/W1557833142
+- https://openalex.org/W1563556756
+- https://openalex.org/W1595357546
+- https://openalex.org/W1617650991
+- https://openalex.org/W1655958391
+- https://openalex.org/W1673923490
+- https://openalex.org/W173953576
+- https://openalex.org/W1801457577
+- https://openalex.org/W1875501004
+- https://openalex.org/W1902934009
+- https://openalex.org/W192975702
+- https://openalex.org/W1945616565
+- https://openalex.org/W1952161176
+- https://openalex.org/W1970606468
+- https://openalex.org/W1970808997
+- https://openalex.org/W1971991172
+- https://openalex.org/W1978380814
+- https://openalex.org/W1981029888
+- https://openalex.org/W1985995090
+- https://openalex.org/W2013823004
+- https://openalex.org/W2018746447
+- https://openalex.org/W2024484010
+- https://openalex.org/W2027471022
+- https://openalex.org/W2027595342
+- https://openalex.org/W2028138594
+- https://openalex.org/W2031533839
+- https://openalex.org/W2040825624
+- https://openalex.org/W2041069220
+- https://openalex.org/W2042946599
+- https://openalex.org/W2043007983
+- https://openalex.org/W2051267297
+- https://openalex.org/W2053086236
+- https://openalex.org/W2053801139
+- https://openalex.org/W2073346043
+- https://openalex.org/W2083026317
+- https://openalex.org/W2092845654
+- https://openalex.org/W2100960835
+- https://openalex.org/W2103154003
+- https://openalex.org/W2103647628
+- https://openalex.org/W2104094955
+- https://openalex.org/W2104803737
+- https://openalex.org/W2105523772
+- https://openalex.org/W2106411961
+- https://openalex.org/W2109426455
+- https://openalex.org/W2112507308
+- https://openalex.org/W2117905067
+- https://openalex.org/W2120501001
+- https://openalex.org/W2120510885
+- https://openalex.org/W2130062883
+- https://openalex.org/W2132937716
+- https://openalex.org/W2146502635
+- https://openalex.org/W2147435839
+- https://openalex.org/W2152605584
+- https://openalex.org/W2152926062
+- https://openalex.org/W2154086287
+- https://openalex.org/W2154654620
+- https://openalex.org/W2156001253
+- https://openalex.org/W2159015104
+- https://openalex.org/W2162576315
+- https://openalex.org/W2162651021
+- https://openalex.org/W2165698076
+- https://openalex.org/W2166670067
+- https://openalex.org/W2167372639
+- https://openalex.org/W2168231600
+- https://openalex.org/W2182055801
+- https://openalex.org/W2189164326
+- https://openalex.org/W2226167778
+- https://openalex.org/W2232997092
+- https://openalex.org/W2245160765
+- https://openalex.org/W2252268321
+- https://openalex.org/W2270245739
+- https://openalex.org/W2284345771
+- https://openalex.org/W2286365479
+- https://openalex.org/W2293844262
+- https://openalex.org/W2399358552
+- https://openalex.org/W2401562461
+- https://openalex.org/W2401823607
+- https://openalex.org/W2401976587
+- https://openalex.org/W2435473771
+- https://openalex.org/W2463516579
+- https://openalex.org/W2473418344
+- https://openalex.org/W25045116
+- https://openalex.org/W2510261309
+- https://openalex.org/W2513383847
+- https://openalex.org/W2525846285
+- https://openalex.org/W2530395818
+- https://openalex.org/W2535690855
+- https://openalex.org/W2536058570
+- https://openalex.org/W2552857149
+- https://openalex.org/W2585558799
+- https://openalex.org/W2590796488
+- https://openalex.org/W2597603852
+- https://openalex.org/W2599930814
+- https://openalex.org/W2601450892
+- https://openalex.org/W2603766943
+- https://openalex.org/W2604763608
+- https://openalex.org/W2606065148
+- https://openalex.org/W2608195534
+- https://openalex.org/W2614104334
+- https://openalex.org/W2617960902
+- https://openalex.org/W2619307294
+- https://openalex.org/W2701059868
+- https://openalex.org/W2729336600
+- https://openalex.org/W2734245281
+- https://openalex.org/W2742079690
+- https://openalex.org/W2748789698
+- https://openalex.org/W2751484150
+- https://openalex.org/W2752689052
+- https://openalex.org/W2753160622
+- https://openalex.org/W2753539753
+- https://openalex.org/W2753634799
+- https://openalex.org/W2753783305
+- https://openalex.org/W2753845591
+- https://openalex.org/W2753855453
+- https://openalex.org/W2761138375
+- https://openalex.org/W2764043458
+- https://openalex.org/W2766831133
+- https://openalex.org/W2766972025
+- https://openalex.org/W2767079719
+- https://openalex.org/W2767174522
+- https://openalex.org/W2769644379
+- https://openalex.org/W2773194476
+- https://openalex.org/W2773726006
+- https://openalex.org/W2774000609
+- https://openalex.org/W2774423163
+- https://openalex.org/W2782969614
+- https://openalex.org/W2783522756
+- https://openalex.org/W2784621220
+- https://openalex.org/W2787222147
+- https://openalex.org/W2788481061
+- https://openalex.org/W2788502731
+- https://openalex.org/W2788816110
+- https://openalex.org/W2789205387
+- https://openalex.org/W2789243870
+- https://openalex.org/W2789903762
+- https://openalex.org/W2789911054
+- https://openalex.org/W2790483052
+- https://openalex.org/W2792817205
+- https://openalex.org/W2794888826
+- https://openalex.org/W2795354529
+- https://openalex.org/W2795435272
+- https://openalex.org/W2797481382
+- https://openalex.org/W2803437649
+- https://openalex.org/W2803648878
+- https://openalex.org/W2804268522
+- https://openalex.org/W2804815760
+- https://openalex.org/W2805074088
+- https://openalex.org/W2807363941
+- https://openalex.org/W2810065831
+- https://openalex.org/W2812009592
+- https://openalex.org/W2860079600
+- https://openalex.org/W2883089683
+- https://openalex.org/W2883585522
+- https://openalex.org/W2883748642
+- https://openalex.org/W2886153332
+- https://openalex.org/W2886404071
+- https://openalex.org/W2886435782
+- https://openalex.org/W2886444620
+- https://openalex.org/W2887031784
+- https://openalex.org/W2888429796
+- https://openalex.org/W2888798936
+- https://openalex.org/W2889812870
+- https://openalex.org/W2896422817
+- https://openalex.org/W2898759955
+- https://openalex.org/W2898998737
+- https://openalex.org/W2900120080
+- https://openalex.org/W2900319533
+- https://openalex.org/W2900885930
+- https://openalex.org/W2901856814
+- https://openalex.org/W2902114605
+- https://openalex.org/W2902351501
+- https://openalex.org/W2903356604
+- https://openalex.org/W2903471046
+- https://openalex.org/W2903890850
+- https://openalex.org/W2904190483
+- https://openalex.org/W2910171846
+- https://openalex.org/W2910283416
+- https://openalex.org/W2912592113
+- https://openalex.org/W2913243576
+- https://openalex.org/W2913700606
+- https://openalex.org/W2914853145
+- https://openalex.org/W2918752259
+- https://openalex.org/W2920907019
+- https://openalex.org/W2922064308
+- https://openalex.org/W2922333407
+- https://openalex.org/W2924921501
+- https://openalex.org/W2934843808
+- https://openalex.org/W2940453604
+- https://openalex.org/W2945302328
+- https://openalex.org/W2945471187
+- https://openalex.org/W2945616432
+- https://openalex.org/W2946193510
+- https://openalex.org/W2946900926
+- https://openalex.org/W2949200088
+- https://openalex.org/W2949264490
+- https://openalex.org/W2949522309
+- https://openalex.org/W2949559800
+- https://openalex.org/W2949908569
+- https://openalex.org/W2949934631
+- https://openalex.org/W2950012677
+- https://openalex.org/W2950103651
+- https://openalex.org/W2950277768
+- https://openalex.org/W2950321888
+- https://openalex.org/W2950346378
+- https://openalex.org/W2950447132
+- https://openalex.org/W2950539955
+- https://openalex.org/W2950687935
+- https://openalex.org/W2950826569
+- https://openalex.org/W2950881963
+- https://openalex.org/W2951104886
+- https://openalex.org/W2951129336
+- https://openalex.org/W2951475234
+- https://openalex.org/W2951488730
+- https://openalex.org/W2951663308
+- https://openalex.org/W2951825587
+- https://openalex.org/W2951996732
+- https://openalex.org/W2952782294
+- https://openalex.org/W2952964295
+- https://openalex.org/W2955213239
+- https://openalex.org/W2955751151
+- https://openalex.org/W2960318545
+- https://openalex.org/W2962790618
+- https://openalex.org/W2962847160
+- https://openalex.org/W2962863496
+- https://openalex.org/W2962872506
+- https://openalex.org/W2962878955
+- https://openalex.org/W2962977200
+- https://openalex.org/W2963062476
+- https://openalex.org/W2963070423
+- https://openalex.org/W2963143631
+- https://openalex.org/W2963179579
+- https://openalex.org/W2963209930
+- https://openalex.org/W2963297095
+- https://openalex.org/W2963333146
+- https://openalex.org/W2963361660
+- https://openalex.org/W2963389226
+- https://openalex.org/W2963422939
+- https://openalex.org/W2963456518
+- https://openalex.org/W2963485144
+- https://openalex.org/W2963498933
+- https://openalex.org/W2963612912
+- https://openalex.org/W2963744840
+- https://openalex.org/W2963804082
+- https://openalex.org/W2963857521
+- https://openalex.org/W2963888996
+- https://openalex.org/W2963952467
+- https://openalex.org/W2964074929
+- https://openalex.org/W2964117144
+- https://openalex.org/W2964261056
+- https://openalex.org/W2964318098
+- https://openalex.org/W2965234876
+- https://openalex.org/W2965341441
+- https://openalex.org/W2965658867
+- https://openalex.org/W2965721472
+- https://openalex.org/W2966577458
+- https://openalex.org/W2967889168
+- https://openalex.org/W2968027060
+- https://openalex.org/W2969140724
+- https://openalex.org/W2969207949
+- https://openalex.org/W2969261410
+- https://openalex.org/W2969454448
+- https://openalex.org/W2970020383
+- https://openalex.org/W2970055833
+- https://openalex.org/W2971667645
+- https://openalex.org/W2972570881
+- https://openalex.org/W2972766729
+- https://openalex.org/W2972882814
+- https://openalex.org/W2973992580
+- https://openalex.org/W2975043678
+- https://openalex.org/W2975780631
+- https://openalex.org/W2976335444
+- https://openalex.org/W2977517840
+- https://openalex.org/W2978422189
+- https://openalex.org/W2978882452
+- https://openalex.org/W2979359324
+- https://openalex.org/W2980046802
+- https://openalex.org/W2980592932
+- https://openalex.org/W2981337066
+- https://openalex.org/W2981672041
+- https://openalex.org/W2983302111
+- https://openalex.org/W2987738051
+- https://openalex.org/W2989289980
+- https://openalex.org/W2989911901
+- https://openalex.org/W2990554372
+- https://openalex.org/W2990595670
+- https://openalex.org/W2991209658
+- https://openalex.org/W2994779554
+- https://openalex.org/W2995459148
+- https://openalex.org/W2996366116
+- https://openalex.org/W2996786840
+- https://openalex.org/W3003636647
+- https://openalex.org/W3004634366
+- https://openalex.org/W3006386891
+- https://openalex.org/W3006419392
+- https://openalex.org/W3006555759
+- https://openalex.org/W3006752097
+- https://openalex.org/W3007345209
+- https://openalex.org/W3007548213
+- https://openalex.org/W3007559909
+- https://openalex.org/W3008706414
+- https://openalex.org/W3012949032
+- https://openalex.org/W3013310637
+- https://openalex.org/W3013730797
+- https://openalex.org/W3015640161
+- https://openalex.org/W3016378036
+- https://openalex.org/W3017371741
+- https://openalex.org/W3018763859
+- https://openalex.org/W3027472889
+- https://openalex.org/W3028867652
+- https://openalex.org/W3031144431
+- https://openalex.org/W3034179259
+- https://openalex.org/W3034672496
+- https://openalex.org/W3034741284
+- https://openalex.org/W3034906194
+- https://openalex.org/W3035046187
+- https://openalex.org/W3035168593
+- https://openalex.org/W3035507578
+- https://openalex.org/W3035690533
+- https://openalex.org/W3037047862
+- https://openalex.org/W3037497760
+- https://openalex.org/W3038022836
+- https://openalex.org/W3038028469
+- https://openalex.org/W3038057116
+- https://openalex.org/W3038932755
+- https://openalex.org/W3041668106
+- https://openalex.org/W3043508528
+- https://openalex.org/W3043723611
+- https://openalex.org/W3044097461
+- https://openalex.org/W3044211235
+- https://openalex.org/W3044482596
+- https://openalex.org/W3044755947
+- https://openalex.org/W3045700442
+- https://openalex.org/W3047989515
+- https://openalex.org/W3048168663
+- https://openalex.org/W3048715803
+- https://openalex.org/W3080655457
+- https://openalex.org/W3081518393
+- https://openalex.org/W3081681251
+- https://openalex.org/W3094163844
+- https://openalex.org/W3095061623
+- https://openalex.org/W3096199834
+- https://openalex.org/W3096328345
+- https://openalex.org/W3099185500
+- https://openalex.org/W3099351401
+- https://openalex.org/W3099453040
+- https://openalex.org/W3102859907
+- https://openalex.org/W3103802018
+- https://openalex.org/W3104224589
+- https://openalex.org/W3104240813
+- https://openalex.org/W3105446653
+- https://openalex.org/W3105635940
+- https://openalex.org/W3106063097
+- https://openalex.org/W3106412272
+- https://openalex.org/W3107632872
+- https://openalex.org/W3110164654
+- https://openalex.org/W3129519326
+- https://openalex.org/W3133660689
+- https://openalex.org/W3139990170
+- https://openalex.org/W3141585064
+- https://openalex.org/W3143935597
+- https://openalex.org/W3151748982
+- https://openalex.org/W3162819349
+- https://openalex.org/W3172323480
+- https://openalex.org/W3173069197
+- https://openalex.org/W3185923986
+- https://openalex.org/W3197767655
+- https://openalex.org/W3212066104
+- https://openalex.org/W3215641518
+- https://openalex.org/W4180724
+- https://openalex.org/W4220826035
+- https://openalex.org/W4234281613
+- https://openalex.org/W4236995802
+- https://openalex.org/W4239940597
+- https://openalex.org/W4248358572
+- https://openalex.org/W4285762978
+- https://openalex.org/W4287553002
+- https://openalex.org/W4287554910
+- https://openalex.org/W4287663285
+- https://openalex.org/W4287686346
+- https://openalex.org/W4287688436
+- https://openalex.org/W4287723974
+- https://openalex.org/W4287725452
+- https://openalex.org/W4287728394
+- https://openalex.org/W4287776435
+- https://openalex.org/W4287828539
+- https://openalex.org/W4287868747
+- https://openalex.org/W4287977550
+- https://openalex.org/W4287991427
+- https://openalex.org/W4288023537
+- https://openalex.org/W4288094163
+- https://openalex.org/W4288101682
+- https://openalex.org/W4288110237
+- https://openalex.org/W4288111766
+- https://openalex.org/W4288277757
+- https://openalex.org/W4288333794
+- https://openalex.org/W4288333953
+- https://openalex.org/W4288335503
+- https://openalex.org/W4288346602
+- https://openalex.org/W4288358239
+- https://openalex.org/W4288363831
+- https://openalex.org/W4288363925
+- https://openalex.org/W4288578176
+- https://openalex.org/W4288598403
+- https://openalex.org/W4288612157
+- https://openalex.org/W4289107582
+- https://openalex.org/W4289117554
+- https://openalex.org/W4289129244
+- https://openalex.org/W4289129300
+- https://openalex.org/W4289147229
+- https://openalex.org/W4289147263
+- https://openalex.org/W4289300166
+- https://openalex.org/W4289763996
+- https://openalex.org/W4292084264
+- https://openalex.org/W4293363185
+- https://openalex.org/W4293582152
+- https://openalex.org/W4293584470
+- https://openalex.org/W4293846201
+- https://openalex.org/W4294237951
+- https://openalex.org/W4294646197
+- https://openalex.org/W4295188795
+- https://openalex.org/W4295312788
+- https://openalex.org/W4295358171
+- https://openalex.org/W4297060071
+- https://openalex.org/W4297629726
+- https://openalex.org/W4297687186
+- https://openalex.org/W4297779784
+- https://openalex.org/W4297797035
+- https://openalex.org/W4297799876
+- https://openalex.org/W4297813615
+- https://openalex.org/W4298221930
+- https://openalex.org/W4298857601
+- https://openalex.org/W4299283926
+- https://openalex.org/W4299802343
+- https://openalex.org/W4300427714
+- https://openalex.org/W4300428694
+- https://openalex.org/W4300687381
+- https://openalex.org/W4300687870
+- https://openalex.org/W4301599317
+- https://openalex.org/W4302286902
+- https://openalex.org/W4310650179
+- https://openalex.org/W4318619660
+- https://openalex.org/W4377938787
+- https://openalex.org/W4384200977
+- https://openalex.org/W55681943
+- https://openalex.org/W605043455
+- https://openalex.org/W613584192
+- https://openalex.org/W9657784
+primary_topic: Privacy-Preserving Technologies in Data
+open_access: true

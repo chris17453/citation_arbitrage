@@ -1,0 +1,230 @@
+id: https://openalex.org/W3170841864
+doi: https://doi.org/10.1109/cvpr46437.2021.00681
+title: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with
+  Transformers
+publication_date: '2021-06-01'
+publication_year: 2021
+cited_by_count: 2910
+citation_percentile: 0.999876
+pagerank: 3.281206492798828e-06
+authorships:
+- author_id: https://openalex.org/A5090851249
+  display_name: Sixiao Zheng
+  orcid: https://orcid.org/0000-0001-8324-1528
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Fudan University
+- author_id: https://openalex.org/A5059453082
+  display_name: Jiachen Lu
+  orcid: https://orcid.org/0000-0002-9956-3852
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Fudan University
+- author_id: https://openalex.org/A5078109015
+  display_name: Hengshuang Zhao
+  orcid: https://orcid.org/0000-0001-8277-2706
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Oxford
+- author_id: https://openalex.org/A5028643592
+  display_name: Xiatian Zhu
+  orcid: https://orcid.org/0000-0002-9284-2955
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28290843
+    display_name: University of Surrey
+    ror: https://ror.org/00ks66431
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Surrey
+- author_id: https://openalex.org/A5089671069
+  display_name: Zekun Luo
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250653659
+    display_name: Tencent (China)
+    ror: https://ror.org/00hhjss72
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tencent Youtu Lab
+- author_id: https://openalex.org/A5028731909
+  display_name: Yabiao Wang
+  orcid: https://orcid.org/0000-0002-6592-8411
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250653659
+    display_name: Tencent (China)
+    ror: https://ror.org/00hhjss72
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tencent Youtu Lab
+- author_id: https://openalex.org/A5084959430
+  display_name: Yanwei Fu
+  orcid: https://orcid.org/0000-0002-6595-6893
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Fudan University
+- author_id: https://openalex.org/A5080019095
+  display_name: Jianfeng Feng
+  orcid: https://orcid.org/0000-0002-9328-5732
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Fudan University
+- author_id: https://openalex.org/A5014436524
+  display_name: Tao Xiang
+  orcid: https://orcid.org/0000-0002-2530-1059
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28290843
+    display_name: University of Surrey
+    ror: https://ror.org/00ks66431
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2252078561
+    display_name: Meta (Israel)
+    ror: https://ror.org/02388em19
+    country_code: IL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Facebook AI
+  - University of Surrey
+- author_id: https://openalex.org/A5042899882
+  display_name: Philip H. S. Torr
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Oxford
+- author_id: https://openalex.org/A5100425703
+  display_name: Li Zhang
+  orcid: https://orcid.org/0000-0003-1031-5420
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Fudan University
+referenced_works:
+- https://openalex.org/W1610060839
+- https://openalex.org/W1686810756
+- https://openalex.org/W1745334888
+- https://openalex.org/W1901129140
+- https://openalex.org/W1903029394
+- https://openalex.org/W1923697677
+- https://openalex.org/W2124592697
+- https://openalex.org/W2125215748
+- https://openalex.org/W2194775991
+- https://openalex.org/W2340897893
+- https://openalex.org/W2412782625
+- https://openalex.org/W2507296351
+- https://openalex.org/W2560023338
+- https://openalex.org/W2565639579
+- https://openalex.org/W2598666589
+- https://openalex.org/W2630837129
+- https://openalex.org/W2799213142
+- https://openalex.org/W2886934227
+- https://openalex.org/W2890782586
+- https://openalex.org/W2895340641
+- https://openalex.org/W2896457183
+- https://openalex.org/W2910628332
+- https://openalex.org/W2913314773
+- https://openalex.org/W2925552749
+- https://openalex.org/W2948080074
+- https://openalex.org/W2949341804
+- https://openalex.org/W2950045474
+- https://openalex.org/W2955058313
+- https://openalex.org/W2962835968
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963108253
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963403868
+- https://openalex.org/W2963727650
+- https://openalex.org/W2963840672
+- https://openalex.org/W2963858333
+- https://openalex.org/W2963881378
+- https://openalex.org/W2964110616
+- https://openalex.org/W2965391153
+- https://openalex.org/W2970389371
+- https://openalex.org/W2970597249
+- https://openalex.org/W2972321983
+- https://openalex.org/W2972579614
+- https://openalex.org/W2981413347
+- https://openalex.org/W2981689412
+- https://openalex.org/W2982220924
+- https://openalex.org/W2983446232
+- https://openalex.org/W2985459778
+- https://openalex.org/W2993235622
+- https://openalex.org/W2997564896
+- https://openalex.org/W2998108143
+- https://openalex.org/W3022478135
+- https://openalex.org/W3023001672
+- https://openalex.org/W3034345703
+- https://openalex.org/W3034355852
+- https://openalex.org/W3034502973
+- https://openalex.org/W3034885317
+- https://openalex.org/W3094502228
+- https://openalex.org/W3096609285
+- https://openalex.org/W3096678291
+- https://openalex.org/W3097065222
+- https://openalex.org/W3107113572
+- https://openalex.org/W3119586106
+- https://openalex.org/W3170874841
+- https://openalex.org/W4251033893
+- https://openalex.org/W4297733535
+- https://openalex.org/W4298395628
+- https://openalex.org/W4385245566
+primary_topic: Advanced Neural Network Applications
+open_access: true

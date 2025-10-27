@@ -1,0 +1,1709 @@
+id: https://openalex.org/W2910094941
+doi: https://doi.org/10.1016/j.media.2022.102680
+title: The Liver Tumor Segmentation Benchmark (LiTS)
+publication_date: '2022-11-17'
+publication_year: 2022
+cited_by_count: 834
+citation_percentile: 0.999945
+pagerank: 2.668986530032059e-06
+authorships:
+- author_id: https://openalex.org/A5019684149
+  display_name: Patrick Bilic
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Informatics, Technical University of Munich, Germany
+- author_id: https://openalex.org/A5041042797
+  display_name: Patrick Ferdinand Christ
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Informatics, Technical University of Munich, Germany
+- author_id: https://openalex.org/A5100325337
+  display_name: Hongwei Li
+  orcid: https://orcid.org/0000-0002-5328-6407
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Informatics, Technical University of Munich, Germany
+  - Department of Quantitative Biomedicine, University of Zurich, Switzerland
+- author_id: https://openalex.org/A5008902493
+  display_name: Eugene Vorontsov
+  orcid: https://orcid.org/0000-0002-4530-533X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45683168
+    display_name: "Polytechnique Montr\xE9al"
+    ror: https://ror.org/05f8d4e86
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Ecole Polytechnique de Montr\xE9al, Canada"
+- author_id: https://openalex.org/A5103833347
+  display_name: Avi Ben-Cohen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16391192
+    display_name: Tel Aviv University
+    ror: https://ror.org/04mhzgx49
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Tel-Aviv University, Israel
+- author_id: https://openalex.org/A5000554104
+  display_name: Georgios Kaissis
+  orcid: https://orcid.org/0000-0001-8382-8062
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I2802619606
+    display_name: Klinikum rechts der Isar
+    ror: https://ror.org/04jc43x05
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing, Imperial College London, London, United Kingdom
+  - Institute for AI in Medicine, Technical University of Munich, Germany
+  - Institute for diagnostic and interventional radiology, Klinikum rechts der Isar,
+    Technical University of Munich, Germany
+- author_id: https://openalex.org/A5049900274
+  display_name: Adi Szeskin
+  orcid: https://orcid.org/0000-0002-3397-7964
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I197251160
+    display_name: Hebrew University of Jerusalem
+    ror: https://ror.org/03qxff017
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computer Science and Engineering, the Hebrew University of Jerusalem,
+    Israel
+- author_id: https://openalex.org/A5020018643
+  display_name: Colin Jacobs
+  orcid: https://orcid.org/0000-0003-1180-3805
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I2802934949
+    display_name: Radboud University Medical Center
+    ror: https://ror.org/05wg1m734
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Imaging, Radboud University Medical Center, Nijmegen, The
+    Netherlands
+- author_id: https://openalex.org/A5051871464
+  display_name: Gabriel Efrain Humpire Mamani
+  orcid: https://orcid.org/0000-0002-3199-8163
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802934949
+    display_name: Radboud University Medical Center
+    ror: https://ror.org/05wg1m734
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Imaging, Radboud University Medical Center, Nijmegen, The
+    Netherlands
+- author_id: https://openalex.org/A5072033636
+  display_name: Gabriel Chartrand
+  orcid: https://orcid.org/0000-0001-9645-7686
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I70931966
+    display_name: "Universit\xE9 de Montr\xE9al"
+    ror: https://ror.org/0161xgx34
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "The University of Montr\xE9al Hospital Research Centre (CRCHUM) Montr\xE9al,\
+    \ Qu\xE9bec, Canada"
+- author_id: https://openalex.org/A5090408246
+  display_name: "Fabian Loh\xF6fer"
+  orcid: https://orcid.org/0000-0002-0370-122X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802619606
+    display_name: Klinikum rechts der Isar
+    ror: https://ror.org/04jc43x05
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for diagnostic and interventional radiology, Klinikum rechts der Isar,
+    Technical University of Munich, Germany
+- author_id: https://openalex.org/A5041927500
+  display_name: Julian Walter Holch
+  orcid: https://orcid.org/0000-0002-4755-0179
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I17937529
+    display_name: German Cancer Research Center
+    ror: https://ror.org/04cdgtt98
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Comprehensive Cancer Center Munich, Munich, Germany
+  - Department of Medicine III, University Hospital, LMU Munich, Munich, Germany
+  - Division of Medical Image Computing, German Cancer Research Center (DKFZ), Heidelberg,
+    Germany
+- author_id: https://openalex.org/A5037704473
+  display_name: Wieland H. Sommer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, University Hospital, LMU Munich, Germany
+- author_id: https://openalex.org/A5076544185
+  display_name: Felix Hofmann
+  orcid: https://orcid.org/0000-0001-6111-339X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+  - Department of Radiology, University Hospital, LMU Munich, Germany
+- author_id: https://openalex.org/A5001078077
+  display_name: Alexandre Hostettler
+  orcid: https://orcid.org/0000-0001-8269-6766
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210109354
+    display_name: "Institut de Recherche contre les Cancers de l\u2019Appareil Digestif"
+    ror: https://ror.org/01xyqts46
+    country_code: FR
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgical Data Science, Institut de Recherche contre les Cancers
+    de l'Appareil Digestif (IRCAD), France
+- author_id: https://openalex.org/A5050816533
+  display_name: "Naama Lev\u2010Cohain"
+  orcid: https://orcid.org/0000-0002-8975-7813
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799899409
+    display_name: Hadassah Medical Center
+    ror: https://ror.org/01cqmqj90
+    country_code: IL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Hadassah University Medical Center, Jerusalem, Israel
+- author_id: https://openalex.org/A5024536150
+  display_name: Michal Drozdzal
+  orcid: https://orcid.org/0000-0002-0661-6338
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45683168
+    display_name: "Polytechnique Montr\xE9al"
+    ror: https://ror.org/05f8d4e86
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Polytechnique Montr\xE9al, Mila, QC, Canada"
+- author_id: https://openalex.org/A5049878808
+  display_name: Michal Amitai
+  orcid: https://orcid.org/0000-0001-7759-7763
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799810450
+    display_name: Sheba Medical Center
+    ror: https://ror.org/020rzx487
+    country_code: IL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Diagnostic Radiology, Sheba Medical Center, Tel Aviv university,
+    Israel
+- author_id: https://openalex.org/A5056227111
+  display_name: Refael Vivanti
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16362100
+    display_name: Rafael Advanced Defense Systems (Israel)
+    ror: https://ror.org/016mey390
+    country_code: IL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rafael Advanced Defense System, Israel
+- author_id: https://openalex.org/A5016567416
+  display_name: Jacob Sosna
+  orcid: https://orcid.org/0000-0002-2400-1863
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799899409
+    display_name: Hadassah Medical Center
+    ror: https://ror.org/01cqmqj90
+    country_code: IL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Hadassah University Medical Center, Jerusalem, Israel
+- author_id: https://openalex.org/A5039935645
+  display_name: Ivan Ezhov
+  orcid: https://orcid.org/0000-0002-0862-6513
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16362100
+    display_name: Rafael Advanced Defense Systems (Israel)
+    ror: https://ror.org/016mey390
+    country_code: IL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rafael Advanced Defense System, Israel
+- author_id: https://openalex.org/A5087664142
+  display_name: Anjany Sekuboyina
+  orcid: https://orcid.org/0000-0002-5601-284X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202697423
+    display_name: University of Zurich
+    ror: https://ror.org/02crff812
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of Informatics, Technical University of Munich, Germany.
+  - Department of Quantitative Biomedicine, University of Zurich, Switzerland.
+- author_id: https://openalex.org/A5078102616
+  display_name: Fernando Navarro
+  orcid: https://orcid.org/0000-0001-8906-9079
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799323385
+    display_name: Board of the Swiss Federal Institutes of Technology
+    ror: https://ror.org/01rvn4p91
+    country_code: CH
+    type: government
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of Informatics, Technical University of Munich, Germany.
+  - "Eidgen\xF6ssische Technische Hochschule Zurich (ETHZ), Zurich, Switzerland"
+- author_id: https://openalex.org/A5104159486
+  display_name: Florian Kofler
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I2802619606
+    display_name: Klinikum rechts der Isar
+    ror: https://ror.org/04jc43x05
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of Informatics, Technical University of Munich, Germany.
+  - Institute for diagnostic and interventional neuroradiology, Klinikum rechts der
+    Isar,Technical University of Munich, Germany
+- author_id: https://openalex.org/A5085027983
+  display_name: Johannes C. Paetzold
+  orcid: https://orcid.org/0000-0002-4844-6955
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I3018134672
+    display_name: "Helmholtz Zentrum M\xFCnchen"
+    ror: https://ror.org/00cfam450
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing, Imperial College London, London, United Kingdom
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+  - "Institute for Tissue Engineering and Regenerative Medicine, Helmholtz Zentrum\
+    \ M\xFCnchen, Neuherberg, Germany"
+- author_id: https://openalex.org/A5018632773
+  display_name: Suprosanna Shit
+  orcid: https://orcid.org/0000-0003-4435-7207
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, The Chinese University of Hong
+    Kong, Hong Kong, China
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of Informatics, Technical University of Munich, Germany.
+- author_id: https://openalex.org/A5101735199
+  display_name: Xiaobin Hu
+  orcid: https://orcid.org/0000-0002-5764-3096
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I2802934949
+    display_name: Radboud University Medical Center
+    ror: https://ror.org/05wg1m734
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Imaging, Radboud University Medical Center, Nijmegen, The
+    Netherlands
+- author_id: https://openalex.org/A5021144196
+  display_name: "Jana Lipkov\xE1"
+  orcid: https://orcid.org/0000-0001-8101-4794
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2799323385
+    display_name: Board of the Swiss Federal Institutes of Technology
+    ror: https://ror.org/01rvn4p91
+    country_code: CH
+    type: government
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I1283280774
+    display_name: Brigham and Women's Hospital
+    ror: https://ror.org/04b6nzv94
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Brigham and Women's Hospital, Harvard Medical School, USA
+  - "Eidgen\xF6ssische Technische Hochschule Zurich (ETHZ), Zurich, Switzerland"
+- author_id: https://openalex.org/A5110617022
+  display_name: Markus Rempfler
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799323385
+    display_name: Board of the Swiss Federal Institutes of Technology
+    ror: https://ror.org/01rvn4p91
+    country_code: CH
+    type: government
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Informatics, Technical University of Munich, Germany.
+  - "Eidgen\xF6ssische Technische Hochschule Zurich (ETHZ), Zurich, Switzerland"
+- author_id: https://openalex.org/A5005966038
+  display_name: Marie Piraud
+  orcid: https://orcid.org/0000-0002-4917-2458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of Informatics, Technical University of Munich, Germany.
+- author_id: https://openalex.org/A5003938965
+  display_name: Jan S. Kirschke
+  orcid: https://orcid.org/0000-0002-7557-0003
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802619606
+    display_name: Klinikum rechts der Isar
+    ror: https://ror.org/04jc43x05
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for diagnostic and interventional neuroradiology, Klinikum rechts der
+    Isar,Technical University of Munich, Germany
+- author_id: https://openalex.org/A5039985608
+  display_name: Benedikt Wiestler
+  orcid: https://orcid.org/0000-0002-2963-7772
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802619606
+    display_name: Klinikum rechts der Isar
+    ror: https://ror.org/04jc43x05
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for diagnostic and interventional neuroradiology, Klinikum rechts der
+    Isar,Technical University of Munich, Germany
+- author_id: https://openalex.org/A5100680517
+  display_name: Zhiheng Zhang
+  orcid: https://orcid.org/0000-0003-4299-5379
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I4210111013
+    display_name: Nanjing Drum Tower Hospital
+    ror: https://ror.org/026axqv54
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of Hepatobiliary Surgery, the Affiliated Drum Tower Hospital of Nanjing
+    University Medical School, China.
+- author_id: https://openalex.org/A5065927346
+  display_name: "Christian H\xFClsemeyer"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799323385
+    display_name: Board of the Swiss Federal Institutes of Technology
+    ror: https://ror.org/01rvn4p91
+    country_code: CH
+    type: government
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of Informatics, Technical University of Munich, Germany.
+  - "Eidgen\xF6ssische Technische Hochschule Zurich (ETHZ), Zurich, Switzerland"
+- author_id: https://openalex.org/A5084723622
+  display_name: Marcel Beetz
+  orcid: https://orcid.org/0009-0004-5239-9313
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+  - Department of Informatics, Technical University of Munich, Germany.
+- author_id: https://openalex.org/A5022992674
+  display_name: Florian Ettlinger
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Informatics, Technical University of Munich, Germany.
+- author_id: https://openalex.org/A5007411844
+  display_name: Michela Antonelli
+  orcid: https://orcid.org/0000-0002-3005-4523
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Biomedical Engineering & Imaging Sciences, King s College London, London,
+    UK
+- author_id: https://openalex.org/A5045853124
+  display_name: Woong Bae
+  orcid: https://orcid.org/0000-0003-3128-9866
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, The Hong Kong University of Science
+    and Technology, China
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+- author_id: https://openalex.org/A5075793611
+  display_name: "M\xEDriam Bellver"
+  orcid: https://orcid.org/0000-0002-0751-8705
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5033178355
+  display_name: Lei Bi
+  orcid: https://orcid.org/0000-0002-1996-880X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802619606
+    display_name: Klinikum rechts der Isar
+    ror: https://ror.org/04jc43x05
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for diagnostic and interventional radiology, Klinikum rechts der Isar,
+    Technical University of Munich, Germany
+- author_id: https://openalex.org/A5100353596
+  display_name: Hao Chen
+  orcid: https://orcid.org/0000-0002-8400-3780
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, The Hong Kong University of Science
+    and Technology, China
+- author_id: https://openalex.org/A5026098790
+  display_name: Grzegorz Chlebus
+  orcid: https://orcid.org/0000-0001-6994-696X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802934949
+    display_name: Radboud University Medical Center
+    ror: https://ror.org/05wg1m734
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I145872427
+    display_name: Radboud University Nijmegen
+    ror: https://ror.org/016xsfp80
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Diagnostic Image Analysis Group, Radboud University Medical Center, Nijmegen,
+    The Netherlands
+- author_id: https://openalex.org/A5008183217
+  display_name: Erik B. Dam
+  orcid: https://orcid.org/0000-0002-8888-2524
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, The Hong Kong University of Science
+    and Technology, China
+- author_id: https://openalex.org/A5090516040
+  display_name: Qi Dou
+  orcid: https://orcid.org/0000-0002-3416-9950
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, The Chinese University of Hong
+    Kong, Hong Kong, China
+- author_id: https://openalex.org/A5054382056
+  display_name: "Chi\u2010Wing Fu"
+  orcid: https://orcid.org/0000-0002-5238-593X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, The Chinese University of Hong
+    Kong, Hong Kong, China
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+- author_id: https://openalex.org/A5011888340
+  display_name: Bogdan Georgescu
+  orcid: https://orcid.org/0000-0001-5388-5699
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151799
+    display_name: Siemens Healthcare (United States)
+    ror: https://ror.org/054962n91
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Siemens Healthineers, USA
+- author_id: https://openalex.org/A5051863471
+  display_name: "Xavier Gir\xF3-i-Nieto"
+  orcid: https://orcid.org/0000-0002-9935-5332
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I9617848
+    display_name: "Universitat Polit\xE8cnica de Catalunya"
+    ror: https://ror.org/03mb6wj31
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Signal Theory and Communications Department, Universitat Politecnica de Catalunya,
+    Catalonia/Spain
+  - at Universitat Politecnica de Catalunya, Catalonia/Spain
+  - au University of Tuebingen, Germany
+  - av Mannheim Institute for Intelligent Systems in Medicine, department of Medicine
+    Mannheim, Heidelberg University aw Interdisciplinary Center for Scientific Computing
+    (IWR), Heidelberg University
+- author_id: https://openalex.org/A5074578728
+  display_name: Felix Gruen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+  - Department of Radiology, University Hospital, LMU Munich, Germany
+- author_id: https://openalex.org/A5101259627
+  display_name: Xu Han
+  orcid: https://orcid.org/0000-0001-6998-8254
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Electronic Engineering, The University of Hong Kong,
+    China
+- author_id: https://openalex.org/A5032708386
+  display_name: "Pheng\u2010Ann Heng"
+  orcid: https://orcid.org/0000-0003-3055-5034
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, The Chinese University of Hong
+    Kong, Hong Kong, China
+- author_id: https://openalex.org/A5083522280
+  display_name: "J\xFCrgen Hesser"
+  orcid: https://orcid.org/0000-0002-4001-1164
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Central Institute for Computer Engineering (ZITI), Heidelberg University ay Department\
+    \ of Child and Adolescent Psychiatry, Ludwig-Maximilians-Universit\xE4t, Munich\
+    \ ,Germany"
+- author_id: https://openalex.org/A5005390604
+  display_name: Jan Hendrik Moltz
+  orcid: https://orcid.org/0000-0002-7880-1014
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5042628612
+  display_name: Christian Igel
+  orcid: https://orcid.org/0000-0003-2868-0856
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210137873
+    display_name: Fraunhofer Institute for Digital Medicine
+    ror: https://ror.org/04farme71
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computer Science, the University of Sydney bj Fraunhofer MEVIS, Bremen,
+    Germany
+- author_id: https://openalex.org/A5072647800
+  display_name: Fabian Isensee
+  orcid: https://orcid.org/0000-0002-3519-5886
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802619606
+    display_name: Klinikum rechts der Isar
+    ror: https://ror.org/04jc43x05
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I62916508
+    display_name: Technical University of Munich
+    ror: https://ror.org/02kkvpp62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for diagnostic and interventional radiology, Klinikum rechts der Isar,
+    Technical University of Munich, Germany
+- author_id: https://openalex.org/A5012942347
+  display_name: "Paul F. J\xE4ger"
+  orcid: https://orcid.org/0000-0002-6243-2568
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5091855300
+  display_name: Fucang Jia
+  orcid: https://orcid.org/0000-0003-0075-979X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5030835449
+  display_name: Krishna Chaitanya Kaluva
+  orcid: https://orcid.org/0000-0001-5137-3550
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5066090465
+  display_name: Mahendra Khened
+  orcid: https://orcid.org/0000-0003-0841-6628
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5109457351
+  display_name: Ildoo Kim
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+- author_id: https://openalex.org/A5100772900
+  display_name: Jae Hun Kim
+  orcid: https://orcid.org/0000-0002-6774-1829
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802194831
+    display_name: Samsung Medical Center
+    ror: https://ror.org/05a15z872
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Samsung Medical Center, Sungkyunkwan University School
+    of Medicine, Korea
+- author_id: https://openalex.org/A5087294413
+  display_name: Sungwoong Kim
+  orcid: https://orcid.org/0000-0002-2676-9454
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5054576402
+  display_name: "Simon K\xF6hl"
+  orcid: https://orcid.org/0000-0003-4271-4418
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5008098810
+  display_name: "Tomasz Konopczy\u0144ski"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5034120908
+  display_name: Avinash Kori
+  orcid: https://orcid.org/0000-0002-5878-3584
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I9617848
+    display_name: "Universitat Polit\xE8cnica de Catalunya"
+    ror: https://ror.org/03mb6wj31
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I2799803557
+    display_name: Barcelona Supercomputing Center
+    ror: https://ror.org/05sd8tv96
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I86987016
+    display_name: KTH Royal Institute of Technology
+    ror: https://ror.org/026vcq606
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering and Health Systems, KTH Royal Institute of
+    Technology, Sweden
+  - aq Barcelona Supercomputing Center, Barcelona, Spain
+- author_id: https://openalex.org/A5048838919
+  display_name: Ganapathy Krishnamurthi
+  orcid: https://orcid.org/0000-0002-9262-7569
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Engineering, The Hong Kong University of Science
+    and Technology, China
+- author_id: https://openalex.org/A5100373560
+  display_name: Fan Li
+  orcid: https://orcid.org/0000-0002-2348-4488
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+  - Department of Radiology, University Hospital, LMU Munich, Germany
+- author_id: https://openalex.org/A5100693899
+  display_name: Hongchao Li
+  orcid: https://orcid.org/0000-0002-0837-685X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+  - Department of Radiology, University Hospital, LMU Munich, Germany
+- author_id: https://openalex.org/A5101548639
+  display_name: Junbo Li
+  orcid: https://orcid.org/0000-0002-1566-0306
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+  - Department of Radiology, University Hospital, LMU Munich, Germany
+- author_id: https://openalex.org/A5100427643
+  display_name: Xiaomeng Li
+  orcid: https://orcid.org/0000-0003-1105-8083
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of General, Visceral and Transplantation Surgery, University Hospital,
+    LMU Munich, Germany
+  - Department of Radiology, University Hospital, LMU Munich, Germany
+- author_id: https://openalex.org/A5010714351
+  display_name: John Lowengrub
+  orcid: https://orcid.org/0000-0003-1759-0900
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Mathematics, Biomedical Engineering, University of California,
+    Irvine, USA
+- author_id: https://openalex.org/A5100678900
+  display_name: Jun Ma
+  orcid: https://orcid.org/0000-0002-9739-0855
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799810450
+    display_name: Sheba Medical Center
+    ror: https://ror.org/020rzx487
+    country_code: IL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Diagnostic Radiology, Sheba Medical Center, Tel Aviv university,
+    Israel
+- author_id: https://openalex.org/A5027292126
+  display_name: "Klaus Maier\u2010Hein"
+  orcid: https://orcid.org/0000-0002-6626-2463
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5038897190
+  display_name: Kevis-Kokitsi Maninis
+  orcid: https://orcid.org/0000-0003-3776-0049
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799323385
+    display_name: Board of the Swiss Federal Institutes of Technology
+    ror: https://ror.org/01rvn4p91
+    country_code: CH
+    type: government
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Eidgen\xF6ssische Technische Hochschule Zurich (ETHZ), Zurich, Switzerland"
+- author_id: https://openalex.org/A5053216721
+  display_name: Hans Meine
+  orcid: https://orcid.org/0000-0002-7557-5007
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180437899
+    display_name: University of Bremen
+    ror: https://ror.org/04ers2y35
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Image Computing Group, FB3, University of Bremen, Germany
+- author_id: https://openalex.org/A5064747056
+  display_name: Dorit Merhof
+  orcid: https://orcid.org/0000-0002-1672-2185
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5102676931
+  display_name: Akshay Pai
+  orcid: https://orcid.org/0000-0002-0087-1629
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5045030373
+  display_name: Mathias Perslev
+  orcid: https://orcid.org/0000-0002-0358-4692
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5101699990
+  display_name: Jens Petersen
+  orcid: https://orcid.org/0000-0003-0138-0693
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5108139995
+  display_name: Jordi Pont-Tuset
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5100637147
+  display_name: Qi Jin
+  orcid: https://orcid.org/0000-0002-6536-621X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150229711
+    display_name: University of Electronic Science and Technology of China
+    ror: https://ror.org/04qr3zq92
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I3018134672
+    display_name: "Helmholtz Zentrum M\xFCnchen"
+    ror: https://ror.org/00cfam450
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Information and Communication Engineering, University of Electronic
+    Science and Technology of China, China
+  - "be Helmholtz AI, Helmholtz Zentrum M\xFCnchen, Neuherberg, Germany"
+- author_id: https://openalex.org/A5102498323
+  display_name: Xiaojuan Qi
+  orcid: https://orcid.org/0000-0002-4285-1626
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5086371620
+  display_name: Oliver Rippel
+  orcid: https://orcid.org/0000-0002-4556-5094
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5103125177
+  display_name: Karsten Roth
+  orcid: https://orcid.org/0000-0003-1510-7217
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5028019174
+  display_name: "Ignacio Saras\xFAa"
+  orcid: https://orcid.org/0000-0002-1074-3903
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine III, University Hospital, LMU Munich, Munich, Germany
+- author_id: https://openalex.org/A5014470024
+  display_name: Andrea Schenk
+  orcid: https://orcid.org/0000-0003-1806-8380
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34809795
+    display_name: Medizinische Hochschule Hannover
+    ror: https://ror.org/00f2yqf98
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Diagnostic and Interventional Radiology, Hannover Medical School,
+    Hannover, Germany
+- author_id: https://openalex.org/A5049353316
+  display_name: Zengming Shen
+  orcid: https://orcid.org/0000-0003-2681-577X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Beckman Institute, University of Illinois at Urbana-Champaign, USA
+- author_id: https://openalex.org/A5039375454
+  display_name: Jordi Torres
+  orcid: https://orcid.org/0000-0003-1963-7418
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5069195910
+  display_name: Christian Wachinger
+  orcid: https://orcid.org/0000-0002-3652-1874
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5047045674
+  display_name: Chunliang Wang
+  orcid: https://orcid.org/0000-0002-0442-3524
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5016954076
+  display_name: Leon Weninger
+  orcid: https://orcid.org/0000-0002-7263-4219
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5101473600
+  display_name: Jianrong Wu
+  orcid: https://orcid.org/0000-0002-7050-1359
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018771216
+    display_name: LMU Klinikum
+    ror: https://ror.org/02jet3w32
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Hematology/Oncology & Comprehensive Cancer Center Munich, LMU Klinikum
+    Munich, Germany
+- author_id: https://openalex.org/A5052339079
+  display_name: Daguang Xu
+  orcid: https://orcid.org/0000-0002-4621-881X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5034964028
+  display_name: Xiaoping Yang
+  orcid: https://orcid.org/0000-0002-4370-517X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I881766915
+    display_name: Nanjing University
+    ror: https://ror.org/01rxvg760
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mathematics, Nanjing University, China
+- author_id: https://openalex.org/A5040190424
+  display_name: Simon C.H. Yu
+  orcid: https://orcid.org/0000-0002-8715-5026
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177725633
+    display_name: Chinese University of Hong Kong
+    ror: https://ror.org/00t33hh48
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Comprehensive Cancer Center Munich, Munich, Germany
+  - Department of Imaging and Interventional Radiology, Chinese University of Hong
+    Kong, Hong Kong, China
+- author_id: https://openalex.org/A5087485509
+  display_name: Yading Yuan
+  orcid: https://orcid.org/0000-0002-4483-6702
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiation Oncology, Icahn School of Medicine at Mount Sinai, New
+    York, USA
+- author_id: https://openalex.org/A5100861530
+  display_name: Yue Miao
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5100721041
+  display_name: Liping Zhang
+  orcid: https://orcid.org/0000-0003-1962-0106
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5077080413
+  display_name: M. Jorge Cardoso
+  orcid: https://orcid.org/0000-0003-1284-2558
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5043497448
+  display_name: Spyridon Bakas
+  orcid: https://orcid.org/0000-0001-8734-6482
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799899409
+    display_name: Hadassah Medical Center
+    ror: https://ror.org/01cqmqj90
+    country_code: IL
+    type: healthcare
+  - id: https://openalex.org/I16362100
+    display_name: Rafael Advanced Defense Systems (Israel)
+    ror: https://ror.org/016mey390
+    country_code: IL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Hadassah University Medical Center, Jerusalem, Israel
+  - Rafael Advanced Defense System, Israel al Department of Radiology,
+- author_id: https://openalex.org/A5014611590
+  display_name: Rickmer Braren
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+referenced_works:
+- https://openalex.org/W123659436
+- https://openalex.org/W1488765683
+- https://openalex.org/W1494315810
+- https://openalex.org/W1505265640
+- https://openalex.org/W1545113051
+- https://openalex.org/W1548531823
+- https://openalex.org/W1567847489
+- https://openalex.org/W1581231885
+- https://openalex.org/W1604768303
+- https://openalex.org/W1680164276
+- https://openalex.org/W1745334888
+- https://openalex.org/W1901129140
+- https://openalex.org/W1962291688
+- https://openalex.org/W1966707541
+- https://openalex.org/W1975053487
+- https://openalex.org/W1975258254
+- https://openalex.org/W1979988663
+- https://openalex.org/W1984876200
+- https://openalex.org/W1989175303
+- https://openalex.org/W1990404563
+- https://openalex.org/W1991113069
+- https://openalex.org/W1991200327
+- https://openalex.org/W2006041438
+- https://openalex.org/W2007079295
+- https://openalex.org/W2013005873
+- https://openalex.org/W2015821959
+- https://openalex.org/W2019607817
+- https://openalex.org/W2021186596
+- https://openalex.org/W2021681600
+- https://openalex.org/W2034613862
+- https://openalex.org/W2036354953
+- https://openalex.org/W2038952578
+- https://openalex.org/W2039165781
+- https://openalex.org/W2044803677
+- https://openalex.org/W2079554464
+- https://openalex.org/W2082718270
+- https://openalex.org/W2083927153
+- https://openalex.org/W2084831515
+- https://openalex.org/W2093882551
+- https://openalex.org/W2096998029
+- https://openalex.org/W2101187464
+- https://openalex.org/W2101401863
+- https://openalex.org/W2103858720
+- https://openalex.org/W2104095591
+- https://openalex.org/W2109759912
+- https://openalex.org/W2110996227
+- https://openalex.org/W2127890285
+- https://openalex.org/W2129663601
+- https://openalex.org/W2132210108
+- https://openalex.org/W2141730663
+- https://openalex.org/W2143516773
+- https://openalex.org/W2143781397
+- https://openalex.org/W2144795120
+- https://openalex.org/W2153431772
+- https://openalex.org/W2154289543
+- https://openalex.org/W2155162498
+- https://openalex.org/W2158362736
+- https://openalex.org/W2160077402
+- https://openalex.org/W2161430726
+- https://openalex.org/W2161920425
+- https://openalex.org/W2164715129
+- https://openalex.org/W2242323775
+- https://openalex.org/W2307372689
+- https://openalex.org/W2309471314
+- https://openalex.org/W2321272510
+- https://openalex.org/W2323792602
+- https://openalex.org/W2339108330
+- https://openalex.org/W2357815549
+- https://openalex.org/W2398721509
+- https://openalex.org/W2412453619
+- https://openalex.org/W2419523710
+- https://openalex.org/W2519575134
+- https://openalex.org/W2522861252
+- https://openalex.org/W2526009326
+- https://openalex.org/W2538833378
+- https://openalex.org/W2549624876
+- https://openalex.org/W2550380503
+- https://openalex.org/W2552029945
+- https://openalex.org/W2552368010
+- https://openalex.org/W2553734262
+- https://openalex.org/W2554594356
+- https://openalex.org/W2581055356
+- https://openalex.org/W2592929672
+- https://openalex.org/W2598166618
+- https://openalex.org/W27604306
+- https://openalex.org/W2787769342
+- https://openalex.org/W2806157997
+- https://openalex.org/W2889105158
+- https://openalex.org/W2897230576
+- https://openalex.org/W2897666251
+- https://openalex.org/W2905566680
+- https://openalex.org/W2951123255
+- https://openalex.org/W2952632681
+- https://openalex.org/W2963946669
+- https://openalex.org/W2964227007
+- https://openalex.org/W2979557864
+- https://openalex.org/W2999736994
+- https://openalex.org/W3002569343
+- https://openalex.org/W3012387312
+- https://openalex.org/W3016836174
+- https://openalex.org/W3022717569
+- https://openalex.org/W3035367255
+- https://openalex.org/W3044971416
+- https://openalex.org/W3045674654
+- https://openalex.org/W3046830682
+- https://openalex.org/W3047234505
+- https://openalex.org/W3080245372
+- https://openalex.org/W3084350493
+- https://openalex.org/W3086590218
+- https://openalex.org/W3092858474
+- https://openalex.org/W3093049763
+- https://openalex.org/W3095440947
+- https://openalex.org/W3112701542
+- https://openalex.org/W3117686595
+- https://openalex.org/W3119675698
+- https://openalex.org/W3121420165
+- https://openalex.org/W3129875423
+- https://openalex.org/W3138786744
+- https://openalex.org/W3143763605
+- https://openalex.org/W3146198738
+- https://openalex.org/W3161347617
+- https://openalex.org/W3172681723
+- https://openalex.org/W3174722556
+- https://openalex.org/W34374379
+- https://openalex.org/W4205145890
+- https://openalex.org/W4205399858
+- https://openalex.org/W4206232989
+- https://openalex.org/W4206240204
+- https://openalex.org/W4250213818
+- https://openalex.org/W4284959408
+- https://openalex.org/W4287774767
+- https://openalex.org/W4300464228
+- https://openalex.org/W4312360134
+- https://openalex.org/W574622532
+primary_topic: Advanced Neural Network Applications
+open_access: true

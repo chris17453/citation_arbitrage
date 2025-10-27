@@ -1,0 +1,327 @@
+id: https://openalex.org/W4310494058
+doi: https://doi.org/10.1016/j.ins.2022.11.139
+title: 'K-means clustering algorithms: A comprehensive review, variants analysis,
+  and advances in the era of big data'
+publication_date: '2022-12-01'
+publication_year: 2022
+cited_by_count: 1253
+citation_percentile: 0.999971
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5085612970
+  display_name: Abiodun M. Ikotun
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computer Science, University of KwaZulu-Natal, Pietermaritzburg, KwaZulu-Natal,
+    South Africa
+- author_id: https://openalex.org/A5060873940
+  display_name: Absalom E. Ezugwu
+  orcid: https://orcid.org/0000-0002-3721-3400
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27765905
+    display_name: North-West University
+    ror: https://ror.org/010f1sq29
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I95023434
+    display_name: University of KwaZulu-Natal
+    ror: https://ror.org/04qzfn040
+    country_code: ZA
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - School of Computer Science, University of KwaZulu-Natal, Pietermaritzburg, KwaZulu-Natal,
+    South Africa
+  - Unit for Data Science and Computing, North-West University, Potchefstroom, 1 Hoffman
+    Street Potchefstroom, 2520, South Africa
+- author_id: https://openalex.org/A5023403556
+  display_name: Laith Abualigah
+  orcid: https://orcid.org/0000-0002-2203-4549
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31079310
+    display_name: Al al-Bayt University
+    ror: https://ror.org/028jh2126
+    country_code: JO
+    type: education
+  - id: https://openalex.org/I146367977
+    display_name: Applied Science Private University
+    ror: https://ror.org/01ah6nb52
+    country_code: JO
+    type: funder
+  - id: https://openalex.org/I91633459
+    display_name: Middle East University
+    ror: https://ror.org/059bgad73
+    country_code: JO
+    type: education
+  - id: https://openalex.org/I104941359
+    display_name: Al-Ahliyya Amman University
+    ror: https://ror.org/00xddhq60
+    country_code: JO
+    type: funder
+  - id: https://openalex.org/I139322472
+    display_name: Universiti Sains Malaysia
+    ror: https://ror.org/02rgb2k63
+    country_code: MY
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Information Technology, Applied Science Private University, Amman 11931,
+    Jordan
+  - Faculty of Information Technology, Middle East University, Amman 11831, Jordan
+  - Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman
+    19328, Jordan
+  - Prince Hussein Bin Abdullah College for Information Technology, Al Al-Bayt University,
+    Mafraq 130040, Jordan
+  - School of Computer Sciences, Universiti Sains Malaysia, Pulau Pinang 11800, Malaysia
+- author_id: https://openalex.org/A5024711193
+  display_name: Belal Abuhaija
+  orcid: https://orcid.org/0000-0002-7964-6327
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153668
+    display_name: Wenzhou-Kean University
+    ror: https://ror.org/05609xa16
+    country_code: CN
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Computer Science, Wenzhou-Kean University, Wenzhou, China
+- author_id: https://openalex.org/A5006242246
+  display_name: Heming Jia
+  orcid: https://orcid.org/0000-0002-4339-8464
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210149962
+    display_name: Sanming University
+    ror: https://ror.org/044pany34
+    country_code: CN
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Information and Engineering, Sanming University, China
+referenced_works:
+- https://openalex.org/W1128809682
+- https://openalex.org/W1480487340
+- https://openalex.org/W1490308602
+- https://openalex.org/W1491634537
+- https://openalex.org/W1501061745
+- https://openalex.org/W1532798493
+- https://openalex.org/W1538346474
+- https://openalex.org/W1594924988
+- https://openalex.org/W1959178355
+- https://openalex.org/W1970169482
+- https://openalex.org/W1980317569
+- https://openalex.org/W1987149779
+- https://openalex.org/W1990130348
+- https://openalex.org/W1990643970
+- https://openalex.org/W1992419399
+- https://openalex.org/W1995450389
+- https://openalex.org/W2002586964
+- https://openalex.org/W2007668393
+- https://openalex.org/W2011430131
+- https://openalex.org/W2029248817
+- https://openalex.org/W2029685889
+- https://openalex.org/W2032126425
+- https://openalex.org/W2039134157
+- https://openalex.org/W2044880960
+- https://openalex.org/W2047426804
+- https://openalex.org/W2051663450
+- https://openalex.org/W2054804336
+- https://openalex.org/W2057536593
+- https://openalex.org/W2059515884
+- https://openalex.org/W2063687840
+- https://openalex.org/W2065060195
+- https://openalex.org/W2069093792
+- https://openalex.org/W2072426588
+- https://openalex.org/W2074457014
+- https://openalex.org/W2075075331
+- https://openalex.org/W2078888611
+- https://openalex.org/W2080596174
+- https://openalex.org/W2083620785
+- https://openalex.org/W2084131036
+- https://openalex.org/W2084412522
+- https://openalex.org/W2092907111
+- https://openalex.org/W2105535594
+- https://openalex.org/W2106956101
+- https://openalex.org/W2107117509
+- https://openalex.org/W2107303832
+- https://openalex.org/W2119025751
+- https://openalex.org/W2126626732
+- https://openalex.org/W2130453506
+- https://openalex.org/W2132205911
+- https://openalex.org/W2140405352
+- https://openalex.org/W2142489247
+- https://openalex.org/W2142827986
+- https://openalex.org/W2142838865
+- https://openalex.org/W2145747124
+- https://openalex.org/W2147246240
+- https://openalex.org/W2149230623
+- https://openalex.org/W2159091719
+- https://openalex.org/W2160197181
+- https://openalex.org/W2161160262
+- https://openalex.org/W2163016402
+- https://openalex.org/W2167898351
+- https://openalex.org/W2168993425
+- https://openalex.org/W2209228884
+- https://openalex.org/W2219898335
+- https://openalex.org/W2253952947
+- https://openalex.org/W2272844645
+- https://openalex.org/W2318076643
+- https://openalex.org/W2319660501
+- https://openalex.org/W2325843749
+- https://openalex.org/W2339850078
+- https://openalex.org/W2379482696
+- https://openalex.org/W2395916081
+- https://openalex.org/W2397015893
+- https://openalex.org/W2415715393
+- https://openalex.org/W2476487606
+- https://openalex.org/W2505839951
+- https://openalex.org/W2535391544
+- https://openalex.org/W2544075565
+- https://openalex.org/W2562985034
+- https://openalex.org/W2572864975
+- https://openalex.org/W2587094051
+- https://openalex.org/W2605029335
+- https://openalex.org/W2612526924
+- https://openalex.org/W2626533970
+- https://openalex.org/W2646959092
+- https://openalex.org/W2724792649
+- https://openalex.org/W2725171488
+- https://openalex.org/W2729840144
+- https://openalex.org/W2753434909
+- https://openalex.org/W2754133140
+- https://openalex.org/W2754987240
+- https://openalex.org/W2767606292
+- https://openalex.org/W2774515497
+- https://openalex.org/W2783582361
+- https://openalex.org/W2789548662
+- https://openalex.org/W2794447779
+- https://openalex.org/W2799945245
+- https://openalex.org/W2806028266
+- https://openalex.org/W2810093552
+- https://openalex.org/W2810773454
+- https://openalex.org/W2884662492
+- https://openalex.org/W2890596636
+- https://openalex.org/W2891206949
+- https://openalex.org/W2892074118
+- https://openalex.org/W2896719151
+- https://openalex.org/W2900404321
+- https://openalex.org/W2903590249
+- https://openalex.org/W2907636752
+- https://openalex.org/W2922380854
+- https://openalex.org/W2932292895
+- https://openalex.org/W2940320374
+- https://openalex.org/W2945084109
+- https://openalex.org/W2945659402
+- https://openalex.org/W2962980889
+- https://openalex.org/W2963270344
+- https://openalex.org/W2963273335
+- https://openalex.org/W2963455764
+- https://openalex.org/W2968893289
+- https://openalex.org/W2969536930
+- https://openalex.org/W2970759086
+- https://openalex.org/W2989429815
+- https://openalex.org/W2989669639
+- https://openalex.org/W2996063229
+- https://openalex.org/W2996095076
+- https://openalex.org/W2996773298
+- https://openalex.org/W2999604716
+- https://openalex.org/W2999628013
+- https://openalex.org/W2999729612
+- https://openalex.org/W3000284020
+- https://openalex.org/W3000752464
+- https://openalex.org/W3004703803
+- https://openalex.org/W3005471842
+- https://openalex.org/W3006635105
+- https://openalex.org/W3007204986
+- https://openalex.org/W3010231125
+- https://openalex.org/W3011417748
+- https://openalex.org/W3012289806
+- https://openalex.org/W3014328542
+- https://openalex.org/W3019913914
+- https://openalex.org/W3023025651
+- https://openalex.org/W3030709604
+- https://openalex.org/W3038588646
+- https://openalex.org/W3041975366
+- https://openalex.org/W3047068003
+- https://openalex.org/W3048804154
+- https://openalex.org/W3083484751
+- https://openalex.org/W3091866490
+- https://openalex.org/W3092561083
+- https://openalex.org/W3094356022
+- https://openalex.org/W3095221069
+- https://openalex.org/W3097286693
+- https://openalex.org/W3104436588
+- https://openalex.org/W3105809221
+- https://openalex.org/W3108878720
+- https://openalex.org/W3111993935
+- https://openalex.org/W3112135300
+- https://openalex.org/W3114714171
+- https://openalex.org/W3118608800
+- https://openalex.org/W3119102269
+- https://openalex.org/W3120332680
+- https://openalex.org/W3120683583
+- https://openalex.org/W3120740533
+- https://openalex.org/W3128816197
+- https://openalex.org/W3135333124
+- https://openalex.org/W3135430461
+- https://openalex.org/W3135826902
+- https://openalex.org/W3136416950
+- https://openalex.org/W3155660510
+- https://openalex.org/W3157030441
+- https://openalex.org/W3157286898
+- https://openalex.org/W3159249382
+- https://openalex.org/W3161400373
+- https://openalex.org/W3176528542
+- https://openalex.org/W3180794169
+- https://openalex.org/W3182832111
+- https://openalex.org/W3193884101
+- https://openalex.org/W3200940572
+- https://openalex.org/W3202378034
+- https://openalex.org/W3215152588
+- https://openalex.org/W3217195399
+- https://openalex.org/W4200397946
+- https://openalex.org/W4205465326
+- https://openalex.org/W4213418104
+- https://openalex.org/W4220840109
+- https://openalex.org/W4229973095
+- https://openalex.org/W4230927216
+- https://openalex.org/W4233591465
+- https://openalex.org/W4233773848
+- https://openalex.org/W4240020872
+- https://openalex.org/W4243289952
+- https://openalex.org/W4243845521
+- https://openalex.org/W4245508900
+- https://openalex.org/W4251068072
+- https://openalex.org/W4251169695
+- https://openalex.org/W4251279846
+- https://openalex.org/W4251833458
+- https://openalex.org/W4253769867
+- https://openalex.org/W4256149892
+- https://openalex.org/W4281722865
+- https://openalex.org/W4281738949
+- https://openalex.org/W4283077325
+- https://openalex.org/W4284702000
+- https://openalex.org/W4285147105
+- https://openalex.org/W4285227691
+- https://openalex.org/W4285290083
+- https://openalex.org/W4285351148
+- https://openalex.org/W4292399193
+- https://openalex.org/W4295206672
+- https://openalex.org/W4298264716
+- https://openalex.org/W4298316462
+- https://openalex.org/W4301172471
+- https://openalex.org/W4388543678
+- https://openalex.org/W609767957
+primary_topic: Advanced Clustering Algorithms Research
+open_access: false

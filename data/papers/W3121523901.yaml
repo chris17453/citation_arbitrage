@@ -1,0 +1,196 @@
+id: https://openalex.org/W3121523901
+doi: https://doi.org/10.1109/iccv48922.2021.00060
+title: 'Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet'
+publication_date: '2021-10-01'
+publication_year: 2021
+cited_by_count: 1789
+citation_percentile: 0.999876
+pagerank: 2.8618126760587236e-06
+authorships:
+- author_id: https://openalex.org/A5100641082
+  display_name: Li Yuan
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore
+- author_id: https://openalex.org/A5029978692
+  display_name: Yunpeng Chen
+  orcid: https://orcid.org/0000-0002-9830-8980
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - YITU Technology
+- author_id: https://openalex.org/A5100453495
+  display_name: Tao Wang
+  orcid: https://orcid.org/0000-0002-2480-878X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Data Science, National University of Singapore
+  - National University of Singapore
+- author_id: https://openalex.org/A5044840682
+  display_name: Weihao Yu
+  orcid: https://orcid.org/0000-0003-3349-5890
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore
+- author_id: https://openalex.org/A5102345838
+  display_name: Yujun Shi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore
+- author_id: https://openalex.org/A5072421286
+  display_name: Zihang Jiang
+  orcid: https://orcid.org/0000-0002-8096-842X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore
+- author_id: https://openalex.org/A5110052659
+  display_name: Francis E. H. Tay
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore
+- author_id: https://openalex.org/A5100668696
+  display_name: Jiashi Feng
+  orcid: https://orcid.org/0000-0001-6843-0064
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore
+- author_id: https://openalex.org/A5100381753
+  display_name: Shuicheng Yan
+  orcid: https://orcid.org/0000-0001-8906-3777
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National University of Singapore
+referenced_works:
+- https://openalex.org/W1614298861
+- https://openalex.org/W1686810756
+- https://openalex.org/W1821462560
+- https://openalex.org/W2108598243
+- https://openalex.org/W2183341477
+- https://openalex.org/W2194775991
+- https://openalex.org/W2401231614
+- https://openalex.org/W2518108298
+- https://openalex.org/W2549139847
+- https://openalex.org/W2612445135
+- https://openalex.org/W2618530766
+- https://openalex.org/W2746314669
+- https://openalex.org/W2752782242
+- https://openalex.org/W2765407302
+- https://openalex.org/W2884585870
+- https://openalex.org/W2895340641
+- https://openalex.org/W2896457183
+- https://openalex.org/W2898732869
+- https://openalex.org/W2908510526
+- https://openalex.org/W2949718784
+- https://openalex.org/W2950577311
+- https://openalex.org/W2955058313
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963163009
+- https://openalex.org/W2963263347
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963351113
+- https://openalex.org/W2963403868
+- https://openalex.org/W2963420686
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963495494
+- https://openalex.org/W2963954913
+- https://openalex.org/W2963984455
+- https://openalex.org/W2964091144
+- https://openalex.org/W2964137095
+- https://openalex.org/W2965373594
+- https://openalex.org/W2970597249
+- https://openalex.org/W2970986510
+- https://openalex.org/W2981413347
+- https://openalex.org/W2983446232
+- https://openalex.org/W2991473694
+- https://openalex.org/W2992308087
+- https://openalex.org/W2996179037
+- https://openalex.org/W3033210410
+- https://openalex.org/W3034445277
+- https://openalex.org/W3034756453
+- https://openalex.org/W3034885317
+- https://openalex.org/W3035022492
+- https://openalex.org/W3035414587
+- https://openalex.org/W3092462694
+- https://openalex.org/W3094502228
+- https://openalex.org/W3095422700
+- https://openalex.org/W3096609285
+- https://openalex.org/W3099924936
+- https://openalex.org/W3101415077
+- https://openalex.org/W3103465009
+- https://openalex.org/W3106266119
+- https://openalex.org/W3107331169
+- https://openalex.org/W3108995912
+- https://openalex.org/W3109319753
+- https://openalex.org/W3122239467
+- https://openalex.org/W3165924482
+- https://openalex.org/W3170874841
+- https://openalex.org/W3171125843
+- https://openalex.org/W3171516518
+- https://openalex.org/W4292779060
+- https://openalex.org/W4295312788
+- https://openalex.org/W4297775537
+- https://openalex.org/W4298395628
+- https://openalex.org/W4309793872
+- https://openalex.org/W4385245566
+primary_topic: Multimodal Machine Learning Applications
+open_access: true

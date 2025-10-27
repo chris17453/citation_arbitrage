@@ -1,0 +1,154 @@
+id: https://openalex.org/W3203343200
+doi: https://doi.org/10.1093/molbev/msab293
+title: 'eggNOG-mapper v2: Functional Annotation, Orthology Assignments, and Domain
+  Prediction at the Metagenomic Scale'
+publication_date: '2021-09-30'
+publication_year: 2021
+cited_by_count: 2971
+citation_percentile: 0.998972
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5091594546
+  display_name: Carlos P. Cantalapiedra
+  orcid: https://orcid.org/0000-0001-5263-533X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I88060688
+    display_name: "Universidad Polit\xE9cnica de Madrid"
+    ror: https://ror.org/03n6nwv02
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210162265
+    display_name: Centre for Plant Biotechnology and Genomics
+    ror: https://ror.org/04mfzb702
+    country_code: ES
+    type: facility
+  - id: https://openalex.org/I4210106474
+    display_name: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    ror: https://ror.org/011q66e29
+    country_code: ES
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centro de Biotecnologia y Genomica de Plantas, Universidad Polit\xE9cnica de\
+    \ Madrid (UPM) \u2013 Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+    \ y Alimentaria (INIA), Campus de Montegancedo-UPM, Madrid, Spain"
+- author_id: https://openalex.org/A5007716384
+  display_name: "Ana Hern\xE1ndez-Plaza"
+  orcid: https://orcid.org/0000-0002-9844-7999
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106474
+    display_name: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    ror: https://ror.org/011q66e29
+    country_code: ES
+    type: government
+  - id: https://openalex.org/I88060688
+    display_name: "Universidad Polit\xE9cnica de Madrid"
+    ror: https://ror.org/03n6nwv02
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210162265
+    display_name: Centre for Plant Biotechnology and Genomics
+    ror: https://ror.org/04mfzb702
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centro de Biotecnologia y Genomica de Plantas, Universidad Polit\xE9cnica de\
+    \ Madrid (UPM) \u2013 Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+    \ y Alimentaria (INIA), Campus de Montegancedo-UPM, Madrid, Spain"
+- author_id: https://openalex.org/A5072645674
+  display_name: "Ivica Letuni\u0107"
+  orcid: https://orcid.org/0000-0003-3560-4288
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107206
+    display_name: Biobyte Solutions (Germany)
+    ror: https://ror.org/01r8nn991
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biobyte Solutions GmbH, Heidelberg, Germany
+- author_id: https://openalex.org/A5074309419
+  display_name: Peer Bork
+  orcid: https://orcid.org/0000-0002-2627-833X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153543
+    display_name: European Molecular Biology Laboratory
+    ror: https://ror.org/050589e39
+    country_code: DE
+    type: government
+  - id: https://openalex.org/I25974101
+    display_name: "University of W\xFCrzburg"
+    ror: https://ror.org/00fbnyb24
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I193775966
+    display_name: Yonsei University
+    ror: https://ror.org/01wjejq96
+    country_code: KR
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Department of Bioinformatics, Biocenter, University of W\xFCrzburg, W\xFCrzburg,\
+    \ Germany"
+  - European Molecular Biology Laboratory, Structural and Computational Biology Unit,
+    Heidelberg, Germany
+  - Yonsei Frontier Lab (YFL), Yonsei University, Seoul, South Korea
+- author_id: https://openalex.org/A5050318013
+  display_name: "Jaime Huerta\u2010Cepas"
+  orcid: https://orcid.org/0000-0003-4195-5025
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210106474
+    display_name: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    ror: https://ror.org/011q66e29
+    country_code: ES
+    type: government
+  - id: https://openalex.org/I88060688
+    display_name: "Universidad Polit\xE9cnica de Madrid"
+    ror: https://ror.org/03n6nwv02
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I4210162265
+    display_name: Centre for Plant Biotechnology and Genomics
+    ror: https://ror.org/04mfzb702
+    country_code: ES
+    type: facility
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Centro de Biotecnologia y Genomica de Plantas, Universidad Polit\xE9cnica de\
+    \ Madrid (UPM) \u2013 Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+    \ y Alimentaria (INIA), Campus de Montegancedo-UPM, Madrid, Spain"
+referenced_works:
+- https://openalex.org/W1974116356
+- https://openalex.org/W2041386815
+- https://openalex.org/W2096093282
+- https://openalex.org/W2102652793
+- https://openalex.org/W2108366237
+- https://openalex.org/W2122559203
+- https://openalex.org/W2133790733
+- https://openalex.org/W2143485490
+- https://openalex.org/W2559588208
+- https://openalex.org/W2900629010
+- https://openalex.org/W2949841808
+- https://openalex.org/W2950595506
+- https://openalex.org/W2953989541
+- https://openalex.org/W2981913463
+- https://openalex.org/W2987028578
+- https://openalex.org/W3042305844
+- https://openalex.org/W3048272826
+- https://openalex.org/W3093868212
+- https://openalex.org/W3094967361
+- https://openalex.org/W3095583226
+- https://openalex.org/W3112376646
+- https://openalex.org/W3119059272
+- https://openalex.org/W3164712750
+primary_topic: Genomics and Phylogenetic Studies
+open_access: true

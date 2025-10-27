@@ -1,0 +1,2996 @@
+id: https://openalex.org/W3027630905
+doi: https://doi.org/10.1056/nejmoa2007764
+title: "Remdesivir for the Treatment of Covid-19 \u2014 Final Report"
+publication_date: '2020-05-22'
+publication_year: 2020
+cited_by_count: 7349
+citation_percentile: 0.999954
+pagerank: 4.3074934133840265e-06
+authorships:
+- author_id: https://openalex.org/A5030001523
+  display_name: John H. Beigel
+  orcid: https://orcid.org/0000-0002-4879-4941
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5113904835
+  display_name: Kay M Tomashek
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5020333045
+  display_name: Lori E. Dodd
+  orcid: https://orcid.org/0000-0002-3433-5429
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5061697125
+  display_name: Aneesh K. Mehta
+  orcid: https://orcid.org/0000-0002-6552-9162
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5066252006
+  display_name: Barry S. Zingman
+  orcid: https://orcid.org/0000-0002-3772-2176
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5070558437
+  display_name: "Andr\xE9 C. Kalil"
+  orcid: https://orcid.org/0000-0002-6489-6294
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5014080946
+  display_name: Elizabeth Hohmann
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5004611421
+  display_name: Helen Y. Chu
+  orcid: https://orcid.org/0000-0001-8502-9600
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5111592285
+  display_name: Annie Luetkemeyer
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5029982762
+  display_name: Susan Kline
+  orcid: https://orcid.org/0000-0001-7954-2926
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5004787832
+  display_name: "Diego L\xF3pez de Castilla"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5019389583
+  display_name: Robert W. Finberg
+  orcid: https://orcid.org/0000-0002-9398-9510
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5043530008
+  display_name: Kerry Dierberg
+  orcid: https://orcid.org/0000-0001-8528-7159
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5025457428
+  display_name: Victor F. Tapson
+  orcid: https://orcid.org/0000-0001-9708-1457
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5017329931
+  display_name: Lanny Hsieh
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5021310794
+  display_name: Thomas F. Patterson
+  orcid: https://orcid.org/0000-0002-9513-7127
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5091097962
+  display_name: Roger Paredes
+  orcid: https://orcid.org/0000-0002-6553-691X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5112592347
+  display_name: Daniel A Sweeney
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5052218696
+  display_name: William R. Short
+  orcid: https://orcid.org/0000-0003-4225-8336
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5068835724
+  display_name: Giota Touloumi
+  orcid: https://orcid.org/0000-0002-5951-0844
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5039929987
+  display_name: David Chien Lye
+  orcid: https://orcid.org/0000-0003-0324-0205
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5067354013
+  display_name: Norio Ohmagari
+  orcid: https://orcid.org/0000-0002-4622-8970
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5081894061
+  display_name: "Myoung\u2010don Oh"
+  orcid: https://orcid.org/0000-0002-2344-7695
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5004271631
+  display_name: "Guillermo M. Ruiz\u2010Palacios"
+  orcid: https://orcid.org/0000-0003-3708-9654
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5085051687
+  display_name: Thomas Benfield
+  orcid: https://orcid.org/0000-0003-0698-9385
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5062744631
+  display_name: "Gerd F\xE4tkenheuer"
+  orcid: https://orcid.org/0000-0002-5054-1871
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5108441033
+  display_name: Mark G. Kortepeter
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5001978364
+  display_name: Robert L. Atmar
+  orcid: https://orcid.org/0000-0001-9989-6772
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5067425596
+  display_name: C. Buddy Creech
+  orcid: https://orcid.org/0000-0002-8276-9053
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5080120008
+  display_name: Jens Lundgren
+  orcid: https://orcid.org/0000-0001-8901-7850
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5106791162
+  display_name: Abdel G. Babiker
+  orcid: https://orcid.org/0000-0003-4711-3021
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5110277930
+  display_name: Sarah Pett
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5109988335
+  display_name: James D. Neaton
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5007293184
+  display_name: Timothy Burgess
+  orcid: https://orcid.org/0000-0003-1247-8370
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5002555480
+  display_name: Tyler Bonnett
+  orcid: https://orcid.org/0000-0001-5545-6433
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5103277695
+  display_name: Michelle Green
+  orcid: https://orcid.org/0000-0001-7367-9040
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5077489159
+  display_name: Mat Makowski
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5007526376
+  display_name: Anu Osinusi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5027507914
+  display_name: Seema Nayak
+  orcid: https://orcid.org/0000-0002-3670-6553
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+- author_id: https://openalex.org/A5017815904
+  display_name: H. Clifford Lane
+  orcid: https://orcid.org/0000-0001-9509-1045
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I148314036
+    display_name: Uniformed Services University of the Health Sciences
+    ror: https://ror.org/04r3kq386
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210130649
+    display_name: Frederick National Laboratory for Cancer Research
+    ror: https://ror.org/03v6m3209
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2801047068
+    display_name: University Health System
+    ror: https://ror.org/01d9cs377
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I165951966
+    display_name: The University of Texas Health Science Center at San Antonio
+    ror: https://ror.org/02f6dcw23
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "From the National Institute of Allergy and Infectious Diseases, National Institutes\
+    \ of Health (J.H.B., K.M.T., L.E.D., S.N., H.C.L.), and the Infectious Disease\
+    \ Clinical Research Program, Uniformed Services University of the Health Sciences\
+    \ (T.H.B.), Bethesda, the Clinical Monitoring Research Program Directorate, Frederick\
+    \ National Laboratory for Cancer Research, Frederick (T. Bonnett), and Emmes,\
+    \ Rockville (M.G., M.M.) - all in Maryland; Emory University, Atlanta (A.K.M.);\
+    \ Montefiore Medical Center-Albert Einstein College of Medicine (B.S.Z.) and NYU\
+    \ Langone Health and NYC Health and Hospitals-Bellevue (K.D.), New York; University\
+    \ of Nebraska Medical Center, Omaha (A.C.K., M.G.K.); Massachusetts General Hospital,\
+    \ Boston (E.H.), and University of Massachusetts Medical School, Worcester (R.W.F.);\
+    \ University of Washington, Seattle (H.Y.C.), and Evergreen Health Medical Center,\
+    \ Kirkland (D.L.C.) - both in Washington; University of California, San Francisco,\
+    \ San Francisco (A.L.), Cedars-Sinai Medical Center, Los Angeles (V.T.), University\
+    \ of California, Irvine, Irvine (L.H.), University of California, San Diego, La\
+    \ Jolla (D.A.S.), and Gilead Sciences, Foster City (A.O.) - all in California;\
+    \ University of Minnesota (S.K.) and University of Minnesota School of Public\
+    \ Health and INSIGHT (J.D.N.), Minneapolis; University of Texas Health San Antonio,\
+    \ University Health System, and the South Texas Veterans Health Care System, San\
+    \ Antonio (T.F.P.), and Baylor College of Medicine, Houston (R.L.A.); Hospital\
+    \ Germans Trias i Pujol and irsiCaixa AIDS Research Institute, Badalona, Spain\
+    \ (R.P.); University of Pennsylvania, Philadelphia (W.R.S.); Medical School, National\
+    \ and Kapodistrian University of Athens, Athens (G.T.); National Center for Infectious\
+    \ Diseases-Tan Tock Seng Hospital-Lee Kong Chian School of Medicine-Yong Loo Lin\
+    \ School of Medicine, Singapore, Singapore (D.C.L.); the National Center for Global\
+    \ Health and Medicine Hospital, Tokyo (N.O.); Seoul National University Hospital,\
+    \ Seoul, South Korea (M.O.); Instituto Nacional de Ciencias M\xE9dicas y Nutrici\xF3\
+    n Salvador Zubir\xE1n, Mexico City (G.M.R.-P.); the Department of Infectious Diseases,\
+    \ Amager Hvidovre Hospital-University of Copenhagen, Hvidovre (T. Benfield), and\
+    \ Rigshospitalet, Department of Infectious Diseases (CHIP) and INSIGHT, Copenhagen\
+    \ (J.L.) - both in Denmark; University Hospital of Cologne, Cologne, Germany (G.F.);\
+    \ Vanderbilt University Medical Center, Nashville (C.B.C.); and University College\
+    \ London, M"
+referenced_works:
+- https://openalex.org/W2016428878
+- https://openalex.org/W2725497285
+- https://openalex.org/W2793022939
+- https://openalex.org/W2922271031
+- https://openalex.org/W2953224333
+- https://openalex.org/W3000413850
+- https://openalex.org/W3005212621
+- https://openalex.org/W3006564542
+- https://openalex.org/W3012379316
+- https://openalex.org/W3018023298
+- https://openalex.org/W3020239101
+- https://openalex.org/W3020654962
+- https://openalex.org/W3034521025
+- https://openalex.org/W3034532173
+- https://openalex.org/W3034967683
+- https://openalex.org/W3035304779
+- https://openalex.org/W3035837569
+- https://openalex.org/W3035876959
+- https://openalex.org/W3036732116
+- https://openalex.org/W3036904861
+- https://openalex.org/W3042270788
+- https://openalex.org/W3080718665
+- https://openalex.org/W4210642183
+- https://openalex.org/W4212891121
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

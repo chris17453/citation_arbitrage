@@ -1,0 +1,1558 @@
+id: https://openalex.org/W3091868035
+doi: https://doi.org/10.1056/nejmoa2022926
+title: Effect of Hydroxychloroquine in Hospitalized Patients with Covid-19
+publication_date: '2020-10-08'
+publication_year: 2020
+cited_by_count: 1204
+citation_percentile: 0.999954
+pagerank: 2.8995529480736984e-06
+authorships:
+- author_id: https://openalex.org/A5055026576
+  display_name: Peter Horby
+  orcid: https://orcid.org/0000-0002-9822-1586
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5085447535
+  display_name: Marion Mafham
+  orcid: https://orcid.org/0000-0003-0562-3963
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5073699884
+  display_name: Louise Linsell
+  orcid: https://orcid.org/0000-0003-3205-6511
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5081530481
+  display_name: Jennifer Bell
+  orcid: https://orcid.org/0000-0001-9571-0715
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5107921267
+  display_name: Natalie Staplin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5030250235
+  display_name: Jonathan Emberson
+  orcid: https://orcid.org/0000-0001-7792-9422
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5013768166
+  display_name: Martin Wiselka
+  orcid: https://orcid.org/0000-0002-4587-5826
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5002152360
+  display_name: Andrew Ustianowski
+  orcid: https://orcid.org/0000-0002-6134-7855
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5049554502
+  display_name: Einas Elmahi
+  orcid: https://orcid.org/0000-0001-7707-9456
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5069348015
+  display_name: Benjamin Prudon
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5002552601
+  display_name: Tony Whitehouse
+  orcid: https://orcid.org/0000-0002-4387-3421
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5111059272
+  display_name: Timothy Felton
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5112752653
+  display_name: John Williams
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5109466799
+  display_name: Jakki Faccenda
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5084148999
+  display_name: Jonathan Underwood
+  orcid: https://orcid.org/0000-0001-6963-2821
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5030523023
+  display_name: J. Kenneth Baillie
+  orcid: https://orcid.org/0000-0001-5258-793X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5044391206
+  display_name: Lucy C. Chappell
+  orcid: https://orcid.org/0000-0001-6219-3379
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5073745658
+  display_name: Saul N. Faust
+  orcid: https://orcid.org/0000-0003-3410-7642
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5053252382
+  display_name: Thomas Jaki
+  orcid: https://orcid.org/0000-0002-1096-188X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5027455759
+  display_name: Katie Jeffery
+  orcid: https://orcid.org/0000-0002-6506-2689
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5015120901
+  display_name: Wei Shen Lim
+  orcid: https://orcid.org/0000-0002-7694-3051
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5046999262
+  display_name: Alan Montgomery
+  orcid: https://orcid.org/0000-0003-0450-1606
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5109475002
+  display_name: Kathryn Rowan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5090110810
+  display_name: "Joel T\xE4rning"
+  orcid: https://orcid.org/0000-0003-4566-4030
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5055163004
+  display_name: James A Watson
+  orcid: https://orcid.org/0000-0001-5524-0325
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5112571369
+  display_name: Nicholas J White
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5053788765
+  display_name: Edmund Juszczak
+  orcid: https://orcid.org/0000-0001-5500-2247
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5088900128
+  display_name: Richard Haynes
+  orcid: https://orcid.org/0000-0002-1179-0023
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+- author_id: https://openalex.org/A5079926383
+  display_name: Martin Landray
+  orcid: https://orcid.org/0000-0001-6646-827X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1308923049
+    display_name: University Hospitals Birmingham NHS Foundation Trust
+    ror: https://ror.org/014ja3n03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I2802965805
+    display_name: University Hospital Southampton NHS Foundation Trust
+    ror: https://ror.org/0485axj58
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210092852
+    display_name: Manchester University NHS Foundation Trust
+    ror: https://ror.org/00he80998
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'The affiliations of the members of the writing committee are as follows: the
+    Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine
+    (P.H., J.T., J.A.W., N.J.W.), Nuffield Department of Population Health (M.M.,
+    L.L., J.L.B., N.S., J.R.E., E.J., R.H., M.J.L.), the Medical Research Council
+    (MRC) Population Health Research Unit (N.S., J.R.E., R.H., M.J.L.), University
+    of Oxford, the Oxford University Hospitals NHS Foundation Trust (K.J., M.J.L.),
+    and the National Institute for Health Research (NIHR) Oxford Biomedical Research
+    Centre (M.J.L.), Oxford, University Hospitals of Leicester NHS Trust and University
+    of Leicester, Leicester (M.W.), the Regional Infectious Diseases Unit, North Manchester
+    General Hospital (A.U.), University of Manchester (A.U., T.F.), and Manchester
+    University NHS Foundation Trust (T.F.), Manchester, the Research and Development
+    Department, Northampton General Hospital, Northampton (E.E.), the Department of
+    Respiratory Medicine, North Tees and Hartlepool NHS Foundation Trust, Stockton-on-Tees
+    (B.P.), University Hospitals Birmingham NHS Foundation Trust and Institute of
+    Microbiology and Infection, University of Birmingham, Birmingham (T.W.), James
+    Cook University Hospital, Middlesbrough (J.W.), North West Anglia NHS Foundation
+    Trust, Peterborough (J.F.), the Department of Infectious Diseases, Cardiff and
+    Vale University Health Board, and the Division of Infection and Immunity, Cardiff
+    University, Cardiff (J.U.), Roslin Institute, University of Edinburgh, Edinburgh
+    (J.K.B.), the School of Life Course Sciences, King''s College London (L.C.C.),
+    and the Intensive Care National Audit and Research Centre (K.R.), London, the
+    NIHR Southampton Clinical Research Facility and Biomedical Research Centre, University
+    Hospital Southampton NHS Foundation Trust and University of Southampton, Southampton
+    (S.N.F.), the Department of Mathematics and Statistics, Lancaster University,
+    Lancaster (T.J.), the MRC Biostatistics Unit, University of Cambridge, Cambridge
+    (T.J.), and the Respiratory Medicine Department, Nottingham University Hospitals
+    NHS Trust (W.S.L.), and the School of Medicine, University of Nottingham (A.M.,
+    E.J.), Nottingham - all in the United Kingdom; and the Mahidol Oxford Tropical
+    Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok,
+    Thailand (J.T., J.A.W., N.J.W.).'
+referenced_works:
+- https://openalex.org/W2063520112
+- https://openalex.org/W2095807050
+- https://openalex.org/W2150119943
+- https://openalex.org/W3001897055
+- https://openalex.org/W3002108456
+- https://openalex.org/W3004280078
+- https://openalex.org/W3004318991
+- https://openalex.org/W3005212621
+- https://openalex.org/W3008763357
+- https://openalex.org/W3009314935
+- https://openalex.org/W3009577418
+- https://openalex.org/W3009885589
+- https://openalex.org/W3010930696
+- https://openalex.org/W3010992334
+- https://openalex.org/W3013054181
+- https://openalex.org/W3013174684
+- https://openalex.org/W3013393200
+- https://openalex.org/W3013450525
+- https://openalex.org/W3013899502
+- https://openalex.org/W3013967887
+- https://openalex.org/W3015620943
+- https://openalex.org/W3020239101
+- https://openalex.org/W3023346879
+- https://openalex.org/W3023911418
+- https://openalex.org/W3024465342
+- https://openalex.org/W3025289844
+- https://openalex.org/W3025795175
+- https://openalex.org/W3025972894
+- https://openalex.org/W3028659981
+- https://openalex.org/W3030082895
+- https://openalex.org/W3031218897
+- https://openalex.org/W3035724523
+- https://openalex.org/W3038239479
+- https://openalex.org/W3041160585
+- https://openalex.org/W3041956007
+- https://openalex.org/W3044118599
+- https://openalex.org/W3046629770
+- https://openalex.org/W3082786135
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

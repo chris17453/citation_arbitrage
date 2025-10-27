@@ -1,0 +1,825 @@
+id: https://openalex.org/W4306871314
+doi: https://doi.org/10.1093/nar/gkac920
+title: 'CARD 2023: expanded curation, support for machine learning, and resistome
+  prediction at the Comprehensive Antibiotic Resistance Database'
+publication_date: '2022-10-20'
+publication_year: 2022
+cited_by_count: 1213
+citation_percentile: 0.568593
+pagerank: 2.6123248763100547e-06
+authorships:
+- author_id: https://openalex.org/A5048355868
+  display_name: Brian Alcock
+  orcid: https://orcid.org/0000-0002-5129-4673
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5077425761
+  display_name: William Huynh
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5090340829
+  display_name: Romeo Chalil
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5074484297
+  display_name: Keaton W Smith
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5050941430
+  display_name: Amogelang R. Raphenya
+  orcid: https://orcid.org/0000-0001-9259-5280
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5030472261
+  display_name: Mateusz A. Wlodarski
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5077815148
+  display_name: Arman Edalatmand
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5113791915
+  display_name: Aaron Petkau
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I46247651
+    display_name: University of Manitoba
+    ror: https://ror.org/02gfys938
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I177235860
+    display_name: Public Health Agency of Canada
+    ror: https://ror.org/023xf2a37
+    country_code: CA
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, University of Manitoba , Winnipeg , Manitoba ,
+    Canada
+  - National Microbiology Laboratory, Public Health Agency of Canada , Winnipeg ,
+    Manitoba , Canada
+- author_id: https://openalex.org/A5075072828
+  display_name: Sohaib A Syed
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5033830263
+  display_name: Kara K. Tsang
+  orcid: https://orcid.org/0000-0001-7742-8855
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5017732271
+  display_name: Sheridan J.C. Baker
+  orcid: https://orcid.org/0009-0004-2240-525X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5017653594
+  display_name: Mugdha Dave
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5007491277
+  display_name: Madeline C. McCarthy
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5019307802
+  display_name: Karyn M. Mukiri
+  orcid: https://orcid.org/0009-0006-5355-0059
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5018354892
+  display_name: Jalees A. Nasir
+  orcid: https://orcid.org/0000-0002-6582-9085
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5036961395
+  display_name: Bahar Golbon
+  orcid: https://orcid.org/0000-0002-6021-9405
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5060660050
+  display_name: Hamna Imtiaz
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5110538787
+  display_name: Xingjian Jiang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5064723414
+  display_name: Komal Kaur
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5077968703
+  display_name: "Megan W\u2010L Kwong"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5017670626
+  display_name: Zi Cheng Liang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5003988251
+  display_name: Keyu C Niu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5074018077
+  display_name: Prabakar Shan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5049942275
+  display_name: Jasmine Y J Yang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5062626798
+  display_name: Kristen L. Gray
+  orcid: https://orcid.org/0000-0002-1962-189X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I18014758
+    display_name: Simon Fraser University
+    ror: https://ror.org/0213rcc28
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Biology and Biochemistry, Simon Fraser University , Burnaby
+    , British Columbia , Canada
+- author_id: https://openalex.org/A5087085935
+  display_name: Gemma R Hoad
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I18014758
+    display_name: Simon Fraser University
+    ror: https://ror.org/0213rcc28
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Computing Group, Simon Fraser University , Burnaby , British Columbia
+    , Canada
+- author_id: https://openalex.org/A5025864936
+  display_name: Baofeng Jia
+  orcid: https://orcid.org/0000-0002-4735-4709
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I18014758
+    display_name: Simon Fraser University
+    ror: https://ror.org/0213rcc28
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Biology and Biochemistry, Simon Fraser University , Burnaby
+    , British Columbia , Canada
+- author_id: https://openalex.org/A5042410742
+  display_name: Timsy Bhando
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5022140958
+  display_name: Lindsey A. Carfrae
+  orcid: https://orcid.org/0000-0002-0561-9246
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5027167709
+  display_name: Maya A. Farha
+  orcid: https://orcid.org/0000-0003-0939-7377
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5090927714
+  display_name: Shawn French
+  orcid: https://orcid.org/0000-0002-3565-8385
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5092017128
+  display_name: Rodion Gordzevich
+  orcid: https://orcid.org/0009-0008-1757-6395
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5033493813
+  display_name: Kenneth Rachwalski
+  orcid: https://orcid.org/0000-0002-2967-7811
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5047044613
+  display_name: Megan M. Tu
+  orcid: https://orcid.org/0000-0001-7405-0500
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5029508936
+  display_name: Emily Bordeleau
+  orcid: https://orcid.org/0009-0008-9725-6614
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5006394765
+  display_name: Damion Dooley
+  orcid: https://orcid.org/0000-0002-8844-9165
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I18014758
+    display_name: Simon Fraser University
+    ror: https://ror.org/0213rcc28
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Health Sciences, Simon Fraser University , Burnaby , British Columbia
+    , Canada
+- author_id: https://openalex.org/A5023286690
+  display_name: Emma Griffiths
+  orcid: https://orcid.org/0000-0002-1107-9135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I18014758
+    display_name: Simon Fraser University
+    ror: https://ror.org/0213rcc28
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Health Sciences, Simon Fraser University , Burnaby , British Columbia
+    , Canada
+- author_id: https://openalex.org/A5085053942
+  display_name: Haley L. Zubyk
+  orcid: https://orcid.org/0000-0002-6103-2140
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5076663151
+  display_name: Eric D. Brown
+  orcid: https://orcid.org/0000-0002-7624-8112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+- author_id: https://openalex.org/A5051594885
+  display_name: Finlay Maguire
+  orcid: https://orcid.org/0000-0002-1203-9514
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129902397
+    display_name: Dalhousie University
+    ror: https://ror.org/01e6qks80
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Community Health & Epidemiology, Dalhousie University , Halifax
+    , Nova Scotia , Canada
+  - Faculty of Computer Science, Dalhousie University , Halifax , Nova Scotia , Canada
+  - Institute for Comparative Genomics, Dalhousie University , Halifax , Nova Scotia
+    , Canada
+- author_id: https://openalex.org/A5063083987
+  display_name: Robert G. Beiko
+  orcid: https://orcid.org/0000-0002-5065-4980
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129902397
+    display_name: Dalhousie University
+    ror: https://ror.org/01e6qks80
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Computer Science, Dalhousie University , Halifax , Nova Scotia , Canada
+  - Institute for Comparative Genomics, Dalhousie University , Halifax , Nova Scotia
+    , Canada
+- author_id: https://openalex.org/A5019488638
+  display_name: William Hsiao
+  orcid: https://orcid.org/0000-0002-1342-4043
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I18014758
+    display_name: Simon Fraser University
+    ror: https://ror.org/0213rcc28
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Biology and Biochemistry, Simon Fraser University , Burnaby
+    , British Columbia , Canada
+  - Faculty of Health Sciences, Simon Fraser University , Burnaby , British Columbia
+    , Canada
+- author_id: https://openalex.org/A5050197558
+  display_name: Fiona S. L. Brinkman
+  orcid: https://orcid.org/0000-0002-0584-4099
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I18014758
+    display_name: Simon Fraser University
+    ror: https://ror.org/0213rcc28
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Biology and Biochemistry, Simon Fraser University , Burnaby
+    , British Columbia , Canada
+- author_id: https://openalex.org/A5008793716
+  display_name: Gary Van Domselaar
+  orcid: https://orcid.org/0000-0003-1139-4458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I177235860
+    display_name: Public Health Agency of Canada
+    ror: https://ror.org/023xf2a37
+    country_code: CA
+    type: government
+  - id: https://openalex.org/I46247651
+    display_name: University of Manitoba
+    ror: https://ror.org/02gfys938
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Microbiology and Infectious Diseases, Max Rady College of
+    Medicine, University of Manitoba , Winnipeg , Manitoba , Canada
+  - National Microbiology Laboratory, Public Health Agency of Canada , Winnipeg ,
+    Manitoba , Canada
+- author_id: https://openalex.org/A5012803072
+  display_name: Andrew G. McArthur
+  orcid: https://orcid.org/0000-0002-1142-3063
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - David Braley Centre for Antibiotic Discovery, McMaster University , Hamilton ,
+    Ontario , Canada
+  - Department of Biochemistry and Biomedical Sciences, McMaster University , Hamilton
+    , Ontario , Canada
+  - Michael G. DeGroote Institute for Infectious Disease Research, McMaster University
+    , Hamilton , Ontario , Canada
+referenced_works:
+- https://openalex.org/W2036013060
+- https://openalex.org/W2099837668
+- https://openalex.org/W2173732482
+- https://openalex.org/W2179036997
+- https://openalex.org/W2544493586
+- https://openalex.org/W2610656577
+- https://openalex.org/W2761788747
+- https://openalex.org/W2770937934
+- https://openalex.org/W2779019546
+- https://openalex.org/W2884130168
+- https://openalex.org/W2896693913
+- https://openalex.org/W2980278798
+- https://openalex.org/W2982531601
+- https://openalex.org/W3131341447
+- https://openalex.org/W3135484824
+- https://openalex.org/W3170689505
+- https://openalex.org/W3187959711
+- https://openalex.org/W4206677002
+- https://openalex.org/W4220927247
+- https://openalex.org/W4220981771
+- https://openalex.org/W4224251803
+- https://openalex.org/W4226250938
+- https://openalex.org/W4242318543
+- https://openalex.org/W4288737722
+- https://openalex.org/W4291019294
+- https://openalex.org/W4291020280
+primary_topic: Antibiotic Resistance in Bacteria
+open_access: true

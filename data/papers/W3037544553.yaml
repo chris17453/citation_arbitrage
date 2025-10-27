@@ -1,0 +1,901 @@
+id: https://openalex.org/W3037544553
+doi: https://doi.org/10.1038/s41587-020-0602-4
+title: "COVID-19 severity correlates with airway epithelium\u2013immune cell interactions\
+  \ identified by single-cell analysis"
+publication_date: '2020-06-26'
+publication_year: 2020
+cited_by_count: 1069
+citation_percentile: 0.999954
+pagerank: 2.6925552454199395e-06
+authorships:
+- author_id: https://openalex.org/A5048003738
+  display_name: Robert Lorenz Chua
+  orcid: https://orcid.org/0000-0001-5945-9957
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5020646210
+  display_name: Soeren Lukassen
+  orcid: https://orcid.org/0000-0001-7045-6327
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5015517953
+  display_name: Saskia Trump
+  orcid: https://orcid.org/0000-0002-9894-1807
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Molecular Epidemiology Unit, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5077284878
+  display_name: Bianca P. Hennig
+  orcid: https://orcid.org/0000-0002-7733-8160
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5018433141
+  display_name: Daniel Wendisch
+  orcid: https://orcid.org/0000-0003-1968-5751
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Infectious Diseases and Respiratory Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin, and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5114146944
+  display_name: Fabian Pott
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Virology, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5014779997
+  display_name: Olivia Debnath
+  orcid: https://orcid.org/0009-0009-2845-055X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5056708715
+  display_name: "Loreen Th\xFCrmann"
+  orcid: https://orcid.org/0000-0003-1109-1924
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Molecular Epidemiology Unit, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5074607200
+  display_name: Florian Kurth
+  orcid: https://orcid.org/0000-0002-3807-473X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Infectious Diseases and Respiratory Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin, and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5113917507
+  display_name: "Maria Theresa V\xF6lker"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125843
+    display_name: University Hospital Leipzig
+    ror: https://ror.org/028hv5492
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesiology and Intensive Care, University Hospital Leipzig,
+    Leipzig, Germany
+- author_id: https://openalex.org/A5038664742
+  display_name: Julia Kazmierski
+  orcid: https://orcid.org/0000-0002-7962-2165
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Virology, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5046072249
+  display_name: Bernd Timmermann
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142260
+    display_name: Max Planck Institute for Molecular Genetics
+    ror: https://ror.org/03ate3e03
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sequencing Core Facility, Max Planck Institute for Molecular Genetics, Berlin,
+    Germany
+- author_id: https://openalex.org/A5036809473
+  display_name: Sven Twardziok
+  orcid: https://orcid.org/0000-0002-0326-5704
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5082334643
+  display_name: Stefan Schneider
+  orcid: https://orcid.org/0000-0002-4563-9890
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5030859165
+  display_name: Felix Machleidt
+  orcid: https://orcid.org/0000-0002-6108-5269
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Infectious Diseases and Respiratory Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin, and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5068503425
+  display_name: "Holger M\xFCller-Redetzky"
+  orcid: https://orcid.org/0000-0002-0434-9061
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Infectious Diseases and Respiratory Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin, and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5010190814
+  display_name: Melanie Maier
+  orcid: https://orcid.org/0000-0003-4158-1473
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125843
+    display_name: University Hospital Leipzig
+    ror: https://ror.org/028hv5492
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Virology, University Hospital Leipzig, Leipzig, Germany
+- author_id: https://openalex.org/A5008436166
+  display_name: Alexander Krannich
+  orcid: https://orcid.org/0000-0002-4025-6495
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Clinical Study Center, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5031699280
+  display_name: Sein Schmidt
+  orcid: https://orcid.org/0000-0002-6698-5717
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Clinical Study Center, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5063781065
+  display_name: Felix Balzer
+  orcid: https://orcid.org/0000-0003-1575-2056
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Anestesiology and Intensive Care Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5077943565
+  display_name: Johannes Liebig
+  orcid: https://orcid.org/0000-0002-9188-036X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5078431852
+  display_name: Jennifer Loske
+  orcid: https://orcid.org/0000-0003-3222-9777
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Molecular Epidemiology Unit, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5040973193
+  display_name: Norbert Suttorp
+  orcid: https://orcid.org/0000-0002-3958-1151
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Infectious Diseases and Respiratory Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin, and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5044191947
+  display_name: Roland Eils
+  orcid: https://orcid.org/0000-0002-0034-4036
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5050689432
+  display_name: Naveed Ishaque
+  orcid: https://orcid.org/0000-0002-8426-901X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5088343134
+  display_name: Uwe G. Liebert
+  orcid: https://orcid.org/0000-0002-5129-0875
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125843
+    display_name: University Hospital Leipzig
+    ror: https://ror.org/028hv5492
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Virology, University Hospital Leipzig, Leipzig, Germany
+- author_id: https://openalex.org/A5084073390
+  display_name: Christof von Kalle
+  orcid: https://orcid.org/0000-0001-9221-3297
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Clinical Study Center, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5021026009
+  display_name: Andreas C. Hocke
+  orcid: https://orcid.org/0000-0002-6935-8612
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Infectious Diseases and Respiratory Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin, and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5048444402
+  display_name: Martin Witzenrath
+  orcid: https://orcid.org/0000-0002-9787-5633
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Infectious Diseases and Respiratory Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin, and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5000861510
+  display_name: Christine Goffinet
+  orcid: https://orcid.org/0000-0002-3959-004X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Berlin Institute of Health (BIH), Berlin, Germany
+- author_id: https://openalex.org/A5011461272
+  display_name: Christian Drosten
+  orcid: https://orcid.org/0000-0001-7923-0519
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Virology, Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate\
+    \ member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4t zu Berlin and\
+    \ Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5068069780
+  display_name: Sven Laudi
+  orcid: https://orcid.org/0000-0002-2117-0944
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125843
+    display_name: University Hospital Leipzig
+    ror: https://ror.org/028hv5492
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesiology and Intensive Care, University Hospital Leipzig,
+    Leipzig, Germany
+- author_id: https://openalex.org/A5067359070
+  display_name: Irina Lehmann
+  orcid: https://orcid.org/0000-0001-8875-5587
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210129183
+    display_name: German Center for Lung Research
+    ror: https://ror.org/03dx11k66
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - German Center for Lung Research (DZL), Berlin, Germany
+- author_id: https://openalex.org/A5072661843
+  display_name: Christian Conrad
+  orcid: https://orcid.org/0000-0001-7036-342X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center for Digital Health, Berlin Institute of Health (BIH) and Charit\xE9 -\
+    \ Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin,\
+    \ Humboldt-Universit\xE4t zu Berlin, Berlin, Germany"
+- author_id: https://openalex.org/A5040615109
+  display_name: Leif Erik Sander
+  orcid: https://orcid.org/0000-0002-0476-9947
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Infectious Diseases and Respiratory Medicine, Charit\xE9 - Universit\xE4\
+    tsmedizin Berlin, corporate member of Freie Universit\xE4t Berlin, Humboldt-Universit\xE4\
+    t zu Berlin, and Berlin Institute of Health (BIH), Berlin, Germany"
+- author_id: https://openalex.org/A5044191947
+  display_name: Roland Eils
+  orcid: https://orcid.org/0000-0002-0034-4036
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210129183
+    display_name: German Center for Lung Research
+    ror: https://ror.org/03dx11k66
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - German Center for Lung Research (DZL), Berlin, Germany
+referenced_works:
+- https://openalex.org/W1923917571
+- https://openalex.org/W1964982019
+- https://openalex.org/W1971771465
+- https://openalex.org/W1980544777
+- https://openalex.org/W1993859345
+- https://openalex.org/W2004238073
+- https://openalex.org/W2028642580
+- https://openalex.org/W2034697578
+- https://openalex.org/W2036582717
+- https://openalex.org/W2044295326
+- https://openalex.org/W2058748576
+- https://openalex.org/W2090978493
+- https://openalex.org/W2096049380
+- https://openalex.org/W2099310552
+- https://openalex.org/W2124328573
+- https://openalex.org/W2124376174
+- https://openalex.org/W2129239355
+- https://openalex.org/W2133402546
+- https://openalex.org/W2137368119
+- https://openalex.org/W2142943804
+- https://openalex.org/W2166617377
+- https://openalex.org/W2193451828
+- https://openalex.org/W2217469901
+- https://openalex.org/W2273090574
+- https://openalex.org/W2286523238
+- https://openalex.org/W2295770513
+- https://openalex.org/W2511022073
+- https://openalex.org/W2559905520
+- https://openalex.org/W2616922646
+- https://openalex.org/W2747877289
+- https://openalex.org/W2805415936
+- https://openalex.org/W2885499809
+- https://openalex.org/W2887886950
+- https://openalex.org/W2901292166
+- https://openalex.org/W2916020270
+- https://openalex.org/W2921735211
+- https://openalex.org/W2949177718
+- https://openalex.org/W2950891712
+- https://openalex.org/W2970563066
+- https://openalex.org/W2975559569
+- https://openalex.org/W3001118548
+- https://openalex.org/W3001195213
+- https://openalex.org/W3004280078
+- https://openalex.org/W3005409321
+- https://openalex.org/W3007935255
+- https://openalex.org/W3008028633
+- https://openalex.org/W3008827533
+- https://openalex.org/W3009335299
+- https://openalex.org/W3009912996
+- https://openalex.org/W3010441732
+- https://openalex.org/W3011134208
+- https://openalex.org/W3011483298
+- https://openalex.org/W3012421327
+- https://openalex.org/W3013843138
+- https://openalex.org/W3013893137
+- https://openalex.org/W3015097594
+- https://openalex.org/W3015134137
+- https://openalex.org/W3017331996
+- https://openalex.org/W3021575042
+- https://openalex.org/W3022248657
+- https://openalex.org/W3022509122
+- https://openalex.org/W3024455343
+- https://openalex.org/W3024643080
+- https://openalex.org/W3114078084
+- https://openalex.org/W3125942575
+- https://openalex.org/W4211207469
+- https://openalex.org/W4241350782
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

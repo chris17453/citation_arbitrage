@@ -1,0 +1,729 @@
+id: https://openalex.org/W3090209681
+doi: https://doi.org/10.1182/bloodadvances.2020001830
+title: 'American Society of Hematology 2020 Guidelines for Management of Venous Thromboembolism:
+  Treatment of Deep Vein Thrombosis and Pulmonary Embolism'
+publication_date: '2020-10-02'
+publication_year: 2020
+cited_by_count: 1157
+citation_percentile: 0.999531
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5069172766
+  display_name: Thomas L. Ortel
+  orcid: https://orcid.org/0000-0001-6193-4585
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I170897317
+    display_name: Duke University
+    ror: https://ror.org/00py81415
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 1Division of Hematology, Department of Medicine, Duke University, Durham NC;
+- author_id: https://openalex.org/A5109094834
+  display_name: Ignacio Neumann
+  orcid: https://orcid.org/0000-0001-8406-6880
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I162148367
+    display_name: "Pontificia Universidad Cat\xF3lica de Chile"
+    ror: https://ror.org/04teye511
+    country_code: CL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2Pontificia Universidad Catolica de Chile, Santiago, Chile;
+- author_id: https://openalex.org/A5081041579
+  display_name: Walter Ageno
+  orcid: https://orcid.org/0000-0002-1922-8879
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 3Department of Medicine and Surgery, University of Insurbria, Varese, Italy;
+- author_id: https://openalex.org/A5014971710
+  display_name: Rebecca J. Beyth
+  orcid: https://orcid.org/0000-0003-1727-1133
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I33213144
+    display_name: University of Florida
+    ror: https://ror.org/02y3ad647
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210104802
+    display_name: Malcom Randall VA Medical Center
+    ror: https://ror.org/01ew49p77
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 4Division of General Internal Medicine, Department of Medicine, University of
+    Florida, Gainesville, FL;
+  - 5Malcolm Randall Veterans Affairs Medical Center, Gainesville, FL;
+- author_id: https://openalex.org/A5084849999
+  display_name: Nathan P. Clark
+  orcid: https://orcid.org/0000-0002-9289-7710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343052199
+    display_name: Kaiser Permanente
+    ror: https://ror.org/00t60zh31
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 6Clinical Pharmacy Anticoagulation Service, Kaiser Permanente, Aurora, CO;
+- author_id: https://openalex.org/A5070714730
+  display_name: Adam Cuker
+  orcid: https://orcid.org/0000-0002-3595-5697
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 7Department of Medicine, Perelman School of Medicine, University of Pennsylvania,
+    Philadelphia, PA;
+- author_id: https://openalex.org/A5015459043
+  display_name: Barbara A. Hutten
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151833
+    display_name: Amsterdam University Medical Centers
+    ror: https://ror.org/05grdyy37
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 8Department of Clinical Epidemiology, Biostatistics and Bioinformatics, Amsterdam
+    Cardiovascular Sciences, Amsterdam UMC, University of Amsterdam, Amsterdam, The
+    Netherlands;
+- author_id: https://openalex.org/A5065985671
+  display_name: Michael R. Jaff
+  orcid: https://orcid.org/0000-0002-3772-5887
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 9Harvard Medical School, Boston, MA;
+- author_id: https://openalex.org/A5028887083
+  display_name: Veena Manja
+  orcid: https://orcid.org/0000-0003-0410-8089
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84218800
+    display_name: University of California, Davis
+    ror: https://ror.org/05rrcem69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210156491
+    display_name: VA Northern California Health Care System
+    ror: https://ror.org/05ts0bd12
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 10University of California Davis, Sacramento, CA;
+  - 11Veterans Affairs Northern California Health Care System, Mather, CA;
+- author_id: https://openalex.org/A5083115765
+  display_name: Sam Schulman
+  orcid: https://orcid.org/0000-0002-8512-9043
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155985
+    display_name: Thrombosis and Atherosclerosis Research Institute
+    ror: https://ror.org/04j9w6p53
+    country_code: CA
+    type: facility
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I17877952
+    display_name: Sechenov University
+    ror: https://ror.org/02yqqv993
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 12Department of Medicine, Thrombosis and Atherosclerosis Research Institute, McMaster
+    University, Hamilton, ON, Canada;
+  - 13Department of Obstetrics and Gynecology, I.M. Sechenov First Moscow State Medical
+    University, Moscow, Russia;
+- author_id: https://openalex.org/A5047742174
+  display_name: Caitlin Thurston
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 14May-Thurner Syndrome Resource Network;
+- author_id: https://openalex.org/A5078547117
+  display_name: Suresh Vedantham
+  orcid: https://orcid.org/0000-0002-5734-7553
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204465549
+    display_name: Washington University in St. Louis
+    ror: https://ror.org/01yc7t268
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 15Division of Diagnostic Radiology, Washington University School of Medicine in
+    St. Louis, St. Louis, MO;
+- author_id: https://openalex.org/A5057802451
+  display_name: Peter Verhamme
+  orcid: https://orcid.org/0000-0001-8698-2858
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99464096
+    display_name: KU Leuven
+    ror: https://ror.org/05f950310
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 16KU Leuven Department of Cardiovascular Sciences, University of Leuven, Leuven,
+    Belgium;
+- author_id: https://openalex.org/A5014865134
+  display_name: Daniel M. Witt
+  orcid: https://orcid.org/0000-0002-3930-8358
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I223532165
+    display_name: University of Utah
+    ror: https://ror.org/03r0ha626
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 17Department of Pharmacotherapy, College of Pharmacy, University of Utah, Salt
+    Lake City, UT;
+- author_id: https://openalex.org/A5038341180
+  display_name: "Iv\xE1n D. Fl\xF3rez"
+  orcid: https://orcid.org/0000-0002-0751-8932
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35961687
+    display_name: Universidad de Antioquia
+    ror: https://ror.org/03bp5hc83
+    country_code: CO
+    type: funder
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210161256
+    display_name: Impact
+    ror: https://ror.org/05d9dsr70
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 18Department of Pediatrics, University of Antioquia, Medellin, Colombia;
+  - 19Department of Health Research Methods, Evidence, and Impact, McMaster University,
+    Hamilton, ON, Canada;
+- author_id: https://openalex.org/A5028653674
+  display_name: Ariel Izcovich
+  orcid: https://orcid.org/0000-0001-9053-4396
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 20Internal Medicine Department, German Hospital, Buenos Aires, Argentina; and
+- author_id: https://openalex.org/A5046875895
+  display_name: Robby Nieuwlaat
+  orcid: https://orcid.org/0000-0002-5267-7748
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210161256
+    display_name: Impact
+    ror: https://ror.org/05d9dsr70
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 19Department of Health Research Methods, Evidence, and Impact, McMaster University,
+    Hamilton, ON, Canada;
+- author_id: https://openalex.org/A5103125515
+  display_name: Stephanie Ross
+  orcid: https://orcid.org/0000-0003-3669-8263
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210161256
+    display_name: Impact
+    ror: https://ror.org/05d9dsr70
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 19Department of Health Research Methods, Evidence, and Impact, McMaster University,
+    Hamilton, ON, Canada;
+- author_id: https://openalex.org/A5071868716
+  display_name: "Holger J. Sch\xFCnemann"
+  orcid: https://orcid.org/0000-0003-3211-8479
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210161256
+    display_name: Impact
+    ror: https://ror.org/05d9dsr70
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 19Department of Health Research Methods, Evidence, and Impact, McMaster University,
+    Hamilton, ON, Canada;
+  - 21Department of Medicine, McMaster University, Hamilton, ON, Canada
+- author_id: https://openalex.org/A5048499112
+  display_name: Wojtek Wiercioch
+  orcid: https://orcid.org/0000-0001-6576-1650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210161256
+    display_name: Impact
+    ror: https://ror.org/05d9dsr70
+    country_code: CA
+    type: nonprofit
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 19Department of Health Research Methods, Evidence, and Impact, McMaster University,
+    Hamilton, ON, Canada;
+- author_id: https://openalex.org/A5100368706
+  display_name: Yuan Zhang
+  orcid: https://orcid.org/0000-0002-4174-0641
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210161256
+    display_name: Impact
+    ror: https://ror.org/05d9dsr70
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 19Department of Health Research Methods, Evidence, and Impact, McMaster University,
+    Hamilton, ON, Canada;
+- author_id: https://openalex.org/A5085370636
+  display_name: Yuqing Zhang
+  orcid: https://orcid.org/0000-0001-8142-8305
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210161256
+    display_name: Impact
+    ror: https://ror.org/05d9dsr70
+    country_code: CA
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 19Department of Health Research Methods, Evidence, and Impact, McMaster University,
+    Hamilton, ON, Canada;
+referenced_works:
+- https://openalex.org/W114758106
+- https://openalex.org/W1260428
+- https://openalex.org/W143848608
+- https://openalex.org/W1485679010
+- https://openalex.org/W1502145697
+- https://openalex.org/W1524501969
+- https://openalex.org/W1551336557
+- https://openalex.org/W1597337165
+- https://openalex.org/W164797995
+- https://openalex.org/W1682855480
+- https://openalex.org/W1732278986
+- https://openalex.org/W1755169597
+- https://openalex.org/W1764806920
+- https://openalex.org/W1782024978
+- https://openalex.org/W1797564483
+- https://openalex.org/W1830075536
+- https://openalex.org/W1847190482
+- https://openalex.org/W1862215667
+- https://openalex.org/W1906867451
+- https://openalex.org/W1908644651
+- https://openalex.org/W1910295818
+- https://openalex.org/W1924958570
+- https://openalex.org/W1927677912
+- https://openalex.org/W1928216779
+- https://openalex.org/W1930113394
+- https://openalex.org/W194381184
+- https://openalex.org/W1953015074
+- https://openalex.org/W1955113749
+- https://openalex.org/W195975622
+- https://openalex.org/W1964425295
+- https://openalex.org/W1967325450
+- https://openalex.org/W1967937963
+- https://openalex.org/W1968962920
+- https://openalex.org/W1969552738
+- https://openalex.org/W1970889259
+- https://openalex.org/W1971241418
+- https://openalex.org/W1973598884
+- https://openalex.org/W1974267405
+- https://openalex.org/W1974449165
+- https://openalex.org/W1974761054
+- https://openalex.org/W1975857534
+- https://openalex.org/W1975990989
+- https://openalex.org/W1976273461
+- https://openalex.org/W1977764501
+- https://openalex.org/W1978243757
+- https://openalex.org/W1981316005
+- https://openalex.org/W198345773
+- https://openalex.org/W1983782921
+- https://openalex.org/W1985053734
+- https://openalex.org/W1985935781
+- https://openalex.org/W1986454124
+- https://openalex.org/W1989904885
+- https://openalex.org/W1990584834
+- https://openalex.org/W1991549653
+- https://openalex.org/W1992868987
+- https://openalex.org/W1993443958
+- https://openalex.org/W1995077918
+- https://openalex.org/W1996604312
+- https://openalex.org/W1997277648
+- https://openalex.org/W1997534178
+- https://openalex.org/W1998593385
+- https://openalex.org/W2000639116
+- https://openalex.org/W2001027084
+- https://openalex.org/W2002821499
+- https://openalex.org/W2003601153
+- https://openalex.org/W2003770737
+- https://openalex.org/W2003771701
+- https://openalex.org/W2004344226
+- https://openalex.org/W2006109002
+- https://openalex.org/W2006326959
+- https://openalex.org/W2007680892
+- https://openalex.org/W2007943712
+- https://openalex.org/W2008209956
+- https://openalex.org/W2009013630
+- https://openalex.org/W2009344499
+- https://openalex.org/W2010149513
+- https://openalex.org/W2011127570
+- https://openalex.org/W2011351675
+- https://openalex.org/W2011611174
+- https://openalex.org/W2012042329
+- https://openalex.org/W2013764507
+- https://openalex.org/W2014491911
+- https://openalex.org/W2016609963
+- https://openalex.org/W2016907231
+- https://openalex.org/W2018076981
+- https://openalex.org/W2019242730
+- https://openalex.org/W2020475451
+- https://openalex.org/W2021406305
+- https://openalex.org/W2021490174
+- https://openalex.org/W2024232617
+- https://openalex.org/W2024687690
+- https://openalex.org/W2025178523
+- https://openalex.org/W2025593901
+- https://openalex.org/W2026101070
+- https://openalex.org/W2026637783
+- https://openalex.org/W2026971812
+- https://openalex.org/W2027446606
+- https://openalex.org/W2028678981
+- https://openalex.org/W2028762958
+- https://openalex.org/W2031850616
+- https://openalex.org/W2032267975
+- https://openalex.org/W2032284721
+- https://openalex.org/W2033150840
+- https://openalex.org/W2035100900
+- https://openalex.org/W2036506340
+- https://openalex.org/W2037998530
+- https://openalex.org/W2041176958
+- https://openalex.org/W2041294294
+- https://openalex.org/W2042044265
+- https://openalex.org/W2043306284
+- https://openalex.org/W2045352418
+- https://openalex.org/W2046051565
+- https://openalex.org/W2047143536
+- https://openalex.org/W2047986798
+- https://openalex.org/W2050992159
+- https://openalex.org/W2051396185
+- https://openalex.org/W2052174005
+- https://openalex.org/W2052282840
+- https://openalex.org/W2055149347
+- https://openalex.org/W2058979696
+- https://openalex.org/W2059305858
+- https://openalex.org/W2061934233
+- https://openalex.org/W2062216843
+- https://openalex.org/W2065472465
+- https://openalex.org/W2067254496
+- https://openalex.org/W2070580453
+- https://openalex.org/W2071449669
+- https://openalex.org/W2071869524
+- https://openalex.org/W2072580222
+- https://openalex.org/W2073700468
+- https://openalex.org/W2074708727
+- https://openalex.org/W2075359369
+- https://openalex.org/W2075776825
+- https://openalex.org/W2076221677
+- https://openalex.org/W2076621544
+- https://openalex.org/W2079259064
+- https://openalex.org/W2080972637
+- https://openalex.org/W2080994524
+- https://openalex.org/W2082315647
+- https://openalex.org/W2083311316
+- https://openalex.org/W2083658263
+- https://openalex.org/W2084120378
+- https://openalex.org/W2086444959
+- https://openalex.org/W2087002320
+- https://openalex.org/W2088335470
+- https://openalex.org/W2092123807
+- https://openalex.org/W2092324872
+- https://openalex.org/W2092519919
+- https://openalex.org/W2093770301
+- https://openalex.org/W2094559045
+- https://openalex.org/W2095107884
+- https://openalex.org/W2095151586
+- https://openalex.org/W2097121510
+- https://openalex.org/W2100079696
+- https://openalex.org/W2100213155
+- https://openalex.org/W2100283122
+- https://openalex.org/W2100487920
+- https://openalex.org/W2100824078
+- https://openalex.org/W2100964332
+- https://openalex.org/W2101676705
+- https://openalex.org/W2102380178
+- https://openalex.org/W2102535207
+- https://openalex.org/W2102778065
+- https://openalex.org/W2103286082
+- https://openalex.org/W2103326534
+- https://openalex.org/W2103399758
+- https://openalex.org/W2104675861
+- https://openalex.org/W2104841305
+- https://openalex.org/W2105077761
+- https://openalex.org/W2109257283
+- https://openalex.org/W2109780115
+- https://openalex.org/W2109831653
+- https://openalex.org/W2110078301
+- https://openalex.org/W2110112924
+- https://openalex.org/W2110891636
+- https://openalex.org/W2110973144
+- https://openalex.org/W2111685592
+- https://openalex.org/W2112378432
+- https://openalex.org/W2112757583
+- https://openalex.org/W2113530759
+- https://openalex.org/W2113561246
+- https://openalex.org/W2113940702
+- https://openalex.org/W2114189419
+- https://openalex.org/W2115787552
+- https://openalex.org/W2117117885
+- https://openalex.org/W2118092611
+- https://openalex.org/W2118150212
+- https://openalex.org/W2120589942
+- https://openalex.org/W2120903315
+- https://openalex.org/W2121600994
+- https://openalex.org/W2122575726
+- https://openalex.org/W2126286036
+- https://openalex.org/W2126904738
+- https://openalex.org/W2127123953
+- https://openalex.org/W2129225854
+- https://openalex.org/W2129593751
+- https://openalex.org/W2130199362
+- https://openalex.org/W2130495001
+- https://openalex.org/W2131099415
+- https://openalex.org/W2131341761
+- https://openalex.org/W2132914580
+- https://openalex.org/W2133686162
+- https://openalex.org/W2134430286
+- https://openalex.org/W2135918458
+- https://openalex.org/W2137914777
+- https://openalex.org/W2139785591
+- https://openalex.org/W2141379385
+- https://openalex.org/W2142115615
+- https://openalex.org/W2142823735
+- https://openalex.org/W2143271708
+- https://openalex.org/W2144328416
+- https://openalex.org/W2144491316
+- https://openalex.org/W2144607086
+- https://openalex.org/W2147399115
+- https://openalex.org/W2148671359
+- https://openalex.org/W2150743528
+- https://openalex.org/W2152634120
+- https://openalex.org/W2154585516
+- https://openalex.org/W2155288407
+- https://openalex.org/W2156573757
+- https://openalex.org/W2156917466
+- https://openalex.org/W2159007980
+- https://openalex.org/W2160625453
+- https://openalex.org/W2161945419
+- https://openalex.org/W2162531249
+- https://openalex.org/W2163451556
+- https://openalex.org/W2164093331
+- https://openalex.org/W2164268628
+- https://openalex.org/W2165010366
+- https://openalex.org/W2165618335
+- https://openalex.org/W2166361233
+- https://openalex.org/W2166402206
+- https://openalex.org/W2167149931
+- https://openalex.org/W2168248028
+- https://openalex.org/W2169472792
+- https://openalex.org/W2171381436
+- https://openalex.org/W2172299037
+- https://openalex.org/W2175758867
+- https://openalex.org/W2180178994
+- https://openalex.org/W2183423039
+- https://openalex.org/W218347484
+- https://openalex.org/W2188507800
+- https://openalex.org/W2195501587
+- https://openalex.org/W2203943829
+- https://openalex.org/W2211181735
+- https://openalex.org/W2225937646
+- https://openalex.org/W2228740321
+- https://openalex.org/W2236152156
+- https://openalex.org/W2262803926
+- https://openalex.org/W2279529838
+- https://openalex.org/W2281906779
+- https://openalex.org/W2284149813
+- https://openalex.org/W2287629266
+- https://openalex.org/W2289712982
+- https://openalex.org/W2289872081
+- https://openalex.org/W2297269021
+- https://openalex.org/W2300391286
+- https://openalex.org/W2305858505
+- https://openalex.org/W2311943189
+- https://openalex.org/W2312814626
+- https://openalex.org/W2314342429
+- https://openalex.org/W2315417241
+- https://openalex.org/W2327033692
+- https://openalex.org/W2329311416
+- https://openalex.org/W2329807754
+- https://openalex.org/W2331379301
+- https://openalex.org/W2331935930
+- https://openalex.org/W2332320503
+- https://openalex.org/W2332640098
+- https://openalex.org/W2333852808
+- https://openalex.org/W2336061167
+- https://openalex.org/W2338244864
+- https://openalex.org/W2342200163
+- https://openalex.org/W2346047977
+- https://openalex.org/W2352106300
+- https://openalex.org/W2359520403
+- https://openalex.org/W2396660257
+- https://openalex.org/W2398701378
+- https://openalex.org/W2399723679
+- https://openalex.org/W2411143284
+- https://openalex.org/W2412725051
+- https://openalex.org/W2412926107
+- https://openalex.org/W2415693239
+- https://openalex.org/W2416465315
+- https://openalex.org/W2418205415
+- https://openalex.org/W2470058069
+- https://openalex.org/W2470169533
+- https://openalex.org/W2472937910
+- https://openalex.org/W2473559982
+- https://openalex.org/W2484601181
+- https://openalex.org/W2502528065
+- https://openalex.org/W2504803136
+- https://openalex.org/W2509795914
+- https://openalex.org/W2513176639
+- https://openalex.org/W2516424250
+- https://openalex.org/W2520377114
+- https://openalex.org/W2528915441
+- https://openalex.org/W2533752036
+- https://openalex.org/W2538602808
+- https://openalex.org/W2547585100
+- https://openalex.org/W2558696737
+- https://openalex.org/W2564721502
+- https://openalex.org/W2568332688
+- https://openalex.org/W2583743277
+- https://openalex.org/W2587599730
+- https://openalex.org/W2588681363
+- https://openalex.org/W2590995222
+- https://openalex.org/W2595086780
+- https://openalex.org/W2595581694
+- https://openalex.org/W2599324752
+- https://openalex.org/W2612885052
+- https://openalex.org/W2617874505
+- https://openalex.org/W2727978886
+- https://openalex.org/W2774186378
+- https://openalex.org/W2781608597
+- https://openalex.org/W2793071797
+- https://openalex.org/W2804629086
+- https://openalex.org/W2811226479
+- https://openalex.org/W2886835568
+- https://openalex.org/W2890022717
+- https://openalex.org/W2899841865
+- https://openalex.org/W2902233584
+- https://openalex.org/W2902914300
+- https://openalex.org/W2903321081
+- https://openalex.org/W2904680572
+- https://openalex.org/W2913591201
+- https://openalex.org/W2921331175
+- https://openalex.org/W2929604573
+- https://openalex.org/W293298230
+- https://openalex.org/W2954834411
+- https://openalex.org/W2965902396
+- https://openalex.org/W2971121646
+- https://openalex.org/W2979589483
+- https://openalex.org/W2979755394
+- https://openalex.org/W2980553245
+- https://openalex.org/W2980875296
+- https://openalex.org/W298994573
+- https://openalex.org/W2995112676
+- https://openalex.org/W300012118
+- https://openalex.org/W3021174305
+- https://openalex.org/W3021544616
+- https://openalex.org/W3030429552
+- https://openalex.org/W3031702562
+- https://openalex.org/W3085976509
+- https://openalex.org/W3114275540
+- https://openalex.org/W3124515628
+- https://openalex.org/W4210791920
+- https://openalex.org/W4211062063
+- https://openalex.org/W4214640638
+- https://openalex.org/W4232449809
+- https://openalex.org/W4245399656
+- https://openalex.org/W4249634582
+- https://openalex.org/W4285719527
+- https://openalex.org/W4301683752
+- https://openalex.org/W4323283547
+- https://openalex.org/W55954674
+- https://openalex.org/W781404371
+- https://openalex.org/W84643353
+- https://openalex.org/W877982542
+primary_topic: Venous Thromboembolism Diagnosis and Management
+open_access: true

@@ -1,0 +1,657 @@
+id: https://openalex.org/W3042099287
+doi: https://doi.org/10.1038/s41564-020-0761-6
+title: "Analytical sensitivity and efficiency comparisons of SARS-CoV-2 RT\u2013qPCR\
+  \ primer\u2013probe sets"
+publication_date: '2020-07-10'
+publication_year: 2020
+cited_by_count: 842
+citation_percentile: 0.999954
+pagerank: 3.080436144228513e-06
+authorships:
+- author_id: https://openalex.org/A5020712494
+  display_name: Chantal B. F. Vogels
+  orcid: https://orcid.org/0000-0003-0027-6480
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5012368380
+  display_name: Anderson F. Brito
+  orcid: https://orcid.org/0000-0001-5785-7222
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5013270892
+  display_name: Anne L. Wyllie
+  orcid: https://orcid.org/0000-0001-6015-0279
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5001625155
+  display_name: Joseph R. Fauver
+  orcid: https://orcid.org/0000-0001-8099-2991
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5028206184
+  display_name: Isabel M. Ott
+  orcid: https://orcid.org/0000-0002-7134-0956
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5018621961
+  display_name: Chaney C. Kalinich
+  orcid: https://orcid.org/0000-0001-9675-0065
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5031068079
+  display_name: Mary E. Petrone
+  orcid: https://orcid.org/0000-0002-3663-7535
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5010144036
+  display_name: "Arnau Casanovas\u2010Massana"
+  orcid: https://orcid.org/0000-0002-3301-6143
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5023710828
+  display_name: M. Catherine Muenker
+  orcid: https://orcid.org/0000-0002-0450-0868
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5103135850
+  display_name: Adam J. Moore
+  orcid: https://orcid.org/0000-0001-8961-1737
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5052350137
+  display_name: Jon Klein
+  orcid: https://orcid.org/0000-0002-3552-7684
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5025570071
+  display_name: Peiwen Lu
+  orcid: https://orcid.org/0000-0001-6118-872X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5049570551
+  display_name: Alice Lu-Culligan
+  orcid: https://orcid.org/0000-0003-0097-0923
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5103136319
+  display_name: Xiaodong Jiang
+  orcid: https://orcid.org/0000-0003-2273-7196
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5023863463
+  display_name: Daniel J. Kim
+  orcid: https://orcid.org/0000-0003-4351-8224
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5072197843
+  display_name: Eriko Kudo
+  orcid: https://orcid.org/0000-0002-6345-4531
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5045653060
+  display_name: Tianyang Mao
+  orcid: https://orcid.org/0000-0001-9251-8592
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5073501842
+  display_name: Miyu Moriyama
+  orcid: https://orcid.org/0000-0003-0310-9047
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5063227298
+  display_name: Ji Eun Oh
+  orcid: https://orcid.org/0000-0003-2511-7064
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5083196693
+  display_name: Annsea Park
+  orcid: https://orcid.org/0000-0001-7903-1122
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5004632603
+  display_name: Julio Silva
+  orcid: https://orcid.org/0000-0001-8212-7440
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5080631441
+  display_name: Eric Song
+  orcid: https://orcid.org/0000-0001-5448-5865
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5065468368
+  display_name: Takehiro Takahashi
+  orcid: https://orcid.org/0000-0002-1061-356X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5004262871
+  display_name: Manabu Taura
+  orcid: https://orcid.org/0000-0001-9577-8007
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5068520788
+  display_name: Maria Tokuyama
+  orcid: https://orcid.org/0000-0002-9568-9300
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5079889339
+  display_name: Arvind Venkataraman
+  orcid: https://orcid.org/0000-0003-1148-4402
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5005149073
+  display_name: Orr-El Weizman
+  orcid: https://orcid.org/0000-0002-1132-8170
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5101463381
+  display_name: Patrick Wong
+  orcid: https://orcid.org/0000-0002-1169-6395
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5037036367
+  display_name: Yexin Yang
+  orcid: https://orcid.org/0000-0003-2968-9860
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Immunobiology, Yale University School of Medicine, New Haven, CT,
+    USA
+- author_id: https://openalex.org/A5051870329
+  display_name: Nagarjuna R. Cheemarla
+  orcid: https://orcid.org/0000-0002-8860-2457
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine, Yale University School of Medicine, New Haven,
+    CT, USA
+- author_id: https://openalex.org/A5067644323
+  display_name: Elizabeth B. White
+  orcid: https://orcid.org/0000-0002-9242-3507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5001172719
+  display_name: Sarah Lapidus
+  orcid: https://orcid.org/0000-0002-2706-9361
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5080358188
+  display_name: Rebecca Earnest
+  orcid: https://orcid.org/0000-0001-6555-8409
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5008391946
+  display_name: Bertie Geng
+  orcid: https://orcid.org/0000-0001-9764-7043
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Obstetrics, Gynecology, and Reproductive Sciences, Yale University
+    School of Medicine, New Haven, CT, USA
+- author_id: https://openalex.org/A5082953384
+  display_name: Pavithra Vijayakumar
+  orcid: https://orcid.org/0000-0001-9191-7671
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Obstetrics, Gynecology, and Reproductive Sciences, Yale University
+    School of Medicine, New Haven, CT, USA
+- author_id: https://openalex.org/A5029590445
+  display_name: Camila D. Odio
+  orcid: https://orcid.org/0000-0002-1730-4380
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117499
+    display_name: Yale New Haven Health System
+    ror: https://ror.org/01s1hsq14
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Northeast Medical Group, Yale-New Haven Health, New Haven,
+    CT, USA
+- author_id: https://openalex.org/A5062734741
+  display_name: John Fournier
+  orcid: https://orcid.org/0000-0001-8320-4268
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Section of Infectious Diseases, Yale University School
+    of Medicine, New Haven, CT, USA
+- author_id: https://openalex.org/A5027197282
+  display_name: Santos Bermejo
+  orcid: https://orcid.org/0000-0003-0078-1989
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Section of Pulmonary, Critical Care, and Sleep
+    Medicine, Yale University School of Medicine, New Haven, CT, USA
+- author_id: https://openalex.org/A5027910269
+  display_name: Shelli Farhadian
+  orcid: https://orcid.org/0000-0001-7230-1409
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Section of Infectious Diseases, Yale University School
+    of Medicine, New Haven, CT, USA
+- author_id: https://openalex.org/A5016891336
+  display_name: Charles S. Dela Cruz
+  orcid: https://orcid.org/0000-0002-5258-1797
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Internal Medicine, Section of Pulmonary, Critical Care, and Sleep
+    Medicine, Yale University School of Medicine, New Haven, CT, USA
+- author_id: https://openalex.org/A5010263068
+  display_name: Akiko Iwasaki
+  orcid: https://orcid.org/0000-0002-7824-9856
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Howard Hughes Medical Institute, Chevy Chase, MD, USA
+- author_id: https://openalex.org/A5013047524
+  display_name: Albert I. Ko
+  orcid: https://orcid.org/0000-0001-9023-2339
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+- author_id: https://openalex.org/A5029034576
+  display_name: Marie L. Landry
+  orcid: https://orcid.org/0000-0001-5543-8366
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Section of Infectious Diseases, Yale University School
+    of Medicine, New Haven, CT, USA
+- author_id: https://openalex.org/A5081608753
+  display_name: Ellen F. Foxman
+  orcid: https://orcid.org/0000-0001-9767-9942
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine, Yale University School of Medicine, New Haven,
+    CT, USA
+- author_id: https://openalex.org/A5011053422
+  display_name: Nathan D. Grubaugh
+  orcid: https://orcid.org/0000-0003-2031-1933
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology of Microbial Diseases, Yale School of Public Health,
+    New Haven, CT, USA
+referenced_works:
+- https://openalex.org/W2009016631
+- https://openalex.org/W2123621585
+- https://openalex.org/W2149903385
+- https://openalex.org/W2151308724
+- https://openalex.org/W3000252659
+- https://openalex.org/W3001195213
+- https://openalex.org/W3003217347
+- https://openalex.org/W3003637715
+- https://openalex.org/W3004280078
+- https://openalex.org/W3005111420
+- https://openalex.org/W3009584253
+- https://openalex.org/W3011383524
+- https://openalex.org/W3014989172
+- https://openalex.org/W3042189086
+- https://openalex.org/W3170774591
+primary_topic: SARS-CoV-2 detection and testing
+open_access: true

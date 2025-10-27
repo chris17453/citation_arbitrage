@@ -1,0 +1,660 @@
+id: https://openalex.org/W3217661335
+doi: https://doi.org/10.1126/science.abm3425
+title: Immune correlates analysis of the mRNA-1273 COVID-19 vaccine efficacy clinical
+  trial
+publication_date: '2022-01-06'
+publication_year: 2022
+cited_by_count: 1079
+citation_percentile: 0.999952
+pagerank: 2.589503979007233e-06
+authorships:
+- author_id: https://openalex.org/A5085731242
+  display_name: Peter B. Gilbert
+  orcid: https://orcid.org/0000-0002-2662-9427
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, University of Washington, Seattle, WA, USA.
+  - Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle,
+    WA, USA.
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5004036928
+  display_name: David C. Montefiori
+  orcid: https://orcid.org/0000-0003-0856-6319
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126298
+    display_name: Duke Medical Center
+    ror: https://ror.org/03njmea73
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery and Duke Human Vaccine Institute, Duke University Medical
+    Center, Durham, NC, USA.
+- author_id: https://openalex.org/A5000950209
+  display_name: Adrian B. McDermott
+  orcid: https://orcid.org/0000-0003-0616-9117
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine Research Center, National Institute of Allergy and Infectious Diseases,
+    National Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5069748200
+  display_name: Youyi Fong
+  orcid: https://orcid.org/0000-0002-4230-6863
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle,
+    WA, USA.
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5019357485
+  display_name: David Benkeser
+  orcid: https://orcid.org/0000-0002-1019-8343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics and Bioinformatics, Rollins School of Public Health,
+    Emory University, Atlanta, GA, USA.
+- author_id: https://openalex.org/A5000243107
+  display_name: Weiping Deng
+  orcid: https://orcid.org/0000-0002-9825-3297
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108601
+    display_name: Moderna Therapeutics (United States)
+    ror: https://ror.org/01xm4wg91
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Moderna, Inc., Cambridge, MA, USA.
+- author_id: https://openalex.org/A5016101422
+  display_name: Haiyu Zhou
+  orcid: https://orcid.org/0000-0002-3328-6792
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108601
+    display_name: Moderna Therapeutics (United States)
+    ror: https://ror.org/01xm4wg91
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Moderna, Inc., Cambridge, MA, USA.
+- author_id: https://openalex.org/A5021959335
+  display_name: Christopher R. Houchens
+  orcid: https://orcid.org/0000-0001-8125-4173
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801182042
+    display_name: Biomedical Advanced Research and Development Authority
+    ror: https://ror.org/029y69023
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Advanced Research and Development Authority, Washington, DC, USA.
+- author_id: https://openalex.org/A5053577218
+  display_name: Karen Martins
+  orcid: https://orcid.org/0000-0001-6536-3492
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801182042
+    display_name: Biomedical Advanced Research and Development Authority
+    ror: https://ror.org/029y69023
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Advanced Research and Development Authority, Washington, DC, USA.
+- author_id: https://openalex.org/A5039529693
+  display_name: Lakshmi Jayashankar
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801182042
+    display_name: Biomedical Advanced Research and Development Authority
+    ror: https://ror.org/029y69023
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Advanced Research and Development Authority, Washington, DC, USA.
+- author_id: https://openalex.org/A5013178279
+  display_name: Flora Castellino
+  orcid: https://orcid.org/0000-0002-3432-9846
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801182042
+    display_name: Biomedical Advanced Research and Development Authority
+    ror: https://ror.org/029y69023
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Advanced Research and Development Authority, Washington, DC, USA.
+- author_id: https://openalex.org/A5032921214
+  display_name: Britta Flach
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine Research Center, National Institute of Allergy and Infectious Diseases,
+    National Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5018055017
+  display_name: Bob C. Lin
+  orcid: https://orcid.org/0000-0002-1373-1406
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine Research Center, National Institute of Allergy and Infectious Diseases,
+    National Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5071037404
+  display_name: "Sarah O\u2019Connell"
+  orcid: https://orcid.org/0000-0002-1645-0722
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine Research Center, National Institute of Allergy and Infectious Diseases,
+    National Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5036875391
+  display_name: Charlene McDanal
+  orcid: https://orcid.org/0000-0002-4177-5561
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126298
+    display_name: Duke Medical Center
+    ror: https://ror.org/03njmea73
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery and Duke Human Vaccine Institute, Duke University Medical
+    Center, Durham, NC, USA.
+- author_id: https://openalex.org/A5037484386
+  display_name: Amanda Eaton
+  orcid: https://orcid.org/0000-0003-3064-2947
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126298
+    display_name: Duke Medical Center
+    ror: https://ror.org/03njmea73
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery and Duke Human Vaccine Institute, Duke University Medical
+    Center, Durham, NC, USA.
+- author_id: https://openalex.org/A5058407839
+  display_name: "Marcella Sarzotti\u2010Kelsoe"
+  orcid: https://orcid.org/0000-0001-7392-6072
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126298
+    display_name: Duke Medical Center
+    ror: https://ror.org/03njmea73
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Surgery and Duke Human Vaccine Institute, Duke University Medical
+    Center, Durham, NC, USA.
+- author_id: https://openalex.org/A5051696264
+  display_name: Yiwen Lu
+  orcid: https://orcid.org/0000-0003-4921-7406
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5064259175
+  display_name: Chenchen Yu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5083172043
+  display_name: Bhavesh Borate
+  orcid: https://orcid.org/0000-0001-8392-7634
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5029754572
+  display_name: Lars W. P. van der Laan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5074787043
+  display_name: Nima S. Hejazi
+  orcid: https://orcid.org/0000-0002-7127-2789
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Biostatistics, School of Public Health, University of California Berkeley,
+    Berkeley, CA, USA.
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5079509349
+  display_name: Chuong Huynh
+  orcid: https://orcid.org/0000-0003-1696-8617
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801182042
+    display_name: Biomedical Advanced Research and Development Authority
+    ror: https://ror.org/029y69023
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Advanced Research and Development Authority, Washington, DC, USA.
+- author_id: https://openalex.org/A5060640852
+  display_name: Jacqueline M. Miller
+  orcid: https://orcid.org/0000-0002-7083-2182
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108601
+    display_name: Moderna Therapeutics (United States)
+    ror: https://ror.org/01xm4wg91
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Moderna, Inc., Cambridge, MA, USA.
+- author_id: https://openalex.org/A5025421448
+  display_name: Hana M. El Sahly
+  orcid: https://orcid.org/0000-0003-0489-0074
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181547552
+    display_name: Baylor College of Medicine
+    ror: https://ror.org/02pttbw34
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular Virology and Microbiology, Baylor College of Medicine,
+    Houston, TX, USA.
+- author_id: https://openalex.org/A5091029647
+  display_name: Lindsey R. Baden
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1283280774
+    display_name: Brigham and Women's Hospital
+    ror: https://ror.org/04b6nzv94
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Brigham and Women\u2019s Hospital, Boston, MA, USA."
+- author_id: https://openalex.org/A5075451688
+  display_name: Mira Baron
+  orcid: https://orcid.org/0000-0001-8833-3659
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210100958
+    display_name: Palm Beach Neurology
+    ror: https://ror.org/01bn2tj09
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I4210134238
+    display_name: Palm Beach Research Center
+    ror: https://ror.org/03b6j7b16
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Palm Beach Research Center, West Palm Beach, FL, USA.
+- author_id: https://openalex.org/A5014613098
+  display_name: "Luis de la Cruz\u2010Merino"
+  orcid: https://orcid.org/0000-0002-5333-0535
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Keystone Vitalink Research, Greenville, SC, USA.
+- author_id: https://openalex.org/A5049794472
+  display_name: Cynthia L. Gay
+  orcid: https://orcid.org/0000-0002-3620-3059
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Division of Infectious Diseases, UNC HIV Cure Center,
+    University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, NC,
+    USA.
+- author_id: https://openalex.org/A5067647063
+  display_name: Spyros A. Kalams
+  orcid: https://orcid.org/0000-0003-0098-7995
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I901861585
+    display_name: Vanderbilt University Medical Center
+    ror: https://ror.org/05dq2gs74
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Diseases, Department of Medicine, Vanderbilt University
+    Medical Center, Nashville, TN, USA.
+- author_id: https://openalex.org/A5082479644
+  display_name: Colleen F. Kelley
+  orcid: https://orcid.org/0000-0001-5611-0119
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150468666
+    display_name: Emory University
+    ror: https://ror.org/03czfpz43
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210092882
+    display_name: Grady Health System
+    ror: https://ror.org/00k1xr956
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infectious Diseases, Department of Medicine, Emory University School
+    of Medicine and the Grady Health System, Atlanta, GA, USA.
+- author_id: https://openalex.org/A5007289352
+  display_name: Michele P. Andrasik
+  orcid: https://orcid.org/0000-0003-1952-7825
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5028172291
+  display_name: James G. Kublin
+  orcid: https://orcid.org/0000-0003-1279-3741
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5061167455
+  display_name: Lawrence Corey
+  orcid: https://orcid.org/0000-0002-2179-2436
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine and Pathology, University of Washington, Seattle,
+    WA, USA.
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5051550648
+  display_name: Kathleen M. Neuzil
+  orcid: https://orcid.org/0000-0001-9480-2714
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I126744593
+    display_name: University of Maryland, Baltimore
+    ror: https://ror.org/04rq5mt64
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Vaccine Development and Global Health, University of Maryland School
+    of Medicine, Baltimore, MD, USA.
+- author_id: https://openalex.org/A5085762412
+  display_name: Lindsay N. Carpp
+  orcid: https://orcid.org/0000-0003-0333-5925
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210089486
+    display_name: Fred Hutch Cancer Center
+    ror: https://ror.org/007ps6h72
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center,
+    Seattle, WA, USA.
+- author_id: https://openalex.org/A5039671566
+  display_name: "Rolando Paj\xF3n"
+  orcid: https://orcid.org/0000-0002-5155-5079
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108601
+    display_name: Moderna Therapeutics (United States)
+    ror: https://ror.org/01xm4wg91
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Moderna, Inc., Cambridge, MA, USA.
+- author_id: https://openalex.org/A5056611428
+  display_name: Dean Follmann
+  orcid: https://orcid.org/0000-0003-4073-0393
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biostatistics Research Branch, National Institute of Allergy and Infectious Diseases,
+    National Institutes of Health, Bethesda, MD, USA.
+- author_id: https://openalex.org/A5002540504
+  display_name: "Rub\xE9n O. Donis"
+  orcid: https://orcid.org/0000-0001-6137-8312
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801182042
+    display_name: Biomedical Advanced Research and Development Authority
+    ror: https://ror.org/029y69023
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Advanced Research and Development Authority, Washington, DC, USA.
+- author_id: https://openalex.org/A5020230187
+  display_name: Richard A. Koup
+  orcid: https://orcid.org/0000-0002-3090-7282
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210134534
+    display_name: National Institute of Allergy and Infectious Diseases
+    ror: https://ror.org/043z4tv69
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Vaccine Research Center, National Institute of Allergy and Infectious Diseases,
+    National Institutes of Health, Bethesda, MD, USA.
+referenced_works:
+- https://openalex.org/W1971518631
+- https://openalex.org/W2028590696
+- https://openalex.org/W2053301665
+- https://openalex.org/W2102296058
+- https://openalex.org/W2146272590
+- https://openalex.org/W2160358721
+- https://openalex.org/W2735301415
+- https://openalex.org/W2889672674
+- https://openalex.org/W2931896522
+- https://openalex.org/W2964012073
+- https://openalex.org/W2978973546
+- https://openalex.org/W3027204812
+- https://openalex.org/W3080581616
+- https://openalex.org/W3108193091
+- https://openalex.org/W3111590711
+- https://openalex.org/W3112717819
+- https://openalex.org/W3113734454
+- https://openalex.org/W3131672727
+- https://openalex.org/W3135322169
+- https://openalex.org/W3137970801
+- https://openalex.org/W3138447431
+- https://openalex.org/W3141986261
+- https://openalex.org/W3163785571
+- https://openalex.org/W3164547793
+- https://openalex.org/W3164832774
+- https://openalex.org/W3172273960
+- https://openalex.org/W3174017401
+- https://openalex.org/W3184172540
+- https://openalex.org/W3189985782
+- https://openalex.org/W3196454824
+- https://openalex.org/W3201221804
+- https://openalex.org/W3201408162
+- https://openalex.org/W3203490635
+- https://openalex.org/W3207801663
+- https://openalex.org/W3211857494
+- https://openalex.org/W4205483821
+- https://openalex.org/W4210340210
+- https://openalex.org/W4211241344
+- https://openalex.org/W4254617165
+- https://openalex.org/W81897278
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

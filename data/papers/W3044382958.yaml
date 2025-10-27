@@ -1,0 +1,522 @@
+id: https://openalex.org/W3044382958
+doi: https://doi.org/10.1126/sciadv.abc5801
+title: Non-neuronal expression of SARS-CoV-2 entry genes in the olfactory system suggests
+  mechanisms underlying COVID-19-associated anosmia
+publication_date: '2020-07-24'
+publication_year: 2020
+cited_by_count: 1140
+citation_percentile: 0.999418
+pagerank: 2.9115058811116957e-06
+authorships:
+- author_id: https://openalex.org/A5046555579
+  display_name: David H. Brann
+  orcid: https://orcid.org/0000-0001-8844-8886
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Harvard Medical School Department of Neurobiology, Boston MA 02115 USA.
+- author_id: https://openalex.org/A5007433320
+  display_name: Tatsuya Tsukahara
+  orcid: https://orcid.org/0000-0002-6928-8562
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Harvard Medical School Department of Neurobiology, Boston MA 02115 USA.
+- author_id: https://openalex.org/A5047450437
+  display_name: Caleb Weinreb
+  orcid: https://orcid.org/0000-0001-6100-6084
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Harvard Medical School Department of Neurobiology, Boston MA 02115 USA.
+- author_id: https://openalex.org/A5043076508
+  display_name: Marcela Lipovsek
+  orcid: https://orcid.org/0000-0001-9328-0328
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Developmental Neurobiology, Institute of Psychiatry, Psychology and
+    Neuroscience (IoPPN), King's College London, London SE1 1UL, UK
+- author_id: https://openalex.org/A5062507878
+  display_name: Koen Van Den Berge
+  orcid: https://orcid.org/0000-0003-2214-0947
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I32597200
+    display_name: Ghent University
+    ror: https://ror.org/00cv9y106
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Mathematics, Computer Science and Statistics, Ghent University,
+    Ghent, Belgium
+  - Department of Statistics, University of California, Berkeley, CA 94720
+- author_id: https://openalex.org/A5028422636
+  display_name: Boying Gong
+  orcid: https://orcid.org/0000-0001-7326-4603
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Biostatistics, School of Public Health, University of California,
+    Berkeley, CA 94720
+- author_id: https://openalex.org/A5009478116
+  display_name: Rebecca K. Chance
+  orcid: https://orcid.org/0000-0001-7059-6119
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Cell Biology, University of California, Berkeley,
+    CA 94720
+- author_id: https://openalex.org/A5038220581
+  display_name: Iain C. Macaulay
+  orcid: https://orcid.org/0000-0002-6761-757X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799300731
+    display_name: Norwich Research Park
+    ror: https://ror.org/0062dz060
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210100714
+    display_name: Earlham Institute
+    ror: https://ror.org/018cxtf62
+    country_code: GB
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Earlham Institute, Norwich Research Park, Norwich, NR4 7UZ, UK
+- author_id: https://openalex.org/A5110621655
+  display_name: Hsin-Jung Chou
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Cell Biology, University of California, Berkeley,
+    CA 94720
+- author_id: https://openalex.org/A5077690146
+  display_name: Russell B. Fletcher
+  orcid: https://orcid.org/0000-0002-9529-5336
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Cell Biology, University of California, Berkeley,
+    CA 94720
+  - 'Present address: Surrozen, Inc., South San Francisco, CA 94080'
+- author_id: https://openalex.org/A5004929991
+  display_name: Diya Das
+  orcid: https://orcid.org/0000-0001-9646-8983
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Berkeley Institute for Data Science, University of California, Berkeley
+  - Department of Molecular and Cell Biology, University of California, Berkeley,
+    CA 94720
+  - 'Present address: Genentech, Inc., South San Francisco, CA 94080'
+- author_id: https://openalex.org/A5006289887
+  display_name: Kelly Street
+  orcid: https://orcid.org/0000-0001-6379-5013
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117453
+    display_name: Dana-Farber Cancer Institute
+    ror: https://ror.org/02jzgtq86
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston,
+    MA
+  - Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA
+- author_id: https://openalex.org/A5044416530
+  display_name: "Hector Roux de B\xE9zieux"
+  orcid: https://orcid.org/0000-0002-1489-8339
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Computational Biology, University of California, Berkeley, CA 94720
+  - Division of Biostatistics, School of Public Health, University of California,
+    Berkeley, CA 94720
+- author_id: https://openalex.org/A5109467462
+  display_name: Yoon-Gi Choi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - QB3 Functional Genomics Laboratory, University of California, Berkeley, CA 94720
+- author_id: https://openalex.org/A5088632823
+  display_name: Davide Risso
+  orcid: https://orcid.org/0000-0001-8508-5012
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138689650
+    display_name: University of Padua
+    ror: https://ror.org/00240q980
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistical Sciences, University of Padova, Padova, Italy
+- author_id: https://openalex.org/A5018207168
+  display_name: Sandrine Dudoit
+  orcid: https://orcid.org/0000-0002-6069-8629
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, University of California, Berkeley, CA 94720
+  - Division of Biostatistics, School of Public Health, University of California,
+    Berkeley, CA 94720
+- author_id: https://openalex.org/A5044209711
+  display_name: Elizabeth Purdom
+  orcid: https://orcid.org/0000-0001-9455-7990
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Statistics, University of California, Berkeley, CA 94720
+- author_id: https://openalex.org/A5049350976
+  display_name: Jonathan Mill
+  orcid: https://orcid.org/0000-0003-1115-3224
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I23923803
+    display_name: University of Exeter
+    ror: https://ror.org/03yghzc09
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Exeter Medical School, College of Medicine &amp; Health, University
+    of Exeter, Exeter EX2 5DW, UK
+- author_id: https://openalex.org/A5054649362
+  display_name: Ralph Abi Hachem
+  orcid: https://orcid.org/0009-0000-4007-8505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170897317
+    display_name: Duke University
+    ror: https://ror.org/00py81415
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Duke University School of Medicine Department of Head and Neck Surgery &amp; Communication
+    Sciences, Durham, NC 27717 USA.
+- author_id: https://openalex.org/A5086913810
+  display_name: Hiroaki Matsunami
+  orcid: https://orcid.org/0000-0002-8850-2608
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170897317
+    display_name: Duke University
+    ror: https://ror.org/00py81415
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Duke University School of Medicine Department of Molecular Genetics and Microbiology,
+    Department of Neurobiology, Duke Institute for Brain Sciences, Durham, NC 27717
+    US
+- author_id: https://openalex.org/A5026581291
+  display_name: Darren W. Logan
+  orcid: https://orcid.org/0000-0003-1545-5510
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Waltham Petcare Science Institute, Leicestershire LE14 4RT, UK.
+- author_id: https://openalex.org/A5087992468
+  display_name: Bradley J. Goldstein
+  orcid: https://orcid.org/0000-0002-9612-1696
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170897317
+    display_name: Duke University
+    ror: https://ror.org/00py81415
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Duke University School of Medicine Department of Head and Neck Surgery &amp; Communication
+    Sciences, Durham, NC 27717 USA.
+- author_id: https://openalex.org/A5047455423
+  display_name: Matthew S. Grubb
+  orcid: https://orcid.org/0000-0002-2673-274X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Developmental Neurobiology, Institute of Psychiatry, Psychology and
+    Neuroscience (IoPPN), King's College London, London SE1 1UL, UK
+- author_id: https://openalex.org/A5006317886
+  display_name: John Ngai
+  orcid: https://orcid.org/0000-0002-1191-8971
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210110767
+    display_name: National Institute of Neurological Disorders and Stroke
+    ror: https://ror.org/01s5ya894
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Cell Biology, University of California, Berkeley,
+    CA 94720
+  - Helen Wills Neuroscience Institute, University of California, Berkeley, CA 94720
+  - 'Present address: National Institute of Neurological Disorders and Stroke, National
+    Institutes of Health, Bethesda, MD'
+  - QB3 Functional Genomics Laboratory, University of California, Berkeley, CA 94720
+- author_id: https://openalex.org/A5000350952
+  display_name: Sandeep Robert Datta
+  orcid: https://orcid.org/0000-0002-8068-3862
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Harvard Medical School Department of Neurobiology, Boston MA 02115 USA.
+referenced_works:
+- https://openalex.org/W1488892405
+- https://openalex.org/W1512116732
+- https://openalex.org/W1521560638
+- https://openalex.org/W1565283827
+- https://openalex.org/W1966238900
+- https://openalex.org/W1972032770
+- https://openalex.org/W1988916447
+- https://openalex.org/W1990906839
+- https://openalex.org/W1991169840
+- https://openalex.org/W2004522672
+- https://openalex.org/W2005951184
+- https://openalex.org/W2008720067
+- https://openalex.org/W2027744934
+- https://openalex.org/W2033072655
+- https://openalex.org/W2039521726
+- https://openalex.org/W2055061936
+- https://openalex.org/W2062611934
+- https://openalex.org/W2064451824
+- https://openalex.org/W2091671824
+- https://openalex.org/W2101176145
+- https://openalex.org/W2102212449
+- https://openalex.org/W2109627278
+- https://openalex.org/W2112430900
+- https://openalex.org/W2130961194
+- https://openalex.org/W2134708017
+- https://openalex.org/W2141968121
+- https://openalex.org/W2149870176
+- https://openalex.org/W2161341195
+- https://openalex.org/W2163242365
+- https://openalex.org/W2167279371
+- https://openalex.org/W2167384912
+- https://openalex.org/W2169713943
+- https://openalex.org/W2175664647
+- https://openalex.org/W2255243349
+- https://openalex.org/W2323326409
+- https://openalex.org/W2343956310
+- https://openalex.org/W2466175120
+- https://openalex.org/W2510746232
+- https://openalex.org/W2512311410
+- https://openalex.org/W2516171089
+- https://openalex.org/W2524021047
+- https://openalex.org/W2528543174
+- https://openalex.org/W2551207780
+- https://openalex.org/W2562003322
+- https://openalex.org/W2613078538
+- https://openalex.org/W2617219070
+- https://openalex.org/W2769220533
+- https://openalex.org/W2782751937
+- https://openalex.org/W2792424235
+- https://openalex.org/W2793008036
+- https://openalex.org/W2800294157
+- https://openalex.org/W2800339537
+- https://openalex.org/W2800392236
+- https://openalex.org/W2805630019
+- https://openalex.org/W2817838603
+- https://openalex.org/W2885499809
+- https://openalex.org/W2886288118
+- https://openalex.org/W2898372989
+- https://openalex.org/W2901166120
+- https://openalex.org/W2949177718
+- https://openalex.org/W2949693884
+- https://openalex.org/W2950891712
+- https://openalex.org/W2951158909
+- https://openalex.org/W2951337536
+- https://openalex.org/W2951444558
+- https://openalex.org/W2951515085
+- https://openalex.org/W2952100718
+- https://openalex.org/W2952650776
+- https://openalex.org/W2953151710
+- https://openalex.org/W2954615517
+- https://openalex.org/W2966245357
+- https://openalex.org/W2973099640
+- https://openalex.org/W2980292588
+- https://openalex.org/W2982396233
+- https://openalex.org/W2995666881
+- https://openalex.org/W3001897055
+- https://openalex.org/W3002219094
+- https://openalex.org/W3004280078
+- https://openalex.org/W3006474680
+- https://openalex.org/W3008028633
+- https://openalex.org/W3008827533
+- https://openalex.org/W3008874180
+- https://openalex.org/W3009912996
+- https://openalex.org/W3011134208
+- https://openalex.org/W3011483298
+- https://openalex.org/W3011792889
+- https://openalex.org/W3012774387
+- https://openalex.org/W3012849736
+- https://openalex.org/W3013398803
+- https://openalex.org/W3013488343
+- https://openalex.org/W3013558447
+- https://openalex.org/W3013893137
+- https://openalex.org/W3014129609
+- https://openalex.org/W3014573995
+- https://openalex.org/W3014781739
+- https://openalex.org/W3014922871
+- https://openalex.org/W3015631092
+- https://openalex.org/W3015925195
+- https://openalex.org/W3016112702
+- https://openalex.org/W3016135523
+- https://openalex.org/W3016263801
+- https://openalex.org/W3016655060
+- https://openalex.org/W3020909574
+- https://openalex.org/W3021688823
+- https://openalex.org/W3021880084
+- https://openalex.org/W3022087126
+- https://openalex.org/W3022531685
+- https://openalex.org/W3022807497
+- https://openalex.org/W3022894063
+- https://openalex.org/W3023098338
+- https://openalex.org/W3023267003
+- https://openalex.org/W3023451851
+- https://openalex.org/W3023519397
+- https://openalex.org/W3023547764
+- https://openalex.org/W3024126428
+- https://openalex.org/W3025271273
+- https://openalex.org/W3025656246
+- https://openalex.org/W3025701022
+- https://openalex.org/W3026265675
+- https://openalex.org/W3027247875
+- https://openalex.org/W3028448736
+- https://openalex.org/W3030748957
+- https://openalex.org/W3031398513
+- https://openalex.org/W3031410383
+- https://openalex.org/W3034270732
+- https://openalex.org/W3035385080
+- https://openalex.org/W3035727934
+- https://openalex.org/W3038241312
+- https://openalex.org/W3045953207
+- https://openalex.org/W3054686440
+- https://openalex.org/W3091902939
+- https://openalex.org/W3099656397
+- https://openalex.org/W3107452553
+- https://openalex.org/W3122277353
+- https://openalex.org/W3125942575
+- https://openalex.org/W4243201482
+primary_topic: Olfactory and Sensory Function Studies
+open_access: true

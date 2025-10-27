@@ -1,0 +1,806 @@
+id: https://openalex.org/W3026558549
+doi: https://doi.org/10.1126/science.abc4776
+title: SARS-CoV-2 infection protects against rechallenge in rhesus macaques
+publication_date: '2020-05-20'
+publication_year: 2020
+cited_by_count: 908
+citation_percentile: 0.999954
+pagerank: 3.412614293850311e-06
+authorships:
+- author_id: https://openalex.org/A5068600436
+  display_name: Abishek Chandrashekar
+  orcid: https://orcid.org/0000-0001-7821-5552
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5064348390
+  display_name: Jinyan Liu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5075848661
+  display_name: Amanda J. Martinot
+  orcid: https://orcid.org/0000-0001-6237-6191
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I121934306
+    display_name: Tufts University
+    ror: https://ror.org/05wvpxv85
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+  - Tufts University Cummings School of Veterinary Medicine, North Grafton, MA 01536,
+    USA.
+- author_id: https://openalex.org/A5060122168
+  display_name: Katherine McMahan
+  orcid: https://orcid.org/0000-0002-3933-0539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5060092129
+  display_name: Noe B. Mercado
+  orcid: https://orcid.org/0000-0001-7769-7326
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5015760902
+  display_name: Lauren Peter
+  orcid: https://orcid.org/0000-0002-2105-7503
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5013849202
+  display_name: Lisa H. Tostanoski
+  orcid: https://orcid.org/0000-0001-9255-5684
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5015246989
+  display_name: Jingyou Yu
+  orcid: https://orcid.org/0000-0002-0775-6623
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5030146315
+  display_name: Zoltan Maliga
+  orcid: https://orcid.org/0000-0003-4209-7253
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard Medical School, Boston, MA 02115, USA.
+- author_id: https://openalex.org/A5080516268
+  display_name: Michael Nekorchuk
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health &amp; Sciences University, Beaverton, OR 97006, USA.
+- author_id: https://openalex.org/A5025855769
+  display_name: "Kathleen Busman\u2010Sahay"
+  orcid: https://orcid.org/0000-0002-8549-0023
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health &amp; Sciences University, Beaverton, OR 97006, USA.
+- author_id: https://openalex.org/A5023110338
+  display_name: Margaret Terry
+  orcid: https://orcid.org/0000-0002-7260-9005
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health &amp; Sciences University, Beaverton, OR 97006, USA.
+- author_id: https://openalex.org/A5005674602
+  display_name: Linda Wrijil
+  orcid: https://orcid.org/0000-0003-0786-8390
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I121934306
+    display_name: Tufts University
+    ror: https://ror.org/05wvpxv85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tufts University Cummings School of Veterinary Medicine, North Grafton, MA 01536,
+    USA.
+- author_id: https://openalex.org/A5058048710
+  display_name: Sarah Ducat
+  orcid: https://orcid.org/0000-0002-5285-7642
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I121934306
+    display_name: Tufts University
+    ror: https://ror.org/05wvpxv85
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tufts University Cummings School of Veterinary Medicine, North Grafton, MA 01536,
+    USA.
+- author_id: https://openalex.org/A5014451298
+  display_name: David R. Martinez
+  orcid: https://orcid.org/0000-0002-2940-8961
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of North Carolina, Chapel Hill, NC 27599, USA.
+- author_id: https://openalex.org/A5053002955
+  display_name: Caroline Atyeo
+  orcid: https://orcid.org/0000-0002-7489-0232
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard Medical School, Boston, MA 02115, USA.
+  - Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA.
+- author_id: https://openalex.org/A5062681585
+  display_name: Stephanie Fischinger
+  orcid: https://orcid.org/0000-0003-2307-3379
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA.
+- author_id: https://openalex.org/A5063441425
+  display_name: John S. Burke
+  orcid: https://orcid.org/0000-0003-1282-8211
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA.
+- author_id: https://openalex.org/A5075316943
+  display_name: Matthew D. Slein
+  orcid: https://orcid.org/0000-0001-8288-787X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA.
+- author_id: https://openalex.org/A5081050610
+  display_name: Laurent Pessaint
+  orcid: https://orcid.org/0000-0002-2126-3008
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5113954167
+  display_name: Alex Van Ry
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5082123136
+  display_name: Jack Greenhouse
+  orcid: https://orcid.org/0000-0003-2325-8162
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5005593173
+  display_name: Tammy Putman-Taylor
+  orcid: https://orcid.org/0000-0001-7367-3271
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5046223432
+  display_name: Kelvin Blade
+  orcid: https://orcid.org/0000-0003-3387-6693
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5104265356
+  display_name: Anthony Cook
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5068470842
+  display_name: Brad Finneyfrock
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5069408256
+  display_name: Renita Brown
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5049292457
+  display_name: Elyse Teow
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5031135608
+  display_name: Jason Velasco
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5036810313
+  display_name: Roland Zahn
+  orcid: https://orcid.org/0000-0003-2822-6231
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210154236
+    display_name: Janssen (Netherlands)
+    ror: https://ror.org/04cxegr21
+    country_code: NL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janssen Vaccines &amp; Prevention BV, Leiden, Netherlands.
+- author_id: https://openalex.org/A5081826831
+  display_name: Frank Wegmann
+  orcid: https://orcid.org/0000-0002-9821-1492
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210154236
+    display_name: Janssen (Netherlands)
+    ror: https://ror.org/04cxegr21
+    country_code: NL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Janssen Vaccines &amp; Prevention BV, Leiden, Netherlands.
+- author_id: https://openalex.org/A5039410492
+  display_name: Peter Abbink
+  orcid: https://orcid.org/0000-0003-1978-088X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5016585277
+  display_name: Esther A. Bondzie
+  orcid: https://orcid.org/0000-0001-9409-5052
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5063835185
+  display_name: Gabriel Dagotto
+  orcid: https://orcid.org/0000-0002-9872-6074
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+  - Harvard Medical School, Boston, MA 02115, USA.
+- author_id: https://openalex.org/A5081788452
+  display_name: Makda S. Gebre
+  orcid: https://orcid.org/0000-0001-8520-2178
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+  - Harvard Medical School, Boston, MA 02115, USA.
+- author_id: https://openalex.org/A5035630620
+  display_name: Xuan He
+  orcid: https://orcid.org/0000-0002-9448-4426
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5059996844
+  display_name: Catherine Jacob-Dolan
+  orcid: https://orcid.org/0000-0001-6641-0342
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+  - Harvard Medical School, Boston, MA 02115, USA.
+- author_id: https://openalex.org/A5064480218
+  display_name: Nicole Kordana
+  orcid: https://orcid.org/0000-0003-4082-6029
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5101872045
+  display_name: Zhenfeng Li
+  orcid: https://orcid.org/0000-0002-8886-4764
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5009814810
+  display_name: Michelle A. Lifton
+  orcid: https://orcid.org/0000-0003-0279-2198
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5021115713
+  display_name: Shant H. Mahrokhian
+  orcid: https://orcid.org/0000-0003-4094-8739
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5025429876
+  display_name: Lori F. Maxfield
+  orcid: https://orcid.org/0000-0002-7595-6205
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5036230315
+  display_name: Ramya Nityanandam
+  orcid: https://orcid.org/0000-0002-3288-8505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5091164089
+  display_name: Joseph P. Nkolola
+  orcid: https://orcid.org/0000-0002-0678-9765
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+- author_id: https://openalex.org/A5041178880
+  display_name: Aaron G. Schmidt
+  orcid: https://orcid.org/0000-0003-3627-2553
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802114983
+    display_name: Concord Consortium
+    ror: https://ror.org/0570naj48
+    country_code: US
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts Consortium on Pathogen Readiness, Boston, MA 02215, USA.
+  - Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA.
+- author_id: https://openalex.org/A5047865373
+  display_name: Andrew D. Miller
+  orcid: https://orcid.org/0000-0001-6350-5581
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151139
+    display_name: New York State College of Veterinary Medicine
+    ror: https://ror.org/04r17kf39
+    country_code: US
+    type: education
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Cornell University College of Veterinary Medicine, Ithaca, NY 14853, USA.
+- author_id: https://openalex.org/A5017501496
+  display_name: Ralph S. Baric
+  orcid: https://orcid.org/0000-0001-6827-8701
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of North Carolina, Chapel Hill, NC 27599, USA.
+- author_id: https://openalex.org/A5059371880
+  display_name: Galit Alter
+  orcid: https://orcid.org/0000-0002-7680-9215
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802114983
+    display_name: Concord Consortium
+    ror: https://ror.org/0570naj48
+    country_code: US
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Massachusetts Consortium on Pathogen Readiness, Boston, MA 02215, USA.
+  - Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA.
+- author_id: https://openalex.org/A5063426870
+  display_name: Peter K. Sorger
+  orcid: https://orcid.org/0000-0002-3364-1838
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard Medical School, Boston, MA 02115, USA.
+- author_id: https://openalex.org/A5006894592
+  display_name: Jacob D. Estes
+  orcid: https://orcid.org/0000-0002-9652-6394
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oregon Health &amp; Sciences University, Beaverton, OR 97006, USA.
+- author_id: https://openalex.org/A5111703077
+  display_name: "Hann\xE9 Andersen"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5048593024
+  display_name: Mark G. Lewis
+  orcid: https://orcid.org/0000-0001-7852-0135
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105475
+    display_name: Bioqual
+    ror: https://ror.org/01na5rp93
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioqual, Rockville, MD 20852, USA.
+- author_id: https://openalex.org/A5054247332
+  display_name: Dan H. Barouch
+  orcid: https://orcid.org/0000-0001-5127-4659
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1316535847
+    display_name: Beth Israel Deaconess Medical Center
+    ror: https://ror.org/04drvxt59
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802422659
+    display_name: Ragon Institute of MGH, MIT and Harvard
+    ror: https://ror.org/053r20n13
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I2802114983
+    display_name: Concord Consortium
+    ror: https://ror.org/0570naj48
+    country_code: US
+    type: other
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center,
+    Harvard Medical School, Boston, MA 02215, USA.
+  - Massachusetts Consortium on Pathogen Readiness, Boston, MA 02215, USA.
+  - Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA.
+referenced_works:
+- https://openalex.org/W1972591948
+- https://openalex.org/W1979065938
+- https://openalex.org/W1984494056
+- https://openalex.org/W2008799315
+- https://openalex.org/W2105208620
+- https://openalex.org/W2137888434
+- https://openalex.org/W2434803486
+- https://openalex.org/W2471154607
+- https://openalex.org/W2832881433
+- https://openalex.org/W3001118548
+- https://openalex.org/W3001897055
+- https://openalex.org/W3002108456
+- https://openalex.org/W3002539152
+- https://openalex.org/W3003217347
+- https://openalex.org/W3003465021
+- https://openalex.org/W3003668884
+- https://openalex.org/W3004280078
+- https://openalex.org/W3013893137
+- https://openalex.org/W3017129059
+- https://openalex.org/W3101047928
+- https://openalex.org/W4206091727
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

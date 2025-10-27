@@ -1,0 +1,160 @@
+id: https://openalex.org/W3025800305
+doi: https://doi.org/10.1016/j.patcog.2020.107404
+title: 'U2-Net: Going deeper with nested U-structure for salient object detection'
+publication_date: '2020-05-16'
+publication_year: 2020
+cited_by_count: 1771
+citation_percentile: 0.999941
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5019003578
+  display_name: Xuebin Qin
+  orcid: https://orcid.org/0000-0002-9042-7192
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, Alberta T6G
+    2E8, Canada
+- author_id: https://openalex.org/A5100739122
+  display_name: Zichen Zhang
+  orcid: https://orcid.org/0009-0002-5836-7377
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, Alberta T6G
+    2E8, Canada
+- author_id: https://openalex.org/A5001882275
+  display_name: Chenyang Huang
+  orcid: https://orcid.org/0000-0003-2811-6008
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, Alberta T6G
+    2E8, Canada
+- author_id: https://openalex.org/A5006157212
+  display_name: Masood Dehghan
+  orcid: https://orcid.org/0000-0003-2293-6101
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, Alberta T6G
+    2E8, Canada
+- author_id: https://openalex.org/A5053745515
+  display_name: "Osmar R. Z\xE4\u0131ane"
+  orcid: https://orcid.org/0000-0002-0060-5988
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, Alberta T6G
+    2E8, Canada
+- author_id: https://openalex.org/A5030948380
+  display_name: "Martin J\xE4gersand"
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I154425047
+    display_name: University of Alberta
+    ror: https://ror.org/0160cpw27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing Science, University of Alberta, Edmonton, Alberta T6G
+    2E8, Canada
+referenced_works:
+- https://openalex.org/W1519696843
+- https://openalex.org/W1533861849
+- https://openalex.org/W1626352492
+- https://openalex.org/W1686810756
+- https://openalex.org/W1901129140
+- https://openalex.org/W1903029394
+- https://openalex.org/W1994922096
+- https://openalex.org/W2002781701
+- https://openalex.org/W2039313011
+- https://openalex.org/W2086791339
+- https://openalex.org/W2087509227
+- https://openalex.org/W2097117768
+- https://openalex.org/W2100470808
+- https://openalex.org/W2108598243
+- https://openalex.org/W2154741421
+- https://openalex.org/W2163605009
+- https://openalex.org/W2171378720
+- https://openalex.org/W2194775991
+- https://openalex.org/W2307770531
+- https://openalex.org/W2412782625
+- https://openalex.org/W2518599539
+- https://openalex.org/W2531563875
+- https://openalex.org/W2533129183
+- https://openalex.org/W2549139847
+- https://openalex.org/W2560023338
+- https://openalex.org/W2604272474
+- https://openalex.org/W2740667773
+- https://openalex.org/W2744613561
+- https://openalex.org/W2770790879
+- https://openalex.org/W2780708736
+- https://openalex.org/W2788154928
+- https://openalex.org/W2798791651
+- https://openalex.org/W2798825526
+- https://openalex.org/W2799074129
+- https://openalex.org/W2807746031
+- https://openalex.org/W2884555738
+- https://openalex.org/W2885369556
+- https://openalex.org/W2887748972
+- https://openalex.org/W2899771611
+- https://openalex.org/W2904454836
+- https://openalex.org/W2934630415
+- https://openalex.org/W2939217524
+- https://openalex.org/W2948510860
+- https://openalex.org/W2948537313
+- https://openalex.org/W2961348656
+- https://openalex.org/W2962680827
+- https://openalex.org/W2963032190
+- https://openalex.org/W2963112696
+- https://openalex.org/W2963136160
+- https://openalex.org/W2963136578
+- https://openalex.org/W2963152757
+- https://openalex.org/W2963299740
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963685207
+- https://openalex.org/W2963868681
+- https://openalex.org/W2963906836
+- https://openalex.org/W2964121744
+- https://openalex.org/W3104979525
+- https://openalex.org/W4236965008
+- https://openalex.org/W4249502209
+- https://openalex.org/W4249914127
+- https://openalex.org/W4298205916
+- https://openalex.org/W4301409532
+- https://openalex.org/W845365781
+primary_topic: Visual Attention and Saliency Detection
+open_access: true

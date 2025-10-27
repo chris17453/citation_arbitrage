@@ -1,0 +1,202 @@
+id: https://openalex.org/W3083891030
+doi: https://doi.org/10.1007/s10618-020-00710-y
+title: 'InceptionTime: Finding AlexNet for time series classification'
+publication_date: '2020-09-07'
+publication_year: 2020
+cited_by_count: 1137
+citation_percentile: 0.99976
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5044378917
+  display_name: Hassan Ismail Fawaz
+  orcid: https://orcid.org/0000-0003-1384-5996
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2800745255
+    display_name: "Universit\xE9 de Haute-Alsace"
+    ror: https://ror.org/04k8k6n84
+    country_code: FR
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - "Universit\xE9 de Haute-Alsace, IRIMAS UR 7499, 68100, Mulhouse, France"
+- author_id: https://openalex.org/A5057238476
+  display_name: "Benjam\xEDn Lucas"
+  orcid: https://orcid.org/0000-0002-2021-3076
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of IT, Monash University, Melbourne, Australia
+- author_id: https://openalex.org/A5030958578
+  display_name: Germain Forestier
+  orcid: https://orcid.org/0000-0002-4960-7554
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800745255
+    display_name: "Universit\xE9 de Haute-Alsace"
+    ror: https://ror.org/04k8k6n84
+    country_code: FR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Haute-Alsace, IRIMAS UR 7499, 68100, Mulhouse, France"
+- author_id: https://openalex.org/A5032732048
+  display_name: Charlotte Pelletier
+  orcid: https://orcid.org/0000-0002-4652-7778
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of IT, Monash University, Melbourne, Australia
+- author_id: https://openalex.org/A5046316602
+  display_name: Daniel F. Schmidt
+  orcid: https://orcid.org/0000-0002-1788-2375
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of IT, Monash University, Melbourne, Australia
+- author_id: https://openalex.org/A5032791589
+  display_name: Jonathan Weber
+  orcid: https://orcid.org/0000-0002-3694-4703
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800745255
+    display_name: "Universit\xE9 de Haute-Alsace"
+    ror: https://ror.org/04k8k6n84
+    country_code: FR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Haute-Alsace, IRIMAS UR 7499, 68100, Mulhouse, France"
+- author_id: https://openalex.org/A5058054791
+  display_name: Geoffrey I. Webb
+  orcid: https://orcid.org/0000-0001-9963-5169
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of IT, Monash University, Melbourne, Australia
+- author_id: https://openalex.org/A5077151661
+  display_name: Lhassane Idoumghar
+  orcid: https://orcid.org/0000-0001-8853-3968
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800745255
+    display_name: "Universit\xE9 de Haute-Alsace"
+    ror: https://ror.org/04k8k6n84
+    country_code: FR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Haute-Alsace, IRIMAS UR 7499, 68100, Mulhouse, France"
+- author_id: https://openalex.org/A5009009727
+  display_name: Pierre-Alain Muller
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800745255
+    display_name: "Universit\xE9 de Haute-Alsace"
+    ror: https://ror.org/04k8k6n84
+    country_code: FR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Universit\xE9 de Haute-Alsace, IRIMAS UR 7499, 68100, Mulhouse, France"
+- author_id: https://openalex.org/A5005781957
+  display_name: "Fran\xE7ois Petitjean"
+  orcid: https://orcid.org/0000-0001-5334-3574
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of IT, Monash University, Melbourne, Australia
+referenced_works:
+- https://openalex.org/W1533861849
+- https://openalex.org/W1534304300
+- https://openalex.org/W1565746575
+- https://openalex.org/W1693343509
+- https://openalex.org/W1968354112
+- https://openalex.org/W1970013651
+- https://openalex.org/W1984674851
+- https://openalex.org/W2016944307
+- https://openalex.org/W2035104901
+- https://openalex.org/W2050493487
+- https://openalex.org/W2097117768
+- https://openalex.org/W2117539524
+- https://openalex.org/W2118529802
+- https://openalex.org/W2143325592
+- https://openalex.org/W2163605009
+- https://openalex.org/W2169284845
+- https://openalex.org/W2194775991
+- https://openalex.org/W2237307454
+- https://openalex.org/W2306394264
+- https://openalex.org/W2440222035
+- https://openalex.org/W2515503816
+- https://openalex.org/W2524083015
+- https://openalex.org/W2551393996
+- https://openalex.org/W2555077524
+- https://openalex.org/W2556967412
+- https://openalex.org/W2578040940
+- https://openalex.org/W2581867724
+- https://openalex.org/W2586160710
+- https://openalex.org/W2751777443
+- https://openalex.org/W2792885468
+- https://openalex.org/W2888774151
+- https://openalex.org/W2892035503
+- https://openalex.org/W2897997001
+- https://openalex.org/W2898843852
+- https://openalex.org/W2907002026
+- https://openalex.org/W2907646605
+- https://openalex.org/W2907735963
+- https://openalex.org/W2908356134
+- https://openalex.org/W2908503141
+- https://openalex.org/W2912888010
+- https://openalex.org/W2919115771
+- https://openalex.org/W2921458493
+- https://openalex.org/W2944854690
+- https://openalex.org/W2963131120
+- https://openalex.org/W2963405869
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963703618
+- https://openalex.org/W2964121744
+- https://openalex.org/W2964350391
+- https://openalex.org/W2978259066
+- https://openalex.org/W2978956171
+- https://openalex.org/W2988244882
+- https://openalex.org/W3098918569
+- https://openalex.org/W3098967488
+- https://openalex.org/W3099614515
+- https://openalex.org/W3103075267
+- https://openalex.org/W3105678465
+- https://openalex.org/W3160538058
+- https://openalex.org/W4238404964
+- https://openalex.org/W4239867545
+primary_topic: Time Series Analysis and Forecasting
+open_access: true

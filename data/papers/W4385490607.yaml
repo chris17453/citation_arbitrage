@@ -1,0 +1,657 @@
+id: https://openalex.org/W4385490607
+doi: https://doi.org/10.1038/s41586-023-06221-2
+title: Scientific discovery in the age of artificial intelligence
+publication_date: '2023-08-02'
+publication_year: 2023
+cited_by_count: 1020
+citation_percentile: 0.988095
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5108047960
+  display_name: Hanchen Wang
+  orcid: https://orcid.org/0000-0002-1691-024X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing and Mathematical Sciences, California Institute of Technology,
+    Pasadena, CA, USA
+  - Department of Engineering, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5003226543
+  display_name: Tianfan Fu
+  orcid: https://orcid.org/0000-0002-5574-2541
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130701444
+    display_name: Georgia Institute of Technology
+    ror: https://ror.org/01zkghx44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computational Science and Engineering, Georgia Institute of Technology,
+    Atlanta, GA, USA
+- author_id: https://openalex.org/A5006709853
+  display_name: Yuanqi Du
+  orcid: https://orcid.org/0000-0003-2988-0374
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Cornell University, Ithaca, NY, USA
+- author_id: https://openalex.org/A5007754274
+  display_name: Wenhao Gao
+  orcid: https://orcid.org/0000-0002-6506-8044
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge,
+    MA, USA
+- author_id: https://openalex.org/A5049086940
+  display_name: Kexin Huang
+  orcid: https://orcid.org/0000-0001-6693-8390
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Stanford University, Stanford, CA, USA
+- author_id: https://openalex.org/A5101924541
+  display_name: Ziming Liu
+  orcid: https://orcid.org/0000-0002-7090-8853
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics, Massachusetts Institute of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5037842761
+  display_name: Payal Chandak
+  orcid: https://orcid.org/0000-0003-1097-803X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092658
+    display_name: "Harvard\u2013MIT Division of Health Sciences and Technology"
+    ror: https://ror.org/00jjeh629
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard-MIT Program in Health Sciences and Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5021052785
+  display_name: Shengchao Liu
+  orcid: https://orcid.org/0000-0003-2030-2367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I70931966
+    display_name: "Universit\xE9 de Montr\xE9al"
+    ror: https://ror.org/0161xgx34
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210164802
+    display_name: Mila - Quebec Artificial Intelligence Institute
+    ror: https://ror.org/05c22rx21
+    country_code: CA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Mila \u2013 Quebec AI Institute, Montreal, Quebec, Canada"
+  - "Universit\xE9 de Montr\xE9al, Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5021911461
+  display_name: Peter Van Katwyk
+  orcid: https://orcid.org/0000-0002-3512-0665
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27804330
+    display_name: Brown University
+    ror: https://ror.org/05gq02987
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Science Institute, Brown University, Providence, RI, USA
+  - Department of Earth, Environmental and Planetary Sciences, Brown University, Providence,
+    RI, USA
+- author_id: https://openalex.org/A5013115798
+  display_name: Andreea Deac
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210164802
+    display_name: Mila - Quebec Artificial Intelligence Institute
+    ror: https://ror.org/05c22rx21
+    country_code: CA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Mila \u2013 Quebec AI Institute, Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5014498545
+  display_name: Anima Anandkumar
+  orcid: https://orcid.org/0000-0002-6974-6797
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computing and Mathematical Sciences, California Institute of Technology,
+    Pasadena, CA, USA
+- author_id: https://openalex.org/A5033276810
+  display_name: Karianne J. Bergen
+  orcid: https://orcid.org/0000-0003-2474-9115
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27804330
+    display_name: Brown University
+    ror: https://ror.org/05gq02987
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Science Institute, Brown University, Providence, RI, USA
+  - Department of Earth, Environmental and Planetary Sciences, Brown University, Providence,
+    RI, USA
+- author_id: https://openalex.org/A5069030030
+  display_name: Carla P. Gomes
+  orcid: https://orcid.org/0000-0002-4441-7225
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205783295
+    display_name: Cornell University
+    ror: https://ror.org/05bnh6r87
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Cornell University, Ithaca, NY, USA
+- author_id: https://openalex.org/A5049051097
+  display_name: Shirley Ho
+  orcid: https://orcid.org/0000-0002-1068-160X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153546
+    display_name: Flatiron Health (United States)
+    ror: https://ror.org/0508h6p74
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4387153999
+    display_name: Flatiron Institute
+    ror: https://ror.org/00sekdz59
+    country_code: null
+    type: nonprofit
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I57206974
+    display_name: New York University
+    ror: https://ror.org/0190ak572
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I20089843
+    display_name: Princeton University
+    ror: https://ror.org/00hx57361
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Computational Astrophysics, Flatiron Institute, New York, NY, USA
+  - Department of Astrophysical Sciences, Princeton University, Princeton, NJ, USA
+  - Department of Physics and Center for Data Science, New York University, New York,  NY,
+    USA
+  - Department of Physics, Carnegie Mellon University, Pittsburgh, PA, USA
+- author_id: https://openalex.org/A5013834379
+  display_name: Pushmeet Kohli
+  orcid: https://orcid.org/0000-0002-7466-7997
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5019616738
+  display_name: Joan Lasenby
+  orcid: https://orcid.org/0000-0002-0571-0218
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Engineering, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5091272738
+  display_name: Jure Leskovec
+  orcid: https://orcid.org/0000-0002-5411-923X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science, Stanford University, Stanford, CA, USA
+- author_id: https://openalex.org/A5101884287
+  display_name: "Tie\u2010Yan Liu"
+  orcid: https://orcid.org/0000-0002-0476-8020
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113369
+    display_name: Microsoft Research Asia (China)
+    ror: https://ror.org/0300m5276
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research, Beijing, China
+- author_id: https://openalex.org/A5036448016
+  display_name: Arjun K. Manrai
+  orcid: https://orcid.org/0000-0001-9657-9800
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA
+- author_id: https://openalex.org/A5022191527
+  display_name: Debora S. Marks
+  orcid: https://orcid.org/0000-0001-9388-2281
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210155419
+    display_name: Center for Systems Biology
+    ror: https://ror.org/05r3dyn47
+    country_code: US
+    type: facility
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Systems Biology, Harvard Medical School, Boston, MA, USA
+- author_id: https://openalex.org/A5039641760
+  display_name: Bharath Ramsundar
+  orcid: https://orcid.org/0000-0001-8450-4262
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Deep Forest Sciences, Palo Alto, CA, USA
+- author_id: https://openalex.org/A5030589527
+  display_name: Le Song
+  orcid: https://orcid.org/0000-0002-9655-2787
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113480
+    display_name: Mohamed bin Zayed University of Artificial Intelligence
+    ror: https://ror.org/0258gkt32
+    country_code: AE
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BioMap, Beijing, China
+  - Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, United Arab
+    Emirates
+- author_id: https://openalex.org/A5084279065
+  display_name: Jimeng Sun
+  orcid: https://orcid.org/0000-0003-1512-6426
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157725225
+    display_name: University of Illinois Urbana-Champaign
+    ror: https://ror.org/047426m28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Illinois at Urbana-Champaign, Champaign, IL, USA
+- author_id: https://openalex.org/A5077231313
+  display_name: Jian Tang
+  orcid: https://orcid.org/0000-0002-6819-4185
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I109736498
+    display_name: Canadian Institute for Advanced Research
+    ror: https://ror.org/01sdtdd95
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I108192572
+    display_name: "HEC Montr\xE9al"
+    ror: https://ror.org/05ww3wq27
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CIFAR AI Chair, Toronto, Ontario, Canada
+  - "HEC Montr\xE9al, Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5008869927
+  display_name: "Petar Veli\u010Dkovi\u0107"
+  orcid: https://orcid.org/0000-0002-2820-4692
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090411
+    display_name: DeepMind (United Kingdom)
+    ror: https://ror.org/00971b260
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210113297
+    display_name: Google (United Kingdom)
+    ror: https://ror.org/024bc3e07
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Google DeepMind, London, UK
+- author_id: https://openalex.org/A5087368991
+  display_name: Max Welling
+  orcid: https://orcid.org/0000-0003-1484-2121
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135670
+    display_name: Amsterdam University of the Arts
+    ror: https://ror.org/04dde1554
+    country_code: NL
+    type: education
+  - id: https://openalex.org/I887064364
+    display_name: University of Amsterdam
+    ror: https://ror.org/04dkp9463
+    country_code: NL
+    type: funder
+  - id: https://openalex.org/I4210110431
+    display_name: Microsoft (Netherlands)
+    ror: https://ror.org/01x21tj82
+    country_code: NL
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Research Amsterdam, Amsterdam, Netherlands
+  - University of Amsterdam, Amsterdam, Netherlands
+- author_id: https://openalex.org/A5100689117
+  display_name: Linfeng Zhang
+  orcid: https://orcid.org/0000-0002-8470-5846
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - AI for Science Institute, Beijing, China
+  - DP Technology, Beijing, China
+- author_id: https://openalex.org/A5076162644
+  display_name: Connor W. Coley
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical Engineering and Computer Science, Massachusetts Institute
+    of Technology, Cambridge, MA, USA
+- author_id: https://openalex.org/A5086198262
+  display_name: Yoshua Bengio
+  orcid: https://orcid.org/0000-0002-9322-3515
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I70931966
+    display_name: "Universit\xE9 de Montr\xE9al"
+    ror: https://ror.org/0161xgx34
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I4210164802
+    display_name: Mila - Quebec Artificial Intelligence Institute
+    ror: https://ror.org/05c22rx21
+    country_code: CA
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Mila \u2013 Quebec AI Institute, Montreal, Quebec, Canada"
+  - "Universit\xE9 de Montr\xE9al, Montreal, Quebec, Canada"
+- author_id: https://openalex.org/A5086052373
+  display_name: "Marinka \u017Ditnik"
+  orcid: https://orcid.org/0000-0001-8530-7228
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA, USA
+  - Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA
+referenced_works:
+- https://openalex.org/W1494192115
+- https://openalex.org/W1589747210
+- https://openalex.org/W1901616594
+- https://openalex.org/W1975147762
+- https://openalex.org/W1979769287
+- https://openalex.org/W2017254234
+- https://openalex.org/W2018259456
+- https://openalex.org/W2023386562
+- https://openalex.org/W2025768430
+- https://openalex.org/W2035756456
+- https://openalex.org/W2100495367
+- https://openalex.org/W2110798204
+- https://openalex.org/W2114804859
+- https://openalex.org/W2117486996
+- https://openalex.org/W2136922672
+- https://openalex.org/W2145889472
+- https://openalex.org/W2239232218
+- https://openalex.org/W2419175238
+- https://openalex.org/W2478294658
+- https://openalex.org/W2529996553
+- https://openalex.org/W2541404351
+- https://openalex.org/W2558748708
+- https://openalex.org/W2624637765
+- https://openalex.org/W2742127985
+- https://openalex.org/W2743138268
+- https://openalex.org/W2747592475
+- https://openalex.org/W2766227262
+- https://openalex.org/W2766447205
+- https://openalex.org/W2790181346
+- https://openalex.org/W2805619986
+- https://openalex.org/W2883583109
+- https://openalex.org/W2890961624
+- https://openalex.org/W2892741787
+- https://openalex.org/W2896757914
+- https://openalex.org/W2899283552
+- https://openalex.org/W2900694120
+- https://openalex.org/W2902652978
+- https://openalex.org/W2913323966
+- https://openalex.org/W2919115771
+- https://openalex.org/W2924551358
+- https://openalex.org/W2937056002
+- https://openalex.org/W2945976633
+- https://openalex.org/W2947707259
+- https://openalex.org/W2949736877
+- https://openalex.org/W2951381561
+- https://openalex.org/W2953128081
+- https://openalex.org/W2953641512
+- https://openalex.org/W2959716049
+- https://openalex.org/W2962073995
+- https://openalex.org/W2962804068
+- https://openalex.org/W2964225662
+- https://openalex.org/W2968071222
+- https://openalex.org/W2971690404
+- https://openalex.org/W2972246420
+- https://openalex.org/W2973034339
+- https://openalex.org/W2973074478
+- https://openalex.org/W2975047661
+- https://openalex.org/W2979786244
+- https://openalex.org/W2990857261
+- https://openalex.org/W2992752586
+- https://openalex.org/W3000179685
+- https://openalex.org/W3000350302
+- https://openalex.org/W3003690504
+- https://openalex.org/W3007309629
+- https://openalex.org/W3007800559
+- https://openalex.org/W3010145447
+- https://openalex.org/W3012274818
+- https://openalex.org/W3012320417
+- https://openalex.org/W3014154196
+- https://openalex.org/W3014178136
+- https://openalex.org/W3016745570
+- https://openalex.org/W3041655312
+- https://openalex.org/W3042241440
+- https://openalex.org/W3045216516
+- https://openalex.org/W3047855151
+- https://openalex.org/W3082096568
+- https://openalex.org/W3083804794
+- https://openalex.org/W3087616194
+- https://openalex.org/W3088999551
+- https://openalex.org/W3092982430
+- https://openalex.org/W3093999435
+- https://openalex.org/W3094771832
+- https://openalex.org/W3098163999
+- https://openalex.org/W3098370560
+- https://openalex.org/W3100279624
+- https://openalex.org/W3101568640
+- https://openalex.org/W3102363003
+- https://openalex.org/W3103934428
+- https://openalex.org/W3104114886
+- https://openalex.org/W3104956673
+- https://openalex.org/W3105535284
+- https://openalex.org/W3107153805
+- https://openalex.org/W3107581532
+- https://openalex.org/W3108981297
+- https://openalex.org/W3111357769
+- https://openalex.org/W3112474878
+- https://openalex.org/W3113616921
+- https://openalex.org/W3121000782
+- https://openalex.org/W3123901912
+- https://openalex.org/W3126069796
+- https://openalex.org/W3129084747
+- https://openalex.org/W3130188009
+- https://openalex.org/W3135130381
+- https://openalex.org/W3135588948
+- https://openalex.org/W3137928831
+- https://openalex.org/W3144239152
+- https://openalex.org/W3146547718
+- https://openalex.org/W3146944767
+- https://openalex.org/W3151042244
+- https://openalex.org/W3156578609
+- https://openalex.org/W3158868742
+- https://openalex.org/W3159598019
+- https://openalex.org/W3161200675
+- https://openalex.org/W3161445736
+- https://openalex.org/W3163559860
+- https://openalex.org/W3163993681
+- https://openalex.org/W3164573547
+- https://openalex.org/W3167882125
+- https://openalex.org/W3170550558
+- https://openalex.org/W3177828909
+- https://openalex.org/W3182207208
+- https://openalex.org/W3185391990
+- https://openalex.org/W3185766304
+- https://openalex.org/W3186179742
+- https://openalex.org/W3195820203
+- https://openalex.org/W3197694049
+- https://openalex.org/W3199291608
+- https://openalex.org/W3199772305
+- https://openalex.org/W3200614847
+- https://openalex.org/W3201377945
+- https://openalex.org/W3203588026
+- https://openalex.org/W3207880742
+- https://openalex.org/W3208270664
+- https://openalex.org/W3209726219
+- https://openalex.org/W3211495999
+- https://openalex.org/W3211728297
+- https://openalex.org/W3212368439
+- https://openalex.org/W3213704721
+- https://openalex.org/W3215285253
+- https://openalex.org/W3215994910
+- https://openalex.org/W3216341763
+- https://openalex.org/W3216448540
+- https://openalex.org/W3217269355
+- https://openalex.org/W3217523772
+- https://openalex.org/W4200233821
+- https://openalex.org/W4200241887
+- https://openalex.org/W4213112325
+- https://openalex.org/W4213164768
+- https://openalex.org/W4213377513
+- https://openalex.org/W4213448879
+- https://openalex.org/W4214519789
+- https://openalex.org/W4214925787
+- https://openalex.org/W4220681836
+- https://openalex.org/W4220927627
+- https://openalex.org/W4223581484
+- https://openalex.org/W4223644783
+- https://openalex.org/W4225659209
+- https://openalex.org/W4247967326
+- https://openalex.org/W4280561569
+- https://openalex.org/W4281619372
+- https://openalex.org/W4281790889
+- https://openalex.org/W4283390570
+- https://openalex.org/W4284672872
+- https://openalex.org/W4287163433
+- https://openalex.org/W4292104010
+- https://openalex.org/W4295951577
+- https://openalex.org/W4296031103
+- https://openalex.org/W4296551289
+- https://openalex.org/W4306179830
+- https://openalex.org/W4307717106
+- https://openalex.org/W4313171465
+- https://openalex.org/W4366975045
+- https://openalex.org/W4378212018
+primary_topic: Cell Image Analysis Techniques
+open_access: false

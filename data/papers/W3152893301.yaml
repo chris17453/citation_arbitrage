@@ -1,0 +1,438 @@
+id: https://openalex.org/W3152893301
+doi: https://doi.org/10.1016/j.aiopen.2021.01.001
+title: 'Graph neural networks: A review of methods and applications'
+publication_date: '2020-01-01'
+publication_year: 2020
+cited_by_count: 4235
+citation_percentile: 0.997449
+pagerank: 2.5527670557263396e-06
+authorships:
+- author_id: https://openalex.org/A5100620306
+  display_name: Jie Zhou
+  orcid: https://orcid.org/0000-0001-7701-234X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, Tsinghua University, Beijing, China
+- author_id: https://openalex.org/A5102542015
+  display_name: Ganqu Cui
+  orcid: https://orcid.org/0000-0001-6385-8547
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, Tsinghua University, Beijing, China
+- author_id: https://openalex.org/A5010557815
+  display_name: Shengding Hu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, Tsinghua University, Beijing, China
+- author_id: https://openalex.org/A5101584823
+  display_name: Zhengyan Zhang
+  orcid: https://orcid.org/0000-0003-2988-0083
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, Tsinghua University, Beijing, China
+- author_id: https://openalex.org/A5060417049
+  display_name: Cheng Yang
+  orcid: https://orcid.org/0000-0001-7821-0030
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I139759216
+    display_name: Beijing University of Posts and Telecommunications
+    ror: https://ror.org/04w9fbh59
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Computer Science, Beijing University of Posts and Telecommunications,
+    China
+- author_id: https://openalex.org/A5100320723
+  display_name: Zhiyuan Liu
+  orcid: https://orcid.org/0000-0002-7709-2543
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, Tsinghua University, Beijing, China
+- author_id: https://openalex.org/A5100399603
+  display_name: Lifeng Wang
+  orcid: https://orcid.org/0000-0001-5095-6842
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250653659
+    display_name: Tencent (China)
+    ror: https://ror.org/00hhjss72
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tencent Incorporation, Shenzhen, China
+- author_id: https://openalex.org/A5070644871
+  display_name: Changcheng Li
+  orcid: https://orcid.org/0000-0001-7022-0947
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2250653659
+    display_name: Tencent (China)
+    ror: https://ror.org/00hhjss72
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tencent Incorporation, Shenzhen, China
+- author_id: https://openalex.org/A5046448314
+  display_name: Maosong Sun
+  orcid: https://orcid.org/0000-0002-6011-6115
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology, Tsinghua University, Beijing, China
+referenced_works:
+- https://openalex.org/W103340358
+- https://openalex.org/W1501856433
+- https://openalex.org/W2000375074
+- https://openalex.org/W2020890899
+- https://openalex.org/W2022322548
+- https://openalex.org/W2034618876
+- https://openalex.org/W2056562706
+- https://openalex.org/W2064675550
+- https://openalex.org/W2092750499
+- https://openalex.org/W2097073572
+- https://openalex.org/W2099438806
+- https://openalex.org/W2101491865
+- https://openalex.org/W2104246439
+- https://openalex.org/W2112796928
+- https://openalex.org/W2115755118
+- https://openalex.org/W2116341502
+- https://openalex.org/W2117539524
+- https://openalex.org/W2121406124
+- https://openalex.org/W2121863487
+- https://openalex.org/W2127426251
+- https://openalex.org/W2127795553
+- https://openalex.org/W2127827747
+- https://openalex.org/W2135957668
+- https://openalex.org/W2139906443
+- https://openalex.org/W2153513200
+- https://openalex.org/W2157331557
+- https://openalex.org/W2158787690
+- https://openalex.org/W2163605009
+- https://openalex.org/W2166681504
+- https://openalex.org/W2173027866
+- https://openalex.org/W2173183968
+- https://openalex.org/W2194775991
+- https://openalex.org/W2242161203
+- https://openalex.org/W2250635077
+- https://openalex.org/W2290847742
+- https://openalex.org/W2299115575
+- https://openalex.org/W2302255633
+- https://openalex.org/W2309415944
+- https://openalex.org/W2340222647
+- https://openalex.org/W2402402867
+- https://openalex.org/W2404723690
+- https://openalex.org/W2468907370
+- https://openalex.org/W2473934411
+- https://openalex.org/W2478302134
+- https://openalex.org/W2507756961
+- https://openalex.org/W2552391307
+- https://openalex.org/W2552839021
+- https://openalex.org/W2554952599
+- https://openalex.org/W2558460151
+- https://openalex.org/W2558748708
+- https://openalex.org/W2559857813
+- https://openalex.org/W2560592986
+- https://openalex.org/W2560609797
+- https://openalex.org/W2581887665
+- https://openalex.org/W2590960023
+- https://openalex.org/W2600702321
+- https://openalex.org/W2604314403
+- https://openalex.org/W2604777976
+- https://openalex.org/W2605659599
+- https://openalex.org/W2606780347
+- https://openalex.org/W2607264901
+- https://openalex.org/W2610034660
+- https://openalex.org/W2612872092
+- https://openalex.org/W2612881151
+- https://openalex.org/W2614195334
+- https://openalex.org/W2624407581
+- https://openalex.org/W2624431344
+- https://openalex.org/W2626778328
+- https://openalex.org/W2728059831
+- https://openalex.org/W2735272571
+- https://openalex.org/W2751808960
+- https://openalex.org/W2767404761
+- https://openalex.org/W2770468159
+- https://openalex.org/W2770604561
+- https://openalex.org/W2776622059
+- https://openalex.org/W2784055555
+- https://openalex.org/W2786016794
+- https://openalex.org/W2786103815
+- https://openalex.org/W2786776430
+- https://openalex.org/W2788284887
+- https://openalex.org/W2788474500
+- https://openalex.org/W2788503006
+- https://openalex.org/W2788667846
+- https://openalex.org/W2788919350
+- https://openalex.org/W2792402990
+- https://openalex.org/W2792839479
+- https://openalex.org/W2793812837
+- https://openalex.org/W2795108883
+- https://openalex.org/W2798749466
+- https://openalex.org/W2798759657
+- https://openalex.org/W2798915520
+- https://openalex.org/W2803533564
+- https://openalex.org/W2803678876
+- https://openalex.org/W2803831897
+- https://openalex.org/W2804057010
+- https://openalex.org/W2804072623
+- https://openalex.org/W2805516822
+- https://openalex.org/W2806351858
+- https://openalex.org/W2808130788
+- https://openalex.org/W2808409763
+- https://openalex.org/W2808877322
+- https://openalex.org/W2811124557
+- https://openalex.org/W2886330347
+- https://openalex.org/W2887603607
+- https://openalex.org/W2889079456
+- https://openalex.org/W2889399096
+- https://openalex.org/W2889646190
+- https://openalex.org/W2889792105
+- https://openalex.org/W2890187992
+- https://openalex.org/W2890703109
+- https://openalex.org/W2891230096
+- https://openalex.org/W2891553865
+- https://openalex.org/W2891814056
+- https://openalex.org/W2892880750
+- https://openalex.org/W2893944917
+- https://openalex.org/W2896309423
+- https://openalex.org/W2896457183
+- https://openalex.org/W2900252255
+- https://openalex.org/W2900470550
+- https://openalex.org/W2902304768
+- https://openalex.org/W2903871660
+- https://openalex.org/W2904900486
+- https://openalex.org/W2906340703
+- https://openalex.org/W2908442265
+- https://openalex.org/W2911286998
+- https://openalex.org/W2912516411
+- https://openalex.org/W2912555327
+- https://openalex.org/W2912914769
+- https://openalex.org/W2913856657
+- https://openalex.org/W2916106175
+- https://openalex.org/W2918342466
+- https://openalex.org/W2919115771
+- https://openalex.org/W2939208918
+- https://openalex.org/W2942720199
+- https://openalex.org/W2943931381
+- https://openalex.org/W2945408430
+- https://openalex.org/W2945827377
+- https://openalex.org/W2945848398
+- https://openalex.org/W2946061017
+- https://openalex.org/W2946379006
+- https://openalex.org/W2946542158
+- https://openalex.org/W2947665307
+- https://openalex.org/W2947873642
+- https://openalex.org/W2948047609
+- https://openalex.org/W2948268323
+- https://openalex.org/W2949208225
+- https://openalex.org/W2949266350
+- https://openalex.org/W2949455170
+- https://openalex.org/W2949945331
+- https://openalex.org/W2950228652
+- https://openalex.org/W2950393809
+- https://openalex.org/W2950577311
+- https://openalex.org/W2950898568
+- https://openalex.org/W2951063632
+- https://openalex.org/W2951157442
+- https://openalex.org/W2951403367
+- https://openalex.org/W2951598942
+- https://openalex.org/W2951659295
+- https://openalex.org/W2952029609
+- https://openalex.org/W2952121371
+- https://openalex.org/W2952191002
+- https://openalex.org/W2952205826
+- https://openalex.org/W2952332632
+- https://openalex.org/W2952433032
+- https://openalex.org/W2952832237
+- https://openalex.org/W2952915411
+- https://openalex.org/W2953048569
+- https://openalex.org/W2953054275
+- https://openalex.org/W2953060237
+- https://openalex.org/W2961051133
+- https://openalex.org/W2962711740
+- https://openalex.org/W2962756421
+- https://openalex.org/W2962779575
+- https://openalex.org/W2962810718
+- https://openalex.org/W2962937159
+- https://openalex.org/W2962946486
+- https://openalex.org/W2962975498
+- https://openalex.org/W2963017945
+- https://openalex.org/W2963020213
+- https://openalex.org/W2963021451
+- https://openalex.org/W2963052338
+- https://openalex.org/W2963066159
+- https://openalex.org/W2963076818
+- https://openalex.org/W2963091558
+- https://openalex.org/W2963165299
+- https://openalex.org/W2963175158
+- https://openalex.org/W2963224980
+- https://openalex.org/W2963281829
+- https://openalex.org/W2963312446
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963358464
+- https://openalex.org/W2963396480
+- https://openalex.org/W2963406064
+- https://openalex.org/W2963446712
+- https://openalex.org/W2963460103
+- https://openalex.org/W2963461379
+- https://openalex.org/W2963464736
+- https://openalex.org/W2963486920
+- https://openalex.org/W2963497309
+- https://openalex.org/W2963499994
+- https://openalex.org/W2963512530
+- https://openalex.org/W2963521729
+- https://openalex.org/W2963581908
+- https://openalex.org/W2963662654
+- https://openalex.org/W2963693726
+- https://openalex.org/W2963695795
+- https://openalex.org/W2963716836
+- https://openalex.org/W2963791934
+- https://openalex.org/W2963858333
+- https://openalex.org/W2963867952
+- https://openalex.org/W2963907629
+- https://openalex.org/W2963920355
+- https://openalex.org/W2963964898
+- https://openalex.org/W2963984147
+- https://openalex.org/W2964015378
+- https://openalex.org/W2964051675
+- https://openalex.org/W2964080601
+- https://openalex.org/W2964116313
+- https://openalex.org/W2964145825
+- https://openalex.org/W2964167098
+- https://openalex.org/W2964236544
+- https://openalex.org/W2964308564
+- https://openalex.org/W2964311892
+- https://openalex.org/W2965044668
+- https://openalex.org/W2965857891
+- https://openalex.org/W2966121357
+- https://openalex.org/W2966123464
+- https://openalex.org/W2968397098
+- https://openalex.org/W2969677753
+- https://openalex.org/W2970066309
+- https://openalex.org/W2970235396
+- https://openalex.org/W2970929262
+- https://openalex.org/W2971074627
+- https://openalex.org/W2975166957
+- https://openalex.org/W2975424829
+- https://openalex.org/W2979300990
+- https://openalex.org/W2979750740
+- https://openalex.org/W2983466427
+- https://openalex.org/W2985331920
+- https://openalex.org/W2985576648
+- https://openalex.org/W2987119394
+- https://openalex.org/W2994710732
+- https://openalex.org/W2994872359
+- https://openalex.org/W2994968268
+- https://openalex.org/W2995914187
+- https://openalex.org/W2995983896
+- https://openalex.org/W2996451395
+- https://openalex.org/W2996471083
+- https://openalex.org/W2996604169
+- https://openalex.org/W2997035976
+- https://openalex.org/W2997848713
+- https://openalex.org/W2998313947
+- https://openalex.org/W2998496395
+- https://openalex.org/W3000577518
+- https://openalex.org/W3001935646
+- https://openalex.org/W3004507689
+- https://openalex.org/W3005104128
+- https://openalex.org/W3005552578
+- https://openalex.org/W3007332492
+- https://openalex.org/W3010021337
+- https://openalex.org/W3012123536
+- https://openalex.org/W3014996559
+- https://openalex.org/W3019011053
+- https://openalex.org/W3022208364
+- https://openalex.org/W3023946943
+- https://openalex.org/W3033780210
+- https://openalex.org/W3034371431
+- https://openalex.org/W3034478396
+- https://openalex.org/W3034808961
+- https://openalex.org/W3034828027
+- https://openalex.org/W3035356236
+- https://openalex.org/W3036446966
+- https://openalex.org/W3037484566
+- https://openalex.org/W3039500550
+- https://openalex.org/W3040115141
+- https://openalex.org/W3050618733
+- https://openalex.org/W3080690551
+- https://openalex.org/W3080997787
+- https://openalex.org/W3081790964
+- https://openalex.org/W3081963674
+- https://openalex.org/W3098230582
+- https://openalex.org/W3099152386
+- https://openalex.org/W3100078588
+- https://openalex.org/W3100157108
+- https://openalex.org/W3100848837
+- https://openalex.org/W3103513278
+- https://openalex.org/W3103720336
+- https://openalex.org/W3104097132
+- https://openalex.org/W3104326162
+- https://openalex.org/W3104425534
+- https://openalex.org/W3105136071
+- https://openalex.org/W3105705953
+- https://openalex.org/W3121876281
+- https://openalex.org/W3124713481
+- https://openalex.org/W3144386677
+- https://openalex.org/W41554520
+- https://openalex.org/W4210257598
+- https://openalex.org/W4287749054
+- https://openalex.org/W4287780403
+- https://openalex.org/W4288275971
+- https://openalex.org/W4289549256
+- https://openalex.org/W4293412117
+- https://openalex.org/W4293651439
+- https://openalex.org/W4294568351
+- https://openalex.org/W4297742767
+- https://openalex.org/W4300427688
+- https://openalex.org/W4302284437
+- https://openalex.org/W637153065
+primary_topic: Advanced Graph Neural Networks
+open_access: true

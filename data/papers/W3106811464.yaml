@@ -1,0 +1,918 @@
+id: https://openalex.org/W3106811464
+doi: https://doi.org/10.1093/nar/gkaa1043
+title: The Human Phenotype Ontology in 2021
+publication_date: '2020-11-16'
+publication_year: 2020
+cited_by_count: 1014
+citation_percentile: 0.999951
+pagerank: 2.6003687598289966e-06
+authorships:
+- author_id: https://openalex.org/A5047602412
+  display_name: "Sebastian K\xF6hler"
+  orcid: https://orcid.org/0000-0002-5316-1399
+  author_position: first
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Ada Health GmbH, Berlin, Germany; Monarch Initiative
+  - Monarch Initiative
+- author_id: https://openalex.org/A5053722282
+  display_name: Michael Gargano
+  orcid: https://orcid.org/0000-0002-2157-3591
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115256
+    display_name: Jackson Laboratory
+    ror: https://ror.org/021sy4w91
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monarch Initiative; The Jackson Laboratory for Genomic Medicine, Farmington, CT,
+    USA
+  - The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA
+- author_id: https://openalex.org/A5040603724
+  display_name: Nicolas Matentzoglu
+  orcid: https://orcid.org/0000-0002-7356-1779
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - European Bioinformatics Institute (EMBL-EBI)
+  - European Bioinformatics Institute (EMBL-EBI); Monarch Initiative; Semanticly Ltd,
+    London, UK
+  - Semanticly Ltd, London, UK
+- author_id: https://openalex.org/A5086465925
+  display_name: Leigh Carmody
+  orcid: https://orcid.org/0000-0001-7941-2961
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115256
+    display_name: Jackson Laboratory
+    ror: https://ror.org/021sy4w91
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monarch Initiative; The Jackson Laboratory for Genomic Medicine, Farmington, CT,
+    USA
+  - The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA
+- author_id: https://openalex.org/A5101565605
+  display_name: "David Lewis\u2010Smith"
+  orcid: https://orcid.org/0000-0002-1735-8178
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84884186
+    display_name: Newcastle University
+    ror: https://ror.org/01kj2bm70
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2801663869
+    display_name: Newcastle upon Tyne Hospitals NHS Foundation Trust
+    ror: https://ror.org/05p40t847
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Neurosciences, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle
+    upon Tyne, UK
+  - Clinical Neurosciences, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle
+    upon Tyne, UK; Translational and Clinical Research Institute, Newcastle University,
+    Newcastle upon Tyne, UK
+- author_id: https://openalex.org/A5041814853
+  display_name: Nicole Vasilevsky
+  orcid: https://orcid.org/0000-0001-5208-3432
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monarch Initiative; Oregon Clinical & Translational Research Institute, Oregon
+    Health & Science University
+  - Oregon Clinical & Translational Research Institute, Oregon Health & Science University
+- author_id: https://openalex.org/A5041560815
+  display_name: "Daniel Dani\u0161"
+  orcid: https://orcid.org/0000-0003-0900-3411
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings: []
+- author_id: https://openalex.org/A5002614095
+  display_name: Ganna Balagura
+  orcid: https://orcid.org/0000-0003-0212-8318
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I83816512
+    display_name: University of Genoa
+    ror: https://ror.org/0107c5v14
+    country_code: IT
+    type: funder
+  - id: https://openalex.org/I2801463291
+    display_name: Istituto Giannina Gaslini
+    ror: https://ror.org/0424g0k78
+    country_code: IT
+    type: healthcare
+  - id: https://openalex.org/I4210153126
+    display_name: Istituti di Ricovero e Cura a Carattere Scientifico
+    ror: https://ror.org/04tfzc498
+    country_code: IT
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, and Maternal
+    and Child Health, University of Genoa, Genoa, Italy
+  - "Pediatric Neurology and Muscular Diseases Unit, IRCCS \u2018G. Gaslini\u2019\
+    \ Institute, Genoa, Italy"
+- author_id: https://openalex.org/A5089939981
+  display_name: Gareth Baynam
+  orcid: https://orcid.org/0000-0003-4920-9553
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I175234967
+    display_name: The Kids Research Institute Australia
+    ror: https://ror.org/01dbmzx78
+    country_code: AU
+    type: nonprofit
+  - id: https://openalex.org/I177877127
+    display_name: The University of Western Australia
+    ror: https://ror.org/047272k79
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I2801351171
+    display_name: King Edward Memorial Hospital
+    ror: https://ror.org/00ns3e792
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Telethon Kids Institute and the Division of Paediatrics, Faculty of Helath and
+    Medical Sciences, University of Western Australia, Perth, Australia
+  - Telethon Kids Institute and the Division of Paediatrics, Faculty of Helath and
+    Medical Sciences, University of Western Australia, Perth, Australia; Western Australian
+    Register of Developmental Anomalies, King Edward memorial Hospital, Perth, Australia
+- author_id: https://openalex.org/A5085738130
+  display_name: Amy Brower
+  orcid: https://orcid.org/0000-0001-6621-1247
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801706311
+    display_name: American College of Medical Genetics
+    ror: https://ror.org/02h3se683
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - American College of Medical Genetics and Genomics (ACMG), Bethesda, MD, USA
+- author_id: https://openalex.org/A5031147343
+  display_name: Tiffany J Callahan
+  orcid: https://orcid.org/0000-0002-8169-9049
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I51713134
+    display_name: University of Colorado Anschutz Medical Campus
+    ror: https://ror.org/03wmf1y16
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computational Bioscience Program, University of Colorado Anschutz Medical Campus,
+    Colorado, USA
+- author_id: https://openalex.org/A5060390916
+  display_name: Christopher G. Chute
+  orcid: https://orcid.org/0000-0001-5437-2545
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Johns Hopkins University Schools of Medicine, Public Health, and Nursing
+- author_id: https://openalex.org/A5044656135
+  display_name: Johanna L Est
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pediatrics, Dr. von Hauner Children's Hospital, University Hospital,\
+    \ Ludwig-Maximilians-Universit\xE4t M\xFCnchen, Munich, Germany"
+- author_id: https://openalex.org/A5030610444
+  display_name: Peter D. Galer
+  orcid: https://orcid.org/0000-0002-6408-0906
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335321130
+    display_name: Children's Hospital of Philadelphia
+    ror: https://ror.org/01z7r7q48
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical and Health Informatics (DBHi), Children's Hospital of
+    Philadelphia, Philadelphia, PA, USA
+  - Division of Neurology, Children's Hospital of Philadelphia, Philadelphia, PA,
+    USA
+- author_id: https://openalex.org/A5005220469
+  display_name: Shiva Ganesan
+  orcid: https://orcid.org/0000-0002-2518-6505
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335321130
+    display_name: Children's Hospital of Philadelphia
+    ror: https://ror.org/01z7r7q48
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical and Health Informatics (DBHi), Children's Hospital of
+    Philadelphia, Philadelphia, PA, USA
+  - Division of Neurology, Children's Hospital of Philadelphia, Philadelphia, PA,
+    USA
+- author_id: https://openalex.org/A5065547785
+  display_name: Matthias Griese
+  orcid: https://orcid.org/0000-0003-0113-912X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210129183
+    display_name: German Center for Lung Research
+    ror: https://ror.org/03dx11k66
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pediatrics, Dr. von Hauner Children's Hospital, University Hospital,\
+    \ Ludwig-Maximilians-Universit\xE4t M\xFCnchen, Munich, Germany"
+  - Ludwig-Maximilians University, German Center for Lung Research (DZL), Munich,
+    Germany
+- author_id: https://openalex.org/A5021650465
+  display_name: Matthias Haimel
+  orcid: https://orcid.org/0000-0002-0320-0214
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142115
+    display_name: Ludwig Boltzmann Institute for Rare and Undiagnosed Diseases
+    ror: https://ror.org/03hgkg910
+    country_code: AT
+    type: facility
+  - id: https://openalex.org/I138211613
+    display_name: Austrian Academy of Sciences
+    ror: https://ror.org/03anc3s24
+    country_code: AT
+    type: government
+  - id: https://openalex.org/I4210127611
+    display_name: CeMM Research Center for Molecular Medicine
+    ror: https://ror.org/02z2dfb58
+    country_code: AT
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences,
+    Vienna, Austria
+  - CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences,
+    Vienna, Austria; Ludwig Boltzmann Institute for Rare and Undiagnosed Diseases,
+    Vienna, Austria
+- author_id: https://openalex.org/A5007717863
+  display_name: "J\xFAlia P\xE1zm\xE1ndi"
+  orcid: https://orcid.org/0000-0003-3411-9598
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I138211613
+    display_name: Austrian Academy of Sciences
+    ror: https://ror.org/03anc3s24
+    country_code: AT
+    type: government
+  - id: https://openalex.org/I140172145
+    display_name: University of Connecticut
+    ror: https://ror.org/02der9h97
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210142115
+    display_name: Ludwig Boltzmann Institute for Rare and Undiagnosed Diseases
+    ror: https://ror.org/03hgkg910
+    country_code: AT
+    type: facility
+  - id: https://openalex.org/I4210127611
+    display_name: CeMM Research Center for Molecular Medicine
+    ror: https://ror.org/02z2dfb58
+    country_code: AT
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences,
+    Vienna, Austria
+  - CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences,
+    Vienna, Austria; Institute for Systems Genomics, University of Connecticut, Farmington,
+    CT 06032, USA; Ludwig Boltzmann Institute for Rare and Undiagnosed Diseases, Vienna,
+    Austria
+  - Institute for Systems Genomics, University of Connecticut, Farmington, CT 06032,
+    USA
+- author_id: https://openalex.org/A5026374762
+  display_name: Marc Hanauer
+  orcid: https://orcid.org/0000-0002-6758-2506
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210133579
+    display_name: Orphanet
+    ror: https://ror.org/03d3kf570
+    country_code: FR
+    type: other
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "INSERM, US14\u2013\u2013Orphanet, Plateforme Maladies Rares, Paris, France"
+- author_id: https://openalex.org/A5031007073
+  display_name: Nomi L. Harris
+  orcid: https://orcid.org/0000-0001-6315-3707
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory,
+    Berkeley CA, USA
+  - Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory,
+    Berkeley CA, USA; Monarch Initiative
+- author_id: https://openalex.org/A5067392084
+  display_name: M. J. Hartnett
+  orcid: https://orcid.org/0000-0002-2388-8028
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801706311
+    display_name: American College of Medical Genetics
+    ror: https://ror.org/02h3se683
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - American College of Medical Genetics and Genomics (ACMG), Bethesda, MD, USA
+- author_id: https://openalex.org/A5067591312
+  display_name: Maximilian Hastreiter
+  orcid: https://orcid.org/0000-0003-3288-4229
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pediatrics, Dr. von Hauner Children's Hospital, University Hospital,\
+    \ Ludwig-Maximilians-Universit\xE4t M\xFCnchen, Munich, Germany"
+- author_id: https://openalex.org/A5022055968
+  display_name: Fabian Hauck
+  orcid: https://orcid.org/0000-0001-9644-2003
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210115305
+    display_name: German Center for Infection Research
+    ror: https://ror.org/028s4q594
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pediatrics, Dr. von Hauner Children's Hospital, University Hospital,\
+    \ Ludwig-Maximilians-Universit\xE4t M\xFCnchen, Munich, Germany"
+  - German Centre for Infection Research (DZIF), Munich, Germany
+- author_id: https://openalex.org/A5024742201
+  display_name: Yongqun He
+  orcid: https://orcid.org/0000-0001-9189-9661
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Unit for Laboratory Animal Medicine, Department of Microbiology and Immunology,
+    Center for Computational Medicine and Bioinformatics, University of Michigan Medical
+    School, Ann Arbor, MI, USA
+- author_id: https://openalex.org/A5055801959
+  display_name: Tim Jeske
+  orcid: https://orcid.org/0000-0003-2511-4699
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pediatrics, Dr. von Hauner Children's Hospital, University Hospital,\
+    \ Ludwig-Maximilians-Universit\xE4t M\xFCnchen, Munich, Germany"
+- author_id: https://openalex.org/A5006080988
+  display_name: Hugh Kearney
+  orcid: https://orcid.org/0000-0003-2320-3487
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - FutureNeuro, SFI Research Centre for Chronic and Rare Neurological Diseases, Ireland
+- author_id: https://openalex.org/A5056926926
+  display_name: Gerhard Kindle
+  orcid: https://orcid.org/0000-0003-0894-5327
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161046081
+    display_name: University of Freiburg
+    ror: https://ror.org/0245cg223
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I2801240073
+    display_name: University Medical Center Freiburg
+    ror: https://ror.org/03vzbgh69
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Biobanking FREEZE, Faculty of Medicine, Medical Center - University
+    of Freiburg, Freiburg, Germany
+  - Institute for Immunodeficiency, Center for Chronic Immunodeficiency (CCI). Faculty
+    of Medicine, Medical Center - University of Freiburg, Freiburg, Germany
+- author_id: https://openalex.org/A5103124036
+  display_name: Christoph Klein
+  orcid: https://orcid.org/0000-0003-0956-0445
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pediatrics, Dr. von Hauner Children's Hospital, University Hospital,\
+    \ Ludwig-Maximilians-Universit\xE4t M\xFCnchen, Munich, Germany"
+- author_id: https://openalex.org/A5076547913
+  display_name: Katrin Knoflach
+  orcid: https://orcid.org/0000-0002-0104-692X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210129183
+    display_name: German Center for Lung Research
+    ror: https://ror.org/03dx11k66
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pediatrics, Dr. von Hauner Children's Hospital, University Hospital,\
+    \ Ludwig-Maximilians-Universit\xE4t M\xFCnchen, Munich, Germany"
+  - Ludwig-Maximilians University, German Center for Lung Research (DZL), Munich,
+    Germany
+- author_id: https://openalex.org/A5061416344
+  display_name: Roland Krause
+  orcid: https://orcid.org/0000-0001-9938-7126
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186903577
+    display_name: University of Luxembourg
+    ror: https://ror.org/036x5ad56
+    country_code: LU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Luxembourg Centre for Systems Biomedicine, University of Luxembourg, L-4367 Belvaux,
+    Luxembourg
+- author_id: https://openalex.org/A5004457073
+  display_name: David Lagorce
+  orcid: https://orcid.org/0000-0002-7356-7986
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210133579
+    display_name: Orphanet
+    ror: https://ror.org/03d3kf570
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "INSERM, US14\u2013\u2013Orphanet, Plateforme Maladies Rares, Paris, France"
+- author_id: https://openalex.org/A5050577151
+  display_name: Julie A. McMurry
+  orcid: https://orcid.org/0000-0002-9353-5498
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I131249849
+    display_name: Oregon State University
+    ror: https://ror.org/00ysfqy60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monarch Initiative; Translational and Integrative Sciences Center, Department
+    of Environmental and Molecular Toxicology, Oregon State University, OR, USA
+  - Translational and Integrative Sciences Center, Department of Environmental and
+    Molecular Toxicology, Oregon State University, OR, USA
+- author_id: https://openalex.org/A5067613618
+  display_name: Jillian A. Miller
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801706311
+    display_name: American College of Medical Genetics
+    ror: https://ror.org/02h3se683
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - American College of Medical Genetics and Genomics (ACMG), Bethesda, MD, USA
+- author_id: https://openalex.org/A5106027423
+  display_name: "Monica Mu\xF1oz\u2010Torres"
+  orcid: https://orcid.org/0000-0001-8430-6039
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I131249849
+    display_name: Oregon State University
+    ror: https://ror.org/00ysfqy60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monarch Initiative; Translational and Integrative Sciences Center, Department
+    of Environmental and Molecular Toxicology, Oregon State University, OR, USA
+  - Translational and Integrative Sciences Center, Department of Environmental and
+    Molecular Toxicology, Oregon State University, OR, USA
+- author_id: https://openalex.org/A5080470255
+  display_name: Rebecca L. Peters
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801706311
+    display_name: American College of Medical Genetics
+    ror: https://ror.org/02h3se683
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - American College of Medical Genetics and Genomics (ACMG), Bethesda, MD, USA
+- author_id: https://openalex.org/A5007892462
+  display_name: Christina Rapp
+  orcid: https://orcid.org/0000-0002-7371-8158
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210129183
+    display_name: German Center for Lung Research
+    ror: https://ror.org/03dx11k66
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Pediatrics, Dr. von Hauner Children's Hospital, University Hospital,\
+    \ Ludwig-Maximilians-Universit\xE4t M\xFCnchen, Munich, Germany"
+  - Ludwig-Maximilians University, German Center for Lung Research (DZL), Munich,
+    Germany
+- author_id: https://openalex.org/A5020619492
+  display_name: Ana Rath
+  orcid: https://orcid.org/0000-0003-4308-6337
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210133579
+    display_name: Orphanet
+    ror: https://ror.org/03d3kf570
+    country_code: FR
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "INSERM, US14\u2013\u2013Orphanet, Plateforme Maladies Rares, Paris, France"
+- author_id: https://openalex.org/A5035193329
+  display_name: Shahmir A Rind
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I205640436
+    display_name: Curtin University
+    ror: https://ror.org/02n415q13
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Curtin University, Western Australia, Australia
+  - Curtin University, Western Australia, Australia; WA Register of Developmental
+    Anomalies
+- author_id: https://openalex.org/A5030215181
+  display_name: Avi Z. Rosenberg
+  orcid: https://orcid.org/0000-0003-2356-950X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311948
+    display_name: Johns Hopkins University
+    ror: https://ror.org/00za53h95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Kidney-Urologic Pathology, Johns Hopkins University, Baltimore, MD
+    21205, USA
+- author_id: https://openalex.org/A5000859866
+  display_name: Michael M. Segal
+  orcid: https://orcid.org/0000-0002-2487-6221
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210135407
+    display_name: SimulConsult
+    ror: https://ror.org/031gdw727
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "SimulConsult, Inc., Chestnut Hill, MA,\_USA"
+- author_id: https://openalex.org/A5027980182
+  display_name: Markus G. Seidel
+  orcid: https://orcid.org/0000-0003-0981-8661
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202276237
+    display_name: Medical University of Graz
+    ror: https://ror.org/02n0bts35
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Unit for Pediatric Hematology and Immunology, Division of Pediatric Hemato-Oncology,
+    Department of Pediatrics and Adolescent Medicine, Medical University of Graz,
+    Graz, Austria
+- author_id: https://openalex.org/A5009950897
+  display_name: Damian Smedley
+  orcid: https://orcid.org/0000-0002-5836-9850
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149920
+    display_name: William Harvey Research Institute
+    ror: https://ror.org/0574dzy90
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I166337079
+    display_name: Queen Mary University of London
+    ror: https://ror.org/026zzn846
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The William Harvey Research Institute, Charterhouse Square Barts and the London
+    School of Medicine and Dentistry Queen Mary University of London, London EC1M
+    6BQ, UK
+- author_id: https://openalex.org/A5091115536
+  display_name: Tomer Talmy
+  orcid: https://orcid.org/0000-0002-7440-8864
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Hebrew University Hadassah Medical School, Jerusalem, Israel
+  - Faculty of Medicine, Hebrew University Hadassah Medical School, Jerusalem, Israel;
+    Genomic Research Department, Emedgene Technologies, Tel Aviv, Israel
+- author_id: https://openalex.org/A5079699606
+  display_name: Yarlalu Thomas
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - West Australian Register of Developmental Anomalies, East Perth, WA, Australia
+- author_id: https://openalex.org/A5005808973
+  display_name: Samuel Agyei Wiafe
+  orcid: https://orcid.org/0000-0003-2125-2285
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210159584
+    display_name: Ghana Health Service
+    ror: https://ror.org/052ss8w32
+    country_code: GH
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Rare Disease Ghana Initiative, Ghana
+- author_id: https://openalex.org/A5059068167
+  display_name: Julie Xian
+  orcid: https://orcid.org/0000-0002-0205-0648
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335321130
+    display_name: Children's Hospital of Philadelphia
+    ror: https://ror.org/01z7r7q48
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Neurology, Children's Hospital of Philadelphia, Philadelphia, PA,
+    USA
+  - The Epilepsy NeuroGenetics Initiative (ENGIN), Children's Hospital of Philadelphia,
+    PA, USA
+- author_id: https://openalex.org/A5062682232
+  display_name: "Zafer Y\xFCksel"
+  orcid: https://orcid.org/0000-0002-2085-5773
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genetics, Bioscientia GmbH, Ingelheim, Germany
+- author_id: https://openalex.org/A5102859760
+  display_name: Ingo Helbig
+  orcid: https://orcid.org/0000-0001-8486-0558
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1335321130
+    display_name: Children's Hospital of Philadelphia
+    ror: https://ror.org/01z7r7q48
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I79576946
+    display_name: University of Pennsylvania
+    ror: https://ror.org/00b30xv10
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neurology, University of Pennsylvania, Perelman School of Medicine,
+    Philadelphia, PA, USA; The Epilepsy NeuroGenetics Initiative (ENGIN), Children's
+    Hospital of Philadelphia, Philadelphia, PA, USA
+  - The Epilepsy NeuroGenetics Initiative (ENGIN), Children's Hospital of Philadelphia,
+    Philadelphia, PA, USA
+- author_id: https://openalex.org/A5002223413
+  display_name: Chris Mungall
+  orcid: https://orcid.org/0000-0002-6601-2165
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory,
+    Berkeley CA, USA
+  - Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory,
+    Berkeley CA, USA; Monarch Initiative
+- author_id: https://openalex.org/A5064320417
+  display_name: Melissa Haendel
+  orcid: https://orcid.org/0000-0001-9114-8737
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165690674
+    display_name: Oregon Health & Science University
+    ror: https://ror.org/009avj582
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I131249849
+    display_name: Oregon State University
+    ror: https://ror.org/00ysfqy60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monarch Initiative; Oregon Clinical & Translational Research Institute, Oregon
+    Health & Science University; Translational and Integrative Sciences Center, Department
+    of Environmental and Molecular Toxicology, Oregon State University, OR, USA
+  - Oregon Clinical & Translational Research Institute, Oregon Health & Science University
+  - Translational and Integrative Sciences Center, Department of Environmental and
+    Molecular Toxicology, Oregon State University, OR, USA
+- author_id: https://openalex.org/A5033225381
+  display_name: Peter N. Robinson
+  orcid: https://orcid.org/0000-0002-0736-9199
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I140172145
+    display_name: University of Connecticut
+    ror: https://ror.org/02der9h97
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210115256
+    display_name: Jackson Laboratory
+    ror: https://ror.org/021sy4w91
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Systems Genomics, University of Connecticut, Farmington, CT 06032,
+    USA
+  - Institute for Systems Genomics, University of Connecticut, Farmington, CT 06032,
+    USA; Monarch Initiative; The Jackson Laboratory for Genomic Medicine, Farmington,
+    CT, USA
+  - The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA
+referenced_works:
+- https://openalex.org/W1617386893
+- https://openalex.org/W1659163511
+- https://openalex.org/W1856414226
+- https://openalex.org/W1967049884
+- https://openalex.org/W1984675794
+- https://openalex.org/W2001465365
+- https://openalex.org/W2006719549
+- https://openalex.org/W2021356296
+- https://openalex.org/W2036841261
+- https://openalex.org/W2062895901
+- https://openalex.org/W2069303969
+- https://openalex.org/W2089903000
+- https://openalex.org/W2104008606
+- https://openalex.org/W2104608657
+- https://openalex.org/W2134140887
+- https://openalex.org/W2136410628
+- https://openalex.org/W2143742443
+- https://openalex.org/W2145664048
+- https://openalex.org/W2147834895
+- https://openalex.org/W2152889283
+- https://openalex.org/W2153456016
+- https://openalex.org/W2154896797
+- https://openalex.org/W2157365260
+- https://openalex.org/W2157970897
+- https://openalex.org/W2164429238
+- https://openalex.org/W2165748167
+- https://openalex.org/W2170282111
+- https://openalex.org/W2246559112
+- https://openalex.org/W2260396455
+- https://openalex.org/W2546737004
+- https://openalex.org/W2557385283
+- https://openalex.org/W2558643140
+- https://openalex.org/W2592509339
+- https://openalex.org/W2594644573
+- https://openalex.org/W2624086276
+- https://openalex.org/W2766577411
+- https://openalex.org/W2809721358
+- https://openalex.org/W2898031839
+- https://openalex.org/W2899205021
+- https://openalex.org/W2901332105
+- https://openalex.org/W2901527454
+- https://openalex.org/W2904322551
+- https://openalex.org/W2905441841
+- https://openalex.org/W2909934462
+- https://openalex.org/W2914208637
+- https://openalex.org/W2916913049
+- https://openalex.org/W2928818852
+- https://openalex.org/W2934263263
+- https://openalex.org/W2944885503
+- https://openalex.org/W2951325282
+- https://openalex.org/W2953836043
+- https://openalex.org/W2963784716
+- https://openalex.org/W2980768184
+- https://openalex.org/W2982102213
+- https://openalex.org/W3000301584
+- https://openalex.org/W3018501516
+- https://openalex.org/W3023115273
+- https://openalex.org/W3046999130
+- https://openalex.org/W3047173169
+- https://openalex.org/W3048217406
+- https://openalex.org/W3080951636
+- https://openalex.org/W3087585143
+- https://openalex.org/W3129128079
+- https://openalex.org/W4211134077
+- https://openalex.org/W4212919921
+- https://openalex.org/W4248307879
+primary_topic: Genomics and Rare Diseases
+open_access: true

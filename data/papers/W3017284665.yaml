@@ -1,0 +1,1046 @@
+id: https://openalex.org/W3017284665
+doi: https://doi.org/10.1063/5.0005081
+title: The Molpro quantum chemistry package
+publication_date: '2020-04-13'
+publication_year: 2020
+cited_by_count: 1105
+citation_percentile: 0.999941
+pagerank: 2.5333549396949514e-06
+authorships:
+- author_id: https://openalex.org/A5053392592
+  display_name: "Hans\u2010Joachim Werner"
+  orcid: https://orcid.org/0000-0002-0435-539X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I100066346
+    display_name: University of Stuttgart
+    ror: https://ror.org/04vnq7t77
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "Institut f\xFCr Theoretische Chemie, Universit\xE4t Stuttgart 1 , Pfaffenwaldring\
+    \ 55, 70569 Stuttgart, Germany"
+- author_id: https://openalex.org/A5057232293
+  display_name: Peter J. Knowles
+  orcid: https://orcid.org/0000-0003-4657-6331
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - School of Chemistry, Cardiff University 2 , Main Building, Park Place, Cardiff
+    CF10 3AT, United Kingdom
+- author_id: https://openalex.org/A5047254860
+  display_name: Frederick R. Manby
+  orcid: https://orcid.org/0000-0001-7611-714X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+- author_id: https://openalex.org/A5009750574
+  display_name: Joshua A. Black
+  orcid: https://orcid.org/0000-0003-3819-3074
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I100066346
+    display_name: University of Stuttgart
+    ror: https://ror.org/04vnq7t77
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "Institut f\xFCr Theoretische Chemie, Universit\xE4t Stuttgart 1 , Pfaffenwaldring\
+    \ 55, 70569 Stuttgart, Germany"
+- author_id: https://openalex.org/A5013353661
+  display_name: K. Doll
+  orcid: https://orcid.org/0000-0002-4701-6654
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I100066346
+    display_name: University of Stuttgart
+    ror: https://ror.org/04vnq7t77
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "Institut f\xFCr Theoretische Chemie, Universit\xE4t Stuttgart 1 , Pfaffenwaldring\
+    \ 55, 70569 Stuttgart, Germany"
+- author_id: https://openalex.org/A5000560894
+  display_name: "Andreas He\xDFelmann"
+  orcid: https://orcid.org/0000-0002-0544-8854
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I100066346
+    display_name: University of Stuttgart
+    ror: https://ror.org/04vnq7t77
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "Institut f\xFCr Theoretische Chemie, Universit\xE4t Stuttgart 1 , Pfaffenwaldring\
+    \ 55, 70569 Stuttgart, Germany"
+- author_id: https://openalex.org/A5071087761
+  display_name: Daniel Kats
+  orcid: https://orcid.org/0000-0002-7274-0601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+- author_id: https://openalex.org/A5037456696
+  display_name: "Andreas K\xF6hn"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I100066346
+    display_name: University of Stuttgart
+    ror: https://ror.org/04vnq7t77
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "Institut f\xFCr Theoretische Chemie, Universit\xE4t Stuttgart 1 , Pfaffenwaldring\
+    \ 55, 70569 Stuttgart, Germany"
+- author_id: https://openalex.org/A5032972680
+  display_name: Tatiana Korona
+  orcid: https://orcid.org/0000-0001-7169-3412
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - Faculty of Chemistry, University of Warsaw 5 , L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+- author_id: https://openalex.org/A5004110660
+  display_name: David A. Kreplin
+  orcid: https://orcid.org/0000-0002-8129-6864
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I100066346
+    display_name: University of Stuttgart
+    ror: https://ror.org/04vnq7t77
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "Institut f\xFCr Theoretische Chemie, Universit\xE4t Stuttgart 1 , Pfaffenwaldring\
+    \ 55, 70569 Stuttgart, Germany"
+- author_id: https://openalex.org/A5078501702
+  display_name: Qianli Ma
+  orcid: https://orcid.org/0000-0001-7971-0774
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I100066346
+    display_name: University of Stuttgart
+    ror: https://ror.org/04vnq7t77
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "Institut f\xFCr Theoretische Chemie, Universit\xE4t Stuttgart 1 , Pfaffenwaldring\
+    \ 55, 70569 Stuttgart, Germany"
+- author_id: https://openalex.org/A5028949819
+  display_name: Thomas F. Miller
+  orcid: https://orcid.org/0000-0002-1882-5380
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - Division of Chemistry and Chemical Engineering, California Institute of Technology
+    6 , Pasadena, California 91125, USA
+- author_id: https://openalex.org/A5011650111
+  display_name: Alexander O. Mitrushchenkov
+  orcid: https://orcid.org/0000-0002-2122-7322
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I1294671590
+    display_name: Centre National de la Recherche Scientifique
+    ror: https://ror.org/02feahw73
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210154111
+    display_name: "Universit\xE9 Gustave Eiffel"
+    ror: https://ror.org/03x42jk29
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210160945
+    display_name: "Laboratoire Mod\xE9lisation et Simulation Multi-Echelle"
+    ror: https://ror.org/04rrzfd14
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "MSME, Universit\xE9 Gustave Eiffel, UPEC, CNRS 7 , F-77454 Marne-la-Vall\xE9\
+    e, France"
+- author_id: https://openalex.org/A5029596133
+  display_name: Kirk A. Peterson
+  orcid: https://orcid.org/0000-0003-4901-3235
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - Department of Chemistry, Washington State University 8 , Pullman, Washington 99164-4630,
+    USA
+- author_id: https://openalex.org/A5054037610
+  display_name: Iakov Polyak
+  orcid: https://orcid.org/0000-0002-2894-0657
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - School of Chemistry, Cardiff University 2 , Main Building, Park Place, Cardiff
+    CF10 3AT, United Kingdom
+- author_id: https://openalex.org/A5059809076
+  display_name: Guntram Rauhut
+  orcid: https://orcid.org/0000-0003-0623-3254
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  - id: https://openalex.org/I100066346
+    display_name: University of Stuttgart
+    ror: https://ror.org/04vnq7t77
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff CF10
+    3AT, United Kingdom
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - "Institut f\xFCr Theoretische Chemie, Universit\xE4t Stuttgart 1 , Pfaffenwaldring\
+    \ 55, 70569 Stuttgart, Germany"
+- author_id: https://openalex.org/A5091252157
+  display_name: Marat Sibaev
+  orcid: https://orcid.org/0000-0002-7623-4992
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I72951846
+    display_name: Washington State University
+    ror: https://ror.org/05dk0ce17
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 5Faculty of Chemistry, University of Warsaw, L. Pasteura 1 St., 02-093 Warsaw,
+    Poland
+  - 6Division of Chemistry and Chemical Engineering, California Institute of Technology,
+    Pasadena, California 91125, USA
+  - 8Department of Chemistry, Washington State University, Pullman, Washington 99164-4630,
+    USA
+  - School of Chemistry, Cardiff University 2 , Main Building, Park Place, Cardiff
+    CF10 3AT, United Kingdom
+referenced_works:
+- https://openalex.org/W1504692380
+- https://openalex.org/W1521857819
+- https://openalex.org/W152584252
+- https://openalex.org/W1546206332
+- https://openalex.org/W1585237846
+- https://openalex.org/W1601709557
+- https://openalex.org/W1601898605
+- https://openalex.org/W1679719986
+- https://openalex.org/W1893186985
+- https://openalex.org/W1900088949
+- https://openalex.org/W1938786353
+- https://openalex.org/W1953850726
+- https://openalex.org/W1964102317
+- https://openalex.org/W1964315851
+- https://openalex.org/W1965366440
+- https://openalex.org/W1967581614
+- https://openalex.org/W1969118028
+- https://openalex.org/W1970148666
+- https://openalex.org/W1970996037
+- https://openalex.org/W1971479746
+- https://openalex.org/W1972347699
+- https://openalex.org/W1973310580
+- https://openalex.org/W1973982199
+- https://openalex.org/W1975492634
+- https://openalex.org/W1976486532
+- https://openalex.org/W1977968611
+- https://openalex.org/W1979530007
+- https://openalex.org/W1979559172
+- https://openalex.org/W1979612778
+- https://openalex.org/W1979852875
+- https://openalex.org/W1980433817
+- https://openalex.org/W1981936878
+- https://openalex.org/W1982101094
+- https://openalex.org/W1982840214
+- https://openalex.org/W1984731366
+- https://openalex.org/W1984745322
+- https://openalex.org/W1984873139
+- https://openalex.org/W1985176292
+- https://openalex.org/W1985583109
+- https://openalex.org/W1987547360
+- https://openalex.org/W1988091937
+- https://openalex.org/W1988485815
+- https://openalex.org/W1988739512
+- https://openalex.org/W1989131555
+- https://openalex.org/W1989371738
+- https://openalex.org/W1989715615
+- https://openalex.org/W1989964669
+- https://openalex.org/W1990032527
+- https://openalex.org/W1990513569
+- https://openalex.org/W1992019262
+- https://openalex.org/W1992297461
+- https://openalex.org/W1992912935
+- https://openalex.org/W1993461592
+- https://openalex.org/W1994734578
+- https://openalex.org/W1994833737
+- https://openalex.org/W1995059952
+- https://openalex.org/W1995624711
+- https://openalex.org/W1996344044
+- https://openalex.org/W1997041494
+- https://openalex.org/W1997401575
+- https://openalex.org/W1997679061
+- https://openalex.org/W1997808756
+- https://openalex.org/W1998705691
+- https://openalex.org/W1998970054
+- https://openalex.org/W1999032932
+- https://openalex.org/W1999351161
+- https://openalex.org/W1999368011
+- https://openalex.org/W1999580515
+- https://openalex.org/W2000193505
+- https://openalex.org/W2000721193
+- https://openalex.org/W2001771353
+- https://openalex.org/W2001786168
+- https://openalex.org/W2002019292
+- https://openalex.org/W2002271791
+- https://openalex.org/W2002839317
+- https://openalex.org/W2003320348
+- https://openalex.org/W2003825227
+- https://openalex.org/W2004298962
+- https://openalex.org/W2004422340
+- https://openalex.org/W2004632686
+- https://openalex.org/W2005276739
+- https://openalex.org/W2006672822
+- https://openalex.org/W2007080527
+- https://openalex.org/W2007194717
+- https://openalex.org/W2007666692
+- https://openalex.org/W2008560164
+- https://openalex.org/W2009596258
+- https://openalex.org/W2009848407
+- https://openalex.org/W2010160067
+- https://openalex.org/W2010764571
+- https://openalex.org/W2011939287
+- https://openalex.org/W2012844791
+- https://openalex.org/W2013341293
+- https://openalex.org/W2013591648
+- https://openalex.org/W2014015984
+- https://openalex.org/W2015115007
+- https://openalex.org/W2015419938
+- https://openalex.org/W2017344081
+- https://openalex.org/W2017618268
+- https://openalex.org/W2018791552
+- https://openalex.org/W2018937156
+- https://openalex.org/W2018984721
+- https://openalex.org/W2019073626
+- https://openalex.org/W2019173319
+- https://openalex.org/W2019607894
+- https://openalex.org/W2021236881
+- https://openalex.org/W2021969858
+- https://openalex.org/W2024357418
+- https://openalex.org/W2024770052
+- https://openalex.org/W2025395507
+- https://openalex.org/W2026275316
+- https://openalex.org/W2027138272
+- https://openalex.org/W2027390178
+- https://openalex.org/W2028302592
+- https://openalex.org/W2028766100
+- https://openalex.org/W2029977265
+- https://openalex.org/W2030246096
+- https://openalex.org/W2030380628
+- https://openalex.org/W2030399252
+- https://openalex.org/W2031436571
+- https://openalex.org/W2031536086
+- https://openalex.org/W2031642824
+- https://openalex.org/W2032436962
+- https://openalex.org/W2032928345
+- https://openalex.org/W2034795880
+- https://openalex.org/W2035611743
+- https://openalex.org/W2035942888
+- https://openalex.org/W2035963412
+- https://openalex.org/W2036286929
+- https://openalex.org/W2037365376
+- https://openalex.org/W2037570317
+- https://openalex.org/W2038166012
+- https://openalex.org/W2038922877
+- https://openalex.org/W2039131705
+- https://openalex.org/W2040134477
+- https://openalex.org/W2040385322
+- https://openalex.org/W2040654649
+- https://openalex.org/W2040770475
+- https://openalex.org/W2043121967
+- https://openalex.org/W2043325406
+- https://openalex.org/W2044490585
+- https://openalex.org/W2044521411
+- https://openalex.org/W2044623480
+- https://openalex.org/W2045191202
+- https://openalex.org/W2045238539
+- https://openalex.org/W2045649029
+- https://openalex.org/W2046323530
+- https://openalex.org/W2046804092
+- https://openalex.org/W2047055568
+- https://openalex.org/W2048104779
+- https://openalex.org/W2048743687
+- https://openalex.org/W2049032211
+- https://openalex.org/W2049743780
+- https://openalex.org/W2050259998
+- https://openalex.org/W2050341780
+- https://openalex.org/W2050890227
+- https://openalex.org/W2051669046
+- https://openalex.org/W2051891162
+- https://openalex.org/W2052312990
+- https://openalex.org/W2053079455
+- https://openalex.org/W2053967659
+- https://openalex.org/W2054134772
+- https://openalex.org/W2054454564
+- https://openalex.org/W2054839455
+- https://openalex.org/W2056294916
+- https://openalex.org/W2056361814
+- https://openalex.org/W2057317197
+- https://openalex.org/W2058679885
+- https://openalex.org/W2060352515
+- https://openalex.org/W2062991523
+- https://openalex.org/W2064142965
+- https://openalex.org/W2064670646
+- https://openalex.org/W2064683068
+- https://openalex.org/W2065607004
+- https://openalex.org/W2066481445
+- https://openalex.org/W2066533111
+- https://openalex.org/W2067365434
+- https://openalex.org/W2067744040
+- https://openalex.org/W2067993716
+- https://openalex.org/W2068044377
+- https://openalex.org/W2068474360
+- https://openalex.org/W2068517452
+- https://openalex.org/W2068617439
+- https://openalex.org/W2069006374
+- https://openalex.org/W2070089774
+- https://openalex.org/W2070203126
+- https://openalex.org/W2071456370
+- https://openalex.org/W2072152845
+- https://openalex.org/W2072433235
+- https://openalex.org/W2075574331
+- https://openalex.org/W2075923006
+- https://openalex.org/W2076640422
+- https://openalex.org/W2077538128
+- https://openalex.org/W2078109147
+- https://openalex.org/W2078226533
+- https://openalex.org/W2079486966
+- https://openalex.org/W2079688533
+- https://openalex.org/W2080323454
+- https://openalex.org/W2080515156
+- https://openalex.org/W2080616035
+- https://openalex.org/W2080942482
+- https://openalex.org/W2081492378
+- https://openalex.org/W2082037815
+- https://openalex.org/W2082685920
+- https://openalex.org/W2083344525
+- https://openalex.org/W2083614708
+- https://openalex.org/W2083805212
+- https://openalex.org/W2084869362
+- https://openalex.org/W2084925257
+- https://openalex.org/W2085400008
+- https://openalex.org/W2085463127
+- https://openalex.org/W2086087071
+- https://openalex.org/W2086445382
+- https://openalex.org/W2087126987
+- https://openalex.org/W2087141492
+- https://openalex.org/W2087548096
+- https://openalex.org/W2087760578
+- https://openalex.org/W2087798044
+- https://openalex.org/W2088222777
+- https://openalex.org/W2089196182
+- https://openalex.org/W2089363127
+- https://openalex.org/W2090230518
+- https://openalex.org/W2090408932
+- https://openalex.org/W2090449616
+- https://openalex.org/W2090576747
+- https://openalex.org/W2091313897
+- https://openalex.org/W2091825943
+- https://openalex.org/W2091841756
+- https://openalex.org/W2092157292
+- https://openalex.org/W2092991358
+- https://openalex.org/W2094657943
+- https://openalex.org/W2095538612
+- https://openalex.org/W2095760405
+- https://openalex.org/W2097064669
+- https://openalex.org/W2099485304
+- https://openalex.org/W2099798607
+- https://openalex.org/W2103577951
+- https://openalex.org/W2106424251
+- https://openalex.org/W2106692395
+- https://openalex.org/W2107053834
+- https://openalex.org/W2108116455
+- https://openalex.org/W2108980885
+- https://openalex.org/W2110169620
+- https://openalex.org/W2115878464
+- https://openalex.org/W2117610958
+- https://openalex.org/W2117813821
+- https://openalex.org/W2119954949
+- https://openalex.org/W2122107589
+- https://openalex.org/W2124501873
+- https://openalex.org/W2125054186
+- https://openalex.org/W2125124657
+- https://openalex.org/W2125132504
+- https://openalex.org/W2131867628
+- https://openalex.org/W2131967190
+- https://openalex.org/W2132300871
+- https://openalex.org/W2139844847
+- https://openalex.org/W2141195972
+- https://openalex.org/W2147403232
+- https://openalex.org/W2147626542
+- https://openalex.org/W2148941593
+- https://openalex.org/W2149578461
+- https://openalex.org/W2159409667
+- https://openalex.org/W2161165925
+- https://openalex.org/W2163786970
+- https://openalex.org/W2165049467
+- https://openalex.org/W2170890983
+- https://openalex.org/W2178371243
+- https://openalex.org/W2200584012
+- https://openalex.org/W2228720787
+- https://openalex.org/W2281112256
+- https://openalex.org/W2293182612
+- https://openalex.org/W2299524532
+- https://openalex.org/W2302487176
+- https://openalex.org/W2312454654
+- https://openalex.org/W2312526324
+- https://openalex.org/W2313988742
+- https://openalex.org/W2314453320
+- https://openalex.org/W2314744781
+- https://openalex.org/W2316928488
+- https://openalex.org/W2316973333
+- https://openalex.org/W2317830521
+- https://openalex.org/W2319715725
+- https://openalex.org/W2322204750
+- https://openalex.org/W2322707652
+- https://openalex.org/W2324756756
+- https://openalex.org/W2325131227
+- https://openalex.org/W2332361929
+- https://openalex.org/W2336270984
+- https://openalex.org/W2338780898
+- https://openalex.org/W2410518780
+- https://openalex.org/W2411765360
+- https://openalex.org/W2413854907
+- https://openalex.org/W2467110156
+- https://openalex.org/W2497631591
+- https://openalex.org/W2503037171
+- https://openalex.org/W2506152722
+- https://openalex.org/W2514348786
+- https://openalex.org/W2521322538
+- https://openalex.org/W2524487874
+- https://openalex.org/W2555295404
+- https://openalex.org/W2564216233
+- https://openalex.org/W2583456228
+- https://openalex.org/W2591626914
+- https://openalex.org/W2602482036
+- https://openalex.org/W2729895185
+- https://openalex.org/W2736977076
+- https://openalex.org/W2737449748
+- https://openalex.org/W2750581623
+- https://openalex.org/W2754419863
+- https://openalex.org/W2756225406
+- https://openalex.org/W2757591247
+- https://openalex.org/W2758748221
+- https://openalex.org/W2762242834
+- https://openalex.org/W2762938773
+- https://openalex.org/W2767011666
+- https://openalex.org/W2767085976
+- https://openalex.org/W2770061486
+- https://openalex.org/W2773683658
+- https://openalex.org/W2775561819
+- https://openalex.org/W2779153778
+- https://openalex.org/W2780190628
+- https://openalex.org/W2782833875
+- https://openalex.org/W2785930969
+- https://openalex.org/W2788086056
+- https://openalex.org/W2790501771
+- https://openalex.org/W2790802574
+- https://openalex.org/W2803342104
+- https://openalex.org/W2813651344
+- https://openalex.org/W2883254239
+- https://openalex.org/W2884025209
+- https://openalex.org/W2888093910
+- https://openalex.org/W2890091749
+- https://openalex.org/W2891883898
+- https://openalex.org/W2898448271
+- https://openalex.org/W2899028777
+- https://openalex.org/W2899607422
+- https://openalex.org/W2902949227
+- https://openalex.org/W2906459032
+- https://openalex.org/W2909341068
+- https://openalex.org/W2913961631
+- https://openalex.org/W2915884877
+- https://openalex.org/W2916663018
+- https://openalex.org/W2922274219
+- https://openalex.org/W2941210941
+- https://openalex.org/W2945883321
+- https://openalex.org/W2946040380
+- https://openalex.org/W2948104505
+- https://openalex.org/W2950389796
+- https://openalex.org/W2965844565
+- https://openalex.org/W2973045663
+- https://openalex.org/W3007103076
+- https://openalex.org/W3098147976
+- https://openalex.org/W3098367200
+- https://openalex.org/W3098801372
+- https://openalex.org/W3100769082
+- https://openalex.org/W3101001242
+- https://openalex.org/W3101447818
+- https://openalex.org/W3102978125
+- https://openalex.org/W3103017484
+- https://openalex.org/W3103359311
+- https://openalex.org/W3105120524
+- https://openalex.org/W3212226821
+- https://openalex.org/W4206649901
+- https://openalex.org/W4231198987
+- https://openalex.org/W4242478301
+- https://openalex.org/W4251375550
+primary_topic: Advanced Chemical Physics Studies
+open_access: true

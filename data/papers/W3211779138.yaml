@@ -1,0 +1,426 @@
+id: https://openalex.org/W3211779138
+doi: https://doi.org/10.1371/journal.pcbi.1009442
+title: Multivariable association discovery in population-scale meta-omics studies
+publication_date: '2021-11-16'
+publication_year: 2021
+cited_by_count: 1707
+citation_percentile: 0.999982
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5008740510
+  display_name: Himel Mallick
+  orcid: https://orcid.org/0000-0003-4956-2429
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5050595648
+  display_name: Ali Rahnavard
+  orcid: https://orcid.org/0000-0002-9710-0248
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193531525
+    display_name: George Washington University
+    ror: https://ror.org/00y4zzh67
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1302991022
+    display_name: Milken Institute
+    ror: https://ror.org/03f5t6469
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Computational Biology Institute, Department of Biostatistics and Bioinformatics,
+    Milken Institute School of Public Health, George Washington University, Washington
+    DC, United States of America
+- author_id: https://openalex.org/A5055202207
+  display_name: Lauren J. McIver
+  orcid: https://orcid.org/0000-0002-2199-4310
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5101896312
+  display_name: Siyuan Ma
+  orcid: https://orcid.org/0000-0003-2313-6448
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5091823129
+  display_name: Yancong Zhang
+  orcid: https://orcid.org/0000-0002-2768-2975
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5100623040
+  display_name: Long H. Nguyen
+  orcid: https://orcid.org/0000-0002-5436-4219
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - Clinical and Translational Epidemiology Unit, Massachusetts General Hospital and
+    Harvard Medical School, Boston, Massachusetts, United States of America
+  - Division of Gastroenterology, Massachusetts General Hospital and Harvard Medical
+    School, Boston, Massachusetts, United States of America
+- author_id: https://openalex.org/A5049288816
+  display_name: Timothy L. Tickle
+  orcid: https://orcid.org/0000-0002-6592-6272
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5021685640
+  display_name: George Weingart
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5049679555
+  display_name: Boyu Ren
+  orcid: https://orcid.org/0000-0002-5300-1184
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5068121952
+  display_name: Emma Schwager
+  orcid: https://orcid.org/0000-0002-7385-8994
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5076220623
+  display_name: Suvo Chatterjee
+  orcid: https://orcid.org/0000-0002-9771-109X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210144228
+    display_name: Eunice Kennedy Shriver National Institute of Child Health and Human
+      Development
+    ror: https://ror.org/04byxyr05
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1299303238
+    display_name: National Institutes of Health
+    ror: https://ror.org/01cwqze88
+    country_code: US
+    type: government
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Epidemiology Branch, Division of Intramural Population Health Research, Eunice
+    Kennedy Shriver National Institute of Child Health and Human Development, National
+    Institutes of Health, Bethesda, Maryland, United States of America
+- author_id: https://openalex.org/A5011222294
+  display_name: Kelsey N. Thompson
+  orcid: https://orcid.org/0000-0002-9437-9722
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+- author_id: https://openalex.org/A5067395204
+  display_name: Jeremy E. Wilkinson
+  orcid: https://orcid.org/0000-0002-8024-5600
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+- author_id: https://openalex.org/A5031387460
+  display_name: Ayshwarya Subramanian
+  orcid: https://orcid.org/0000-0002-4134-7612
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5053860485
+  display_name: Yiren Lu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+- author_id: https://openalex.org/A5052283192
+  display_name: Levi Waldron
+  orcid: https://orcid.org/0000-0003-2725-0694
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800359653
+    display_name: CUNY School of Law
+    ror: https://ror.org/00jtran50
+    country_code: US
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Epidemiology and Biostatistics, CUNY School of Public Health, New
+    York City, New York, United States of America
+- author_id: https://openalex.org/A5079235139
+  display_name: Joseph N. Paulson
+  orcid: https://orcid.org/0000-0001-8221-7139
+  author_position: middle
+  institutions: []
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Biostatistics, Product Development, Genentech, Inc., South San Francisco,
+    California, United States of America
+- author_id: https://openalex.org/A5066321584
+  display_name: Eric A. Franzosa
+  orcid: https://orcid.org/0000-0002-8798-7068
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+- author_id: https://openalex.org/A5048253009
+  display_name: "H\xE9ctor Corrada Bravo"
+  orcid: https://orcid.org/0000-0002-1255-4444
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I66946132
+    display_name: University of Maryland, College Park
+    ror: https://ror.org/047s2c258
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Center for Bioinformatics and Computational Biology, University of Maryland, College
+    Park, Maryland, United States of America
+- author_id: https://openalex.org/A5008844345
+  display_name: Curtis Huttenhower
+  orcid: https://orcid.org/0000-0002-1110-0096
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Biostatistics Department, Harvard T. H. Chan School of Public Health, Boston,
+    Massachusetts, United States of America
+  - The Broad Institute, Cambridge, Massachusetts, United States of America
+referenced_works:
+- https://openalex.org/W1523266228
+- https://openalex.org/W1703384511
+- https://openalex.org/W1863440143
+- https://openalex.org/W1951724000
+- https://openalex.org/W1979966476
+- https://openalex.org/W2004014148
+- https://openalex.org/W2020398205
+- https://openalex.org/W2026006003
+- https://openalex.org/W2056279562
+- https://openalex.org/W2081098333
+- https://openalex.org/W2107018762
+- https://openalex.org/W2110065044
+- https://openalex.org/W2114104545
+- https://openalex.org/W2137526110
+- https://openalex.org/W2143777796
+- https://openalex.org/W2146512944
+- https://openalex.org/W2152239989
+- https://openalex.org/W2153931548
+- https://openalex.org/W2179438025
+- https://openalex.org/W2193561325
+- https://openalex.org/W2210190562
+- https://openalex.org/W2270107170
+- https://openalex.org/W2328425223
+- https://openalex.org/W2398800349
+- https://openalex.org/W2553548418
+- https://openalex.org/W2558792200
+- https://openalex.org/W2563720483
+- https://openalex.org/W2567421046
+- https://openalex.org/W2581853214
+- https://openalex.org/W2592244930
+- https://openalex.org/W2611138580
+- https://openalex.org/W2749493208
+- https://openalex.org/W2756958651
+- https://openalex.org/W2767088268
+- https://openalex.org/W2767984705
+- https://openalex.org/W2768511889
+- https://openalex.org/W2769542288
+- https://openalex.org/W2776445964
+- https://openalex.org/W2788908087
+- https://openalex.org/W2802240472
+- https://openalex.org/W2897611961
+- https://openalex.org/W2898942477
+- https://openalex.org/W2904250115
+- https://openalex.org/W2913790533
+- https://openalex.org/W2947189704
+- https://openalex.org/W2951361249
+- https://openalex.org/W2952204926
+- https://openalex.org/W2952557828
+- https://openalex.org/W2990249310
+- https://openalex.org/W3023665135
+- https://openalex.org/W3046991322
+- https://openalex.org/W3082674479
+- https://openalex.org/W3150330888
+- https://openalex.org/W3180301462
+- https://openalex.org/W3199286150
+- https://openalex.org/W4252310231
+- https://openalex.org/W4281734341
+- https://openalex.org/W4300863449
+primary_topic: Bioinformatics and Genomic Networks
+open_access: true

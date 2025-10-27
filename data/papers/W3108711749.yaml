@@ -1,0 +1,715 @@
+id: https://openalex.org/W3108711749
+doi: https://doi.org/10.1016/j.cell.2020.12.001
+title: Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone
+  microscopy
+publication_date: '2020-12-04'
+publication_year: 2020
+cited_by_count: 878
+citation_percentile: 0.999983
+pagerank: 2.5451659697700566e-06
+authorships:
+- author_id: https://openalex.org/A5047303234
+  display_name: Parinaz Fozouni
+  orcid: https://orcid.org/0000-0002-6710-1506
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Sciences Graduate Program, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - Medical Scientist Training Program, University of California, San Francisco, San
+    Francisco, CA 94143, USA
+- author_id: https://openalex.org/A5101483807
+  display_name: Sungmin Son
+  orcid: https://orcid.org/0000-0001-7481-4056
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA
+    94720, USA
+- author_id: https://openalex.org/A5009888142
+  display_name: "Mar\xEDa D\xEDaz de Le\xF3n Derby"
+  orcid: https://orcid.org/0000-0003-3080-7027
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA
+    94720, USA
+  - UC Berkeley-UC San Francisco Graduate Program in Bioengineering, University of
+    California, Berkeley, Berkeley, CA 94720, USA
+- author_id: https://openalex.org/A5007230579
+  display_name: Gavin J. Knott
+  orcid: https://orcid.org/0000-0002-9007-6273
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801239119
+    display_name: Australian Regenerative Medicine Institute
+    ror: https://ror.org/02qa5kg76
+    country_code: AU
+    type: facility
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Molecular and Cell Biology, University of California, Berkeley,
+    Berkeley, CA 94720, USA
+  - Monash Biomedicine Discovery Institute, Department of Biochemistry & Molecular
+    Biology, Monash University, VIC 3800, Australia
+- author_id: https://openalex.org/A5027018636
+  display_name: Carley N Gray
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5108130939
+  display_name: "Michael V. D\u2019Ambrosio"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA
+    94720, USA
+- author_id: https://openalex.org/A5101571739
+  display_name: Chunyu Zhao
+  orcid: https://orcid.org/0000-0001-9589-2416
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5079147838
+  display_name: Neil A. Switz
+  orcid: https://orcid.org/0000-0002-3639-4588
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I51504820
+    display_name: San Jose State University
+    ror: https://ror.org/04qyvz380
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Physics and Astronomy, San Jos\xE9 State University, San Jose,\
+    \ CA 95192, USA"
+- author_id: https://openalex.org/A5079789821
+  display_name: G. Renuka Kumar
+  orcid: https://orcid.org/0000-0001-6090-3285
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5031399521
+  display_name: Stephanie I. Stephens
+  orcid: https://orcid.org/0000-0002-6631-2184
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5012985092
+  display_name: Daniela Boehm
+  orcid: https://orcid.org/0000-0003-3188-5115
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5043568112
+  display_name: Chia-Lin Tsou
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5017903237
+  display_name: Jeffrey Shu
+  orcid: https://orcid.org/0000-0002-9174-9302
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5072605855
+  display_name: Abdul Bhuiya
+  orcid: https://orcid.org/0000-0001-5209-7578
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA
+    94720, USA
+  - UC Berkeley-UC San Francisco Graduate Program in Bioengineering, University of
+    California, Berkeley, Berkeley, CA 94720, USA
+- author_id: https://openalex.org/A5013300197
+  display_name: Maxim Armstrong
+  orcid: https://orcid.org/0000-0002-1930-1917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National
+    Laboratory, Berkeley, CA 94720, USA
+- author_id: https://openalex.org/A5060823895
+  display_name: Andrew R. Harris
+  orcid: https://orcid.org/0009-0003-5487-4694
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA
+    94720, USA
+- author_id: https://openalex.org/A5000312975
+  display_name: "Pei\u2010Yi Chen"
+  orcid: https://orcid.org/0000-0003-4270-7031
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5079500790
+  display_name: Jeannette M. Osterloh
+  orcid: https://orcid.org/0000-0002-6985-6355
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5085786429
+  display_name: "Anke Meyer\u2010Franke"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5044839395
+  display_name: Bastian Joehnk
+  orcid: https://orcid.org/0000-0002-3264-5052
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Immunology, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+- author_id: https://openalex.org/A5008617222
+  display_name: Keith Walcott
+  orcid: https://orcid.org/0000-0003-2896-2431
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Microbiology and Immunology, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+- author_id: https://openalex.org/A5049808247
+  display_name: Anita Sil
+  orcid: https://orcid.org/0000-0002-3987-7534
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Sciences Graduate Program, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+  - Department of Microbiology and Immunology, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+  - Medical Scientist Training Program, University of California, San Francisco, San
+    Francisco, CA 94143, USA
+- author_id: https://openalex.org/A5001223291
+  display_name: Charles Langelier
+  orcid: https://orcid.org/0000-0002-6708-4646
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+  - Division of Infectious Diseases, University of California, San Francisco, San
+    Francisco, CA 94143, USA
+- author_id: https://openalex.org/A5005062415
+  display_name: Katherine S. Pollard
+  orcid: https://orcid.org/0000-0002-9870-6196
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Sciences Graduate Program, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+  - Department of Epidemiology and Biostatistics and Institute of Computational Health
+    Sciences, University of California, San Francisco, San Francisco, CA 94143, USA
+  - Institute for Human Genetics, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5022467705
+  display_name: Emily Crawford
+  orcid: https://orcid.org/0000-0003-4182-2337
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+  - Department of Microbiology and Immunology, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+- author_id: https://openalex.org/A5059138855
+  display_name: Andreas S. Puschnik
+  orcid: https://orcid.org/0000-0002-9605-9458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5016847320
+  display_name: "Ma\xEDra Phelps"
+  orcid: https://orcid.org/0009-0001-8230-7692
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5036469786
+  display_name: Amy Kistler
+  orcid: https://orcid.org/0000-0003-1112-719X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+- author_id: https://openalex.org/A5039824565
+  display_name: Joseph L. DeRisi
+  orcid: https://orcid.org/0000-0002-4611-9205
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Sciences Graduate Program, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+  - Division of Biochemistry and Biophysics, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+  - Medical Scientist Training Program, University of California, San Francisco, San
+    Francisco, CA 94143, USA
+- author_id: https://openalex.org/A5067184382
+  display_name: Jennifer A. Doudna
+  orcid: https://orcid.org/0000-0001-9161-999X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1344073410
+    display_name: Howard Hughes Medical Institute
+    ror: https://ror.org/006w34k90
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210109258
+    display_name: Innovative Genomics Institute
+    ror: https://ror.org/01r4tcq81
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California, Berkeley, Berkeley, CA 94720,
+    USA
+  - Department of Molecular and Cell Biology, University of California, Berkeley,
+    Berkeley, CA 94720, USA
+  - Howard Hughes Medical Institute, University of California, Berkeley, Berkeley,
+    CA 94720, USA
+  - Innovative Genomics Institute, University of California, Berkeley, Berkeley, CA
+    94720, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National
+    Laboratory, Berkeley, CA 94720, USA
+- author_id: https://openalex.org/A5084102341
+  display_name: Daniel A. Fletcher
+  orcid: https://orcid.org/0000-0002-1890-5364
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I103922791
+    display_name: QB3
+    ror: https://ror.org/04n1n3n22
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I4210121800
+    display_name: Chan Zuckerberg Initiative (United States)
+    ror: https://ror.org/02qenvm24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biophysics Program, University of California, Berkeley, Berkeley, CA 94720, USA
+  - California Institute for Quantitative Biosciences (QB3), University of California,
+    Berkeley, Berkeley, CA 94720, USA
+  - Chan Zuckerberg Biohub, San Francisco, CA 94158, USA
+  - Department of Bioengineering, University of California, Berkeley, Berkeley, CA
+    94720, USA
+  - Division of Biological Systems and Engineering, Lawrence Berkeley National Laboratory,
+    Berkeley, CA 94720, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - UC Berkeley-UC San Francisco Graduate Program in Bioengineering, University of
+    California, Berkeley, Berkeley, CA 94720, USA
+- author_id: https://openalex.org/A5068579765
+  display_name: "M\xE9lanie Ott"
+  orcid: https://orcid.org/0000-0002-5697-1274
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I1321430492
+    display_name: Gladstone Institutes
+    ror: https://ror.org/038321296
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Sciences Graduate Program, University of California, San Francisco,
+    San Francisco, CA 94143, USA
+  - Department of Medicine, University of California, San Francisco, San Francisco,
+    CA 94143, USA
+  - J. David Gladstone Institutes, San Francisco, CA 94158, USA
+  - Medical Scientist Training Program, University of California, San Francisco, San
+    Francisco, CA 94143, USA
+referenced_works:
+- https://openalex.org/W1553233072
+- https://openalex.org/W1998407364
+- https://openalex.org/W2020548888
+- https://openalex.org/W2081548239
+- https://openalex.org/W2104431608
+- https://openalex.org/W2110399041
+- https://openalex.org/W2165869860
+- https://openalex.org/W2174781316
+- https://openalex.org/W2409671300
+- https://openalex.org/W2522085729
+- https://openalex.org/W2567995016
+- https://openalex.org/W2574986173
+- https://openalex.org/W2580171608
+- https://openalex.org/W2590633707
+- https://openalex.org/W2597777251
+- https://openalex.org/W2606915822
+- https://openalex.org/W2610767416
+- https://openalex.org/W2748644987
+- https://openalex.org/W2750082507
+- https://openalex.org/W2763042654
+- https://openalex.org/W2767594581
+- https://openalex.org/W2783542638
+- https://openalex.org/W2785904295
+- https://openalex.org/W2787024379
+- https://openalex.org/W2793349369
+- https://openalex.org/W2793359586
+- https://openalex.org/W2799736418
+- https://openalex.org/W2800905921
+- https://openalex.org/W2807846569
+- https://openalex.org/W2807853324
+- https://openalex.org/W2887676715
+- https://openalex.org/W2915410268
+- https://openalex.org/W2922989162
+- https://openalex.org/W2946892453
+- https://openalex.org/W2953275535
+- https://openalex.org/W2976466823
+- https://openalex.org/W3001195213
+- https://openalex.org/W3001465255
+- https://openalex.org/W3001897055
+- https://openalex.org/W3008696669
+- https://openalex.org/W3013893137
+- https://openalex.org/W3017334101
+- https://openalex.org/W3017424656
+- https://openalex.org/W3017617595
+- https://openalex.org/W3021896513
+- https://openalex.org/W3028740867
+- https://openalex.org/W3029565627
+- https://openalex.org/W3034335935
+- https://openalex.org/W3034427757
+- https://openalex.org/W3036931136
+- https://openalex.org/W3037781831
+- https://openalex.org/W3038505425
+- https://openalex.org/W3042099287
+- https://openalex.org/W3044311014
+- https://openalex.org/W3047144258
+- https://openalex.org/W3047918981
+- https://openalex.org/W3080452572
+- https://openalex.org/W3080540097
+- https://openalex.org/W3081392899
+- https://openalex.org/W3084605929
+- https://openalex.org/W3088254290
+- https://openalex.org/W3092667563
+- https://openalex.org/W3098049011
+- https://openalex.org/W3102037011
+- https://openalex.org/W3103998356
+- https://openalex.org/W3111836713
+- https://openalex.org/W806483218
+primary_topic: CRISPR and Genetic Engineering
+open_access: true

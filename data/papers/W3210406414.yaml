@@ -1,0 +1,482 @@
+id: https://openalex.org/W3210406414
+doi: https://doi.org/10.1136/bmj.n2233
+title: 'Strengthening the reporting of observational studies in epidemiology using
+  mendelian randomisation (STROBE-MR): explanation and elaboration'
+publication_date: '2021-10-26'
+publication_year: 2021
+cited_by_count: 1243
+citation_percentile: 0.999948
+pagerank: 2.6075092182829617e-06
+authorships:
+- author_id: https://openalex.org/A5050693859
+  display_name: Veronika Skrivankova
+  orcid: https://orcid.org/0000-0003-0932-4792
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I118564535
+    display_name: University of Bern
+    ror: https://ror.org/02k7v4d05
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I4210135124
+    display_name: Institute of Social and Preventive Medicine
+    ror: https://ror.org/038esz880
+    country_code: CH
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Social and Preventive Medicine, University of Bern, Bern, Switzerland
+- author_id: https://openalex.org/A5072739924
+  display_name: Rebecca C. Richmond
+  orcid: https://orcid.org/0000-0003-0574-5071
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council Integrative Epidemiology Unit, University of Bristol,
+    Bristol, UK
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5018873914
+  display_name: Benjamin Woolf
+  orcid: https://orcid.org/0000-0002-1505-2570
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychological Science, University of Bristol, Bristol, UK
+  - Medical Research Council Integrative Epidemiology Unit, University of Bristol,
+    Bristol, UK
+- author_id: https://openalex.org/A5061002857
+  display_name: Neil M Davies
+  orcid: https://orcid.org/0000-0002-2460-0508
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204778367
+    display_name: Norwegian University of Science and Technology
+    ror: https://ror.org/05xg72x27
+    country_code: 'NO'
+    type: funder
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - K G Jebsen Centre for Genetic Epidemiology, Department of Public Health and Nursing,
+    NTNU, Norwegian University of Science and Technology, Trondheim, Norway
+  - Medical Research Council Integrative Epidemiology Unit, University of Bristol,
+    Bristol, UK
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5013863352
+  display_name: Sonja A. Swanson
+  orcid: https://orcid.org/0000-0001-8372-9785
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801952686
+    display_name: Erasmus MC
+    ror: https://ror.org/018906e22
+    country_code: NL
+    type: healthcare
+  - id: https://openalex.org/I913958620
+    display_name: Erasmus University Rotterdam
+    ror: https://ror.org/057w15z03
+    country_code: NL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, Erasmus MC, Rotterdam, Netherlands
+- author_id: https://openalex.org/A5028103646
+  display_name: Tyler J. VanderWeele
+  orcid: https://orcid.org/0000-0002-6112-0239
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Epidemiology, Harvard T H Chan School of Public Health, Boston,
+    MA, USA
+- author_id: https://openalex.org/A5064383725
+  display_name: Nicholas J. Timpson
+  orcid: https://orcid.org/0000-0002-7141-9189
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council Integrative Epidemiology Unit, University of Bristol,
+    Bristol, UK
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5031195893
+  display_name: Julian P. T. Higgins
+  orcid: https://orcid.org/0000-0002-8323-2514
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210119147
+    display_name: NIHR Bristol Biomedical Research Centre
+    ror: https://ror.org/02mtt1z51
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Bristol Biomedical Research Centre, Bristol, UK
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5038804932
+  display_name: Niki Dimou
+  orcid: https://orcid.org/0000-0003-1678-9328
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I42237331
+    display_name: Centre international de recherche sur le cancer
+    ror: https://ror.org/00v452281
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nutrition and Metabolism Branch, International Agency for Research on Cancer,
+    Lyon, France
+- author_id: https://openalex.org/A5055584673
+  display_name: Claudia Langenberg
+  orcid: https://orcid.org/0000-0002-5017-7344
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210158597
+    display_name: MRC Epidemiology Unit
+    ror: https://ror.org/052578691
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Berlin Institute of Health at Charit\xE9-Universit\xE4tsmedizin Berlin, Berlin,\
+    \ Germany"
+  - MRC Epidemiology Unit, University of Cambridge, Cambridge, UK
+- author_id: https://openalex.org/A5054045289
+  display_name: Elizabeth Loder
+  orcid: https://orcid.org/0000-0003-1501-2947
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Harvard Medical School, Boston, MA, USA
+  - The BMJ, London, UK
+- author_id: https://openalex.org/A5034676046
+  display_name: Robert Golub
+  orcid: https://orcid.org/0000-0001-7881-1207
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111979921
+    display_name: Northwestern University
+    ror: https://ror.org/000e0be47
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Northwestern University Feinberg School of Medicine, Chicago,
+    IL, USA
+  - JAMA, Chicago, IL, USA
+- author_id: https://openalex.org/A5077161809
+  display_name: Matthias Egger
+  orcid: https://orcid.org/0000-0001-7462-5132
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I118564535
+    display_name: University of Bern
+    ror: https://ror.org/02k7v4d05
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I4210138455
+    display_name: Wellcome Centre for Infectious Diseases Research in Africa
+    ror: https://ror.org/040b19m18
+    country_code: ZA
+    type: facility
+  - id: https://openalex.org/I157614274
+    display_name: University of Cape Town
+    ror: https://ror.org/03p74gp79
+    country_code: ZA
+    type: funder
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210135124
+    display_name: Institute of Social and Preventive Medicine
+    ror: https://ror.org/038esz880
+    country_code: CH
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Infectious Disease Epidemiology and Research, University of Cape Town,
+    Cape Town, South Africa
+  - Institute of Social and Preventive Medicine, University of Bern, Bern, Switzerland
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5013184354
+  display_name: George Davey Smith
+  orcid: https://orcid.org/0000-0002-1407-8314
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210119147
+    display_name: NIHR Bristol Biomedical Research Centre
+    ror: https://ror.org/02mtt1z51
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council Integrative Epidemiology Unit, University of Bristol,
+    Bristol, UK
+  - NIHR Bristol Biomedical Research Centre, Bristol, UK
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    UK
+- author_id: https://openalex.org/A5035461704
+  display_name: J. Brent Richards
+  orcid: https://orcid.org/0000-0002-3746-9086
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2801824472
+    display_name: Jewish General Hospital
+    ror: https://ror.org/056jjra10
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I5023651
+    display_name: McGill University
+    ror: https://ror.org/01pxwe438
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I124357947
+    display_name: University of London
+    ror: https://ror.org/04cw6st05
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Twin Research and Genetic Epidemiology, King's College London, University
+    of London, London, UK
+  - Departments of Medicine, Human Genetics, Epidemiology & Biostatistics, Lady Davis
+    Institute, Jewish General Hospital, McGill University, Montreal, QC, Canada
+referenced_works:
+- https://openalex.org/W1482511714
+- https://openalex.org/W1704551630
+- https://openalex.org/W1966136030
+- https://openalex.org/W1978097115
+- https://openalex.org/W1980412904
+- https://openalex.org/W1982064849
+- https://openalex.org/W1982803242
+- https://openalex.org/W2006825115
+- https://openalex.org/W2008417518
+- https://openalex.org/W2009568583
+- https://openalex.org/W2023743529
+- https://openalex.org/W2025651303
+- https://openalex.org/W2036907307
+- https://openalex.org/W2043229633
+- https://openalex.org/W2050672146
+- https://openalex.org/W2057289154
+- https://openalex.org/W2079380677
+- https://openalex.org/W2085296946
+- https://openalex.org/W2093038967
+- https://openalex.org/W2099817335
+- https://openalex.org/W2100190891
+- https://openalex.org/W2103783427
+- https://openalex.org/W2106036991
+- https://openalex.org/W2109003937
+- https://openalex.org/W2113699335
+- https://openalex.org/W2115896858
+- https://openalex.org/W2116810060
+- https://openalex.org/W2117706634
+- https://openalex.org/W2118008714
+- https://openalex.org/W2118743532
+- https://openalex.org/W2126930838
+- https://openalex.org/W2128984831
+- https://openalex.org/W2138290169
+- https://openalex.org/W2141275050
+- https://openalex.org/W2146458938
+- https://openalex.org/W2147432247
+- https://openalex.org/W2151355802
+- https://openalex.org/W2152795085
+- https://openalex.org/W2158304798
+- https://openalex.org/W2162204400
+- https://openalex.org/W2168218485
+- https://openalex.org/W2169711166
+- https://openalex.org/W2171191579
+- https://openalex.org/W21778
+- https://openalex.org/W2265865881
+- https://openalex.org/W2296421590
+- https://openalex.org/W2296845877
+- https://openalex.org/W2324862792
+- https://openalex.org/W2325761966
+- https://openalex.org/W2326706458
+- https://openalex.org/W2337943012
+- https://openalex.org/W2465687223
+- https://openalex.org/W2475125285
+- https://openalex.org/W2497721881
+- https://openalex.org/W2520048741
+- https://openalex.org/W2528302205
+- https://openalex.org/W2529053508
+- https://openalex.org/W2579779633
+- https://openalex.org/W2581245397
+- https://openalex.org/W2587176846
+- https://openalex.org/W2593125540
+- https://openalex.org/W2597625792
+- https://openalex.org/W2613603864
+- https://openalex.org/W2620908531
+- https://openalex.org/W2622187097
+- https://openalex.org/W2625310110
+- https://openalex.org/W2735301415
+- https://openalex.org/W2736634847
+- https://openalex.org/W2749237115
+- https://openalex.org/W2761141539
+- https://openalex.org/W2763860064
+- https://openalex.org/W2786371198
+- https://openalex.org/W2794197094
+- https://openalex.org/W2804946300
+- https://openalex.org/W2805662486
+- https://openalex.org/W2805983714
+- https://openalex.org/W2806596772
+- https://openalex.org/W2807279683
+- https://openalex.org/W2809105390
+- https://openalex.org/W2809135070
+- https://openalex.org/W2810240697
+- https://openalex.org/W2811157820
+- https://openalex.org/W2818417770
+- https://openalex.org/W2883396818
+- https://openalex.org/W2888260605
+- https://openalex.org/W2888416545
+- https://openalex.org/W2888894134
+- https://openalex.org/W2892134688
+- https://openalex.org/W2892388218
+- https://openalex.org/W2892535428
+- https://openalex.org/W2898901851
+- https://openalex.org/W2899048641
+- https://openalex.org/W2904039649
+- https://openalex.org/W2905879876
+- https://openalex.org/W2907490175
+- https://openalex.org/W2908849404
+- https://openalex.org/W2913651649
+- https://openalex.org/W2914566167
+- https://openalex.org/W2916194715
+- https://openalex.org/W2917632902
+- https://openalex.org/W2927250114
+- https://openalex.org/W2936600185
+- https://openalex.org/W2942735510
+- https://openalex.org/W2946081713
+- https://openalex.org/W2950769483
+- https://openalex.org/W2953389908
+- https://openalex.org/W2962266952
+- https://openalex.org/W2963964823
+- https://openalex.org/W2966470836
+- https://openalex.org/W2971615841
+- https://openalex.org/W2981338841
+- https://openalex.org/W2982149307
+- https://openalex.org/W2982490410
+- https://openalex.org/W2991007563
+- https://openalex.org/W3004031001
+- https://openalex.org/W3011286478
+- https://openalex.org/W3011942165
+- https://openalex.org/W3022423927
+- https://openalex.org/W3034541161
+- https://openalex.org/W3037039951
+- https://openalex.org/W3048876172
+- https://openalex.org/W3083496521
+- https://openalex.org/W3105886331
+- https://openalex.org/W3123863341
+- https://openalex.org/W3124658416
+- https://openalex.org/W3163931729
+- https://openalex.org/W3182919869
+- https://openalex.org/W3203077784
+- https://openalex.org/W3210570897
+- https://openalex.org/W4205384179
+- https://openalex.org/W4232505725
+- https://openalex.org/W4238040836
+- https://openalex.org/W4239301040
+- https://openalex.org/W4243134821
+- https://openalex.org/W4244091136
+- https://openalex.org/W4252626539
+- https://openalex.org/W4253754191
+- https://openalex.org/W4292528167
+- https://openalex.org/W4295131531
+- https://openalex.org/W62610827
+primary_topic: Genetic Associations and Epidemiology
+open_access: true

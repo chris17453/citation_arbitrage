@@ -1,0 +1,411 @@
+id: https://openalex.org/W4317212025
+doi: https://doi.org/10.1038/s41579-022-00841-7
+title: 'SARS-CoV-2 variant biology: immune escape, transmission and fitness'
+publication_date: '2023-01-18'
+publication_year: 2023
+cited_by_count: 1164
+citation_percentile: 0.999221
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5047800454
+  display_name: Alessandro M. Carabelli
+  orcid: https://orcid.org/0000-0003-3625-4021
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Addenbrookes Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5026122068
+  display_name: Thomas P. Peacock
+  orcid: https://orcid.org/0000-0001-7077-2928
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120729
+    display_name: St Mary's Hospital
+    ror: https://ror.org/02jv2qv86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infectious Disease, St Mary's Medical School, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5028023074
+  display_name: Lucy Thorne
+  orcid: https://orcid.org/0000-0001-7358-6047
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, University College London, London, UK
+- author_id: https://openalex.org/A5006507082
+  display_name: William T. Harvey
+  orcid: https://orcid.org/0000-0001-9529-1127
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, University of Glasgow, Glasgow,
+    UK
+- author_id: https://openalex.org/A5027557443
+  display_name: Joseph Hughes
+  orcid: https://orcid.org/0000-0003-2556-2563
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, University of Glasgow, Glasgow,
+    UK
+- author_id: https://openalex.org/A5055950683
+  display_name: Thushan I. de Silva
+  orcid: https://orcid.org/0000-0002-6498-9212
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I91136226
+    display_name: University of Sheffield
+    ror: https://ror.org/05krs5044
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infection, Immunity and Cardiovascular Disease, Medical School,
+    University of Sheffield, Sheffield, UK
+- author_id: https://openalex.org/A5014626556
+  display_name: Sharon J. Peacock
+  orcid: https://orcid.org/0000-0002-1718-2782
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210156194
+    display_name: Addenbrooke's Hospital
+    ror: https://ror.org/055vbxf86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, University of Cambridge, Addenbrookes Hospital, Cambridge,
+    UK
+- author_id: https://openalex.org/A5038353299
+  display_name: William Barclay
+  orcid: https://orcid.org/0000-0002-3948-0895
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210120729
+    display_name: St Mary's Hospital
+    ror: https://ror.org/02jv2qv86
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infectious Disease, St Mary's Medical School, Imperial College London,
+    London, UK
+- author_id: https://openalex.org/A5055950683
+  display_name: Thushan I. de Silva
+  orcid: https://orcid.org/0000-0002-6498-9212
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I91136226
+    display_name: University of Sheffield
+    ror: https://ror.org/05krs5044
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infection, Immunity and Cardiovascular Disease, Medical School,
+    University of Sheffield, Sheffield, UK
+- author_id: https://openalex.org/A5055046444
+  display_name: Greg J. Towers
+  orcid: https://orcid.org/0000-0002-7707-0264
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, University College London, London, UK
+- author_id: https://openalex.org/A5082064376
+  display_name: David L. Robertson
+  orcid: https://orcid.org/0000-0001-6338-0221
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC-University of Glasgow Centre for Virus Research, University of Glasgow, Glasgow,
+    UK
+referenced_works:
+- https://openalex.org/W1518294496
+- https://openalex.org/W1561556104
+- https://openalex.org/W1965531501
+- https://openalex.org/W1975272103
+- https://openalex.org/W1982194661
+- https://openalex.org/W2032563322
+- https://openalex.org/W2035349831
+- https://openalex.org/W2036594413
+- https://openalex.org/W2068275533
+- https://openalex.org/W2076198632
+- https://openalex.org/W2085887280
+- https://openalex.org/W2091961926
+- https://openalex.org/W2120145798
+- https://openalex.org/W2128868625
+- https://openalex.org/W2148323928
+- https://openalex.org/W2152534166
+- https://openalex.org/W2604566860
+- https://openalex.org/W2947642275
+- https://openalex.org/W3009906937
+- https://openalex.org/W3009912996
+- https://openalex.org/W3014067025
+- https://openalex.org/W3017302293
+- https://openalex.org/W3023868120
+- https://openalex.org/W3044321933
+- https://openalex.org/W3044914269
+- https://openalex.org/W3045756756
+- https://openalex.org/W3048714202
+- https://openalex.org/W3082438395
+- https://openalex.org/W3086292481
+- https://openalex.org/W3087347658
+- https://openalex.org/W3092136311
+- https://openalex.org/W3092403777
+- https://openalex.org/W3098697637
+- https://openalex.org/W3102798166
+- https://openalex.org/W3117882848
+- https://openalex.org/W3119286183
+- https://openalex.org/W3119627924
+- https://openalex.org/W3122148095
+- https://openalex.org/W3122458452
+- https://openalex.org/W3123967880
+- https://openalex.org/W3127277789
+- https://openalex.org/W3127852352
+- https://openalex.org/W3128154910
+- https://openalex.org/W3128335178
+- https://openalex.org/W3128348678
+- https://openalex.org/W3131375655
+- https://openalex.org/W3134208712
+- https://openalex.org/W3134643257
+- https://openalex.org/W3135383916
+- https://openalex.org/W3135415606
+- https://openalex.org/W3136616180
+- https://openalex.org/W3137469790
+- https://openalex.org/W3144378969
+- https://openalex.org/W3155593199
+- https://openalex.org/W3156343712
+- https://openalex.org/W3157162195
+- https://openalex.org/W3158748765
+- https://openalex.org/W3159140204
+- https://openalex.org/W3161468411
+- https://openalex.org/W3162400064
+- https://openalex.org/W3165479483
+- https://openalex.org/W3165838920
+- https://openalex.org/W3167555428
+- https://openalex.org/W3169503674
+- https://openalex.org/W3170097501
+- https://openalex.org/W3174017401
+- https://openalex.org/W3175808539
+- https://openalex.org/W3176993778
+- https://openalex.org/W3183161080
+- https://openalex.org/W3183608822
+- https://openalex.org/W3184226105
+- https://openalex.org/W3184954235
+- https://openalex.org/W3194693906
+- https://openalex.org/W3194831016
+- https://openalex.org/W3198233589
+- https://openalex.org/W3199600187
+- https://openalex.org/W3203611764
+- https://openalex.org/W3205588626
+- https://openalex.org/W3205703609
+- https://openalex.org/W3209334653
+- https://openalex.org/W3210408195
+- https://openalex.org/W3210921815
+- https://openalex.org/W3211023780
+- https://openalex.org/W3211030057
+- https://openalex.org/W3211396657
+- https://openalex.org/W3211827836
+- https://openalex.org/W3212420440
+- https://openalex.org/W3212533337
+- https://openalex.org/W3213415868
+- https://openalex.org/W3216019834
+- https://openalex.org/W3216478751
+- https://openalex.org/W3216684143
+- https://openalex.org/W4200065167
+- https://openalex.org/W4200126619
+- https://openalex.org/W4200216147
+- https://openalex.org/W4200320470
+- https://openalex.org/W4200420326
+- https://openalex.org/W4200539441
+- https://openalex.org/W4200573720
+- https://openalex.org/W4200583076
+- https://openalex.org/W4200598171
+- https://openalex.org/W4200629684
+- https://openalex.org/W4206040938
+- https://openalex.org/W4206109384
+- https://openalex.org/W4206135665
+- https://openalex.org/W4206704632
+- https://openalex.org/W4206774638
+- https://openalex.org/W4206997616
+- https://openalex.org/W4207047906
+- https://openalex.org/W4207048578
+- https://openalex.org/W4207055007
+- https://openalex.org/W4207057792
+- https://openalex.org/W4210252764
+- https://openalex.org/W4210308999
+- https://openalex.org/W4210633079
+- https://openalex.org/W4210664421
+- https://openalex.org/W4210665241
+- https://openalex.org/W4210665988
+- https://openalex.org/W4210670259
+- https://openalex.org/W4210792795
+- https://openalex.org/W4211202370
+- https://openalex.org/W4211242522
+- https://openalex.org/W4212777455
+- https://openalex.org/W4213266776
+- https://openalex.org/W4214703434
+- https://openalex.org/W4220668448
+- https://openalex.org/W4220673385
+- https://openalex.org/W4220777055
+- https://openalex.org/W4220807057
+- https://openalex.org/W4220849716
+- https://openalex.org/W4220871416
+- https://openalex.org/W4220908383
+- https://openalex.org/W4221014879
+- https://openalex.org/W4221037810
+- https://openalex.org/W4221098467
+- https://openalex.org/W4221107345
+- https://openalex.org/W4223963288
+- https://openalex.org/W4224053776
+- https://openalex.org/W4224274105
+- https://openalex.org/W4224282043
+- https://openalex.org/W4224292227
+- https://openalex.org/W4224299492
+- https://openalex.org/W4224950216
+- https://openalex.org/W4225263923
+- https://openalex.org/W4225297917
+- https://openalex.org/W4225326123
+- https://openalex.org/W4225395139
+- https://openalex.org/W4225406338
+- https://openalex.org/W4225568632
+- https://openalex.org/W4225644792
+- https://openalex.org/W4225691034
+- https://openalex.org/W4225729728
+- https://openalex.org/W4225851399
+- https://openalex.org/W4225854071
+- https://openalex.org/W4226047598
+- https://openalex.org/W4226064398
+- https://openalex.org/W4226084524
+- https://openalex.org/W4226192094
+- https://openalex.org/W4226229183
+- https://openalex.org/W4226425306
+- https://openalex.org/W4226470088
+- https://openalex.org/W4229029554
+- https://openalex.org/W4242437310
+- https://openalex.org/W4280506645
+- https://openalex.org/W4280589877
+- https://openalex.org/W4280595612
+- https://openalex.org/W4280650748
+- https://openalex.org/W4280652067
+- https://openalex.org/W4281289039
+- https://openalex.org/W4281294447
+- https://openalex.org/W4281489105
+- https://openalex.org/W4281491171
+- https://openalex.org/W4281570315
+- https://openalex.org/W4281625971
+- https://openalex.org/W4281754639
+- https://openalex.org/W4281757199
+- https://openalex.org/W4281784908
+- https://openalex.org/W4281787203
+- https://openalex.org/W4281815805
+- https://openalex.org/W4283026725
+- https://openalex.org/W4283164546
+- https://openalex.org/W4283207765
+- https://openalex.org/W4283326436
+- https://openalex.org/W4283704819
+- https://openalex.org/W4283724864
+- https://openalex.org/W4283751906
+- https://openalex.org/W4283778955
+- https://openalex.org/W4283831060
+- https://openalex.org/W4284886202
+- https://openalex.org/W4285089440
+- https://openalex.org/W4285386858
+- https://openalex.org/W4285405108
+- https://openalex.org/W4286218372
+- https://openalex.org/W4286587254
+- https://openalex.org/W4289518509
+- https://openalex.org/W4289528710
+- https://openalex.org/W4289643890
+- https://openalex.org/W4289887015
+- https://openalex.org/W4291016130
+- https://openalex.org/W4291016546
+- https://openalex.org/W4291020805
+- https://openalex.org/W4293093272
+- https://openalex.org/W4293116279
+- https://openalex.org/W4293177080
+- https://openalex.org/W4293211899
+- https://openalex.org/W4293234553
+- https://openalex.org/W4294216081
+- https://openalex.org/W4294219045
+- https://openalex.org/W4294281562
+- https://openalex.org/W4295777530
+- https://openalex.org/W4296129327
+- https://openalex.org/W4296186664
+- https://openalex.org/W4296211388
+- https://openalex.org/W4296740993
+- https://openalex.org/W4296754912
+- https://openalex.org/W4296831823
+- https://openalex.org/W4303457390
+- https://openalex.org/W4306149980
+- https://openalex.org/W4307355717
+- https://openalex.org/W4309306496
+- https://openalex.org/W4310676779
+- https://openalex.org/W4312019047
+- https://openalex.org/W4314937936
+- https://openalex.org/W4318203687
+- https://openalex.org/W4321076815
+- https://openalex.org/W4327894031
+- https://openalex.org/W808542018
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true

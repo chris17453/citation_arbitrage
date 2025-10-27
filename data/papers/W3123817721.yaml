@@ -1,0 +1,1553 @@
+id: https://openalex.org/W3123817721
+doi: https://doi.org/10.1007/s13225-020-00466-2
+title: 'FungalTraits: a user-friendly traits database of fungi and fungus-like stramenopiles'
+publication_date: '2020-11-01'
+publication_year: 2020
+cited_by_count: 817
+citation_percentile: 0.827663
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5051454161
+  display_name: "Sergei P\xF5lme"
+  orcid: https://orcid.org/0000-0002-9658-1166
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210140967
+    display_name: University of Tartu Natural History Museum and Botanical Garden
+    ror: https://ror.org/049h10h83
+    country_code: EE
+    type: archive
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+  - Natural History Museum, University of Tartu, 46 Vanemuise Str, 51003, Tartu, Estonia
+- author_id: https://openalex.org/A5013961494
+  display_name: Kessy Abarenkov
+  orcid: https://orcid.org/0000-0001-5526-4845
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140967
+    display_name: University of Tartu Natural History Museum and Botanical Garden
+    ror: https://ror.org/049h10h83
+    country_code: EE
+    type: archive
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Natural History Museum, University of Tartu, 46 Vanemuise Str, 51003, Tartu, Estonia
+- author_id: https://openalex.org/A5005681890
+  display_name: R. Henrik Nilsson
+  orcid: https://orcid.org/0000-0002-8052-0107
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Gothenburg Global Biodiversity Centre, Box 461, 405 30, Gothenburg, Sweden
+- author_id: https://openalex.org/A5010973905
+  display_name: "Bj\xF6rn D. Lindahl"
+  orcid: https://orcid.org/0000-0002-3384-4547
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I298625061
+    display_name: Swedish University of Agricultural Sciences
+    ror: https://ror.org/02yy8x990
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Soil and Environment, Swedish University of Agricultural Sciences,
+    Box 7014, 750 07, Uppsala, Sweden
+- author_id: https://openalex.org/A5074341662
+  display_name: Karina E. Clemmensen
+  orcid: https://orcid.org/0000-0002-9627-6428
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I298625061
+    display_name: Swedish University of Agricultural Sciences
+    ror: https://ror.org/02yy8x990
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Forest Mycology and Plant Pathology, Swedish University of Agricultural
+    Sciences, Box 7026, 750 07, Uppsala, Sweden
+- author_id: https://openalex.org/A5068980372
+  display_name: "H\xE4vard Kauserud"
+  orcid: https://orcid.org/0000-0003-2780-6090
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I184942183
+    display_name: University of Oslo
+    ror: https://ror.org/01xtthb56
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Section for Genetics and Evolutionary Biology (EvoGene), Department of Biosciences,
+    University of Oslo, P.O. Box 1066, Blindern, NO-0316, Oslo, Norway
+- author_id: https://openalex.org/A5029628911
+  display_name: Nhu Nguyen
+  orcid: https://orcid.org/0000-0001-8276-7042
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I117965899
+    display_name: "University of Hawai\u02BBi at M\u0101noa"
+    ror: https://ror.org/01wspgy28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "University of Hawai\u02BBi at M\u0101noa, 3190 Maile Way, St. John 102, Honolulu,\
+    \ HI, USA"
+- author_id: https://openalex.org/A5070959912
+  display_name: "Rasmus Kj\xF8ller"
+  orcid: https://orcid.org/0000-0002-2027-4119
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Biology, University of Copenhagen, Universitetsparken 15, 2100,\
+    \ Copenhagen \xD8, Denmark"
+- author_id: https://openalex.org/A5054213807
+  display_name: Scott T. Bates
+  orcid: https://orcid.org/0000-0002-6184-4296
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I117015748
+    display_name: Purdue University Northwest
+    ror: https://ror.org/04keq6987
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Purdue University Northwest, Westville, IN, 46391, USA
+- author_id: https://openalex.org/A5042524119
+  display_name: "Petr Baldri\xE1n"
+  orcid: https://orcid.org/0000-0002-8983-2721
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202391551
+    display_name: Czech Academy of Sciences
+    ror: https://ror.org/053avzc18
+    country_code: CZ
+    type: government
+  - id: https://openalex.org/I4210122847
+    display_name: Czech Academy of Sciences, Institute of Microbiology
+    ror: https://ror.org/02p1jz666
+    country_code: CZ
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Microbiology, Czech Academy of Sciences, Videnska 1083, 14220, Praha
+    4, Czech Republic
+- author_id: https://openalex.org/A5059841618
+  display_name: "Tobias Guldberg Fr\xF8slev"
+  orcid: https://orcid.org/0000-0002-3530-013X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "GLOBE Institute, University of Copenhagen, \xD8ster Farimagsgade 5, KH7.2.32,\
+    \ 1353, Copenhagen, Denmark"
+- author_id: https://openalex.org/A5043531890
+  display_name: Kristjan Adojaan
+  orcid: https://orcid.org/0000-0002-7901-6595
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5008114564
+  display_name: Alfredo Vizzini
+  orcid: https://orcid.org/0000-0001-8390-6446
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I55143463
+    display_name: University of Turin
+    ror: https://ror.org/048tbm396
+    country_code: IT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Dipartimento di Scienze della Vita e Biologia dei Sistemi, Universit\xE0 di Torino,\
+    \ Viale Mattioli 25, 10125, Torino, Italy"
+- author_id: https://openalex.org/A5018375488
+  display_name: Ave Suija
+  orcid: https://orcid.org/0000-0003-3784-9414
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5087747675
+  display_name: Donald H. Pfister
+  orcid: https://orcid.org/0000-0002-9018-8646
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Organismic and Evolutionary Biology and Farlow Library and Herbarium,
+    Harvard University, 22 Divinity Ave, Cambridge, MA, 02138, USA
+- author_id: https://openalex.org/A5006031337
+  display_name: Hans-Otto Baral
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Blaihofstr. 42, 72074, T\xFCbingen, Germany"
+- author_id: https://openalex.org/A5088467107
+  display_name: "Helle J\xE4rv"
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - SYNLAB Estonia, Veerenni 53a, Tallinn, 11313, Estonia
+- author_id: https://openalex.org/A5049348230
+  display_name: Hugo Madrid
+  orcid: https://orcid.org/0000-0002-7767-0796
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122369
+    display_name: "Universidad Santo Tom\xE1s"
+    ror: https://ror.org/02vbtzd72
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I116419501
+    display_name: Universidad Mayor
+    ror: https://ror.org/00pn44t17
+    country_code: CL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Centro de Gen\xF3mica y Bioinform\xE1tica, Universidad Mayor, Camino La Pir\xE1\
+    mide 5750, Huechuraba, Santiago, Chile"
+  - "Escuela de Tecnolog\xEDa M\xE9dica, Universidad Santo Tom\xE1s, Los Carreras\
+    \ 753, Osorno, Chile"
+- author_id: https://openalex.org/A5065785990
+  display_name: "Jenni Nord\xE9n"
+  orcid: https://orcid.org/0000-0001-8894-5815
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153706
+    display_name: Norwegian Institute for Nature Research
+    ror: https://ror.org/04aha0598
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Norwegian Institute for Nature Research (NINA), Sognsveien 68, 0855, Oslo, Norway
+- author_id: https://openalex.org/A5006253364
+  display_name: "Jian\u2010Kui Liu"
+  orcid: https://orcid.org/0000-0002-9232-228X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150229711
+    display_name: University of Electronic Science and Technology of China
+    ror: https://ror.org/04qr3zq92
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Life Science and Technology, University of Electronic Science and Technology
+    of China, Chengdu, 611731, People's Republic of China
+- author_id: https://openalex.org/A5037491546
+  display_name: "Julia Paw\u0142owska"
+  orcid: https://orcid.org/0000-0003-4914-5182
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4654613
+    display_name: University of Warsaw
+    ror: https://ror.org/039bjqg32
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre,
+    University of Warsaw, ul. Zwirki i Wigury 101, 02-089, Warsaw, Poland
+- author_id: https://openalex.org/A5069234668
+  display_name: "Kadri P\xF5ldmaa"
+  orcid: https://orcid.org/0000-0002-7936-2455
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5078288410
+  display_name: "Kadri P\xE4rtel"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5035784138
+  display_name: Kadri Runnel
+  orcid: https://orcid.org/0000-0002-7308-3623
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5102250700
+  display_name: Karen Hansen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801711128
+    display_name: Swedish Museum of Natural History
+    ror: https://ror.org/05k323c76
+    country_code: SE
+    type: archive
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Botany, Swedish Museum of Natural History, P.O. Box 50007, 10405,
+    Stockholm, Sweden
+- author_id: https://openalex.org/A5111851430
+  display_name: Karl-Henrik Larsson
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Gothenburg Global Biodiversity Centre, Box 461, 405 30, Gothenburg, Sweden
+- author_id: https://openalex.org/A5087515883
+  display_name: Kevin D. Hyde
+  orcid: https://orcid.org/0000-0002-2191-0762
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34002243
+    display_name: Mae Fah Luang University
+    ror: https://ror.org/00mwhaw71
+    country_code: TH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center of Excellence in Fungal Research, Mae Fah Luang University, Chiang Rai,
+    57100, Thailand
+- author_id: https://openalex.org/A5067920722
+  display_name: "Marcelo Sandoval\u2010Denis"
+  orcid: https://orcid.org/0000-0001-6832-0252
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210113371
+    display_name: Westerdijk Fungal Biodiversity Institute
+    ror: https://ror.org/030a5r161
+    country_code: NL
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Westerdijk Fungal Biodiversity Institute, Utrecht, The Netherlands
+- author_id: https://openalex.org/A5029293496
+  display_name: Matthew E. Smith
+  orcid: https://orcid.org/0000-0002-0878-0932
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I33213144
+    display_name: University of Florida
+    ror: https://ror.org/02y3ad647
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Plant Pathology, University of Florida, Gainesville, FL, USA
+- author_id: https://openalex.org/A5071762399
+  display_name: "Merje Toome\u2010Heller"
+  orcid: https://orcid.org/0000-0001-9177-7218
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I262074209
+    display_name: Ministry for Primary Industries
+    ror: https://ror.org/055y4y749
+    country_code: NZ
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Plant Health and Environment Laboratory, Ministry for Primary Industries, Auckland,
+    1140, New Zealand
+- author_id: https://openalex.org/A5061891071
+  display_name: Nalin N. Wijayawardene
+  orcid: https://orcid.org/0000-0003-0522-5498
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105365
+    display_name: Qujing Normal University
+    ror: https://ror.org/02ad7ap24
+    country_code: CN
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Yunnan Plateau Biological Resources Protection and Utilisation, Qujing
+    Normal University, Qujing, 655011, Yunnan, China
+- author_id: https://openalex.org/A5053589845
+  display_name: Nelson Menolli
+  orcid: https://orcid.org/0000-0002-1841-8179
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104851
+    display_name: "Instituto de Bot\xE2nica"
+    ror: https://ror.org/01fptm710
+    country_code: BR
+    type: facility
+  - id: https://openalex.org/I107371206
+    display_name: "Federal Institute of S\xE3o Paulo"
+    ror: https://ror.org/005pn5z34
+    country_code: BR
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto Federal de Educa\xE7\xE3o, Ci\xEAncia e Tecnologia de S\xE3o Paulo\
+    \ (IFSP), C\xE2mpus S\xE3o Paulo, Rua Pedro Vicente 625, Canind\xE9, S\xE3o Paulo,\
+    \ SP, 01109-010, Brazil"
+  - "Instituto de Bot\xE2nica, N\xFAcleo de Pesquisa em Micologia, Av. Migu\xE9l Stefano\
+    \ 3687, \xC1gua Funda, S\xE3o Paulo, SP, 04301-012, Brazil"
+- author_id: https://openalex.org/A5011857913
+  display_name: Nicole K. Reynolds
+  orcid: https://orcid.org/0000-0001-6380-7539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I33213144
+    display_name: University of Florida
+    ror: https://ror.org/02y3ad647
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Plant Pathology, University of Florida, Gainesville, FL, USA
+- author_id: https://openalex.org/A5108380093
+  display_name: Rein Drenkhan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19409027
+    display_name: Estonian University of Life Sciences
+    ror: https://ror.org/00s67c790
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Forestry and Rural Engineering, Estonian University of Life Sciences,
+    Fr. R. Kreutzwaldi 5, 51006, Tartu, Estonia
+- author_id: https://openalex.org/A5046763616
+  display_name: Sajeewa S. N. Maharachchikumbura
+  orcid: https://orcid.org/0000-0001-9127-0783
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I150229711
+    display_name: University of Electronic Science and Technology of China
+    ror: https://ror.org/04qr3zq92
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Life Science and Technology, University of Electronic Science and Technology
+    of China, Chengdu, 611731, People's Republic of China
+- author_id: https://openalex.org/A5090475115
+  display_name: Tatiana Baptista Gibertoni
+  orcid: https://orcid.org/0000-0003-4499-7650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I25112270
+    display_name: Universidade Federal de Pernambuco
+    ror: https://ror.org/047908t24
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Departamento de Micologia, Universidade Federal de Pernambuco, Avenida da Engenharia,\
+    \ S/N - Cidade Universit\xE1ria, 50740-600, Recife, PE, Brazil"
+- author_id: https://openalex.org/A5071232542
+  display_name: "Thomas L\xE6ss\xF8e"
+  orcid: https://orcid.org/0000-0003-4710-2648
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Biology & Globe Institute, University of Copenhagen, Universitetsparken\
+    \ 15, 2100, Copenhagen \xD8, Denmark"
+- author_id: https://openalex.org/A5026601329
+  display_name: William J. Davis
+  orcid: https://orcid.org/0000-0002-3689-1592
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1281378812
+    display_name: Oak Ridge Associated Universities
+    ror: https://ror.org/0526p1y61
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4389425366
+    display_name: Oak Ridge Institute for Science and Education
+    ror: https://ror.org/040vxhp34
+    country_code: null
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ARS Research Participation Program, Oak Ridge Institute for Science and Education,
+    Oak Ridge, TN, 37830, USA
+- author_id: https://openalex.org/A5001878075
+  display_name: Yuri S. Tokarev
+  orcid: https://orcid.org/0000-0003-0524-0778
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104885
+    display_name: All-Russian Institute of Plant Protection
+    ror: https://ror.org/01e69j385
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - All-Russian Institute of Plant Protection, Podbelskogo 3 Pushkin, St Petersburg,
+    196608, Russia
+- author_id: https://openalex.org/A5017440602
+  display_name: Adriana Corrales
+  orcid: https://orcid.org/0000-0001-9885-4634
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I90803817
+    display_name: Universidad del Rosario
+    ror: https://ror.org/0108mwc04
+    country_code: CO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'Department of Biology, Universidad del Rosario, Carrera 24 # 63C-69, Bogota,
+    DC, 111221, Colombia'
+- author_id: https://openalex.org/A5071678674
+  display_name: Adriene Mayra Soares
+  orcid: https://orcid.org/0000-0002-1143-0706
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3130823459
+    display_name: "Universidade Federal Rural da Amaz\xF4nia"
+    ror: https://ror.org/02j71c790
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Ci\xEAncias Biol\xF3gicas, Universidade Federal Rural da Amaz\xF4nia, Tom\xE9\
+    -A\xE7u, Rodovia PA-451, Km 03, 68.680-000, Bairro A\xE7aizal, 68.680-000, Brazil"
+- author_id: https://openalex.org/A5027821996
+  display_name: Ahto Agan
+  orcid: https://orcid.org/0000-0001-9010-8944
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5011618009
+  display_name: Alexandre Reis Machado
+  orcid: https://orcid.org/0000-0001-7440-3097
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I25112270
+    display_name: Universidade Federal de Pernambuco
+    ror: https://ror.org/047908t24
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Departamento de Micologia, Universidade Federal de Pernambuco, Avenida da Engenharia,\
+    \ S/N - Cidade Universit\xE1ria, 50740-600, Recife, PE, Brazil"
+- author_id: https://openalex.org/A5080567497
+  display_name: "Andr\xE9s Arg\xFCelles\u2010Moyao"
+  orcid: https://orcid.org/0000-0001-7483-5703
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8961855
+    display_name: "Universidad Nacional Aut\xF3noma de M\xE9xico"
+    ror: https://ror.org/01tmp8f25
+    country_code: MX
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Biolog\xEDa, Universidad Nacional Aut\xF3noma de M\xE9xico, Mexico\
+    \ City, Mexico"
+- author_id: https://openalex.org/A5034183521
+  display_name: Andrew P. Detheridge
+  orcid: https://orcid.org/0000-0002-7472-9035
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16038530
+    display_name: Aberystwyth University
+    ror: https://ror.org/015m2p889
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210146599
+    display_name: Institute of Biological, Environmental and Rural Sciences
+    ror: https://ror.org/051wgfj58
+    country_code: GB
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Biological, Environmental and Rural Sciences, Aberystwyth University,
+    Wales, UK
+- author_id: https://openalex.org/A5033015504
+  display_name: Angelina de Meiras-Ottoni
+  orcid: https://orcid.org/0000-0002-2611-2719
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I25112270
+    display_name: Universidade Federal de Pernambuco
+    ror: https://ror.org/047908t24
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Departamento de Micologia, Universidade Federal de Pernambuco, Avenida da Engenharia,\
+    \ S/N - Cidade Universit\xE1ria, 50740-600, Recife, PE, Brazil"
+- author_id: https://openalex.org/A5089926601
+  display_name: Annemieke Verbeken
+  orcid: https://orcid.org/0000-0002-6266-3091
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32597200
+    display_name: Ghent University
+    ror: https://ror.org/00cv9y106
+    country_code: BE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Group Mycology, Department of Biology, Ghent University, Ledeganckstraat
+    35, 9000, Ghent, Belgium
+- author_id: https://openalex.org/A5054573643
+  display_name: Arun Kumar Dutta
+  orcid: https://orcid.org/0000-0001-5234-3441
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I55862774
+    display_name: West Bengal State University
+    ror: https://ror.org/04qs5en05
+    country_code: IN
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Botany, West Bengal State University, Barasat, North-24-Parganas,
+    West Bengal, 700126, India
+- author_id: https://openalex.org/A5023429523
+  display_name: "Bao\u2010Kai Cui"
+  orcid: https://orcid.org/0000-0003-3059-9344
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31683504
+    display_name: Beijing Forestry University
+    ror: https://ror.org/04xv2pc41
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Microbiology, School of Ecology and Nature Conservation, Beijing
+    Forestry University, Beijing, 100083, China
+- author_id: https://openalex.org/A5109348397
+  display_name: C. K. Pradeep
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800926800
+    display_name: Jawaharlal Nehru Tropical Botanic Garden and Research Institute
+    ror: https://ror.org/05w47ap08
+    country_code: IN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Jawaharlal Nehru Tropical Botanic Garden & Research Institute (JNTBGRI), Palode,
+    Thiruvananthapuram, Kerala, 695562, India
+- author_id: https://openalex.org/A5038368088
+  display_name: "C\xE9sar Mar\xEDn"
+  orcid: https://orcid.org/0000-0002-2529-8929
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210144665
+    display_name: University of O'Higgins
+    ror: https://ror.org/044cse639
+    country_code: CL
+    type: education
+  - id: https://openalex.org/I162148367
+    display_name: "Pontificia Universidad Cat\xF3lica de Chile"
+    ror: https://ror.org/04teye511
+    country_code: CL
+    type: funder
+  - id: https://openalex.org/I4210101050
+    display_name: Center of Applied Ecology & Sustainability
+    ror: https://ror.org/016e3ca54
+    country_code: CL
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Center of Applied Ecology and Sustainability (CAPES), Pontificia Universidad\
+    \ Cat\xF3lica de Chile, 8320000, Santiago, Chile"
+  - Institute of Agri-food, Animal and Environmental Sciences (ICA3), Universidad
+    de O'Higgins, 3070000, San Fernando, Chile
+- author_id: https://openalex.org/A5030904422
+  display_name: Daniel E. Stanton
+  orcid: https://orcid.org/0000-0002-6713-9328
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I130238516
+    display_name: University of Minnesota
+    ror: https://ror.org/017zqws13
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Ecology, Evolution and Behavior, University of Minnesota-Twin Cities,
+    Saint Paul, MN, 55108, USA
+- author_id: https://openalex.org/A5040030209
+  display_name: Daniyal Gohar
+  orcid: https://orcid.org/0000-0003-0312-1142
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5083052311
+  display_name: Dhanushka N. Wanasinghe
+  orcid: https://orcid.org/0000-0003-1759-3933
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I13850615
+    display_name: Kunming Institute of Botany
+    ror: https://ror.org/02e5hx313
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory for Plant Diversity and Biogeography of East Asia, Kunming
+    Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, Yunnan, China
+- author_id: https://openalex.org/A5075158853
+  display_name: Eveli Otsing
+  orcid: https://orcid.org/0000-0001-7416-257X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5078411834
+  display_name: Farzad Aslani
+  orcid: https://orcid.org/0000-0003-0485-9800
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5030555404
+  display_name: Gareth Griffith
+  orcid: https://orcid.org/0000-0001-6914-3745
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I16038530
+    display_name: Aberystwyth University
+    ror: https://ror.org/015m2p889
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210146599
+    display_name: Institute of Biological, Environmental and Rural Sciences
+    ror: https://ror.org/051wgfj58
+    country_code: GB
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Biological, Environmental and Rural Sciences, Aberystwyth University,
+    Wales, UK
+- author_id: https://openalex.org/A5087405104
+  display_name: Thorsten Lumbsch
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802093357
+    display_name: Field Museum of Natural History
+    ror: https://ror.org/00mh9zx15
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science and Education and The Grainger Bioinformatics Center, The Field Museum,
+    1400 S. Lake Shore Dr., Chicago, IL, 60605, USA
+- author_id: https://openalex.org/A5009350958
+  display_name: "Hans\u2010Peter Grossart"
+  orcid: https://orcid.org/0000-0002-9141-0325
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I176453806
+    display_name: University of Potsdam
+    ror: https://ror.org/03bnmw459
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210116314
+    display_name: Leibniz Institute of Freshwater Ecology and Inland Fisheries
+    ror: https://ror.org/01nftxb06
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Experimental Limnology, Leibniz Institute of Freshwater Ecology
+    and Inland Fisheries, Alte Fischerhuette 2, 16775, Stechlin, Germany
+  - Institute of Biochemistry and Biology, Potsdam University, Maulbeerallee 2, 14469,
+    Potsdam, Germany
+- author_id: https://openalex.org/A5053950194
+  display_name: Hossein Masigol
+  orcid: https://orcid.org/0000-0003-2483-7799
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I877176835
+    display_name: University of Guilan
+    ror: https://ror.org/01bdr6121
+    country_code: IR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Plant Protection, University of Guilan, Rasht, Iran
+- author_id: https://openalex.org/A5010726952
+  display_name: Ina Timling
+  orcid: https://orcid.org/0000-0002-6755-0782
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141472210
+    display_name: University of Alaska Fairbanks
+    ror: https://ror.org/01j7nq853
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Arctic Biology, University of Alaska, Fairbanks, 311 Irving I Building,
+    2140 Koyukuk Drive, PO Box 757000, Fairbanks, AK, 99775-7000, USA
+- author_id: https://openalex.org/A5068379075
+  display_name: Inga Hiiesalu
+  orcid: https://orcid.org/0000-0002-5457-2376
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5077942283
+  display_name: Jane Oja
+  orcid: https://orcid.org/0000-0003-1446-2284
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5035417308
+  display_name: John Y. Kupagme
+  orcid: https://orcid.org/0000-0002-9981-050X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5076270708
+  display_name: "J\xF3zsef Geml"
+  orcid: https://orcid.org/0000-0001-8745-0423
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I120832542
+    display_name: Eszterhazy Karoly Catholic University
+    ror: https://ror.org/004gfgx38
+    country_code: HU
+    type: funder
+  - id: https://openalex.org/I4210162307
+    display_name: HUN-REN Centre for Energy Research
+    ror: https://ror.org/05wswj918
+    country_code: HU
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "MTA-EKE Lend\xFClet Environmental Microbiome Research Group, Eszterh\xE1zy K\xE1\
+    roly University, Eger, Hungary"
+- author_id: https://openalex.org/A5004959150
+  display_name: "Julieta Alvarez\u2010Manjarrez"
+  orcid: https://orcid.org/0000-0002-5581-7443
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8961855
+    display_name: "Universidad Nacional Aut\xF3noma de M\xE9xico"
+    ror: https://ror.org/01tmp8f25
+    country_code: MX
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Instituto de Biolog\xEDa, Universidad Nacional Aut\xF3noma de M\xE9xico, Mexico\
+    \ City, Mexico"
+- author_id: https://openalex.org/A5024983615
+  display_name: Kai Ilves
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5028341315
+  display_name: Kaire Loit
+  orcid: https://orcid.org/0000-0002-0426-990X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19409027
+    display_name: Estonian University of Life Sciences
+    ror: https://ror.org/00s67c790
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Agricultural and Environmental Sciences, Estonian University of Life
+    Sciences, Tartu, Estonia
+- author_id: https://openalex.org/A5052274766
+  display_name: Kalev Adamson
+  orcid: https://orcid.org/0000-0002-8810-8838
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19409027
+    display_name: Estonian University of Life Sciences
+    ror: https://ror.org/00s67c790
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Forestry and Rural Engineering, Estonian University of Life Sciences,
+    Fr. R. Kreutzwaldi 5, 51006, Tartu, Estonia
+- author_id: https://openalex.org/A5009154639
+  display_name: Kazuhide Nara
+  orcid: https://orcid.org/0000-0002-3705-231X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Natural Environmental Studies, University of Tokyo, 5-1-5 Kashiwanoha,
+    Kashiwa, 277-0882, Chiba, Japan
+- author_id: https://openalex.org/A5026725625
+  display_name: "Kati K\xFCngas"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5063029166
+  display_name: "Keilor Rojas-Jim\xE9nez"
+  orcid: https://orcid.org/0000-0003-4261-0010
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I31944674
+    display_name: Universidad de Costa Rica
+    ror: https://ror.org/02yzgww51
+    country_code: CR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Escuela de Biologia, Universidad de Costa Rica, 11501, San Jose, Costa Rica
+- author_id: https://openalex.org/A5023994246
+  display_name: "Kri\u0161s Bitenieks"
+  orcid: https://orcid.org/0000-0001-8829-3263
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136527
+    display_name: Latvian State Forest Research Institute "Silava"
+    ror: https://ror.org/03kx37d46
+    country_code: LV
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genetic Resource Centre, Latvian State Forest Research Institute "Silava", 111
+    Rigas str, Salaspils, LV-2169, Latvia
+- author_id: https://openalex.org/A5051057493
+  display_name: "L\xE1szl\xF3 Irinyi"
+  orcid: https://orcid.org/0000-0002-4453-5539
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2803024705
+    display_name: Westmead Hospital
+    ror: https://ror.org/04gp5yv64
+    country_code: AU
+    type: healthcare
+  - id: https://openalex.org/I4210145422
+    display_name: Westmead Institute for Medical Research
+    ror: https://ror.org/04zj3ra44
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I129604602
+    display_name: The University of Sydney
+    ror: https://ror.org/0384j8v12
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sydney Medical School and Westmead Clinical School and Westmead Institute for
+    Medical Research, University of Sydney, Sydney, NSW, Australia
+  - Westmead Hospital, Sydney, NSW, Australia
+- author_id: https://openalex.org/A5026813986
+  display_name: "L\xE1szl\xF3 G. Nagy"
+  orcid: https://orcid.org/0000-0002-4102-8566
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800351701
+    display_name: "HUN-REN Szegedi Biol\xF3giai Kutat\xF3k\xF6zpont"
+    ror: https://ror.org/016gb1631
+    country_code: HU
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biological Research Center Szeged, 6726, Szeged, Hungary
+- author_id: https://openalex.org/A5018960806
+  display_name: Liina Soonvald
+  orcid: https://orcid.org/0000-0002-0370-7947
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19409027
+    display_name: Estonian University of Life Sciences
+    ror: https://ror.org/00s67c790
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Agricultural and Environmental Sciences, Estonian University of Life
+    Sciences, Tartu, Estonia
+- author_id: https://openalex.org/A5103955282
+  display_name: Li-Wei Zhou
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134982
+    display_name: Institute of Microbiology
+    ror: https://ror.org/047yhep71
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Mycology, Institute of Microbiology, Chinese Academy of
+    Sciences, Beijing, 100101, China
+- author_id: https://openalex.org/A5075338316
+  display_name: Lysett Wagner
+  orcid: https://orcid.org/0000-0003-3335-3913
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162077
+    display_name: "Leibniz-Institut f\xFCr Naturstoff-Forschung und Infektionsbiologie\
+      \ e. V. - Hans-Kn\xF6ll-Institut (HKI)"
+    ror: https://ror.org/055s37c97
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "National Reference Center for Invasive Fungal Infections (NRZMyk), Leibniz Institute\
+    \ for\nNatural Product Research and Infection Biology \u2013 Hans Kn\xF6ll Institute\
+    \ (HKI), Jena, Germany"
+- author_id: https://openalex.org/A5030005142
+  display_name: M. Catherine Aime
+  orcid: https://orcid.org/0000-0001-8742-6685
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I219193219
+    display_name: Purdue University West Lafayette
+    ror: https://ror.org/02dqehb95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Botany and Plant Pathology, Purdue University, West Lafayette, IN,
+    47907, USA
+- author_id: https://openalex.org/A5054584059
+  display_name: "Maarja \xD6pik"
+  orcid: https://orcid.org/0000-0001-8025-7460
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5000859926
+  display_name: "Mar\xEDa Isabel Mujica"
+  orcid: https://orcid.org/0000-0003-0826-6455
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I162148367
+    display_name: "Pontificia Universidad Cat\xF3lica de Chile"
+    ror: https://ror.org/04teye511
+    country_code: CL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Departamento de Ecolog\xEDa, Pontificia Universidad Cat\xF3lica de Chile, Alameda\
+    \ 340, Santiago, Chile"
+- author_id: https://openalex.org/A5065224256
+  display_name: Martin Metsoja
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5089390544
+  display_name: Martin Ryberg
+  orcid: https://orcid.org/0000-0002-6795-4349
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123387679
+    display_name: Uppsala University
+    ror: https://ror.org/048a87296
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Organismal Biology, Uppsala University, Uppsala, Sweden
+- author_id: https://openalex.org/A5000605020
+  display_name: Martti Vasar
+  orcid: https://orcid.org/0000-0002-4674-932X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5103256773
+  display_name: Masao Murata
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Natural Environmental Studies, University of Tokyo, 5-1-5 Kashiwanoha,
+    Kashiwa, 277-0882, Chiba, Japan
+- author_id: https://openalex.org/A5001286193
+  display_name: Matthew P. Nelsen
+  orcid: https://orcid.org/0000-0002-6866-815X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802093357
+    display_name: Field Museum of Natural History
+    ror: https://ror.org/00mh9zx15
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Science and Education and The Grainger Bioinformatics Center, The Field Museum,
+    1400 S. Lake Shore Dr., Chicago, IL, 60605, USA
+- author_id: https://openalex.org/A5084917525
+  display_name: Michelle Cleary
+  orcid: https://orcid.org/0000-0002-0318-5974
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I298625061
+    display_name: Swedish University of Agricultural Sciences
+    ror: https://ror.org/02yy8x990
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Southern Swedish Forest Research Centre, Swedish University of Agricultural Sciences
+    (SLU), Alnarp, Sweden
+- author_id: https://openalex.org/A5080137177
+  display_name: Milan C. Samarakoon
+  orcid: https://orcid.org/0000-0002-4815-125X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34002243
+    display_name: Mae Fah Luang University
+    ror: https://ror.org/00mwhaw71
+    country_code: TH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center of Excellence in Fungal Research, Mae Fah Luang University, Chiang Rai,
+    57100, Thailand
+- author_id: https://openalex.org/A5108261002
+  display_name: Mingkwan Doilom
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I13850615
+    display_name: Kunming Institute of Botany
+    ror: https://ror.org/02e5hx313
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CAS Key Laboratory for Plant Diversity and Biogeography of East Asia, Kunming
+    Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, Yunnan, China
+- author_id: https://openalex.org/A5058602119
+  display_name: Mohammad Bahram
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I298625061
+    display_name: Swedish University of Agricultural Sciences
+    ror: https://ror.org/02yy8x990
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Ecology, Swedish University of Agricultural Sciences, Uppsala, Sweden
+- author_id: https://openalex.org/A5090374169
+  display_name: "Niloufar Hagh\u2010Doust"
+  orcid: https://orcid.org/0000-0003-0616-5829
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5046292567
+  display_name: Olesya Dulya
+  orcid: https://orcid.org/0000-0002-7185-8659
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134115
+    display_name: Institute of Plant and Animal Ecology
+    ror: https://ror.org/03msdt869
+    country_code: RU
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'Institute of Plant and Animal Ecology, Ural Branch, Russian Academy of Sciences,
+    8th March
+
+    Street 202/3, Ekaterinburg, Russia, 620144'
+- author_id: https://openalex.org/A5013511590
+  display_name: Peter R. Johnston
+  orcid: https://orcid.org/0000-0003-0761-9116
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I86609021
+    display_name: "Manaaki Whenua \u2013 Landcare Research"
+    ror: https://ror.org/02p9cyn66
+    country_code: NZ
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Manaaki Whenua - Landcare Research, Private Bag 92170, Auckland, 1142, New Zealand
+- author_id: https://openalex.org/A5013207083
+  display_name: Petr Kohout
+  orcid: https://orcid.org/0000-0002-3985-2310
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210122847
+    display_name: Czech Academy of Sciences, Institute of Microbiology
+    ror: https://ror.org/02p1jz666
+    country_code: CZ
+    type: funder
+  - id: https://openalex.org/I202391551
+    display_name: Czech Academy of Sciences
+    ror: https://ror.org/053avzc18
+    country_code: CZ
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Microbiology, Czech Academy of Sciences, Videnska 1083, 14220, Praha
+    4, Czech Republic
+- author_id: https://openalex.org/A5103950294
+  display_name: Qian Chen
+  orcid: https://orcid.org/0000-0003-4218-4402
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210134982
+    display_name: Institute of Microbiology
+    ror: https://ror.org/047yhep71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Mycology, Institute of Microbiology, Chinese Academy of
+    Sciences, Beijing, 100101, China
+- author_id: https://openalex.org/A5008262246
+  display_name: Qing Tian
+  orcid: https://orcid.org/0000-0002-1591-4337
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34002243
+    display_name: Mae Fah Luang University
+    ror: https://ror.org/00mwhaw71
+    country_code: TH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center of Excellence in Fungal Research, Mae Fah Luang University, Chiang Rai,
+    57100, Thailand
+- author_id: https://openalex.org/A5009986163
+  display_name: Rajasree Nandi
+  orcid: https://orcid.org/0000-0002-4278-219X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I894293524
+    display_name: University of Chittagong
+    ror: https://ror.org/01173vs27
+    country_code: BD
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Forestry and Environmental Sciences, University of Chittagong, Chittagong,
+    Bangladesh
+- author_id: https://openalex.org/A5075430181
+  display_name: Rasekh Amiri
+  orcid: https://orcid.org/0000-0001-7356-4593
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Ecology and Earth Sciences, University of Tartu, 14A Ravila, 50411,
+    Tartu, Estonia
+- author_id: https://openalex.org/A5088904408
+  display_name: Rekhani H. Perera
+  orcid: https://orcid.org/0000-0002-1360-5362
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I34002243
+    display_name: Mae Fah Luang University
+    ror: https://ror.org/00mwhaw71
+    country_code: TH
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center of Excellence in Fungal Research, Mae Fah Luang University, Chiang Rai,
+    57100, Thailand
+- author_id: https://openalex.org/A5062297665
+  display_name: Renata dos Santos Chikowski
+  orcid: https://orcid.org/0000-0003-2162-7024
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I25112270
+    display_name: Universidade Federal de Pernambuco
+    ror: https://ror.org/047908t24
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Departamento de Micologia, Universidade Federal de Pernambuco, Avenida da Engenharia,\
+    \ S/N - Cidade Universit\xE1ria, 50740-600, Recife, PE, Brazil"
+referenced_works:
+- https://openalex.org/W1005007408
+- https://openalex.org/W1190138214
+- https://openalex.org/W1507425375
+- https://openalex.org/W1928057741
+- https://openalex.org/W1969331657
+- https://openalex.org/W1978431551
+- https://openalex.org/W1990073801
+- https://openalex.org/W1991977600
+- https://openalex.org/W1993679825
+- https://openalex.org/W1998602558
+- https://openalex.org/W2016399990
+- https://openalex.org/W2037532970
+- https://openalex.org/W2043642851
+- https://openalex.org/W2055607449
+- https://openalex.org/W2077088073
+- https://openalex.org/W2078210797
+- https://openalex.org/W2078294775
+- https://openalex.org/W2086664980
+- https://openalex.org/W2095667786
+- https://openalex.org/W2107794472
+- https://openalex.org/W2109296318
+- https://openalex.org/W2120554124
+- https://openalex.org/W2123697951
+- https://openalex.org/W2126092315
+- https://openalex.org/W2130731460
+- https://openalex.org/W2137037625
+- https://openalex.org/W2142398297
+- https://openalex.org/W2144185424
+- https://openalex.org/W2145840889
+- https://openalex.org/W2149027072
+- https://openalex.org/W2160947363
+- https://openalex.org/W2168879089
+- https://openalex.org/W2170029812
+- https://openalex.org/W2184197637
+- https://openalex.org/W2291179027
+- https://openalex.org/W2298863510
+- https://openalex.org/W2314495996
+- https://openalex.org/W2413915992
+- https://openalex.org/W2433305978
+- https://openalex.org/W2518357517
+- https://openalex.org/W2519653133
+- https://openalex.org/W2564208398
+- https://openalex.org/W2578927002
+- https://openalex.org/W2621095374
+- https://openalex.org/W2740085246
+- https://openalex.org/W2754796163
+- https://openalex.org/W2768141209
+- https://openalex.org/W2784230947
+- https://openalex.org/W2803566787
+- https://openalex.org/W2804854320
+- https://openalex.org/W2841894484
+- https://openalex.org/W2900030356
+- https://openalex.org/W2900397418
+- https://openalex.org/W2900678021
+- https://openalex.org/W2912276778
+- https://openalex.org/W2921021180
+- https://openalex.org/W2922250911
+- https://openalex.org/W2944917708
+- https://openalex.org/W2945025048
+- https://openalex.org/W2954968155
+- https://openalex.org/W2991566198
+- https://openalex.org/W2995652018
+- https://openalex.org/W2999336468
+- https://openalex.org/W3015382627
+- https://openalex.org/W3021570916
+- https://openalex.org/W3022190721
+- https://openalex.org/W3040709534
+- https://openalex.org/W3041701188
+- https://openalex.org/W3044773617
+- https://openalex.org/W3083010830
+- https://openalex.org/W3092045521
+- https://openalex.org/W646106153
+primary_topic: Mycorrhizal Fungi and Plant Interactions
+open_access: false

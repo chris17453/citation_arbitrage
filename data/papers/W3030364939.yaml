@@ -1,0 +1,240 @@
+id: https://openalex.org/W3030364939
+doi: https://doi.org/10.1109/tpami.2021.3057446
+title: 'A continual learning survey: Defying forgetting in classification tasks'
+publication_date: '2021-01-01'
+publication_year: 2021
+cited_by_count: 1229
+citation_percentile: 0.999973
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5038205725
+  display_name: Matthias Delange
+  orcid: null
+  author_position: first
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department Electrical Engineering, Center for Processing Speech and Images, Leuven,
+    Belgium
+- author_id: https://openalex.org/A5021198356
+  display_name: Rahaf Aljundi
+  orcid: https://orcid.org/0000-0002-9871-6458
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department Electrical Engineering, Center for Processing Speech and Images, Leuven,
+    Belgium
+- author_id: https://openalex.org/A5089415088
+  display_name: Marc Masana
+  orcid: https://orcid.org/0000-0003-3254-3096
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387153096
+    display_name: Computer Vision Center
+    ror: https://ror.org/00s0nnj93
+    country_code: null
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UAB, Computer Vision Center, Barcelona, Spain
+- author_id: https://openalex.org/A5020523405
+  display_name: Sarah Parisot
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115038
+    display_name: Huawei Technologies (Canada)
+    ror: https://ror.org/026venb53
+    country_code: CA
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei, Montreal, Quebec, Canada
+- author_id: https://openalex.org/A5101858073
+  display_name: Xu Jia
+  orcid: https://orcid.org/0000-0001-7382-4201
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115038
+    display_name: Huawei Technologies (Canada)
+    ror: https://ror.org/026venb53
+    country_code: CA
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei, Montreal, Quebec, Canada
+- author_id: https://openalex.org/A5085971943
+  display_name: "Ale\u0161 Leonardis"
+  orcid: https://orcid.org/0000-0003-0773-3277
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115038
+    display_name: Huawei Technologies (Canada)
+    ror: https://ror.org/026venb53
+    country_code: CA
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei, Montreal, Quebec, Canada
+- author_id: https://openalex.org/A5037886447
+  display_name: Greg Slabaugh
+  orcid: https://orcid.org/0000-0003-4060-5226
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115038
+    display_name: Huawei Technologies (Canada)
+    ror: https://ror.org/026venb53
+    country_code: CA
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Huawei, Montreal, Quebec, Canada
+- author_id: https://openalex.org/A5074816094
+  display_name: Tinne Tuytelaars
+  orcid: https://orcid.org/0000-0003-3307-9723
+  author_position: last
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department Electrical Engineering, Center for Processing Speech and Images, Leuven,
+    Belgium
+referenced_works:
+- https://openalex.org/W1579279110
+- https://openalex.org/W1579705726
+- https://openalex.org/W1587813652
+- https://openalex.org/W1682403713
+- https://openalex.org/W1821462560
+- https://openalex.org/W1844261860
+- https://openalex.org/W1846799578
+- https://openalex.org/W1850240193
+- https://openalex.org/W1904365287
+- https://openalex.org/W1917989004
+- https://openalex.org/W1977544285
+- https://openalex.org/W2018124860
+- https://openalex.org/W2037227137
+- https://openalex.org/W2060277733
+- https://openalex.org/W2061524864
+- https://openalex.org/W2077723394
+- https://openalex.org/W2095705004
+- https://openalex.org/W2099471712
+- https://openalex.org/W2100602534
+- https://openalex.org/W2108598243
+- https://openalex.org/W2111051539
+- https://openalex.org/W2113839990
+- https://openalex.org/W2115599650
+- https://openalex.org/W2116522068
+- https://openalex.org/W2117539524
+- https://openalex.org/W2121358800
+- https://openalex.org/W2132211083
+- https://openalex.org/W2138011018
+- https://openalex.org/W2138733328
+- https://openalex.org/W2152161678
+- https://openalex.org/W2163605009
+- https://openalex.org/W2165698076
+- https://openalex.org/W2186494677
+- https://openalex.org/W2226087478
+- https://openalex.org/W2296073425
+- https://openalex.org/W2335728318
+- https://openalex.org/W2401932923
+- https://openalex.org/W2426267443
+- https://openalex.org/W2474280151
+- https://openalex.org/W2474694648
+- https://openalex.org/W2533598788
+- https://openalex.org/W2554616628
+- https://openalex.org/W2560647685
+- https://openalex.org/W2565989828
+- https://openalex.org/W2583761661
+- https://openalex.org/W2605043629
+- https://openalex.org/W2617118670
+- https://openalex.org/W2618530766
+- https://openalex.org/W2737492962
+- https://openalex.org/W2742079690
+- https://openalex.org/W2743151379
+- https://openalex.org/W2756202949
+- https://openalex.org/W2765101016
+- https://openalex.org/W2782276075
+- https://openalex.org/W2786446225
+- https://openalex.org/W2786958491
+- https://openalex.org/W2788388592
+- https://openalex.org/W2791090478
+- https://openalex.org/W2791091755
+- https://openalex.org/W2792568620
+- https://openalex.org/W2804175194
+- https://openalex.org/W2804746922
+- https://openalex.org/W2806984819
+- https://openalex.org/W2808439681
+- https://openalex.org/W2889767407
+- https://openalex.org/W2898503115
+- https://openalex.org/W2899063268
+- https://openalex.org/W2902417425
+- https://openalex.org/W2902456977
+- https://openalex.org/W2902625698
+- https://openalex.org/W2902907165
+- https://openalex.org/W2912351382
+- https://openalex.org/W2924984511
+- https://openalex.org/W2926477959
+- https://openalex.org/W2943035085
+- https://openalex.org/W2947461406
+- https://openalex.org/W2947843732
+- https://openalex.org/W2949995560
+- https://openalex.org/W2951227765
+- https://openalex.org/W2952571470
+- https://openalex.org/W2954850701
+- https://openalex.org/W2962707369
+- https://openalex.org/W2962724315
+- https://openalex.org/W2962966271
+- https://openalex.org/W2963072899
+- https://openalex.org/W2963559848
+- https://openalex.org/W2963560049
+- https://openalex.org/W2963588172
+- https://openalex.org/W2963649256
+- https://openalex.org/W2963788399
+- https://openalex.org/W2963813679
+- https://openalex.org/W2964048876
+- https://openalex.org/W2964067969
+- https://openalex.org/W2964088867
+- https://openalex.org/W2964189064
+- https://openalex.org/W2964790801
+- https://openalex.org/W2970586779
+- https://openalex.org/W2970748152
+- https://openalex.org/W2982701845
+- https://openalex.org/W2989896317
+- https://openalex.org/W2996514457
+- https://openalex.org/W3002497460
+- https://openalex.org/W3013325675
+- https://openalex.org/W3021931813
+- https://openalex.org/W3031989616
+- https://openalex.org/W3034442443
+- https://openalex.org/W3035521292
+- https://openalex.org/W3082248862
+- https://openalex.org/W3086499488
+- https://openalex.org/W3097695468
+- https://openalex.org/W3098511564
+- https://openalex.org/W3102616566
+- https://openalex.org/W3103800629
+- https://openalex.org/W3104770333
+- https://openalex.org/W3141797743
+- https://openalex.org/W3153660122
+- https://openalex.org/W3163939464
+- https://openalex.org/W3174083140
+- https://openalex.org/W3198664535
+- https://openalex.org/W4211061250
+- https://openalex.org/W4213116910
+- https://openalex.org/W4238509536
+- https://openalex.org/W4239072543
+- https://openalex.org/W4245895156
+- https://openalex.org/W4250737575
+- https://openalex.org/W4285719527
+- https://openalex.org/W4288268123
+- https://openalex.org/W4289366620
+- https://openalex.org/W4292022450
+- https://openalex.org/W4294563062
+- https://openalex.org/W4295883599
+- https://openalex.org/W4298116016
+- https://openalex.org/W4301163820
+- https://openalex.org/W4312744085
+- https://openalex.org/W4319988532
+- https://openalex.org/W4320013936
+primary_topic: Domain Adaptation and Few-Shot Learning
+open_access: true

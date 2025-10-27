@@ -1,0 +1,754 @@
+id: https://openalex.org/W3082355253
+doi: https://doi.org/10.1001/jama.2020.17023
+title: Association Between Administration of Systemic Corticosteroids and Mortality
+  Among Critically Ill Patients With COVID-19
+publication_date: '2020-09-02'
+publication_year: 2020
+cited_by_count: 2198
+citation_percentile: 0.996683
+pagerank: 2.983152301251872e-06
+authorships:
+- author_id: https://openalex.org/A5015955757
+  display_name: Jonathan Sterne
+  orcid: https://orcid.org/0000-0001-8496-6053
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210119147
+    display_name: NIHR Bristol Biomedical Research Centre
+    ror: https://ror.org/02mtt1z51
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - NIHR Bristol Biomedical Research Centre, Bristol, England
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    England
+- author_id: https://openalex.org/A5061855694
+  display_name: Srinivas Murthy
+  orcid: https://orcid.org/0000-0002-9476-839X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I141945490
+    display_name: University of British Columbia
+    ror: https://ror.org/03rmrcq20
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pediatrics, University of British Columbia, Vancouver, Canada
+- author_id: https://openalex.org/A5039673036
+  display_name: "Janet D\u0131\u0301az"
+  orcid: https://orcid.org/0000-0002-8753-531X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105654
+    display_name: World Health Organization
+    ror: https://ror.org/01f80g185
+    country_code: CH
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Clinical Unit, Health Emergencies Programme, World Health Organization, Geneva,
+    Switzerland
+- author_id: https://openalex.org/A5041519561
+  display_name: Arthur S. Slutsky
+  orcid: https://orcid.org/0000-0002-6063-3876
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297363086
+    display_name: St. Michael's Hospital
+    ror: https://ror.org/04skqfp25
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Applied Health Research Centre, Li Ka Shing Knowledge Institute of St Michael's
+    Hospital, Department of Medicine, University of Toronto, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5101473165
+  display_name: "Jes\xFAs Villar"
+  orcid: https://orcid.org/0000-0001-5687-3562
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098027
+    display_name: "Hospital Universitario de Gran Canaria Doctor Negr\xEDn"
+    ror: https://ror.org/00s4vhs88
+    country_code: ES
+    type: healthcare
+  - id: https://openalex.org/I2801357902
+    display_name: Instituto de Salud Carlos III
+    ror: https://ror.org/00ca2c886
+    country_code: ES
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CIBER de Enfermedades Respiratorias, Instituto de Salud Carlos III, Madrid, Spain
+  - "Research Unit, Hospital Universitario Dr Negr\xEDn, Las Palmas de Gran Canaria,\
+    \ Spain"
+- author_id: https://openalex.org/A5001670387
+  display_name: Derek C. Angus
+  orcid: https://orcid.org/0000-0002-7026-5181
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I170201317
+    display_name: University of Pittsburgh
+    ror: https://ror.org/01an3r305
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Critical Care Medicine, University of Pittsburgh School of Medicine,
+    Pittsburgh, Pennsylvania
+- author_id: https://openalex.org/A5068616089
+  display_name: Djillali Annane
+  orcid: https://orcid.org/0000-0001-6805-8944
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I195731000
+    display_name: "Universit\xE9 de Versailles Saint-Quentin-en-Yvelines"
+    ror: https://ror.org/03mkjjy25
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210134648
+    display_name: "H\xF4pital Raymond-Poincar\xE9"
+    ror: https://ror.org/03pef0w96
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Intensive Care, Raymond Poincar\xE9 Hospital (APHP), School of\
+    \ Medicine Simone Veil, University Paris Saclay-UVSQ, Paris, France"
+- author_id: https://openalex.org/A5052875900
+  display_name: "Luciano C\xE9sar Pontes Azevedo"
+  orcid: https://orcid.org/0000-0001-6759-3910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210149843
+    display_name: "Hospital S\xEDrio-Liban\xEAs"
+    ror: https://ror.org/03r5mk904
+    country_code: BR
+    type: healthcare
+  - id: https://openalex.org/I17974374
+    display_name: "Universidade de S\xE3o Paulo"
+    ror: https://ror.org/036rp1748
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Emergency Medicine Department, University of S\xE3o Paulo School of Medicine,\
+    \ S\xE3o Paulo, Brazil"
+  - "Hospital S\xEDrio-Liban\xEAs, S\xE3o Paulo, Brazil"
+- author_id: https://openalex.org/A5026937673
+  display_name: "Ot\xE1vio Berwanger"
+  orcid: https://orcid.org/0000-0002-4972-2958
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800288331
+    display_name: Hospital Israelita Albert Einstein
+    ror: https://ror.org/04cwrbc27
+    country_code: BR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Academic Research Organization, Hospital Israelita Albert Einstein, S\xE3o Paulo,\
+    \ Brazil"
+- author_id: https://openalex.org/A5016024795
+  display_name: Alexandre Biasi Cavalcanti
+  orcid: https://orcid.org/0000-0003-2798-6263
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "HCor Research Insitute, S\xE3o Paulo, Brazil"
+- author_id: https://openalex.org/A5088776550
+  display_name: "Pierre\u2010Fran\xE7ois Dequin"
+  orcid: https://orcid.org/0000-0003-4819-1769
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210095477
+    display_name: Centre Hospitalier Universitaire de Tours
+    ror: https://ror.org/00jpq0w62
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210100476
+    display_name: Clinical Investigation Center Plurithematic Tours
+    ror: https://ror.org/00xzj9k32
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I110017253
+    display_name: "Universit\xE9 de Tours"
+    ror: https://ror.org/02wwzvj46
+    country_code: FR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "CRICS-TriGGERSep Network, Centre d\u2019Etude des Pathologies Respiratoires,\
+    \ Universit\xE9 de Tours, Tours, France"
+  - "M\xE9decine Intensive-R\xE9animation, INSERM CIC1415, CHRU de Tours, Tours, France"
+- author_id: https://openalex.org/A5012294390
+  display_name: Bin Du
+  orcid: https://orcid.org/0000-0001-6237-2895
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801228662
+    display_name: Peking Union Medical College Hospital
+    ror: https://ror.org/04jztag35
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I200296433
+    display_name: Chinese Academy of Medical Sciences & Peking Union Medical College
+    ror: https://ror.org/02drdmm93
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Peking Union Medical College Hospital, Beijing, China
+- author_id: https://openalex.org/A5030250235
+  display_name: Jonathan Emberson
+  orcid: https://orcid.org/0000-0001-7792-9422
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Population Health Research Unit, University of Oxford, Oxford, England
+  - Nuffield Department of Population Health, University of Oxford, Oxford, England
+- author_id: https://openalex.org/A5073739923
+  display_name: David J. Fisher
+  orcid: https://orcid.org/0000-0002-2512-2296
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091428
+    display_name: MRC Clinical Trials Unit at UCL
+    ror: https://ror.org/001mm6w73
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and Methodology,
+    Faculty of Population Health Sciences, University College London, London, England
+- author_id: https://openalex.org/A5090924104
+  display_name: Bruno Giraudeau
+  orcid: https://orcid.org/0000-0003-3031-8258
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210095477
+    display_name: Centre Hospitalier Universitaire de Tours
+    ror: https://ror.org/00jpq0w62
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CIC INSERM 1415-CHRU de Tours, Tours, France
+- author_id: https://openalex.org/A5054928970
+  display_name: Anthony Gordon
+  orcid: https://orcid.org/0000-0002-0419-547X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Anaesthetics, Pain Medicine and Intensive Care, Imperial College London,
+    London, England
+- author_id: https://openalex.org/A5076208728
+  display_name: Anders Granholm
+  orcid: https://orcid.org/0000-0001-5799-7655
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I2802709434
+    display_name: Rigshospitalet
+    ror: https://ror.org/03mchdq19
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Intensive Care, Rigshospitalet, University of Copenhagen, Copenhagen,
+    Denmark
+- author_id: https://openalex.org/A5021692759
+  display_name: Cameron Green
+  orcid: https://orcid.org/0000-0001-8949-3590
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Australian and New Zealand Intensive Care Research Centre, School of Epidemiology
+    and Preventive Medicine, Monash University, Melbourne, Australia
+- author_id: https://openalex.org/A5088900128
+  display_name: Richard Haynes
+  orcid: https://orcid.org/0000-0002-1179-0023
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Population Health Research Unit, University of Oxford, Oxford, England
+  - Nuffield Department of Population Health, University of Oxford, Oxford, England
+- author_id: https://openalex.org/A5020719351
+  display_name: Nicholas Heming
+  orcid: https://orcid.org/0000-0002-4537-7595
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210134648
+    display_name: "H\xF4pital Raymond-Poincar\xE9"
+    ror: https://ror.org/03pef0w96
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I195731000
+    display_name: "Universit\xE9 de Versailles Saint-Quentin-en-Yvelines"
+    ror: https://ror.org/03mkjjy25
+    country_code: FR
+    type: funder
+  - id: https://openalex.org/I4210097159
+    display_name: "Assistance Publique \u2013 H\xF4pitaux de Paris"
+    ror: https://ror.org/00pg5jh14
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Intensive Care, Raymond Poincar\xE9 Hospital (APHP), School of\
+    \ Medicine Simone Veil, University Paris Saclay-UVSQ, Paris, France"
+- author_id: https://openalex.org/A5031195893
+  display_name: Julian P. T. Higgins
+  orcid: https://orcid.org/0000-0002-8323-2514
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4392738148
+    display_name: University Hospitals Bristol and Weston NHS Foundation Trust
+    ror: https://ror.org/03jzzxg14
+    country_code: null
+    type: healthcare
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210119147
+    display_name: NIHR Bristol Biomedical Research Centre
+    ror: https://ror.org/02mtt1z51
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I2800789647
+    display_name: University Hospitals Bristol NHS Foundation Trust
+    ror: https://ror.org/04nm1cv11
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Applied Research Collaboration West, University Hospitals Bristol and Weston
+    NHS Foundation Trust, Bristol, England
+  - NIHR Bristol Biomedical Research Centre, Bristol, England
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    England
+- author_id: https://openalex.org/A5055026576
+  display_name: Peter Horby
+  orcid: https://orcid.org/0000-0002-9822-1586
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Nuffield Department of Medicine, University of Oxford, Oxford, England
+- author_id: https://openalex.org/A5038409870
+  display_name: "Peter J\xFCni"
+  orcid: https://orcid.org/0000-0002-5985-0670
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297363086
+    display_name: St. Michael's Hospital
+    ror: https://ror.org/04skqfp25
+    country_code: CA
+    type: healthcare
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Applied Health Research Centre, Li Ka Shing Knowledge Institute of St Michael's
+    Hospital, Department of Medicine, University of Toronto, Toronto, Ontario, Canada
+- author_id: https://openalex.org/A5079926383
+  display_name: Martin Landray
+  orcid: https://orcid.org/0000-0001-6646-827X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210146357
+    display_name: Oxford BioMedica (United Kingdom)
+    ror: https://ror.org/03dp0vf82
+    country_code: GB
+    type: company
+  - id: https://openalex.org/I4210092907
+    display_name: Oxford Biomedical Research
+    ror: https://ror.org/00k27zs44
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - MRC Population Health Research Unit, University of Oxford, Oxford, England
+  - NIHR Oxford Biomedical Research Centre, Oxford University Hospitals NHS Foundation
+    Trust, Oxford, England
+  - Nuffield Department of Population Health, University of Oxford, Oxford, England
+- author_id: https://openalex.org/A5018610183
+  display_name: "Am\xE9lie Le Gouge"
+  orcid: https://orcid.org/0000-0001-6734-5685
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210095477
+    display_name: Centre Hospitalier Universitaire de Tours
+    ror: https://ror.org/00jpq0w62
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CIC INSERM 1415-CHRU de Tours, Tours, France
+- author_id: https://openalex.org/A5108682311
+  display_name: M Leclerc
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  - id: https://openalex.org/I4210095477
+    display_name: Centre Hospitalier Universitaire de Tours
+    ror: https://ror.org/00jpq0w62
+    country_code: FR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - CIC INSERM 1415-CHRU de Tours, Tours, France
+- author_id: https://openalex.org/A5015120901
+  display_name: Wei Shen Lim
+  orcid: https://orcid.org/0000-0002-7694-3051
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1334287468
+    display_name: Nottingham University Hospitals NHS Trust
+    ror: https://ror.org/05y3qh794
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Respiratory Medicine Department, Nottingham University Hospitals NHS Trust, Nottingham,
+    England
+- author_id: https://openalex.org/A5102907365
+  display_name: F.S. Machado
+  orcid: https://orcid.org/0000-0001-6921-227X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I88273585
+    display_name: "Universidade Federal de S\xE3o Paulo"
+    ror: https://ror.org/02k5swt12
+    country_code: BR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Anesthesiology, Pain, and Intensive Care Department, Federal University of S\xE3\
+    o Paulo, S\xE3o Paulo, Brazil"
+- author_id: https://openalex.org/A5056742179
+  display_name: Colin McArthur
+  orcid: https://orcid.org/0000-0003-0370-0080
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I2801418622
+    display_name: Auckland City Hospital
+    ror: https://ror.org/05e8jge82
+    country_code: NZ
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Australian and New Zealand Intensive Care Research Centre, School of Epidemiology
+    and Preventive Medicine, Monash University, Melbourne, Australia
+  - Department of Critical Care Medicine, Auckland City Hospital, Auckland, New Zealand
+- author_id: https://openalex.org/A5105516666
+  display_name: Ferhat Meziani
+  orcid: https://orcid.org/0000-0002-1005-9095
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210145324
+    display_name: "H\xF4pitaux Universitaires de Strasbourg"
+    ror: https://ror.org/04bckew43
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210163538
+    display_name: "H\xF4pital Civil, Strasbourg"
+    ror: https://ror.org/05fkq4848
+    country_code: FR
+    type: healthcare
+  - id: https://openalex.org/I4210087124
+    display_name: Regenerative NanoMedicine
+    ror: https://ror.org/0032jvj22
+    country_code: FR
+    type: facility
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "H\xF4pitaux Universitaires de Strasbourg, Service de M\xE9decine Intensive R\xE9\
+    animation, Nouvel H\xF4pital Civil, Strasbourg, France"
+  - INSERM UMR 1260, Regenerative Nanomedicine, FMTS, Strasbourg, France
+- author_id: https://openalex.org/A5045762489
+  display_name: "Morten Hylander M\xF8ller"
+  orcid: https://orcid.org/0000-0002-6378-9673
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I2802709434
+    display_name: Rigshospitalet
+    ror: https://ror.org/03mchdq19
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Intensive Care, Rigshospitalet, University of Copenhagen, Copenhagen,
+    Denmark
+- author_id: https://openalex.org/A5020727172
+  display_name: Anders Perner
+  orcid: https://orcid.org/0000-0002-4668-0123
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  - id: https://openalex.org/I2802709434
+    display_name: Rigshospitalet
+    ror: https://ror.org/03mchdq19
+    country_code: DK
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Intensive Care, Rigshospitalet, University of Copenhagen, Copenhagen,
+    Denmark
+- author_id: https://openalex.org/A5113837520
+  display_name: Marie Warrer Petersen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802709434
+    display_name: Rigshospitalet
+    ror: https://ror.org/03mchdq19
+    country_code: DK
+    type: healthcare
+  - id: https://openalex.org/I124055696
+    display_name: University of Copenhagen
+    ror: https://ror.org/035b05819
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Intensive Care, Rigshospitalet, University of Copenhagen, Copenhagen,
+    Denmark
+- author_id: https://openalex.org/A5016408852
+  display_name: "Jelena Savovi\u0107"
+  orcid: https://orcid.org/0000-0002-2861-0578
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800789647
+    display_name: University Hospitals Bristol NHS Foundation Trust
+    ror: https://ror.org/04nm1cv11
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I36234482
+    display_name: University of Bristol
+    ror: https://ror.org/0524sp257
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4392738148
+    display_name: University Hospitals Bristol and Weston NHS Foundation Trust
+    ror: https://ror.org/03jzzxg14
+    country_code: null
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Applied Research Collaboration West, University Hospitals Bristol and Weston
+    NHS Foundation Trust, Bristol, England
+  - Population Health Sciences, Bristol Medical School, University of Bristol, Bristol,
+    England
+- author_id: https://openalex.org/A5011224434
+  display_name: Bruno Martins Tomazini
+  orcid: https://orcid.org/0000-0001-6763-6132
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I17974374
+    display_name: "Universidade de S\xE3o Paulo"
+    ror: https://ror.org/036rp1748
+    country_code: BR
+    type: funder
+  - id: https://openalex.org/I4210149843
+    display_name: "Hospital S\xEDrio-Liban\xEAs"
+    ror: https://ror.org/03r5mk904
+    country_code: BR
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Surgery, School of Medicine, University of S\xE3o Paulo, S\xE3\
+    o Paulo, Brazil"
+  - "Hospital S\xEDrio-Liban\xEAs, S\xE3o Paulo, Brazil"
+- author_id: https://openalex.org/A5048325645
+  display_name: Viviane Cordeiro Veiga
+  orcid: https://orcid.org/0000-0002-0287-3601
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114248
+    display_name: "Benefic\xEAncia Portuguesa de S\xE3o Paulo"
+    ror: https://ror.org/02d7mxj93
+    country_code: BR
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "BP-A Benefic\xEAncia Portuguesa de S\xE3o Paulo, S\xE3o Paulo, Brazil"
+- author_id: https://openalex.org/A5110181940
+  display_name: Steve Webb
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I1292109108
+    display_name: St John of God Subiaco Hospital
+    ror: https://ror.org/00hvh1x59
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Australian and New Zealand Intensive Care Research Centre, School of Epidemiology
+    and Preventive Medicine, Monash University, Melbourne, Australia
+  - St John of God Healthcare, Subiaco, Australia
+- author_id: https://openalex.org/A5107541166
+  display_name: John C. Marshall
+  orcid: null
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I185261750
+    display_name: University of Toronto
+    ror: https://ror.org/03dbr7087
+    country_code: CA
+    type: funder
+  - id: https://openalex.org/I1297363086
+    display_name: St. Michael's Hospital
+    ror: https://ror.org/04skqfp25
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Li Ka Shing Knowledge Institute, St Michael's Hospital, University of Toronto,
+    Toronto, Ontario, Canada
+referenced_works:
+- https://openalex.org/W1761204585
+- https://openalex.org/W1803784511
+- https://openalex.org/W2032506622
+- https://openalex.org/W2059130611
+- https://openalex.org/W2100224535
+- https://openalex.org/W2128640268
+- https://openalex.org/W2165010366
+- https://openalex.org/W2283441474
+- https://openalex.org/W2339043257
+- https://openalex.org/W2593708391
+- https://openalex.org/W2620241325
+- https://openalex.org/W2757757226
+- https://openalex.org/W2951510830
+- https://openalex.org/W2970684805
+- https://openalex.org/W2974205756
+- https://openalex.org/W2988255546
+- https://openalex.org/W2992739672
+- https://openalex.org/W3005403371
+- https://openalex.org/W3014214532
+- https://openalex.org/W3016541457
+- https://openalex.org/W3026764413
+- https://openalex.org/W3041160585
+- https://openalex.org/W3042270788
+- https://openalex.org/W3046957981
+- https://openalex.org/W3048510827
+- https://openalex.org/W3081721922
+- https://openalex.org/W3081877184
+- https://openalex.org/W3082108964
+- https://openalex.org/W4210642183
+- https://openalex.org/W4212891121
+- https://openalex.org/W4243818835
+- https://openalex.org/W4249999102
+primary_topic: Intensive Care Unit Cognitive Disorders
+open_access: true

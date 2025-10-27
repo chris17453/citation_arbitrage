@@ -1,0 +1,1606 @@
+id: https://openalex.org/W3162259891
+doi: https://doi.org/10.1038/s41588-021-00857-4
+title: Genome-wide association study of more than 40,000 bipolar disorder cases provides
+  new insights into the underlying biology
+publication_date: '2021-05-17'
+publication_year: 2021
+cited_by_count: 1257
+citation_percentile: 0.999239
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5084745044
+  display_name: Niamh Mullins
+  orcid: https://orcid.org/0000-0001-8021-839X
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5048937331
+  display_name: Andreas J. Forstner
+  orcid: https://orcid.org/0000-0002-1876-6368
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799391451
+    display_name: University Hospital Bonn
+    ror: https://ror.org/01xnwqx93
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I135140700
+    display_name: University of Bonn
+    ror: https://ror.org/041nas322
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Human Genetics, University of Bonn, School of Medicine and University
+    Hospital Bonn, Bonn, Germany
+- author_id: https://openalex.org/A5081056837
+  display_name: "Kevin S. O\u2019Connell"
+  orcid: https://orcid.org/0000-0002-6865-8795
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1281400175
+    display_name: Oslo University Hospital
+    ror: https://ror.org/00j9c2840
+    country_code: 'NO'
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Mental Health and Addiction, Oslo University Hospital, Oslo, Norway
+- author_id: https://openalex.org/A5045749576
+  display_name: Brandon J. Coombes
+  orcid: https://orcid.org/0000-0003-4322-5923
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146710
+    display_name: Mayo Clinic in Florida
+    ror: https://ror.org/03zzw1w08
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA
+- author_id: https://openalex.org/A5078032548
+  display_name: Jonathan R. I. Coleman
+  orcid: https://orcid.org/0000-0002-6759-0944
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Social, Genetic and Developmental Psychiatry Centre, King's College London, London,
+    UK
+- author_id: https://openalex.org/A5067000952
+  display_name: Zhen Qiao
+  orcid: https://orcid.org/0000-0002-4401-774X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165143802
+    display_name: The University of Queensland
+    ror: https://ror.org/00rqy9422
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Molecular Bioscience, The University of Queensland, Brisbane, Queensland,
+    Australia
+- author_id: https://openalex.org/A5050968948
+  display_name: Thomas D. Als
+  orcid: https://orcid.org/0000-0002-2963-1928
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204337017
+    display_name: Aarhus University
+    ror: https://ror.org/01aj84f44
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - iSEQ, Center for Integrative Sequencing, Aarhus University, Aarhus, Denmark
+- author_id: https://openalex.org/A5002951219
+  display_name: Tim B. Bigdeli
+  orcid: https://orcid.org/0000-0003-2215-5946
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I181697535
+    display_name: SUNY Downstate Health Sciences University
+    ror: https://ror.org/0041qmd21
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Behavioral Sciences, SUNY Downstate Health Sciences
+    University, Brooklyn, NY, USA
+- author_id: https://openalex.org/A5010050251
+  display_name: "Sigrid B\xF8rte"
+  orcid: https://orcid.org/0000-0001-9540-3256
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1281400175
+    display_name: Oslo University Hospital
+    ror: https://ror.org/00j9c2840
+    country_code: 'NO'
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research and Communication Unit for Musculoskeletal Health, Division of Clinical
+    Neuroscience, Oslo University Hospital, Oslo, Norway
+- author_id: https://openalex.org/A5071146655
+  display_name: Julien Bryois
+  orcid: https://orcid.org/0000-0002-4747-2166
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm,
+    Sweden
+- author_id: https://openalex.org/A5091224898
+  display_name: Alexander W. Charney
+  orcid: https://orcid.org/0000-0001-8135-6858
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5050829792
+  display_name: Ole Kristian Drange
+  orcid: https://orcid.org/0000-0003-2766-7190
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204778367
+    display_name: Norwegian University of Science and Technology
+    ror: https://ror.org/05xg72x27
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mental Health, Faculty of Medicine and Health Sciences, Norwegian
+    University of Science and Technology (NTNU), Trondheim, Norway
+- author_id: https://openalex.org/A5008274391
+  display_name: Michael J. Gandal
+  orcid: https://orcid.org/0000-0001-5800-5128
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Biobehavioral Science, Semel Institute, David Geffen
+    School of Medicine, University of California, Los Angeles, Los Angeles, CA, USA
+- author_id: https://openalex.org/A5028579661
+  display_name: Saskia P. Hagenaars
+  orcid: https://orcid.org/0000-0001-9697-8596
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183935753
+    display_name: King's College London
+    ror: https://ror.org/0220mzb33
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Social, Genetic and Developmental Psychiatry Centre, King's College London, London,
+    UK
+- author_id: https://openalex.org/A5082871715
+  display_name: Masashi Ikeda
+  orcid: https://orcid.org/0000-0001-6237-2449
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145673806
+    display_name: Fujita Health University
+    ror: https://ror.org/046f6cx68
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, School of Medicine, Fujita Health University, Toyoake,
+    Japan
+- author_id: https://openalex.org/A5033605698
+  display_name: Nolan Kamitaki
+  orcid: https://orcid.org/0000-0003-0614-0189
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stanley Center for Psychiatric Research, Broad Institute, Cambridge, MA, USA
+- author_id: https://openalex.org/A5100362660
+  display_name: Minsoo Kim
+  orcid: https://orcid.org/0000-0002-2228-5874
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Biobehavioral Science, Semel Institute, David Geffen
+    School of Medicine, University of California, Los Angeles, Los Angeles, CA, USA
+- author_id: https://openalex.org/A5068299290
+  display_name: Kristi Krebs
+  orcid: https://orcid.org/0000-0003-0494-2751
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56085075
+    display_name: University of Tartu
+    ror: https://ror.org/03z77qz90
+    country_code: EE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, Estonia
+- author_id: https://openalex.org/A5008010205
+  display_name: Georgia Panagiotaropoulou
+  orcid: https://orcid.org/0000-0001-9516-6158
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Psychiatry and Psychotherapy, Charit\xE9 - Universit\xE4tsmedizin,\
+    \ Berlin, Germany"
+- author_id: https://openalex.org/A5049079630
+  display_name: Brian M. Schilder
+  orcid: https://orcid.org/0000-0001-5949-2191
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5049830131
+  display_name: Laura Sloofman
+  orcid: https://orcid.org/0000-0001-7628-4378
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5071485760
+  display_name: Stacy Steinberg
+  orcid: https://orcid.org/0000-0001-7726-5152
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1327191685
+    display_name: deCODE Genetics (Iceland)
+    ror: https://ror.org/04dzdm737
+    country_code: IS
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - deCODE Genetics/Amgen, Reykjavik, Iceland
+- author_id: https://openalex.org/A5052373620
+  display_name: Vassily Trubetskoy
+  orcid: https://orcid.org/0000-0003-3074-728X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Psychiatry and Psychotherapy, Charit\xE9 - Universit\xE4tsmedizin,\
+    \ Berlin, Germany"
+- author_id: https://openalex.org/A5028361855
+  display_name: Bendik S. Winsvold
+  orcid: https://orcid.org/0000-0003-4171-8919
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204778367
+    display_name: Norwegian University of Science and Technology
+    ror: https://ror.org/05xg72x27
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - K. G. Jebsen Center for Genetic Epidemiology, Department of Public Health and
+    Nursing, Faculty of Medicine and Health Sciences, Norwegian University of Science
+    and Technology, Trondheim, Norway
+- author_id: https://openalex.org/A5039633463
+  display_name: "Hong\u2010Hee Won"
+  orcid: https://orcid.org/0000-0001-5719-0552
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802194831
+    display_name: Samsung Medical Center
+    ror: https://ror.org/05a15z872
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Samsung Advanced Institute for Health Sciences and Technology (SAIHST), Samsung
+    Medical Center, Sungkyunkwan University, Seoul, South Korea
+- author_id: https://openalex.org/A5103914108
+  display_name: Liliya Abramova
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210153069
+    display_name: Mental Health Research Center of Russian Academy of Medical Sciences
+    ror: https://ror.org/055csed06
+    country_code: RU
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Russian Academy of Medical Sciences, Mental Health Research Center, Moscow, Russian
+    Federation
+- author_id: https://openalex.org/A5086212454
+  display_name: Kristina Adorjan
+  orcid: https://orcid.org/0000-0001-7501-9556
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Psychiatric Phenomics and Genomics (IPPG), University Hospital, LMU
+    Munich, Munich, Germany
+- author_id: https://openalex.org/A5051686843
+  display_name: Esben Agerbo
+  orcid: https://orcid.org/0000-0002-2849-524X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127817
+    display_name: Lundbeck Foundation
+    ror: https://ror.org/03hz8wd80
+    country_code: DK
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric Research,
+    Aarhus, Denmark
+- author_id: https://openalex.org/A5109342542
+  display_name: Mariam Al Eissa
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Psychiatry, University College London, London, UK
+- author_id: https://openalex.org/A5103279828
+  display_name: Diego Albani
+  orcid: https://orcid.org/0000-0002-7050-6723
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19630809
+    display_name: Mario Negri Institute for Pharmacological Research
+    ror: https://ror.org/05aspc753
+    country_code: IT
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Neuroscience, Istituto Di Ricerche Farmacologiche Mario Negri IRCCS,
+    Milan, Italy
+- author_id: https://openalex.org/A5003311118
+  display_name: "Ney Alliey\u2010Rodriguez"
+  orcid: https://orcid.org/0000-0001-8594-5676
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40347166
+    display_name: University of Chicago
+    ror: https://ror.org/024mw5h28
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Behavioral Neuroscience, University of Chicago, Chicago,
+    IL, USA
+- author_id: https://openalex.org/A5030682294
+  display_name: Adebayo Anjorin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801565596
+    display_name: Berkshire Healthcare NHS Foundation Trust
+    ror: https://ror.org/03t542436
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Psychiatry, Berkshire Healthcare NHS Foundation Trust, Bracknell, UK
+- author_id: https://openalex.org/A5036563041
+  display_name: Verneri Antilla
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210087915
+    display_name: Massachusetts General Hospital
+    ror: https://ror.org/002pd6e78
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston,
+    MA, USA
+- author_id: https://openalex.org/A5087331640
+  display_name: Anastasia Antoniou
+  orcid: https://orcid.org/0000-0001-9557-8793
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200777214
+    display_name: National and Kapodistrian University of Athens
+    ror: https://ror.org/04gnjpq42
+    country_code: GR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2nd Department of Psychiatry, Attikon General Hospital, National and Kapodistrian
+    University of Athens, Athens, Greece
+- author_id: https://openalex.org/A5090089858
+  display_name: Swapnil Awasthi
+  orcid: https://orcid.org/0000-0002-9692-8123
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Psychiatry and Psychotherapy, Charit\xE9 - Universit\xE4tsmedizin,\
+    \ Berlin, Germany"
+- author_id: https://openalex.org/A5037361623
+  display_name: Ji Hyun Baek
+  orcid: https://orcid.org/0000-0002-1366-0396
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802194831
+    display_name: Samsung Medical Center
+    ror: https://ror.org/05a15z872
+    country_code: KR
+    type: healthcare
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Samsung Medical Center, School of Medicine, Sungkyunkwan
+    University, Seoul, South Korea
+- author_id: https://openalex.org/A5019813526
+  display_name: "Marie B\xE6kvad\u2010Hansen"
+  orcid: https://orcid.org/0000-0002-5881-1776
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127817
+    display_name: Lundbeck Foundation
+    ror: https://ror.org/03hz8wd80
+    country_code: DK
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric Research,
+    Aarhus, Denmark
+- author_id: https://openalex.org/A5060658422
+  display_name: Nicholas Bass
+  orcid: https://orcid.org/0000-0002-4481-778X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Psychiatry, University College London, London, UK
+- author_id: https://openalex.org/A5041397944
+  display_name: Michael Bauer
+  orcid: https://orcid.org/0000-0002-2666-859X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210162051
+    display_name: University Hospital Carl Gustav Carus
+    ror: https://ror.org/04za5zm41
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I78650965
+    display_name: "Technische Universit\xE4t Dresden"
+    ror: https://ror.org/042aqky30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Psychiatry and Psychotherapy, University Hospital Carl Gustav Carus,\
+    \ Technische Universit\xE4t Dresden, Dresden, Germany"
+- author_id: https://openalex.org/A5068702507
+  display_name: Eva C. Beins
+  orcid: https://orcid.org/0000-0002-7779-0210
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799391451
+    display_name: University Hospital Bonn
+    ror: https://ror.org/01xnwqx93
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I135140700
+    display_name: University of Bonn
+    ror: https://ror.org/041nas322
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Human Genetics, University of Bonn, School of Medicine and University
+    Hospital Bonn, Bonn, Germany
+- author_id: https://openalex.org/A5046910847
+  display_name: Sarah E. Bergen
+  orcid: https://orcid.org/0000-0002-5888-0034
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm,
+    Sweden
+- author_id: https://openalex.org/A5042437865
+  display_name: Armin Birner
+  orcid: https://orcid.org/0000-0002-5047-6264
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202276237
+    display_name: Medical University of Graz
+    ror: https://ror.org/02n0bts35
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Psychotherapeutic Medicine, Medical University of
+    Graz, Graz, Austria
+- author_id: https://openalex.org/A5022849220
+  display_name: "Carsten B\xF8cker Pedersen"
+  orcid: https://orcid.org/0000-0003-2077-8533
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127817
+    display_name: Lundbeck Foundation
+    ror: https://ror.org/03hz8wd80
+    country_code: DK
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric Research,
+    Aarhus, Denmark
+- author_id: https://openalex.org/A5056008712
+  display_name: "Erlend B\xF8en"
+  orcid: https://orcid.org/0000-0002-9546-2763
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117451
+    display_name: Diakonhjemmet Hospital
+    ror: https://ror.org/02jvh3a15
+    country_code: 'NO'
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatric Research, Diakonhjemmet Hospital, Oslo, Norway
+- author_id: https://openalex.org/A5036323969
+  display_name: Marco P. Boks
+  orcid: https://orcid.org/0000-0001-6163-7484
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018483916
+    display_name: University Medical Center Utrecht
+    ror: https://ror.org/0575yy874
+    country_code: NL
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Psychiatry, Brain Center UMC Utrecht, Utrecht, the Netherlands
+- author_id: https://openalex.org/A5051110740
+  display_name: Rosa Bosch
+  orcid: https://orcid.org/0000-0002-7596-183X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090703
+    display_name: "Centro de Investigaci\xF3n Biom\xE9dica en Red de Salud Mental"
+    ror: https://ror.org/009byq155
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I2801357902
+    display_name: Instituto de Salud Carlos III
+    ror: https://ror.org/00ca2c886
+    country_code: ES
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Instituto de Salud Carlos III, Biomedical Network Research Centre on Mental Health
+    (CIBERSAM), Madrid, Spain
+- author_id: https://openalex.org/A5083596221
+  display_name: Murielle Brum
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210132578
+    display_name: University Hospital Frankfurt
+    ror: https://ror.org/03f6n9m15
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I114090438
+    display_name: Goethe University Frankfurt
+    ror: https://ror.org/04cvxnb49
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Psychosomatic Medicine and Psychotherapy, University
+    Hospital Frankfurt, Frankfurt am Main, Germany
+- author_id: https://openalex.org/A5081189884
+  display_name: Ben Brumpton
+  orcid: https://orcid.org/0000-0002-3058-1059
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204778367
+    display_name: Norwegian University of Science and Technology
+    ror: https://ror.org/05xg72x27
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - K. G. Jebsen Center for Genetic Epidemiology, Department of Public Health and
+    Nursing, Faculty of Medicine and Health Sciences, Norwegian University of Science
+    and Technology, Trondheim, Norway
+- author_id: https://openalex.org/A5037226860
+  display_name: Nathalie Brunkhorst-Kanaan
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210132578
+    display_name: University Hospital Frankfurt
+    ror: https://ror.org/03f6n9m15
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I114090438
+    display_name: Goethe University Frankfurt
+    ror: https://ror.org/04cvxnb49
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Psychosomatic Medicine and Psychotherapy, University
+    Hospital Frankfurt, Frankfurt am Main, Germany
+- author_id: https://openalex.org/A5059333472
+  display_name: Monika Budde
+  orcid: https://orcid.org/0000-0001-7301-9157
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Psychiatric Phenomics and Genomics (IPPG), University Hospital, LMU
+    Munich, Munich, Germany
+- author_id: https://openalex.org/A5052121197
+  display_name: "Jonas Bybjerg\u2010Grauholm"
+  orcid: https://orcid.org/0000-0003-1705-4008
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127817
+    display_name: Lundbeck Foundation
+    ror: https://ror.org/03hz8wd80
+    country_code: DK
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric Research,
+    Aarhus, Denmark
+- author_id: https://openalex.org/A5046038227
+  display_name: William Byerley
+  orcid: https://orcid.org/0000-0001-7549-8809
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180670191
+    display_name: University of California, San Francisco
+    ror: https://ror.org/043mz5j54
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Psychiatry, University of California San Francisco, San Francisco, CA, USA
+- author_id: https://openalex.org/A5019035459
+  display_name: Murray J. Cairns
+  orcid: https://orcid.org/0000-0003-2490-2538
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I78757542
+    display_name: University of Newcastle Australia
+    ror: https://ror.org/00eae9z71
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Newcastle, Newcastle, New South Wales, Australia
+- author_id: https://openalex.org/A5016635569
+  display_name: Miguel Casas
+  orcid: https://orcid.org/0000-0003-3496-8522
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090703
+    display_name: "Centro de Investigaci\xF3n Biom\xE9dica en Red de Salud Mental"
+    ror: https://ror.org/009byq155
+    country_code: ES
+    type: funder
+  - id: https://openalex.org/I2801357902
+    display_name: Instituto de Salud Carlos III
+    ror: https://ror.org/00ca2c886
+    country_code: ES
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Instituto de Salud Carlos III, Biomedical Network Research Centre on Mental Health
+    (CIBERSAM), Madrid, Spain
+- author_id: https://openalex.org/A5088477364
+  display_name: Pablo Cervantes
+  orcid: https://orcid.org/0000-0003-2970-1444
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801766832
+    display_name: McGill University Health Centre
+    ror: https://ror.org/04cpxjv19
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mood Disorders Program, Department of Psychiatry, McGill University Health Center,
+    Montreal, Quebec, Canada
+- author_id: https://openalex.org/A5054693005
+  display_name: "Toni\u2010Kim Clarke"
+  orcid: https://orcid.org/0000-0002-7745-6351
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Psychiatry, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5058528330
+  display_name: Cristiana Cruceanu
+  orcid: https://orcid.org/0000-0002-7799-5531
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801766832
+    display_name: McGill University Health Centre
+    ror: https://ror.org/04cpxjv19
+    country_code: CA
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Mood Disorders Program, Department of Psychiatry, McGill University Health Center,
+    Montreal, Quebec, Canada
+- author_id: https://openalex.org/A5055387256
+  display_name: "Alfredo B. Cu\xE9llar\u2010Barboza"
+  orcid: https://orcid.org/0000-0002-7663-913X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I169046204
+    display_name: "Universidad Aut\xF3noma de Nuevo Le\xF3n"
+    ror: https://ror.org/01fh86n78
+    country_code: MX
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Universidad Autonoma de Nuevo Leon, Monterrey, Mexico
+- author_id: https://openalex.org/A5004264491
+  display_name: Julie M. Cunningham
+  orcid: https://orcid.org/0000-0002-8159-3025
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125099
+    display_name: Mayo Clinic in Arizona
+    ror: https://ror.org/03jp40720
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA
+- author_id: https://openalex.org/A5063408005
+  display_name: David Curtis
+  orcid: https://orcid.org/0000-0002-4089-9183
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I166337079
+    display_name: Queen Mary University of London
+    ror: https://ror.org/026zzn846
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Psychiatry, Queen Mary University of London, London, UK
+- author_id: https://openalex.org/A5015522761
+  display_name: Piotr M. Czerski
+  orcid: https://orcid.org/0000-0003-0745-5916
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I120230055
+    display_name: Poznan University of Medical Sciences
+    ror: https://ror.org/02zbb2597
+    country_code: PL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Laboratory of Psychiatric Genetics, Poznan University
+    of Medical Sciences, Poznan, Poland
+- author_id: https://openalex.org/A5087626511
+  display_name: Anders M. Dale
+  orcid: https://orcid.org/0000-0002-6126-2966
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Multimodal Imaging and Genetics, Departments of Neurosciences, Radiology,
+    and Psychiatry, University of California, San Diego, CA, USA
+- author_id: https://openalex.org/A5029835725
+  display_name: Nina Dalkner
+  orcid: https://orcid.org/0000-0001-7716-3674
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I202276237
+    display_name: Medical University of Graz
+    ror: https://ror.org/02n0bts35
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Psychotherapeutic Medicine, Medical University of
+    Graz, Graz, Austria
+- author_id: https://openalex.org/A5074274568
+  display_name: Friederike S. David
+  orcid: https://orcid.org/0000-0001-9521-5669
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799391451
+    display_name: University Hospital Bonn
+    ror: https://ror.org/01xnwqx93
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I135140700
+    display_name: University of Bonn
+    ror: https://ror.org/041nas322
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Human Genetics, University of Bonn, School of Medicine and University
+    Hospital Bonn, Bonn, Germany
+- author_id: https://openalex.org/A5078644907
+  display_name: Franziska Degenhardt
+  orcid: https://orcid.org/0000-0002-1685-8904
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799391451
+    display_name: University Hospital Bonn
+    ror: https://ror.org/01xnwqx93
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I135140700
+    display_name: University of Bonn
+    ror: https://ror.org/041nas322
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Human Genetics, University of Bonn, School of Medicine and University
+    Hospital Bonn, Bonn, Germany
+- author_id: https://openalex.org/A5052826567
+  display_name: Srdjan Djurovic
+  orcid: https://orcid.org/0000-0002-8140-8061
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1281400175
+    display_name: Oslo University Hospital
+    ror: https://ror.org/00j9c2840
+    country_code: 'NO'
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Genetics, Oslo University Hospital, Oslo, Norway
+- author_id: https://openalex.org/A5041572980
+  display_name: Amanda Dobbyn
+  orcid: https://orcid.org/0000-0002-5445-242X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5032894644
+  display_name: Athanasios Douzenis
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200777214
+    display_name: National and Kapodistrian University of Athens
+    ror: https://ror.org/04gnjpq42
+    country_code: GR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 2nd Department of Psychiatry, Attikon General Hospital, National and Kapodistrian
+    University of Athens, Athens, Greece
+- author_id: https://openalex.org/A5036872905
+  display_name: "Torbj\xF8rn Elvs\xE5shagen"
+  orcid: https://orcid.org/0000-0001-9991-1610
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I184942183
+    display_name: University of Oslo
+    ror: https://ror.org/01xtthb56
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Medicine, University of Oslo, Oslo, Norway
+- author_id: https://openalex.org/A5027152344
+  display_name: "Valentina Escott\u2010Price"
+  orcid: https://orcid.org/0000-0003-1784-5483
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council Centre for Neuropsychiatric Genetics and Genomics, Division
+    of Psychological Medicine and Clinical Neurosciences, Cardiff University, Cardiff,
+    UK
+- author_id: https://openalex.org/A5047610109
+  display_name: I. Nicol Ferrier
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84884186
+    display_name: Newcastle University
+    ror: https://ror.org/01kj2bm70
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Academic Psychiatry, Newcastle University, Newcastle upon Tyne, UK
+- author_id: https://openalex.org/A5068507148
+  display_name: Alessia Fiorentino
+  orcid: https://orcid.org/0000-0002-1403-4581
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Psychiatry, University College London, London, UK
+- author_id: https://openalex.org/A5048034644
+  display_name: Tatiana Foroud
+  orcid: https://orcid.org/0000-0002-5549-2212
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I55769427
+    display_name: "Indiana University \u2013 Purdue University Indianapolis"
+    ror: https://ror.org/05gxnyn08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical and Molecular Genetics, Indiana University, Indianapolis,
+    IN, USA
+- author_id: https://openalex.org/A5050346802
+  display_name: Liz Forty
+  orcid: https://orcid.org/0000-0002-4349-8414
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council Centre for Neuropsychiatric Genetics and Genomics, Division
+    of Psychological Medicine and Clinical Neurosciences, Cardiff University, Cardiff,
+    UK
+- author_id: https://openalex.org/A5014086707
+  display_name: Josef Frank
+  orcid: https://orcid.org/0000-0003-4867-9465
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2802164966
+    display_name: University Hospital Heidelberg
+    ror: https://ror.org/013czdx64
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I4210105615
+    display_name: Central Institute of Mental Health
+    ror: https://ror.org/01hynnt93
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetic Epidemiology in Psychiatry, Central Institute of Mental
+    Health, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany
+- author_id: https://openalex.org/A5084649001
+  display_name: Oleksandr Frei
+  orcid: https://orcid.org/0000-0002-6427-2625
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I184942183
+    display_name: University of Oslo
+    ror: https://ror.org/01xtthb56
+    country_code: 'NO'
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Clinical Medicine, University of Oslo, Oslo, Norway
+- author_id: https://openalex.org/A5025278422
+  display_name: Nelson B. Freimer
+  orcid: https://orcid.org/0000-0003-3586-6587
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Biobehavioral Science, Semel Institute, David Geffen
+    School of Medicine, University of California, Los Angeles, Los Angeles, CA, USA
+- author_id: https://openalex.org/A5103009328
+  display_name: "Louise Fris\xE9n"
+  orcid: https://orcid.org/0000-0002-8254-6183
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden
+- author_id: https://openalex.org/A5087950226
+  display_name: Katrin Gade
+  orcid: https://orcid.org/0000-0001-8629-0579
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Psychiatric Phenomics and Genomics (IPPG), University Hospital, LMU
+    Munich, Munich, Germany
+- author_id: https://openalex.org/A5051214459
+  display_name: Julie Garnham
+  orcid: https://orcid.org/0000-0002-7987-4995
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I129902397
+    display_name: Dalhousie University
+    ror: https://ror.org/01e6qks80
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Dalhousie University, Halifax, Nova Scotia, Canada
+- author_id: https://openalex.org/A5044047568
+  display_name: Joel Gelernter
+  orcid: https://orcid.org/0000-0002-4067-1859
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I32971472
+    display_name: Yale University
+    ror: https://ror.org/03v76x132
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Yale School of Medicine, New Haven, CT, USA
+- author_id: https://openalex.org/A5107701615
+  display_name: "Marianne Gi\xF8rtz Pedersen"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127817
+    display_name: Lundbeck Foundation
+    ror: https://ror.org/03hz8wd80
+    country_code: DK
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric Research,
+    Aarhus, Denmark
+- author_id: https://openalex.org/A5089821650
+  display_name: Ian R. Gizer
+  orcid: https://orcid.org/0000-0002-4026-5674
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I76835614
+    display_name: University of Missouri
+    ror: https://ror.org/02ymw8z06
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychological Sciences, University of Missouri, Columbia, MO, USA
+- author_id: https://openalex.org/A5068434765
+  display_name: Scott D. Gordon
+  orcid: https://orcid.org/0000-0001-7623-328X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I217937681
+    display_name: QIMR Berghofer Medical Research Institute
+    ror: https://ror.org/004y8wk30
+    country_code: AU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genetics and Computational Biology, QIMR Berghofer Medical Research Institute,
+    Brisbane, Queensland, Australia
+- author_id: https://openalex.org/A5085702795
+  display_name: "Katherine Gordon\u2010Smith"
+  orcid: https://orcid.org/0000-0003-4083-1143
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I808010
+    display_name: University of Worcester
+    ror: https://ror.org/00v6s9648
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Psychological Medicine, University of Worcester, Worcester, UK
+- author_id: https://openalex.org/A5018081749
+  display_name: Tiffany A. Greenwood
+  orcid: https://orcid.org/0000-0002-6080-6503
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, University of California San Diego, La Jolla, CA, USA
+- author_id: https://openalex.org/A5049442241
+  display_name: Jakob Grove
+  orcid: https://orcid.org/0000-0003-2284-5744
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127817
+    display_name: Lundbeck Foundation
+    ror: https://ror.org/03hz8wd80
+    country_code: DK
+    type: other
+  is_corresponding: false
+  raw_affiliation_strings:
+  - iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric Research,
+    Aarhus, Denmark
+- author_id: https://openalex.org/A5075549694
+  display_name: "Jos\xE9 Guzm\xE1n\u2010Parra"
+  orcid: https://orcid.org/0000-0002-1463-6435
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210164724
+    display_name: "Instituto de Investigaci\xF3n Biom\xE9dica de M\xE1laga"
+    ror: https://ror.org/05n3asa33
+    country_code: ES
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Mental Health Department, University Regional Hospital, Biomedicine Institute\
+    \ (IBIMA), M\xE1laga, Spain"
+- author_id: https://openalex.org/A5032091947
+  display_name: Kyooseob Ha
+  orcid: https://orcid.org/0000-0001-5035-2950
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I139264467
+    display_name: Seoul National University
+    ror: https://ror.org/04h9pn542
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Seoul National University College of Medicine, Seoul,
+    South Korea
+- author_id: https://openalex.org/A5006315233
+  display_name: "Magn\xFAs Haraldsson"
+  orcid: https://orcid.org/0000-0003-3258-2247
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123185442
+    display_name: "Reykjav\xEDk University"
+    ror: https://ror.org/05d2kyx68
+    country_code: IS
+    type: funder
+  - id: https://openalex.org/I4210106610
+    display_name: National University Hospital of Iceland
+    ror: https://ror.org/011k7k191
+    country_code: IS
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Landspitali University Hospital, Reykjavik, Iceland
+- author_id: https://openalex.org/A5042738790
+  display_name: Martin Hautzinger
+  orcid: https://orcid.org/0000-0001-6082-2602
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Department of Psychology, Eberhard Karls Universit\xE4t T\xFCbingen, T\xFCbingen,\
+    \ Germany"
+- author_id: https://openalex.org/A5023657211
+  display_name: Urs Heilbronner
+  orcid: https://orcid.org/0000-0001-7135-762X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Psychiatric Phenomics and Genomics (IPPG), University Hospital, LMU
+    Munich, Munich, Germany
+- author_id: https://openalex.org/A5002497913
+  display_name: Dennis Hellgren
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I28166907
+    display_name: Karolinska Institutet
+    ror: https://ror.org/056d84691
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm,
+    Sweden
+- author_id: https://openalex.org/A5034534740
+  display_name: Stefan Herms
+  orcid: https://orcid.org/0000-0002-2786-8200
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799391451
+    display_name: University Hospital Bonn
+    ror: https://ror.org/01xnwqx93
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I135140700
+    display_name: University of Bonn
+    ror: https://ror.org/041nas322
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Human Genetics, University of Bonn, School of Medicine and University
+    Hospital Bonn, Bonn, Germany
+- author_id: https://openalex.org/A5026517521
+  display_name: Per Hoffmann
+  orcid: https://orcid.org/0000-0002-6573-983X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2799391451
+    display_name: University Hospital Bonn
+    ror: https://ror.org/01xnwqx93
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I135140700
+    display_name: University of Bonn
+    ror: https://ror.org/041nas322
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Human Genetics, University of Bonn, School of Medicine and University
+    Hospital Bonn, Bonn, Germany
+- author_id: https://openalex.org/A5028228908
+  display_name: Peter Holmans
+  orcid: https://orcid.org/0000-0003-0870-9412
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79510175
+    display_name: Cardiff University
+    ror: https://ror.org/03kk7td41
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Medical Research Council Centre for Neuropsychiatric Genetics and Genomics, Division
+    of Psychological Medicine and Clinical Neurosciences, Cardiff University, Cardiff,
+    UK
+- author_id: https://openalex.org/A5006025541
+  display_name: Laura M. Huckins
+  orcid: https://orcid.org/0000-0002-5369-6502
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5006266874
+  display_name: "St\xE9phane Jamain"
+  orcid: https://orcid.org/0000-0002-4321-4100
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I154526488
+    display_name: Inserm
+    ror: https://ror.org/02vjkv261
+    country_code: FR
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Neuropsychiatrie Translationnelle, Inserm U955, Cr\xE9teil, France"
+- author_id: https://openalex.org/A5089323585
+  display_name: Jessica Johnson
+  orcid: https://orcid.org/0000-0002-4519-3120
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5005034134
+  display_name: "J\xE1nos K\xE1lm\xE1n"
+  orcid: https://orcid.org/0000-0003-0930-4214
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Psychiatric Phenomics and Genomics (IPPG), University Hospital, LMU
+    Munich, Munich, Germany
+referenced_works:
+- https://openalex.org/W1608887304
+- https://openalex.org/W1794396397
+- https://openalex.org/W1964391750
+- https://openalex.org/W1978117177
+- https://openalex.org/W1984344128
+- https://openalex.org/W1990139627
+- https://openalex.org/W1993588417
+- https://openalex.org/W2033276865
+- https://openalex.org/W2045384854
+- https://openalex.org/W2051314902
+- https://openalex.org/W2053850273
+- https://openalex.org/W2058335733
+- https://openalex.org/W2082704080
+- https://openalex.org/W2084928560
+- https://openalex.org/W2089207825
+- https://openalex.org/W2095094363
+- https://openalex.org/W2099085143
+- https://openalex.org/W2102619694
+- https://openalex.org/W2104549677
+- https://openalex.org/W2115086145
+- https://openalex.org/W2121626412
+- https://openalex.org/W2122796918
+- https://openalex.org/W2127442418
+- https://openalex.org/W2128255580
+- https://openalex.org/W2129031013
+- https://openalex.org/W2131272231
+- https://openalex.org/W2133520037
+- https://openalex.org/W2134585221
+- https://openalex.org/W2134783591
+- https://openalex.org/W2135255861
+- https://openalex.org/W2136702573
+- https://openalex.org/W2137104082
+- https://openalex.org/W2138345444
+- https://openalex.org/W2145141773
+- https://openalex.org/W2153860431
+- https://openalex.org/W2157752701
+- https://openalex.org/W2163414567
+- https://openalex.org/W2165315953
+- https://openalex.org/W2169728426
+- https://openalex.org/W2172850256
+- https://openalex.org/W2183431278
+- https://openalex.org/W2202954603
+- https://openalex.org/W2230276206
+- https://openalex.org/W2255138985
+- https://openalex.org/W2264585211
+- https://openalex.org/W2328393125
+- https://openalex.org/W2340656051
+- https://openalex.org/W2345621280
+- https://openalex.org/W2346626662
+- https://openalex.org/W2412736822
+- https://openalex.org/W2465667391
+- https://openalex.org/W2466115258
+- https://openalex.org/W2471590266
+- https://openalex.org/W2510973425
+- https://openalex.org/W2511515754
+- https://openalex.org/W2529241974
+- https://openalex.org/W2569020128
+- https://openalex.org/W2580618078
+- https://openalex.org/W2587440168
+- https://openalex.org/W2622753418
+- https://openalex.org/W2745116209
+- https://openalex.org/W2747841296
+- https://openalex.org/W2751884637
+- https://openalex.org/W2759241620
+- https://openalex.org/W2761275051
+- https://openalex.org/W2767891136
+- https://openalex.org/W2770092353
+- https://openalex.org/W2770598799
+- https://openalex.org/W2772614235
+- https://openalex.org/W2777388159
+- https://openalex.org/W2788609121
+- https://openalex.org/W2797142059
+- https://openalex.org/W2802815532
+- https://openalex.org/W2803072880
+- https://openalex.org/W2803332630
+- https://openalex.org/W2805983714
+- https://openalex.org/W2885927965
+- https://openalex.org/W2886347923
+- https://openalex.org/W2888193947
+- https://openalex.org/W2896352133
+- https://openalex.org/W2902318621
+- https://openalex.org/W2904884010
+- https://openalex.org/W2907032018
+- https://openalex.org/W2911487850
+- https://openalex.org/W2914482125
+- https://openalex.org/W2917071648
+- https://openalex.org/W2920792207
+- https://openalex.org/W2932671560
+- https://openalex.org/W2947677934
+- https://openalex.org/W2949479576
+- https://openalex.org/W2949543964
+- https://openalex.org/W2949693884
+- https://openalex.org/W2950375827
+- https://openalex.org/W2950462412
+- https://openalex.org/W2950598813
+- https://openalex.org/W2950709928
+- https://openalex.org/W2951276412
+- https://openalex.org/W2952602120
+- https://openalex.org/W2952673268
+- https://openalex.org/W2952895715
+- https://openalex.org/W2954967623
+- https://openalex.org/W2960372990
+- https://openalex.org/W2962290361
+- https://openalex.org/W2963160524
+- https://openalex.org/W2963642537
+- https://openalex.org/W2967846176
+- https://openalex.org/W2974103075
+- https://openalex.org/W2974729007
+- https://openalex.org/W2977561843
+- https://openalex.org/W2979994192
+- https://openalex.org/W2984805909
+- https://openalex.org/W2990581841
+- https://openalex.org/W2995971356
+- https://openalex.org/W2999532514
+- https://openalex.org/W3019747475
+- https://openalex.org/W3021345946
+- https://openalex.org/W3026319555
+- https://openalex.org/W3026533741
+- https://openalex.org/W3028329270
+- https://openalex.org/W3035254462
+- https://openalex.org/W3037753085
+- https://openalex.org/W3042079074
+- https://openalex.org/W4247665917
+primary_topic: Genetic Associations and Epidemiology
+open_access: true

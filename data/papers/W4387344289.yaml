@@ -1,0 +1,857 @@
+id: https://openalex.org/W4387344289
+doi: https://doi.org/10.1038/s41586-023-06592-6
+title: Plasma proteomic associations with genetics and health in the UK Biobank
+publication_date: '2023-10-04'
+publication_year: 2023
+cited_by_count: 833
+citation_percentile: 0.999944
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5001174275
+  display_name: Benjamin B. Sun
+  orcid: https://orcid.org/0000-0001-6347-2281
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Translational Sciences, Research & Development, Biogen, Cambridge, USA
+- author_id: https://openalex.org/A5014151413
+  display_name: Joshua Chiou
+  orcid: https://orcid.org/0000-0002-4618-0647
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Internal Medicine Research Unit, Worldwide Research, Development and Medical,
+    Pfizer, Cambridge, USA
+- author_id: https://openalex.org/A5011294322
+  display_name: Matthew Traylor
+  orcid: https://orcid.org/0000-0001-6624-8621
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126084
+    display_name: Novo Nordisk (United Kingdom)
+    ror: https://ror.org/0415cr103
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genetics Centre of Excellence, Novo Nordisk Research Centre Oxford, Oxford,
+    UK
+- author_id: https://openalex.org/A5050935347
+  display_name: Christian Benner
+  orcid: https://orcid.org/0000-0003-1237-0167
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genentech, San Francisco, USA
+- author_id: https://openalex.org/A5050436237
+  display_name: "Yi\u2010Hsiang Hsu"
+  orcid: https://orcid.org/0000-0003-3350-5390
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1320553840
+    display_name: Amgen (United States)
+    ror: https://ror.org/03g03ge92
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Amgen Research, Cambridge, USA
+- author_id: https://openalex.org/A5015814169
+  display_name: Tom G. Richardson
+  orcid: https://orcid.org/0000-0002-7918-2040
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800110054
+    display_name: Age UK
+    ror: https://ror.org/050x9d346
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I188950975
+    display_name: GlaxoSmithKline (United Kingdom)
+    ror: https://ror.org/01xsqw823
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210126084
+    display_name: Novo Nordisk (United Kingdom)
+    ror: https://ror.org/0415cr103
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomic Sciences, GlaxoSmithKline, Stevenage, UK
+  - Human Genetics Centre of Excellence, Novo Nordisk Research Centre Oxford, Oxford,
+    UK
+- author_id: https://openalex.org/A5101417034
+  display_name: Praveen Surendran
+  orcid: https://orcid.org/0000-0002-4911-6077
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800110054
+    display_name: Age UK
+    ror: https://ror.org/050x9d346
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I188950975
+    display_name: GlaxoSmithKline (United Kingdom)
+    ror: https://ror.org/01xsqw823
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomic Sciences, GlaxoSmithKline, Stevenage, UK
+- author_id: https://openalex.org/A5030469052
+  display_name: Anubha Mahajan
+  orcid: https://orcid.org/0000-0001-5585-3420
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genentech, San Francisco, USA
+- author_id: https://openalex.org/A5014879059
+  display_name: Chloe Robins
+  orcid: https://orcid.org/0000-0001-9869-8037
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114143
+    display_name: GlaxoSmithKline (United States)
+    ror: https://ror.org/025vn3989
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomic Sciences, GlaxoSmithKline, Collegeville, USA
+- author_id: https://openalex.org/A5031376862
+  display_name: Steven G. Grinnell
+  orcid: https://orcid.org/0000-0002-8906-9762
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091812
+    display_name: Bristol-Myers Squibb (United States)
+    ror: https://ror.org/00gtmwv55
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bristol Myers Squibb, Princeton, USA
+- author_id: https://openalex.org/A5034083293
+  display_name: Liping Hou
+  orcid: https://orcid.org/0000-0003-3972-245X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151386
+    display_name: Janssen (United States)
+    ror: https://ror.org/05af73403
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Analytics, Janssen Research & Development, Spring House, USA
+- author_id: https://openalex.org/A5078595113
+  display_name: Erika Kvikstad
+  orcid: https://orcid.org/0000-0002-2730-4472
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091812
+    display_name: Bristol-Myers Squibb (United States)
+    ror: https://ror.org/00gtmwv55
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bristol Myers Squibb, Princeton, USA
+- author_id: https://openalex.org/A5039154528
+  display_name: Oliver S. Burren
+  orcid: https://orcid.org/0000-0002-3388-5760
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I105036370
+    display_name: AstraZeneca (United Kingdom)
+    ror: https://ror.org/04r9x1a08
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Genomics Research, Discovery Sciences, BioPharmaceuticals R&D, AstraZeneca,
+    Cambridge, UK
+- author_id: https://openalex.org/A5078119446
+  display_name: Jonathan Davitte
+  orcid: https://orcid.org/0000-0001-5392-4205
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210114143
+    display_name: GlaxoSmithKline (United States)
+    ror: https://ror.org/025vn3989
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomic Sciences, GlaxoSmithKline, Collegeville, USA
+- author_id: https://openalex.org/A5037312056
+  display_name: Kyle Ferber
+  orcid: https://orcid.org/0000-0002-4730-6993
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biostatistics, Research and Development, Biogen, Cambridge, USA
+- author_id: https://openalex.org/A5086684396
+  display_name: Christopher E. Gillies
+  orcid: https://orcid.org/0000-0002-5290-3880
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, USA
+- author_id: https://openalex.org/A5090139506
+  display_name: "\xC5sa K. Hedman"
+  orcid: https://orcid.org/0000-0001-5413-204X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092030
+    display_name: Pfizer (Sweden)
+    ror: https://ror.org/00kkwkq76
+    country_code: SE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - External Science and Innovation Target Sciences, Worldwide Research, Development
+    and Medical, Pfizer, Stockholm, Sweden
+- author_id: https://openalex.org/A5043728347
+  display_name: Sile Hu
+  orcid: https://orcid.org/0000-0002-8437-7387
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126084
+    display_name: Novo Nordisk (United Kingdom)
+    ror: https://ror.org/0415cr103
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genetics Centre of Excellence, Novo Nordisk Research Centre Oxford, Oxford,
+    UK
+- author_id: https://openalex.org/A5069910544
+  display_name: Tin-Chi Lin
+  orcid: https://orcid.org/0000-0001-5098-6902
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Analytics and Data Sciences, Biogen, Cambridge, USA
+- author_id: https://openalex.org/A5039123655
+  display_name: Rajesh Mikkilineni
+  orcid: https://orcid.org/0000-0002-4387-8724
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140176
+    display_name: Takeda (United States)
+    ror: https://ror.org/03bygaq51
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Data Science Institute, Takeda Development Center Americas, Cambridge, USA
+- author_id: https://openalex.org/A5111025110
+  display_name: Rion Pendergrass
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genentech, San Francisco, USA
+- author_id: https://openalex.org/A5061389513
+  display_name: Corran Pickering
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117583
+    display_name: UK Biobank
+    ror: https://ror.org/02frzq211
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UK Biobank, Stockport, UK
+- author_id: https://openalex.org/A5011533631
+  display_name: Bram P. Prins
+  orcid: https://orcid.org/0000-0001-5774-034X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I105036370
+    display_name: AstraZeneca (United Kingdom)
+    ror: https://ror.org/04r9x1a08
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Genomics Research, Discovery Sciences, BioPharmaceuticals R&D, AstraZeneca,
+    Cambridge, UK
+- author_id: https://openalex.org/A5068924232
+  display_name: Denis Baird
+  orcid: https://orcid.org/0000-0003-4600-6013
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Translational Sciences, Research & Development, Biogen, Cambridge, USA
+- author_id: https://openalex.org/A5035223725
+  display_name: "Chia\u2010Yen Chen"
+  orcid: https://orcid.org/0000-0001-9548-5597
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Translational Sciences, Research & Development, Biogen, Cambridge, USA
+- author_id: https://openalex.org/A5103086218
+  display_name: Lucas D. Ward
+  orcid: https://orcid.org/0000-0002-8017-809X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311141
+    display_name: Alnylam Pharmaceuticals (United States)
+    ror: https://ror.org/00thr3w71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Alnylam Human Genetics, Discovery & Translational Research, Alnylam Pharmaceuticals,
+    Cambridge, USA
+- author_id: https://openalex.org/A5043252915
+  display_name: "Aim\xE9e M. Deaton"
+  orcid: https://orcid.org/0000-0003-0365-3077
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311141
+    display_name: Alnylam Pharmaceuticals (United States)
+    ror: https://ror.org/00thr3w71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Alnylam Human Genetics, Discovery & Translational Research, Alnylam Pharmaceuticals,
+    Cambridge, USA
+- author_id: https://openalex.org/A5030527217
+  display_name: Samantha Welsh
+  orcid: https://orcid.org/0000-0003-1444-8765
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117583
+    display_name: UK Biobank
+    ror: https://ror.org/02frzq211
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UK Biobank, Stockport, UK
+- author_id: https://openalex.org/A5086669468
+  display_name: Carissa M. Willis
+  orcid: https://orcid.org/0000-0002-8253-1459
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311141
+    display_name: Alnylam Pharmaceuticals (United States)
+    ror: https://ror.org/00thr3w71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Alnylam Human Genetics, Discovery & Translational Research, Alnylam Pharmaceuticals,
+    Cambridge, USA
+- author_id: https://openalex.org/A5076243429
+  display_name: Nick Lehner
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018134672
+    display_name: "Helmholtz Zentrum M\xFCnchen"
+    ror: https://ror.org/00cfam450
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Computational Biology, Helmholtz Zentrum M\xFCnchen, German Research\
+    \ Center for Environmental Health, Neuherberg, Germany"
+- author_id: https://openalex.org/A5075410200
+  display_name: Matthias Arnold
+  orcid: https://orcid.org/0000-0002-4666-0923
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018134672
+    display_name: "Helmholtz Zentrum M\xFCnchen"
+    ror: https://ror.org/00cfam450
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I170897317
+    display_name: Duke University
+    ror: https://ror.org/00py81415
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Psychiatry and Behavioral Sciences, Duke University, Durham, USA
+  - "Institute of Computational Biology, Helmholtz Zentrum M\xFCnchen, German Research\
+    \ Center for Environmental Health, Neuherberg, Germany"
+- author_id: https://openalex.org/A5007561786
+  display_name: "Maria A. W\xF6rheide"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018134672
+    display_name: "Helmholtz Zentrum M\xFCnchen"
+    ror: https://ror.org/00cfam450
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Computational Biology, Helmholtz Zentrum M\xFCnchen, German Research\
+    \ Center for Environmental Health, Neuherberg, Germany"
+- author_id: https://openalex.org/A5034424670
+  display_name: Karsten Suhre
+  orcid: https://orcid.org/0000-0001-9638-3912
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210152471
+    display_name: Weill Cornell Medical College in Qatar
+    ror: https://ror.org/05v5hg569
+    country_code: QA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bioinformatics Core, Weill Cornell Medicine-Qatar, Doha, Qatar
+- author_id: https://openalex.org/A5072509338
+  display_name: "Gabi Kastenm\xFCller"
+  orcid: https://orcid.org/0000-0002-2368-7322
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3018134672
+    display_name: "Helmholtz Zentrum M\xFCnchen"
+    ror: https://ror.org/00cfam450
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institute of Computational Biology, Helmholtz Zentrum M\xFCnchen, German Research\
+    \ Center for Environmental Health, Neuherberg, Germany"
+- author_id: https://openalex.org/A5085693193
+  display_name: Anurag Sethi
+  orcid: https://orcid.org/0000-0003-3295-3116
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102664
+    display_name: Enzo Life Sciences (United States)
+    ror: https://ror.org/01d7h6313
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Calico Life Sciences, San Francisco, USA
+- author_id: https://openalex.org/A5060028365
+  display_name: Madeleine Cule
+  orcid: https://orcid.org/0000-0002-7400-5643
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102664
+    display_name: Enzo Life Sciences (United States)
+    ror: https://ror.org/01d7h6313
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Calico Life Sciences, San Francisco, USA
+- author_id: https://openalex.org/A5019275858
+  display_name: Anil Raj
+  orcid: https://orcid.org/0000-0003-4412-0883
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102664
+    display_name: Enzo Life Sciences (United States)
+    ror: https://ror.org/01d7h6313
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Calico Life Sciences, San Francisco, USA
+- author_id: https://openalex.org/A5104178467
+  display_name: Hyun Ming Kang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, USA
+- author_id: https://openalex.org/A5047257350
+  display_name: Lucy Burkitt-Gray
+  orcid: https://orcid.org/0000-0001-5170-0638
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210117583
+    display_name: UK Biobank
+    ror: https://ror.org/02frzq211
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - UK Biobank, Stockport, UK
+- author_id: https://openalex.org/A5026185361
+  display_name: Eugene Melamud
+  orcid: https://orcid.org/0000-0002-5943-6189
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210102664
+    display_name: Enzo Life Sciences (United States)
+    ror: https://ror.org/01d7h6313
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Calico Life Sciences, San Francisco, USA
+- author_id: https://openalex.org/A5065470168
+  display_name: Mary Helen Black
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151386
+    display_name: Janssen (United States)
+    ror: https://ror.org/05af73403
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Population Analytics, Janssen Research & Development, Spring House, USA
+- author_id: https://openalex.org/A5090475181
+  display_name: Eric B. Fauman
+  orcid: https://orcid.org/0000-0002-9739-0249
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Internal Medicine Research Unit, Worldwide Research, Development and Medical,
+    Pfizer, Cambridge, USA
+- author_id: https://openalex.org/A5108167562
+  display_name: Joanna M. M. Howson
+  orcid: https://orcid.org/0000-0001-7618-0050
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210126084
+    display_name: Novo Nordisk (United Kingdom)
+    ror: https://ror.org/0415cr103
+    country_code: GB
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Genetics Centre of Excellence, Novo Nordisk Research Centre Oxford, Oxford,
+    UK
+- author_id: https://openalex.org/A5009996821
+  display_name: Hyun Min Kang
+  orcid: https://orcid.org/0000-0002-3631-3979
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, USA
+- author_id: https://openalex.org/A5064948585
+  display_name: Mark I. McCarthy
+  orcid: https://orcid.org/0000-0002-4393-0510
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genentech, San Francisco, USA
+- author_id: https://openalex.org/A5004125788
+  display_name: Paul Nioi
+  orcid: https://orcid.org/0000-0002-4804-8148
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I145311141
+    display_name: Alnylam Pharmaceuticals (United States)
+    ror: https://ror.org/00thr3w71
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Alnylam Human Genetics, Discovery & Translational Research, Alnylam Pharmaceuticals,
+    Cambridge, USA
+- author_id: https://openalex.org/A5103190944
+  display_name: "Slav\xE9 Petrovski"
+  orcid: https://orcid.org/0000-0002-1527-961X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210163497
+    display_name: Austin Health
+    ror: https://ror.org/05dbj6g52
+    country_code: AU
+    type: healthcare
+  - id: https://openalex.org/I165779595
+    display_name: The University of Melbourne
+    ror: https://ror.org/01ej9dk98
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I105036370
+    display_name: AstraZeneca (United Kingdom)
+    ror: https://ror.org/04r9x1a08
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Genomics Research, Discovery Sciences, BioPharmaceuticals R&D, AstraZeneca,
+    Cambridge, UK
+  - Department of Medicine, University of Melbourne, Austin Health, Melbourne, Australia
+- author_id: https://openalex.org/A5007870782
+  display_name: Robert A. Scott
+  orcid: https://orcid.org/0000-0003-3634-3016
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2800110054
+    display_name: Age UK
+    ror: https://ror.org/050x9d346
+    country_code: GB
+    type: nonprofit
+  - id: https://openalex.org/I188950975
+    display_name: GlaxoSmithKline (United Kingdom)
+    ror: https://ror.org/01xsqw823
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genomic Sciences, GlaxoSmithKline, Stevenage, UK
+- author_id: https://openalex.org/A5034360743
+  display_name: Erin N. Smith
+  orcid: https://orcid.org/0000-0001-9632-4760
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140176
+    display_name: Takeda (United States)
+    ror: https://ror.org/03bygaq51
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Takeda Development Center Americas, San Diego, USA
+- author_id: https://openalex.org/A5010906952
+  display_name: "S\xE1ndor Szalma"
+  orcid: https://orcid.org/0000-0001-7591-3902
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140176
+    display_name: Takeda (United States)
+    ror: https://ror.org/03bygaq51
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Takeda Development Center Americas, San Diego, USA
+- author_id: https://openalex.org/A5005555807
+  display_name: Dawn Waterworth
+  orcid: https://orcid.org/0000-0002-9226-1317
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151386
+    display_name: Janssen (United States)
+    ror: https://ror.org/05af73403
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Immunology, Janssen Research & Development, Spring House, USA
+- author_id: https://openalex.org/A5112237253
+  display_name: Lyndon J. Mitnaul
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I186523950
+    display_name: Regeneron (United States)
+    ror: https://ror.org/02f51rf24
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Regeneron Genetics Center, Tarrytown, USA
+- author_id: https://openalex.org/A5002355055
+  display_name: Joseph D. Szustakowski
+  orcid: https://orcid.org/0000-0001-7900-3973
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091812
+    display_name: Bristol-Myers Squibb (United States)
+    ror: https://ror.org/00gtmwv55
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Bristol Myers Squibb, Princeton, USA
+- author_id: https://openalex.org/A5056510065
+  display_name: Bradford W. Gibson
+  orcid: https://orcid.org/0000-0003-3745-1940
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1320553840
+    display_name: Amgen (United States)
+    ror: https://ror.org/03g03ge92
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Amgen Research, Cambridge, USA
+- author_id: https://openalex.org/A5054974974
+  display_name: Melissa Miller
+  orcid: https://orcid.org/0000-0002-8570-3981
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I180857899
+    display_name: Pfizer (United States)
+    ror: https://ror.org/01xdqrp08
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Internal Medicine Research Unit, Worldwide Research, Development and Medical,
+    Pfizer, Cambridge, USA
+- author_id: https://openalex.org/A5067714323
+  display_name: Christopher D. Whelan
+  orcid: https://orcid.org/0000-0003-0308-5583
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1297540436
+    display_name: Biogen (United States)
+    ror: https://ror.org/02jqkb192
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210151386
+    display_name: Janssen (United States)
+    ror: https://ror.org/05af73403
+    country_code: US
+    type: company
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Neuroscience Data Science, Janssen Research & Development, Cambridge, USA
+  - Translational Sciences, Research & Development, Biogen, Cambridge, USA
+referenced_works:
+- https://openalex.org/W1997725810
+- https://openalex.org/W2005120005
+- https://openalex.org/W2012034410
+- https://openalex.org/W2039908541
+- https://openalex.org/W2042930277
+- https://openalex.org/W2043894488
+- https://openalex.org/W2078641664
+- https://openalex.org/W2080990039
+- https://openalex.org/W2083257854
+- https://openalex.org/W2084345289
+- https://openalex.org/W2085921825
+- https://openalex.org/W2089856053
+- https://openalex.org/W2097360283
+- https://openalex.org/W2099085143
+- https://openalex.org/W2118625269
+- https://openalex.org/W2118822739
+- https://openalex.org/W2130171029
+- https://openalex.org/W2131062132
+- https://openalex.org/W2132522861
+- https://openalex.org/W2138253007
+- https://openalex.org/W2141651438
+- https://openalex.org/W2153860431
+- https://openalex.org/W2171747026
+- https://openalex.org/W2172116519
+- https://openalex.org/W2534390616
+- https://openalex.org/W2550031966
+- https://openalex.org/W2609734256
+- https://openalex.org/W2723723801
+- https://openalex.org/W2741610891
+- https://openalex.org/W2805712258
+- https://openalex.org/W2805983714
+- https://openalex.org/W2885870007
+- https://openalex.org/W2895486342
+- https://openalex.org/W2897279578
+- https://openalex.org/W2922534626
+- https://openalex.org/W2939756343
+- https://openalex.org/W2950070451
+- https://openalex.org/W2950885009
+- https://openalex.org/W2951276412
+- https://openalex.org/W2956766484
+- https://openalex.org/W2995245946
+- https://openalex.org/W3000971549
+- https://openalex.org/W3022509738
+- https://openalex.org/W3029661147
+- https://openalex.org/W3032464132
+- https://openalex.org/W3037039951
+- https://openalex.org/W3042068575
+- https://openalex.org/W3048245060
+- https://openalex.org/W3081528139
+- https://openalex.org/W3082024297
+- https://openalex.org/W3082575318
+- https://openalex.org/W3093451235
+- https://openalex.org/W3121184362
+- https://openalex.org/W3126704164
+- https://openalex.org/W3133859624
+- https://openalex.org/W3157851866
+- https://openalex.org/W3162800482
+- https://openalex.org/W3164425317
+- https://openalex.org/W3177160312
+- https://openalex.org/W3184279863
+- https://openalex.org/W3193093890
+- https://openalex.org/W3193503263
+- https://openalex.org/W3201934315
+- https://openalex.org/W3209856620
+- https://openalex.org/W3212460220
+- https://openalex.org/W3215894083
+- https://openalex.org/W4225284570
+- https://openalex.org/W4225764473
+- https://openalex.org/W4229335379
+- https://openalex.org/W4281252748
+- https://openalex.org/W4293102181
+- https://openalex.org/W4294541781
+- https://openalex.org/W4321618012
+- https://openalex.org/W4382055849
+primary_topic: Genetic Associations and Epidemiology
+open_access: true

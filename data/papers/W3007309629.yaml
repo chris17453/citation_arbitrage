@@ -1,0 +1,459 @@
+id: https://openalex.org/W3007309629
+doi: https://doi.org/10.1016/j.cell.2020.01.021
+title: A Deep Learning Approach to Antibiotic Discovery
+publication_date: '2020-02-01'
+publication_year: 2020
+cited_by_count: 1757
+citation_percentile: 0.999891
+pagerank: 2.6798885802887794e-06
+authorships:
+- author_id: https://openalex.org/A5055445056
+  display_name: Jonathan Stokes
+  orcid: https://orcid.org/0000-0002-3266-1474
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+  - Department of Biological Engineering, Synthetic Biology Center, Institute for
+    Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge,
+    MA 02139, USA
+  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, Massachusetts
+    Institute of Technology, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5101814676
+  display_name: Kevin Yang
+  orcid: https://orcid.org/0000-0001-7221-6642
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute
+    of Technology, Cambridge, MA 02139, USA
+  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, Massachusetts
+    Institute of Technology, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5005590626
+  display_name: Kyle Swanson
+  orcid: https://orcid.org/0000-0002-7385-7844
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute
+    of Technology, Cambridge, MA 02139, USA
+  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, Massachusetts
+    Institute of Technology, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5030957753
+  display_name: Wengong Jin
+  orcid: https://orcid.org/0000-0002-0555-3056
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute
+    of Technology, Cambridge, MA 02139, USA
+  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, Massachusetts
+    Institute of Technology, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5113976753
+  display_name: "Andr\xE9s Cubillos-Ruiz"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+  - Department of Biological Engineering, Synthetic Biology Center, Institute for
+    Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge,
+    MA 02139, USA
+  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston,
+    MA 02115, USA
+- author_id: https://openalex.org/A5009130801
+  display_name: Nina M. Donghia
+  orcid: https://orcid.org/0000-0003-0826-904X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biological Engineering, Synthetic Biology Center, Institute for
+    Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge,
+    MA 02139, USA
+  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston,
+    MA 02115, USA
+- author_id: https://openalex.org/A5087255559
+  display_name: Craig R. MacNair
+  orcid: https://orcid.org/0000-0002-3558-438X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote Institute
+    for Infectious Disease Research, McMaster University, Hamilton, ON L8N 3Z5, Canada
+- author_id: https://openalex.org/A5090927714
+  display_name: Shawn French
+  orcid: https://orcid.org/0000-0002-3565-8385
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote Institute
+    for Infectious Disease Research, McMaster University, Hamilton, ON L8N 3Z5, Canada
+- author_id: https://openalex.org/A5022140958
+  display_name: Lindsey A. Carfrae
+  orcid: https://orcid.org/0000-0002-0561-9246
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote Institute
+    for Infectious Disease Research, McMaster University, Hamilton, ON L8N 3Z5, Canada
+- author_id: https://openalex.org/A5074360164
+  display_name: "Zohar Bloom\u2010Ackermann"
+  orcid: https://orcid.org/0000-0001-9149-4218
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+  - Department of Genetics, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5004766150
+  display_name: Victoria M. Tran
+  orcid: https://orcid.org/0000-0002-7718-5889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+- author_id: https://openalex.org/A5087404528
+  display_name: Anush Chiappino-Pepe
+  orcid: https://orcid.org/0000-0002-3993-907X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, Harvard Medical School, Boston, MA 02115, USA
+  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston,
+    MA 02115, USA
+- author_id: https://openalex.org/A5060537679
+  display_name: Ahmed H. Badran
+  orcid: https://orcid.org/0000-0002-8105-1883
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+- author_id: https://openalex.org/A5071176886
+  display_name: Ian W. Andrews
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+  - Department of Biological Engineering, Synthetic Biology Center, Institute for
+    Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge,
+    MA 02139, USA
+  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston,
+    MA 02115, USA
+- author_id: https://openalex.org/A5058947300
+  display_name: Emma J. Chory
+  orcid: https://orcid.org/0000-0001-8541-9289
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+  - Department of Biological Engineering, Synthetic Biology Center, Institute for
+    Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge,
+    MA 02139, USA
+- author_id: https://openalex.org/A5103076360
+  display_name: George M. Church
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210092658
+    display_name: "Harvard\u2013MIT Division of Health Sciences and Technology"
+    ror: https://ror.org/00jjeh629
+    country_code: US
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Genetics, Harvard Medical School, Boston, MA 02115, USA
+  - Harvard-MIT Program in Health Sciences and Technology, Cambridge, MA 02139, USA
+  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston,
+    MA 02115, USA
+- author_id: https://openalex.org/A5076663151
+  display_name: Eric D. Brown
+  orcid: https://orcid.org/0000-0002-7624-8112
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98251732
+    display_name: McMaster University
+    ror: https://ror.org/02fa3aq29
+    country_code: CA
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote Institute
+    for Infectious Disease Research, McMaster University, Hamilton, ON L8N 3Z5, Canada
+- author_id: https://openalex.org/A5048915657
+  display_name: Tommi Jaakkola
+  orcid: https://orcid.org/0000-0002-2199-0379
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute
+    of Technology, Cambridge, MA 02139, USA
+  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, Massachusetts
+    Institute of Technology, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5010124873
+  display_name: Regina Barzilay
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Abdul Latif Jameel Clinic for Machine Learning in Health, Massachusetts Institute
+    of Technology, Cambridge, MA 02139, USA
+  - Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute
+    of Technology, Cambridge, MA 02139, USA
+  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, Massachusetts
+    Institute of Technology, Cambridge, MA 02139, USA
+- author_id: https://openalex.org/A5065209470
+  display_name: James J. Collins
+  orcid: https://orcid.org/0000-0002-5560-8246
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210092658
+    display_name: "Harvard\u2013MIT Division of Health Sciences and Technology"
+    ror: https://ror.org/00jjeh629
+    country_code: US
+    type: education
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Abdul Latif Jameel Clinic for Machine Learning in Health, Massachusetts Institute
+    of Technology, Cambridge, MA 02139, USA
+  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+  - Department of Biological Engineering, Synthetic Biology Center, Institute for
+    Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge,
+    MA 02139, USA
+  - Harvard-MIT Program in Health Sciences and Technology, Cambridge, MA 02139, USA
+  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston,
+    MA 02115, USA
+referenced_works:
+- https://openalex.org/W1501783828
+- https://openalex.org/W1518907982
+- https://openalex.org/W1757990252
+- https://openalex.org/W1844796014
+- https://openalex.org/W1901312711
+- https://openalex.org/W1915829691
+- https://openalex.org/W1943393128
+- https://openalex.org/W1972194342
+- https://openalex.org/W1986457803
+- https://openalex.org/W1988037271
+- https://openalex.org/W1989761771
+- https://openalex.org/W1996779216
+- https://openalex.org/W2001878369
+- https://openalex.org/W2004373761
+- https://openalex.org/W2019593727
+- https://openalex.org/W2022864303
+- https://openalex.org/W2042039195
+- https://openalex.org/W2043981786
+- https://openalex.org/W2054585308
+- https://openalex.org/W2056780622
+- https://openalex.org/W2060360855
+- https://openalex.org/W2100195325
+- https://openalex.org/W2103441770
+- https://openalex.org/W2107471391
+- https://openalex.org/W2110991941
+- https://openalex.org/W2113024448
+- https://openalex.org/W2114104545
+- https://openalex.org/W2116137883
+- https://openalex.org/W2127999800
+- https://openalex.org/W2128912763
+- https://openalex.org/W2134179844
+- https://openalex.org/W2139497313
+- https://openalex.org/W2146133581
+- https://openalex.org/W2151370125
+- https://openalex.org/W2152532695
+- https://openalex.org/W2158871837
+- https://openalex.org/W2161590746
+- https://openalex.org/W2168465568
+- https://openalex.org/W2170806980
+- https://openalex.org/W2179438025
+- https://openalex.org/W2213143833
+- https://openalex.org/W2241011319
+- https://openalex.org/W2287479920
+- https://openalex.org/W2300011769
+- https://openalex.org/W2461620095
+- https://openalex.org/W2510243212
+- https://openalex.org/W2559856997
+- https://openalex.org/W2565125422
+- https://openalex.org/W2593939403
+- https://openalex.org/W2594183968
+- https://openalex.org/W2594303706
+- https://openalex.org/W2604527271
+- https://openalex.org/W2613666205
+- https://openalex.org/W2620635074
+- https://openalex.org/W2779359811
+- https://openalex.org/W2791355014
+- https://openalex.org/W2805310212
+- https://openalex.org/W2806547269
+- https://openalex.org/W2901942917
+- https://openalex.org/W2903262661
+- https://openalex.org/W2916534270
+- https://openalex.org/W2921635993
+- https://openalex.org/W2940117744
+- https://openalex.org/W2944664266
+- https://openalex.org/W2951705055
+- https://openalex.org/W2954214838
+- https://openalex.org/W2966357564
+- https://openalex.org/W2988775587
+- https://openalex.org/W4236875018
+- https://openalex.org/W4297976511
+primary_topic: Computational Drug Discovery Methods
+open_access: true

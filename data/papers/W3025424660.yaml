@@ -1,0 +1,930 @@
+id: https://openalex.org/W3025424660
+doi: https://doi.org/10.1063/5.0004635
+title: 'TURBOMOLE: Modular program suite for <i>ab initio</i> quantum-chemical and
+  condensed-matter simulations'
+publication_date: '2020-05-13'
+publication_year: 2020
+cited_by_count: 968
+citation_percentile: 0.999941
+pagerank: 2.5595031273253795e-06
+authorships:
+- author_id: https://openalex.org/A5044556425
+  display_name: Sree Ganesh Balasubramani
+  orcid: https://orcid.org/0000-0002-0418-8472
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California, Irvine 1 , 1102 Natural Sciences
+    II, Irvine, California 92697-2025, USA
+- author_id: https://openalex.org/A5035326725
+  display_name: Guo P. Chen
+  orcid: https://orcid.org/0000-0002-4743-4450
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California, Irvine 1 , 1102 Natural Sciences
+    II, Irvine, California 92697-2025, USA
+- author_id: https://openalex.org/A5072227524
+  display_name: Sonia Coriani
+  orcid: https://orcid.org/0000-0002-4487-897X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I96673099
+    display_name: Technical University of Denmark
+    ror: https://ror.org/04qtj9h94
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - DTU Chemistry, Technical University of Denmark 2 , Kemitorvet Build. 207, DK-2800
+    Kongens Lyngby, Denmark
+- author_id: https://openalex.org/A5037926718
+  display_name: Michael Diedenhofen
+  orcid: https://orcid.org/0000-0002-5724-1994
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106101
+    display_name: "Dassault Syst\xE8mes (Germany)"
+    ror: https://ror.org/01mw2b749
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Dassault Syst\xE8mes Deutschland GmbH 3 , Imbacher Weg 46, 51379 Leverkusen,\
+    \ Germany"
+- author_id: https://openalex.org/A5072533670
+  display_name: Marius S. Frank
+  orcid: https://orcid.org/0000-0001-8330-4226
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I904495901
+    display_name: Ruhr University Bochum
+    ror: https://ror.org/04tsk2644
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Lehrstuhl f\xFCr Theoretische Chemie, Ruhr-Universit\xE4t Bochum 4 , 44801 Bochum,\
+    \ Germany"
+- author_id: https://openalex.org/A5079304905
+  display_name: Yannick J. Franzke
+  orcid: https://orcid.org/0000-0002-8344-113X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102335020
+    display_name: Karlsruhe Institute of Technology
+    ror: https://ror.org/04t3en479
+    country_code: DE
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Institute of Physical Chemistry, Karlsruhe Institute of Technology (KIT) 5 , KIT
+    Campus South, P.O. Box 6980, 76049 Karlsruhe, Germany
+- author_id: https://openalex.org/A5048985003
+  display_name: Filipp Furche
+  orcid: https://orcid.org/0000-0001-8520-3971
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California, Irvine 1 , 1102 Natural Sciences
+    II, Irvine, California 92697-2025, USA
+- author_id: https://openalex.org/A5008097975
+  display_name: Robin Grotjahn
+  orcid: https://orcid.org/0000-0002-7160-2581
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4577782
+    display_name: "Technische Universit\xE4t Berlin"
+    ror: https://ror.org/03v4gjf40
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut f\xFCr Chemie, Theoretische Chemie/Quantenchemie, Technische Universit\xE4\
+    t Berlin 6 , Sekr. C7, Stra\xDFe des 17. Juni 135, 10623 Berlin, Germany"
+- author_id: https://openalex.org/A5076461765
+  display_name: Michael E. Harding
+  orcid: https://orcid.org/0000-0002-3633-493X
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "TURBOMOLE GmbH 7 , Litzenhardtstra\xDFe 19, 76135 Karlsruhe, Germany"
+- author_id: https://openalex.org/A5019753746
+  display_name: "Christof H\xE4ttig"
+  orcid: https://orcid.org/0000-0002-5752-2710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I904495901
+    display_name: Ruhr University Bochum
+    ror: https://ror.org/04tsk2644
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Lehrstuhl f\xFCr Theoretische Chemie, Ruhr-Universit\xE4t Bochum 4 , 44801 Bochum,\
+    \ Germany"
+- author_id: https://openalex.org/A5028192324
+  display_name: Arnim Hellweg
+  orcid: https://orcid.org/0000-0002-9508-4889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106101
+    display_name: "Dassault Syst\xE8mes (Germany)"
+    ror: https://ror.org/01mw2b749
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Dassault Syst\xE8mes Deutschland GmbH 3 , Imbacher Weg 46, 51379 Leverkusen,\
+    \ Germany"
+- author_id: https://openalex.org/A5033351482
+  display_name: "Benjamin Helmich\u2010Paris"
+  orcid: https://orcid.org/0000-0002-3616-9671
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210090782
+    display_name: "Max-Planck-Institut f\xFCr Kohlenforschung"
+    ror: https://ror.org/00a7vgh58
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Max-Planck-Institut f\xFCr Kohlenforschung 8 , Kaiser-Wilhelm-Platz 1, 45470\
+    \ M\xFClheim an der Ruhr, Germany"
+- author_id: https://openalex.org/A5011435628
+  display_name: Christof Holzer
+  orcid: https://orcid.org/0000-0001-8234-260X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102335020
+    display_name: Karlsruhe Institute of Technology
+    ror: https://ror.org/04t3en479
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Physical Chemistry, Karlsruhe Institute of Technology (KIT) 5 , KIT
+    Campus South, P.O. Box 6980, 76049 Karlsruhe, Germany
+- author_id: https://openalex.org/A5003223705
+  display_name: Uwe Huniar
+  orcid: https://orcid.org/0000-0003-4471-7321
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210106101
+    display_name: "Dassault Syst\xE8mes (Germany)"
+    ror: https://ror.org/01mw2b749
+    country_code: DE
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Dassault Syst\xE8mes Deutschland GmbH 3 , Imbacher Weg 46, 51379 Leverkusen,\
+    \ Germany"
+- author_id: https://openalex.org/A5089111876
+  display_name: Martin Kaupp
+  orcid: https://orcid.org/0000-0003-1582-2819
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4577782
+    display_name: "Technische Universit\xE4t Berlin"
+    ror: https://ror.org/03v4gjf40
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut f\xFCr Chemie, Theoretische Chemie/Quantenchemie, Technische Universit\xE4\
+    t Berlin 6 , Sekr. C7, Stra\xDFe des 17. Juni 135, 10623 Berlin, Germany"
+- author_id: https://openalex.org/A5087496014
+  display_name: Alireza Marefat Khah
+  orcid: https://orcid.org/0000-0002-9593-0344
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I904495901
+    display_name: Ruhr University Bochum
+    ror: https://ror.org/04tsk2644
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Lehrstuhl f\xFCr Theoretische Chemie, Ruhr-Universit\xE4t Bochum 4 , 44801 Bochum,\
+    \ Germany"
+- author_id: https://openalex.org/A5090073735
+  display_name: Sarah Karbalaei Khani
+  orcid: https://orcid.org/0000-0002-7366-2916
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I904495901
+    display_name: Ruhr University Bochum
+    ror: https://ror.org/04tsk2644
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Lehrstuhl f\xFCr Theoretische Chemie, Ruhr-Universit\xE4t Bochum 4 , 44801 Bochum,\
+    \ Germany"
+- author_id: https://openalex.org/A5090337152
+  display_name: "Thomas M\xFCller"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I171892758
+    display_name: "Forschungszentrum J\xFClich"
+    ror: https://ror.org/02nv7yv05
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Forschungszentrum J\xFClich, J\xFClich Supercomputer Centre 9 , Wilhelm-Jonen\
+    \ Stra\xDFe, 52425 J\xFClich, Germany"
+- author_id: https://openalex.org/A5074925839
+  display_name: Fabian Mack
+  orcid: https://orcid.org/0000-0002-9284-327X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102335020
+    display_name: Karlsruhe Institute of Technology
+    ror: https://ror.org/04t3en479
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Physical Chemistry, Karlsruhe Institute of Technology (KIT) 5 , KIT
+    Campus South, P.O. Box 6980, 76049 Karlsruhe, Germany
+  - "TURBOMOLE GmbH 7 , Litzenhardtstra\xDFe 19, 76135 Karlsruhe, Germany"
+- author_id: https://openalex.org/A5012481320
+  display_name: Brian D. Nguyen
+  orcid: https://orcid.org/0000-0001-7713-1912
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California, Irvine 1 , 1102 Natural Sciences
+    II, Irvine, California 92697-2025, USA
+- author_id: https://openalex.org/A5065925491
+  display_name: Shane M. Parker
+  orcid: https://orcid.org/0000-0002-1110-3393
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58956616
+    display_name: Case Western Reserve University
+    ror: https://ror.org/051fd9666
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Case Western Reserve University 10 , 10900 Euclid Avenue,
+    Cleveland, Ohio 44106, USA
+- author_id: https://openalex.org/A5004833154
+  display_name: Eva Perlt
+  orcid: https://orcid.org/0000-0002-4670-0542
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California, Irvine 1 , 1102 Natural Sciences
+    II, Irvine, California 92697-2025, USA
+- author_id: https://openalex.org/A5014669246
+  display_name: Dmitrij Rappoport
+  orcid: https://orcid.org/0000-0002-5024-7998
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I114027177
+    display_name: University of North Carolina at Chapel Hill
+    ror: https://ror.org/0130frc33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of North Carolina at Chapel Hill 11 , Chapel
+    Hill, North Carolina 27599, USA
+- author_id: https://openalex.org/A5033196431
+  display_name: Kevin Reiter
+  orcid: https://orcid.org/0000-0002-7494-021X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102335020
+    display_name: Karlsruhe Institute of Technology
+    ror: https://ror.org/04t3en479
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Nanotechnology, Karlsruhe Institute of Technology (KIT) 12 , KIT
+    Campus North, P.O. Box 3640, 76021 Karlsruhe, Germany
+- author_id: https://openalex.org/A5018319344
+  display_name: Saswata Roy
+  orcid: https://orcid.org/0000-0002-0319-4002
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California, Irvine 1 , 1102 Natural Sciences
+    II, Irvine, California 92697-2025, USA
+- author_id: https://openalex.org/A5081882312
+  display_name: "Matthias R\xFCckert"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I904495901
+    display_name: Ruhr University Bochum
+    ror: https://ror.org/04tsk2644
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Lehrstuhl f\xFCr Theoretische Chemie, Ruhr-Universit\xE4t Bochum 4 , 44801 Bochum,\
+    \ Germany"
+- author_id: https://openalex.org/A5051538410
+  display_name: Gunnar Alexander Schmitz
+  orcid: https://orcid.org/0000-0003-3677-4748
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204337017
+    display_name: Aarhus University
+    ror: https://ror.org/01aj84f44
+    country_code: DK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, Aarhus Universitet 13 , Langelandsgade 140, DK-8000 Aarhus,
+    Denmark
+- author_id: https://openalex.org/A5065592271
+  display_name: Marek Sierka
+  orcid: https://orcid.org/0000-0001-8153-3682
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I160414472
+    display_name: Schott (Germany)
+    ror: https://ror.org/000q08p21
+    country_code: DE
+    type: company
+  - id: https://openalex.org/I76198965
+    display_name: Friedrich Schiller University Jena
+    ror: https://ror.org/05qpz1x62
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Otto-Schott-Institut f\xFCr Materialforschung, Friedrich-Schiller-Universit\xE4\
+    t Jena 14 , L\xF6bdergraben 32, 07743 Jena, Germany"
+  - "TURBOMOLE GmbH 7 , Litzenhardtstra\xDFe 19, 76135 Karlsruhe, Germany"
+- author_id: https://openalex.org/A5036143604
+  display_name: Enrico Tapavicza
+  orcid: https://orcid.org/0000-0002-0640-0297
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I59897056
+    display_name: California State University, Long Beach
+    ror: https://ror.org/0080fxk18
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, California State University, Long Beach
+    15 , 1250 Bellflower Boulevard, Long Beach, California 90840, USA
+- author_id: https://openalex.org/A5058596787
+  display_name: David P. Tew
+  orcid: https://orcid.org/0000-0002-3220-4177
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210088365
+    display_name: Max Planck Institute for Solid State Research
+    ror: https://ror.org/005bk2339
+    country_code: DE
+    type: facility
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Max Planck Institute for Solid State Research 16 , Heisenbergsta\xDFe 1, 70569\
+    \ Stuttgart, Germany"
+  - Physical and Theoretical Chemistry Laboratory, University of Oxford 17 , South
+    Parks Road, Oxford OX1 3QZ, United Kingdom
+- author_id: https://openalex.org/A5000651679
+  display_name: "Christoph van W\xFCllen"
+  orcid: https://orcid.org/0000-0001-7632-3437
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I153267046
+    display_name: University of Kaiserslautern
+    ror: https://ror.org/04zrf7b53
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Fachbereich Chemie and Forschungszentrum OPTIMAS, Technische Universit\xE4t Kaiserslautern\
+    \ 18 , Erwin-Schr\xF6dinger-Sta\xDFe 52, 67663 Kaiserslautern, Germany"
+- author_id: https://openalex.org/A5033977455
+  display_name: Vamsee K. Voora
+  orcid: https://orcid.org/0000-0002-4887-0609
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I11947397
+    display_name: Tata Institute of Fundamental Research
+    ror: https://ror.org/03ht1xw27
+    country_code: IN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemical Sciences, Tata Institute of Fundamental Research 19 , Homi
+    Bhabha Road, Colaba, Mumbai 400005, India
+- author_id: https://openalex.org/A5020738851
+  display_name: Florian Weigend
+  orcid: https://orcid.org/0000-0001-5060-1689
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161103922
+    display_name: Philipps University of Marburg
+    ror: https://ror.org/01rdrb571
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I102335020
+    display_name: Karlsruhe Institute of Technology
+    ror: https://ror.org/04t3en479
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Fachbereich Chemie, Philipps-Universit\xE4t Marburg 20 , Hans-Meerwein-Str. 4,\
+    \ 35032 Marburg, Germany"
+  - Institute of Nanotechnology, Karlsruhe Institute of Technology (KIT) 12 , KIT
+    Campus North, P.O. Box 3640, 76021 Karlsruhe, Germany
+- author_id: https://openalex.org/A5080273791
+  display_name: "Artur Wody\u0144ski"
+  orcid: https://orcid.org/0000-0002-1262-641X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4577782
+    display_name: "Technische Universit\xE4t Berlin"
+    ror: https://ror.org/03v4gjf40
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Institut f\xFCr Chemie, Theoretische Chemie/Quantenchemie, Technische Universit\xE4\
+    t Berlin 6 , Sekr. C7, Stra\xDFe des 17. Juni 135, 10623 Berlin, Germany"
+- author_id: https://openalex.org/A5023469360
+  display_name: Jason M. Yu
+  orcid: https://orcid.org/0000-0002-2270-6798
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I204250578
+    display_name: University of California, Irvine
+    ror: https://ror.org/04gyf1771
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry, University of California, Irvine 1 , 1102 Natural Sciences
+    II, Irvine, California 92697-2025, USA
+referenced_works:
+- https://openalex.org/W1031578623
+- https://openalex.org/W1497069881
+- https://openalex.org/W1504277857
+- https://openalex.org/W1506967528
+- https://openalex.org/W1508697289
+- https://openalex.org/W1564335142
+- https://openalex.org/W1607769623
+- https://openalex.org/W1614843501
+- https://openalex.org/W1624860839
+- https://openalex.org/W1626387493
+- https://openalex.org/W1788075660
+- https://openalex.org/W1795273528
+- https://openalex.org/W1854208727
+- https://openalex.org/W1963681870
+- https://openalex.org/W1963683620
+- https://openalex.org/W1966078827
+- https://openalex.org/W1966353152
+- https://openalex.org/W1966579400
+- https://openalex.org/W1966776412
+- https://openalex.org/W1967300183
+- https://openalex.org/W1968398411
+- https://openalex.org/W1970326168
+- https://openalex.org/W1971275758
+- https://openalex.org/W1973021508
+- https://openalex.org/W1975155744
+- https://openalex.org/W1976267990
+- https://openalex.org/W1978383254
+- https://openalex.org/W1978849007
+- https://openalex.org/W1981021420
+- https://openalex.org/W1981054690
+- https://openalex.org/W1981368803
+- https://openalex.org/W1981914421
+- https://openalex.org/W1982418442
+- https://openalex.org/W1982559832
+- https://openalex.org/W1984098954
+- https://openalex.org/W1985001178
+- https://openalex.org/W1985535918
+- https://openalex.org/W1985583109
+- https://openalex.org/W1986266620
+- https://openalex.org/W1987245427
+- https://openalex.org/W1987892543
+- https://openalex.org/W1988091937
+- https://openalex.org/W1988485815
+- https://openalex.org/W1988604498
+- https://openalex.org/W1989021984
+- https://openalex.org/W1990615442
+- https://openalex.org/W1990848217
+- https://openalex.org/W1991922072
+- https://openalex.org/W1993077801
+- https://openalex.org/W1994098092
+- https://openalex.org/W1994123628
+- https://openalex.org/W1995507794
+- https://openalex.org/W1997151511
+- https://openalex.org/W1999866349
+- https://openalex.org/W2001004116
+- https://openalex.org/W2002782616
+- https://openalex.org/W2003609201
+- https://openalex.org/W2004226047
+- https://openalex.org/W2005220728
+- https://openalex.org/W2006070840
+- https://openalex.org/W2006667528
+- https://openalex.org/W2006885056
+- https://openalex.org/W2007886414
+- https://openalex.org/W2010613701
+- https://openalex.org/W2010654633
+- https://openalex.org/W2011805684
+- https://openalex.org/W2013183108
+- https://openalex.org/W2014937986
+- https://openalex.org/W2015256806
+- https://openalex.org/W2015600899
+- https://openalex.org/W2016800344
+- https://openalex.org/W2018120102
+- https://openalex.org/W2019313461
+- https://openalex.org/W2020056288
+- https://openalex.org/W2021628309
+- https://openalex.org/W2023271753
+- https://openalex.org/W2023323975
+- https://openalex.org/W2023390323
+- https://openalex.org/W2023611664
+- https://openalex.org/W2024095548
+- https://openalex.org/W2025558369
+- https://openalex.org/W2025860288
+- https://openalex.org/W2026090322
+- https://openalex.org/W2026334836
+- https://openalex.org/W2028046413
+- https://openalex.org/W2028125440
+- https://openalex.org/W2029667189
+- https://openalex.org/W2030653596
+- https://openalex.org/W2030687437
+- https://openalex.org/W2030971064
+- https://openalex.org/W2031160376
+- https://openalex.org/W2032657290
+- https://openalex.org/W2032677352
+- https://openalex.org/W2032719166
+- https://openalex.org/W2033262092
+- https://openalex.org/W2033807019
+- https://openalex.org/W2035216229
+- https://openalex.org/W2035879838
+- https://openalex.org/W2037063690
+- https://openalex.org/W2037210960
+- https://openalex.org/W2037489162
+- https://openalex.org/W2038315034
+- https://openalex.org/W2039574885
+- https://openalex.org/W2040358240
+- https://openalex.org/W2042492216
+- https://openalex.org/W2042768420
+- https://openalex.org/W2043859984
+- https://openalex.org/W2044268702
+- https://openalex.org/W2045508665
+- https://openalex.org/W2046279502
+- https://openalex.org/W2046412723
+- https://openalex.org/W2048160175
+- https://openalex.org/W2048261400
+- https://openalex.org/W2049148324
+- https://openalex.org/W2050259998
+- https://openalex.org/W2051390650
+- https://openalex.org/W2051402367
+- https://openalex.org/W2051469879
+- https://openalex.org/W2053242843
+- https://openalex.org/W2054198704
+- https://openalex.org/W2055230539
+- https://openalex.org/W2055563809
+- https://openalex.org/W2056330908
+- https://openalex.org/W2056332498
+- https://openalex.org/W2056967289
+- https://openalex.org/W2056969318
+- https://openalex.org/W2058210956
+- https://openalex.org/W2058604132
+- https://openalex.org/W2058880718
+- https://openalex.org/W2059159696
+- https://openalex.org/W2059917012
+- https://openalex.org/W2060534172
+- https://openalex.org/W2061248504
+- https://openalex.org/W2062185685
+- https://openalex.org/W2062852634
+- https://openalex.org/W2065930576
+- https://openalex.org/W2066510699
+- https://openalex.org/W2066611789
+- https://openalex.org/W2067804932
+- https://openalex.org/W2068228867
+- https://openalex.org/W2068920655
+- https://openalex.org/W2069006374
+- https://openalex.org/W2070005238
+- https://openalex.org/W2070203126
+- https://openalex.org/W2070383512
+- https://openalex.org/W2070858764
+- https://openalex.org/W2070954147
+- https://openalex.org/W2071865855
+- https://openalex.org/W2072398524
+- https://openalex.org/W2073328513
+- https://openalex.org/W2074205245
+- https://openalex.org/W2074798388
+- https://openalex.org/W2075175403
+- https://openalex.org/W2075513360
+- https://openalex.org/W2076757103
+- https://openalex.org/W2077729746
+- https://openalex.org/W2077819220
+- https://openalex.org/W2078146328
+- https://openalex.org/W2078674000
+- https://openalex.org/W2078746605
+- https://openalex.org/W2079023510
+- https://openalex.org/W2079304534
+- https://openalex.org/W2079935930
+- https://openalex.org/W2080116234
+- https://openalex.org/W2081989222
+- https://openalex.org/W2082037815
+- https://openalex.org/W2082691688
+- https://openalex.org/W2083111536
+- https://openalex.org/W2083521335
+- https://openalex.org/W2085341294
+- https://openalex.org/W2085512513
+- https://openalex.org/W2086445382
+- https://openalex.org/W2086521730
+- https://openalex.org/W2086957099
+- https://openalex.org/W2087141492
+- https://openalex.org/W2087672213
+- https://openalex.org/W2088604641
+- https://openalex.org/W2089545684
+- https://openalex.org/W2091396606
+- https://openalex.org/W2092157292
+- https://openalex.org/W2092265729
+- https://openalex.org/W2092777432
+- https://openalex.org/W2094536236
+- https://openalex.org/W2094974141
+- https://openalex.org/W2095100262
+- https://openalex.org/W2095164928
+- https://openalex.org/W2097574296
+- https://openalex.org/W2098217321
+- https://openalex.org/W2107065439
+- https://openalex.org/W2108174188
+- https://openalex.org/W2108980885
+- https://openalex.org/W2109665034
+- https://openalex.org/W2112820686
+- https://openalex.org/W2112850441
+- https://openalex.org/W2113358363
+- https://openalex.org/W2117233352
+- https://openalex.org/W2117546220
+- https://openalex.org/W2120550507
+- https://openalex.org/W2120733958
+- https://openalex.org/W2122199548
+- https://openalex.org/W2123768693
+- https://openalex.org/W2123955374
+- https://openalex.org/W2124437941
+- https://openalex.org/W2125124657
+- https://openalex.org/W2127440814
+- https://openalex.org/W2129126460
+- https://openalex.org/W2131633797
+- https://openalex.org/W2131916220
+- https://openalex.org/W2132262459
+- https://openalex.org/W2133742407
+- https://openalex.org/W2134803682
+- https://openalex.org/W2141232868
+- https://openalex.org/W2141506516
+- https://openalex.org/W2142666840
+- https://openalex.org/W2143517266
+- https://openalex.org/W2143981217
+- https://openalex.org/W2146010043
+- https://openalex.org/W2146303374
+- https://openalex.org/W2147303166
+- https://openalex.org/W2147626542
+- https://openalex.org/W2150195378
+- https://openalex.org/W2150697053
+- https://openalex.org/W2150981663
+- https://openalex.org/W2151440625
+- https://openalex.org/W2153496633
+- https://openalex.org/W2157297264
+- https://openalex.org/W2160544821
+- https://openalex.org/W2164318957
+- https://openalex.org/W2169551196
+- https://openalex.org/W2169678694
+- https://openalex.org/W2170249130
+- https://openalex.org/W2171268876
+- https://openalex.org/W2172375121
+- https://openalex.org/W2172937099
+- https://openalex.org/W2256787527
+- https://openalex.org/W2257722334
+- https://openalex.org/W2258157621
+- https://openalex.org/W2286713638
+- https://openalex.org/W2288878158
+- https://openalex.org/W2291823396
+- https://openalex.org/W2300185773
+- https://openalex.org/W2312674514
+- https://openalex.org/W2313833628
+- https://openalex.org/W2314056875
+- https://openalex.org/W2314453320
+- https://openalex.org/W2315553524
+- https://openalex.org/W2316015379
+- https://openalex.org/W2316613929
+- https://openalex.org/W2316887610
+- https://openalex.org/W2317511937
+- https://openalex.org/W2318743634
+- https://openalex.org/W2319011010
+- https://openalex.org/W2319715725
+- https://openalex.org/W2319979098
+- https://openalex.org/W2321992843
+- https://openalex.org/W2322333511
+- https://openalex.org/W2322826137
+- https://openalex.org/W2327622932
+- https://openalex.org/W2327648273
+- https://openalex.org/W2328599765
+- https://openalex.org/W2329555286
+- https://openalex.org/W2329737702
+- https://openalex.org/W2330586915
+- https://openalex.org/W2331812685
+- https://openalex.org/W2332402427
+- https://openalex.org/W2332585692
+- https://openalex.org/W2332668224
+- https://openalex.org/W2334083603
+- https://openalex.org/W2339244318
+- https://openalex.org/W2345661274
+- https://openalex.org/W2346303235
+- https://openalex.org/W2346991065
+- https://openalex.org/W2373450138
+- https://openalex.org/W2396666011
+- https://openalex.org/W2399061519
+- https://openalex.org/W2405849754
+- https://openalex.org/W2409716664
+- https://openalex.org/W2421452157
+- https://openalex.org/W2438334672
+- https://openalex.org/W2483533475
+- https://openalex.org/W2486037968
+- https://openalex.org/W2495764810
+- https://openalex.org/W2506759502
+- https://openalex.org/W2507206719
+- https://openalex.org/W2515810529
+- https://openalex.org/W2516037862
+- https://openalex.org/W2520084706
+- https://openalex.org/W2529833503
+- https://openalex.org/W2531871002
+- https://openalex.org/W2556114010
+- https://openalex.org/W2560180140
+- https://openalex.org/W2560735472
+- https://openalex.org/W2562379986
+- https://openalex.org/W2569725131
+- https://openalex.org/W2573563632
+- https://openalex.org/W2576770685
+- https://openalex.org/W2585174644
+- https://openalex.org/W2590355494
+- https://openalex.org/W2595110778
+- https://openalex.org/W2595864240
+- https://openalex.org/W2601081289
+- https://openalex.org/W2605768989
+- https://openalex.org/W2605800723
+- https://openalex.org/W2607012428
+- https://openalex.org/W2610696663
+- https://openalex.org/W2614588329
+- https://openalex.org/W2618484085
+- https://openalex.org/W2674274910
+- https://openalex.org/W2730836513
+- https://openalex.org/W2732501976
+- https://openalex.org/W2737449748
+- https://openalex.org/W2741276194
+- https://openalex.org/W2741336007
+- https://openalex.org/W2752399017
+- https://openalex.org/W2760089992
+- https://openalex.org/W2765647486
+- https://openalex.org/W2767245079
+- https://openalex.org/W2767318092
+- https://openalex.org/W2767558626
+- https://openalex.org/W2769331892
+- https://openalex.org/W2774262841
+- https://openalex.org/W2775220959
+- https://openalex.org/W2783533281
+- https://openalex.org/W2784876393
+- https://openalex.org/W2790697069
+- https://openalex.org/W2791683316
+- https://openalex.org/W2792420730
+- https://openalex.org/W2793259122
+- https://openalex.org/W2793502158
+- https://openalex.org/W2795828587
+- https://openalex.org/W2802077265
+- https://openalex.org/W2802290512
+- https://openalex.org/W2802986849
+- https://openalex.org/W2804933479
+- https://openalex.org/W2805040176
+- https://openalex.org/W2805063729
+- https://openalex.org/W2805534977
+- https://openalex.org/W2807286138
+- https://openalex.org/W2810911744
+- https://openalex.org/W2811421006
+- https://openalex.org/W2883552532
+- https://openalex.org/W2883594943
+- https://openalex.org/W2884648276
+- https://openalex.org/W2884955902
+- https://openalex.org/W2885982846
+- https://openalex.org/W2889842763
+- https://openalex.org/W2890613332
+- https://openalex.org/W2891428197
+- https://openalex.org/W2896759831
+- https://openalex.org/W2896968078
+- https://openalex.org/W2898200821
+- https://openalex.org/W2898444779
+- https://openalex.org/W2898608153
+- https://openalex.org/W2902896938
+- https://openalex.org/W2910060376
+- https://openalex.org/W2911997094
+- https://openalex.org/W2936033307
+- https://openalex.org/W2939341762
+- https://openalex.org/W2942994365
+- https://openalex.org/W2943361340
+- https://openalex.org/W2945645033
+- https://openalex.org/W2947172408
+- https://openalex.org/W2947175888
+- https://openalex.org/W2949801802
+- https://openalex.org/W2949997903
+- https://openalex.org/W2951836183
+- https://openalex.org/W2955596438
+- https://openalex.org/W2960641954
+- https://openalex.org/W2960701889
+- https://openalex.org/W2962933122
+- https://openalex.org/W2963186182
+- https://openalex.org/W2964332384
+- https://openalex.org/W2966110023
+- https://openalex.org/W2967925847
+- https://openalex.org/W2968522542
+- https://openalex.org/W2969086363
+- https://openalex.org/W2970137255
+- https://openalex.org/W2970466021
+- https://openalex.org/W2970583036
+- https://openalex.org/W2972795504
+- https://openalex.org/W2973986991
+- https://openalex.org/W2974858979
+- https://openalex.org/W2979795026
+- https://openalex.org/W2980449216
+- https://openalex.org/W2982939989
+- https://openalex.org/W2987520320
+- https://openalex.org/W2989176219
+- https://openalex.org/W2989268911
+- https://openalex.org/W2994623191
+- https://openalex.org/W2994691438
+- https://openalex.org/W2995278938
+- https://openalex.org/W2997332491
+- https://openalex.org/W2998720028
+- https://openalex.org/W3005249946
+- https://openalex.org/W3007028946
+- https://openalex.org/W3011137218
+- https://openalex.org/W3023121770
+- https://openalex.org/W3100259481
+- https://openalex.org/W3102127896
+- https://openalex.org/W3103254526
+- https://openalex.org/W3104461385
+- https://openalex.org/W3132826558
+- https://openalex.org/W3212226821
+- https://openalex.org/W4211056516
+- https://openalex.org/W4233256256
+- https://openalex.org/W4239227123
+- https://openalex.org/W4240035468
+- https://openalex.org/W4242809208
+- https://openalex.org/W4243146380
+- https://openalex.org/W4249989118
+- https://openalex.org/W42713825
+- https://openalex.org/W9305656
+primary_topic: Advanced Chemical Physics Studies
+open_access: true

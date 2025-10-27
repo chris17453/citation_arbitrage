@@ -1,0 +1,766 @@
+id: https://openalex.org/W3020653337
+doi: https://doi.org/10.1016/j.cell.2020.04.045
+title: Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements,
+  and Prognosis of COVID-19 Pneumonia Using Computed Tomography
+publication_date: '2020-05-04'
+publication_year: 2020
+cited_by_count: 854
+citation_percentile: 0.999953
+pagerank: 2.5383079282666043e-06
+authorships:
+- author_id: https://openalex.org/A5100432232
+  display_name: Kang Zhang
+  orcid: https://orcid.org/0000-0002-4549-1697
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5100321192
+  display_name: Xiaohong Liu
+  orcid: https://orcid.org/0000-0002-0818-1059
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology & BNRist, Tsinghua University, Beijing,
+    China
+- author_id: https://openalex.org/A5032104899
+  display_name: Jun Shen
+  orcid: https://orcid.org/0000-0001-7746-5285
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097354
+    display_name: Sun Yat-sen Memorial Hospital
+    ror: https://ror.org/01px77p81
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Urology, Radiology, Emergency Medicine, and Respiratory Medicine,
+    Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5026644404
+  display_name: Zhihuan Li
+  orcid: https://orcid.org/0009-0009-1754-7516
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I24185976
+    display_name: Sichuan University
+    ror: https://ror.org/011ashp19
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Translational Innovations and Department of Respiratory and Critical
+    Care Medicine, West China Hospital, West China School of Medicine, Sichuan University,
+    Chengdu, China
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5087895775
+  display_name: Ye Sang
+  orcid: https://orcid.org/0009-0009-8002-7070
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161350542
+    display_name: China Three Gorges University
+    ror: https://ror.org/0419nfc77
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The First College of Clinical Medical Science, China Three Gorges University,
+    Yichang, China
+- author_id: https://openalex.org/A5036883339
+  display_name: Xingwang Wu
+  orcid: https://orcid.org/0000-0002-9481-9425
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210136596
+    display_name: First Affiliated Hospital of Anhui Medical University
+    ror: https://ror.org/03t1yn780
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I197869895
+    display_name: Anhui Medical University
+    ror: https://ror.org/03xb04968
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, The First Affiliated Hospital of Anhui Medical University,
+    Hefei, China
+- author_id: https://openalex.org/A5006317619
+  display_name: Yunfei Zha
+  orcid: https://orcid.org/0000-0002-8714-7472
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210140357
+    display_name: Renmin Hospital of Wuhan University
+    ror: https://ror.org/03ekhbz91
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Department of Infection Prevention and Control, Renmin
+    Hospital, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5031255136
+  display_name: Wenhua Liang
+  orcid: https://orcid.org/0000-0002-1391-8238
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Thoracic Surgery/Oncology, the First Affiliated Hospital of Guangzhou
+    Medical University, China State Key Laboratory and National Clinical Research
+    Center for Respiratory Disease, Guangzhou, China
+- author_id: https://openalex.org/A5019373631
+  display_name: Chengdi Wang
+  orcid: https://orcid.org/0000-0002-5284-2889
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24185976
+    display_name: Sichuan University
+    ror: https://ror.org/011ashp19
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Translational Innovations and Department of Respiratory and Critical
+    Care Medicine, West China Hospital, West China School of Medicine, Sichuan University,
+    Chengdu, China
+- author_id: https://openalex.org/A5100360124
+  display_name: Ke Wang
+  orcid: https://orcid.org/0000-0002-6163-4512
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology & BNRist, Tsinghua University, Beijing,
+    China
+- author_id: https://openalex.org/A5079443043
+  display_name: Linsen Ye
+  orcid: https://orcid.org/0000-0001-9632-1949
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146956
+    display_name: Third Affiliated Hospital of Sun Yat-sen University
+    ror: https://ror.org/04tm3k558
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, and Liver Disease Center, Sun Yat-Sen Third Affiliated
+    Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5061543595
+  display_name: Ming Gao
+  orcid: https://orcid.org/0000-0002-2743-2247
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097354
+    display_name: Sun Yat-sen Memorial Hospital
+    ror: https://ror.org/01px77p81
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Urology, Radiology, Emergency Medicine, and Respiratory Medicine,
+    Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5065079327
+  display_name: Zhongguo Zhou
+  orcid: https://orcid.org/0000-0002-1929-4278
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5100420617
+  display_name: Liang Li
+  orcid: https://orcid.org/0000-0001-5648-724X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210140357
+    display_name: Renmin Hospital of Wuhan University
+    ror: https://ror.org/03ekhbz91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Department of Infection Prevention and Control, Renmin
+    Hospital, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5100346184
+  display_name: Jin Wang
+  orcid: https://orcid.org/0000-0002-7956-9579
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146956
+    display_name: Third Affiliated Hospital of Sun Yat-sen University
+    ror: https://ror.org/04tm3k558
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, and Liver Disease Center, Sun Yat-Sen Third Affiliated
+    Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5050254908
+  display_name: Zehong Yang
+  orcid: https://orcid.org/0000-0001-7562-3710
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097354
+    display_name: Sun Yat-sen Memorial Hospital
+    ror: https://ror.org/01px77p81
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Urology, Radiology, Emergency Medicine, and Respiratory Medicine,
+    Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5100845901
+  display_name: Huimin Cai
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5003488506
+  display_name: Jie Xu
+  orcid: https://orcid.org/0000-0002-2039-7055
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5072492963
+  display_name: Lei Yang
+  orcid: https://orcid.org/0000-0002-0785-2084
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5101413407
+  display_name: Wenjia Cai
+  orcid: https://orcid.org/0000-0003-2398-1449
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5066293086
+  display_name: W. Xu
+  orcid: https://orcid.org/0000-0002-5976-4991
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5113099206
+  display_name: Shaoxu Wu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097354
+    display_name: Sun Yat-sen Memorial Hospital
+    ror: https://ror.org/01px77p81
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Urology, Radiology, Emergency Medicine, and Respiratory Medicine,
+    Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5052615768
+  display_name: Wei Zhang
+  orcid: https://orcid.org/0000-0002-1487-1507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097354
+    display_name: Sun Yat-sen Memorial Hospital
+    ror: https://ror.org/01px77p81
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Urology, Radiology, Emergency Medicine, and Respiratory Medicine,
+    Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5021618884
+  display_name: Shanping Jiang
+  orcid: https://orcid.org/0000-0002-6222-0282
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210097354
+    display_name: Sun Yat-sen Memorial Hospital
+    ror: https://ror.org/01px77p81
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Urology, Radiology, Emergency Medicine, and Respiratory Medicine,
+    Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5081266476
+  display_name: Lianghong Zheng
+  orcid: https://orcid.org/0000-0003-1119-7454
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Guangzhou Kangrui AI Technology Co. and Guangzhou HuiBoRui Biological Pharmaceutical
+    Technology Co., Ltd, Guangzhou, China
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5100342886
+  display_name: Xuan Zhang
+  orcid: https://orcid.org/0000-0001-8775-1699
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology & BNRist, Tsinghua University, Beijing,
+    China
+- author_id: https://openalex.org/A5100336015
+  display_name: Li Wang
+  orcid: https://orcid.org/0000-0002-4007-6654
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I37461747
+    display_name: Wuhan University
+    ror: https://ror.org/033vjfk17
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210140357
+    display_name: Renmin Hospital of Wuhan University
+    ror: https://ror.org/03ekhbz91
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Radiology, Department of Infection Prevention and Control, Renmin
+    Hospital, Wuhan University, Wuhan, China
+- author_id: https://openalex.org/A5068486783
+  display_name: Lu Liu
+  orcid: https://orcid.org/0000-0003-3516-004X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Guangzhou Kangrui AI Technology Co. and Guangzhou HuiBoRui Biological Pharmaceutical
+    Technology Co., Ltd, Guangzhou, China
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5100326736
+  display_name: Jiaming Li
+  orcid: https://orcid.org/0000-0001-5361-5277
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Guangzhou Kangrui AI Technology Co. and Guangzhou HuiBoRui Biological Pharmaceutical
+    Technology Co., Ltd, Guangzhou, China
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5114031310
+  display_name: Haiping Yin
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210091044
+    display_name: First People's Hospital of Yunnan Province
+    ror: https://ror.org/00c099g34
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The First People's Hospital of Yunnan Province, Kunmin, China
+- author_id: https://openalex.org/A5101932158
+  display_name: Winston Wang
+  orcid: https://orcid.org/0000-0003-4442-174X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5087081419
+  display_name: Oulan Li
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5053649386
+  display_name: Charlotte Zhang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107668
+    display_name: Guangzhou Regenerative Medicine and Health Guangdong Laboratory
+    ror: https://ror.org/01n179w26
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Guangzhou Regenerative Medicine and Health Guangdong Laboratory, Guangzhou, China
+- author_id: https://openalex.org/A5100426917
+  display_name: Liang Liang
+  orcid: https://orcid.org/0000-0002-0082-5235
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161350542
+    display_name: China Three Gorges University
+    ror: https://ror.org/0419nfc77
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The First College of Clinical Medical Science, China Three Gorges University,
+    Yichang, China
+- author_id: https://openalex.org/A5043100976
+  display_name: Tao Wu
+  orcid: https://orcid.org/0000-0001-6469-9613
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161350542
+    display_name: China Three Gorges University
+    ror: https://ror.org/0419nfc77
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The First College of Clinical Medical Science, China Three Gorges University,
+    Yichang, China
+- author_id: https://openalex.org/A5055116809
+  display_name: Ruiyun Deng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+  - Guangzhou Kangrui AI Technology Co. and Guangzhou HuiBoRui Biological Pharmaceutical
+    Technology Co., Ltd, Guangzhou, China
+- author_id: https://openalex.org/A5100751187
+  display_name: Wei Kang
+  orcid: https://orcid.org/0000-0002-7994-3524
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5101535929
+  display_name: Yong Zhou
+  orcid: https://orcid.org/0000-0001-5221-8026
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5100443189
+  display_name: Ting Chen
+  orcid: https://orcid.org/0000-0002-3228-9166
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology & BNRist, Tsinghua University, Beijing,
+    China
+- author_id: https://openalex.org/A5112552500
+  display_name: Johnson Yiu-Nam Lau
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I14243506
+    display_name: Hong Kong Polytechnic University
+    ror: https://ror.org/0030zas98
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Applied Biology and Chemical Technology, Hong Kong Polytechnic University,
+    Hong Kong, China
+- author_id: https://openalex.org/A5103812972
+  display_name: Manson Fok
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111950717
+    display_name: Macau University of Science and Technology
+    ror: https://ror.org/03jqs2n27
+    country_code: MO
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Faculty of Medicine, Macau University of Science and Technology, Macau, China
+- author_id: https://openalex.org/A5100751322
+  display_name: Jianxing He
+  orcid: https://orcid.org/0000-0003-1737-8192
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210098361
+    display_name: First Affiliated Hospital of Guangzhou Medical University
+    ror: https://ror.org/00z0j0d77
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I92039509
+    display_name: Guangzhou Medical University
+    ror: https://ror.org/00zat6v61
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Thoracic Surgery/Oncology, the First Affiliated Hospital of Guangzhou
+    Medical University, China State Key Laboratory and National Clinical Research
+    Center for Respiratory Disease, Guangzhou, China
+- author_id: https://openalex.org/A5003905939
+  display_name: Tianxin Lin
+  orcid: https://orcid.org/0000-0003-3180-8697
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097354
+    display_name: Sun Yat-sen Memorial Hospital
+    ror: https://ror.org/01px77p81
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I157773358
+    display_name: Sun Yat-sen University
+    ror: https://ror.org/0064kty71
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Departments of Urology, Radiology, Emergency Medicine, and Respiratory Medicine,
+    Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China
+- author_id: https://openalex.org/A5100367626
+  display_name: Weimin Li
+  orcid: https://orcid.org/0000-0003-0985-0311
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24185976
+    display_name: Sichuan University
+    ror: https://ror.org/011ashp19
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Translational Innovations and Department of Respiratory and Critical
+    Care Medicine, West China Hospital, West China School of Medicine, Sichuan University,
+    Chengdu, China
+- author_id: https://openalex.org/A5100458577
+  display_name: Guangyu Wang
+  orcid: https://orcid.org/0000-0003-1312-884X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Computer Science and Technology & BNRist, Tsinghua University, Beijing,
+    China
+referenced_works:
+- https://openalex.org/W1803784511
+- https://openalex.org/W1901129140
+- https://openalex.org/W1903029394
+- https://openalex.org/W2101234009
+- https://openalex.org/W2117897510
+- https://openalex.org/W2280404143
+- https://openalex.org/W2344912502
+- https://openalex.org/W2395611524
+- https://openalex.org/W2557738935
+- https://openalex.org/W2582821003
+- https://openalex.org/W2620241325
+- https://openalex.org/W2630837129
+- https://openalex.org/W2748434587
+- https://openalex.org/W2752747624
+- https://openalex.org/W2758333670
+- https://openalex.org/W2768348081
+- https://openalex.org/W2772246530
+- https://openalex.org/W2787070805
+- https://openalex.org/W2788633781
+- https://openalex.org/W2792026451
+- https://openalex.org/W2892741787
+- https://openalex.org/W2896817483
+- https://openalex.org/W2900940968
+- https://openalex.org/W2902287040
+- https://openalex.org/W2905810301
+- https://openalex.org/W2906311950
+- https://openalex.org/W2908201961
+- https://openalex.org/W2963616706
+- https://openalex.org/W2963881378
+- https://openalex.org/W2964015468
+- https://openalex.org/W2965512201
+- https://openalex.org/W2970971581
+- https://openalex.org/W2990338524
+- https://openalex.org/W3001118548
+- https://openalex.org/W3001465255
+- https://openalex.org/W3001897055
+- https://openalex.org/W3002533507
+- https://openalex.org/W3002539152
+- https://openalex.org/W3003951199
+- https://openalex.org/W3004239190
+- https://openalex.org/W3005656138
+- https://openalex.org/W3006110666
+- https://openalex.org/W3007273493
+- https://openalex.org/W3008090866
+- https://openalex.org/W3008827533
+- https://openalex.org/W4295312788
+- https://openalex.org/W4295313945
+primary_topic: COVID-19 diagnosis using AI
+open_access: true

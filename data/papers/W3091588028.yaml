@@ -1,0 +1,222 @@
+id: https://openalex.org/W3091588028
+doi: https://doi.org/10.1007/978-3-030-58577-8_8
+title: 'Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks'
+publication_date: '2020-01-01'
+publication_year: 2020
+cited_by_count: 1326
+citation_percentile: 0.999744
+pagerank: 2.533167497489715e-06
+authorships:
+- author_id: https://openalex.org/A5021140826
+  display_name: Xiujun Li
+  orcid: https://orcid.org/0000-0001-7771-2725
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I58610484
+    display_name: Seattle University
+    ror: https://ror.org/02jqc0m91
+    country_code: US
+    type: education
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+  - University of Washington, Seattle, USA
+- author_id: https://openalex.org/A5051120254
+  display_name: Xi Yin
+  orcid: https://orcid.org/0000-0002-4779-4501
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5107893340
+  display_name: Chunyuan Li
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5059735251
+  display_name: Pengchuan Zhang
+  orcid: https://orcid.org/0000-0003-1155-9507
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5101588223
+  display_name: Xiaowei Hu
+  orcid: https://orcid.org/0000-0002-8312-517X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5100433931
+  display_name: Lei Zhang
+  orcid: https://orcid.org/0000-0002-5808-5313
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5100436501
+  display_name: Lijuan Wang
+  orcid: https://orcid.org/0000-0002-2517-2728
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5073544851
+  display_name: Houdong Hu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5051688016
+  display_name: Dong Li
+  orcid: https://orcid.org/0000-0002-5815-5924
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5014662947
+  display_name: Furu Wei
+  orcid: https://orcid.org/0000-0002-7810-5852
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+- author_id: https://openalex.org/A5102992157
+  display_name: Yejin Choi
+  orcid: https://orcid.org/0000-0003-3032-5378
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I58610484
+    display_name: Seattle University
+    ror: https://ror.org/02jqc0m91
+    country_code: US
+    type: education
+  - id: https://openalex.org/I201448701
+    display_name: University of Washington
+    ror: https://ror.org/00cvxb145
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - University of Washington, Seattle, USA
+- author_id: https://openalex.org/A5047233371
+  display_name: Jianfeng Gao
+  orcid: https://orcid.org/0000-0002-6371-505X
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I1290206253
+    display_name: Microsoft (United States)
+    ror: https://ror.org/00d0nc645
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Corporation, Redmond, USA
+referenced_works:
+- https://openalex.org/W1527575280
+- https://openalex.org/W1861492603
+- https://openalex.org/W1905882502
+- https://openalex.org/W2062955551
+- https://openalex.org/W2109586012
+- https://openalex.org/W2117652747
+- https://openalex.org/W2123024445
+- https://openalex.org/W2124033848
+- https://openalex.org/W2185175083
+- https://openalex.org/W2187089797
+- https://openalex.org/W2277195237
+- https://openalex.org/W2302086703
+- https://openalex.org/W2527238922
+- https://openalex.org/W2560730294
+- https://openalex.org/W2613718673
+- https://openalex.org/W2745461083
+- https://openalex.org/W2886641317
+- https://openalex.org/W2899505139
+- https://openalex.org/W2962964995
+- https://openalex.org/W2963084599
+- https://openalex.org/W2963341956
+- https://openalex.org/W2963403868
+- https://openalex.org/W2963518342
+- https://openalex.org/W2963530300
+- https://openalex.org/W2964018924
+- https://openalex.org/W2970231061
+- https://openalex.org/W2970608575
+- https://openalex.org/W2981851019
+- https://openalex.org/W2986670728
+- https://openalex.org/W2990397898
+- https://openalex.org/W2995460200
+- https://openalex.org/W2997591391
+- https://openalex.org/W2998356391
+- https://openalex.org/W3001555892
+- https://openalex.org/W3034500398
+- https://openalex.org/W3034727271
+- https://openalex.org/W3104279398
+- https://openalex.org/W93016980
+primary_topic: Multimodal Machine Learning Applications
+open_access: false

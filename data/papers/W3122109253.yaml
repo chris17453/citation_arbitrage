@@ -1,0 +1,314 @@
+id: https://openalex.org/W3122109253
+doi: https://doi.org/10.12688/f1000research.29032.2
+title: Sustainable data analysis with Snakemake
+publication_date: '2021-04-19'
+publication_year: 2021
+cited_by_count: 1314
+citation_percentile: 0.998026
+pagerank: 2.66935240557826e-06
+authorships:
+- author_id: https://openalex.org/A5046976706
+  display_name: "Felix M\xF6lder"
+  orcid: https://orcid.org/0000-0002-3976-9701
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I62318514
+    display_name: University of Duisburg-Essen
+    ror: https://ror.org/04mz5ra38
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Algorithms for reproducible bioinformatics, Genome Informatics, Institute of Human
+    Genetics, University Hospital Essen, University of Duisburg-Essen, Essen, Germany
+  - Institute of Pathology, University Hospital Essen, University of Duisburg-Essen,
+    Essen, Germany
+- author_id: https://openalex.org/A5076345149
+  display_name: Kim Philipp Jablonski
+  orcid: https://orcid.org/0000-0002-4166-4343
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I35440088
+    display_name: ETH Zurich
+    ror: https://ror.org/05a28rw58
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland
+  - Swiss Institute of Bioinformatics (SIB), Basel, Switzerland
+- author_id: https://openalex.org/A5044840132
+  display_name: Brice Letcher
+  orcid: https://orcid.org/0000-0002-8921-6005
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - EMBL-EBI, Hinxton, UK
+- author_id: https://openalex.org/A5060869126
+  display_name: Michael B. Hall
+  orcid: https://orcid.org/0000-0003-3683-6208
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1303153112
+    display_name: European Bioinformatics Institute
+    ror: https://ror.org/02catss52
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - EMBL-EBI, Hinxton, UK
+- author_id: https://openalex.org/A5015468458
+  display_name: Christopher H. Tomkins-Tinch
+  orcid: https://orcid.org/0000-0002-9114-6421
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute of MIT and Harvard, Cambridge, USA
+  - Department of Organismic and Evolutionary Biology, Harvard University, Cambridge,
+    USA
+- author_id: https://openalex.org/A5088788949
+  display_name: Vanessa Sochat
+  orcid: https://orcid.org/0000-0002-4387-3819
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Stanford University Research Computing Center, Stanford University, Stanford,
+    USA
+- author_id: https://openalex.org/A5068028013
+  display_name: "Jan F\xF6rster"
+  orcid: https://orcid.org/0000-0002-1587-7732
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I17937529
+    display_name: German Cancer Research Center
+    ror: https://ror.org/04cdgtt98
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I223822909
+    display_name: Heidelberg University
+    ror: https://ror.org/038t36y30
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I62318514
+    display_name: University of Duisburg-Essen
+    ror: https://ror.org/04mz5ra38
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Algorithms for reproducible bioinformatics, Genome Informatics, Institute of Human
+    Genetics, University Hospital Essen, University of Duisburg-Essen, Essen, Germany
+  - German Cancer Consortium (DKTK, partner site Essen) and German Cancer Research
+    Center, DKFZ, Heidelberg, Germany
+- author_id: https://openalex.org/A5100443294
+  display_name: Soohyun Lee
+  orcid: https://orcid.org/0000-0002-3594-6213
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I111088046
+    display_name: Boston University
+    ror: https://ror.org/05qwgg493
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biomedical Informatics, Harvard Medical School, Harvard University, Boston, USA
+- author_id: https://openalex.org/A5036809473
+  display_name: Sven Twardziok
+  orcid: https://orcid.org/0000-0002-0326-5704
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4\
+    t Berlin, Humboldt-Universit\xE4t zu Berlin, and Berlin Institute of Health (BIH),\
+    \ Center for Digital Health, Berlin, Germany"
+- author_id: https://openalex.org/A5016824263
+  display_name: Alexander Kanitz
+  orcid: https://orcid.org/0000-0002-3468-0652
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1850255
+    display_name: University of Basel
+    ror: https://ror.org/02s6k3f65
+    country_code: CH
+    type: funder
+  - id: https://openalex.org/I12708293
+    display_name: SIB Swiss Institute of Bioinformatics
+    ror: https://ror.org/002n09z45
+    country_code: CH
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biozentrum, University of Basel, Basel, Switzerland
+  - SIB Swiss Institute of Bioinformatics / ELIXIR Switzerland, Lausanne, Switzerland
+- author_id: https://openalex.org/A5036376802
+  display_name: Andreas Wilm
+  orcid: https://orcid.org/0000-0002-7344-3764
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Microsoft Singapore, Singapore, Singapore
+- author_id: https://openalex.org/A5039159586
+  display_name: Manuel Holtgrewe
+  orcid: https://orcid.org/0000-0002-3051-1763
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210139777
+    display_name: "Berlin Institute of Health at Charit\xE9 - Universit\xE4tsmedizin\
+      \ Berlin"
+    ror: https://ror.org/0493xsw21
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "CUBI \u2013 Core Unit Bioinformatics, Berlin Institute of Health, Berlin, Germany"
+  - "Charit\xE9 - Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4\
+    t Berlin, Humboldt-Universit\xE4t zu Berlin, and Berlin Institute of Health (BIH),\
+    \ Center for Digital Health, Berlin, Germany"
+- author_id: https://openalex.org/A5059606670
+  display_name: Sven Rahmann
+  orcid: https://orcid.org/0000-0002-8536-6065
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I62318514
+    display_name: University of Duisburg-Essen
+    ror: https://ror.org/04mz5ra38
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genome Informatics, Institute of Human Genetics, University Hospital Essen, University
+    of Duisburg-Essen, Essen, Germany
+- author_id: https://openalex.org/A5008496386
+  display_name: Sven Nahnsen
+  orcid: https://orcid.org/0000-0002-4375-0691
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8087733
+    display_name: "University of T\xFCbingen"
+    ror: https://ror.org/03a1kwz48
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Quantitative Biology Center (QBiC), University of T\xFCbingen, T\xFCbingen, Germany"
+- author_id: https://openalex.org/A5005124395
+  display_name: "Johannes K\xF6ster"
+  orcid: https://orcid.org/0000-0001-9818-9320
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I62318514
+    display_name: University of Duisburg-Essen
+    ror: https://ror.org/04mz5ra38
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Algorithms for reproducible bioinformatics, Genome Informatics, Institute of Human
+    Genetics, University Hospital Essen, University of Duisburg-Essen, Essen, Germany
+  - Medical Oncology, Harvard Medical School, Harvard University, Boston, USA
+referenced_works:
+- https://openalex.org/W1509228788
+- https://openalex.org/W1600837990
+- https://openalex.org/W1835740130
+- https://openalex.org/W2004206314
+- https://openalex.org/W2066047894
+- https://openalex.org/W2067749416
+- https://openalex.org/W2096435507
+- https://openalex.org/W2097438318
+- https://openalex.org/W2110417468
+- https://openalex.org/W2123100726
+- https://openalex.org/W2136207878
+- https://openalex.org/W2342249984
+- https://openalex.org/W2406493898
+- https://openalex.org/W2502442987
+- https://openalex.org/W2539403003
+- https://openalex.org/W2560581264
+- https://openalex.org/W2570760970
+- https://openalex.org/W2605897695
+- https://openalex.org/W2607211817
+- https://openalex.org/W2613409207
+- https://openalex.org/W2630275926
+- https://openalex.org/W2732960953
+- https://openalex.org/W2765678881
+- https://openalex.org/W2765745983
+- https://openalex.org/W2790801434
+- https://openalex.org/W2883743899
+- https://openalex.org/W2917207851
+- https://openalex.org/W2917744165
+- https://openalex.org/W2945978829
+- https://openalex.org/W2949297597
+- https://openalex.org/W2949433290
+- https://openalex.org/W2952768760
+- https://openalex.org/W2978738432
+- https://openalex.org/W2998652703
+- https://openalex.org/W3036985277
+- https://openalex.org/W3195095031
+primary_topic: Scientific Computing and Data Management
+open_access: true

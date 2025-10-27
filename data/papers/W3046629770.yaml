@@ -1,0 +1,636 @@
+id: https://openalex.org/W3046629770
+doi: https://doi.org/10.1136/bmj.m3339
+title: 'Risk stratification of patients admitted to hospital with covid-19 using the
+  ISARIC WHO Clinical Characterisation Protocol: development and validation of the
+  4C Mortality Score'
+publication_date: '2020-09-09'
+publication_year: 2020
+cited_by_count: 959
+citation_percentile: 0.999954
+pagerank: 2.587540327634839e-06
+authorships:
+- author_id: https://openalex.org/A5050336641
+  display_name: Stephen R Knight
+  orcid: https://orcid.org/0000-0003-0448-3719
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+- author_id: https://openalex.org/A5055088853
+  display_name: Antonia Ho
+  orcid: https://orcid.org/0000-0003-1465-3785
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210146449
+    display_name: MRC University of Glasgow Centre for Virus Research
+    ror: https://ror.org/03vaer060
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I90344618
+    display_name: Medical Research Council
+    ror: https://ror.org/03x94j517
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I4210158502
+    display_name: Queen Elizabeth University Hospital
+    ror: https://ror.org/04y0x0x35
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infectious Diseases, Queen Elizabeth University Hospital, Glasgow,
+    UK
+  - Medical Research Council, University of Glasgow Centre for Virus Research, Glasgow,
+    UK
+- author_id: https://openalex.org/A5063025140
+  display_name: Riinu Pius
+  orcid: https://orcid.org/0000-0002-8738-4902
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+- author_id: https://openalex.org/A5011177296
+  display_name: Iain Buchan
+  orcid: https://orcid.org/0000-0003-3392-1650
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Population Health Sciences, University of Liverpool, Liverpool, UK
+- author_id: https://openalex.org/A5062294816
+  display_name: Gail Carson
+  orcid: https://orcid.org/0000-0001-8439-9933
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ISARIC Global Support Centre, Centre for Tropical Medicine and Global Health,
+    Nuffield Department of Medicine, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5056927941
+  display_name: Thomas M Drake
+  orcid: https://orcid.org/0000-0002-9334-6494
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+- author_id: https://openalex.org/A5073413119
+  display_name: Jake Dunning
+  orcid: https://orcid.org/0000-0002-4035-4562
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I348769827
+    display_name: Public Health England
+    ror: https://ror.org/00vbvha87
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Heart and Lung Institute, Imperial College London, London, UK
+  - National Infection Service, Public Health England, London, UK
+- author_id: https://openalex.org/A5110592430
+  display_name: Cameron J Fairfield
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+- author_id: https://openalex.org/A5000981717
+  display_name: Carrol Gamble
+  orcid: https://orcid.org/0000-0002-3021-1955
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Liverpool Clinical Trials Centre, University of Liverpool, Liverpool, UK
+- author_id: https://openalex.org/A5100783055
+  display_name: Christopher Green
+  orcid: https://orcid.org/0000-0002-1984-4014
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I79619799
+    display_name: University of Birmingham
+    ror: https://ror.org/03angcq70
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Microbiology & Infection, University of Birmingham, Birmingham, UK
+- author_id: https://openalex.org/A5077873421
+  display_name: Rishi K Gupta
+  orcid: https://orcid.org/0000-0002-6257-1285
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Global Health, University College London, London, UK
+- author_id: https://openalex.org/A5070905546
+  display_name: Sophie Halpin
+  orcid: https://orcid.org/0000-0003-1310-2594
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Liverpool Clinical Trials Centre, University of Liverpool, Liverpool, UK
+- author_id: https://openalex.org/A5023171939
+  display_name: Hayley Hardwick
+  orcid: https://orcid.org/0000-0003-3421-6435
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210165020
+    display_name: Health Protection Research Unit in Emerging and Zoonotic Infections
+      at University of Liverpool
+    ror: https://ror.org/05vvt7a66
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit, Institute of Infection, Veterinary and Ecological
+    Sciences, Faculty of Health and Life Sciences, University of Liverpool, Liverpool,
+    UK
+- author_id: https://openalex.org/A5010494934
+  display_name: Karl Holden
+  orcid: https://orcid.org/0000-0002-1420-8959
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165020
+    display_name: Health Protection Research Unit in Emerging and Zoonotic Infections
+      at University of Liverpool
+    ror: https://ror.org/05vvt7a66
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit, Institute of Infection, Veterinary and Ecological
+    Sciences, Faculty of Health and Life Sciences, University of Liverpool, Liverpool,
+    UK
+- author_id: https://openalex.org/A5055026576
+  display_name: Peter Horby
+  orcid: https://orcid.org/0000-0002-9822-1586
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ISARIC Global Support Centre, Centre for Tropical Medicine and Global Health,
+    Nuffield Department of Medicine, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5013792340
+  display_name: Clare Jackson
+  orcid: https://orcid.org/0000-0002-1968-0961
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Liverpool Clinical Trials Centre, University of Liverpool, Liverpool, UK
+- author_id: https://openalex.org/A5044537613
+  display_name: Kenneth A McLean
+  orcid: https://orcid.org/0000-0001-6482-9086
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+- author_id: https://openalex.org/A5074778109
+  display_name: Laura Merson
+  orcid: https://orcid.org/0000-0002-4168-1960
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - ISARIC Global Support Centre, Centre for Tropical Medicine and Global Health,
+    Nuffield Department of Medicine, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5011296226
+  display_name: "Jonathan S. Nguyen\u2010Van\u2010Tam"
+  orcid: https://orcid.org/0000-0003-2579-4655
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142263535
+    display_name: University of Nottingham
+    ror: https://ror.org/01ee9ar58
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Epidemiology and Public Health, University of Nottingham School of
+    Medicine, Nottingham, UK
+- author_id: https://openalex.org/A5056034140
+  display_name: Lisa Norman
+  orcid: https://orcid.org/0000-0002-3490-2788
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+- author_id: https://openalex.org/A5015508529
+  display_name: Mahdad Noursadeghi
+  orcid: https://orcid.org/0000-0002-4774-0853
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I45129253
+    display_name: University College London
+    ror: https://ror.org/02jx3x895
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Infection and Immunity, University College London, London, UK
+- author_id: https://openalex.org/A5054185332
+  display_name: Piero Olliaro
+  orcid: https://orcid.org/0000-0003-1426-3680
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine,
+    University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5044700152
+  display_name: Mark G. Pritchard
+  orcid: https://orcid.org/0000-0003-1726-8989
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine,
+    University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5083925448
+  display_name: Clark D Russell
+  orcid: https://orcid.org/0000-0002-9873-8243
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210164624
+    display_name: The Queen's Medical Research Institute
+    ror: https://ror.org/059zxg644
+    country_code: GB
+    type: government
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Queen's Medical Research Institute, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5054483874
+  display_name: Catherine A. Shaw
+  orcid: https://orcid.org/0000-0002-2381-7879
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+- author_id: https://openalex.org/A5026215303
+  display_name: Aziz Sheikh
+  orcid: https://orcid.org/0000-0001-7022-3056
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+- author_id: https://openalex.org/A5107903421
+  display_name: Tom Solomon
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2802833755
+    display_name: Walton Centre
+    ror: https://ror.org/05cvxat96
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210165020
+    display_name: Health Protection Research Unit in Emerging and Zoonotic Infections
+      at University of Liverpool
+    ror: https://ror.org/05vvt7a66
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit, Institute of Infection, Veterinary and Ecological
+    Sciences, Faculty of Health and Life Sciences, University of Liverpool, Liverpool,
+    UK
+  - Walton Centre NHS Foundation Trust, Liverpool, UK
+- author_id: https://openalex.org/A5081850154
+  display_name: Cathie Sudlow
+  orcid: https://orcid.org/0000-0002-7725-7520
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210142469
+    display_name: Health Data Research UK
+    ror: https://ror.org/04rtjaj74
+    country_code: GB
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Health Data Research UK, London, UK
+- author_id: https://openalex.org/A5027762731
+  display_name: Olivia Swann
+  orcid: https://orcid.org/0000-0001-7386-2849
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Child Life and Health, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5086446779
+  display_name: Lance Turtle
+  orcid: https://orcid.org/0000-0002-0778-1693
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2802775644
+    display_name: Royal Liverpool University Hospital
+    ror: https://ror.org/01ycr6b80
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210165020
+    display_name: Health Protection Research Unit in Emerging and Zoonotic Infections
+      at University of Liverpool
+    ror: https://ror.org/05vvt7a66
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit, Institute of Infection, Veterinary and Ecological
+    Sciences, Faculty of Health and Life Sciences, University of Liverpool, Liverpool,
+    UK
+  - Tropical & Infectious Disease Unit, Royal Liverpool University Hospital, Liverpool,
+    UK
+- author_id: https://openalex.org/A5014502334
+  display_name: Peter Openshaw
+  orcid: https://orcid.org/0000-0002-7220-2555
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I47508984
+    display_name: Imperial College London
+    ror: https://ror.org/041kmwe10
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Heart and Lung Institute, Imperial College London, London, UK
+- author_id: https://openalex.org/A5030523023
+  display_name: J. Kenneth Baillie
+  orcid: https://orcid.org/0000-0001-5258-793X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I133960621
+    display_name: Roslin Institute
+    ror: https://ror.org/01920rj20
+    country_code: GB
+    type: facility
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2802789809
+    display_name: Edinburgh Royal Infirmary
+    ror: https://ror.org/009bsy196
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Intensive Care Unit, Royal Infirmary Edinburgh, Edinburgh, UK
+  - Roslin Institute, University of Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5055086010
+  display_name: Malcolm G. Semple
+  orcid: https://orcid.org/0000-0001-9700-0418
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146655781
+    display_name: University of Liverpool
+    ror: https://ror.org/04xs57h96
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I4210157731
+    display_name: Alder Hey Children's Hospital
+    ror: https://ror.org/04z61sd03
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I4210165020
+    display_name: Health Protection Research Unit in Emerging and Zoonotic Infections
+      at University of Liverpool
+    ror: https://ror.org/05vvt7a66
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - NIHR Health Protection Research Unit, Institute of Infection, Veterinary and Ecological
+    Sciences, Faculty of Health and Life Sciences, University of Liverpool, Liverpool,
+    UK
+  - Respiratory Medicine, Alder Hey Children's Hospital, Institute in The Park, University
+    of Liverpool, Alder Hey Children's Hospital, Liverpool L12 2AP, UK
+- author_id: https://openalex.org/A5027825584
+  display_name: Annemarie B Docherty
+  orcid: https://orcid.org/0000-0001-8277-420X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  - id: https://openalex.org/I2802789809
+    display_name: Edinburgh Royal Infirmary
+    ror: https://ror.org/009bsy196
+    country_code: GB
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+  - Intensive Care Unit, Royal Infirmary Edinburgh, Edinburgh, UK
+- author_id: https://openalex.org/A5075334231
+  display_name: Ewen M. Harrison
+  orcid: https://orcid.org/0000-0002-5018-3066
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I98677209
+    display_name: University of Edinburgh
+    ror: https://ror.org/01nrxwf90
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Centre for Medical Informatics, The Usher Institute, University of Edinburgh,
+    Edinburgh, UK
+  - Department of Clinical Surgery, University of Edinburgh, Edinburgh, UK
+referenced_works:
+- https://openalex.org/W1898928487
+- https://openalex.org/W1980276147
+- https://openalex.org/W1982803182
+- https://openalex.org/W1994682257
+- https://openalex.org/W2000445173
+- https://openalex.org/W2006940889
+- https://openalex.org/W2008706768
+- https://openalex.org/W2010921812
+- https://openalex.org/W2024799458
+- https://openalex.org/W2045030989
+- https://openalex.org/W2046913702
+- https://openalex.org/W2065974896
+- https://openalex.org/W2071637551
+- https://openalex.org/W2082346108
+- https://openalex.org/W2102361557
+- https://openalex.org/W2107000252
+- https://openalex.org/W2107978811
+- https://openalex.org/W2119518734
+- https://openalex.org/W2119910794
+- https://openalex.org/W2133008785
+- https://openalex.org/W2141517745
+- https://openalex.org/W2171642892
+- https://openalex.org/W2280404143
+- https://openalex.org/W2303979142
+- https://openalex.org/W2320270386
+- https://openalex.org/W2624667018
+- https://openalex.org/W3008090866
+- https://openalex.org/W3008145948
+- https://openalex.org/W3012413426
+- https://openalex.org/W3012536434
+- https://openalex.org/W3013042152
+- https://openalex.org/W3013125498
+- https://openalex.org/W3013716101
+- https://openalex.org/W3013957175
+- https://openalex.org/W3014524604
+- https://openalex.org/W3016182787
+- https://openalex.org/W3017002108
+- https://openalex.org/W3017792836
+- https://openalex.org/W3021679963
+- https://openalex.org/W3024853795
+- https://openalex.org/W3026764413
+- https://openalex.org/W3027456712
+- https://openalex.org/W3032616538
+- https://openalex.org/W3036202033
+- https://openalex.org/W3044144174
+- https://openalex.org/W3087855548
+- https://openalex.org/W3135243128
+- https://openalex.org/W4210482652
+- https://openalex.org/W4233026002
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

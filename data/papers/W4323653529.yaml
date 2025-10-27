@@ -1,0 +1,2729 @@
+id: https://openalex.org/W4323653529
+doi: https://doi.org/10.1021/acsnano.2c12606
+title: Technology Roadmap for Flexible Sensors
+publication_date: '2023-03-09'
+publication_year: 2023
+cited_by_count: 885
+citation_percentile: 0.999307
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5020317042
+  display_name: Yifei Luo
+  orcid: https://orcid.org/0000-0002-4454-6318
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210123095
+    display_name: Institute of Materials Research and Engineering
+    ror: https://ror.org/02sepg748
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I115228651
+    display_name: Agency for Science, Technology and Research
+    ror: https://ror.org/036wvzt09
+    country_code: SG
+    type: government
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Innovative Centre for Flexible Devices (iFLEX), School of Materials Science and
+    Engineering, Nanyang Technological University, Singapore 639798, Singapore
+  - 'Institute of Materials Research and Engineering (IMRE), Agency for Science, Technology
+    and Research (A*STAR), 2 Fusionopolis Way, #08-03 Innovis, Singapore 138634, Republic
+    of Singapore'
+- author_id: https://openalex.org/A5022864217
+  display_name: Mohammad Reza Abidian
+  orcid: https://orcid.org/0000-0001-5696-5379
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I44461941
+    display_name: University of Houston
+    ror: https://ror.org/048sx0r50
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, University of Houston, Houston, Texas 77024,
+    United States
+- author_id: https://openalex.org/A5084678270
+  display_name: "Jong\u2010Hyun Ahn"
+  orcid: https://orcid.org/0000-0002-8135-7719
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I193775966
+    display_name: Yonsei University
+    ror: https://ror.org/01wjejq96
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Electrical and Electronic Engineering, Yonsei University, Seoul 03722,
+    Republic of Korea
+- author_id: https://openalex.org/A5063313700
+  display_name: Deji Akinwande
+  orcid: https://orcid.org/0000-0001-7133-5586
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I86519309
+    display_name: The University of Texas at Austin
+    ror: https://ror.org/00hj54h04
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, The University of Texas at
+    Austin, Austin, Texas 78712, United States
+  - Microelectronics Research Center, The University of Texas at Austin, Austin, Texas
+    78758, United States
+- author_id: https://openalex.org/A5058938189
+  display_name: Anne M. Andrews
+  orcid: https://orcid.org/0000-0002-1961-4833
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142207940
+    display_name: California NanoSystems Institute
+    ror: https://ror.org/00q7fqf35
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, California NanoSystems Institute, and
+    Department of Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience
+    and Human Behavior, and Hatos Center for Neuropharmacology, University of California,
+    Los Angeles, Los Angeles, California 90095, United States
+- author_id: https://openalex.org/A5075963769
+  display_name: Markus Antonietti
+  orcid: https://orcid.org/0000-0002-8395-7558
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210092306
+    display_name: Max Planck Institute of Colloids and Interfaces
+    ror: https://ror.org/00pwgnh47
+    country_code: DE
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Colloid Chemistry Department, Max Planck Institute of Colloids and Interfaces,
+    14476 Potsdam, Germany
+- author_id: https://openalex.org/A5100384245
+  display_name: Zhenan Bao
+  orcid: https://orcid.org/0000-0002-0972-1715
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemical Engineering, Stanford University, Stanford, California
+    94305, United States
+- author_id: https://openalex.org/A5088574290
+  display_name: Magnus Berggren
+  orcid: https://orcid.org/0000-0001-5154-0291
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210124641
+    display_name: Wallenberg Wood Science Center
+    ror: https://ror.org/039qvmf95
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Wallenberg Initiative Materials Science for Sustainability (WISE) and Wallenberg
+    Wood Science Center (WWSC), SE-100 44 Stockholm, Sweden
+- author_id: https://openalex.org/A5046743024
+  display_name: Christopher A. Berkey
+  orcid: https://orcid.org/0000-0002-5106-769X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Stanford University, Stanford,
+    California 94301, United States
+- author_id: https://openalex.org/A5086624192
+  display_name: Christopher J. Bettinger
+  orcid: https://orcid.org/0000-0002-6564-5681
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74973139
+    display_name: Carnegie Mellon University
+    ror: https://ror.org/05x2bcf33
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering and Department of Materials Science and Engineering,
+    Carnegie Mellon University, Pittsburgh, Pennsylvania 15213, United States
+- author_id: https://openalex.org/A5100450180
+  display_name: Jun Chen
+  orcid: https://orcid.org/0000-0002-3439-0495
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Los Angeles, Los Angeles,
+    California 90095, United States
+- author_id: https://openalex.org/A5100710058
+  display_name: Peng Chen
+  orcid: https://orcid.org/0000-0001-8527-1210
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological
+    University, Singapore 637457, Singapore
+- author_id: https://openalex.org/A5081896015
+  display_name: Wenlong Cheng
+  orcid: https://orcid.org/0000-0002-2346-4970
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I56590836
+    display_name: Monash University
+    ror: https://ror.org/02bfwt286
+    country_code: AU
+    type: funder
+  - id: https://openalex.org/I60733029
+    display_name: Monash Institute of Medical Research
+    ror: https://ror.org/05p96ba03
+    country_code: AU
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Monash Institute of Medical Engineering, Monash University, Clayton, Australia3800
+  - Nanobionics Group, Department of Chemical and Biological Engineering, Monash University,
+    Clayton, Australia, 3800
+- author_id: https://openalex.org/A5006296702
+  display_name: Xu Cheng
+  orcid: https://orcid.org/0000-0001-7536-945X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Applied Mechanics Laboratory, Department of Engineering Mechanics, Laboratory
+    of Flexible Electronics Technology, Tsinghua University, Beijing 100084, PR China
+- author_id: https://openalex.org/A5040774967
+  display_name: "Seon\u2010Jin Choi"
+  orcid: https://orcid.org/0000-0001-8567-0668
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I93906172
+    display_name: Anyang University
+    ror: https://ror.org/018pdh902
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I4575257
+    display_name: Hanyang University
+    ror: https://ror.org/046865y68
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Division of Materials of Science and Engineering, Hanyang University, 222 Wangsimni-ro,
+    Seongdong-gu, Seoul 04763, Republic of Korea
+- author_id: https://openalex.org/A5058767039
+  display_name: Alex Chortos
+  orcid: https://orcid.org/0000-0003-3976-5257
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I219193219
+    display_name: Purdue University West Lafayette
+    ror: https://ror.org/02dqehb95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Mechanical Engineering, Purdue University, West Lafayette, Indiana 47906,
+    United States
+- author_id: https://openalex.org/A5041112647
+  display_name: "Canan Da\u011Fdeviren"
+  orcid: https://orcid.org/0000-0002-2032-792X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I63966007
+    display_name: Massachusetts Institute of Technology
+    ror: https://ror.org/042nb2s44
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Media Lab, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139,
+    United States
+- author_id: https://openalex.org/A5065203509
+  display_name: Reinhold H. Dauskardt
+  orcid: https://orcid.org/0000-0003-3989-362X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I97018004
+    display_name: Stanford University
+    ror: https://ror.org/00f54p054
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Stanford University, Stanford,
+    California 94301, United States
+- author_id: https://openalex.org/A5005055349
+  display_name: "Chong\u2010an Di"
+  orcid: https://orcid.org/0000-0002-6183-1321
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210116048
+    display_name: Beijing National Laboratory for Molecular Sciences
+    ror: https://ror.org/02601yx74
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210155088
+    display_name: Institute of Chemistry
+    ror: https://ror.org/048y1rc66
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Beijing National Laboratory for Molecular Sciences, CAS Key Laboratory of Organic
+    Solids, Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190, China
+- author_id: https://openalex.org/A5083975325
+  display_name: Michael D. Dickey
+  orcid: https://orcid.org/0000-0003-1251-1871
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I137902535
+    display_name: North Carolina State University
+    ror: https://ror.org/04tj63d06
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemical and Biomolecular Engineering, North Carolina State University,
+    Raleigh, North Carolina 27606, United States
+- author_id: https://openalex.org/A5019924793
+  display_name: Xiangfeng Duan
+  orcid: https://orcid.org/0000-0002-4321-6288
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142207940
+    display_name: California NanoSystems Institute
+    ror: https://ror.org/00q7fqf35
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, California NanoSystems Institute, University
+    of California, Los Angeles, Los Angeles, California 90095, United States
+- author_id: https://openalex.org/A5055968109
+  display_name: Antonio Facchetti
+  orcid: https://orcid.org/0000-0002-8175-7958
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111979921
+    display_name: Northwestern University
+    ror: https://ror.org/000e0be47
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and the Materials Research Center, Northwestern University,
+    Evanston, Illinois 60208, United States
+- author_id: https://openalex.org/A5061509885
+  display_name: Zhiyong Fan
+  orcid: https://orcid.org/0000-0002-5397-0129
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I200769079
+    display_name: Hong Kong University of Science and Technology
+    ror: https://ror.org/00q4vv597
+    country_code: HK
+    type: funder
+  - id: https://openalex.org/I889458895
+    display_name: University of Hong Kong
+    ror: https://ror.org/02zhqgq86
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electronic and Computer Engineering and Department of Chemical and
+    Biological Engineering, The Hong Kong University of Science and Technology, Clear
+    Water Bay, Kowloon, Hong Kong SAR, China
+- author_id: https://openalex.org/A5036148357
+  display_name: Yin Fang
+  orcid: https://orcid.org/0000-0003-4688-6700
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological
+    University, Singapore 637457, Singapore
+- author_id: https://openalex.org/A5067402282
+  display_name: Jianyou Feng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular
+    Science, and Laboratory of Advanced Materials, Fudan University, Shanghai 200438,
+    PR China
+- author_id: https://openalex.org/A5019733187
+  display_name: Xue Feng
+  orcid: https://orcid.org/0000-0001-9242-8474
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Laboratory of Flexible Electronics Technology, Department of Engineering Mechanics,
+    Tsinghua University, Beijing 100084, China
+- author_id: https://openalex.org/A5001073146
+  display_name: Huajian Gao
+  orcid: https://orcid.org/0000-0002-8656-846X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I3004594783
+    display_name: Institute of High Performance Computing
+    ror: https://ror.org/02n0ejh50
+    country_code: SG
+    type: facility
+  - id: https://openalex.org/I115228651
+    display_name: Agency for Science, Technology and Research
+    ror: https://ror.org/036wvzt09
+    country_code: SG
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'Institute of High Performance Computing (IHPC), Agency for Science, Technology
+    and Research (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632,
+    Republic of Singapore'
+  - School of Mechanical and Aerospace Engineering, Nanyang Technological University,
+    Singapore 639798, Singapore
+- author_id: https://openalex.org/A5079273603
+  display_name: Wei Gao
+  orcid: https://orcid.org/0000-0002-8503-4562
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I122411786
+    display_name: California Institute of Technology
+    ror: https://ror.org/05dxps055
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Andrew and Peggy Cherng Department of Medical Engineering, California Institute
+    of Technology, Pasadena, California, 91125, United States
+- author_id: https://openalex.org/A5048851485
+  display_name: Xiwen Gong
+  orcid: https://orcid.org/0000-0003-4004-1299
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I27837315
+    display_name: University of Michigan
+    ror: https://ror.org/00jmfr291
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemical Engineering, Department of Materials Science and Engineering,
+    Department of Electrical Engineering and Computer Science, Applied Physics Program,
+    and Macromolecular Science and Engineering Program, University of Michigan, Ann
+    Arbor, Michigan, 48109 United States
+- author_id: https://openalex.org/A5059618028
+  display_name: Chuan Fei Guo
+  orcid: https://orcid.org/0000-0003-4513-3117
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3045169105
+    display_name: Southern University of Science and Technology
+    ror: https://ror.org/049tv2d57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Southern University of Science
+    and Technology, Shenzhen 518055, China
+- author_id: https://openalex.org/A5100750078
+  display_name: Xiaojun Guo
+  orcid: https://orcid.org/0000-0003-3946-9458
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - National Key Laboratory of Science and Technology on Micro/Nano Fabrication, School
+    of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University,
+    Shanghai 200240, China
+- author_id: https://openalex.org/A5017547352
+  display_name: Martin C. Hartel
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Bioengineering, University of California, Los Angeles, Los Angeles,
+    California 90095, United States
+- author_id: https://openalex.org/A5043800457
+  display_name: Zihan He
+  orcid: https://orcid.org/0000-0002-8425-4002
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210155088
+    display_name: Institute of Chemistry
+    ror: https://ror.org/048y1rc66
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210116048
+    display_name: Beijing National Laboratory for Molecular Sciences
+    ror: https://ror.org/02601yx74
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Beijing National Laboratory for Molecular Sciences, CAS Key Laboratory of Organic
+    Solids, Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190, China
+- author_id: https://openalex.org/A5082590253
+  display_name: John S. Ho
+  orcid: https://orcid.org/0000-0002-9458-9033
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, National University of Singapore,
+    Singapore 117583, Singapore
+  - Institute for Health Innovation and Technology, National University of Singapore,
+    Singapore 117599, Singapore
+  - The N.1 Institute for Health, National University of Singapore, Singapore 117456,
+    Singapore
+- author_id: https://openalex.org/A5002324591
+  display_name: Youfan Hu
+  orcid: https://orcid.org/0000-0001-9798-1631
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I20231570
+    display_name: Peking University
+    ror: https://ror.org/02v51f717
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Electronics and Center for Carbon-Based Electronics, Peking University,
+    Beijing 100871, China
+- author_id: https://openalex.org/A5060652830
+  display_name: Qiyao Huang
+  orcid: https://orcid.org/0000-0001-8233-1804
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I14243506
+    display_name: Hong Kong Polytechnic University
+    ror: https://ror.org/0030zas98
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Fashion and Textiles, The Hong Kong Polytechnic University, Hung Hom,
+    Kowloon, Hong Kong SAR, China
+- author_id: https://openalex.org/A5041318946
+  display_name: Yu Huang
+  orcid: https://orcid.org/0000-0003-1793-0741
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142207940
+    display_name: California NanoSystems Institute
+    ror: https://ror.org/00q7fqf35
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, California NanoSystems Institute,
+    University of California, Los Angeles, Los Angeles, California 90095, United States
+- author_id: https://openalex.org/A5003241944
+  display_name: Fengwei Huo
+  orcid: https://orcid.org/0000-0002-5318-4267
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I134687103
+    display_name: Nanjing Tech University
+    ror: https://ror.org/03sd35x91
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Flexible Electronics (KLOFE) and Institute of Advanced Materials
+    (IAM), Nanjing Tech University (NanjingTech), 30 South Puzhu Road, Nanjing 211816,
+    PR China
+- author_id: https://openalex.org/A5071074171
+  display_name: Muhammad M. Hussain
+  orcid: https://orcid.org/0000-0003-3279-0441
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I219193219
+    display_name: Purdue University West Lafayette
+    ror: https://ror.org/02dqehb95
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - mmh Labs, Elmore Family School of Electrical and Computer Engineering, Purdue
+    University, West Lafayette, Indiana 47906, United States
+- author_id: https://openalex.org/A5038446954
+  display_name: Ali Javey
+  orcid: https://orcid.org/0000-0001-7214-7931
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I148283060
+    display_name: Lawrence Berkeley National Laboratory
+    ror: https://ror.org/02jbv0t02
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I95457486
+    display_name: University of California, Berkeley
+    ror: https://ror.org/01an7q238
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Electrical Engineering and Computer Sciences, University of California, Berkeley,
+    California 94720, United States
+  - Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley,
+    California 94720, United States
+- author_id: https://openalex.org/A5044219595
+  display_name: Unyong Jeong
+  orcid: https://orcid.org/0000-0002-7519-7595
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I123900574
+    display_name: Pohang University of Science and Technology
+    ror: https://ror.org/04xysgw12
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Pohang University of Science
+    and Engineering (POSTECH), Pohang, Gyeong-buk 37673, Korea
+- author_id: https://openalex.org/A5023068249
+  display_name: Chen Jiang
+  orcid: https://orcid.org/0000-0002-6806-5324
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electronic Engineering, Tsinghua University, Beijing 100084, China
+- author_id: https://openalex.org/A5075755018
+  display_name: Xingyu Jiang
+  orcid: https://orcid.org/0000-0002-5008-4703
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3045169105
+    display_name: Southern University of Science and Technology
+    ror: https://ror.org/049tv2d57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Southern University of Science and Technology,
+    No 1088, Xueyuan Road, Xili, Nanshan District, Shenzhen, Guangdong 518055, PR
+    China
+- author_id: https://openalex.org/A5043853671
+  display_name: Jiheong Kang
+  orcid: https://orcid.org/0000-0003-4446-5494
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157485424
+    display_name: Korea Advanced Institute of Science and Technology
+    ror: https://ror.org/05apxxy63
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Korea Advanced Institute of Science
+    and Technology (KAIST), Daejeon 34141, Republic of Korea
+- author_id: https://openalex.org/A5023624015
+  display_name: Daniil Karnaushenko
+  orcid: https://orcid.org/0000-0003-3127-1527
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2610724
+    display_name: Chemnitz University of Technology
+    ror: https://ror.org/00a208s56
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Center for Materials, Architectures and Integration of Nanomembranes
+    (MAIN), Chemnitz University of Technology, Chemnitz 09126, Germany
+- author_id: https://openalex.org/A5033056518
+  display_name: Ali Khademhosseini
+  orcid: https://orcid.org/0000-0002-2692-1524
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097936
+    display_name: Terasaki Foundation
+    ror: https://ror.org/012381002
+    country_code: US
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Terasaki Institute for Biomedical Innovation, Los Angeles, CA, USA
+- author_id: https://openalex.org/A5079017148
+  display_name: "Dae\u2010Hyeong Kim"
+  orcid: https://orcid.org/0000-0002-4722-1893
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104335
+    display_name: Institute for Basic Science
+    ror: https://ror.org/00y0zf565
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I139264467
+    display_name: Seoul National University
+    ror: https://ror.org/04h9pn542
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Nanoparticle Research, Institute for Basic Science (IBS), School of
+    Chemical and Biological Engineering, Seoul National University, Seoul 08826, Republic
+    of Korea
+- author_id: https://openalex.org/A5028265287
+  display_name: "Il\u2010Doo Kim"
+  orcid: https://orcid.org/0000-0002-9970-2218
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I157485424
+    display_name: Korea Advanced Institute of Science and Technology
+    ror: https://ror.org/05apxxy63
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Korea Advanced Institute of Science
+    and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of
+    Korea
+- author_id: https://openalex.org/A5010096709
+  display_name: Dmitry Kireev
+  orcid: https://orcid.org/0000-0003-1499-5435
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I86519309
+    display_name: The University of Texas at Austin
+    ror: https://ror.org/00hj54h04
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, The University of Texas at
+    Austin, Austin, Texas 78712, United States
+  - Microelectronics Research Center, The University of Texas at Austin, Austin, Texas
+    78758, United States
+- author_id: https://openalex.org/A5023494793
+  display_name: Lingxuan Kong
+  orcid: https://orcid.org/0000-0002-6425-6510
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological
+    University, Singapore 637457, Singapore
+- author_id: https://openalex.org/A5084452777
+  display_name: Chengkuo Lee
+  orcid: https://orcid.org/0000-0002-8886-3649
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I4210125878
+    display_name: Suzhou Research Institute
+    ror: https://ror.org/03ebk0c60
+    country_code: CN
+    type: facility
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Intelligent Sensors and MEMS (CISM), National University of Singapore,
+    Singapore 117608, Singapore
+  - Department of Electrical and Computer Engineering, National University of Singapore,
+    Singapore 117583, Singapore
+  - NUS Graduate School-Integrative Sciences and Engineering Programme (ISEP), National
+    University of Singapore, Singapore 119077, Singapore
+  - National University of Singapore Suzhou Research Institute (NUSRI), Suzhou Industrial
+    Park, Suzhou 215123, China
+- author_id: https://openalex.org/A5005799740
+  display_name: "Nae\u2010Eung Lee"
+  orcid: https://orcid.org/0000-0002-6539-5010
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Advanced Materials Science and Engineering, Sungkyunkwan University,
+    Suwon, Kyunggi-do 16419, Republic of Korea
+- author_id: https://openalex.org/A5079813961
+  display_name: Pooi See Lee
+  orcid: https://orcid.org/0000-0003-1383-1623
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I172675005
+    display_name: Nanyang Technological University
+    ror: https://ror.org/02e7b5302
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I4210086881
+    display_name: Singapore-HUJ Alliance for Research and Enterprise
+    ror: https://ror.org/002pnw495
+    country_code: SG
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Materials Science and Engineering, Nanyang Technological University,
+    Singapore 639798, Singapore
+  - Singapore-HUJ Alliance for Research and Enterprise (SHARE), Campus for Research
+    Excellence and Technological Enterprise (CREATE), Singapore 138602, Singapore
+- author_id: https://openalex.org/A5018416042
+  display_name: "Tae\u2010Woo Lee"
+  orcid: https://orcid.org/0000-0002-6449-6725
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I139264467
+    display_name: Seoul National University
+    ror: https://ror.org/04h9pn542
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Seoul National University, Seoul
+    08826, Republic of Korea
+  - Institute of Engineering Research, Research Institute of Advanced Materials, Seoul
+    National University, Soft Foundry, Seoul 08826, Republic of Korea
+  - Interdisciplinary Program in Bioengineering, Seoul National University, Seoul
+    08826, Republic of Korea
+  - School of Chemical and Biological Engineering, Seoul National University, Seoul
+    08826, Republic of Korea
+- author_id: https://openalex.org/A5110520445
+  display_name: Fengyu Li
+  orcid: https://orcid.org/0000-0003-2481-6111
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I159948400
+    display_name: Jinan University
+    ror: https://ror.org/02xe5ns62
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - College of Chemistry and Materials Science, Jinan University, Guangzhou, Guangdong
+    510632, China
+- author_id: https://openalex.org/A5100753463
+  display_name: Jinxing Li
+  orcid: https://orcid.org/0000-0003-1390-3711
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I87216513
+    display_name: Michigan State University
+    ror: https://ror.org/05hs6h993
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Department of Electrical and Computer Engineering,
+    Neuroscience Program, BioMolecular Science Program, and Institute for Quantitative
+    Health Science and Engineering, Michigan State University, East Lansing, Michigan
+    48823, United States
+- author_id: https://openalex.org/A5040405028
+  display_name: Cuiyuan Liang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204983213
+    display_name: Harbin Institute of Technology
+    ror: https://ror.org/01yqg2h08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Chemistry and Chemical Engineering, Harbin Institute of Technology,
+    Harbin, Heilongjiang 150001, China
+- author_id: https://openalex.org/A5031498697
+  display_name: Chwee Teck Lim
+  orcid: https://orcid.org/0000-0003-4019-9782
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, National University of Singapore, Singapore
+    117583, Singapore
+  - Institute for Health Innovation and Technology, National University of Singapore,
+    Singapore 119276, Singapore
+  - Mechanobiology Institute, National University of Singapore, Singapore 117411,
+    Singapore
+- author_id: https://openalex.org/A5012624078
+  display_name: Yuanjing Lin
+  orcid: https://orcid.org/0000-0002-8568-1786
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3045169105
+    display_name: Southern University of Science and Technology
+    ror: https://ror.org/049tv2d57
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Microelectronics, Southern University of Science and Technology, Shenzhen
+    518055, China
+- author_id: https://openalex.org/A5090795415
+  display_name: Darren J. Lipomi
+  orcid: https://orcid.org/0000-0002-5808-7765
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I36258959
+    display_name: University of California, San Diego
+    ror: https://ror.org/0168r3w48
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Nano and Chemical Engineering, University of California, San Diego,
+    La Jolla, California 92093-0448, United States
+- author_id: https://openalex.org/A5100409757
+  display_name: Jia Liu
+  orcid: https://orcid.org/0000-0003-2217-6982
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - John A. Paulson School of Engineering and Applied Sciences, Harvard University,
+    Boston, Massachusetts, 02134, United States
+- author_id: https://openalex.org/A5032200592
+  display_name: Kai Liu
+  orcid: https://orcid.org/0000-0002-8503-7659
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Chemistry and Chemical Engineering, Frontiers Science Center for Transformative
+    Molecules, Shanghai Jiao Tong University, Shanghai 200240, PR China
+- author_id: https://openalex.org/A5100367532
+  display_name: Nan Liu
+  orcid: https://orcid.org/0000-0002-1793-7372
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I25254941
+    display_name: Beijing Normal University
+    ror: https://ror.org/022k4wk35
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Beijing Key Laboratory of Energy Conversion and Storage Materials, College of
+    Chemistry, Beijing Normal University, Beijing 100875, PR China
+- author_id: https://openalex.org/A5100389632
+  display_name: Ren Liu
+  orcid: https://orcid.org/0000-0001-5994-4338
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - John A. Paulson School of Engineering and Applied Sciences, Harvard University,
+    Boston, Massachusetts, 02134, United States
+- author_id: https://openalex.org/A5100385834
+  display_name: Yuxin Liu
+  orcid: https://orcid.org/0000-0003-0623-9402
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123095
+    display_name: Institute of Materials Research and Engineering
+    ror: https://ror.org/02sepg748
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I115228651
+    display_name: Agency for Science, Technology and Research
+    ror: https://ror.org/036wvzt09
+    country_code: SG
+    type: government
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, N.1 Institute for Health, Institute for
+    Health Innovation and Technology (iHealthtech), National University of Singapore,
+    Singapore 119077, Singapore
+  - 'Institute of Materials Research and Engineering (IMRE), Agency for Science, Technology
+    and Research (A*STAR), 2 Fusionopolis Way, #08-03 Innovis, Singapore 138634, Republic
+    of Singapore'
+- author_id: https://openalex.org/A5100460400
+  display_name: Yuxuan Liu
+  orcid: https://orcid.org/0000-0001-8196-1054
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I137902535
+    display_name: North Carolina State University
+    ror: https://ror.org/04tj63d06
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Mechanical and Aerospace Engineering, North Carolina State University,
+    Raleigh, North Carolina 27695, United States
+- author_id: https://openalex.org/A5100320711
+  display_name: Zhiyuan Liu
+  orcid: https://orcid.org/0000-0001-9231-8195
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210145761
+    display_name: Shenzhen Institutes of Advanced Technology
+    ror: https://ror.org/04gh4er46
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Neural Engineering Centre, Shenzhen Institute of Advanced Technology, Chinese
+    Academy of Sciences, Shenzhen, China 518055
+- author_id: https://openalex.org/A5083149504
+  display_name: Zhuangjian Liu
+  orcid: https://orcid.org/0000-0002-3412-2116
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3004594783
+    display_name: Institute of High Performance Computing
+    ror: https://ror.org/02n0ejh50
+    country_code: SG
+    type: facility
+  - id: https://openalex.org/I115228651
+    display_name: Agency for Science, Technology and Research
+    ror: https://ror.org/036wvzt09
+    country_code: SG
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'Institute of High Performance Computing (IHPC), Agency for Science, Technology
+    and Research (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632,
+    Republic of Singapore'
+- author_id: https://openalex.org/A5059594060
+  display_name: Xian Jun Loh
+  orcid: https://orcid.org/0000-0001-8118-6502
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123095
+    display_name: Institute of Materials Research and Engineering
+    ror: https://ror.org/02sepg748
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I115228651
+    display_name: Agency for Science, Technology and Research
+    ror: https://ror.org/036wvzt09
+    country_code: SG
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'Institute of Materials Research and Engineering (IMRE), Agency for Science, Technology
+    and Research (A*STAR), 2 Fusionopolis Way, #08-03 Innovis, Singapore 138634, Republic
+    of Singapore'
+- author_id: https://openalex.org/A5039650266
+  display_name: Nanshu Lu
+  orcid: https://orcid.org/0000-0002-3595-3851
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I86519309
+    display_name: The University of Texas at Austin
+    ror: https://ror.org/00hj54h04
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Aerospace Engineering and Engineering Mechanics, Department of Electrical
+    and Computer Engineering, Department of Mechanical Engineering, Department of
+    Biomedical Engineering, Texas Materials Institute, The University of Texas at
+    Austin, Austin, Texas 78712, United States
+- author_id: https://openalex.org/A5002157025
+  display_name: Zhisheng Lv
+  orcid: https://orcid.org/0000-0003-0777-110X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210123095
+    display_name: Institute of Materials Research and Engineering
+    ror: https://ror.org/02sepg748
+    country_code: SG
+    type: funder
+  - id: https://openalex.org/I115228651
+    display_name: Agency for Science, Technology and Research
+    ror: https://ror.org/036wvzt09
+    country_code: SG
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - 'Institute of Materials Research and Engineering (IMRE), Agency for Science, Technology
+    and Research (A*STAR), 2 Fusionopolis Way, #08-03 Innovis, Singapore 138634, Republic
+    of Singapore'
+- author_id: https://openalex.org/A5001377522
+  display_name: Shlomo Magdassi
+  orcid: https://orcid.org/0000-0002-6794-0553
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I197251160
+    display_name: Hebrew University of Jerusalem
+    ror: https://ror.org/03qxff017
+    country_code: IL
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Chemistry and the Center for Nanoscience and Nanotechnology, The
+    Hebrew University of Jerusalem, Jerusalem 9190401, Israel
+- author_id: https://openalex.org/A5022830421
+  display_name: George G. Malliaras
+  orcid: https://orcid.org/0000-0002-4582-8501
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Electrical Engineering Division, Department of Engineering, University of Cambridge
+    CB3 0FA, Cambridge United Kingdom
+- author_id: https://openalex.org/A5057146181
+  display_name: Naoji Matsuhisa
+  orcid: https://orcid.org/0000-0002-5978-2778
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku,
+    Tokyo 153-8505, Japan;
+- author_id: https://openalex.org/A5053226693
+  display_name: Arokia Nathan
+  orcid: https://orcid.org/0000-0002-2070-8853
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210118382
+    display_name: Ida Darwin hospital
+    ror: https://ror.org/02jxcp012
+    country_code: GB
+    type: healthcare
+  - id: https://openalex.org/I241749
+    display_name: University of Cambridge
+    ror: https://ror.org/013meh722
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Darwin College, University of Cambridge, Cambridge CB3 9EU, United Kingdom
+- author_id: https://openalex.org/A5059506508
+  display_name: Simiao Niu
+  orcid: https://orcid.org/0000-0003-1973-2204
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102322142
+    display_name: Rutgers, The State University of New Jersey
+    ror: https://ror.org/05vt9qd57
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Biomedical Engineering, Rutgers University, Piscataway, New Jersey
+    08854, United States
+- author_id: https://openalex.org/A5055753968
+  display_name: Jieming Pan
+  orcid: https://orcid.org/0000-0002-9996-2984
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, National University of Singapore,
+    Singapore 117583, Singapore
+- author_id: https://openalex.org/A5041660282
+  display_name: Changhyun Pang
+  orcid: https://orcid.org/0000-0001-8339-7880
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  - id: https://openalex.org/I2250650973
+    display_name: Samsung (South Korea)
+    ror: https://ror.org/04w3jy968
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Chemical Engineering and Samsung Advanced Institute for Health Science
+    and Technology, Sungkyunkwan University, Suwon 16419, Republic of Korea
+- author_id: https://openalex.org/A5034504882
+  display_name: Qibing Pei
+  orcid: https://orcid.org/0000-0003-1669-1734
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I142207940
+    display_name: California NanoSystems Institute
+    ror: https://ror.org/00q7fqf35
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Department of Mechanical and
+    Aerospace Engineering, California NanoSystems Institute, University of California,
+    Los Angeles, Los Angeles, California 90095, United States
+- author_id: https://openalex.org/A5110118898
+  display_name: Huisheng Peng
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular
+    Science, and Laboratory of Advanced Materials, Fudan University, Shanghai 200438,
+    PR China
+- author_id: https://openalex.org/A5017339259
+  display_name: Dianpeng Qi
+  orcid: https://orcid.org/0000-0002-8245-8183
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I204983213
+    display_name: Harbin Institute of Technology
+    ror: https://ror.org/01yqg2h08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Chemistry and Chemical Engineering, Harbin Institute of Technology,
+    Harbin, Heilongjiang 150001, China
+- author_id: https://openalex.org/A5087571641
+  display_name: Huaying Ren
+  orcid: https://orcid.org/0000-0003-4785-8031
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I161318765
+    display_name: University of California, Los Angeles
+    ror: https://ror.org/046rm7j60
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Chemistry and Biochemistry, University of California, Los Angeles,
+    Los Angeles, California, 90095, United States
+- author_id: https://openalex.org/A5045551635
+  display_name: John A. Rogers
+  orcid: https://orcid.org/0000-0002-2980-3961
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111979921
+    display_name: Northwestern University
+    ror: https://ror.org/000e0be47
+    country_code: US
+    type: funder
+  - id: https://openalex.org/I4210157890
+    display_name: Neurological Surgery
+    ror: https://ror.org/04r0gp612
+    country_code: US
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Department of Mechanical Engineering,
+    Department of Biomedical Engineering, Departments of Electrical and Computer Engineering
+    and Chemistry, and Department of Neurological Surgery, Northwestern University,
+    Evanston, Illinois 60208, United States
+  - Querrey Simpson Institute for Bioelectronics, Northwestern University, Evanston,
+    Illinois 60208, United States
+- author_id: https://openalex.org/A5000726572
+  display_name: Aaron Rowe
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I146461966
+    display_name: Becton Dickinson (United States)
+    ror: https://ror.org/048vrgr14
+    country_code: US
+    type: company
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Becton, Dickinson and Company, 1268 N. Lakeview Avenue, Anaheim, California 92807,
+    United States
+  - 'Ready, Set, Food! 15821 Ventura Blvd #450, Encino, California 91436, United States'
+- author_id: https://openalex.org/A5061652666
+  display_name: Oliver G. Schmidt
+  orcid: https://orcid.org/0000-0001-9503-8367
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2610724
+    display_name: Chemnitz University of Technology
+    ror: https://ror.org/00a208s56
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I78650965
+    display_name: "Technische Universit\xE4t Dresden"
+    ror: https://ror.org/042aqky30
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Material Systems for Nanoelectronics, Chemnitz University of Technology, Chemnitz
+    09107, Germany
+  - Nanophysics, Faculty of Physics, TU Dresden, Dresden 01062, Germany
+  - Research Center for Materials, Architectures and Integration of Nanomembranes
+    (MAIN), Chemnitz University of Technology, Chemnitz 09126, Germany
+- author_id: https://openalex.org/A5041244264
+  display_name: Tsuyoshi Sekitani
+  orcid: https://orcid.org/0000-0003-1070-2738
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210138169
+    display_name: Osaka Research Institute of Industrial Science and Technology
+    ror: https://ror.org/03r38cy24
+    country_code: JP
+    type: facility
+  - id: https://openalex.org/I98285908
+    display_name: The University of Osaka
+    ror: https://ror.org/035t8zc32
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - The Institute of Scientific and Industrial Research (SANKEN), Osaka University,
+    Osaka, Japan 5670047
+- author_id: https://openalex.org/A5056096774
+  display_name: "Dae\u2010Gyo Seo"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I139264467
+    display_name: Seoul National University
+    ror: https://ror.org/04h9pn542
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Materials Science and Engineering, Seoul National University, Seoul
+    08826, Republic of Korea
+- author_id: https://openalex.org/A5032187710
+  display_name: Guozhen Shen
+  orcid: https://orcid.org/0000-0002-9755-1647
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I125839683
+    display_name: Beijing Institute of Technology
+    ror: https://ror.org/01skt4w74
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Integrated Circuits and Electronics, Beijing Institute of Technology,
+    Beijing 100081, China
+- author_id: https://openalex.org/A5007371177
+  display_name: Xing Sheng
+  orcid: https://orcid.org/0000-0002-8744-1700
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210115644
+    display_name: Chinese Institute for Brain Research
+    ror: https://ror.org/029819q61
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I99065089
+    display_name: Tsinghua University
+    ror: https://ror.org/03cve4549
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electronic Engineering, Beijing National Research Center for Information
+    Science and Technology, Institute for Precision Medicine, Center for Flexible
+    Electronics Technology, and IDG/McGovern Institute for Brain Research, Tsinghua
+    University, Beijing, 100084, China
+- author_id: https://openalex.org/A5052030441
+  display_name: Qiongfeng Shi
+  orcid: https://orcid.org/0000-0002-5979-1420
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210125878
+    display_name: Suzhou Research Institute
+    ror: https://ror.org/03ebk0c60
+    country_code: CN
+    type: facility
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Center for Intelligent Sensors and MEMS (CISM), National University of Singapore,
+    Singapore 117608, Singapore
+  - Department of Electrical and Computer Engineering, National University of Singapore,
+    Singapore 117583, Singapore
+  - National University of Singapore Suzhou Research Institute (NUSRI), Suzhou Industrial
+    Park, Suzhou 215123, China
+- author_id: https://openalex.org/A5008853188
+  display_name: Takao Someya
+  orcid: https://orcid.org/0000-0003-3051-1138
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I74801974
+    display_name: The University of Tokyo
+    ror: https://ror.org/057zh3y96
+    country_code: JP
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical Engineering and Information Systems, Graduate School
+    of Engineering, The University of Tokyo, Tokyo 113-8656, Japan
+- author_id: https://openalex.org/A5109553608
+  display_name: Yanlin Song
+  orcid: https://orcid.org/0000-0002-0267-3917
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210155088
+    display_name: Institute of Chemistry
+    ror: https://ror.org/048y1rc66
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Green Printing, Institute of Chemistry, Chinese Academy of Sciences,
+    Beijing, Beijing 100190, China
+- author_id: https://openalex.org/A5065689706
+  display_name: Eleni Stavrinidou
+  orcid: https://orcid.org/0000-0002-9357-776X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I102134673
+    display_name: "Link\xF6ping University"
+    ror: https://ror.org/05ynxx418
+    country_code: SE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Laboratory of Organic Electronics, Department of Science and Technology, Link\xF6\
+    ping University, SE-601 74 Norrkoping, Sweden"
+- author_id: https://openalex.org/A5070484701
+  display_name: Meng Su
+  orcid: https://orcid.org/0000-0001-8485-2590
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I19820366
+    display_name: Chinese Academy of Sciences
+    ror: https://ror.org/034t30j35
+    country_code: CN
+    type: government
+  - id: https://openalex.org/I4210155088
+    display_name: Institute of Chemistry
+    ror: https://ror.org/048y1rc66
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Key Laboratory of Green Printing, Institute of Chemistry, Chinese Academy of Sciences,
+    Beijing, Beijing 100190, China
+- author_id: https://openalex.org/A5076540468
+  display_name: Xuemei Sun
+  orcid: https://orcid.org/0000-0002-2583-8593
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular
+    Science, and Laboratory of Advanced Materials, Fudan University, Shanghai 200438,
+    PR China
+- author_id: https://openalex.org/A5007444796
+  display_name: Kuniharu Takei
+  orcid: https://orcid.org/0000-0001-9166-3747
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4387152983
+    display_name: Osaka Metropolitan University
+    ror: https://ror.org/01hvx5h04
+    country_code: null
+    type: education
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Physics and Electronics, Osaka Metropolitan University, Sakai, Osaka
+    599-8531, Japan
+- author_id: https://openalex.org/A5087298250
+  display_name: Xiaoming Tao
+  orcid: https://orcid.org/0000-0002-2406-0695
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I14243506
+    display_name: Hong Kong Polytechnic University
+    ror: https://ror.org/0030zas98
+    country_code: HK
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Research Institute for Intelligent Wearable Systems, School of Fashion and Textiles,
+    Hong Kong Polytechnic University, Hong Kong, China
+- author_id: https://openalex.org/A5011611778
+  display_name: Benjamin C. K. Tee
+  orcid: https://orcid.org/0000-0002-9180-4105
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Materials Science and Engineering, National University of Singapore, Singapore
+    117575, Singapore
+  - iHealthtech, National University of Singapore, Singapore 119276, Singapore
+- author_id: https://openalex.org/A5050315289
+  display_name: Aaron Thean
+  orcid: https://orcid.org/0000-0003-2418-6404
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I165932596
+    display_name: National University of Singapore
+    ror: https://ror.org/01tgyzw49
+    country_code: SG
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Electrical and Computer Engineering, National University of Singapore,
+    Singapore 117583, Singapore
+  - "Singapore Hybrid-Integrated Next-Generation \u03BC-Electronics Centre (SHINE),\
+    \ Singapore 117583, Singapore"
+- author_id: https://openalex.org/A5029696652
+  display_name: Tran Quang Trung
+  orcid: https://orcid.org/0000-0003-1698-7543
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I848706
+    display_name: Sungkyunkwan University
+    ror: https://ror.org/04q78tk20
+    country_code: KR
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - School of Advanced Materials Science and Engineering, Sungkyunkwan University,
+    Suwon, Kyunggi-do 16419, Republic of Korea
+referenced_works:
+- https://openalex.org/W1482953092
+- https://openalex.org/W1515749184
+- https://openalex.org/W1590155876
+- https://openalex.org/W1926387934
+- https://openalex.org/W1942196050
+- https://openalex.org/W1960754380
+- https://openalex.org/W1969448305
+- https://openalex.org/W1970308461
+- https://openalex.org/W1970833525
+- https://openalex.org/W1972687661
+- https://openalex.org/W1974197287
+- https://openalex.org/W1976652877
+- https://openalex.org/W1977947323
+- https://openalex.org/W1979369614
+- https://openalex.org/W1980640510
+- https://openalex.org/W1981363934
+- https://openalex.org/W1985529456
+- https://openalex.org/W1988801089
+- https://openalex.org/W1989172022
+- https://openalex.org/W1993468865
+- https://openalex.org/W1993509513
+- https://openalex.org/W1994529241
+- https://openalex.org/W1995063875
+- https://openalex.org/W1995127070
+- https://openalex.org/W1995296652
+- https://openalex.org/W2005741801
+- https://openalex.org/W2007578398
+- https://openalex.org/W2009865360
+- https://openalex.org/W2010707453
+- https://openalex.org/W2013186224
+- https://openalex.org/W2013810570
+- https://openalex.org/W2016018790
+- https://openalex.org/W2016822963
+- https://openalex.org/W2016922062
+- https://openalex.org/W2017832059
+- https://openalex.org/W2018540709
+- https://openalex.org/W2021173472
+- https://openalex.org/W2023385407
+- https://openalex.org/W2026173753
+- https://openalex.org/W2030428776
+- https://openalex.org/W2030699080
+- https://openalex.org/W2030749064
+- https://openalex.org/W2036531934
+- https://openalex.org/W2039916876
+- https://openalex.org/W2041101642
+- https://openalex.org/W2041463870
+- https://openalex.org/W2047656177
+- https://openalex.org/W2050905122
+- https://openalex.org/W2051243774
+- https://openalex.org/W2051609280
+- https://openalex.org/W2051762013
+- https://openalex.org/W2056594748
+- https://openalex.org/W2060449729
+- https://openalex.org/W2060913350
+- https://openalex.org/W2061453480
+- https://openalex.org/W2065613910
+- https://openalex.org/W2066169736
+- https://openalex.org/W2067608984
+- https://openalex.org/W2069906797
+- https://openalex.org/W2072165107
+- https://openalex.org/W2073272844
+- https://openalex.org/W2073432406
+- https://openalex.org/W2078835847
+- https://openalex.org/W2085227243
+- https://openalex.org/W2085575671
+- https://openalex.org/W2085685120
+- https://openalex.org/W2089639762
+- https://openalex.org/W2092875581
+- https://openalex.org/W2093611605
+- https://openalex.org/W2098459561
+- https://openalex.org/W2103709281
+- https://openalex.org/W2119017476
+- https://openalex.org/W2119480884
+- https://openalex.org/W2119989931
+- https://openalex.org/W2121258779
+- https://openalex.org/W2124140157
+- https://openalex.org/W2131029473
+- https://openalex.org/W2135339229
+- https://openalex.org/W2146191673
+- https://openalex.org/W2151263439
+- https://openalex.org/W2158311275
+- https://openalex.org/W2160467540
+- https://openalex.org/W2163166270
+- https://openalex.org/W2165985836
+- https://openalex.org/W2166777736
+- https://openalex.org/W2167053601
+- https://openalex.org/W2168100296
+- https://openalex.org/W2170562875
+- https://openalex.org/W2170628096
+- https://openalex.org/W2174029439
+- https://openalex.org/W2178988079
+- https://openalex.org/W2180884865
+- https://openalex.org/W2197794523
+- https://openalex.org/W2258259518
+- https://openalex.org/W2264088247
+- https://openalex.org/W2264955570
+- https://openalex.org/W2266175888
+- https://openalex.org/W2266982813
+- https://openalex.org/W2268125433
+- https://openalex.org/W2270519718
+- https://openalex.org/W2287510856
+- https://openalex.org/W2294709600
+- https://openalex.org/W2302487622
+- https://openalex.org/W2305946569
+- https://openalex.org/W2312214275
+- https://openalex.org/W2315530762
+- https://openalex.org/W2316891877
+- https://openalex.org/W2319171448
+- https://openalex.org/W2327420577
+- https://openalex.org/W2331547947
+- https://openalex.org/W234138916
+- https://openalex.org/W2342159388
+- https://openalex.org/W2345317090
+- https://openalex.org/W2346225394
+- https://openalex.org/W2346517120
+- https://openalex.org/W2398652830
+- https://openalex.org/W2402834145
+- https://openalex.org/W2413450610
+- https://openalex.org/W2418809808
+- https://openalex.org/W2441154483
+- https://openalex.org/W2466645121
+- https://openalex.org/W2474141489
+- https://openalex.org/W2476229075
+- https://openalex.org/W2482597390
+- https://openalex.org/W2502082066
+- https://openalex.org/W2515930553
+- https://openalex.org/W2520356069
+- https://openalex.org/W2521475794
+- https://openalex.org/W2525853733
+- https://openalex.org/W2527732773
+- https://openalex.org/W2532838659
+- https://openalex.org/W2537935995
+- https://openalex.org/W2538345477
+- https://openalex.org/W2545851061
+- https://openalex.org/W2548849793
+- https://openalex.org/W2552460226
+- https://openalex.org/W2552540631
+- https://openalex.org/W2560026817
+- https://openalex.org/W2560748402
+- https://openalex.org/W2560877868
+- https://openalex.org/W2561107991
+- https://openalex.org/W2564083981
+- https://openalex.org/W2567786944
+- https://openalex.org/W2570069575
+- https://openalex.org/W2571051306
+- https://openalex.org/W2572169790
+- https://openalex.org/W2579323355
+- https://openalex.org/W2580482561
+- https://openalex.org/W2582190866
+- https://openalex.org/W2582986071
+- https://openalex.org/W2584716181
+- https://openalex.org/W2584895956
+- https://openalex.org/W2584998015
+- https://openalex.org/W2586631183
+- https://openalex.org/W2587792524
+- https://openalex.org/W2587896554
+- https://openalex.org/W2590095297
+- https://openalex.org/W2591887873
+- https://openalex.org/W2594844894
+- https://openalex.org/W2597831797
+- https://openalex.org/W2599861759
+- https://openalex.org/W2606331555
+- https://openalex.org/W2606370452
+- https://openalex.org/W2616602601
+- https://openalex.org/W2619763057
+- https://openalex.org/W2620547429
+- https://openalex.org/W2622635205
+- https://openalex.org/W2624925518
+- https://openalex.org/W2625161454
+- https://openalex.org/W2725253622
+- https://openalex.org/W2725707729
+- https://openalex.org/W2734595361
+- https://openalex.org/W2735220407
+- https://openalex.org/W2738103550
+- https://openalex.org/W2746288040
+- https://openalex.org/W2748094731
+- https://openalex.org/W2749122126
+- https://openalex.org/W2750614770
+- https://openalex.org/W2750671873
+- https://openalex.org/W2751819004
+- https://openalex.org/W2751934142
+- https://openalex.org/W2754014734
+- https://openalex.org/W2754486364
+- https://openalex.org/W2754518954
+- https://openalex.org/W2759456784
+- https://openalex.org/W2759885802
+- https://openalex.org/W2763874231
+- https://openalex.org/W2765802355
+- https://openalex.org/W2767201666
+- https://openalex.org/W2768328001
+- https://openalex.org/W2768678455
+- https://openalex.org/W2770621259
+- https://openalex.org/W2771924592
+- https://openalex.org/W2772398882
+- https://openalex.org/W2772659458
+- https://openalex.org/W2773898323
+- https://openalex.org/W2774327811
+- https://openalex.org/W2775635818
+- https://openalex.org/W2775771159
+- https://openalex.org/W2776322741
+- https://openalex.org/W2778512092
+- https://openalex.org/W2780756707
+- https://openalex.org/W2783338612
+- https://openalex.org/W2783908655
+- https://openalex.org/W2785518204
+- https://openalex.org/W2786243724
+- https://openalex.org/W2786731106
+- https://openalex.org/W2787870122
+- https://openalex.org/W2788045153
+- https://openalex.org/W2789378891
+- https://openalex.org/W2789774068
+- https://openalex.org/W2791443927
+- https://openalex.org/W2791987429
+- https://openalex.org/W2792389578
+- https://openalex.org/W2792443838
+- https://openalex.org/W2793156678
+- https://openalex.org/W2793795862
+- https://openalex.org/W2794255862
+- https://openalex.org/W2794321758
+- https://openalex.org/W2794992598
+- https://openalex.org/W2795111082
+- https://openalex.org/W2795210588
+- https://openalex.org/W2795610484
+- https://openalex.org/W2795833336
+- https://openalex.org/W2796123888
+- https://openalex.org/W2796826964
+- https://openalex.org/W2799344841
+- https://openalex.org/W2799596652
+- https://openalex.org/W2800350880
+- https://openalex.org/W2800594651
+- https://openalex.org/W2801213384
+- https://openalex.org/W2804981481
+- https://openalex.org/W2806075947
+- https://openalex.org/W2806904536
+- https://openalex.org/W2807551379
+- https://openalex.org/W2808149983
+- https://openalex.org/W2808441870
+- https://openalex.org/W2808848509
+- https://openalex.org/W2809998381
+- https://openalex.org/W2810140937
+- https://openalex.org/W2810628504
+- https://openalex.org/W2817032991
+- https://openalex.org/W2878752601
+- https://openalex.org/W2883197743
+- https://openalex.org/W2884186825
+- https://openalex.org/W2885235845
+- https://openalex.org/W2886783312
+- https://openalex.org/W2886878416
+- https://openalex.org/W2886881512
+- https://openalex.org/W2887163997
+- https://openalex.org/W2889146720
+- https://openalex.org/W2889962841
+- https://openalex.org/W2889983411
+- https://openalex.org/W2890135376
+- https://openalex.org/W2890727552
+- https://openalex.org/W2891386968
+- https://openalex.org/W2891599654
+- https://openalex.org/W2891821958
+- https://openalex.org/W2894954754
+- https://openalex.org/W2896049517
+- https://openalex.org/W2896355201
+- https://openalex.org/W2896907566
+- https://openalex.org/W2897592138
+- https://openalex.org/W2897751210
+- https://openalex.org/W2898803364
+- https://openalex.org/W2899525174
+- https://openalex.org/W2899585482
+- https://openalex.org/W2899602604
+- https://openalex.org/W2899654313
+- https://openalex.org/W2899809907
+- https://openalex.org/W2900970864
+- https://openalex.org/W2901490785
+- https://openalex.org/W2902006921
+- https://openalex.org/W2903179737
+- https://openalex.org/W2903184184
+- https://openalex.org/W2903270083
+- https://openalex.org/W2903476446
+- https://openalex.org/W2904828580
+- https://openalex.org/W2906572232
+- https://openalex.org/W2907179845
+- https://openalex.org/W2907847472
+- https://openalex.org/W2908409763
+- https://openalex.org/W2908711986
+- https://openalex.org/W2908714368
+- https://openalex.org/W2909685854
+- https://openalex.org/W2910467356
+- https://openalex.org/W2910830939
+- https://openalex.org/W2910883029
+- https://openalex.org/W2911679930
+- https://openalex.org/W2911702109
+- https://openalex.org/W2911705507
+- https://openalex.org/W2912551290
+- https://openalex.org/W2912992790
+- https://openalex.org/W2913795410
+- https://openalex.org/W2913994301
+- https://openalex.org/W2914493171
+- https://openalex.org/W2914747747
+- https://openalex.org/W2914862118
+- https://openalex.org/W2915771847
+- https://openalex.org/W2915974603
+- https://openalex.org/W2916533817
+- https://openalex.org/W2917088308
+- https://openalex.org/W2917130660
+- https://openalex.org/W2917386416
+- https://openalex.org/W2920955050
+- https://openalex.org/W2921776860
+- https://openalex.org/W2922216393
+- https://openalex.org/W2922247500
+- https://openalex.org/W2923444658
+- https://openalex.org/W2925397776
+- https://openalex.org/W2939969850
+- https://openalex.org/W2942216650
+- https://openalex.org/W2943581473
+- https://openalex.org/W2944313468
+- https://openalex.org/W2944393950
+- https://openalex.org/W2944442503
+- https://openalex.org/W2945247555
+- https://openalex.org/W2945869729
+- https://openalex.org/W2946031578
+- https://openalex.org/W2947434510
+- https://openalex.org/W2947639299
+- https://openalex.org/W2948587969
+- https://openalex.org/W2949750251
+- https://openalex.org/W2950785272
+- https://openalex.org/W2950959318
+- https://openalex.org/W2951704900
+- https://openalex.org/W2952680703
+- https://openalex.org/W2952943235
+- https://openalex.org/W2953423523
+- https://openalex.org/W2954213822
+- https://openalex.org/W2954792481
+- https://openalex.org/W2954808814
+- https://openalex.org/W2955042957
+- https://openalex.org/W2955318546
+- https://openalex.org/W2955393539
+- https://openalex.org/W2956741661
+- https://openalex.org/W2957613877
+- https://openalex.org/W2957921024
+- https://openalex.org/W2959282602
+- https://openalex.org/W2959651245
+- https://openalex.org/W2959698263
+- https://openalex.org/W2959918437
+- https://openalex.org/W2960200605
+- https://openalex.org/W2960805044
+- https://openalex.org/W2962670450
+- https://openalex.org/W2963086219
+- https://openalex.org/W2963602343
+- https://openalex.org/W2964435824
+- https://openalex.org/W2964439613
+- https://openalex.org/W2965064051
+- https://openalex.org/W2965133249
+- https://openalex.org/W2965786352
+- https://openalex.org/W2966064220
+- https://openalex.org/W2966761246
+- https://openalex.org/W2967307231
+- https://openalex.org/W2967720691
+- https://openalex.org/W2968300584
+- https://openalex.org/W2968475394
+- https://openalex.org/W2969331169
+- https://openalex.org/W2969340058
+- https://openalex.org/W2969353819
+- https://openalex.org/W2970514110
+- https://openalex.org/W2970595036
+- https://openalex.org/W2971237575
+- https://openalex.org/W2971865338
+- https://openalex.org/W2971902231
+- https://openalex.org/W2972052999
+- https://openalex.org/W2972094735
+- https://openalex.org/W2972435299
+- https://openalex.org/W2972605523
+- https://openalex.org/W2973203804
+- https://openalex.org/W2973967544
+- https://openalex.org/W2975701161
+- https://openalex.org/W2976744589
+- https://openalex.org/W2977226092
+- https://openalex.org/W2978141390
+- https://openalex.org/W2978281981
+- https://openalex.org/W2979227497
+- https://openalex.org/W2979752182
+- https://openalex.org/W2979867905
+- https://openalex.org/W2980129207
+- https://openalex.org/W2981035601
+- https://openalex.org/W2982051194
+- https://openalex.org/W2982268776
+- https://openalex.org/W2983661150
+- https://openalex.org/W2985643512
+- https://openalex.org/W2986077039
+- https://openalex.org/W2986366849
+- https://openalex.org/W2986578404
+- https://openalex.org/W2987277850
+- https://openalex.org/W2987973682
+- https://openalex.org/W2988034372
+- https://openalex.org/W2988135549
+- https://openalex.org/W2990444490
+- https://openalex.org/W2990605642
+- https://openalex.org/W2990691150
+- https://openalex.org/W2991307628
+- https://openalex.org/W2991548490
+- https://openalex.org/W2991877203
+- https://openalex.org/W2992210402
+- https://openalex.org/W2992817920
+- https://openalex.org/W2994274383
+- https://openalex.org/W2995444605
+- https://openalex.org/W2996054300
+- https://openalex.org/W2996429036
+- https://openalex.org/W2996670174
+- https://openalex.org/W2997094746
+- https://openalex.org/W2997179802
+- https://openalex.org/W2997554523
+- https://openalex.org/W2997826228
+- https://openalex.org/W2998885608
+- https://openalex.org/W2999408882
+- https://openalex.org/W2999894239
+- https://openalex.org/W3000478013
+- https://openalex.org/W3000505821
+- https://openalex.org/W3002340625
+- https://openalex.org/W3002857364
+- https://openalex.org/W3003126813
+- https://openalex.org/W3003319185
+- https://openalex.org/W3003347467
+- https://openalex.org/W3006607088
+- https://openalex.org/W3006997636
+- https://openalex.org/W3007236644
+- https://openalex.org/W3008107250
+- https://openalex.org/W3008874451
+- https://openalex.org/W3008994271
+- https://openalex.org/W3009471008
+- https://openalex.org/W3009950940
+- https://openalex.org/W3009994855
+- https://openalex.org/W3010245527
+- https://openalex.org/W3011895090
+- https://openalex.org/W3012163988
+- https://openalex.org/W3012834763
+- https://openalex.org/W3013060976
+- https://openalex.org/W3014675896
+- https://openalex.org/W3015032324
+- https://openalex.org/W3015505351
+- https://openalex.org/W3015809619
+- https://openalex.org/W3016833507
+- https://openalex.org/W3016874508
+- https://openalex.org/W3017265856
+- https://openalex.org/W3017305623
+- https://openalex.org/W3017489731
+- https://openalex.org/W3017605837
+- https://openalex.org/W3018778368
+- https://openalex.org/W3020357871
+- https://openalex.org/W3020406308
+- https://openalex.org/W3021989619
+- https://openalex.org/W3022969277
+- https://openalex.org/W3023573305
+- https://openalex.org/W3025224585
+- https://openalex.org/W3028305674
+- https://openalex.org/W3029684493
+- https://openalex.org/W3033484770
+- https://openalex.org/W3033578652
+- https://openalex.org/W3034219366
+- https://openalex.org/W3034432356
+- https://openalex.org/W3034940236
+- https://openalex.org/W3035576118
+- https://openalex.org/W3035591255
+- https://openalex.org/W3035703067
+- https://openalex.org/W3036614133
+- https://openalex.org/W3036727863
+- https://openalex.org/W3036852719
+- https://openalex.org/W3036994967
+- https://openalex.org/W3037486115
+- https://openalex.org/W3039279398
+- https://openalex.org/W3039593752
+- https://openalex.org/W3040740505
+- https://openalex.org/W3041038219
+- https://openalex.org/W3043202668
+- https://openalex.org/W3043442413
+- https://openalex.org/W3043881567
+- https://openalex.org/W3044009480
+- https://openalex.org/W3044457538
+- https://openalex.org/W3045321711
+- https://openalex.org/W3045632475
+- https://openalex.org/W3046043767
+- https://openalex.org/W3046212101
+- https://openalex.org/W3046633757
+- https://openalex.org/W3046810001
+- https://openalex.org/W3046860577
+- https://openalex.org/W3047408403
+- https://openalex.org/W3047692618
+- https://openalex.org/W3048822132
+- https://openalex.org/W3048990020
+- https://openalex.org/W3076615873
+- https://openalex.org/W3080259453
+- https://openalex.org/W3082377532
+- https://openalex.org/W3082653819
+- https://openalex.org/W3083164271
+- https://openalex.org/W3083738679
+- https://openalex.org/W3083918922
+- https://openalex.org/W3084056592
+- https://openalex.org/W3085124701
+- https://openalex.org/W3085403569
+- https://openalex.org/W3085523448
+- https://openalex.org/W3087014339
+- https://openalex.org/W3087604987
+- https://openalex.org/W3087636483
+- https://openalex.org/W3088124445
+- https://openalex.org/W3088723136
+- https://openalex.org/W3089078382
+- https://openalex.org/W3089560203
+- https://openalex.org/W3089575664
+- https://openalex.org/W3090417167
+- https://openalex.org/W3090570519
+- https://openalex.org/W3090995991
+- https://openalex.org/W3091457909
+- https://openalex.org/W3091542356
+- https://openalex.org/W3091600525
+- https://openalex.org/W3092189325
+- https://openalex.org/W3092371431
+- https://openalex.org/W3092554636
+- https://openalex.org/W3092581957
+- https://openalex.org/W3092891558
+- https://openalex.org/W3093831449
+- https://openalex.org/W3094630323
+- https://openalex.org/W3094783081
+- https://openalex.org/W3095038698
+- https://openalex.org/W3095198974
+- https://openalex.org/W3096122204
+- https://openalex.org/W3096211470
+- https://openalex.org/W3096483065
+- https://openalex.org/W3096975213
+- https://openalex.org/W3097718989
+- https://openalex.org/W3097994715
+- https://openalex.org/W3098287426
+- https://openalex.org/W3099447764
+- https://openalex.org/W3100560074
+- https://openalex.org/W3101262183
+- https://openalex.org/W3102407952
+- https://openalex.org/W3103100888
+- https://openalex.org/W3104020727
+- https://openalex.org/W3104096625
+- https://openalex.org/W3104517192
+- https://openalex.org/W3104775050
+- https://openalex.org/W3105881779
+- https://openalex.org/W3106709972
+- https://openalex.org/W3108035250
+- https://openalex.org/W3110148019
+- https://openalex.org/W3110597157
+- https://openalex.org/W3110642299
+- https://openalex.org/W3110862303
+- https://openalex.org/W3111366224
+- https://openalex.org/W3111848008
+- https://openalex.org/W3112261215
+- https://openalex.org/W3112640000
+- https://openalex.org/W3112665924
+- https://openalex.org/W3112693771
+- https://openalex.org/W3112982681
+- https://openalex.org/W3113181016
+- https://openalex.org/W3113629693
+- https://openalex.org/W3114175353
+- https://openalex.org/W3114315982
+- https://openalex.org/W3114359468
+- https://openalex.org/W3114539955
+- https://openalex.org/W3114697745
+- https://openalex.org/W3117080414
+- https://openalex.org/W3117206779
+- https://openalex.org/W3118906985
+- https://openalex.org/W3119012617
+- https://openalex.org/W3119535577
+- https://openalex.org/W3119601298
+- https://openalex.org/W3119660925
+- https://openalex.org/W3120198667
+- https://openalex.org/W3121008421
+- https://openalex.org/W3122106955
+- https://openalex.org/W3122253115
+- https://openalex.org/W3123906210
+- https://openalex.org/W3124249386
+- https://openalex.org/W3124580568
+- https://openalex.org/W3124604975
+- https://openalex.org/W3125264102
+- https://openalex.org/W3125975268
+- https://openalex.org/W3126795034
+- https://openalex.org/W3126861319
+- https://openalex.org/W3127494288
+- https://openalex.org/W3127713043
+- https://openalex.org/W3127756477
+- https://openalex.org/W3128700355
+- https://openalex.org/W3128788922
+- https://openalex.org/W3129308091
+- https://openalex.org/W3129782884
+- https://openalex.org/W3130265077
+- https://openalex.org/W3130539620
+- https://openalex.org/W3132569084
+- https://openalex.org/W3132659971
+- https://openalex.org/W3132782516
+- https://openalex.org/W3133276935
+- https://openalex.org/W3133595525
+- https://openalex.org/W3133703972
+- https://openalex.org/W3134096124
+- https://openalex.org/W3134916866
+- https://openalex.org/W3135234476
+- https://openalex.org/W3136132782
+- https://openalex.org/W3136157739
+- https://openalex.org/W3137222195
+- https://openalex.org/W3138378275
+- https://openalex.org/W3138929090
+- https://openalex.org/W3139071414
+- https://openalex.org/W3141912187
+- https://openalex.org/W3142384962
+- https://openalex.org/W3145000295
+- https://openalex.org/W3145413538
+- https://openalex.org/W3149090762
+- https://openalex.org/W3149312043
+- https://openalex.org/W3150930040
+- https://openalex.org/W3153371789
+- https://openalex.org/W3153923060
+- https://openalex.org/W3154152827
+- https://openalex.org/W3155723493
+- https://openalex.org/W3155756166
+- https://openalex.org/W3155827963
+- https://openalex.org/W3156920854
+- https://openalex.org/W3157186650
+- https://openalex.org/W3157352703
+- https://openalex.org/W3157888572
+- https://openalex.org/W3157966970
+- https://openalex.org/W3158098935
+- https://openalex.org/W3158432186
+- https://openalex.org/W3159231051
+- https://openalex.org/W3159840827
+- https://openalex.org/W3160045927
+- https://openalex.org/W3160787141
+- https://openalex.org/W3161046902
+- https://openalex.org/W3161747029
+- https://openalex.org/W3161949382
+- https://openalex.org/W3162336647
+- https://openalex.org/W3162741140
+- https://openalex.org/W3163517815
+- https://openalex.org/W3163993681
+- https://openalex.org/W3164869716
+- https://openalex.org/W3164873415
+- https://openalex.org/W3165083573
+- https://openalex.org/W3165179861
+- https://openalex.org/W3165255800
+- https://openalex.org/W3165521972
+- https://openalex.org/W3166278644
+- https://openalex.org/W3166405484
+- https://openalex.org/W3166780204
+- https://openalex.org/W3168009682
+- https://openalex.org/W3169399781
+- https://openalex.org/W3169676710
+- https://openalex.org/W3169707058
+- https://openalex.org/W3170991037
+- https://openalex.org/W3171322517
+- https://openalex.org/W3171804290
+- https://openalex.org/W3171870551
+- https://openalex.org/W3173205213
+- https://openalex.org/W3173789974
+- https://openalex.org/W3173987754
+- https://openalex.org/W3174647825
+- https://openalex.org/W3174937970
+- https://openalex.org/W3174952422
+- https://openalex.org/W3175354948
+- https://openalex.org/W3175547357
+- https://openalex.org/W3175717350
+- https://openalex.org/W3176183164
+- https://openalex.org/W3176993528
+- https://openalex.org/W3177193797
+- https://openalex.org/W3177384764
+- https://openalex.org/W3177986211
+- https://openalex.org/W3178117575
+- https://openalex.org/W3178875152
+- https://openalex.org/W3179215972
+- https://openalex.org/W3180368765
+- https://openalex.org/W3182606471
+- https://openalex.org/W3182713418
+- https://openalex.org/W3183233889
+- https://openalex.org/W3183755466
+- https://openalex.org/W3183779875
+- https://openalex.org/W3184076950
+- https://openalex.org/W3185545221
+- https://openalex.org/W3185602476
+- https://openalex.org/W3187976104
+- https://openalex.org/W3189205910
+- https://openalex.org/W3190058907
+- https://openalex.org/W3190166661
+- https://openalex.org/W3191057482
+- https://openalex.org/W3191197668
+- https://openalex.org/W3191409504
+- https://openalex.org/W3191801814
+- https://openalex.org/W3192443024
+- https://openalex.org/W3193659330
+- https://openalex.org/W3193731111
+- https://openalex.org/W3194523676
+- https://openalex.org/W3194680813
+- https://openalex.org/W3194936211
+- https://openalex.org/W3195294457
+- https://openalex.org/W3195413001
+- https://openalex.org/W3195887191
+- https://openalex.org/W3196708162
+- https://openalex.org/W3196981705
+- https://openalex.org/W3197104107
+- https://openalex.org/W3197429751
+- https://openalex.org/W3197551171
+- https://openalex.org/W3197665143
+- https://openalex.org/W3197950940
+- https://openalex.org/W3198336736
+- https://openalex.org/W3198944505
+- https://openalex.org/W3199282771
+- https://openalex.org/W3199305613
+- https://openalex.org/W3199551684
+- https://openalex.org/W3200012354
+- https://openalex.org/W3201144248
+- https://openalex.org/W3201379615
+- https://openalex.org/W3201517733
+- https://openalex.org/W3201520731
+- https://openalex.org/W3201785202
+- https://openalex.org/W3201832167
+- https://openalex.org/W3202169845
+- https://openalex.org/W3202299993
+- https://openalex.org/W3202348803
+- https://openalex.org/W3202565070
+- https://openalex.org/W3203418613
+- https://openalex.org/W3203668422
+- https://openalex.org/W3204001480
+- https://openalex.org/W3204447954
+- https://openalex.org/W3204907773
+- https://openalex.org/W3204947859
+- https://openalex.org/W3205201322
+- https://openalex.org/W3206057670
+- https://openalex.org/W3206148902
+- https://openalex.org/W3206201886
+- https://openalex.org/W3206257055
+- https://openalex.org/W3206426061
+- https://openalex.org/W3206732377
+- https://openalex.org/W3207577409
+- https://openalex.org/W3207610893
+- https://openalex.org/W3208346600
+- https://openalex.org/W3208514083
+- https://openalex.org/W3208637228
+- https://openalex.org/W3208952169
+- https://openalex.org/W3209119094
+- https://openalex.org/W3209340614
+- https://openalex.org/W3209546542
+- https://openalex.org/W3209588182
+- https://openalex.org/W3210021170
+- https://openalex.org/W3210233726
+- https://openalex.org/W3210473474
+- https://openalex.org/W3210966796
+- https://openalex.org/W3211135448
+- https://openalex.org/W3212045024
+- https://openalex.org/W3212100347
+- https://openalex.org/W3212399983
+- https://openalex.org/W3213031608
+- https://openalex.org/W3213438757
+- https://openalex.org/W3213517261
+- https://openalex.org/W3213723308
+- https://openalex.org/W3214054166
+- https://openalex.org/W3214490711
+- https://openalex.org/W3215015806
+- https://openalex.org/W3215096907
+- https://openalex.org/W3215280046
+- https://openalex.org/W3215307240
+- https://openalex.org/W3215829481
+- https://openalex.org/W3215884926
+- https://openalex.org/W3216038757
+- https://openalex.org/W3216288925
+- https://openalex.org/W3216358190
+- https://openalex.org/W3216400282
+- https://openalex.org/W3216619217
+- https://openalex.org/W3216888540
+- https://openalex.org/W3217203525
+- https://openalex.org/W3217380699
+- https://openalex.org/W3217505885
+- https://openalex.org/W4200006639
+- https://openalex.org/W4200026682
+- https://openalex.org/W4200040721
+- https://openalex.org/W4200044608
+- https://openalex.org/W4200053014
+- https://openalex.org/W4200108457
+- https://openalex.org/W4200109908
+- https://openalex.org/W4200179445
+- https://openalex.org/W4200182309
+- https://openalex.org/W4200206425
+- https://openalex.org/W4200228831
+- https://openalex.org/W4200233919
+- https://openalex.org/W4200245311
+- https://openalex.org/W4200254556
+- https://openalex.org/W4200336811
+- https://openalex.org/W4200348368
+- https://openalex.org/W4200371713
+- https://openalex.org/W4200371900
+- https://openalex.org/W4200402523
+- https://openalex.org/W4200448928
+- https://openalex.org/W4200564755
+- https://openalex.org/W4200565805
+- https://openalex.org/W4200567725
+- https://openalex.org/W4200611336
+- https://openalex.org/W4205118290
+- https://openalex.org/W4205136907
+- https://openalex.org/W4205404796
+- https://openalex.org/W4205536845
+- https://openalex.org/W4205542199
+- https://openalex.org/W4205585760
+- https://openalex.org/W4205715736
+- https://openalex.org/W4205740463
+- https://openalex.org/W4205742288
+- https://openalex.org/W4205771812
+- https://openalex.org/W4205820809
+- https://openalex.org/W4205875016
+- https://openalex.org/W4205994024
+- https://openalex.org/W4206087788
+- https://openalex.org/W4206108500
+- https://openalex.org/W4206303533
+- https://openalex.org/W4206321479
+- https://openalex.org/W4206347423
+- https://openalex.org/W4206510592
+- https://openalex.org/W4206535166
+- https://openalex.org/W4206547093
+- https://openalex.org/W4206606605
+- https://openalex.org/W4206812856
+- https://openalex.org/W4206831541
+- https://openalex.org/W4207032939
+- https://openalex.org/W4207043266
+- https://openalex.org/W4207050052
+- https://openalex.org/W4207058257
+- https://openalex.org/W4210456506
+- https://openalex.org/W4210530467
+- https://openalex.org/W4210630899
+- https://openalex.org/W4210648172
+- https://openalex.org/W4210752807
+- https://openalex.org/W4210768658
+- https://openalex.org/W4210776720
+- https://openalex.org/W4210809931
+- https://openalex.org/W4210825843
+- https://openalex.org/W4210883786
+- https://openalex.org/W4210904931
+- https://openalex.org/W4210942150
+- https://openalex.org/W4210970969
+- https://openalex.org/W4211040736
+- https://openalex.org/W4211070538
+- https://openalex.org/W4211108898
+- https://openalex.org/W4211133756
+- https://openalex.org/W4211178353
+- https://openalex.org/W4211183611
+- https://openalex.org/W4212767631
+- https://openalex.org/W4212825768
+- https://openalex.org/W4213055289
+- https://openalex.org/W4213078292
+- https://openalex.org/W4213161013
+- https://openalex.org/W4213161128
+- https://openalex.org/W4213270785
+- https://openalex.org/W4213328565
+- https://openalex.org/W4213360791
+- https://openalex.org/W4213419022
+- https://openalex.org/W4213420944
+- https://openalex.org/W4213449258
+- https://openalex.org/W4214594900
+- https://openalex.org/W4214714756
+- https://openalex.org/W4214890820
+- https://openalex.org/W4214897462
+- https://openalex.org/W4220691225
+- https://openalex.org/W4220705214
+- https://openalex.org/W4220720077
+- https://openalex.org/W4220724854
+- https://openalex.org/W4220738350
+- https://openalex.org/W4220748255
+- https://openalex.org/W4220751861
+- https://openalex.org/W4220768308
+- https://openalex.org/W4220780926
+- https://openalex.org/W4220781755
+- https://openalex.org/W4220782641
+- https://openalex.org/W4220813964
+- https://openalex.org/W4220814704
+- https://openalex.org/W4220843382
+- https://openalex.org/W4220904030
+- https://openalex.org/W4220908478
+- https://openalex.org/W4220933109
+- https://openalex.org/W4220949377
+- https://openalex.org/W4221009261
+- https://openalex.org/W4221009498
+- https://openalex.org/W4221009823
+- https://openalex.org/W4221053692
+- https://openalex.org/W4221067154
+- https://openalex.org/W4221130265
+- https://openalex.org/W4223501737
+- https://openalex.org/W4223512261
+- https://openalex.org/W4223591503
+- https://openalex.org/W4223901947
+- https://openalex.org/W4223903097
+- https://openalex.org/W4223912570
+- https://openalex.org/W4223921983
+- https://openalex.org/W4223926890
+- https://openalex.org/W4223963171
+- https://openalex.org/W4223967672
+- https://openalex.org/W4223976365
+- https://openalex.org/W4224015761
+- https://openalex.org/W4224119445
+- https://openalex.org/W4224229286
+- https://openalex.org/W4224237284
+- https://openalex.org/W4224237962
+- https://openalex.org/W4224241053
+- https://openalex.org/W4224296811
+- https://openalex.org/W4224921487
+- https://openalex.org/W4224981638
+- https://openalex.org/W4224983989
+- https://openalex.org/W4225014257
+- https://openalex.org/W4225160259
+- https://openalex.org/W4225358233
+- https://openalex.org/W4225524921
+- https://openalex.org/W4225525464
+- https://openalex.org/W4225604173
+- https://openalex.org/W4225622421
+- https://openalex.org/W4225828207
+- https://openalex.org/W4225853069
+- https://openalex.org/W4226085163
+- https://openalex.org/W4226335606
+- https://openalex.org/W4226357524
+- https://openalex.org/W4226424894
+- https://openalex.org/W4229000069
+- https://openalex.org/W4229057588
+- https://openalex.org/W4229456303
+- https://openalex.org/W4231227832
+- https://openalex.org/W4233826252
+- https://openalex.org/W4246020459
+- https://openalex.org/W4246214691
+- https://openalex.org/W4247234299
+- https://openalex.org/W4249062547
+- https://openalex.org/W4251141134
+- https://openalex.org/W4251857280
+- https://openalex.org/W4280500606
+- https://openalex.org/W4280514966
+- https://openalex.org/W4280517544
+- https://openalex.org/W4280530572
+- https://openalex.org/W4280552546
+- https://openalex.org/W4280558152
+- https://openalex.org/W4280559041
+- https://openalex.org/W4280578448
+- https://openalex.org/W4280620526
+- https://openalex.org/W4280629605
+- https://openalex.org/W4281261047
+- https://openalex.org/W4281261877
+- https://openalex.org/W4281383705
+- https://openalex.org/W4281390012
+- https://openalex.org/W4281553981
+- https://openalex.org/W4281558987
+- https://openalex.org/W4281609820
+- https://openalex.org/W4281635836
+- https://openalex.org/W4281664876
+- https://openalex.org/W4281698927
+- https://openalex.org/W4281712209
+- https://openalex.org/W4281741236
+- https://openalex.org/W4281845262
+- https://openalex.org/W4281886987
+- https://openalex.org/W4281889510
+- https://openalex.org/W4281900509
+- https://openalex.org/W4281901178
+- https://openalex.org/W4281982386
+- https://openalex.org/W4282588046
+- https://openalex.org/W4282916920
+- https://openalex.org/W4282928366
+- https://openalex.org/W4282936986
+- https://openalex.org/W4282937055
+- https://openalex.org/W4282968836
+- https://openalex.org/W4282971230
+- https://openalex.org/W4282976506
+- https://openalex.org/W4283161827
+- https://openalex.org/W4283167194
+- https://openalex.org/W4283261272
+- https://openalex.org/W4283264610
+- https://openalex.org/W4283265480
+- https://openalex.org/W4283267353
+- https://openalex.org/W4283317726
+- https://openalex.org/W4283364874
+- https://openalex.org/W4283580979
+- https://openalex.org/W4283583465
+- https://openalex.org/W4283640675
+- https://openalex.org/W4283690933
+- https://openalex.org/W4283696114
+- https://openalex.org/W4284677594
+- https://openalex.org/W4284688932
+- https://openalex.org/W4284882893
+- https://openalex.org/W4284888278
+- https://openalex.org/W4285010053
+- https://openalex.org/W4285033075
+- https://openalex.org/W4285036697
+- https://openalex.org/W4285042387
+- https://openalex.org/W4285042855
+- https://openalex.org/W4285093147
+- https://openalex.org/W4285189591
+- https://openalex.org/W4285393871
+- https://openalex.org/W4285401867
+- https://openalex.org/W4285596291
+- https://openalex.org/W4285797301
+- https://openalex.org/W4285797592
+- https://openalex.org/W4286111270
+- https://openalex.org/W4286210600
+- https://openalex.org/W4286245996
+- https://openalex.org/W4286255052
+- https://openalex.org/W4286560842
+- https://openalex.org/W4286823251
+- https://openalex.org/W4286834407
+- https://openalex.org/W4287448773
+- https://openalex.org/W4288050845
+- https://openalex.org/W4288051162
+- https://openalex.org/W4288080734
+- https://openalex.org/W4288084723
+- https://openalex.org/W4288096034
+- https://openalex.org/W4288424909
+- https://openalex.org/W4288425298
+- https://openalex.org/W4288437883
+- https://openalex.org/W4289260994
+- https://openalex.org/W4289519996
+- https://openalex.org/W4289550191
+- https://openalex.org/W4289780622
+- https://openalex.org/W4289846545
+- https://openalex.org/W4290672784
+- https://openalex.org/W4290673254
+- https://openalex.org/W4291624534
+- https://openalex.org/W4292081200
+- https://openalex.org/W4292230157
+- https://openalex.org/W4292329595
+- https://openalex.org/W4292487303
+- https://openalex.org/W4292639903
+- https://openalex.org/W4293004994
+- https://openalex.org/W4293056493
+- https://openalex.org/W4293063089
+- https://openalex.org/W4293079886
+- https://openalex.org/W4293182219
+- https://openalex.org/W4293572175
+- https://openalex.org/W4294011860
+- https://openalex.org/W4294032317
+- https://openalex.org/W4294072977
+- https://openalex.org/W4294564719
+- https://openalex.org/W4294612541
+- https://openalex.org/W4294740815
+- https://openalex.org/W4294904295
+- https://openalex.org/W4294958661
+- https://openalex.org/W4295762998
+- https://openalex.org/W4296423228
+- https://openalex.org/W4296552404
+- https://openalex.org/W4296635132
+- https://openalex.org/W4299879670
+- https://openalex.org/W4300861952
+- https://openalex.org/W4302011984
+- https://openalex.org/W4302305040
+- https://openalex.org/W4302362388
+- https://openalex.org/W4303444916
+- https://openalex.org/W4304128546
+- https://openalex.org/W4304692545
+- https://openalex.org/W4304974945
+- https://openalex.org/W4305040304
+- https://openalex.org/W4306145952
+- https://openalex.org/W4306691758
+- https://openalex.org/W4306888820
+- https://openalex.org/W4306969177
+- https://openalex.org/W4307322515
+- https://openalex.org/W4307931493
+- https://openalex.org/W4308432396
+- https://openalex.org/W4308496860
+- https://openalex.org/W4308620800
+- https://openalex.org/W4308699122
+- https://openalex.org/W4308770207
+- https://openalex.org/W4308771390
+- https://openalex.org/W4308882992
+- https://openalex.org/W4309083869
+- https://openalex.org/W4309408875
+- https://openalex.org/W4309769686
+- https://openalex.org/W4310058384
+- https://openalex.org/W4310701659
+- https://openalex.org/W4310706086
+- https://openalex.org/W4311109666
+- https://openalex.org/W4311559145
+- https://openalex.org/W4311587438
+- https://openalex.org/W4313068092
+- https://openalex.org/W4313203992
+- https://openalex.org/W4313434947
+- https://openalex.org/W4318049711
+- https://openalex.org/W590870413
+- https://openalex.org/W592099904
+primary_topic: Advanced Sensor and Energy Harvesting Materials
+open_access: true

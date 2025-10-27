@@ -1,0 +1,488 @@
+id: https://openalex.org/W3011610993
+doi: https://doi.org/10.1001/jamainternmed.2020.0994
+title: Risk Factors Associated With Acute Respiratory Distress Syndrome and Death
+  in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China
+publication_date: '2020-03-13'
+publication_year: 2020
+cited_by_count: 8280
+citation_percentile: 0.999954
+pagerank: 5.171653084876342e-06
+authorships:
+- author_id: https://openalex.org/A5101158970
+  display_name: Chaomin Wu
+  orcid: null
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I3020662980
+    display_name: Jinyintan Hospital
+    ror: https://ror.org/038p1ty61
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary Medicine, QingPu Branch of Zhongshan Hospital Affiliated
+    to Fudan University, Shanghai, China
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+  - Infection Division, Wuhan Jinyintan Hospital, Wuhan, China
+- author_id: https://openalex.org/A5100373745
+  display_name: Xiaohong Chen
+  orcid: https://orcid.org/0000-0002-9797-8384
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+- author_id: https://openalex.org/A5113923318
+  display_name: Yanping Cai
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020662980
+    display_name: Jinyintan Hospital
+    ror: https://ror.org/038p1ty61
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Infection Division, Wuhan Jinyintan Hospital, Wuhan, China
+- author_id: https://openalex.org/A5024929222
+  display_name: Jiaan Xia
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020662980
+    display_name: Jinyintan Hospital
+    ror: https://ror.org/038p1ty61
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China
+- author_id: https://openalex.org/A5101715166
+  display_name: Xing Zhou
+  orcid: https://orcid.org/0000-0003-1042-7385
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020662980
+    display_name: Jinyintan Hospital
+    ror: https://ror.org/038p1ty61
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Infection Division, Wuhan Jinyintan Hospital, Wuhan, China
+- author_id: https://openalex.org/A5084275324
+  display_name: Sha Xu
+  orcid: https://orcid.org/0000-0002-2235-7057
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020662980
+    display_name: Jinyintan Hospital
+    ror: https://ror.org/038p1ty61
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Infection Division, Wuhan Jinyintan Hospital, Wuhan, China
+- author_id: https://openalex.org/A5110672771
+  display_name: Han-Ping Huang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020662980
+    display_name: Jinyintan Hospital
+    ror: https://ror.org/038p1ty61
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China
+- author_id: https://openalex.org/A5100425652
+  display_name: Li Zhang
+  orcid: https://orcid.org/0000-0002-8433-2402
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020662980
+    display_name: Jinyintan Hospital
+    ror: https://ror.org/038p1ty61
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China
+- author_id: https://openalex.org/A5104033468
+  display_name: Xia Zhou
+  orcid: https://orcid.org/0009-0008-6364-1530
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I3020662980
+    display_name: Jinyintan Hospital
+    ror: https://ror.org/038p1ty61
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China
+- author_id: https://openalex.org/A5103231663
+  display_name: Chunling Du
+  orcid: https://orcid.org/0000-0002-5170-6869
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary Medicine, QingPu Branch of Zhongshan Hospital Affiliated
+    to Fudan University, Shanghai, China
+- author_id: https://openalex.org/A5101489988
+  display_name: Yuye Zhang
+  orcid: https://orcid.org/0000-0002-7106-2159
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+- author_id: https://openalex.org/A5035939771
+  display_name: Juan Song
+  orcid: https://orcid.org/0000-0001-7350-9578
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+- author_id: https://openalex.org/A5102745929
+  display_name: Sijiao Wang
+  orcid: https://orcid.org/0000-0003-1380-3171
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+- author_id: https://openalex.org/A5032339061
+  display_name: Yencheng Chao
+  orcid: https://orcid.org/0000-0002-0636-6252
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+- author_id: https://openalex.org/A5000901927
+  display_name: Zeyong Yang
+  orcid: https://orcid.org/0000-0003-1331-0836
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210108664
+    display_name: International Peace Maternity & Child Health Hospital
+    ror: https://ror.org/01byttc20
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Anesthesiology, International Peace Maternity and Child Health Hospital,
+    Shanghai Jiao Tong University School of Medicine, Shanghai, China
+- author_id: https://openalex.org/A5100784495
+  display_name: Jie Xu
+  orcid: https://orcid.org/0000-0001-9163-3898
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210165480
+    display_name: Guhua Hospital
+    ror: https://ror.org/01t8k4098
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Infectious Diseases, Fengxian Guhua Hospital, Shanghai, China
+- author_id: https://openalex.org/A5101881628
+  display_name: Xin Zhou
+  orcid: https://orcid.org/0000-0001-7031-648X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210135742
+    display_name: Shanghai First People's Hospital
+    ror: https://ror.org/04a46mh28
+    country_code: CN
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary Medicine, Shanghai General Hospital, Shanghai Jiao Tong
+    University School of Medicine, Shanghai, China
+- author_id: https://openalex.org/A5101740619
+  display_name: Dechang Chen
+  orcid: https://orcid.org/0000-0003-1999-0211
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801556517
+    display_name: Ruijin Hospital
+    ror: https://ror.org/01hv94n30
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Critical Care Medicine, Ruijin Hospital, Shanghai Jiao Tong University
+    School of Medicine, Shanghai, China
+- author_id: https://openalex.org/A5101795515
+  display_name: Weining Xiong
+  orcid: https://orcid.org/0000-0002-3075-9750
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210097066
+    display_name: Shanghai Ninth People's Hospital
+    ror: https://ror.org/010826a91
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Respiratory Medicine, Shanghai Ninth People's Hospital, Shanghai
+    Jiao Tong University School of Medicine, Shanghai, China
+- author_id: https://openalex.org/A5102372324
+  display_name: Lei Xu
+  orcid: https://orcid.org/0009-0001-5297-7046
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210151530
+    display_name: Shanghai Pudong New Area Gongli Hospital
+    ror: https://ror.org/04v5gcw55
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I177933477
+    display_name: Second Military Medical University
+    ror: https://ror.org/04tavpn47
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Emergency Medicine, Shanghai Pudong New Area Gongli Hospital, Shanghai,
+    China
+- author_id: https://openalex.org/A5101546389
+  display_name: Feng Zhou
+  orcid: https://orcid.org/0000-0001-5715-2417
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary Medicine, QingPu Branch of Zhongshan Hospital Affiliated
+    to Fudan University, Shanghai, China
+- author_id: https://openalex.org/A5058309788
+  display_name: Jinjun Jiang
+  orcid: https://orcid.org/0000-0003-2730-3872
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+- author_id: https://openalex.org/A5024974078
+  display_name: Chunxue Bai
+  orcid: https://orcid.org/0000-0001-5798-3130
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+  - Shanghai Respiratory Research Institute, Shanghai, China
+- author_id: https://openalex.org/A5100621096
+  display_name: Junhua Zheng
+  orcid: https://orcid.org/0000-0003-2956-8241
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I183067930
+    display_name: Shanghai Jiao Tong University
+    ror: https://ror.org/0220qvk04
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210135742
+    display_name: Shanghai First People's Hospital
+    ror: https://ror.org/04a46mh28
+    country_code: CN
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Urology, Shanghai General Hospital, Shanghai Jiao Tong University
+    School of Medicine, Shanghai, China
+- author_id: https://openalex.org/A5021015100
+  display_name: Yuanlin Song
+  orcid: https://orcid.org/0000-0003-3373-6631
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210127074
+    display_name: Zhongshan Hospital
+    ror: https://ror.org/032x22645
+    country_code: CN
+    type: healthcare
+  - id: https://openalex.org/I24943067
+    display_name: Fudan University
+    ror: https://ror.org/013q1eq08
+    country_code: CN
+    type: funder
+  - id: https://openalex.org/I4210159575
+    display_name: Huashan Hospital
+    ror: https://ror.org/05201qm87
+    country_code: CN
+    type: healthcare
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Pulmonary Medicine, QingPu Branch of Zhongshan Hospital Affiliated
+    to Fudan University, Shanghai, China
+  - Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan
+    University, Shanghai, China
+  - National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan
+    University, Shanghai, China
+  - Shanghai Respiratory Research Institute, Shanghai, China
+referenced_works:
+- https://openalex.org/W1594981111
+- https://openalex.org/W1971054351
+- https://openalex.org/W1986855904
+- https://openalex.org/W1999546368
+- https://openalex.org/W2001482654
+- https://openalex.org/W2039384309
+- https://openalex.org/W2129203060
+- https://openalex.org/W2156273941
+- https://openalex.org/W2157998346
+- https://openalex.org/W2170984368
+- https://openalex.org/W2256430766
+- https://openalex.org/W2320270386
+- https://openalex.org/W2345375456
+- https://openalex.org/W2516273107
+- https://openalex.org/W2610356532
+- https://openalex.org/W3001118548
+- https://openalex.org/W3001897055
+- https://openalex.org/W3002108456
+- https://openalex.org/W3003430844
+- https://openalex.org/W3004280078
+- https://openalex.org/W3005079553
+- https://openalex.org/W3022185507
+- https://openalex.org/W3025517997
+- https://openalex.org/W3026134476
+- https://openalex.org/W3031701903
+- https://openalex.org/W3034651135
+- https://openalex.org/W3165656738
+- https://openalex.org/W4232568236
+- https://openalex.org/W4245317406
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

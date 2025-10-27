@@ -1,0 +1,479 @@
+id: https://openalex.org/W3157357317
+doi: https://doi.org/10.1016/j.cell.2021.04.011
+title: Dual proteome-scale networks reveal cell-specific remodeling of the human interactome
+publication_date: '2021-05-01'
+publication_year: 2021
+cited_by_count: 816
+citation_percentile: 0.999982
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5057640400
+  display_name: Edward L. Huttlin
+  orcid: https://orcid.org/0000-0002-1822-1173
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5041953736
+  display_name: Raphael J. Bruckner
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5019067892
+  display_name: "Jose Navarrete\u2010Perea"
+  orcid: https://orcid.org/0000-0001-6265-6214
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5018658797
+  display_name: Joe R. Cannon
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5009316362
+  display_name: Kurt Baltier
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5069272891
+  display_name: Fana Gebreab
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5022712122
+  display_name: Melanie P. Gygi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5036600906
+  display_name: Alexandra Thornock
+  orcid: https://orcid.org/0000-0003-0511-4376
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5031249270
+  display_name: "Gabriela Z\xE1rraga-Granados"
+  orcid: https://orcid.org/0000-0003-4344-7008
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5063413308
+  display_name: Stanley Tam
+  orcid: https://orcid.org/0000-0002-9338-436X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5074849193
+  display_name: John Szpyt
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5085901310
+  display_name: Brandon M. Gassaway
+  orcid: https://orcid.org/0000-0002-6102-2356
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5072980791
+  display_name: Alexandra Panov
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5084294991
+  display_name: Hannah Parzen
+  orcid: https://orcid.org/0000-0002-5944-3696
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5003045073
+  display_name: Sipei Fu
+  orcid: https://orcid.org/0000-0003-4967-2185
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5080054739
+  display_name: Arvene Golbazi
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5025279379
+  display_name: Eila Maenpaa
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5024900199
+  display_name: Keegan Stricker
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5070138095
+  display_name: Sanjukta Guha Thakurta
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5100371722
+  display_name: Tian Zhang
+  orcid: https://orcid.org/0000-0001-9007-7965
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5029984589
+  display_name: Ramin Rad
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5005553403
+  display_name: Joshua Pan
+  orcid: https://orcid.org/0000-0002-7745-1497
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I107606265
+    display_name: Broad Institute
+    ror: https://ror.org/05a0ya142
+    country_code: US
+    type: nonprofit
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Broad Institute, Cambridge, MA 02142, USA
+- author_id: https://openalex.org/A5037034183
+  display_name: David P. Nusinow
+  orcid: https://orcid.org/0000-0002-7819-5261
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5026734370
+  display_name: "Jo\xE3o A. Paulo"
+  orcid: https://orcid.org/0000-0002-4291-413X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5065677258
+  display_name: Devin K. Schweppe
+  orcid: https://orcid.org/0000-0002-3241-6276
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5013860038
+  display_name: Laura Pontano Vaites
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5047746208
+  display_name: J. Wade Harper
+  orcid: https://orcid.org/0000-0002-6944-7236
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+- author_id: https://openalex.org/A5079793809
+  display_name: Steven P. Gygi
+  orcid: https://orcid.org/0000-0001-7626-0034
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I136199984
+    display_name: Harvard University
+    ror: https://ror.org/03vek6s52
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA
+referenced_works:
+- https://openalex.org/W1611787727
+- https://openalex.org/W1760215417
+- https://openalex.org/W1777916189
+- https://openalex.org/W1838945435
+- https://openalex.org/W1871096589
+- https://openalex.org/W1934704664
+- https://openalex.org/W1978646107
+- https://openalex.org/W1978677736
+- https://openalex.org/W1986656413
+- https://openalex.org/W1989277387
+- https://openalex.org/W1993450321
+- https://openalex.org/W1994803330
+- https://openalex.org/W1996286322
+- https://openalex.org/W2012626734
+- https://openalex.org/W2023994677
+- https://openalex.org/W2025718369
+- https://openalex.org/W2026465178
+- https://openalex.org/W2027262611
+- https://openalex.org/W2037036397
+- https://openalex.org/W2041399392
+- https://openalex.org/W2044433401
+- https://openalex.org/W2045373134
+- https://openalex.org/W2048839385
+- https://openalex.org/W2050721857
+- https://openalex.org/W2054094290
+- https://openalex.org/W2065031087
+- https://openalex.org/W2073094091
+- https://openalex.org/W2081375228
+- https://openalex.org/W2084619201
+- https://openalex.org/W2089273345
+- https://openalex.org/W2096057003
+- https://openalex.org/W2103017472
+- https://openalex.org/W2106967677
+- https://openalex.org/W2106969933
+- https://openalex.org/W2110065044
+- https://openalex.org/W2116117181
+- https://openalex.org/W2121288523
+- https://openalex.org/W2123347941
+- https://openalex.org/W2124166542
+- https://openalex.org/W2130479394
+- https://openalex.org/W2133631052
+- https://openalex.org/W2143892509
+- https://openalex.org/W2148043260
+- https://openalex.org/W2162620349
+- https://openalex.org/W2167279371
+- https://openalex.org/W2173122519
+- https://openalex.org/W2174686320
+- https://openalex.org/W2188873428
+- https://openalex.org/W2269834552
+- https://openalex.org/W2293646973
+- https://openalex.org/W2293847040
+- https://openalex.org/W2348394504
+- https://openalex.org/W2416423710
+- https://openalex.org/W2417412608
+- https://openalex.org/W2461644695
+- https://openalex.org/W2537623931
+- https://openalex.org/W2537679995
+- https://openalex.org/W2582743722
+- https://openalex.org/W2606863448
+- https://openalex.org/W2613629789
+- https://openalex.org/W2616561032
+- https://openalex.org/W2624282460
+- https://openalex.org/W2697722282
+- https://openalex.org/W2735132087
+- https://openalex.org/W2739782708
+- https://openalex.org/W2739999456
+- https://openalex.org/W2741508285
+- https://openalex.org/W2767250022
+- https://openalex.org/W2768250178
+- https://openalex.org/W2784370070
+- https://openalex.org/W2799836896
+- https://openalex.org/W2803544880
+- https://openalex.org/W2809000676
+- https://openalex.org/W2896565895
+- https://openalex.org/W2898292577
+- https://openalex.org/W2898402099
+- https://openalex.org/W2900674118
+- https://openalex.org/W2906889822
+- https://openalex.org/W2908318620
+- https://openalex.org/W2910787661
+- https://openalex.org/W2917858269
+- https://openalex.org/W2920207301
+- https://openalex.org/W2941892501
+- https://openalex.org/W2950512597
+- https://openalex.org/W2951603212
+- https://openalex.org/W2953045765
+- https://openalex.org/W2966546269
+- https://openalex.org/W2978348204
+- https://openalex.org/W2982399132
+- https://openalex.org/W3001475835
+- https://openalex.org/W3012775092
+- https://openalex.org/W3015964336
+- https://openalex.org/W3029343900
+- https://openalex.org/W3030585020
+- https://openalex.org/W3036252879
+- https://openalex.org/W3112963616
+- https://openalex.org/W3152174874
+- https://openalex.org/W3155528889
+- https://openalex.org/W3157385228
+- https://openalex.org/W3163911339
+- https://openalex.org/W374143785
+- https://openalex.org/W4233698560
+- https://openalex.org/W4243979784
+primary_topic: Bioinformatics and Genomic Networks
+open_access: true

@@ -1,0 +1,444 @@
+id: https://openalex.org/W3201073812
+doi: https://doi.org/10.1016/j.cpc.2021.108171
+title: LAMMPS - a flexible simulation tool for particle-based materials modeling at
+  the atomic, meso, and continuum scales
+publication_date: '2021-09-22'
+publication_year: 2021
+cited_by_count: 8192
+citation_percentile: 0.999973
+pagerank: 2.5256430318223825e-06
+authorships:
+- author_id: https://openalex.org/A5103072309
+  display_name: Aidan P. Thompson
+  orcid: https://orcid.org/0000-0002-0324-9114
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I4210104735
+    display_name: Sandia National Laboratories
+    ror: https://ror.org/01apwpt12
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Sandia National Laboratories, Albuquerque, NM 87185, USA
+- author_id: https://openalex.org/A5072718512
+  display_name: Hasan Metin Aktulga
+  orcid: https://orcid.org/0000-0003-3061-6378
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I87216513
+    display_name: Michigan State University
+    ror: https://ror.org/05hs6h993
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Michigan State University, East Lansing, MI 48824, USA
+- author_id: https://openalex.org/A5000977599
+  display_name: Richard A. Berger
+  orcid: https://orcid.org/0000-0002-3044-8266
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84392919
+    display_name: Temple University
+    ror: https://ror.org/00kx1jb78
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Temple University, Philadelphia, PA 19122, USA
+- author_id: https://openalex.org/A5060512885
+  display_name: Dan Bolintineanu
+  orcid: https://orcid.org/0000-0002-5727-2942
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104735
+    display_name: Sandia National Laboratories
+    ror: https://ror.org/01apwpt12
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sandia National Laboratories, Albuquerque, NM 87185, USA
+- author_id: https://openalex.org/A5103398459
+  display_name: William M. Brown
+  orcid: https://orcid.org/0000-0001-6875-4296
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I1343180700
+    display_name: Intel (United States)
+    ror: https://ror.org/01ek73717
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Intel Corporation, Hillsboro, OR 97124, USA
+- author_id: https://openalex.org/A5050481494
+  display_name: Paul Crozier
+  orcid: https://orcid.org/0000-0003-2966-6474
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104735
+    display_name: Sandia National Laboratories
+    ror: https://ror.org/01apwpt12
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sandia National Laboratories, Albuquerque, NM 87185, USA
+- author_id: https://openalex.org/A5005979945
+  display_name: "Pieter J. in \u2019t Veld"
+  orcid: https://orcid.org/0000-0001-8460-5688
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210107087
+    display_name: BASF (Germany)
+    ror: https://ror.org/01q8f6705
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BASF SE, Ludwigshafen am Rhein, Germany
+- author_id: https://openalex.org/A5026494099
+  display_name: Axel Kohlmeyer
+  orcid: https://orcid.org/0000-0001-6204-6475
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I84392919
+    display_name: Temple University
+    ror: https://ror.org/00kx1jb78
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Temple University, Philadelphia, PA 19122, USA
+- author_id: https://openalex.org/A5063047832
+  display_name: Stan Moore
+  orcid: https://orcid.org/0000-0001-8951-2886
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104735
+    display_name: Sandia National Laboratories
+    ror: https://ror.org/01apwpt12
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sandia National Laboratories, Albuquerque, NM 87185, USA
+- author_id: https://openalex.org/A5063955138
+  display_name: Trung Dac Nguyen
+  orcid: https://orcid.org/0000-0002-5076-264X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I111979921
+    display_name: Northwestern University
+    ror: https://ror.org/000e0be47
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Northwestern University, Evanston, IL 60208, USA
+- author_id: https://openalex.org/A5063193281
+  display_name: Ray Shan
+  orcid: null
+  author_position: middle
+  institutions: []
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Materials Design Inc., San Diego, CA 92131, USA
+- author_id: https://openalex.org/A5078994404
+  display_name: Mark J. Stevens
+  orcid: https://orcid.org/0000-0002-2290-0224
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104735
+    display_name: Sandia National Laboratories
+    ror: https://ror.org/01apwpt12
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sandia National Laboratories, Albuquerque, NM 87185, USA
+- author_id: https://openalex.org/A5034893508
+  display_name: Julien Tranchida
+  orcid: https://orcid.org/0000-0003-2782-1282
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104735
+    display_name: Sandia National Laboratories
+    ror: https://ror.org/01apwpt12
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sandia National Laboratories, Albuquerque, NM 87185, USA
+- author_id: https://openalex.org/A5081085090
+  display_name: Christian Robert Trott
+  orcid: https://orcid.org/0000-0003-0661-5594
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210104735
+    display_name: Sandia National Laboratories
+    ror: https://ror.org/01apwpt12
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Sandia National Laboratories, Albuquerque, NM 87185, USA
+- author_id: https://openalex.org/A5068520992
+  display_name: Steven J. Plimpton
+  orcid: https://orcid.org/0000-0003-2446-8209
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I4210104735
+    display_name: Sandia National Laboratories
+    ror: https://ror.org/01apwpt12
+    country_code: US
+    type: funder
+  is_corresponding: true
+  raw_affiliation_strings:
+  - Sandia National Laboratories, Albuquerque, NM 87185, USA
+referenced_works:
+- https://openalex.org/W1031578623
+- https://openalex.org/W1483549997
+- https://openalex.org/W1560780428
+- https://openalex.org/W1572123106
+- https://openalex.org/W1583503018
+- https://openalex.org/W1596416914
+- https://openalex.org/W1672666614
+- https://openalex.org/W1892911143
+- https://openalex.org/W1963495301
+- https://openalex.org/W1964694986
+- https://openalex.org/W1967801857
+- https://openalex.org/W1969763275
+- https://openalex.org/W1969912709
+- https://openalex.org/W1970486977
+- https://openalex.org/W1970642123
+- https://openalex.org/W1972295667
+- https://openalex.org/W1975129346
+- https://openalex.org/W1975353473
+- https://openalex.org/W1976679893
+- https://openalex.org/W1977482735
+- https://openalex.org/W1979680610
+- https://openalex.org/W1981410769
+- https://openalex.org/W1981436290
+- https://openalex.org/W1982527174
+- https://openalex.org/W1982733304
+- https://openalex.org/W1983006766
+- https://openalex.org/W1984751274
+- https://openalex.org/W1985294501
+- https://openalex.org/W1986356457
+- https://openalex.org/W1987427622
+- https://openalex.org/W1990703786
+- https://openalex.org/W1992339286
+- https://openalex.org/W1993630354
+- https://openalex.org/W2002293913
+- https://openalex.org/W2002480191
+- https://openalex.org/W2003439009
+- https://openalex.org/W2004369921
+- https://openalex.org/W2005944647
+- https://openalex.org/W2009997795
+- https://openalex.org/W2010889152
+- https://openalex.org/W2011454852
+- https://openalex.org/W2011996346
+- https://openalex.org/W2015427003
+- https://openalex.org/W2017835622
+- https://openalex.org/W2018285100
+- https://openalex.org/W2019465613
+- https://openalex.org/W2019481672
+- https://openalex.org/W2021225363
+- https://openalex.org/W2021929941
+- https://openalex.org/W2023822193
+- https://openalex.org/W2025444507
+- https://openalex.org/W2025883589
+- https://openalex.org/W2026285337
+- https://openalex.org/W2026737855
+- https://openalex.org/W2027978575
+- https://openalex.org/W2028621953
+- https://openalex.org/W2029667189
+- https://openalex.org/W2031770198
+- https://openalex.org/W2033086537
+- https://openalex.org/W2033739838
+- https://openalex.org/W2034314368
+- https://openalex.org/W2035687084
+- https://openalex.org/W2036034530
+- https://openalex.org/W2037372400
+- https://openalex.org/W2040809566
+- https://openalex.org/W2040936653
+- https://openalex.org/W2044028691
+- https://openalex.org/W2044202126
+- https://openalex.org/W2044786534
+- https://openalex.org/W2045121626
+- https://openalex.org/W2045187662
+- https://openalex.org/W2046001409
+- https://openalex.org/W2046218546
+- https://openalex.org/W2047968138
+- https://openalex.org/W2049835590
+- https://openalex.org/W2051622977
+- https://openalex.org/W2053515833
+- https://openalex.org/W2053762940
+- https://openalex.org/W2055632110
+- https://openalex.org/W2057653269
+- https://openalex.org/W2058241222
+- https://openalex.org/W2058971275
+- https://openalex.org/W2059295501
+- https://openalex.org/W2061630148
+- https://openalex.org/W2062351702
+- https://openalex.org/W2062454596
+- https://openalex.org/W2062618849
+- https://openalex.org/W2062807652
+- https://openalex.org/W2063384380
+- https://openalex.org/W2064690388
+- https://openalex.org/W2065996552
+- https://openalex.org/W2067174909
+- https://openalex.org/W2067319108
+- https://openalex.org/W2068475611
+- https://openalex.org/W2069086272
+- https://openalex.org/W2070022509
+- https://openalex.org/W2071611283
+- https://openalex.org/W2072711616
+- https://openalex.org/W2074836693
+- https://openalex.org/W2074919582
+- https://openalex.org/W2077227491
+- https://openalex.org/W2077501220
+- https://openalex.org/W2077703436
+- https://openalex.org/W2078051385
+- https://openalex.org/W2079014428
+- https://openalex.org/W2079915729
+- https://openalex.org/W2081347187
+- https://openalex.org/W2081585228
+- https://openalex.org/W2082128407
+- https://openalex.org/W2082164550
+- https://openalex.org/W2083415705
+- https://openalex.org/W2083825926
+- https://openalex.org/W2084224098
+- https://openalex.org/W2085528403
+- https://openalex.org/W2085688023
+- https://openalex.org/W2086673864
+- https://openalex.org/W2086701057
+- https://openalex.org/W2089932008
+- https://openalex.org/W2090613537
+- https://openalex.org/W2093310284
+- https://openalex.org/W2095159785
+- https://openalex.org/W2102182691
+- https://openalex.org/W2106702946
+- https://openalex.org/W2107166616
+- https://openalex.org/W2111516947
+- https://openalex.org/W2118233996
+- https://openalex.org/W2122427541
+- https://openalex.org/W2124191860
+- https://openalex.org/W2128873947
+- https://openalex.org/W2131057369
+- https://openalex.org/W2132262459
+- https://openalex.org/W2133899839
+- https://openalex.org/W2135499842
+- https://openalex.org/W2139531945
+- https://openalex.org/W2141510323
+- https://openalex.org/W2142537728
+- https://openalex.org/W2144503549
+- https://openalex.org/W2146411229
+- https://openalex.org/W2147415793
+- https://openalex.org/W2151693956
+- https://openalex.org/W2155155530
+- https://openalex.org/W2155702554
+- https://openalex.org/W2168363974
+- https://openalex.org/W2170006871
+- https://openalex.org/W2171047927
+- https://openalex.org/W2193457459
+- https://openalex.org/W2197007850
+- https://openalex.org/W2277967415
+- https://openalex.org/W2285424332
+- https://openalex.org/W2318526960
+- https://openalex.org/W2321300946
+- https://openalex.org/W2323178299
+- https://openalex.org/W2330311657
+- https://openalex.org/W2339981947
+- https://openalex.org/W2341068027
+- https://openalex.org/W2483012291
+- https://openalex.org/W2512967176
+- https://openalex.org/W2518539692
+- https://openalex.org/W2522681795
+- https://openalex.org/W2561635787
+- https://openalex.org/W2570009097
+- https://openalex.org/W2601081289
+- https://openalex.org/W26088913
+- https://openalex.org/W2612197902
+- https://openalex.org/W2727902958
+- https://openalex.org/W2735401261
+- https://openalex.org/W2754519592
+- https://openalex.org/W2755359962
+- https://openalex.org/W2767267126
+- https://openalex.org/W2775708988
+- https://openalex.org/W2782733043
+- https://openalex.org/W2783073729
+- https://openalex.org/W2786793885
+- https://openalex.org/W2788161247
+- https://openalex.org/W2803313334
+- https://openalex.org/W2808995149
+- https://openalex.org/W2811218830
+- https://openalex.org/W2890639007
+- https://openalex.org/W2899505112
+- https://openalex.org/W2907471960
+- https://openalex.org/W2910436199
+- https://openalex.org/W2915371097
+- https://openalex.org/W2924683921
+- https://openalex.org/W2939169979
+- https://openalex.org/W2942489120
+- https://openalex.org/W2945045082
+- https://openalex.org/W2945961439
+- https://openalex.org/W2955651397
+- https://openalex.org/W2963101582
+- https://openalex.org/W2964186609
+- https://openalex.org/W2964624821
+- https://openalex.org/W2965950610
+- https://openalex.org/W2968426314
+- https://openalex.org/W2973572202
+- https://openalex.org/W2983452553
+- https://openalex.org/W2985557135
+- https://openalex.org/W2989193128
+- https://openalex.org/W3000291311
+- https://openalex.org/W3004364437
+- https://openalex.org/W3009030042
+- https://openalex.org/W3010340553
+- https://openalex.org/W3013002235
+- https://openalex.org/W3026469900
+- https://openalex.org/W3038723087
+- https://openalex.org/W3046751266
+- https://openalex.org/W3049695724
+- https://openalex.org/W3087399847
+- https://openalex.org/W3087568748
+- https://openalex.org/W3088091541
+- https://openalex.org/W3097578881
+- https://openalex.org/W3098444613
+- https://openalex.org/W3100588430
+- https://openalex.org/W3101484784
+- https://openalex.org/W3101615876
+- https://openalex.org/W3101850685
+- https://openalex.org/W3102845444
+- https://openalex.org/W3103421232
+- https://openalex.org/W3103586898
+- https://openalex.org/W3103751726
+- https://openalex.org/W3104017686
+- https://openalex.org/W3104303939
+- https://openalex.org/W3104686686
+- https://openalex.org/W3105452511
+- https://openalex.org/W3105839808
+- https://openalex.org/W3106674684
+- https://openalex.org/W3106704509
+- https://openalex.org/W3111919956
+- https://openalex.org/W3119774682
+- https://openalex.org/W312001194
+- https://openalex.org/W3128698945
+- https://openalex.org/W3129376220
+- https://openalex.org/W3134244409
+- https://openalex.org/W3136245135
+- https://openalex.org/W3159637363
+- https://openalex.org/W3176386153
+- https://openalex.org/W3200743451
+- https://openalex.org/W3209219382
+- https://openalex.org/W379390718
+- https://openalex.org/W4226064176
+- https://openalex.org/W4243888356
+- https://openalex.org/W4244584041
+primary_topic: Machine Learning in Materials Science
+open_access: true

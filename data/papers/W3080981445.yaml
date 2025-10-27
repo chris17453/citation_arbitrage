@@ -1,0 +1,490 @@
+id: https://openalex.org/W3080981445
+doi: https://doi.org/10.1038/s41591-020-1051-9
+title: An inflammatory cytokine signature predicts COVID-19 severity and survival
+publication_date: '2020-08-24'
+publication_year: 2020
+cited_by_count: 2411
+citation_percentile: 0.999954
+pagerank: 2.8256834861803116e-06
+authorships:
+- author_id: https://openalex.org/A5019402011
+  display_name: Diane M. Del Valle
+  orcid: https://orcid.org/0000-0001-6983-5362
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Immune Monitoring Center, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5054970583
+  display_name: "Seunghee Kim\u2010Schulze"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Immune Monitoring Center, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5067778535
+  display_name: Hsin-Hui Huang
+  orcid: https://orcid.org/0000-0001-7160-5179
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Health Care Delivery Science, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5077594919
+  display_name: Noam D. Beckmann
+  orcid: https://orcid.org/0000-0002-4258-1574
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5088931848
+  display_name: Sharon Nirenberg
+  orcid: https://orcid.org/0000-0002-8556-4213
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5100408181
+  display_name: Bo Wang
+  orcid: https://orcid.org/0000-0003-1679-0994
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5073819212
+  display_name: Yonit Lavin
+  orcid: https://orcid.org/0000-0003-0593-3910
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5054852278
+  display_name: Talia H. Swartz
+  orcid: https://orcid.org/0000-0003-1572-045X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5014158343
+  display_name: Deepu Madduri
+  orcid: https://orcid.org/0000-0002-7305-9690
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5029991941
+  display_name: Aryeh Stock
+  orcid: https://orcid.org/0000-0003-1500-5819
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathology, Molecular and Cell-Based Medicine, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5057343975
+  display_name: Thomas U. Marron
+  orcid: https://orcid.org/0000-0001-5903-8191
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5062473952
+  display_name: Hui Xie
+  orcid: https://orcid.org/0000-0002-3941-4150
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Immune Monitoring Center, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5038933116
+  display_name: Manishkumar Patel
+  orcid: https://orcid.org/0000-0002-7949-5610
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Immune Monitoring Center, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5022181934
+  display_name: Kevin Tuballes
+  orcid: https://orcid.org/0000-0002-5899-7080
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Human Immune Monitoring Center, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5002477157
+  display_name: Oliver Van Oekelen
+  orcid: https://orcid.org/0000-0002-5824-197X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5020454256
+  display_name: Adeeb Rahman
+  orcid: https://orcid.org/0000-0002-8620-3161
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5019842052
+  display_name: Patricia Kovatch
+  orcid: https://orcid.org/0000-0001-8368-1742
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5088973456
+  display_name: Judith A. Aberg
+  orcid: https://orcid.org/0000-0001-8162-0284
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5071946434
+  display_name: Eric E. Schadt
+  orcid: https://orcid.org/0000-0002-7892-8808
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5028046297
+  display_name: Sundar Jagannath
+  orcid: https://orcid.org/0000-0003-2934-6518
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5065354635
+  display_name: Madhu Mazumdar
+  orcid: https://orcid.org/0000-0003-3965-5146
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Health Care Delivery Science, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5091224898
+  display_name: Alexander W. Charney
+  orcid: https://orcid.org/0000-0001-8135-6858
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York,
+    NY, USA
+- author_id: https://openalex.org/A5064070343
+  display_name: "Adolfo Firpo\u2010Betancourt"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathology, Molecular and Cell-Based Medicine, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5069687125
+  display_name: Damodara Rao Mendu
+  orcid: https://orcid.org/0000-0002-0420-9085
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathology, Molecular and Cell-Based Medicine, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5112782148
+  display_name: Jeffrey S. Jhang
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathology, Molecular and Cell-Based Medicine, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5072386957
+  display_name: David L. Reich
+  orcid: https://orcid.org/0000-0003-0095-515X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Anesthesiology, Perioperative and Pain Medicine, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5049808872
+  display_name: Keith Sigel
+  orcid: https://orcid.org/0000-0002-4051-4861
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY,
+    USA
+- author_id: https://openalex.org/A5080940311
+  display_name: "Carlos Cordon\u2010Cardo"
+  orcid: https://orcid.org/0000-0003-0858-5624
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Pathology, Molecular and Cell-Based Medicine, Icahn School of Medicine at Mount
+    Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5057580992
+  display_name: Marc Feldmann
+  orcid: https://orcid.org/0000-0003-0800-7840
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I40120149
+    display_name: University of Oxford
+    ror: https://ror.org/052gg0110
+    country_code: GB
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Kennedy Institute of Rheumatology, University of Oxford, Oxford, UK
+- author_id: https://openalex.org/A5030726651
+  display_name: Samir Parekh
+  orcid: https://orcid.org/0000-0001-9694-8469
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5070354041
+  display_name: "Miriam M\xE9rad"
+  orcid: https://orcid.org/0000-0002-4481-7827
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+- author_id: https://openalex.org/A5078046623
+  display_name: Sacha Gnjatic
+  orcid: https://orcid.org/0000-0001-5643-9520
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I98704320
+    display_name: Icahn School of Medicine at Mount Sinai
+    ror: https://ror.org/04a9tmd77
+    country_code: US
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Oncological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+referenced_works:
+- https://openalex.org/W1985299015
+- https://openalex.org/W2004009085
+- https://openalex.org/W2023761225
+- https://openalex.org/W2066356596
+- https://openalex.org/W2099570622
+- https://openalex.org/W2108373994
+- https://openalex.org/W2123884323
+- https://openalex.org/W2136883754
+- https://openalex.org/W2148974484
+- https://openalex.org/W2466982071
+- https://openalex.org/W2899657218
+- https://openalex.org/W2966489555
+- https://openalex.org/W3007460166
+- https://openalex.org/W3009314935
+- https://openalex.org/W3010096538
+- https://openalex.org/W3010123202
+- https://openalex.org/W3011610993
+- https://openalex.org/W3012421327
+- https://openalex.org/W3014823176
+- https://openalex.org/W3015861468
+- https://openalex.org/W3016535995
+- https://openalex.org/W3016661132
+- https://openalex.org/W3018038894
+- https://openalex.org/W3018958559
+- https://openalex.org/W3021783676
+- https://openalex.org/W3022970339
+- https://openalex.org/W3023982717
+- https://openalex.org/W3024607230
+- https://openalex.org/W3025160648
+- https://openalex.org/W3035205964
+- https://openalex.org/W3042270788
+- https://openalex.org/W3043538380
+- https://openalex.org/W3175417087
+- https://openalex.org/W4210642183
+primary_topic: COVID-19 Clinical Research Studies
+open_access: true

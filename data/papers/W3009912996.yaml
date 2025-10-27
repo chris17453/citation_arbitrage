@@ -1,0 +1,338 @@
+id: https://openalex.org/W3009912996
+doi: https://doi.org/10.1016/j.cell.2020.02.052
+title: SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically
+  Proven Protease Inhibitor
+publication_date: '2020-03-09'
+publication_year: 2020
+cited_by_count: 20451
+citation_percentile: 0.999954
+pagerank: 8.139256339289816e-06
+authorships:
+- author_id: https://openalex.org/A5019620317
+  display_name: Markus Hoffmann
+  orcid: https://orcid.org/0000-0003-4603-7696
+  author_position: first
+  institutions:
+  - id: https://openalex.org/I2801496451
+    display_name: German Primate Center
+    ror: https://ror.org/02f99v835
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Infection Biology Unit, German Primate Center \u2013 Leibniz Institute for Primate\
+    \ Research, G\xF6ttingen, Germany"
+- author_id: https://openalex.org/A5044441675
+  display_name: "Hannah Kleine\u2010Weber"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I2801496451
+    display_name: German Primate Center
+    ror: https://ror.org/02f99v835
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I74656192
+    display_name: "University of G\xF6ttingen"
+    ror: https://ror.org/01y9bpm73
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Faculty of Biology and Psychology, University G\xF6ttingen, G\xF6ttingen, Germany"
+  - "Infection Biology Unit, German Primate Center \u2013 Leibniz Institute for Primate\
+    \ Research, G\xF6ttingen, Germany"
+- author_id: https://openalex.org/A5074494709
+  display_name: Simon Schroeder
+  orcid: https://orcid.org/0000-0003-2085-767X
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210115305
+    display_name: German Center for Infection Research
+    ror: https://ror.org/028s4q594
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Charit\xE9-Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4\
+    t Berlin, Humboldt-Universit\xE4t zu Berlin, and Berlin Institute of Health, Institute\
+    \ of Virology, Berlin, Germany"
+  - "German Centre for Infection Research, associated partner Charit\xE9, Berlin,\
+    \ Germany"
+- author_id: https://openalex.org/A5082143205
+  display_name: "Nadine Kr\xFCger"
+  orcid: https://orcid.org/0000-0002-4413-8699
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I189991
+    display_name: University of Veterinary Medicine Hannover, Foundation
+    ror: https://ror.org/015qjqf64
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Virology, University of Veterinary Medicine Hannover, Hannover, Germany
+  - Research Center for Emerging Infections and Zoonoses, University of Veterinary
+    Medicine Hannover, Hannover, Germany
+- author_id: https://openalex.org/A5063536124
+  display_name: Tanja Herrler
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105334
+    display_name: Berufsgenossenschaftliche Unfallklinik Murnau
+    ror: https://ror.org/01fgmnw14
+    country_code: DE
+    type: healthcare
+  is_corresponding: false
+  raw_affiliation_strings:
+  - BG Unfallklinik Murnau, Murnau, Germany
+- author_id: https://openalex.org/A5083074687
+  display_name: Sandra Erichsen
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I4210105334
+    display_name: Berufsgenossenschaftliche Unfallklinik Murnau
+    ror: https://ror.org/01fgmnw14
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I27945538
+    display_name: Paracelsus Medical University
+    ror: https://ror.org/03z3mg085
+    country_code: AT
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute for Biomechanics, BG Unfallklinik Murnau, Murnau, Germany
+  - Institute for Biomechanics, Paracelsus Medical University Salzburg, Salzburg,
+    Austria
+- author_id: https://openalex.org/A5033152934
+  display_name: Tobias S. Schiergens
+  orcid: https://orcid.org/0000-0001-6111-5328
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I8204097
+    display_name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    ror: https://ror.org/05591te55
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Biobank of the Department of General, Visceral, and Transplant Surgery, Ludwig-Maximilians-University
+    Munich, Munich, Germany
+- author_id: https://openalex.org/A5065412037
+  display_name: Georg Herrler
+  orcid: https://orcid.org/0000-0002-5827-0957
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I189991
+    display_name: University of Veterinary Medicine Hannover, Foundation
+    ror: https://ror.org/015qjqf64
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Virology, University of Veterinary Medicine Hannover, Hannover, Germany
+- author_id: https://openalex.org/A5028405920
+  display_name: Nai-Huei Wu
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I189991
+    display_name: University of Veterinary Medicine Hannover, Foundation
+    ror: https://ror.org/015qjqf64
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Institute of Virology, University of Veterinary Medicine Hannover, Hannover, Germany
+- author_id: https://openalex.org/A5007303691
+  display_name: Andreas Nitsche
+  orcid: https://orcid.org/0000-0001-8185-3176
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I24359323
+    display_name: Robert Koch Institute
+    ror: https://ror.org/01k5qnb77
+    country_code: DE
+    type: government
+  is_corresponding: false
+  raw_affiliation_strings:
+  - Robert Koch Institute, ZBS 1 Highly Pathogenic Viruses, WHO Collaborating Centre
+    for Emerging Infections and Biological Threats, Berlin, Germany
+- author_id: https://openalex.org/A5109246066
+  display_name: "Marcel A. M\xFCller"
+  orcid: null
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210115305
+    display_name: German Center for Infection Research
+    ror: https://ror.org/028s4q594
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I17877952
+    display_name: Sechenov University
+    ror: https://ror.org/02yqqv993
+    country_code: RU
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Charit\xE9-Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4\
+    t Berlin, Humboldt-Universit\xE4t zu Berlin, and Berlin Institute of Health, Institute\
+    \ of Virology, Berlin, Germany"
+  - "German Centre for Infection Research, associated partner Charit\xE9, Berlin,\
+    \ Germany"
+  - Martsinovsky Institute of Medical Parasitology, Tropical and Vector Borne Diseases,
+    Sechenov University, Moscow, Russia
+- author_id: https://openalex.org/A5011461272
+  display_name: Christian Drosten
+  orcid: https://orcid.org/0000-0001-7923-0519
+  author_position: middle
+  institutions:
+  - id: https://openalex.org/I7877124
+    display_name: "Charit\xE9 - Universit\xE4tsmedizin Berlin"
+    ror: https://ror.org/001w7jn25
+    country_code: DE
+    type: healthcare
+  - id: https://openalex.org/I39343248
+    display_name: "Humboldt-Universit\xE4t zu Berlin"
+    ror: https://ror.org/01hcx6992
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I75951250
+    display_name: "Freie Universit\xE4t Berlin"
+    ror: https://ror.org/046ak2485
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I4210115305
+    display_name: German Center for Infection Research
+    ror: https://ror.org/028s4q594
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Charit\xE9-Universit\xE4tsmedizin Berlin, corporate member of Freie Universit\xE4\
+    t Berlin, Humboldt-Universit\xE4t zu Berlin, and Berlin Institute of Health, Institute\
+    \ of Virology, Berlin, Germany"
+  - "German Centre for Infection Research, associated partner Charit\xE9, Berlin,\
+    \ Germany"
+- author_id: https://openalex.org/A5004595481
+  display_name: "Stefan P\xF6hlmann"
+  orcid: https://orcid.org/0000-0001-6086-9136
+  author_position: last
+  institutions:
+  - id: https://openalex.org/I2801496451
+    display_name: German Primate Center
+    ror: https://ror.org/02f99v835
+    country_code: DE
+    type: funder
+  - id: https://openalex.org/I74656192
+    display_name: "University of G\xF6ttingen"
+    ror: https://ror.org/01y9bpm73
+    country_code: DE
+    type: funder
+  is_corresponding: false
+  raw_affiliation_strings:
+  - "Faculty of Biology and Psychology, University G\xF6ttingen, G\xF6ttingen, Germany"
+  - "Infection Biology Unit, German Primate Center \u2013 Leibniz Institute for Primate\
+    \ Research, G\xF6ttingen, Germany"
+referenced_works:
+- https://openalex.org/W1736130314
+- https://openalex.org/W1860515130
+- https://openalex.org/W1964982019
+- https://openalex.org/W1965435260
+- https://openalex.org/W1966238900
+- https://openalex.org/W1972032770
+- https://openalex.org/W1982533785
+- https://openalex.org/W1993577573
+- https://openalex.org/W2003471175
+- https://openalex.org/W2006286994
+- https://openalex.org/W2012987756
+- https://openalex.org/W2021442163
+- https://openalex.org/W2027518730
+- https://openalex.org/W2033260105
+- https://openalex.org/W2038918691
+- https://openalex.org/W2064076043
+- https://openalex.org/W2081719521
+- https://openalex.org/W2081781003
+- https://openalex.org/W2086493164
+- https://openalex.org/W2091671824
+- https://openalex.org/W2098086455
+- https://openalex.org/W2101506295
+- https://openalex.org/W2102637313
+- https://openalex.org/W2106842109
+- https://openalex.org/W2118619855
+- https://openalex.org/W2119111857
+- https://openalex.org/W2131643524
+- https://openalex.org/W2134061616
+- https://openalex.org/W2137096011
+- https://openalex.org/W2140338292
+- https://openalex.org/W2140674451
+- https://openalex.org/W2141787825
+- https://openalex.org/W2146242600
+- https://openalex.org/W2156273941
+- https://openalex.org/W2166650533
+- https://openalex.org/W2167384912
+- https://openalex.org/W2398175096
+- https://openalex.org/W2466982071
+- https://openalex.org/W2470646526
+- https://openalex.org/W2509449660
+- https://openalex.org/W2531018947
+- https://openalex.org/W2531157227
+- https://openalex.org/W2567318426
+- https://openalex.org/W2755284350
+- https://openalex.org/W2772447558
+- https://openalex.org/W2775762540
+- https://openalex.org/W2799524357
+- https://openalex.org/W2899885689
+- https://openalex.org/W2900126499
+- https://openalex.org/W2909787042
+- https://openalex.org/W2970106832
+- https://openalex.org/W2994156659
+- https://openalex.org/W2995902735
+- https://openalex.org/W3001118548
+- https://openalex.org/W3001195213
+- https://openalex.org/W3001465255
+- https://openalex.org/W3001897055
+- https://openalex.org/W3002533507
+- https://openalex.org/W3002539152
+- https://openalex.org/W3004280078
+- https://openalex.org/W3025517997
+- https://openalex.org/W3034453825
+- https://openalex.org/W3034651135
+- https://openalex.org/W3035113287
+- https://openalex.org/W3103590655
+- https://openalex.org/W3158868742
+primary_topic: SARS-CoV-2 and COVID-19 Research
+open_access: true
